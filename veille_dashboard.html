@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Veille Réglementaire</title>
+<style>
+  :root {
+    --bg: #FDF6EC; --surface: #fff; --border: #E8EDD0;
+    --text: #2D1B0E; --text2: #6B5744; --accent: #8B4513;
+    --accent-light: #D4A574; --danger: #C0392B; --success: #27AE60;
+    --score-low: #95A5A6; --score-mid: #F39C12; --score-high: #E67E22; --score-crit: #C0392B;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: var(--bg); color: var(--text); }
+
+  .header { display: flex; align-items: center; justify-content: space-between; padding: 16px 24px; background: var(--surface); border-bottom: 2px solid var(--border); }
+  .header h1 { font-size: 20px; color: var(--accent); }
+  .stats { display: flex; gap: 24px; font-size: 13px; color: var(--text2); }
+  .stats strong { display: block; font-size: 20px; color: var(--text); }
+  .btn-refresh { background: var(--accent); color: white; border: none; padding: 10px 20px; border-radius: 8px; font-size: 14px; cursor: pointer; font-weight: 600; }
+  .btn-refresh:hover { background: #6D3410; }
+  .btn-refresh:disabled { opacity: .6; cursor: wait; }
+
+  .tabs { display: flex; gap: 0; background: var(--surface); border-bottom: 1px solid var(--border); padding: 0 24px; }
+  .tab-btn { padding: 12px 20px; border: none; background: none; cursor: pointer; font-size: 14px; color: var(--text2); border-bottom: 3px solid transparent; }
+  .tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
+  .tab-content { display: none; padding: 20px 24px; }
+  .tab-content.active { display: block; }
+
+  .filters { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-bottom: 20px; }
+  .filters input[type=text] { flex: 1; min-width: 200px; padding: 8px 12px; border: 1px solid var(--border); border-radius: 6px; font-size: 14px; }
+  .filters select { padding: 6px 10px; border: 1px solid var(--border); border-radius: 6px; font-size: 13px; }
+  .filter-label { font-size: 13px; color: var(--text2); }
+
+  .card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 16px; margin-bottom: 12px; }
+  .card-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px; }
+  .card-title { font-size: 15px; font-weight: 600; color: var(--text); text-decoration: none; line-height: 1.4; flex: 1; }
+  .card-title:hover { color: var(--accent); }
+  .card-meta { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-top: 6px; font-size: 12px; color: var(--text2); }
+  .card-summary { font-size: 13px; color: var(--text2); line-height: 1.5; margin-top: 8px; }
+  .card-actions { display: flex; gap: 8px; margin-top: 10px; }
+
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: 600; }
+  .badge-score { color: white; }
+  .badge-score.low { background: var(--score-low); }
+  .badge-score.mid { background: var(--score-mid); }
+  .badge-score.high { background: var(--score-high); }
+  .badge-score.crit { background: var(--score-crit); }
+  .badge-source { background: #EDE8E0; color: var(--text2); }
+  .badge-status { padding: 2px 8px; border-radius: 10px; font-size: 11px; cursor: pointer; border: 1px solid var(--border); background: var(--surface); }
+  .badge-status.new { background: #EBF5FB; color: #2E86C1; border-color: #AED6F1; }
+  .badge-status.important { background: #FDEBD0; color: #CA6F1E; border-color: #F5CBA7; }
+  .badge-status.reviewed { background: #E8F8F5; color: #1E8449; border-color: #A9DFBF; }
+  .badge-status.archived { background: #F2F3F4; color: #7F8C8D; border-color: #D5D8DC; }
+
+  .btn-star { background: none; border: 1px solid var(--border); padding: 4px 10px; border-radius: 6px; cursor: pointer; font-size: 13px; }
+  .btn-star.active { background: #FEF3E2; border-color: var(--accent-light); }
+  .btn-small { padding: 4px 10px; border: 1px solid var(--border); border-radius: 6px; background: var(--surface); cursor: pointer; font-size: 12px; }
+  .btn-small:hover { background: #F5F0EB; }
+  .btn-small.danger { color: var(--danger); border-color: var(--danger); }
+
+  .source-row { display: flex; justify-content: space-between; align-items: center; padding: 12px; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; margin-bottom: 8px; }
+  .source-info { flex: 1; }
+  .source-name { font-weight: 600; font-size: 14px; }
+  .source-url { font-size: 12px; color: var(--text2); word-break: break-all; }
+  .source-actions { display: flex; gap: 6px; }
+
+  .add-form { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 16px; margin-bottom: 16px; display: none; }
+  .add-form.visible { display: block; }
+  .form-row { display: flex; gap: 10px; margin-bottom: 10px; flex-wrap: wrap; }
+  .form-row input, .form-row select { padding: 8px; border: 1px solid var(--border); border-radius: 6px; font-size: 13px; }
+  .form-row input[type=text] { flex: 1; min-width: 150px; }
+
+  .empty { text-align: center; padding: 60px 20px; color: var(--text2); }
+  .empty-icon { font-size: 48px; margin-bottom: 12px; }
+  .empty h3 { font-size: 18px; margin-bottom: 8px; color: var(--text); }
+
+  .toast { position: fixed; bottom: 20px; right: 20px; background: #2D1B0E; color: white; padding: 12px 20px; border-radius: 8px; font-size: 14px; z-index: 1000; opacity: 0; transition: opacity .3s; }
+  .toast.visible { opacity: 1; }
+  .toast.error { background: var(--danger); }
+
+  .digest-controls { display: flex; gap: 8px; margin-bottom: 16px; }
+  .digest-btn { padding: 6px 14px; border: 1px solid var(--border); border-radius: 6px; background: var(--surface); cursor: pointer; font-size: 13px; }
+  .digest-btn.active { background: var(--accent); color: white; border-color: var(--accent); }
+  .digest-stats { display: flex; gap: 24px; margin-bottom: 20px; font-size: 14px; }
+  .digest-stats strong { font-size: 22px; display: block; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Veille R&#233;glementaire</h1>
+  <div class="stats">
+    <div><span>ARTICLES</span><strong id="stat-articles">0</strong></div>
+    <div><span>IMPORTANT</span><strong id="stat-important">0</strong></div>
+    <div><span>EARLY BRIEF</span><strong id="stat-brief">0</strong></div>
+    <div><span>SOURCES</span><strong id="stat-sources">0</strong></div>
+  </div>
+  <button class="btn-refresh" id="btn-refresh" onclick="refreshAll()">Rafra&#238;chir toutes les sources</button>
+</div>
+
+<div class="tabs">
+  <button class="tab-btn active" data-tab="feed">Fil d&#39;actualit&#233;</button>
+  <button class="tab-btn" data-tab="brief">Early Brief</button>
+  <button class="tab-btn" data-tab="sources">Sources</button>
+  <button class="tab-btn" data-tab="digest">Digest</button>
+</div>
+
+<div class="tab-content active" id="tab-feed">
+  <div class="filters">
+    <input type="text" id="search-input" placeholder="Chercher parmi les articles...">
+    <span class="filter-label">Cat&#233;gorie:</span>
+    <select id="filter-cat">
+      <option value="">Toutes</option>
+      <option value="autorite_fr">Autorit&#233;s FR</option>
+      <option value="autorite_eu">Autorit&#233;s EU</option>
+      <option value="autorite_intl">International</option>
+      <option value="presse">Presse</option>
+    </select>
+    <span class="filter-label">Statut:</span>
+    <select id="filter-status">
+      <option value="">Tous</option>
+      <option value="new">Nouveau</option>
+      <option value="important">Important</option>
+      <option value="reviewed">Examin&#233;</option>
+      <option value="archived">Archiv&#233;</option>
+    </select>
+    <span class="filter-label">Score min:</span>
+    <select id="filter-score">
+      <option value="0">Tous</option>
+      <option value="20">20+</option>
+      <option value="40">40+</option>
+      <option value="60">60+</option>
+    </select>
+    <span class="filter-label">Trier:</span>
+    <select id="filter-sort">
+      <option value="score">Score</option>
+      <option value="date">Date</option>
+    </select>
+  </div>
+  <div id="feed-list"></div>
+</div>
+
+<div class="tab-content" id="tab-brief">
+  <div id="brief-list"></div>
+</div>
+
+<div class="tab-content" id="tab-sources">
+  <div style="display:flex; gap:10px; margin-bottom:16px;">
+    <button class="btn-small" onclick="seedSources()">Ajouter les sources par d&#233;faut</button>
+    <button class="btn-small" onclick="toggleAddForm()">+ Ajouter une source</button>
+  </div>
+  <div class="add-form" id="add-form">
+    <div class="form-row">
+      <input type="text" id="new-name" placeholder="Nom de la source">
+      <select id="new-type"><option value="rss">RSS</option><option value="press">Presse</option></select>
+      <select id="new-cat">
+        <option value="autorite_fr">Autorit&#233; FR</option>
+        <option value="autorite_eu">Autorit&#233; EU</option>
+        <option value="autorite_intl">International</option>
+        <option value="presse">Presse</option>
+      </select>
+    </div>
+    <div class="form-row">
+      <input type="text" id="new-url" placeholder="URL du flux RSS">
+      <button class="btn-small" onclick="addSource()">Cr&#233;er</button>
+      <button class="btn-small" onclick="toggleAddForm()">Annuler</button>
+    </div>
+  </div>
+  <div id="sources-list"></div>
+</div>
+
+<div class="tab-content" id="tab-digest">
+  <div class="digest-controls">
+    <button class="digest-btn active" data-days="3">3 jours</button>
+    <button class="digest-btn" data-days="7">7 jours</button>
+    <button class="digest-btn" data-days="14">14 jours</button>
+    <button class="digest-btn" data-days="30">30 jours</button>
+  </div>
+  <div class="digest-stats">
+    <div><span>P&#233;riode</span><strong id="digest-period">7</strong> jours</div>
+    <div><span>Articles</span><strong id="digest-count">0</strong></div>
+  </div>
+  <div id="digest-list"></div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+var allItems = [];
+var allSources = [];
+
+function api(path, opts) {
+  opts = opts || {};
+  return fetch(path, opts).then(function(res) {
+    if (!res.ok) throw new Error("API error " + res.status);
+    return res.json();
+  });
+}
+
+function toast(msg, isError) {
+  var el = document.getElementById("toast");
+  el.textContent = msg;
+  el.className = "toast visible" + (isError ? " error" : "");
+  setTimeout(function() { el.className = "toast"; }, 3000);
+}
+
+function loadItems() {
+  var q = document.getElementById("search-input").value.trim();
+  var url = q ? "/api/items/search?q=" + encodeURIComponent(q) : "/api/items";
+  return api(url).then(function(data) {
+    allItems = data;
+    renderFeed();
+    renderBrief();
+    updateStats();
+  }).catch(function() { toast("Erreur chargement articles", true); });
+}
+
+function loadSources() {
+  return api("/api/sources").then(function(data) {
+    allSources = data;
+    renderSources();
+    updateStats();
+  }).catch(function() { toast("Erreur chargement sources", true); });
+}
+
+function refreshAll() {
+  var btn = document.getElementById("btn-refresh");
+  btn.disabled = true;
+  btn.textContent = "Chargement...";
+  api("/api/ingest", { method: "POST" }).then(function(res) {
+    toast("+" + res.new_items + " nouveaux articles (" + res.total + " total)");
+    return loadItems().then(loadSources);
+  }).catch(function() {
+    toast("Erreur lors du rafraichissement", true);
+  }).then(function() {
+    btn.disabled = false;
+    btn.textContent = "Rafra\u00eechir toutes les sources";
+  });
+}
+
+function seedSources() {
+  api("/api/seed", { method: "POST" }).then(function(res) {
+    toast(res.added + " sources ajout\u00e9es");
+    return loadSources();
+  }).catch(function() { toast("Erreur seed", true); });
+}
+
+function toggleEarlyBrief(hash, current) {
+  api("/api/items/" + hash, {
+    method: "PATCH",
+    headers: {"Content-Type": "application/json"},
+    body: JSON.stringify({ early_brief: !current })
+  }).then(function() {
+    var item = allItems.find(function(i) { return i.hash === hash; });
+    if (item) item.early_brief = !current;
+    renderFeed();
+    renderBrief();
+    updateStats();
+  }).catch(function() { toast("Erreur", true); });
+}
+
+function cycleStatus(hash) {
+  var cycle = ["new", "important", "reviewed", "archived"];
+  var item = allItems.find(function(i) { return i.hash === hash; });
+  if (!item) return;
+  var idx = cycle.indexOf(item.status);
+  var next = cycle[(idx + 1) % cycle.length];
+  api("/api/items/" + hash, {
+    method: "PATCH",
+    headers: {"Content-Type": "application/json"},
+    body: JSON.stringify({ status: next })
+  }).then(function() {
+    item.status = next;
+    renderFeed();
+    updateStats();
+  }).catch(function() { toast("Erreur", true); });
+}
+
+function deleteSource(idx) {
+  api("/api/sources/" + idx, { method: "DELETE" }).then(function() {
+    toast("Source supprim\u00e9e");
+    return loadSources();
+  }).catch(function() { toast("Erreur suppression", true); });
+}
+
+function toggleAddForm() {
+  document.getElementById("add-form").classList.toggle("visible");
+}
+
+function addSource() {
+  var name = document.getElementById("new-name").value.trim();
+  var url = document.getElementById("new-url").value.trim();
+  var type = document.getElementById("new-type").value;
+  var cat = document.getElementById("new-cat").value;
+  if (!name || !url) { toast("Nom et URL requis", true); return; }
+  api("/api/sources", {
+    method: "POST",
+    headers: {"Content-Type": "application/json"},
+    body: JSON.stringify({ name: name, url: url, type: type, category: cat })
+  }).then(function() {
+    toast("Source ajout\u00e9e");
+    document.getElementById("new-name").value = "";
+    document.getElementById("new-url").value = "";
+    toggleAddForm();
+    return loadSources();
+  }).catch(function() { toast("Erreur", true); });
+}
+
+function scoreClass(s) {
+  if (s < 20) return "low";
+  if (s < 40) return "mid";
+  if (s < 60) return "high";
+  return "crit";
+}
+
+function timeAgo(dateStr) {
+  if (!dateStr) return "";
+  var d = new Date(dateStr);
+  var now = new Date();
+  var days = Math.floor((now - d) / 86400000);
+  if (days === 0) return "Aujourd\u0027hui";
+  if (days === 1) return "Hier";
+  if (days < 7) return days + "j";
+  return d.toLocaleDateString("fr-FR", { month: "short", day: "numeric" });
+}
+
+function escapeHtml(s) {
+  var div = document.createElement("div");
+  div.textContent = s || "";
+  return div.innerHTML;
+}
+
+function filterItems(items) {
+  var cat = document.getElementById("filter-cat").value;
+  var status = document.getElementById("filter-status").value;
+  var minScore = parseInt(document.getElementById("filter-score").value) || 0;
+  var sort = document.getElementById("filter-sort").value;
+  var filtered = items.slice();
+  if (cat) filtered = filtered.filter(function(i) { return i.category === cat; });
+  if (status) filtered = filtered.filter(function(i) { return i.status === status; });
+  if (minScore) filtered = filtered.filter(function(i) { return i.score >= minScore; });
+  if (sort === "date") {
+    filtered.sort(function(a, b) { return (b.published || "").localeCompare(a.published || ""); });
+  } else {
+    filtered.sort(function(a, b) { return (b.score || 0) - (a.score || 0); });
+  }
+  return filtered;
+}
+
+function renderCard(item) {
+  var sc = scoreClass(item.score);
+  var eb = item.early_brief;
+  var summary = item.summary ? '<div class="card-summary">' + escapeHtml(item.summary).substring(0, 200) + '</div>' : '';
+  return '<div class="card">' +
+    '<div class="card-header">' +
+      '<a class="card-title" href="' + escapeHtml(item.url) + '" target="_blank">' + escapeHtml(item.title) + '</a>' +
+    '</div>' +
+    '<div class="card-meta">' +
+      '<span class="badge badge-score ' + sc + '">' + item.score + '</span>' +
+      '<span class="badge badge-source">' + escapeHtml(item.source_name) + '</span>' +
+      '<span class="badge-status ' + item.status + '" onclick="cycleStatus(\'' + item.hash + '\')">' + item.status + '</span>' +
+      '<span>' + timeAgo(item.published) + '</span>' +
+    '</div>' +
+    summary +
+    '<div class="card-actions">' +
+      '<button class="btn-star' + (eb ? ' active' : '') + '" onclick="toggleEarlyBrief(\'' + item.hash + '\', ' + eb + ')">' +
+        (eb ? '\u2B50 Early Brief' : '\u2606 Marquer Early Brief') +
+      '</button>' +
+    '</div>' +
+  '</div>';
+}
+
+function renderFeed() {
+  var container = document.getElementById("feed-list");
+  var items = filterItems(allItems);
+  if (items.length === 0) {
+    container.innerHTML = '<div class="empty"><div class="empty-icon">\uD83D\uDCED</div><h3>Aucun article</h3><p>Cliquez sur "Rafra\u00eechir toutes les sources" pour charger les articles</p></div>';
+    return;
+  }
+  container.innerHTML = items.map(renderCard).join("");
+}
+
+function renderBrief() {
+  var container = document.getElementById("brief-list");
+  var items = allItems.filter(function(i) { return i.early_brief; });
+  if (items.length === 0) {
+    container.innerHTML = '<div class="empty"><div class="empty-icon">\u2B50</div><h3>Aucun article marqu\u00e9</h3><p>Marquez des articles pour l\u0027Early Brief depuis le fil d\u0027actualit\u00e9</p></div>';
+    return;
+  }
+  items.sort(function(a, b) { return (b.score || 0) - (a.score || 0); });
+  container.innerHTML = items.map(renderCard).join("");
+}
+
+function renderSources() {
+  var container = document.getElementById("sources-list");
+  if (allSources.length === 0) {
+    container.innerHTML = '<div class="empty"><div class="empty-icon">\uD83C\uDF10</div><h3>Aucune source</h3><p>Cliquez "Ajouter les sources par d\u00e9faut" pour commencer</p></div>';
+    return;
+  }
+  container.innerHTML = allSources.map(function(s, i) {
+    return '<div class="source-row">' +
+      '<div class="source-info">' +
+        '<div class="source-name">' + escapeHtml(s.name) + '</div>' +
+        '<div class="source-url">' + escapeHtml(s.url) + '</div>' +
+        '<span class="badge badge-source">' + (s.type || "rss") + ' \u2022 ' + (s.category || "") + '</span>' +
+      '</div>' +
+      '<div class="source-actions">' +
+        '<button class="btn-small danger" onclick="deleteSource(' + i + ')">Supprimer</button>' +
+      '</div>' +
+    '</div>';
+  }).join("");
+}
+
+function loadDigest(days) {
+  api("/api/digest?days=" + days).then(function(res) {
+    document.getElementById("digest-period").textContent = res.period_days;
+    document.getElementById("digest-count").textContent = res.count;
+    var container = document.getElementById("digest-list");
+    if (res.top_items.length === 0) {
+      container.innerHTML = '<div class="empty"><div class="empty-icon">\uD83D\uDCCA</div><h3>Aucune donn\u00e9e</h3><p>Rafra\u00eechissez les sources pour alimenter le digest</p></div>';
+    } else {
+      container.innerHTML = res.top_items.map(renderCard).join("");
+    }
+  }).catch(function() { toast("Erreur digest", true); });
+}
+
+function updateStats() {
+  document.getElementById("stat-articles").textContent = allItems.length;
+  document.getElementById("stat-important").textContent = allItems.filter(function(i) { return i.status === "important"; }).length;
+  document.getElementById("stat-brief").textContent = allItems.filter(function(i) { return i.early_brief; }).length;
+  document.getElementById("stat-sources").textContent = allSources.length;
+}
+
+// TABS
+document.querySelectorAll(".tab-btn").forEach(function(btn) {
+  btn.addEventListener("click", function() {
+    document.querySelectorAll(".tab-btn").forEach(function(b) { b.classList.remove("active"); });
+    document.querySelectorAll(".tab-content").forEach(function(c) { c.classList.remove("active"); });
+    btn.classList.add("active");
+    document.getElementById("tab-" + btn.dataset.tab).classList.add("active");
+    if (btn.dataset.tab === "digest") loadDigest(7);
+  });
+});
+
+// FILTERS
+var searchTimer;
+document.getElementById("search-input").addEventListener("input", function() {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(loadItems, 300);
+});
+["filter-cat", "filter-status", "filter-score", "filter-sort"].forEach(function(id) {
+  document.getElementById(id).addEventListener("change", renderFeed);
+});
+
+// DIGEST BUTTONS
+document.querySelectorAll(".digest-btn").forEach(function(btn) {
+  btn.addEventListener("click", function() {
+    document.querySelectorAll(".digest-btn").forEach(function(b) { b.classList.remove("active"); });
+    btn.classList.add("active");
+    loadDigest(parseInt(btn.dataset.days));
+  });
+});
+
+// INIT
+loadItems();
+loadSources();
+</script>
+</body>
+</html>
