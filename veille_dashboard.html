@@ -6,7 +6,7 @@
 <title>Veille Réglementaire</title>
 <style>
   :root {
-    --bg: #FDF6EC; --surface: #fff; --border: #E8EDD0;
+    --bg: #FDF6EC; --surface: #fff; --border: #E8DDD0;
     --text: #2D1B0E; --text2: #6B5744; --accent: #8B4513;
     --accent-light: #D4A574; --danger: #C0392B; --success: #27AE60;
     --score-low: #95A5A6; --score-mid: #F39C12; --score-high: #E67E22; --score-crit: #C0392B;
@@ -38,7 +38,7 @@
   .card-title { font-size: 15px; font-weight: 600; color: var(--text); text-decoration: none; line-height: 1.4; flex: 1; }
   .card-title:hover { color: var(--accent); }
   .card-meta { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-top: 6px; font-size: 12px; color: var(--text2); }
-  .card-summary { font-size: 13px; color: var(--text2); line-height: 1.5; margin-top: 8px; }
+  .card-summary { font-size: 13px; color: var(--text2); line-height: 1.5; margin-top: 8px; padding: 8px 10px; background: #f9f5ef; border-radius: 6px; border-left: 3px solid var(--accent-light); }
   .card-actions { display: flex; gap: 8px; margin-top: 10px; }
 
   .badge { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: 600; }
@@ -133,10 +133,18 @@
       <option value="40">40+</option>
       <option value="60">60+</option>
     </select>
+    <span class="filter-label">P&#233;riode:</span>
+    <select id="filter-period">
+      <option value="">Tout</option>
+      <option value="1">24h</option>
+      <option value="2">48h</option>
+      <option value="7">7 jours</option>
+      <option value="30">30 jours</option>
+    </select>
     <span class="filter-label">Trier:</span>
     <select id="filter-sort">
-      <option value="score">Score</option>
       <option value="date">Date</option>
+      <option value="score">Score</option>
     </select>
   </div>
   <div id="feed-list"></div>
@@ -337,10 +345,15 @@ function filterItems(items) {
   var status = document.getElementById("filter-status").value;
   var minScore = parseInt(document.getElementById("filter-score").value) || 0;
   var sort = document.getElementById("filter-sort").value;
+  var period = document.getElementById("filter-period").value;
   var filtered = items.slice();
   if (cat) filtered = filtered.filter(function(i) { return i.category === cat; });
   if (status) filtered = filtered.filter(function(i) { return i.status === status; });
   if (minScore) filtered = filtered.filter(function(i) { return i.score >= minScore; });
+  if (period) {
+    var cutoff = new Date(Date.now() - parseInt(period) * 86400000).toISOString();
+    filtered = filtered.filter(function(i) { return (i.published || "") >= cutoff; });
+  }
   if (sort === "date") {
     filtered.sort(function(a, b) { return (b.published || "").localeCompare(a.published || ""); });
   } else {
@@ -352,7 +365,7 @@ function filterItems(items) {
 function renderCard(item) {
   var sc = scoreClass(item.score);
   var eb = item.early_brief;
-  var summary = item.summary ? '<div class="card-summary">' + escapeHtml(item.summary).substring(0, 200) + '</div>' : '';
+  var summary = item.summary ? '<div class="card-summary">' + escapeHtml(item.summary).substring(0, 400) + (item.summary.length > 400 ? '...' : '') + '</div>' : '';
   return '<div class="card">' +
     '<div class="card-header">' +
       '<a class="card-title" href="' + escapeHtml(item.url) + '" target="_blank">' + escapeHtml(item.title) + '</a>' +
@@ -450,7 +463,7 @@ document.getElementById("search-input").addEventListener("input", function() {
   clearTimeout(searchTimer);
   searchTimer = setTimeout(loadItems, 300);
 });
-["filter-cat", "filter-status", "filter-score", "filter-sort"].forEach(function(id) {
+["filter-cat", "filter-status", "filter-score", "filter-sort", "filter-period"].forEach(function(id) {
   document.getElementById(id).addEventListener("change", renderFeed);
 });
 
