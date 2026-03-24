@@ -81,7 +81,7 @@ KEYWORDS_MEDIUM = [
     "identité numérique", "digital identity", "ppe", "pep",
     "correspondant bancaire", "correspondent banking",
 ]
-SOURCE_BONUS = {"autorite_fr": 15, "autorite_eu": 12, "autorite_intl": 10, "presse": 3}
+SOURCE_BONUS = {"autorite_fr": 15, "autorite_eu": 12, "autorite_intl": 10, "presse": 3, "email": 8}
 
 PRESS_KEYWORDS = [
     "lcb-ft", "aml", "blanchiment", "money laundering", "sanction",
@@ -364,6 +364,33 @@ class VeilleHandler(BaseHTTPRequestHandler):
             })
             save_data(data)
             self._json_response({"ok": True})
+            return
+
+        if path == "/api/items":
+            body = json.loads(self._read_body())
+            items = body if isinstance(body, list) else [body]
+            existing_hashes = {it["hash"] for it in data["items"]}
+            added = 0
+            for item in items:
+                h = item.get("hash") or item_hash(item.get("title", ""), item.get("url", ""))
+                if h not in existing_hashes:
+                    item["hash"] = h
+                    item.setdefault("source_type", "email")
+                    item.setdefault("category", "email")
+                    item.setdefault("status", "new")
+                    item.setdefault("early_brief", False)
+                    if "score" not in item:
+                        item["score"] = score_item(
+                            item.get("title", ""),
+                            item.get("summary", ""),
+                            item.get("category", "email"),
+                        )
+                    data["items"].append(item)
+                    existing_hashes.add(h)
+                    added += 1
+            if added:
+                save_data(data)
+            self._json_response({"added": added, "total": len(data["items"])})
             return
 
         self.send_error(404)
