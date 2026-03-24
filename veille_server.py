@@ -40,17 +40,23 @@ SEED_SOURCES = [
     {"name": "EBA - European Banking Authority", "url": "https://www.eba.europa.eu/rss.xml", "type": "rss", "category": "autorite_eu"},
     {"name": "ESMA", "url": "https://www.esma.europa.eu/rss", "type": "rss", "category": "autorite_eu"},
     {"name": "ECB - Banking Supervision", "url": "https://www.bankingsupervision.europa.eu/rss/press.html", "type": "rss", "category": "autorite_eu"},
+    {"name": "ECB - Press Releases", "url": "https://www.ecb.europa.eu/rss/press.html", "type": "rss", "category": "autorite_eu"},
+    {"name": "ECB - Blog", "url": "https://www.ecb.europa.eu/rss/blog.html", "type": "rss", "category": "autorite_eu"},
     {"name": "EU - EUR-Lex Financial", "url": "https://eur-lex.europa.eu/RSSNewOJ", "type": "rss", "category": "autorite_eu"},
     {"name": "AMLA (EU AML Authority)", "url": "https://www.amla.europa.eu/rss.xml", "type": "rss", "category": "autorite_eu"},
     # International
     {"name": "FATF / GAFI", "url": "https://www.fatf-gafi.org/rss/fatf-news.xml", "type": "rss", "category": "autorite_intl"},
     {"name": "BIS - Bank for International Settlements", "url": "https://www.bis.org/doclist/pressrelease.rss", "type": "rss", "category": "autorite_intl"},
     {"name": "OFAC (US Treasury)", "url": "https://ofac.treasury.gov/rss.xml", "type": "rss", "category": "autorite_intl"},
+    {"name": "Egmont Group (FIUs)", "url": "https://egmontgroup.org/feed/", "type": "rss", "category": "autorite_intl"},
+    {"name": "OpenSanctions", "url": "https://www.opensanctions.org/changelog/rss/", "type": "rss", "category": "autorite_intl"},
     # Presse spécialisée (filtrée par mots-clés)
     {"name": "Les Echos Finance", "url": "https://www.lesechos.fr/rss/rss_finance.xml", "type": "press", "category": "presse"},
     {"name": "Le Monde Économie", "url": "https://www.lemonde.fr/economie/rss_full.xml", "type": "press", "category": "presse"},
     {"name": "Reuters Financial Regulation", "url": "https://www.reuters.com/rssFeed/financial-regulation", "type": "press", "category": "presse"},
     {"name": "Compliance Week", "url": "https://www.complianceweek.com/rss", "type": "press", "category": "presse"},
+    {"name": "FinCrime Central", "url": "https://fincrimecentral.com/feed/", "type": "press", "category": "presse"},
+    {"name": "Financial Crime News", "url": "https://thefinancialcrimenews.com/feed/", "type": "press", "category": "presse"},
 ]
 
 # ---------------------------------------------------------------------------
