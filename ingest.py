@@ -35,6 +35,10 @@ SEED_SOURCES = [
     {"name": "ECB - Blog", "url": "https://www.ecb.europa.eu/rss/blog.html", "type": "rss", "category": "autorite_eu"},
     {"name": "EDPB - European Data Protection Board", "url": "https://www.edpb.europa.eu/rss_en", "type": "rss", "category": "autorite_eu"},
     {"name": "AMLA - Anti-Money Laundering Authority", "url": "https://www.amla.europa.eu/node/19/rss_en", "type": "rss", "category": "autorite_eu"},
+    {"name": "ESMA - European Securities and Markets Authority", "url": "https://www.esma.europa.eu/rss.xml", "type": "rss", "category": "autorite_eu"},
+    {"name": "Europol", "url": "https://www.europol.europa.eu/cms/api/rss/news", "type": "rss", "category": "autorite_eu"},
+    {"name": "Eurojust", "url": "https://www.eurojust.europa.eu/rss.xml", "type": "rss", "category": "autorite_eu"},
+    {"name": "Commission EU - Press", "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en&pageSize=50", "type": "rss", "category": "autorite_eu"},
     # International
     {"name": "BIS - Speeches", "url": "https://www.bis.org/doclist/cbspeeches.rss", "type": "rss", "category": "autorite_intl"},
     {"name": "BIS - Working Papers", "url": "https://www.bis.org/doclist/wppubls.rss", "type": "rss", "category": "autorite_intl"},
@@ -48,13 +52,11 @@ SEED_SOURCES = [
     {"name": "JORF - Blanchiment", "url": "https://legifrss.org/latest?q=blanchiment", "type": "rss", "category": "autorite_fr"},
     {"name": "JORF - Financier", "url": "https://legifrss.org/latest?q=financier", "type": "rss", "category": "autorite_fr"},
     {"name": "JORF - Bancaire", "url": "https://legifrss.org/latest?q=bancaire", "type": "rss", "category": "autorite_fr"},
-    {"name": "JORF - Sanctions financières", "url": "https://legifrss.org/latest?q=sanctions+financières+OR+gel+avoirs+OR+embargo", "type": "rss", "category": "autorite_fr"},
+    {"name": "JORF - Gel des avoirs", "url": "https://legifrss.org/latest?q=gel+des+avoirs", "type": "rss", "category": "autorite_fr"},
     {"name": "JORF - Crypto/PSAN", "url": "https://legifrss.org/latest?q=crypto", "type": "rss", "category": "autorite_fr"},
     # Presse spécialisée
     {"name": "Les Echos Finance", "url": "https://www.lesechos.fr/rss/rss_finance.xml", "type": "press", "category": "presse"},
     {"name": "Le Monde Économie", "url": "https://www.lemonde.fr/economie/rss_full.xml", "type": "press", "category": "presse"},
-    {"name": "Reuters Financial Regulation", "url": "https://www.reuters.com/rssFeed/financial-regulation", "type": "press", "category": "presse"},
-    {"name": "Compliance Week", "url": "https://www.complianceweek.com/rss", "type": "press", "category": "presse"},
     {"name": "FinCrime Central", "url": "https://fincrimecentral.com/feed/", "type": "press", "category": "presse"},
     {"name": "Financial Crime News", "url": "https://thefinancialcrimenews.com/feed/", "type": "press", "category": "presse"},
     {"name": "GAFI/FATF Statements", "url": "https://www.fatf-gafi.org/rss/fatf-news.xml", "type": "rss", "category": "autorite_intl"},
@@ -127,11 +129,12 @@ CORE_COMPLIANCE_SOURCES = {
     "OFAC (US Treasury)",
     "PNF (Parquet National Financier)",
     "JORF - Blanchiment",
-    "JORF - Sanctions financières",
+    "JORF - Gel des avoirs",
     "GAFI/FATF Statements",
     "FinCrime Central",
     "Financial Crime News",
     "AMLA - Anti-Money Laundering Authority",
+    "ESMA - European Securities and Markets Authority",
 }
 # Sources qui passent mais avec filtre léger (keyword compliance)
 # AMF Actualités, EBA, ECB, ANSSI, etc. = doivent matcher des keywords
@@ -368,6 +371,39 @@ def is_off_topic_for_compliance(title, summary, source_name):
         if any(k in combined for k in off_topic):
             return True
 
+    # ── ESMA: only keep compliance/enforcement/MiCA/market abuse ──
+    if "esma" in src:
+        must_match = [
+            "aml", "money laundering", "blanchiment", "sanction", "compliance",
+            "conformité", "mica", "dora", "market abuse", "abus de marché",
+            "enforcement", "supervisory", "supervision", "investor protection",
+            "crypto", "sustainable finance", "benchmark", "transparency",
+            "short selling", "prospectus", "mifid", "emir", "ucits", "aifmd",
+            "guidelines", "consultation", "q&a", "opinion", "technical standard",
+        ]
+        if not any(k in combined for k in must_match):
+            return True
+
+    # ── Europol: only keep financial crime related ──
+    if "europol" in src:
+        must_match = [
+            "money laundering", "financial crime", "fraud", "terrorism financing",
+            "asset recovery", "cryptocurrency", "dark web", "cybercrime",
+            "sanctions", "organised crime", "criminal network", "blanchiment",
+        ]
+        if not any(k in combined for k in must_match):
+            return True
+
+    # ── Commission EU: only keep sanctions/AML/financial regulation ──
+    if "commission eu" in src:
+        must_match = [
+            "sanction", "restrictive measures", "anti-money laundering", "aml",
+            "financial services", "banking", "payment", "crypto", "mica", "dora",
+            "capital markets", "market abuse", "compliance", "regulation",
+        ]
+        if not any(k in combined for k in must_match):
+            return True
+
     return False
 
 
@@ -448,10 +484,17 @@ def save_data(data):
 def fetch_rss(url, source_name, source_type, category):
     import feedparser
     import urllib.request
+    import urllib.parse
 
     try:
+        # Encode URL properly (handle accented characters like è in query params)
+        parsed = urllib.parse.urlparse(url)
+        safe_url = urllib.parse.urlunparse(parsed._replace(
+            path=urllib.parse.quote(parsed.path, safe='/'),
+            query=urllib.parse.quote(parsed.query, safe='=&+')
+        ))
         # Timeout 15s par flux pour éviter les workflows GitHub Actions trop longs
-        req = urllib.request.Request(url, headers={"User-Agent": "EarlyBrief-Veille/1.0"})
+        req = urllib.request.Request(safe_url, headers={"User-Agent": "EarlyBrief-Veille/1.0"})
         response = urllib.request.urlopen(req, timeout=15)
         feed = feedparser.parse(response.read())
     except Exception as e:
