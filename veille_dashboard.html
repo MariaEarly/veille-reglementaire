@@ -35,6 +35,7 @@
     }
     a { color: var(--green); text-decoration: none; }
     a:hover { text-decoration: underline; }
+
     /* Header */
     .header {
       background: var(--dark);
@@ -63,6 +64,7 @@
     }
     .stat-item { display: flex; align-items: baseline; gap: 6px; color: var(--subtle); }
     .stat-item strong { font-size: 1.3rem; color: var(--cream); font-weight: 600; }
+
     /* Nav tabs */
     .nav {
       max-width: 1200px; margin: 0 auto; padding: 20px 32px 0;
@@ -84,10 +86,12 @@
       font-size: 0.72rem; padding: 1px 7px;
       margin-left: 6px; font-weight: 500;
     }
+
     /* Content */
     .content {
       max-width: 1200px; margin: 0 auto; padding: 24px 32px 64px;
     }
+
     /* Toolbar */
     .toolbar {
       display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 24px;
@@ -114,6 +118,7 @@
       background: var(--surface); cursor: pointer; color: var(--text);
     }
     .filter-select:focus { outline: none; border-color: var(--green); }
+
     /* Cards */
     .cards { display: flex; flex-direction: column; gap: 2px; }
     .card {
@@ -162,6 +167,7 @@
     .tag-status.important { background: var(--rust-light); color: var(--rust); }
     .tag-status.reviewed { background: #e8eaf0; color: #3a4a80; }
     .tag-status.archived { background: #ece8e0; color: var(--subtle); }
+
     .card-summary {
       color: var(--muted); font-size: 0.88rem; line-height: 1.55;
       display: -webkit-box; -webkit-line-clamp: 2;
@@ -193,6 +199,7 @@
     }
     .btn-star:hover { background: #fff8e1; border-color: #d4a820; }
     .btn-star.active { background: #fff8e1; border-color: #d4a820; }
+
     /* Sources tab */
     .sources-grid {
       display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -207,11 +214,13 @@
     .source-card h3 { font-size: 0.92rem; font-weight: 500; }
     .source-card .meta { color: var(--subtle); font-size: 0.78rem; font-family: 'IBM Plex Mono', monospace; }
     .source-card .cnt { margin-left: auto; font-weight: 700; font-size: 1.1rem; color: var(--rust); font-family: 'IBM Plex Mono', monospace; }
+
     /* Empty & loading */
     .empty, .loading {
       text-align: center; padding: 48px 24px; color: var(--subtle);
       font-family: 'IBM Plex Mono', monospace; font-size: 0.9rem;
     }
+
     /* Toast */
     .toast {
       position: fixed; bottom: 24px; right: 24px; z-index: 200;
@@ -221,6 +230,7 @@
       transition: all 200ms ease;
     }
     .toast.show { opacity: 1; transform: translateY(0); }
+
     /* Responsive */
     @media (max-width: 768px) {
       .header { padding: 20px 16px; }
@@ -318,9 +328,10 @@ const state = { items: [], sources: [], activeTab: 'feed' };
 // --- Fetch from API ---
 async function fetchData() {
   try {
+    const opts = { credentials: 'include' };
     const [itemsRes, sourcesRes] = await Promise.all([
-      fetch(API_BASE + '/api/items'),
-      fetch(API_BASE + '/api/sources'),
+      fetch(API_BASE + '/api/items', opts),
+      fetch(API_BASE + '/api/sources', opts),
     ]);
     if (itemsRes.ok) {
       const raw = await itemsRes.json();
@@ -536,6 +547,7 @@ window.toggleBrief = function(id) {
     fetch(API_BASE + '/api/items/' + item.hash, {
       method: 'PATCH',
       headers: {'Content-Type':'application/json'},
+      credentials: 'include',
       body: JSON.stringify({early_brief: item.early_brief})
     }).catch(() => {});
     showToast(item.early_brief ? '★ Ajouté à Early Brief' : 'Retiré d\'Early Brief');
@@ -552,6 +564,7 @@ window.cycleStatus = function(id) {
     fetch(API_BASE + '/api/items/' + item.hash, {
       method: 'PATCH',
       headers: {'Content-Type':'application/json'},
+      credentials: 'include',
       body: JSON.stringify({status: item.status})
     }).catch(() => {});
     showToast('Statut : ' + item.status);
