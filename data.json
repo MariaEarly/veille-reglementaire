@@ -195,6 +195,13 @@
       "type": "press",
       "category": "presse",
       "active": true
+    },
+    {
+      "name": "JORF - Sanctions financières",
+      "url": "https://legifrss.org/latest?q=sanctions+financières+OR+gel+avoirs+OR+embargo",
+      "type": "rss",
+      "category": "autorite_fr",
+      "active": true
     }
   ],
   "items": [
@@ -1781,5 +1788,5 @@
       "early_brief": false
     }
   ],
-  "last_update": "2026-03-25T21:15:22.860835+00:00"
+  "last_update": "2026-03-25T21:29:27.752587+00:00"
 }
