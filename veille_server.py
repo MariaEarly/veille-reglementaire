@@ -36,11 +36,13 @@ SEED_SOURCES = [
     {"name": "DGCCRF", "url": "https://www.economie.gouv.fr/dgccrf/rss", "type": "rss", "category": "autorite_fr"},
     {"name": "DG Trésor", "url": "https://www.tresor.economie.gouv.fr/Flux/Atom/Articles/Home", "type": "rss", "category": "autorite_fr"},
     {"name": "CNIL", "url": "https://www.cnil.fr/fr/rss.xml", "type": "rss", "category": "autorite_fr"},
+    {"name": "ANSSI - Alertes", "url": "https://www.cert.ssi.gouv.fr/feed/", "type": "rss", "category": "autorite_fr"},
     # Autorités EU
     {"name": "EBA - European Banking Authority", "url": "https://www.eba.europa.eu/rss.xml", "type": "rss", "category": "autorite_eu"},
     {"name": "ECB - Banking Supervision", "url": "https://www.bankingsupervision.europa.eu/rss/press.html", "type": "rss", "category": "autorite_eu"},
     {"name": "ECB - Press Releases", "url": "https://www.ecb.europa.eu/rss/press.html", "type": "rss", "category": "autorite_eu"},
     {"name": "ECB - Blog", "url": "https://www.ecb.europa.eu/rss/blog.html", "type": "rss", "category": "autorite_eu"},
+    {"name": "EDPB - European Data Protection Board", "url": "https://www.edpb.europa.eu/rss_en", "type": "rss", "category": "autorite_eu"},
     # International
     {"name": "BIS - Speeches", "url": "https://www.bis.org/doclist/cbspeeches.rss", "type": "rss", "category": "autorite_intl"},
     {"name": "BIS - Working Papers", "url": "https://www.bis.org/doclist/wppubls.rss", "type": "rss", "category": "autorite_intl"},
@@ -63,6 +65,7 @@ SEED_SOURCES = [
     {"name": "Compliance Week", "url": "https://www.complianceweek.com/rss", "type": "press", "category": "presse"},
     {"name": "FinCrime Central", "url": "https://fincrimecentral.com/feed/", "type": "press", "category": "presse"},
     {"name": "Financial Crime News", "url": "https://thefinancialcrimenews.com/feed/", "type": "press", "category": "presse"},
+    {"name": "GAFI/FATF Statements", "url": "https://www.fatf-gafi.org/rss/fatf-news.xml", "type": "rss", "category": "autorite_intl"},
 ]
 
 # ---------------------------------------------------------------------------
@@ -135,6 +138,7 @@ CORE_COMPLIANCE_SOURCES = {
     "PNF (Parquet National Financier)",
     "JORF - Blanchiment",
     "JORF - Sanctions financières",
+    "ANSSI - Alertes",
 }
 
 EXCLUDE_KEYWORDS = [
