@@ -202,6 +202,27 @@
       "type": "rss",
       "category": "autorite_fr",
       "active": true
+    },
+    {
+      "name": "ANSSI - Alertes",
+      "url": "https://www.cert.ssi.gouv.fr/feed/",
+      "type": "rss",
+      "category": "autorite_fr",
+      "active": true
+    },
+    {
+      "name": "EDPB - European Data Protection Board",
+      "url": "https://www.edpb.europa.eu/rss_en",
+      "type": "rss",
+      "category": "autorite_eu",
+      "active": true
+    },
+    {
+      "name": "GAFI/FATF Statements",
+      "url": "https://www.fatf-gafi.org/rss/fatf-news.xml",
+      "type": "rss",
+      "category": "autorite_intl",
+      "active": true
     }
   ],
   "items": [
@@ -217,7 +238,10 @@
       "summary": "",
       "score": 35,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "ai_summary": null
     },
     {
       "hash": "e93715d808a946f8",
@@ -231,7 +255,10 @@
       "summary": "Article 1Sont rendues obligatoires, pour tous les employeurs et tous les salariés compris dans le champ d'application de l'accord du 23 avril 2015 relatif au champ d'application de la branche ferroviaire, les stipulations de l'avenant du 17 décembre 2025 à l'accord du 6 décembre 2021 relatif aux classifications et aux rémunérations, conclu dans le cadre de la branche ferroviaire.Article 2L'extension des effets et sanctions de l'avenant susvisé prend effet à compter de la date de publication du p",
       "score": 35,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "ai_summary": null
     },
     {
       "hash": "970fc6e5767d9832",
@@ -245,7 +272,10 @@
       "summary": "",
       "score": 32,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "ai_summary": null
     },
     {
       "hash": "7ddd3a5a005d883e",
@@ -259,7 +289,10 @@
       "summary": "Actualité                  Gestion d&#039;actifs                    Financement participatif : l’AMF rappelle aux plateformes leurs obligations en matière de traitement des réclamations",
       "score": 30,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "action",
+      "ai_summary": null
     },
     {
       "hash": "5476379967a3934d",
@@ -273,7 +306,10 @@
       "summary": "Communiqué AMF                  Innovation                    L&#039;Autorité des marchés financiers, la Banque de France et la direction générale du Trésor lancent un groupe stratégique de place dédié à l&#039;innovation et à la tokenisation de la finance",
       "score": 30,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "67725d0d62859720",
@@ -287,7 +323,10 @@
       "summary": "En conformité avec la Norme Spéciale de Diffusion des Données (NSDD) du FMI, telle qu’appliquée au sein du Système Européen de Banques Centrales, les avoirs mensuels de réserves et les disponibilités en devises sont depuis mai 2000 valorisés en euros sur la base des cours de change de fin de mois.",
       "score": 30,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "44928b62bae405ba",
@@ -301,7 +340,10 @@
       "summary": "En conformité avec la Norme Spéciale de Diffusion des Données (NSDD) du FMI, telle qu’appliquée au sein du Système Européen de Banques Centrales, les avoirs mensuels de réserves et les disponibilités en devises sont depuis mai 2000 valorisés en euros sur la base des cours de change de fin de mois.",
       "score": 30,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "92b7bc37b1aab981",
@@ -315,7 +357,10 @@
       "summary": "The [statement-level data export](https://www.opensanctions.org/docs/statements/) we publish for the `default` dataset currently includes metadata statements, identified by the `id` property name (which is not part of the [FollowTheMoney data model](/reference/)). These statements are not part of the data payload but rather entity checksums used internally by OpenSanctions for change detection. As they have caused some confusion, we are planning to remove them from the `statements.csv` export in",
       "score": 30,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "b67005de69dde053",
@@ -329,7 +374,10 @@
       "summary": "Le 19 mars 2026, le président du Tribunal judiciaire de Paris a validé deux conventions judiciaires d’intérêt public (CJIP) conclues par le Parquet national financier, respectivement avec les sociétés COLAS RAIL ASIA et BALT USA.  Les conventions prévoient ainsi un programme de mise en conformité et le paiement d’une amende d’intérêt public d’un montant de 29 745 974€ s’agissant de COLAS RAIL ASIA (https://www.tribunal-de-paris.justice.fr/sites/default/files/2026-03/260317_CJIP%20COLAS%20RAIL%20",
       "score": 30,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "07ab1fec70aba252",
@@ -343,7 +391,10 @@
       "summary": "Article 1L'intitulé de la sous-section 4 de la section 12 du chapitre Ier du titre III du livre Ier de la partie réglementaire du code monétaire et financier est remplacé par l'intitulé suivant : « Déclaration à la Banque de France des comptes clôturés et des vols, pertes, contrefaçons ou falsifications de chèques ou de formules de chèques. »Article 2Le premier alinéa de l'article R. 131-32 du même code est ainsi modifié :1° A la première phrase :a) Après les mots : « dans son établissement », s",
       "score": 30,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": "DÉCRET",
+      "action_class": "action",
+      "ai_summary": null
     },
     {
       "hash": "b9d33caf55883b3e",
@@ -357,7 +408,10 @@
       "summary": "EBA E-mail alert 23 March, 2026\n\n  \n    Date\n          23/03/2026\n\n      \n\nAnonymous (not verified)\n\nMon, 03/23/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          The European banking sector enters period of geopolitical uncertainty from a position of strength\n      ",
       "score": 27,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "698fef318d98b698",
@@ -371,7 +425,10 @@
       "summary": "EBA E-mail alert 13 March, 2026\n\n  \n    Date\n          13/03/2026\n\n      \n\nAnonymous (not verified)\n\nFri, 03/13/2026 - 17:00\n\n\n            \n\n      \n  \n    Final Q&amp;As\n          2024_7220 Use of credit assessments by ECAIs not in scope of Regulation (EC) No 1060/2009.\n          2026_7731 COREP Additional Liquidity Monitoring Metrics - technical implementation of DPM v4.2 for template C_67.00.a and C_67.00.w - SubCategory \"new_CO4\" used instead of \"new_CO1\"\n      ",
       "score": 27,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "5a0c6ea1b923ab5b",
@@ -385,7 +442,10 @@
       "summary": "Communiqué AMF                  Epargne de long terme              Actions              ETF                    La Bourse séduit un nombre record d’investisseurs particuliers en 2025",
       "score": 25,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "532c73acfd458901",
@@ -399,7 +459,10 @@
       "summary": "Actualité                  Epargne salariale                    Semaine de l&#039;épargne salariale 2026 : l&#039;AMF donne les clés pour comprendre ses avantages",
       "score": 25,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "775e686216fd10f4",
@@ -413,7 +476,10 @@
       "summary": "Communiqué AMF                  Mise en garde              Protection de l&#039;épargne              Abus de marché                    L’AMF requiert la prolongation de la suspension du titre RAPID NUTRITION",
       "score": 25,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "206dfbfea3ea967d",
@@ -427,7 +493,10 @@
       "summary": "Actualité                  Actions              Post-marché              Marché action                    L’AMF analyse la typologie des acteurs sur le marché actions français au cours des cinq dernières années",
       "score": 25,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "d3293746286a10ff",
@@ -441,7 +510,10 @@
       "summary": "Communiqué AMF                  Placements collectifs              Commercialisation              Produits financiers                    Edition spéciale du Baromètre AMF : des écarts marqués persistent entre les femmes et les hommes en matière d’investissement",
       "score": 25,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "322cb5de6ffe778c",
@@ -455,7 +527,10 @@
       "summary": "Rapport / étude                  Epargne de long terme              Actions              Placements collectifs                    Focus du Baromètre AMF de l&#039;épargne et de l’investissement 2025 : les femmes et l&#039;investissement",
       "score": 25,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "250ce69c0846ecdb",
@@ -469,7 +544,10 @@
       "summary": "Communiqué AMF                  Supervision              Finance durable              Commercialisation                    L&#039;AMF publie les enseignements de ses contrôles sur la prise en compte des préférences de durabilité des clients",
       "score": 25,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "50cf724b1fe0adf2",
@@ -483,7 +561,10 @@
       "summary": "Actualité                  Politique RH              Institutionnel                    L&#039;AMF obtient un index égalité femmes-hommes de 97/100 pour l&#039;année 2025",
       "score": 25,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "e09f0c5181289d89",
@@ -497,7 +578,10 @@
       "summary": "Depuis 2021, la situation financière des entreprises de la base industrielle et technologique de défense s’améliore, avec des taux de marge et d’investissement en progression, une meilleure rentabilité et un endettement en baisse. Toutefois, elles font toujours face à un besoin élevé de trésorerie et des délais de paiement élevés. La hausse des dépenses de défense, et une offre de financement qui se développe, pourraient renforcer cette amélioration, et générer un surcroît d’activité économique.",
       "score": 25,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "f71a4f56b9f83119",
@@ -511,7 +595,10 @@
       "summary": "Keynote speech by Mr Pan Gongsheng, Governor of the People's Bank of China, at the 2026 China Development Forum, Beijing, 22 March 2026.",
       "score": 25,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "7e557626f0b48426",
@@ -525,7 +612,10 @@
       "summary": "Article 1Il est donné délégation de compétences au secrétaire général de l'Autorité de contrôle prudentiel et de résolution pour prendre les décisions individuelles suivantes, dans les domaines énumérés ci-après, sauf lorsqu'elles portent également sur une autre décision liée ne faisant pas elle-même l'objet d'une délégation de compétences.I. - En matière de décisions liées au contrôle1. L'assujettissement au contrôle de l'Autorité de contrôle prudentiel et de résolution d'une personne ou d'un i",
       "score": 25,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "d89a3829f0f0aafb",
@@ -539,7 +629,10 @@
       "summary": "Article Par arrêté du ministre de l'intérieur et du ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique en date du 18 mars 2026, vu le code monétaire et financier, notamment ses articles L. 562-2 et suivants, les fonds et ressources économiques qui appartiennent à, sont possédés, détenus ou contrôlés par M. Mohamed HATTAY, né le 8 novembre 1991 à Strasbourg (67), ainsi que les fonds et ressources économiques qui appartiennent à, sont possédés, détenu",
       "score": 25,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "ai_summary": null
     },
     {
       "hash": "0b674b9da7320ba5",
@@ -553,7 +646,10 @@
       "summary": "Article 1L'article 1er de l'arrêté du 20 août 2019 susvisé est remplacé par les dispositions suivantes :« Art. 1. - Les pays tiers mentionnés au 7 de l'article L. 440-2 du code monétaire et financier sont l'Australie, le Canada, les Etats-Unis, Guernesey, Hong-Kong, les Iles Caïmans, Jersey, le Japon, le Royaume-Uni, Singapour et la Suisse. »Article 2L'article 2 de l'arrêté du 20 août 2019 susvisé est remplacé par les dispositions suivantes :« Art. 2. - Les dispositions du présent arrêté sont ap",
       "score": 25,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "ai_summary": null
     },
     {
       "hash": "e509bc4b8853cf50",
@@ -567,7 +663,10 @@
       "summary": "Article 1Au cinquième alinéa de l'article D. 440-3 du code monétaire et financier, après les mots : « 19 décembre 2012 », sont insérés les mots : « sauf si ces derniers justifient, pour couvrir tout ou partie des engagements vis-à-vis de la chambre de compensation, d'une garantie ou d'un engagement équivalent accordé par l'une des entités mentionnées aux points 1, 2 et 5 de l'article L. 440-2 et dans les conditions fixées par les règles de fonctionnement. »Article 2Au I des articles D. 762-12, D",
       "score": 25,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": "DÉCRET",
+      "action_class": "action",
+      "ai_summary": null
     },
     {
       "hash": "9b2803453f91b3fa",
@@ -581,7 +680,10 @@
       "summary": "\n\n\n\n\n\n\nThe UK has published its new Anti Fraud Strategy (2026 -2029), which like the last one published in 2023 has much to commend it. The highlight is the Online Crime Centre a public private collaboration that is at last following the Anti Scam Centres set up up by leading countries in Asia including Singapore in 2019 and more substantively in 2022.\nIt has though one glaring omission. It has no target. This may be because the previous Strategy had one but that didn’t work out so well, so mayb",
       "score": 23,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "f59dd65eb9aa1f1c",
@@ -595,7 +697,10 @@
       "summary": "\n\n\n\n\n\n\nNow published, &#8220;Sanctioned&#8221;, the 3rd book in the JIM SIMONS series. To order your copy in paperback or Kindle from Amazon, see HERE.\n\n\n\n\n\n\n\n\n\n\n\n\nIn 2003, the war on terror was in full flow and had taken an unexpected turn. Saddam Hussein’s Iraq had been invaded and the dictator’s regime had fallen in just a few weeks. Whilst the Americans and their allies were now in charge in Baghdad, they were still missing what they wanted most, the “Ace of Spades”, as he was known by US In",
       "score": 23,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "ai_summary": null
     },
     {
       "hash": "3370b3c2b25627fa",
@@ -609,7 +714,10 @@
       "summary": "EBA E-mail alert 24 March, 2026\n\n  \n    Date\n          24/03/2026\n\n      \n\nAnonymous (not verified)\n\nTue, 03/24/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          ​The EBA launches call for papers for its 2026 Policy Research Workshop \n          The EBA publishes its second MREL impact assessment Report  \n      ",
       "score": 22,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "cbd20b25aa07911a",
@@ -623,7 +731,10 @@
       "summary": "EBA E-mail alert 19 March, 2026\n\n  \n    Date\n          19/03/2026\n\n      \n\nAnonymous (not verified)\n\nThu, 03/19/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          The EBA publishes final draft amending technical standards shortening the timing for the application for prior permission to reduce own funds and eligible liabilities instruments\n      ",
       "score": 22,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "598e15ea93eae548",
@@ -637,7 +748,10 @@
       "summary": "EBA E-mail alert 17 March, 2026\n\n  \n    Date\n          17/03/2026\n\n      \n\nAnonymous (not verified)\n\nTue, 03/17/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          The EBA consults on regulatory products on Initial Margin Model Authorisation\n          The EBA issues revised list of ITS validation rules\n      \n\n  \n    Consultations\n          Consultation on Guidelines on the authorisation of initial margin models\n          Consultation on Regulatory Technical Standards on the au",
       "score": 22,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "4ee12739442de036",
@@ -651,7 +765,10 @@
       "summary": "EBA E-mail alert 5 March, 2026\n\n  \n    Date\n          05/03/2026\n\n      \n\nAnonymous (not verified)\n\nThu, 03/05/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          The EBA sets out harmonised reporting standards to enhance oversight of third‑country branches \n      ",
       "score": 22,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "5bc31becae431e17",
@@ -665,7 +782,10 @@
       "summary": "EBA E-mail alert 2 March, 2026\n\n  \n    Date\n          02/03/2026\n\n      \n\nAnonymous (not verified)\n\nMon, 03/02/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          The EBA publishes its final Guidelines on instruments for the capital endowment requirement for third-country branches\n      ",
       "score": 22,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "862306cd37ec42d5",
@@ -679,7 +799,10 @@
       "summary": "EBA E-mail alert 27 February, 2026\n\n  \n    Date\n          27/02/2026\n\n      \n\nAnonymous (not verified)\n\nFri, 02/27/2026 - 17:00\n\n\n            \n\n      \n  \n    Final Q&amp;As\n          2026_7688 US Hard test: adequacy of considering US charge-off rates corresponding to loss rates for exposures secured by residential property or commercial immovable property situated within the territory of the US\n      ",
       "score": 22,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "ded2a0d7db30638e",
@@ -693,7 +816,10 @@
       "summary": "EBA E-mail alert 26 February, 2026\n\n  \n    Date\n          26/02/2026\n\n      \n\nAnonymous (not verified)\n\nThu, 02/26/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          The EBA responds to the Commission’s proposed amendments to the draft technical standards on equivalent legal mechanism\n      ",
       "score": 22,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "922447e2eeb9ab5f",
@@ -707,7 +833,10 @@
       "summary": "",
       "score": 22,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "29fd45bcfd2ac631",
@@ -721,7 +850,10 @@
       "summary": "",
       "score": 22,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "9d71c0958e14b1db",
@@ -735,7 +867,10 @@
       "summary": "Actualité                  Intelligence artificielle              Europe &amp; international                    Appel à candidatures : l’OICV lance un programme sous la forme d’un TechSprint pour favoriser le développement d’un prototype d’outil pédagogique pour accompagner les épargnants dans les marchés financiers à l’ère de l’intelligence...",
       "score": 20,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "182e7ffd90eccda6",
@@ -749,7 +884,10 @@
       "summary": "Retrouvez toutes les informations sur le prêt garanti par l'État (PGE), dispositif de garantie de l’État pour des prêts accordés par les banques, afin de répondre aux besoins de trésorerie des entreprises impactées par la crise du coronavirus.",
       "score": 20,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "22c3366744442810",
@@ -763,7 +901,10 @@
       "summary": "Les Ministres de l'Économie et des Finances, les Gouverneurs des banques centrales et les responsables des institutions de la Communauté Économique et Monétaire de l'Afrique Centrale (CEMAC) et de la France se sont réunis le mardi 17 mars à Bercy.",
       "score": 20,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "ee1a22443945d56e",
@@ -777,7 +918,10 @@
       "summary": "Des banques dont BN AMRO, BNP Paribas, Citi, Crédit Agricole CIB, RBC Capital Markets, SFIL, Société Générale et Meridiam, ont signé une déclaration commune sur le financement du nucléaire à l'occasion du Sommet mondial de l'énergie nucléaire réuni à Paris le 10 mars 2026, aux côtés de l'engagement pris au même événement par 27 États.",
       "score": 20,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "e52b90e9b42d792d",
@@ -791,7 +935,10 @@
       "summary": "En 2025, la croissance italienne est demeurée modérée, pénalisée par la détérioration du commerce extérieur. La demande intérieure a toutefois soutenu l’activité, grâce à la résilience de la consommation des ménages et au dynamisme de l’investissement. Sur le plan budgétaire, le déficit public s’est légèrement réduit, tandis que la dette a poursuivi sa progression. Les perspectives pour 2026 demeurent entourées de fortes incertitudes, en lien avec les risques géopolitiques et énergétiques.",
       "score": 20,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "0a2915b5d3468c88",
@@ -805,7 +952,10 @@
       "summary": "Les interconnexions électriques jouent un rôle crucial dans la sécurité et l’optimisation du système électrique. Elles permettent aux consommateurs d’accéder à une électricité plus compétitive et décarbonée. Ce sont toutefois des actifs coûteux, qui entraînent des redistributions importantes de bénéfices entre consommateurs et producteurs. Cette étude s’intéresse aux avantages et limites économiques de leur développement, ainsi qu’à leur rôle dans un système énergétique européen en mutation.",
       "score": 20,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "fc76575df8ded66f",
@@ -819,7 +969,10 @@
       "summary": "Remarks by Mr Brad Jones, Assistant Governor (Financial System) of the Reserve Bank of Australia, at the Australian Payments Plus \"Beyond Tomorrow\" Forum, Sydney, 25 March 2026.",
       "score": 20,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "624c4051ca4c8f42",
@@ -833,7 +986,10 @@
       "summary": "Introductory statement by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the Hearing of the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 18 March 2026.",
       "score": 20,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "9ce28224f68601a3",
@@ -847,7 +1003,10 @@
       "summary": "Welcome address by Ms Chiara Scotti, Deputy Governor of the Bank of Italy, at the 5th Bank of Italy, Bocconi University, Einaudi Institute for Economics and Finance (EIEF) and Centre for Economic Policy Research (CEPR) conference \"Financial stability and regulation\", Rome, 23 March 2026.",
       "score": 20,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "e940c3f64965f719",
@@ -861,7 +1020,10 @@
       "summary": "Speech by Ms Agnès Bénassy-Quéré, Second Deputy Governor of the Bank of France, at the Research conference on climate- and nature-related risks in the economic and financial systems, Paris, 12 March 2026.",
       "score": 20,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "9d51baa913cbbe6a",
@@ -875,7 +1037,10 @@
       "summary": "Speech by Dr Sabine Mauderer, First Deputy Governor of the Deutsche Bundesbank, at the South African Reserve Bank (SARB)-Network for Greening the Financial System (NGFS) Research Conference \"Navigating climate risks in Southern Africa\", hosted by the SARB, Pretoria, 11 March 2026.",
       "score": 20,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "2ca33d07ae3567c8",
@@ -889,7 +1054,10 @@
       "summary": "Article 1Sont rendues obligatoires, pour tous les employeurs et tous les salariés compris dans le champ d'application de la convention collective nationale du personnel navigant technique des exploitants d'hélicoptères du 13 novembre 1996, les stipulations de :- l'avenant n° 23 du 8 décembre 2025, relatif à l'évolution de la rémunération des pilotes et TCM, tel que modifié par l'avenant n° 1 du 12 décembre 2025 susvisé, à la convention collective nationale susvisée.- Compte tenu du nouvel ordonn",
       "score": 20,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "ai_summary": null
     },
     {
       "hash": "da4aa36d112ac076",
@@ -903,7 +1071,27 @@
       "summary": "Article 1Sont rendues obligatoires, pour tous les employeurs et tous les salariés compris dans le champ d'application de la convention collective nationale du personnel navigant technique des exploitants d'hélicoptères du 13 novembre 1996, les stipulations de :- l'avenant n° 24 du 27 novembre 2025 relatif à la création d'une prime de fidélité, à la convention collective nationale susvisée.- Compte tenu du nouvel ordonnancement des niveaux de négociation issu de l'ordonnance n° 2017-1385 du 22 se",
       "score": 20,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "ai_summary": null
+    },
+    {
+      "hash": "4d990a62befda55f",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-012 (23 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-012/",
+      "author": "",
+      "published": "2026-03-23T00:00:00",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "score": 20,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "cf06a9258f6042e2",
@@ -917,7 +1105,10 @@
       "summary": "",
       "score": 17,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "f60da1eb19d9c587",
@@ -931,7 +1122,10 @@
       "summary": "",
       "score": 17,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "0af35ac1208f0b20",
@@ -945,7 +1139,10 @@
       "summary": "",
       "score": 17,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "664b26bef5368bc4",
@@ -959,7 +1156,10 @@
       "summary": "",
       "score": 17,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "db33428e09018ee1",
@@ -973,7 +1173,10 @@
       "summary": "",
       "score": 17,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "4f6f159d7420fde8",
@@ -987,7 +1190,10 @@
       "summary": "Tableau des investisseurs particuliers                  Actions              ETF              Prestataires financiers                    Tableau de bord des investisseurs particuliers actifs - n°21 - Mars 2026",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "76e63b39d94dd9f2",
@@ -1001,7 +1207,10 @@
       "summary": "Guide épargnant                  Epargne salariale              Epargne de long terme              Bien investir              Mes projets                    Le guide pédagogique de l&#039;épargne salariale",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "85223aecd748e26d",
@@ -1015,7 +1224,10 @@
       "summary": "Lettre Epargne Info Service                  Epargne salariale              Bien investir              Arnaques                    Lettre Epargne Info Service n°52 - Mars 2026",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "ea651b80e5a0d65c",
@@ -1029,7 +1241,10 @@
       "summary": "Rapport / étude                  Actions              Post-marché              Gestion d&#039;actifs              Marché action                    Typologie des intervenants sur le marché actions français",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "6d2190bd01e6871e",
@@ -1043,7 +1258,10 @@
       "summary": "Blog Médiateur                  Epargne salariale              Epargne de long terme                    Epargne salariale : avantages et inconvénients du regroupement des plans d’épargne entreprise",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "17e2e27a6b4f823f",
@@ -1057,7 +1275,10 @@
       "summary": "Transaction              TRA-2026-04 - Accord de composition administrative conclu le 20 novembre 2025 avec la Société Edmond de Rothschild Private Equity",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "634b2839ef2a1915",
@@ -1071,7 +1292,10 @@
       "summary": "Transaction              TRA-2026-03 - Accord de composition administrative conclu le 13 novembre 2025 avec M. Christian Guillemot",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "a8437cd3e81107f7",
@@ -1085,7 +1309,10 @@
       "summary": "Transaction              TRA-2026-02 - Accord de composition administrative conclu le 13 novembre 2025 avec la société AMA Corporation PLC",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "4f9bc2d58ce18b96",
@@ -1099,7 +1326,10 @@
       "summary": "Contrôle SPOT                  Supervision              Finance durable              Commercialisation                    Synthèse des contrôles SPOT relative à la prise en compte des préférences de durabilité dans le parcours client",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "d83197c181184a4a",
@@ -1113,7 +1343,10 @@
       "summary": "Transaction              TRA-2026-01 -  Accord de composition administrative conclu le 12 novembre 2025 avec Caisse d&#039;Epargne et de Prévoyance Ile-de-France",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "66c94c53f3de5307",
@@ -1127,7 +1360,10 @@
       "summary": "Après plus d’une semaine de guerre en Iran et d’escalade dans la région, la priorité de la France est de tout faire pour protéger nos compatriotes, protéger nos économies et œuvrer à la protection défensive de nos alliés et amis, ainsi qu’à la désescalade et à la paix dans la région.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "a5f82ba6b487f13c",
@@ -1141,7 +1377,10 @@
       "summary": "Si les données administratives indiquent que l'emploi salarié serait stable au Royaume-Uni depuis mi-2023, les données issues de l'enquête emploi suggèrent que la baisse du taux d'inactivité se traduit à la fois par une hausse du taux de chômage et du taux d’emploi.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "cde55c6692600ff0",
@@ -1155,7 +1394,10 @@
       "summary": "D’après les résultats détaillés du 4e trimestre 2025, la contribution du commerce extérieur à la croissance du PIB est de nouveau positive (+0,7 pt, après +0,5 pt au 3e trimestre). Les dernières données disponibles suggèrent une orientation plutôt favorable du commerce extérieur au 1er trimestre. Sur l'ensemble de l'année 2026, les livraisons aéronautiques devraient continuer de soutenir le commerce extérieur en 2026, malgré la persistance de goulets d’étranglement.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "43c1e4b294a238d4",
@@ -1169,7 +1411,10 @@
       "summary": "En 2025, la contraction de l’investissement en construction s’est poursuivie, mais à un rythme atténué (−0,6 % après −1,7 %). Cette moyenne annuelle masque toutefois un redressement progressif au cours de l’année.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "9150b8c2c638cc50",
@@ -1183,7 +1428,10 @@
       "summary": "La revue « Propriété intellectuelle et lutte anti-contrefaçon » aborde l’actualité de la propriété intellectuelle sur les marchés des pays tiers, notamment en ce qui concerne les indications géographiques, les marques, les brevets, et la lutte contre la contrefaçon. La revue est réalisée par la Direction Générale du Trésor à partir des contributions du réseau des Services économiques à l’étranger, en particulier des conseillers INPI et des conseillers agricoles.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "7c1df0579286c072",
@@ -1197,7 +1445,10 @@
       "summary": "Le plan de contrôle et de surveillance du label ISR a été mis à jour.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "42289c0a889a6d61",
@@ -1211,7 +1462,10 @@
       "summary": "En 2025, les États-Unis ont augmenté leurs droits de douane à un niveau historiquement élevé. Si l’essentiel du fardeau serait supporté par les agents économiques américains, l'impact des droits de douane sur l’inflation américaine est resté contenu en raison de certaines stratégies des entreprises américaines (stockage préventif, effort de marge, diversification de leurs fournisseurs) et de la structure de l’économie américaine qui est faiblement intensive en importations de biens.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "01d8205b8c085ad1",
@@ -1225,7 +1479,10 @@
       "summary": "En décembre 2025, l’indice de production industrielle (IPI) a reculé de façon inattendue, malgré les signaux encourageants en provenance des enquêtes auprès des entreprises pour ce mois. L’IPI manufacturier a en effet reculé de −0,8 % sur le mois (après +0,5 % en novembre).",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "0e0fe41332956477",
@@ -1239,7 +1496,10 @@
       "summary": "Le Sommet « Africa Forward », qui se tiendra les 11 et 12 mai 2026 au Kenya, sera le premier Sommet de ce type dans un pays anglophone, co-organisé avec une économie dynamique, partenaire bilatérale de longue date. Après le Sommet Afrique-France de Montpellier en octobre 2021, cet événement international de haut niveau s’inscrit dans le renforcement continu des relations entre la France et les pays africains, porteuses de partenariats mutuellement bénéfiques.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "31582c524917bd08",
@@ -1253,7 +1513,10 @@
       "summary": "Speech by Mr José Luis Escrivá, Governor of the Bank of Spain, at the inauguration of the Applied Technology Laboratory and Experimentation Department (DELTA), Barcelona, 6 March 2026.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "46ca891fe4714b78",
@@ -1267,7 +1530,10 @@
       "summary": "Speech by Dr Sabine Mauderer, First Deputy Governor of the Deutsche Bundesbank, at the 3rd International Conference on the Climate-Macro-Finance Interface \"Emerging macroeconomic, financial, and environmental policy challenges in an era of polycrisis and rising uncertainties,\" Frankfurt am Main, 23 March 2026.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "17dbb20df6e650fe",
@@ -1281,7 +1547,10 @@
       "summary": "Publication by Mr Dimitar Radev, Governor of the Bulgarian National Bank, n the Bulletin of the Association of Banks in Bulgaria, issue 83, 12 February 2026.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "a3afdcffc9c0c056",
@@ -1295,7 +1564,10 @@
       "summary": "Opening statement by Mr Colm Kincaid, Deputy Governor of the Central Bank of Ireland, before the Joint Oireachtas (National Parliament) Committee on Finance, Public Expenditure, Public Service Reform and Digitalisation, and Taoiseach (Head of Parliament), Dublin, 18 March 2026.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "2f1529dbd65a7de5",
@@ -1309,7 +1581,10 @@
       "summary": "Speech by Mr Yannis Stournaras, Governor of the Bank of Greece, at the \"American Hellenic Educational Progressive Association\" event, Frankfurt am Main, 19 March 2026.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "165f467c933afc32",
@@ -1323,7 +1598,10 @@
       "summary": "Opening remarks by Ms Elizabeth Genia, Governor of the Bank of Papua New Guinea, on the March 2026 Outlook on the Economy, Inflation and Monetary Policy, Port Moresby, 9 March 2026.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "ffde1772c21ed8c8",
@@ -1337,7 +1615,10 @@
       "summary": "Keynote speech by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at an event \"Building Europe's integrated digital asset ecosystem: from vision to implementation\", hosted by the House of the Euro, Brussels, 23 March 2026.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "ac32d5e5b47f1ebe",
@@ -1351,7 +1632,10 @@
       "summary": "Introductory remarks by Mr Martin Schlegel, Chairman of the Governing Board of the SNB, Mr Antoine Martin, Vice Chairman of the Governing Board of the SNB, and Ms Petra Tschudin, Member of the Governing Board of the SNB, at the Media News Conference of the Swiss National Bank, Zurich, 19 March 2026.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "100f1af4e1958835",
@@ -1365,7 +1649,10 @@
       "summary": "Opening statement by Mr Tiff Macklem, Governor of the Bank of Canada and Ms Carolyn Rogers, Senior Deputy Governor of the Bank of Canada, at the press conference following the monetary policy decision, Ottawa, Ontario, 18 March 2026.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "b1105f0a62fc26ba",
@@ -1379,7 +1666,10 @@
       "summary": "Speech (virtually) by Mr Alberto Naudon, Deputy Governor of the Central Bank of Chile, at an event, organised by Goldman Sachs, Santiago de Chile, 4 March 2026.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "0ebc75ed121828d0",
@@ -1393,7 +1683,10 @@
       "summary": "Introductory remarks by Mr Fabio Panetta, Governor of the Bank of Italy, at the conference \"Laying the goundwork for jobs in Africa: core infrastructure and business environments\", organised by the Bank of Italy, Rome, 4 March 2026.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "02f4f2324e262e5b",
@@ -1407,7 +1700,10 @@
       "summary": "Remarks by Mr Michael Atingi-Ego, Governor of the Bank of Uganda, at the Town Hall Meeting - Kamuli District Leaders and Community, Kamuli District, 7 March 2026.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "852faeb29484fa7b",
@@ -1421,7 +1717,10 @@
       "summary": "Opening remarks by Mr Adnan Zaylani Mohamad Zahid, Deputy Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the Financing Sectoral Engagements (FSE) inaugural session, Kuala Lumpur, 6 March 2026.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "298ae49a45340e63",
@@ -1435,7 +1734,10 @@
       "summary": "Opening address by Mr Primo&#382; Dolenc, Acting Governor of Banka Slovenije, at the event \"Stablecoins and their impact on financial stability\", Split, 26 February 2026.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "8e41b5a1ada7a87e",
@@ -1449,7 +1751,10 @@
       "summary": "Speech by Dr Kevin Greenidge, Governor of the Central Bank of Barbados, at the IMF Pacific Island High-Level Conference, Bridgetown, 12 March 2026.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "e86da2fc6cd49761",
@@ -1463,7 +1768,10 @@
       "summary": "Speech by Mr François Villeroy de Galhau, Governor of the Bank of France, at the Bloomberg Forum Future of Finance, Paris, 12 March 2026.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "40adeb4f22d48321",
@@ -1477,7 +1785,10 @@
       "summary": "Speech by Mr Olaf Sleijpen, President of De Nederlandsche Bank, in a panel meeting with students at the National Bank of Ukraine, Kyiv, 16 February 2026.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "0015d7c2b4142bb3",
@@ -1491,7 +1802,10 @@
       "summary": "Speech by Dr Jorgovanka Tabakovi&#263;, Governor of the National Bank of Serbia, at the 33rd Kopaonik Business Forum, Kopaonik, 2 March 2026.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "513fae72938defe4",
@@ -1505,7 +1819,10 @@
       "summary": "A l’occasion du 100ème épisode du podcast Quid Juris, le procureur national financier Pascal Prache a répondu aux questions de Laurent Neumann.Il y évoque notamment le fonctionnement interne du PNF, les enjeux actuels et futurs en matière de grande délinquance économique et financière ou encore la coopération pénale internationale. Le podcast est disponible ici : https://www.leclubdesjuristes.com/les-podcasts/quid-juris-affaires-sarkozy-lang-dati-le-procureur-du-pnf-repond-2-14918/",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "5b8ee3fb6d906fd7",
@@ -1519,7 +1836,10 @@
       "summary": "Transparency International France présente son #podcast &quot;Où va l’argent ? Sur la trace des flux financiers illicites&quot;.​🎧 Dans le premier épisode, plongez au cœur de la justice financière et du quotidien des magistrats qui traquent les flux financiers illicites avec Jérôme Simon, Premier vice-procureur au sein du Parquet national financier, qui est en première ligne dans la lutte contre la grande délinquance économique. ​​🔗 Disponible ici : https://radio.amicus-curiae.net/podcast/episod",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "f9fd45b737185f77",
@@ -1533,7 +1853,10 @@
       "summary": "Ce mercredi 18 mars, la Représentation Permanente de la France auprès de l'OCDE, la Direction des affaires criminelles et des grâces (DACG), le Parquet national financier et l’OCLCIFF étaient présents à l’OECD - OCDE pour présenter les dernières avancées françaises en matières de lutte contre la corruption transnationale, et plus particulièrement la conduite des enquêtes et des poursuites visant le délit de corruption d’agent public étranger.",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "98a444be868cbf30",
@@ -1547,7 +1870,10 @@
       "summary": "Titre IER : DISPOSITIONS PERMETTANT LE RESPECT DES STIPULATIONS DU CONTRAT HÔTEArticle 1Le comité d'organisation des jeux Olympiques et Paralympiques d'hiver des Alpes françaises 2030, le Comité international olympique et le Comité international paralympique sont reconnus de plein droit comme organisateurs des jeux Olympiques et Paralympiques de 2030 en tant que manifestation sportive au sens de et par dérogation à l'article L. 331-5 du code du sport.Article 2I. - Les articles L. 141-5 et L. 141",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": "LOI",
+      "action_class": "action",
+      "ai_summary": null
     },
     {
       "hash": "643aefbf99865ab1",
@@ -1561,7 +1887,10 @@
       "summary": "Article (SOCIÉTÉ LES FILMS D'UN JOUR ET AUTRES)Le Conseil constitutionnel a été saisi le 26 décembre 2025 par le Conseil d'Etat (décision n° 508966 du 23 décembre 2025), dans les conditions prévues à l'article 61-1 de la Constitution, d'une question prioritaire de constitutionnalité. Cette question a été posée pour la société Les Films d'un jour et autres par Me Olivier Laude, avocat au barreau de Paris. Elle a été enregistrée au secrétariat général du Conseil constitutionnel sous le n° 2025-118",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "046ea48f9cad3d57",
@@ -1575,7 +1904,10 @@
       "summary": "Article (LOI RELATIVE À L'ORGANISATION DES JEUX OLYMPIQUES ET PARALYMPIQUES DE 2030)Le Conseil constitutionnel a été saisi, dans les conditions prévues au deuxième alinéa de l'article 61 de la Constitution, de la loi relative à l'organisation des jeux Olympiques et Paralympiques de 2030, sous le n° 2026-902 DC, le 19 février 2026, par Mmes Mathilde PANOT, Nadège ABOMANGOLI, MM. Laurent ALEXANDRE, Gabriel AMARD, Mmes Ségolène AMIOT, Farida AMRANI, MM. Rodrigo ARENAS, Raphaël ARNAULT, Mme Anaïs BE",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "f0f4b9a3f73f9007",
@@ -1589,7 +1921,10 @@
       "summary": "Article 1Sont rendues obligatoires, pour tous les employeurs et tous les salariés compris dans le champ d'application de la convention collective nationale de la conchyliculture et des cultures marines les dispositions de l'accord de substitution du 10 juin 2024, sous la réserve suivante :- l'article 4 de l'accord est étendu sous réserve du respect des dispositions combinées de l'article L. 2261-15 du code du travail et de l'article 1er du code civil, qui prévoient que si l'application de l'acco",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "ai_summary": null
     },
     {
       "hash": "3c21120b01b6cb86",
@@ -1603,7 +1938,10 @@
       "summary": "Article 1Sont rendues obligatoires, pour tous les employeurs et tous les salariés compris dans le champ d'application professionnel de la convention collective nationale du 8 octobre 1990 concernant les ouvriers employés par les entreprises du bâtiment visées par le décret du 1er mars 1962 modifié (c'est-à-dire occupant jusqu'à 10 salariés), et dans leur propre champ d'application territorial, les stipulations de l'accord départemental (Haute-Savoie) du 16 décembre 2025 relatif aux indemnités de",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": "DÉCRET",
+      "action_class": "action",
+      "ai_summary": null
     },
     {
       "hash": "886fa2fa9f7abc8d",
@@ -1617,7 +1955,10 @@
       "summary": "Article 1Sont rendues obligatoires, pour tous les employeurs et tous les salariés compris dans le champ d'application professionnel de la convention collective nationale des ouvriers des travaux publics du 15 décembre 1992, et dans leur propre champ d'application territorial, les stipulations de l'accord régional (Grand Est) du 28 novembre 2025 portant fixation des salaires minima hiérarchiques, conclu dans le cadre de la convention collective nationale susvisée.Article 2Sont rendues obligatoire",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "ai_summary": null
     },
     {
       "hash": "7554b5386e9ca9ea",
@@ -1631,7 +1972,10 @@
       "summary": "Article 1Sont rendues obligatoires, pour tous les employeurs et tous les salariés compris dans le champ d'application professionnel de la convention collective nationale des ouvriers des travaux publics du 15 décembre 1992, et dans leur propre champ d'application territorial, les stipulations de l'accord régional (Hauts-de-France) du 5 décembre 2025 portant fixation des salaires minima hiérarchiques, conclu dans le cadre de la convention collective nationale susvisée.Article 2Sont rendues obliga",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "ai_summary": null
     },
     {
       "hash": "aa490e2e6adf455d",
@@ -1645,7 +1989,10 @@
       "summary": "Article 1Sont rendues obligatoires, pour tous les employeurs et tous les salariés compris dans le champ d'application professionnel de la convention collective nationale des ouvriers des travaux publics du 15 décembre 1992, et dans leur propre champ d'application territorial, les stipulations de l'accord régional (Centre-Val de Loire) du 11 décembre 2025 portant fixation des salaires minima hiérarchiques, conclu dans le cadre de la convention collective nationale susvisée.Article 2Sont rendues o",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "ai_summary": null
     },
     {
       "hash": "c94aff14d07c0230",
@@ -1659,7 +2006,673 @@
       "summary": "Article 1Sont rendues obligatoires, pour tous les employeurs et tous les salariés compris dans le champ d'application professionnel de la convention collective nationale des ouvriers des travaux publics du 15 décembre 1992, et dans leur propre champ d'application territorial, les stipulations de l'accord régional (Occitanie) du 8 décembre 2025 portant fixation des salaires minima hiérarchiques, conclu dans le cadre de la convention collective nationale susvisée.Article 2Sont rendues obligatoires",
       "score": 15,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "ai_summary": null
+    },
+    {
+      "hash": "15abcc468bc56d58",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans les produits Microsoft (19 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0321/",
+      "author": "",
+      "published": "2026-03-19T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "0ccc6500c7a9625a",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vulnérabilité dans les produits Microsoft (20 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0334/",
+      "author": "",
+      "published": "2026-03-20T00:00:00",
+      "summary": "Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "7d604a0718575e3d",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans Google Chrome (20 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0324/",
+      "author": "",
+      "published": "2026-03-20T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "35317085dde540fc",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans les produits Elastic (20 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0325/",
+      "author": "",
+      "published": "2026-03-20T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "3c1a21f6e8e484e5",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans les produits IBM (20 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0327/",
+      "author": "",
+      "published": "2026-03-20T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "49d44148c9b535eb",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans Traefik (20 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0333/",
+      "author": "",
+      "published": "2026-03-20T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "66361fa6477e4cbc",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (20 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0328/",
+      "author": "",
+      "published": "2026-03-20T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "7a630f10b4cc8c47",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (20 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0330/",
+      "author": "",
+      "published": "2026-03-20T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "0cc584c5ac24bc9d",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vulnérabilité dans Oracle Identity Manager et Web Services Manager (20 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0332/",
+      "author": "",
+      "published": "2026-03-20T00:00:00",
+      "summary": "Une vulnérabilité a été découverte dans Oracle Identity Manager et Web Services Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "83b885380c9e03c9",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans les produits VMware (20 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0322/",
+      "author": "",
+      "published": "2026-03-20T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "3e97298abe145d4c",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans les produits VMware (20 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0326/",
+      "author": "",
+      "published": "2026-03-20T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "4f38ac4a5c8a5052",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (20 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0329/",
+      "author": "",
+      "published": "2026-03-20T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un déni de service et un problème de sécurité non spécifié par l'éditeur.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "bd05f9d624adf7d6",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (20 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0331/",
+      "author": "",
+      "published": "2026-03-20T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "2b933e85fc0cd093",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans les produits Spring (20 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0323/",
+      "author": "",
+      "published": "2026-03-20T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Spring. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "3580d238064809e8",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Note d’alerte – Ciblage des messageries instantanées (20 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-003/",
+      "author": "",
+      "published": "2026-03-20T00:00:00",
+      "summary": "Les travaux conjoints des services membres du **Centre de Coordination des Crises Cyber (C4)** ont permis d’identifier une recrudescence de campagnes d’attaques ciblant les comptes de messagerie instantanées. Ces campagnes ciblent particulièrement les secteurs régaliens (personnalités politiques,...",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "354273b9e82f2d52",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans les produits Citrix (23 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0337/",
+      "author": "",
+      "published": "2026-03-23T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "03164175a592f7f0",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans les produits Microsoft (23 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0341/",
+      "author": "",
+      "published": "2026-03-23T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "6f051e9cbaebfbe7",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vulnérabilité dans CPython (23 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0335/",
+      "author": "",
+      "published": "2026-03-23T00:00:00",
+      "summary": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "6df24bb548a65dc8",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans les produits VMware (23 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0339/",
+      "author": "",
+      "published": "2026-03-23T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "4aa61bcb1f796e2b",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans les produits Qnap (23 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0336/",
+      "author": "",
+      "published": "2026-03-23T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "342080f265c5b649",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (23 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0340/",
+      "author": "",
+      "published": "2026-03-23T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "d4359aaa5e19a0c6",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vulnérabilité dans les produits Synology (23 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0338/",
+      "author": "",
+      "published": "2026-03-23T00:00:00",
+      "summary": "Une vulnérabilité a été découverte dans les produits Synology. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "27be9d640735d303",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans Ruby on Rails (24 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0349/",
+      "author": "",
+      "published": "2026-03-24T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Ruby on Rails. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "649b682b645965e1",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vulnérabilité dans Xen (24 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0347/",
+      "author": "",
+      "published": "2026-03-24T00:00:00",
+      "summary": "Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "c2322d7e7004f749",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vulnérabilité dans Trend Micro Deep Discovery Inspector (24 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0348/",
+      "author": "",
+      "published": "2026-03-24T00:00:00",
+      "summary": "Une vulnérabilité a été découverte dans Trend Micro Deep Discovery Inspector. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "b5a7dac8456f027a",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vulnérabilité dans LibreNMS (24 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0345/",
+      "author": "",
+      "published": "2026-03-24T00:00:00",
+      "summary": "Une vulnérabilité a été découverte dans LibreNMS. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "177c97a1fc4e05a5",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vulnérabilité dans Spring Cloud Config (24 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0343/",
+      "author": "",
+      "published": "2026-03-24T00:00:00",
+      "summary": "Une vulnérabilité a été découverte dans Spring Cloud Config. Elle permet à un attaquant de provoquer une falsification de requêtes côté serveur (SSRF).",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "ea53e15c304a93df",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans Google Chrome (24 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0342/",
+      "author": "",
+      "published": "2026-03-24T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "9eb0478c71833d87",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vulnérabilité dans VMware Tanzu pour Postgres (24 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0346/",
+      "author": "",
+      "published": "2026-03-24T00:00:00",
+      "summary": "Une vulnérabilité a été découverte dans VMware Tanzu pour Postgres. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "29dd0a679259c3ab",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vulnérabilité dans strongSwan (24 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0344/",
+      "author": "",
+      "published": "2026-03-24T00:00:00",
+      "summary": "Une vulnérabilité a été découverte dans strongSwan. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "e51100c36e92a299",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans les produits Mozilla (25 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0354/",
+      "author": "",
+      "published": "2026-03-25T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "3138bf6d518a3fe7",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans les produits Apple (25 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0355/",
+      "author": "",
+      "published": "2026-03-25T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "655cd6e888bfa044",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vulnérabilité dans Tenable OT Platform (25 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0351/",
+      "author": "",
+      "published": "2026-03-25T00:00:00",
+      "summary": "Une vulnérabilité a été découverte dans Tenable OT Platform. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "a4341ef74ad24890",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans Zabbix (25 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0353/",
+      "author": "",
+      "published": "2026-03-25T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Zabbix. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection SQL (SQLi).",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "e86e365cc5c4b7a4",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vulnérabilité dans ISC Kea (25 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0356/",
+      "author": "",
+      "published": "2026-03-25T00:00:00",
+      "summary": "Une vulnérabilité a été découverte dans ISC Kea. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "d2fa27603fcb1841",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans GitLab (25 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0357/",
+      "author": "",
+      "published": "2026-03-25T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une injection de code indirecte à distance (XSS).",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "e51d0a154b85d8f1",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans les produits F5 (25 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0352/",
+      "author": "",
+      "published": "2026-03-25T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "393062a45cc26a69",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vulnérabilité dans Citrix XenServer (25 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0358/",
+      "author": "",
+      "published": "2026-03-25T00:00:00",
+      "summary": "Une vulnérabilité a été découverte dans Citrix XenServer. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "bf7313dfecd657c7",
+      "source_name": "ANSSI - Alertes",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Multiples vulnérabilités dans Squid (25 mars 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0350/",
+      "author": "",
+      "published": "2026-03-25T00:00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Squid. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
+      "score": 15,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "417364e0cf8c722a",
@@ -1673,7 +2686,10 @@
       "summary": "La société allemande a reconnu avoir employé à tort près de 4 600 coursiers indépendants entre 2015 et 2018 alors qu’ils auraient dû être salariés.",
       "score": 13,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "0c2a9f90febde105",
@@ -1687,7 +2703,10 @@
       "summary": "",
       "score": 12,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "71a38ec5838132b1",
@@ -1701,7 +2720,10 @@
       "summary": "",
       "score": 12,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "36669c2ac6406c6d",
@@ -1715,7 +2737,10 @@
       "summary": "",
       "score": 12,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "5d2f5e878afca15d",
@@ -1729,7 +2754,10 @@
       "summary": "",
       "score": 12,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "44899e72bfad11e4",
@@ -1743,7 +2771,10 @@
       "summary": "",
       "score": 12,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "360726d7f5cdb311",
@@ -1757,7 +2788,10 @@
       "summary": "",
       "score": 12,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "08c12f997a716d53",
@@ -1771,7 +2805,10 @@
       "summary": "",
       "score": 12,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     },
     {
       "hash": "24b155b07474a713",
@@ -1785,8 +2822,11 @@
       "summary": "Speech by Mr Michael S Barr, Member of the Board of Governors of the Federal Reserve System, at the2026 National Community Investment Conference, Phoenix, Arizona, 24 March 2026.",
       "score": 10,
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "doc_type": null,
+      "action_class": "info",
+      "ai_summary": null
     }
   ],
-  "last_update": "2026-03-25T21:29:27.752587+00:00"
+  "last_update": "2026-03-25T21:53:31.946529+00:00"
 }
