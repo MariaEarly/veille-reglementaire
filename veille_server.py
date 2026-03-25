@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Veille Réglementaire — Serveur tout-en-un.
+Veille RÃ©glementaire â Serveur tout-en-un.
 Un seul fichier Python : serveur HTTP, ingestion RSS, scoring, stockage JSON.
-Fonctionne en local ET en déploiement cloud (Render, Railway, etc.)
+Fonctionne en local ET en dÃ©ploiement cloud (Render, Railway, etc.)
 """
 
 import json, os, hashlib, re, time, html, base64
@@ -21,7 +21,7 @@ DATA_DIR = Path(__file__).parent
 DB_FILE = DATA_DIR / "veille_data.json"
 HTML_FILE = DATA_DIR / "veille_dashboard.html"
 
-# Auth : définir VEILLE_PASSWORD pour protéger l'accès
+# Auth : dÃ©finir VEILLE_PASSWORD pour protÃ©ger l'accÃ¨s
 # Ex: VEILLE_PASSWORD=mon_mot_de_passe
 AUTH_PASSWORD = os.environ.get("VEILLE_PASSWORD", "")
 
@@ -29,14 +29,14 @@ AUTH_PASSWORD = os.environ.get("VEILLE_PASSWORD", "")
 # SOURCES
 # ---------------------------------------------------------------------------
 SEED_SOURCES = [
-    # Autorités FR
-    {"name": "ACPR - Dernières publications", "url": "https://acpr.banque-france.fr/rss", "type": "rss", "category": "autorite_fr"},
-    {"name": "AMF - Actualités", "url": "https://www.amf-france.org/fr/rss/actualites.xml", "type": "rss", "category": "autorite_fr"},
+    # AutoritÃ©s FR
+    {"name": "ACPR - DerniÃ¨res publications", "url": "https://acpr.banque-france.fr/rss", "type": "rss", "category": "autorite_fr"},
+    {"name": "AMF - ActualitÃ©s", "url": "https://www.amf-france.org/fr/rss/actualites.xml", "type": "rss", "category": "autorite_fr"},
     {"name": "Tracfin", "url": "https://www.economie.gouv.fr/tracfin/rss", "type": "rss", "category": "autorite_fr"},
     {"name": "DGCCRF", "url": "https://www.economie.gouv.fr/dgccrf/rss", "type": "rss", "category": "autorite_fr"},
-    {"name": "DG Trésor", "url": "https://www.tresor.economie.gouv.fr/rss", "type": "rss", "category": "autorite_fr"},
+    {"name": "DG TrÃ©sor", "url": "https://www.tresor.economie.gouv.fr/rss", "type": "rss", "category": "autorite_fr"},
     {"name": "CNIL", "url": "https://www.cnil.fr/fr/rss.xml", "type": "rss", "category": "autorite_fr"},
-    # Autorités EU
+    # AutoritÃ©s EU
     {"name": "EBA - European Banking Authority", "url": "https://www.eba.europa.eu/rss.xml", "type": "rss", "category": "autorite_eu"},
     {"name": "ESMA", "url": "https://www.esma.europa.eu/rss", "type": "rss", "category": "autorite_eu"},
     {"name": "ECB - Banking Supervision", "url": "https://www.bankingsupervision.europa.eu/rss/press.html", "type": "rss", "category": "autorite_eu"},
@@ -52,10 +52,19 @@ SEED_SOURCES = [
     {"name": "OpenSanctions", "url": "https://www.opensanctions.org/changelog/rss/", "type": "rss", "category": "autorite_intl"},
     # Justice FR (PNF, PNACO)
     {"name": "PNF (Parquet National Financier)", "url": "https://social.numerique.gouv.fr/@pnf.rss", "type": "rss", "category": "autorite_fr"},
-    {"name": "Ministère de la Justice (CJIP)", "url": "https://www.justice.gouv.fr/rss.xml", "type": "rss", "category": "autorite_fr"},
-    # Presse spécialisée (filtrée par mots-clés)
+    {"name": "MinistÃ¨re de la Justice (CJIP)", "url": "https://www.justice.gouv.fr/rss.xml", "type": "rss", "category": "autorite_fr"},
+    # JORF / Legifrance (via legifrss.org â flux non-officiel fiable)
+    {"name": "JORF - Lois", "url": "https://legifrss.org/latest?nature=LOI", "type": "rss", "category": "autorite_fr"},
+    {"name": "JORF - DÃ©crets", "url": "https://legifrss.org/latest?nature=DECRET", "type": "rss", "category": "autorite_fr"},
+    {"name": "JORF - ArrÃªtÃ©s", "url": "https://legifrss.org/latest?nature=ARRETE", "type": "rss", "category": "autorite_fr"},
+    {"name": "JORF - Blanchiment", "url": "https://legifrss.org/latest?q=blanchiment", "type": "rss", "category": "autorite_fr"},
+    {"name": "JORF - Financier", "url": "https://legifrss.org/latest?q=financier", "type": "rss", "category": "autorite_fr"},
+    {"name": "JORF - Bancaire", "url": "https://legifrss.org/latest?q=bancaire", "type": "rss", "category": "autorite_fr"},
+    {"name": "JORF - Sanctions", "url": "https://legifrss.org/latest?q=sanctions", "type": "rss", "category": "autorite_fr"},
+    {"name": "JORF - Crypto/PSAN", "url": "https://legifrss.org/latest?q=crypto", "type": "rss", "category": "autorite_fr"},
+    # Presse spÃ©cialisÃ©e (filtrÃ©e par mots-clÃ©s)
     {"name": "Les Echos Finance", "url": "https://www.lesechos.fr/rss/rss_finance.xml", "type": "press", "category": "presse"},
-    {"name": "Le Monde Économie", "url": "https://www.lemonde.fr/economie/rss_full.xml", "type": "press", "category": "presse"},
+    {"name": "Le Monde Ãconomie", "url": "https://www.lemonde.fr/economie/rss_full.xml", "type": "press", "category": "presse"},
     {"name": "Reuters Financial Regulation", "url": "https://www.reuters.com/rssFeed/financial-regulation", "type": "press", "category": "presse"},
     {"name": "Compliance Week", "url": "https://www.complianceweek.com/rss", "type": "press", "category": "presse"},
     {"name": "FinCrime Central", "url": "https://fincrimecentral.com/feed/", "type": "press", "category": "presse"},
@@ -69,50 +78,62 @@ KEYWORDS_CRITICAL = [
     "sanction", "blanchiment", "money laundering", "terrorism financing",
     "financement du terrorisme", "fraude", "fraud", "gel des avoirs",
     "asset freeze", "liste noire", "blacklist", "embargo",
-    "déclaration de soupçon", "suspicious transaction"
+    "dÃ©claration de soupÃ§on", "suspicious transaction"
 ]
 KEYWORDS_HIGH = [
     "acpr", "amf", "tracfin", "lcb-ft", "aml", "cft", "kyc",
-    "vigilance", "due diligence", "conformité", "compliance",
+    "vigilance", "due diligence", "conformitÃ©", "compliance",
     "mica", "dora", "psan", "casp", "crypto", "eba", "esma",
     "fatf", "gafi", "anti-money", "5amld", "6amld", "amla",
+    "code monÃ©taire", "agrÃ©ment", "Ã©tablissement de crÃ©dit",
+    "contrÃ´le prudentiel", "rÃ©solution bancaire",
 ]
 KEYWORDS_MEDIUM = [
-    "risque", "risk", "audit", "contrôle interne", "internal control",
-    "directive", "règlement", "regulation", "supervisory",
+    "risque", "risk", "audit", "contrÃ´le interne", "internal control",
+    "directive", "rÃ¨glement", "regulation", "supervisory",
     "fintech", "regtech", "paiement", "payment", "banque", "bank",
-    "identité numérique", "digital identity", "ppe", "pep",
+    "identitÃ© numÃ©rique", "digital identity", "ppe", "pep",
     "correspondant bancaire", "correspondent banking",
 ]
 SOURCE_BONUS = {"autorite_fr": 15, "autorite_eu": 12, "autorite_intl": 10, "presse": 3, "email": 8}
 
 COMPLIANCE_KEYWORDS = [
     "lcb-ft", "aml", "blanchiment", "money laundering", "sanction",
-    "conformité", "compliance", "fraude", "fraud", "régulat",
+    "conformitÃ©", "compliance", "fraude", "fraud", "rÃ©gulat",
     "acpr", "amf", "tracfin", "fatf", "gafi", "kyc", "vigilance",
     "crypto", "psan", "dora", "gel des avoirs", "terroris",
     "anti-money", "financement du terrorisme", "embargo",
     "supervisory", "banking supervision", "eba", "esma",
-    "lutte contre le blanchiment", "abus de marché", "market abuse",
+    "lutte contre le blanchiment", "abus de marchÃ©", "market abuse",
     "devoir de vigilance", "loi sapin", "lanceur d'alerte",
-    "whistleblow", "beneficial owner", "bénéficiaire effectif",
+    "whistleblow", "beneficial owner", "bÃ©nÃ©ficiaire effectif",
     "asset freeze", "liste noire", "blacklist", "amla",
-    "prudenti", "solvabilité", "solvency", "capital requirement",
-    "payment service", "services de paiement", "monnaie électronique",
+    "prudenti", "solvabilitÃ©", "solvency", "capital requirement",
+    "payment service", "services de paiement", "monnaie Ã©lectronique",
     "e-money", "financement participatif", "crowdfunding",
+    # CMF / Legifrance / JORF
+    "code monÃ©taire", "code monÃ©taire et financier",
+    "Ã©tablissement de crÃ©dit", "agrÃ©ment", "autorisation",
+    "prestataire de services d'investissement",
+    "dÃ©marchage bancaire", "intermÃ©diation bancaire",
+    "contrÃ´le prudentiel", "rÃ©solution bancaire",
+    "abus de marchÃ©", "dÃ©lit d'initiÃ©", "insider",
+    "obligation de dÃ©claration", "personne politiquement exposÃ©e",
+    "dispositif lcb", "organe de contrÃ´le",
+    "jorf", "journal officiel",
 ]
 
-# Patterns regex pour mots-clés ambigus (éviter faux positifs)
+# Patterns regex pour mots-clÃ©s ambigus (Ã©viter faux positifs)
 import re as _re
 _REGEX_KEYWORDS = [
-    # MiCA : exiger contexte crypto/réglementaire, exclure "MICA Center" militaire
+    # MiCA : exiger contexte crypto/rÃ©glementaire, exclure "MICA Center" militaire
     _re.compile(r'\bmica\b(?![\s-]*center)', _re.IGNORECASE),
 ]
 
-# Sources cœur compliance : tout leur contenu est pertinent, pas de filtrage
+# Sources cÅur compliance : tout leur contenu est pertinent, pas de filtrage
 CORE_COMPLIANCE_SOURCES = {
-    "ACPR - Dernières publications",
-    "AMF - Actualités",
+    "ACPR - DerniÃ¨res publications",
+    "AMF - ActualitÃ©s",
     "Tracfin",
     "FATF / GAFI",
     "AMLA (EU AML Authority)",
@@ -121,6 +142,9 @@ CORE_COMPLIANCE_SOURCES = {
     "ESMA",
     "ECB - Banking Supervision",
     "PNF (Parquet National Financier)",
+    "JORF - Lois",
+    "JORF - Blanchiment",
+    "JORF - Sanctions",
 }
 
 
@@ -138,11 +162,11 @@ def score_item(title, text, category):
 
 
 def matches_compliance_keywords(title, text):
-    """Retourne True si le titre/texte contient au moins un mot-clé compliance."""
+    """Retourne True si le titre/texte contient au moins un mot-clÃ© compliance."""
     combined = f"{title} {text}".lower()
     if any(k in combined for k in COMPLIANCE_KEYWORDS):
         return True
-    # Vérification regex pour mots-clés ambigus (ex: "mica" mais pas "MICA Center")
+    # VÃ©rification regex pour mots-clÃ©s ambigus (ex: "mica" mais pas "MICA Center")
     full = f"{title} {text}"
     if any(pat.search(full) for pat in _REGEX_KEYWORDS):
         return True
@@ -195,10 +219,10 @@ def fetch_rss(url, source_name, source_type, category):
         summary = getattr(entry, "summary", "") or ""
         summary_clean = re.sub(r"<[^>]+>", "", summary)[:500]
 
-        # Si pas de titre (ex: posts Mastodon), utiliser le début du résumé
+        # Si pas de titre (ex: posts Mastodon), utiliser le dÃ©but du rÃ©sumÃ©
         if not title.strip() or title == "Sans titre":
             words = summary_clean.split()
-            title = " ".join(words[:12]) + ("…" if len(words) > 12 else "") if words else "Sans titre"
+            title = " ".join(words[:12]) + ("â¦" if len(words) > 12 else "") if words else "Sans titre"
 
         published = None
         for attr in ("published_parsed", "updated_parsed"):
@@ -212,8 +236,8 @@ def fetch_rss(url, source_name, source_type, category):
         if not published:
             published = datetime.now(timezone.utc).isoformat()
 
-        # Filtrage : les sources cœur compliance passent toujours,
-        # toutes les autres doivent matcher au moins un mot-clé
+        # Filtrage : les sources cÅur compliance passent toujours,
+        # toutes les autres doivent matcher au moins un mot-clÃ©
         if source_name not in CORE_COMPLIANCE_SOURCES:
             if not matches_compliance_keywords(title, summary_clean):
                 continue
@@ -304,7 +328,7 @@ class VeilleHandler(BaseHTTPRequestHandler):
 
     def _send_auth_required(self):
         self.send_response(401)
-        self.send_header("WWW-Authenticate", 'Basic realm="Veille Réglementaire"')
+        self.send_header("WWW-Authenticate", 'Basic realm="Veille RÃ©glementaire"')
         self.send_header("Content-Type", "text/html; charset=utf-8")
         self.end_headers()
         self.wfile.write(b"<h1>Mot de passe requis</h1>")
@@ -499,7 +523,7 @@ def main():
         print("First run: seeding sources...")
         seed_sources(data)
 
-    print(f"Veille Réglementaire — http://{HOST}:{PORT}")
+    print(f"Veille RÃ©glementaire â http://{HOST}:{PORT}")
     print(f"  {len(data['sources'])} sources, {len(data['items'])} articles")
     if AUTH_PASSWORD:
         print("  Protected by password")
