@@ -227,9 +227,10 @@ def summarize_item(title, summary, source_name):
 
     try:
         prompt = (
-            f"Tu es un expert en conformité financière (LCB-FT, sanctions, réglementation). "
-            f"Résume en UNE SEULE phrase (max 120 caractères) pourquoi cet article est pertinent "
-            f"pour un compliance officer. Article: {title} — {summary}. Source: {source_name}"
+            f"Écris UNE phrase de max 100 caractères, en français, sans markdown ni formatage. "
+            f"Explique en quoi cet article concerne la conformité financière. "
+            f"Si non pertinent, écris 'Hors périmètre compliance'. "
+            f"Titre: {title}\nRésumé: {summary[:300]}\nSource: {source_name}"
         )
 
         payload = {
@@ -424,7 +425,7 @@ def main():
     if added:
         print(f"Seeded {added} new sources")
 
-    # Enrich existing items with new fields (doc_type, action_class, ai_summary)
+    # Enrich existing items with new fields (doc_type, action_class)
     enriched = 0
     for item in data["items"]:
         if "doc_type" not in item:
@@ -432,6 +433,9 @@ def main():
             item["action_class"] = classify_action(item["doc_type"], item.get("title", ""), item.get("score", 0))
             enriched += 1
         item.setdefault("ai_summary", None)
+        # Reset summaries that are too long (bad prompt from v1)
+        if item.get("ai_summary") and len(item["ai_summary"]) > 150:
+            item["ai_summary"] = None
     if enriched:
         print(f"Enriched {enriched} existing items with doc_type/action_class")
 
