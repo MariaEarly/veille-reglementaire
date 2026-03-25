@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Early Brief â Veille RÃ©glementaire</title>
+  <title>Early Brief — Veille Réglementaire</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Cormorant:wght@300;400;500&family=Hanken+Grotesk:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
@@ -251,20 +251,20 @@
 <header class="header">
   <div class="header-inner">
     <div>
-      <h1>Early <span>Brief</span> â Veille</h1>
+      <h1>Early <span>Brief</span> — Veille</h1>
       <div class="subtitle" id="last-update">Chargement...</div>
     </div>
     <div class="stats-row">
-      <div class="stat-item"><strong id="stat-total">â</strong> articles</div>
-      <div class="stat-item"><strong id="stat-fresh">â</strong> &lt;24h</div>
-      <div class="stat-item"><strong id="stat-important">â</strong> importants</div>
-      <div class="stat-item"><strong id="stat-brief">â</strong> Early Brief</div>
+      <div class="stat-item"><strong id="stat-total">—</strong> articles</div>
+      <div class="stat-item"><strong id="stat-fresh">—</strong> &lt;24h</div>
+      <div class="stat-item"><strong id="stat-important">—</strong> importants</div>
+      <div class="stat-item"><strong id="stat-brief">—</strong> Early Brief</div>
     </div>
   </div>
 </header>
 
 <nav class="nav" id="tabs">
-  <button class="nav-tab active" data-tab="feed">Fil d'actualitÃ©</button>
+  <button class="nav-tab active" data-tab="feed">Fil d'actualité</button>
   <button class="nav-tab" data-tab="brief">Early Brief <span class="count" id="brief-badge">0</span></button>
   <button class="nav-tab" data-tab="sources">Sources</button>
 </nav>
@@ -277,9 +277,9 @@
         <input type="text" id="search" placeholder="Rechercher..." />
       </div>
       <select class="filter-select" id="filter-category">
-        <option value="">Toutes catÃ©gories</option>
-        <option value="autorite_fr">AutoritÃ©s FR</option>
-        <option value="autorite_eu">AutoritÃ©s EU</option>
+        <option value="">Toutes catégories</option>
+        <option value="autorite_fr">Autorités FR</option>
+        <option value="autorite_eu">Autorités EU</option>
         <option value="autorite_intl">International</option>
         <option value="presse">Presse</option>
         <option value="email">Email</option>
@@ -289,16 +289,16 @@
         <option value="new">Nouveau</option>
         <option value="important">Important</option>
         <option value="reviewed">Relu</option>
-        <option value="archived">ArchivÃ©</option>
+        <option value="archived">Archivé</option>
       </select>
       <select class="filter-select" id="filter-score">
         <option value="0">Score min : 0</option>
-        <option value="20">Score â¥ 20</option>
-        <option value="40">Score â¥ 40</option>
-        <option value="60">Score â¥ 60</option>
+        <option value="20">Score ≥ 20</option>
+        <option value="40">Score ≥ 40</option>
+        <option value="60">Score ≥ 60</option>
       </select>
       <select class="filter-select" id="sort-by">
-        <option value="fresh">Tri : RÃ©cents d'abord</option>
+        <option value="fresh">Tri : Récents d'abord</option>
         <option value="score">Tri : Score</option>
         <option value="date">Tri : Date</option>
       </select>
@@ -310,7 +310,7 @@
 
   <!-- Early Brief -->
   <div id="panel-brief" style="display:none;">
-    <p style="margin-bottom:16px; color:var(--muted); font-size:0.9rem;">Articles sÃ©lectionnÃ©s pour la prochaine Ã©dition.</p>
+    <p style="margin-bottom:16px; color:var(--muted); font-size:0.9rem;">Articles sélectionnés pour la prochaine édition.</p>
     <div class="cards" id="brief-cards"></div>
   </div>
 
@@ -366,7 +366,7 @@ async function fetchData() {
   } catch(e) {}
 
   document.getElementById('last-update').textContent =
-    'Mise Ã  jour : ' + new Date().toLocaleDateString('fr-FR') + ' Ã  ' + new Date().toLocaleTimeString('fr-FR', {hour:'2-digit', minute:'2-digit'});
+    'Mise à jour : ' + new Date().toLocaleDateString('fr-FR') + ' à ' + new Date().toLocaleTimeString('fr-FR', {hour:'2-digit', minute:'2-digit'});
 
   renderCurrentTab();
 }
@@ -388,7 +388,7 @@ function relDate(iso) {
   if (!iso) return '';
   const d = new Date(iso);
   const diff = (Date.now() - d.getTime()) / 1000;
-  if (diff < 60) return 'Ã  l\'instant';
+  if (diff < 60) return 'à l\'instant';
   if (diff < 3600) return Math.floor(diff / 60) + ' min';
   if (diff < 86400) return Math.floor(diff / 3600) + 'h';
   if (diff < 604800) return Math.floor(diff / 86400) + 'j';
@@ -496,7 +496,7 @@ function renderBrief() {
   document.getElementById('brief-badge').textContent = items.length;
   document.getElementById('stat-brief').textContent = items.length;
   if (!items.length) {
-    el.innerHTML = '<div class="empty">Aucun article marquÃ©. Cliquez â pour sÃ©lectionner.</div>';
+    el.innerHTML = '<div class="empty">Aucun article marqué. Cliquez ★ pour sélectionner.</div>';
     return;
   }
   el.innerHTML = items.map(i => renderCard(i, true)).join('');
@@ -512,7 +512,7 @@ function renderSources() {
       <div class="source-dot" style="background:${sourceColor(s.name)}"></div>
       <div>
         <h3>${esc(s.name)}</h3>
-        <div class="meta">${catLabel(s.category)} Â· ${s.active !== false ? 'Actif' : 'Inactif'}</div>
+        <div class="meta">${catLabel(s.category)} · ${s.active !== false ? 'Actif' : 'Inactif'}</div>
       </div>
       <div class="cnt">${counts[s.name] || 0}</div>
     </div>
@@ -551,7 +551,7 @@ window.toggleBrief = function(id) {
       credentials: 'include',
       body: JSON.stringify({early_brief: item.early_brief})
     }).catch(() => {});
-    showToast(item.early_brief ? 'â AjoutÃ© Ã  Early Brief' : 'RetirÃ© d\'Early Brief');
+    showToast(item.early_brief ? '★ Ajouté à Early Brief' : 'Retiré d\'Early Brief');
     renderCurrentTab();
   }
 };
