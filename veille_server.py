@@ -54,7 +54,7 @@ SEED_SOURCES = [
     {"name": "JORF - Blanchiment", "url": "https://legifrss.org/latest?q=blanchiment", "type": "rss", "category": "autorite_fr"},
     {"name": "JORF - Financier", "url": "https://legifrss.org/latest?q=financier", "type": "rss", "category": "autorite_fr"},
     {"name": "JORF - Bancaire", "url": "https://legifrss.org/latest?q=bancaire", "type": "rss", "category": "autorite_fr"},
-    {"name": "JORF - Sanctions", "url": "https://legifrss.org/latest?q=sanctions", "type": "rss", "category": "autorite_fr"},
+    {"name": "JORF - Sanctions financières", "url": "https://legifrss.org/latest?q=sanctions+financières+OR+gel+avoirs+OR+embargo", "type": "rss", "category": "autorite_fr"},
     {"name": "JORF - Crypto/PSAN", "url": "https://legifrss.org/latest?q=crypto", "type": "rss", "category": "autorite_fr"},
     # Presse spécialisée (filtrée par mots-clés)
     {"name": "Les Echos Finance", "url": "https://www.lesechos.fr/rss/rss_finance.xml", "type": "press", "category": "presse"},
@@ -133,12 +133,18 @@ CORE_COMPLIANCE_SOURCES = {
     "EBA - European Banking Authority",
     "ECB - Banking Supervision",
     "PNF (Parquet National Financier)",
-    "BIS - Speeches",
-    "DG Trésor",
-    "JORF - Lois",
     "JORF - Blanchiment",
-    "JORF - Sanctions",
+    "JORF - Sanctions financières",
 }
+
+EXCLUDE_KEYWORDS = [
+    "convention collective", "accords départementaux", "accords régionaux",
+    "extension d'accords", "extension d'un avenant", "portant extension",
+    "ouvriers employés par les entreprises du bâtiment",
+    "sécurité sociale", "retraite complémentaire",
+    "nucléaire", "interconnexions électriques",
+    "transition énergétique", "flash conjoncture",
+]
 
 
 def score_item(title, text, category):
@@ -228,6 +234,11 @@ def fetch_rss(url, source_name, source_type, category):
                 break
         if not published:
             published = datetime.now(timezone.utc).isoformat()
+
+        # Exclure le bruit évident (conventions collectives, etc.)
+        combined_lower = f"{title} {summary_clean}".lower()
+        if any(ex in combined_lower for ex in EXCLUDE_KEYWORDS):
+            continue
 
         # Filtrage : les sources cœur compliance passent toujours,
         # toutes les autres doivent matcher au moins un mot-clé
