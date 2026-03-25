@@ -177,6 +177,15 @@
       display: -webkit-box; -webkit-line-clamp: 2;
       -webkit-box-orient: vertical; overflow: hidden;
     }
+    .card-ai-summary {
+      color: var(--green);
+      font-size: 0.82rem;
+      font-style: italic;
+      margin-top: 4px;
+      padding-left: 10px;
+      border-left: 2px solid var(--green-light);
+      font-family: 'IBM Plex Mono', monospace;
+    }
     .card-date {
       color: var(--subtle); font-size: 0.78rem; margin-top: 4px;
       font-family: 'IBM Plex Mono', monospace;
@@ -372,6 +381,7 @@ async function fetchData() {
         action_class: item.action_class || 'info',
         status: localItem.status || item.status || (item.score >= 40 ? 'important' : 'new'),
         early_brief: localItem.early_brief !== undefined ? localItem.early_brief : (item.early_brief || false),
+        ai_summary: item.ai_summary || null,
       };
     });
 
@@ -458,6 +468,7 @@ function renderCard(item, full) {
           <span class="tag tag-status ${item.status}" onclick="cycleStatus(${item.id})">${esc(item.status)}</span>
         </div>
         ${item.summary ? `<div class="card-summary" style="${summaryStyle}">${esc(item.summary)}</div>` : ''}
+        ${item.ai_summary ? `<div class="card-ai-summary">${esc(item.ai_summary)}</div>` : ''}
         <div class="card-date">${relDate(item.published)}</div>
       </div>
       <div class="card-actions">

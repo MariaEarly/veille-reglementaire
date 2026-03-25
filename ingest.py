@@ -5,7 +5,7 @@ Utilisé par GitHub Actions pour le cron d'ingestion.
 Produit un data.json consommé par le dashboard statique.
 """
 
-import json, os, hashlib, re, time
+import json, os, hashlib, re, time, urllib.request
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -219,6 +219,52 @@ def item_hash(title, url):
     return hashlib.sha1(f"{title}|{url}".encode()).hexdigest()[:16]
 
 
+def summarize_item(title, summary, source_name):
+    """Generate AI-powered 1-line French summary for compliance relevance."""
+    api_key = os.getenv("ANTHROPIC_API_KEY")
+    if not api_key:
+        return None
+
+    try:
+        prompt = (
+            f"Tu es un expert en conformité financière (LCB-FT, sanctions, réglementation). "
+            f"Résume en UNE SEULE phrase (max 120 caractères) pourquoi cet article est pertinent "
+            f"pour un compliance officer. Article: {title} — {summary}. Source: {source_name}"
+        )
+
+        payload = {
+            "model": "claude-haiku-4-5-20251001",
+            "max_tokens": 150,
+            "messages": [
+                {
+                    "role": "user",
+                    "content": prompt
+                }
+            ]
+        }
+
+        req = urllib.request.Request(
+            "https://api.anthropic.com/v1/messages",
+            data=json.dumps(payload).encode("utf-8"),
+            headers={
+                "x-api-key": api_key,
+                "content-type": "application/json",
+            },
+            method="POST"
+        )
+
+        response = urllib.request.urlopen(req, timeout=10)
+        result = json.loads(response.read().decode("utf-8"))
+
+        if result.get("content") and len(result["content"]) > 0:
+            return result["content"][0].get("text", "").strip()
+        return None
+
+    except Exception as e:
+        print(f"    AI summary error for '{title[:50]}...': {e}")
+        return None
+
+
 # ---------------------------------------------------------------------------
 # DATA
 # ---------------------------------------------------------------------------
@@ -306,6 +352,7 @@ def fetch_rss(url, source_name, source_type, category):
             "action_class": action_class,
             "status": "new",
             "early_brief": False,
+            "ai_summary": None,
         })
 
     return items
@@ -376,19 +423,40 @@ def main():
     if added:
         print(f"Seeded {added} new sources")
 
-    # Enrich existing items with new fields (doc_type, action_class)
+    # Enrich existing items with new fields (doc_type, action_class, ai_summary)
     enriched = 0
     for item in data["items"]:
         if "doc_type" not in item:
             item["doc_type"] = detect_doc_type(item.get("title", ""))
             item["action_class"] = classify_action(item["doc_type"], item.get("title", ""), item.get("score", 0))
             enriched += 1
+        item.setdefault("ai_summary", None)
     if enriched:
         print(f"Enriched {enriched} existing items with doc_type/action_class")
 
     # Ingest
     new_count = ingest_all(data)
     print(f"\nIngested {new_count} new articles")
+
+    # AI summarization: process items without ai_summary (limit to 50 per run for cost control)
+    items_to_summarize = [
+        item for item in data["items"]
+        if item.get("ai_summary") is None
+    ][:50]
+    if items_to_summarize:
+        print(f"\nGenerating AI summaries for {len(items_to_summarize)} items...")
+        for idx, item in enumerate(items_to_summarize, 1):
+            summary_result = summarize_item(
+                item.get("title", ""),
+                item.get("summary", ""),
+                item.get("source_name", "")
+            )
+            if summary_result:
+                item["ai_summary"] = summary_result
+                print(f"  [{idx}/{len(items_to_summarize)}] {item['source_name']}: {summary_result[:60]}...")
+            else:
+                print(f"  [{idx}/{len(items_to_summarize)}] {item['source_name']}: skipped")
+            time.sleep(0.1)  # Brief delay between calls
 
     # Prune old articles to keep data.json manageable
     prune_old_items(data, max_age_days=30)

@@ -1,16 +1,16 @@
-name: Veille Réglementaire — Ingestion
+name: Veille — Gmail Monitor (ACPR/ESMA/EBA)
 
 on:
   schedule:
-    # Toutes les 6 heures : 6h, 12h, 18h, minuit (UTC)
-    - cron: '0 0,6,12,18 * * *'
-  workflow_dispatch:  # Permet de lancer manuellement depuis l'UI GitHub
+    # Toutes les 6 heures, décalé de 30 min par rapport à l'ingestion RSS
+    - cron: '30 0,6,12,18 * * *'
+  workflow_dispatch:
 
 jobs:
-  ingest:
+  monitor:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Nécessaire pour committer data.json
+      contents: write
 
     steps:
       - name: Checkout repo
@@ -24,10 +24,11 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser
 
-      - name: Run ingestion
+      - name: Run Gmail monitor
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python ingest.py
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python gmail_monitor.py
 
       - name: Commit & push data.json
         run: |
@@ -37,6 +38,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: update veille data $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git commit -m "chore: gmail monitor update $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
           fi
