@@ -30,25 +30,21 @@ AUTH_PASSWORD = os.environ.get("VEILLE_PASSWORD", "")
 # ---------------------------------------------------------------------------
 SEED_SOURCES = [
     # Autorités FR
-    {"name": "ACPR - Dernières publications", "url": "https://acpr.banque-france.fr/rss", "type": "rss", "category": "autorite_fr"},
-    {"name": "AMF - Actualités", "url": "https://www.amf-france.org/fr/rss/actualites.xml", "type": "rss", "category": "autorite_fr"},
+    {"name": "AMF - Actualités", "url": "https://www.amf-france.org/fr/flux-rss/display/21", "type": "rss", "category": "autorite_fr"},
+    {"name": "AMF - Mises en garde", "url": "https://www.amf-france.org/fr/flux-rss/display/28", "type": "rss", "category": "autorite_fr"},
     {"name": "Tracfin", "url": "https://www.economie.gouv.fr/tracfin/rss", "type": "rss", "category": "autorite_fr"},
     {"name": "DGCCRF", "url": "https://www.economie.gouv.fr/dgccrf/rss", "type": "rss", "category": "autorite_fr"},
-    {"name": "DG Trésor", "url": "https://www.tresor.economie.gouv.fr/rss", "type": "rss", "category": "autorite_fr"},
+    {"name": "DG Trésor", "url": "https://www.tresor.economie.gouv.fr/Flux/Atom/Articles/Home", "type": "rss", "category": "autorite_fr"},
     {"name": "CNIL", "url": "https://www.cnil.fr/fr/rss.xml", "type": "rss", "category": "autorite_fr"},
     # Autorités EU
     {"name": "EBA - European Banking Authority", "url": "https://www.eba.europa.eu/rss.xml", "type": "rss", "category": "autorite_eu"},
-    {"name": "ESMA", "url": "https://www.esma.europa.eu/rss", "type": "rss", "category": "autorite_eu"},
     {"name": "ECB - Banking Supervision", "url": "https://www.bankingsupervision.europa.eu/rss/press.html", "type": "rss", "category": "autorite_eu"},
     {"name": "ECB - Press Releases", "url": "https://www.ecb.europa.eu/rss/press.html", "type": "rss", "category": "autorite_eu"},
     {"name": "ECB - Blog", "url": "https://www.ecb.europa.eu/rss/blog.html", "type": "rss", "category": "autorite_eu"},
-    {"name": "EU - EUR-Lex Financial", "url": "https://eur-lex.europa.eu/RSSNewOJ", "type": "rss", "category": "autorite_eu"},
-    {"name": "AMLA (EU AML Authority)", "url": "https://www.amla.europa.eu/rss.xml", "type": "rss", "category": "autorite_eu"},
     # International
-    {"name": "FATF / GAFI", "url": "https://www.fatf-gafi.org/rss/fatf-news.xml", "type": "rss", "category": "autorite_intl"},
-    {"name": "BIS - Bank for International Settlements", "url": "https://www.bis.org/doclist/pressrelease.rss", "type": "rss", "category": "autorite_intl"},
+    {"name": "BIS - Speeches", "url": "https://www.bis.org/doclist/cbspeeches.rss", "type": "rss", "category": "autorite_intl"},
+    {"name": "BIS - Working Papers", "url": "https://www.bis.org/doclist/wppubls.rss", "type": "rss", "category": "autorite_intl"},
     {"name": "OFAC (US Treasury)", "url": "https://ofac.treasury.gov/rss.xml", "type": "rss", "category": "autorite_intl"},
-    {"name": "Egmont Group (FIUs)", "url": "https://egmontgroup.org/feed/", "type": "rss", "category": "autorite_intl"},
     {"name": "OpenSanctions", "url": "https://www.opensanctions.org/changelog/rss/", "type": "rss", "category": "autorite_intl"},
     # Justice FR (PNF, PNACO)
     {"name": "PNF (Parquet National Financier)", "url": "https://social.numerique.gouv.fr/@pnf.rss", "type": "rss", "category": "autorite_fr"},
@@ -130,16 +126,15 @@ _REGEX_KEYWORDS = [
 
 # Sources cœur compliance : tout leur contenu est pertinent, pas de filtrage
 CORE_COMPLIANCE_SOURCES = {
-    "ACPR - Dernières publications",
     "AMF - Actualités",
+    "AMF - Mises en garde",
     "Tracfin",
-    "FATF / GAFI",
-    "AMLA (EU AML Authority)",
     "OFAC (US Treasury)",
     "EBA - European Banking Authority",
-    "ESMA",
     "ECB - Banking Supervision",
     "PNF (Parquet National Financier)",
+    "BIS - Speeches",
+    "DG Trésor",
     "JORF - Lois",
     "JORF - Blanchiment",
     "JORF - Sanctions",
