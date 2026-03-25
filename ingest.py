@@ -108,6 +108,12 @@ COMPLIANCE_KEYWORDS = [
     "obligation de déclaration", "personne politiquement exposée",
     "dispositif lcb", "organe de contrôle",
     "jorf", "journal officiel",
+    # AMF enforcement actions
+    "composition administrative", "commission des sanctions",
+    "sanction disciplinaire", "manquement", "grief",
+    # Banking instruments
+    "chèques irréguliers", "fichier national des chèques",
+    "interdit bancaire", "fcc", "ficp",
 ]
 
 _REGEX_KEYWORDS = [
@@ -115,45 +121,64 @@ _REGEX_KEYWORDS = [
 ]
 
 CORE_COMPLIANCE_SOURCES = {
-    "AMF - Actualités",
     "AMF - Mises en garde",
     "Tracfin",
     "OFAC (US Treasury)",
-    "EBA - European Banking Authority",
-    "ECB - Banking Supervision",
     "PNF (Parquet National Financier)",
     "JORF - Blanchiment",
     "JORF - Sanctions financières",
-    "ANSSI - Alertes",
+    "GAFI/FATF Statements",
+    "FinCrime Central",
+    "Financial Crime News",
 }
+# Sources qui passent mais avec filtre léger (keyword compliance)
+# AMF Actualités, EBA, ECB, ANSSI, etc. = doivent matcher des keywords
 
-# Mots-clés d'exclusion : si présents, l'article est rejeté
+# Mots-clés d'exclusion : si présents dans titre+summary, l'article est rejeté
 EXCLUDE_KEYWORDS = [
+    # Conventions collectives / droit du travail
     "convention collective", "accords départementaux", "accords régionaux",
     "extension d'accords", "extension d'un avenant", "portant extension",
     "ouvriers employés par les entreprises du bâtiment",
-    "sécurité sociale", "retraite complémentaire",
-    "nucléaire", "interconnexions électriques",
-    "transition énergétique", "flash conjoncture",
-    # Rail, transport
     "branche ferroviaire", "ferroviaire",
-    # Treasury / reserves (macroeconomic, not compliance)
+    "travail dissimulé", "droit du travail", "code du travail",
+    "livraison de repas", "coursiers", "livreurs",
+    "sécurité sociale", "retraite complémentaire",
+    # Macroéconomie / conjoncture
+    "flash conjoncture", "conjoncture pays", "conjoncture france",
     "réserves de change", "réserves nettes", "réserves officielles",
-    # Technical changelogs
+    "interconnexions électriques", "transition énergétique",
+    "commerce extérieur", "investissement en construction",
+    "croissance modérée", "production dans l'industrie",
+    "nucléaire",
+    # Tech changelogs
     "format change", "changelog", "release notes",
-    # Employee savings (not compliance-related)
-    "épargne salariale", "épargne retraite",
-    # AMF corporate HR and surveys (not compliance)
-    "égalité femmes-hommes", "index égalité", "baromètre", "investisseurs particuliers",
-    # DG Trésor industrial/defense (not compliance)
+    # Épargne / investisseurs particuliers (pas compliance)
+    "épargne salariale", "épargne retraite", "guide pédagogique de l'épargne",
+    "baromètre", "investisseurs particuliers", "tableau de bord des investisseurs",
+    # AMF corporate HR
+    "égalité femmes-hommes", "index égalité",
+    # DG Trésor hors périmètre
     "base industrielle", "industrie de défense",
-    # DGCCRF consumer protection (not financial compliance)
+    "objectif afrique", "prêt garanti par l'état",
+    # DGCCRF consumer protection
     "date butoir", "pratiques commerciales", "intermarché", "supermarché",
-    "grande distribution",
-    # ESG/sustainability (unless also matches compliance keywords)
+    "grande distribution", "centrale d'achats",
+    # ESG/durabilité (sauf si aussi compliance)
     "durabilité", "préférences de durabilité", "esg",
-    # IP (not financial compliance)
+    "risques climatiques", "climate risk", "nature-related",
+    # IP
     "propriété intellectuelle", "contrefaçon", "anti-contrefaçon",
+    # CVE / vulnérabilités techniques (bruit ANSSI)
+    "vulnérabilité dans", "vulnérabilités dans", "multiples vulnérabilités",
+    "bulletin d'actualité certfr",
+    # Divers hors périmètre
+    "jeux olympiques", "paralympiques",
+    "inauguration", "laboratory", "laboratoire",
+    "book review", "thriller",
+    # Géopolitique générale sans lien compliance
+    "standing with ukraine", "resilience, growth and stability",
+    "small island developing",
 ]
 
 
@@ -236,52 +261,110 @@ def matches_compliance_keywords(title, text):
 
 def is_off_topic_for_compliance(title, summary, source_name):
     """
-    For CORE_COMPLIANCE_SOURCES, filter out articles that are off-topic
-    even though they come from trusted sources.
-    Returns True if the article should be excluded (is off-topic).
+    Filter out articles that are off-topic for financial compliance (LCB-FT, sanctions, AML).
+    Returns True if the article should be excluded.
     """
     combined = f"{title} {summary}".lower()
+    src = source_name.lower()
 
-    # AMF-specific filtering: exclude investor education, corporate news, general surveys
-    if "amf" in source_name.lower():
-        off_topic_keywords = [
+    # ── AMF: exclude investor education, corporate news, savings guides ──
+    if "amf" in src:
+        off_topic = [
             "baromètre", "investisseurs particuliers", "éducation financière",
             "égalité femmes-hommes", "index égalité", "gender", "rh", "ressources humaines",
-            "épargne", "placement", "fonds commun", "sicav",
+            "épargne salariale", "épargne retraite", "guide pédagogique",
+            "fonds commun", "sicav", "lettre epargne info",
+            "typologie des intervenants", "typologie des acteurs",
         ]
-        if any(k in combined for k in off_topic_keywords):
-            # Check if it also matches compliance-related keywords
-            if not matches_compliance_keywords(title, summary):
-                return True
+        if any(k in combined for k in off_topic):
+            return True
 
-    # DG Trésor: exclude macroeconomic/industrial content
-    if "dg trésor" in source_name.lower() or "tresor" in source_name.lower():
-        off_topic_keywords = [
+    # ── DG Trésor: exclude macro/industrial/geopolitics ──
+    if "trésor" in src or "tresor" in src:
+        off_topic = [
             "réserves de change", "réserves nettes", "réserves officielles",
             "base industrielle", "industrie de défense", "conjoncture", "croissance",
+            "flash conjoncture", "commerce extérieur", "investissement en construction",
+            "production dans l'industrie", "objectif afrique", "interconnexions",
+            "nucléaire", "transition énergétique", "propriété intellectuelle",
+            "prêt garanti", "label isr", "g7 finances",
         ]
-        if any(k in combined for k in off_topic_keywords):
-            if not matches_compliance_keywords(title, summary):
+        if any(k in combined for k in off_topic):
+            return True
+
+    # ── OpenSanctions: exclude technical changelogs ──
+    if "opensanctions" in src:
+        off_topic = ["format change", "changelog", "release notes", "version", "update"]
+        if any(k in combined for k in off_topic):
+            return True
+
+    # ── DGCCRF: ALL content excluded (consumer protection, not financial compliance) ──
+    if "dgccrf" in src:
+        return True
+
+    # ── BIS Speeches: exclude unless specifically about AML/sanctions/supervision/compliance ──
+    if "bis" in src and "speech" in src:
+        must_match = [
+            "money laundering", "blanchiment", "sanction", "aml", "cft",
+            "compliance", "conformité", "supervision", "prudenti",
+            "anti-money", "terrorist financing", "financement du terrorisme",
+            "lcb", "kyc", "due diligence", "fatf", "gafi",
+            "stablecoin", "crypto", "digital currency", "cbdc",
+            "payment", "paiement", "bank regulation", "capital requirement",
+            "resolution", "deposit insurance", "systemic risk",
+        ]
+        if not any(k in combined for k in must_match):
+            return True
+
+    # ── ECB speeches/interviews: exclude general macro, keep supervision-specific ──
+    if "ecb" in src:
+        # Exclude climate/nature/general speeches
+        off_topic = [
+            "climate", "nature", "biodiversity", "green transition",
+            "competitiveness", "competition", "growth and stability",
+        ]
+        if any(k in combined for k in off_topic):
+            if not any(k in combined for k in ["supervision", "prudenti", "aml", "compliance", "sanction"]):
                 return True
 
-    # OpenSanctions: exclude technical changelogs
-    if "opensanctions" in source_name.lower():
-        off_topic_keywords = [
-            "format change", "changelog", "release notes", "version", "update",
+    # ── ANSSI: only keep DORA/NIS2/compliance-related alerts ──
+    if "anssi" in src:
+        must_match = [
+            "dora", "nis2", "nis 2", "directive nis", "résilience opérationnelle",
+            "opérateur d'importance vitale", "oiv", "secteur bancaire",
+            "secteur financier", "note d'alerte", "alerte de sécurité",
         ]
-        if any(k in combined for k in off_topic_keywords):
-            if not matches_compliance_keywords(title, summary):
+        # Exclude generic CVE bulletins
+        generic_cve = ["vulnérabilité dans", "vulnérabilités dans", "bulletin d'actualité certfr"]
+        if any(k in combined for k in generic_cve):
+            if not any(k in combined for k in must_match):
                 return True
 
-    # DGCCRF: exclude consumer protection (not financial compliance)
-    if "dgccrf" in source_name.lower():
-        off_topic_keywords = [
-            "pratiques commerciales", "date butoir", "consommateur", "supermarché",
-            "intermarché", "grande distribution",
+    # ── Le Monde / Les Echos: exclude labor law, consumer, general economics ──
+    if "le monde" in src or "les echos" in src:
+        off_topic = [
+            "travail dissimulé", "droit du travail", "livraison",
+            "coursiers", "livreurs", "foodora", "deliveroo", "uber eats",
+            "grève", "manifestation", "retraite", "chômage",
         ]
-        if any(k in combined for k in off_topic_keywords):
-            if not matches_compliance_keywords(title, summary):
-                return True
+        if any(k in combined for k in off_topic):
+            return True
+
+    # ── JORF Sanctions / JORF Lois: exclude conventions collectives, non-financial ──
+    if "jorf" in src:
+        off_topic = [
+            "convention collective", "portant extension", "accords départementaux",
+            "accords régionaux", "branche ferroviaire", "bâtiment",
+            "jeux olympiques", "paralympiques", "sport",
+        ]
+        if any(k in combined for k in off_topic):
+            return True
+
+    # ── Financial Crime News: exclude book reviews, non-news ──
+    if "financial crime" in src or "fincrime" in src:
+        off_topic = ["thriller", "book review", "novel", "fiction"]
+        if any(k in combined for k in off_topic):
+            return True
 
     return False
 
@@ -402,12 +485,12 @@ def fetch_rss(url, source_name, source_type, category):
         if any(ex in combined_lower for ex in EXCLUDE_KEYWORDS):
             continue
 
-        # For CORE sources, also check if content is off-topic
-        if source_name in CORE_COMPLIANCE_SOURCES:
-            if is_off_topic_for_compliance(title, summary_clean, source_name):
-                continue
-        else:
-            # Non-core sources must match compliance keywords
+        # Source-specific off-topic filter (applies to ALL sources)
+        if is_off_topic_for_compliance(title, summary_clean, source_name):
+            continue
+
+        # Non-core sources must also match compliance keywords
+        if source_name not in CORE_COMPLIANCE_SOURCES:
             if not matches_compliance_keywords(title, summary_clean):
                 continue
 
@@ -486,6 +569,42 @@ def prune_old_items(data, max_age_days=30):
 
 
 # ---------------------------------------------------------------------------
+# RETROACTIVE PURGE — clean existing items against current filters
+# ---------------------------------------------------------------------------
+def _should_purge_existing(item):
+    """Returns True if an existing item should be removed (off-topic)."""
+    title = item.get("title", "")
+    summary = item.get("summary", "")
+    source = item.get("source_name", "")
+    combined = f"{title} {summary}".lower()
+
+    # 1. AI already flagged as off-topic
+    ai = (item.get("ai_summary") or "").lower()
+    if "hors périmètre" in ai or "non pertinent" in ai or "pas pertinent" in ai:
+        # Don't purge if user marked as early_brief
+        if not item.get("early_brief"):
+            return True
+
+    # 2. Matches current EXCLUDE_KEYWORDS
+    if any(ex in combined for ex in EXCLUDE_KEYWORDS):
+        if not item.get("early_brief"):
+            return True
+
+    # 3. Matches source-specific off-topic filter
+    if is_off_topic_for_compliance(title, summary, source):
+        if not item.get("early_brief"):
+            return True
+
+    # 4. Non-core sources that don't match compliance keywords
+    if source not in CORE_COMPLIANCE_SOURCES:
+        if not matches_compliance_keywords(title, summary):
+            if not item.get("early_brief"):
+                return True
+
+    return False
+
+
+# ---------------------------------------------------------------------------
 # MAIN
 # ---------------------------------------------------------------------------
 def main():
@@ -514,6 +633,16 @@ def main():
             item["ai_summary"] = None
     if enriched:
         print(f"Enriched {enriched} existing items with doc_type/action_class")
+
+    # Purge existing off-topic items (retroactive filter cleanup)
+    before_purge = len(data["items"])
+    data["items"] = [
+        it for it in data["items"]
+        if not _should_purge_existing(it)
+    ]
+    purged = before_purge - len(data["items"])
+    if purged:
+        print(f"Purged {purged} off-topic items from existing data")
 
     # Ingest
     new_count = ingest_all(data)
