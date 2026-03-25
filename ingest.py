@@ -34,6 +34,7 @@ SEED_SOURCES = [
     {"name": "ECB - Press Releases", "url": "https://www.ecb.europa.eu/rss/press.html", "type": "rss", "category": "autorite_eu"},
     {"name": "ECB - Blog", "url": "https://www.ecb.europa.eu/rss/blog.html", "type": "rss", "category": "autorite_eu"},
     {"name": "EDPB - European Data Protection Board", "url": "https://www.edpb.europa.eu/rss_en", "type": "rss", "category": "autorite_eu"},
+    {"name": "AMLA - Anti-Money Laundering Authority", "url": "https://www.amla.europa.eu/node/19/rss_en", "type": "rss", "category": "autorite_eu"},
     # International
     {"name": "BIS - Speeches", "url": "https://www.bis.org/doclist/cbspeeches.rss", "type": "rss", "category": "autorite_intl"},
     {"name": "BIS - Working Papers", "url": "https://www.bis.org/doclist/wppubls.rss", "type": "rss", "category": "autorite_intl"},
@@ -130,6 +131,7 @@ CORE_COMPLIANCE_SOURCES = {
     "GAFI/FATF Statements",
     "FinCrime Central",
     "Financial Crime News",
+    "AMLA - Anti-Money Laundering Authority",
 }
 # Sources qui passent mais avec filtre léger (keyword compliance)
 # AMF Actualités, EBA, ECB, ANSSI, etc. = doivent matcher des keywords
