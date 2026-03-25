@@ -248,6 +248,7 @@ def summarize_item(title, summary, source_name):
             data=json.dumps(payload).encode("utf-8"),
             headers={
                 "x-api-key": api_key,
+                "anthropic-version": "2023-06-01",
                 "content-type": "application/json",
             },
             method="POST"
