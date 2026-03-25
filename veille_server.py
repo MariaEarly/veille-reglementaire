@@ -50,6 +50,9 @@ SEED_SOURCES = [
     {"name": "OFAC (US Treasury)", "url": "https://ofac.treasury.gov/rss.xml", "type": "rss", "category": "autorite_intl"},
     {"name": "Egmont Group (FIUs)", "url": "https://egmontgroup.org/feed/", "type": "rss", "category": "autorite_intl"},
     {"name": "OpenSanctions", "url": "https://www.opensanctions.org/changelog/rss/", "type": "rss", "category": "autorite_intl"},
+    # Justice FR (PNF, PNACO)
+    {"name": "PNF (Parquet National Financier)", "url": "https://social.numerique.gouv.fr/@pnf.rss", "type": "rss", "category": "autorite_fr"},
+    {"name": "MinistÃ¨re de la Justice (CJIP)", "url": "https://www.justice.gouv.fr/rss.xml", "type": "rss", "category": "autorite_fr"},
     # Presse spÃ©cialisÃ©e (filtrÃ©e par mots-clÃ©s)
     {"name": "Les Echos Finance", "url": "https://www.lesechos.fr/rss/rss_finance.xml", "type": "press", "category": "presse"},
     {"name": "Le Monde Ãconomie", "url": "https://www.lemonde.fr/economie/rss_full.xml", "type": "press", "category": "presse"},
@@ -117,6 +120,7 @@ CORE_COMPLIANCE_SOURCES = {
     "EBA - European Banking Authority",
     "ESMA",
     "ECB - Banking Supervision",
+    "PNF (Parquet National Financier)",
 }
 
 
@@ -135,7 +139,7 @@ def score_item(title, text, category):
 
 def matches_compliance_keywords(title, text):
     """Retourne True si le titre/texte contient au moins un mot-clÃ© compliance."""
-    combined = f"{title} {text}".lower()
+    combined = f{title} {text}".lower()
     if any(k in combined for k in COMPLIANCE_KEYWORDS):
         return True
     # VÃ©rification regex pour mots-clÃ©s ambigus (ex: "mica" mais pas "MICA Center")
@@ -315,103 +319,63 @@ class VeilleHandler(BaseHTTPRequestHandler):
     def do_GET(self):
         if not self._check_auth():
             return
+\ÙYH\\ÙJÙ[]
+B]H\ÙY]Ý\
+ÈHÜÈ\ÈH\ÙWÜ\Ê\ÙY]Y\JBY]OHÈYSÑSK^\ÝÊ
+NÛÛ[HSÑSKXYØ]\Ê
+BÙ[Ù[Ü\ÜÛÙJ
+BÙ[Ù[ÚXY\ÛÛ[U\H^Ú[ÈÚ\Ù]]]NBÙ[Ù[ÚXY\ÛÛ[S[ÝÝ[ÛÛ[
+JJBÙ[Ù[ÚXY\ØXÚKPÛÛÛËXØXÚKË\ÝÜK]\Ý\][Y]HBÙ[[ÚXY\Ê
+BÙ[Ù[KÜ]JÛÛ[
+B[ÙNÙ[Ù[Ù\Ü
+
+\ÚØ\SÝÝ[B]\]HHØYÙ]J
+BY]OHØ\KÚ][\È][\ÈH]VÈ][\ÈB][\ËÛÜ
+Ù^O[[XHÙ]
+ØÛÜH
+K]\ÙOUYJBÙ[ÚÛÛÜ\ÜÛÙJ][\ÊB]\Y]OHØ\KÚ][\ËÜÙX\ÚHH\ËÙ]
+HÈJVÌKÝÙ\
+B][\ÈHÚHÜH[]VÈ][\ÈHYH[VÈ]HKÝÙ\
+HÜH[KÙ]
+Ý[[X\HKÝÙ\
+WB][\ËÛÜ
+Ù^O[[XHÙ]
+ØÛÜH
+K]\ÙOUYJBÙ[ÚÛÛÜ\ÜÛÙJ][\ÊB]\Y]OHØ\KÜÛÝ\Ù\ÈÙ[ÚÛÛÜ\ÜÛÙJ]VÈÛÝ\Ù\ÈJB]\Y]OHØ\KÙX\KXYY][\ÈHÚÜH[]VÈ][\ÈHYKÙ]
+X\WØYYWB][\ËÛÜ
+Ù^O[[XHÙ]
+ØÛÜH
+K]\ÙOUYJBÙ[ÚÛÛÜ\ÜÛÙJ][\ÊB]\Y]OHØ\KÙYÙ\Ý^\ÈH[
+\ËÙ]
+^\ÈÍ×JVÌJBÝ]ÙH
+]][YKÝÊ[Y^ÛK]ÊHH[YY[J^\ÏY^\ÊJK\ÛÙÜX]
 
-        parsed = urlparse(self.path)
-        path = parsed.path.rstrip("/") or "/"
-        qs = parse_qs(parsed.query)
+BXÙ[HÚHÜH[]VÈ][\ÈHYKÙ]
+X\ÚYHHÝ]ÙBXÙ[ÛÜ
+Ù^O[[XHÙ]
+ØÛÜH
+K]\ÙOUYJBÙ[ÚÛÛÜ\ÜÛÙJÂ\[ÙÙ^\È^\ËÛÝ[[XÙ[
+KÜÚ][\ÈXÙ[ÎKJB]\Ù[Ù[Ù\Ü
+
+BY×ÔÔÕ
+Ù[NYÝÙ[ØÚXÚ×Ø]]
 
-        if path == "/":
-            if HTML_FILE.exists():
-                content = HTML_FILE.read_bytes()
-                self.send_response(200)
-                self.send_header("Content-Type", "text/html; charset=utf-8")
-                self.send_header("Content-Length", str(len(content)))
-                self.send_header("Cache-Control", "no-cache, no-store, must-revalidate")
-                self.end_headers()
-                self.wfile.write(content)
-            else:
-                self.send_error(404, "Dashboard HTML not found")
-            return
-
-        data = load_data()
-
-        if path == "/api/items":
-            items = data["items"]
-            items.sort(key=lambda x: x.get("score", 0), reverse=True)
-            self._json_response(items)
-            return
-
-        if path == "/api/items/search":
-            q = qs.get("q", [""])[0].lower()
-            items = [i for i in data["items"] if q in i["title"].lower() or q in i.get("summary", "").lower()]
-            items.sort(key=lambda x: x.get("score", 0), reverse=True)
-            self._json_response(items)
-            return
-
-        if path == "/api/sources":
-            self._json_response(data["sources"])
-            return
-
-        if path == "/api/early-brief":
-            items = [i for i in data["items"] if i.get("early_brief")]
-            items.sort(key=lambda x: x.get("score", 0), reverse=True)
-            self._json_response(items)
-            return
-
-        if path == "/api/digest":
-            days = int(qs.get("days", [7])[0])
-            cutoff = (datetime.now(timezone.utc) - timedelta(days=days)).isoformat()
-            recent = [i for i in data["items"] if i.get("published", "") >= cutoff]
-            recent.sort(key=lambda x: x.get("score", 0), reverse=True)
-            self._json_response({
-                "period_days": days,
-                "count": len(recent),
-                "top_items": recent[:20],
-            })
-            return
-
-        self.send_error(404)
-
-    def do_POST(self):
-        if not self._check_auth():
-            return
-
-        parsed = urlparse(self.path)
-        path = parsed.path.rstrip("/")
-        data = load_data()
-
-        if path == "/api/seed":
-            added = seed_sources(data)
-            self._json_response({"added": added})
-            return
-
-        if path == "/api/ingest":
-            new_count = ingest_all(data)
-            self._json_response({"new_items": new_count, "total": len(data["items"])})
-            return
-
-        if path == "/api/sources":
-            body = json.loads(self._read_body())
-            data["sources"].append({
-                "name": body.get("name", "Custom"),
-                "url": body.get("url", ""),
-                "type": body.get("type", "rss"),
-                "category": body.get("category", "presse"),
-                "active": True,
-            })
-            save_data(data)
-            self._json_response({"ok": True})
-            return
-
-        if path == "/api/items":
-            body = json.loads(self._read_body())
-            items = body if isinstance(body, list) else [body]
-            existing_hashes = {it["hash"] for it in data["items"]}
-            added = 0
-            for item in items:
-                h = item.get("hash") or item_hash(item.get("title", ""), item.get("url", ""))
+N]\\ÙYH\\ÙJÙ[]
+B]H\ÙY]Ý\
+ÈB]HHØYÙ]J
+BY]OHØ\KÜÙYYYYHÙYYÜÛÝ\Ù\Ê]JBÙ[ÚÛÛÜ\ÜÛÙJÈYYYYJB]\Y]OHØ\KÚ[Ù\Ý]×ØÛÝ[H[Ù\ÝØ[
+]JBÙ[ÚÛÛÜ\ÜÛÙJÈ]×Ú][\È]×ØÛÝ[Ý[[]VÈ][\ÈJ_JB]\Y]OHØ\KÜÛÝ\Ù\ÈÙHHÛÛØYÊÙ[ÜXYØÙJ
+JB]VÈÛÝ\Ù\ÈK\[
+Â[YHÙKÙ]
+[YHÝ\ÝÛHK\ÙKÙ]
+\K\HÙKÙ]
+\HÜÈKØ]YÛÜHÙKÙ]
+Ø]YÛÜH\ÜÙHKXÝ]HYKJBØ]WÙ]J]JBÙ[ÚÛÛÜ\ÜÛÙJÈÚÈY_JB]\Y]OHØ\KÚ][\ÈÙHHÛÛØYÊÙ[ÜXYØÙJ
+JB][\ÈHÙHY\Ú[Ý[ÙJÙK\Ý
+H[ÙHØÙWB^\Ý[×Ú\Ú\ÈHÚ]È\ÚHÜ][]VÈ][\È_BYYHÜ][H[][\ÎH][KÙ]
+ish") or item_hash(item.get("title", ""), item.get("url", ""))
                 if h not in existing_hashes:
-                    item["hash"] = h
+                    item["hash"] = h"
                     item.setdefault("source_type", "email")
                     item.setdefault("category", "email")
                     item.setdefault("status", "new")
@@ -423,7 +387,7 @@ class VeilleHandler(BaseHTTPRequestHandler):
                             item.get("category", "email"),
                         )
                     data["items"].append(item)
-                    existing_hashes.add(h)
+                    existing_hashes.add(i)
                     added += 1
             if added:
                 save_data(data)
@@ -490,7 +454,7 @@ def main():
         print("First run: seeding sources...")
         seed_sources(data)
 
-    print(f"Veille RÃ©glementaire â http://{HOST}:{PORT}")
+    print(f"Veille RÃªglementaire  â http://{HOST}:{PORT}")
     print(f"  {len(data['sources'])} sources, {len(data['items'])} articles")
     if AUTH_PASSWORD:
         print("  Protected by password")
