@@ -55,8 +55,6 @@ SEED_SOURCES = [
     {"name": "MinistÃ¨re de la Justice (CJIP)", "url": "https://www.justice.gouv.fr/rss.xml", "type": "rss", "category": "autorite_fr"},
     # JORF / Legifrance (via legifrss.org â flux non-officiel fiable)
     {"name": "JORF - Lois", "url": "https://legifrss.org/latest?nature=LOI", "type": "rss", "category": "autorite_fr"},
-    {"name": "JORF - DÃ©crets", "url": "https://legifrss.org/latest?nature=DECRET", "type": "rss", "category": "autorite_fr"},
-    {"name": "JORF - ArrÃªtÃ©s", "url": "https://legifrss.org/latest?nature=ARRETE", "type": "rss", "category": "autorite_fr"},
     {"name": "JORF - Blanchiment", "url": "https://legifrss.org/latest?q=blanchiment", "type": "rss", "category": "autorite_fr"},
     {"name": "JORF - Financier", "url": "https://legifrss.org/latest?q=financier", "type": "rss", "category": "autorite_fr"},
     {"name": "JORF - Bancaire", "url": "https://legifrss.org/latest?q=bancaire", "type": "rss", "category": "autorite_fr"},
@@ -197,7 +195,7 @@ def item_hash(title, url):
 
 # ---------------------------------------------------------------------------
 # RSS INGESTION
-# ---------------------------------------------------------------------------
+# ---------------------------------------------------------------------
 def fetch_rss(url, source_name, source_type, category):
     try:
         import feedparser
