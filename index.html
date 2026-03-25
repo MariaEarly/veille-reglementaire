@@ -168,6 +168,9 @@
     .tag-status.important { background: var(--rust-light); color: var(--rust); }
     .tag-status.reviewed { background: #e8eaf0; color: #3a4a80; }
     .tag-status.archived { background: #ece8e0; color: var(--subtle); }
+    .tag-doctype { background: #2a2a3e; color: #d4d0ff; }
+    .tag-action { background: #d4380d; color: #fff; font-weight: 600; }
+    .tag-info { background: #e8eaf0; color: #5a6080; }
 
     .card-summary {
       color: var(--muted); font-size: 0.88rem; line-height: 1.55;
@@ -297,6 +300,11 @@
         <option value="40">Score ≥ 40</option>
         <option value="60">Score ≥ 60</option>
       </select>
+      <select class="filter-select" id="filter-action">
+        <option value="">Action + Info</option>
+        <option value="action">Action requise</option>
+        <option value="info">Informatif</option>
+      </select>
       <select class="filter-select" id="sort-by">
         <option value="fresh">Tri : Récents d'abord</option>
         <option value="score">Tri : Score</option>
@@ -360,6 +368,8 @@ async function fetchData() {
         source_type: item.source_type || '',
         category: item.category || '',
         score: item.score || 0,
+        doc_type: item.doc_type || null,
+        action_class: item.action_class || 'info',
         status: localItem.status || item.status || (item.score >= 40 ? 'important' : 'new'),
         early_brief: localItem.early_brief !== undefined ? localItem.early_brief : (item.early_brief || false),
       };
@@ -441,6 +451,8 @@ function renderCard(item, full) {
         <div class="card-title">${title}</div>
         <div class="card-meta">
           ${fresh ? '<span class="tag tag-fresh">&lt; 24h</span>' : ''}
+          ${item.doc_type ? `<span class="tag tag-doctype">${esc(item.doc_type)}</span>` : ''}
+          <span class="tag tag-${item.action_class}">${item.action_class === 'action' ? 'ACTION' : 'INFO'}</span>
           <span class="tag tag-source" style="background:${sourceColor(item.source)}">${esc(item.source)}</span>
           <span class="tag tag-category">${catLabel(item.category)}</span>
           <span class="tag tag-status ${item.status}" onclick="cycleStatus(${item.id})">${esc(item.status)}</span>
@@ -462,12 +474,14 @@ function getFilteredItems() {
   const cat = document.getElementById('filter-category').value;
   const status = document.getElementById('filter-status').value;
   const minScore = parseInt(document.getElementById('filter-score').value) || 0;
+  const actionFilter = document.getElementById('filter-action').value;
   const sortBy = document.getElementById('sort-by').value;
 
   if (q) items = items.filter(i => i.title.toLowerCase().includes(q) || (i.summary||'').toLowerCase().includes(q));
   if (cat) items = items.filter(i => i.category === cat);
   if (status) items = items.filter(i => i.status === status);
   if (minScore) items = items.filter(i => i.score >= minScore);
+  if (actionFilter) items = items.filter(i => i.action_class === actionFilter);
 
   if (sortBy === 'fresh') {
     items.sort((a, b) => {
@@ -584,7 +598,7 @@ document.querySelectorAll('.nav-tab').forEach(tab => {
 
 // Filters
 let debounce;
-['search','filter-category','filter-status','filter-score','sort-by'].forEach(id => {
+['search','filter-category','filter-status','filter-score','filter-action','sort-by'].forEach(id => {
   const el = document.getElementById(id);
   el.addEventListener('input', () => { clearTimeout(debounce); debounce = setTimeout(renderFeed, 150); });
   el.addEventListener('change', () => { clearTimeout(debounce); debounce = setTimeout(renderFeed, 150); });

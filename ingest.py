@@ -147,6 +147,60 @@ def score_item(title, text, category):
     return min(s, 100)
 
 
+# ---------------------------------------------------------------------------
+# CLASSIFICATION
+# ---------------------------------------------------------------------------
+def detect_doc_type(title):
+    """Détecte le type de texte réglementaire à partir du titre."""
+    t = title.lower().strip()
+    if t.startswith("décret") or "décret n°" in t or "décret du" in t:
+        return "DÉCRET"
+    if t.startswith("arrêté") or "arrêté du" in t:
+        return "ARRÊTÉ"
+    if t.startswith("avis") or "avis du" in t or "avis de" in t:
+        return "AVIS"
+    if t.startswith("ordonnance") or "ordonnance n°" in t:
+        return "ORDONNANCE"
+    if t.startswith("loi") or "loi n°" in t:
+        return "LOI"
+    if t.startswith("directive") or "directive (ue)" in t:
+        return "DIRECTIVE"
+    if t.startswith("règlement") or "règlement (ue)" in t or "règlement délégué" in t:
+        return "RÈGLEMENT"
+    if any(k in t for k in ["communiqué", "press release", "communiqué de presse"]):
+        return "COMMUNIQUÉ"
+    if any(k in t for k in ["consultation", "appel à contribution", "call for"]):
+        return "CONSULTATION"
+    if any(k in t for k in ["sanction", "mise en garde", "warning", "décision de la commission"]):
+        return "SANCTION"
+    if any(k in t for k in ["lignes directrices", "guidelines", "orientations"]):
+        return "GUIDELINES"
+    if any(k in t for k in ["rapport", "report", "étude", "study"]):
+        return "RAPPORT"
+    return None
+
+
+def classify_action(doc_type, title, score):
+    """Classifie un article : 'action' (nécessite une action) ou 'info' (informatif)."""
+    t = title.lower()
+    # Types qui nécessitent typiquement une action
+    action_types = {"DÉCRET", "ARRÊTÉ", "ORDONNANCE", "LOI", "DIRECTIVE", "RÈGLEMENT", "SANCTION"}
+    if doc_type in action_types:
+        return "action"
+    # Mots-clés d'action dans le titre
+    action_words = [
+        "obligation", "mise en demeure", "entrée en vigueur", "date limite",
+        "nouvelles exigences", "new requirements", "doit", "must",
+        "amende", "fine", "pénalité", "penalty", "interdiction",
+    ]
+    if any(w in t for w in action_words):
+        return "action"
+    # Consultations = action (il faut potentiellement répondre)
+    if doc_type == "CONSULTATION":
+        return "action"
+    return "info"
+
+
 def matches_compliance_keywords(title, text):
     combined = f"{title} {text}".lower()
     if any(k in combined for k in COMPLIANCE_KEYWORDS):
@@ -226,6 +280,8 @@ def fetch_rss(url, source_name, source_type, category):
                 continue
 
         sc = score_item(title, summary_clean, category)
+        doc_type = detect_doc_type(title)
+        action_class = classify_action(doc_type, title, sc)
 
         items.append({
             "hash": item_hash(title, link),
@@ -238,6 +294,8 @@ def fetch_rss(url, source_name, source_type, category):
             "published": published,
             "summary": summary_clean,
             "score": sc,
+            "doc_type": doc_type,
+            "action_class": action_class,
             "status": "new",
             "early_brief": False,
         })
