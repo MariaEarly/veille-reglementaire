@@ -368,6 +368,16 @@ def main():
     if added:
         print(f"Seeded {added} new sources")
 
+    # Enrich existing items with new fields (doc_type, action_class)
+    enriched = 0
+    for item in data["items"]:
+        if "doc_type" not in item:
+            item["doc_type"] = detect_doc_type(item.get("title", ""))
+            item["action_class"] = classify_action(item["doc_type"], item.get("title", ""), item.get("score", 0))
+            enriched += 1
+    if enriched:
+        print(f"Enriched {enriched} existing items with doc_type/action_class")
+
     # Ingest
     new_count = ingest_all(data)
     print(f"\nIngested {new_count} new articles")
