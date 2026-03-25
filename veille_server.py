@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Veille RÃ©glementaire â Serveur tout-en-un.
+Veille Réglementaire — Serveur tout-en-un.
 Un seul fichier Python : serveur HTTP, ingestion RSS, scoring, stockage JSON.
-Fonctionne en local ET en dÃ©ploiement cloud (Render, Railway, etc.)
+Fonctionne en local ET en déploiement cloud (Render, Railway, etc.)
 """
 
 import json, os, hashlib, re, time, html, base64
@@ -21,7 +21,7 @@ DATA_DIR = Path(__file__).parent
 DB_FILE = DATA_DIR / "veille_data.json"
 HTML_FILE = DATA_DIR / "veille_dashboard.html"
 
-# Auth : dÃ©finir VEILLE_PASSWORD pour protÃ©ger l'accÃ¨s
+# Auth : définir VEILLE_PASSWORD pour protéger l'accès
 # Ex: VEILLE_PASSWORD=mon_mot_de_passe
 AUTH_PASSWORD = os.environ.get("VEILLE_PASSWORD", "")
 
@@ -29,14 +29,14 @@ AUTH_PASSWORD = os.environ.get("VEILLE_PASSWORD", "")
 # SOURCES
 # ---------------------------------------------------------------------------
 SEED_SOURCES = [
-    # AutoritÃ©s FR
-    {"name": "ACPR - DerniÃ¨res publications", "url": "https://acpr.banque-france.fr/rss", "type": "rss", "category": "autorite_fr"},
-    {"name": "AMF - ActualitÃ©s", "url": "https://www.amf-france.org/fr/rss/actualites.xml", "type": "rss", "category": "autorite_fr"},
+    # Autorités FR
+    {"name": "ACPR - Dernières publications", "url": "https://acpr.banque-france.fr/rss", "type": "rss", "category": "autorite_fr"},
+    {"name": "AMF - Actualités", "url": "https://www.amf-france.org/fr/rss/actualites.xml", "type": "rss", "category": "autorite_fr"},
     {"name": "Tracfin", "url": "https://www.economie.gouv.fr/tracfin/rss", "type": "rss", "category": "autorite_fr"},
     {"name": "DGCCRF", "url": "https://www.economie.gouv.fr/dgccrf/rss", "type": "rss", "category": "autorite_fr"},
-    {"name": "DG TrÃ©sor", "url": "https://www.tresor.economie.gouv.fr/rss", "type": "rss", "category": "autorite_fr"},
+    {"name": "DG Trésor", "url": "https://www.tresor.economie.gouv.fr/rss", "type": "rss", "category": "autorite_fr"},
     {"name": "CNIL", "url": "https://www.cnil.fr/fr/rss.xml", "type": "rss", "category": "autorite_fr"},
-    # AutoritÃ©s EU
+    # Autorités EU
     {"name": "EBA - European Banking Authority", "url": "https://www.eba.europa.eu/rss.xml", "type": "rss", "category": "autorite_eu"},
     {"name": "ESMA", "url": "https://www.esma.europa.eu/rss", "type": "rss", "category": "autorite_eu"},
     {"name": "ECB - Banking Supervision", "url": "https://www.bankingsupervision.europa.eu/rss/press.html", "type": "rss", "category": "autorite_eu"},
@@ -52,10 +52,10 @@ SEED_SOURCES = [
     {"name": "OpenSanctions", "url": "https://www.opensanctions.org/changelog/rss/", "type": "rss", "category": "autorite_intl"},
     # Justice FR (PNF, PNACO)
     {"name": "PNF (Parquet National Financier)", "url": "https://social.numerique.gouv.fr/@pnf.rss", "type": "rss", "category": "autorite_fr"},
-    {"name": "MinistÃ¨re de la Justice (CJIP)", "url": "https://www.justice.gouv.fr/rss.xml", "type": "rss", "category": "autorite_fr"},
-    # Presse spÃ©cialisÃ©e (filtrÃ©e par mots-clÃ©s)
+    {"name": "Ministère de la Justice (CJIP)", "url": "https://www.justice.gouv.fr/rss.xml", "type": "rss", "category": "autorite_fr"},
+    # Presse spécialisée (filtrée par mots-clés)
     {"name": "Les Echos Finance", "url": "https://www.lesechos.fr/rss/rss_finance.xml", "type": "press", "category": "presse"},
-    {"name": "Le Monde Ãconomie", "url": "https://www.lemonde.fr/economie/rss_full.xml", "type": "press", "category": "presse"},
+    {"name": "Le Monde Économie", "url": "https://www.lemonde.fr/economie/rss_full.xml", "type": "press", "category": "presse"},
     {"name": "Reuters Financial Regulation", "url": "https://www.reuters.com/rssFeed/financial-regulation", "type": "press", "category": "presse"},
     {"name": "Compliance Week", "url": "https://www.complianceweek.com/rss", "type": "press", "category": "presse"},
     {"name": "FinCrime Central", "url": "https://fincrimecentral.com/feed/", "type": "press", "category": "presse"},
@@ -69,50 +69,50 @@ KEYWORDS_CRITICAL = [
     "sanction", "blanchiment", "money laundering", "terrorism financing",
     "financement du terrorisme", "fraude", "fraud", "gel des avoirs",
     "asset freeze", "liste noire", "blacklist", "embargo",
-    "dÃ©claration de soupÃ§on", "suspicious transaction"
+    "déclaration de soupçon", "suspicious transaction"
 ]
 KEYWORDS_HIGH = [
     "acpr", "amf", "tracfin", "lcb-ft", "aml", "cft", "kyc",
-    "vigilance", "due diligence", "conformitÃ©", "compliance",
+    "vigilance", "due diligence", "conformité", "compliance",
     "mica", "dora", "psan", "casp", "crypto", "eba", "esma",
     "fatf", "gafi", "anti-money", "5amld", "6amld", "amla",
 ]
 KEYWORDS_MEDIUM = [
-    "risque", "risk", "audit", "contrÃ´le interne", "internal control",
-    "directive", "rÃ¨glement", "regulation", "supervisory",
+    "risque", "risk", "audit", "contrôle interne", "internal control",
+    "directive", "règlement", "regulation", "supervisory",
     "fintech", "regtech", "paiement", "payment", "banque", "bank",
-    "identitÃ© numÃ©rique", "digital identity", "ppe", "pep",
+    "identité numérique", "digital identity", "ppe", "pep",
     "correspondant bancaire", "correspondent banking",
 ]
 SOURCE_BONUS = {"autorite_fr": 15, "autorite_eu": 12, "autorite_intl": 10, "presse": 3, "email": 8}
 
 COMPLIANCE_KEYWORDS = [
     "lcb-ft", "aml", "blanchiment", "money laundering", "sanction",
-    "conformitÃ©", "compliance", "fraude", "fraud", "rÃ©gulat",
+    "conformité", "compliance", "fraude", "fraud", "régulat",
     "acpr", "amf", "tracfin", "fatf", "gafi", "kyc", "vigilance",
     "crypto", "psan", "dora", "gel des avoirs", "terroris",
     "anti-money", "financement du terrorisme", "embargo",
     "supervisory", "banking supervision", "eba", "esma",
-    "lutte contre le blanchiment", "abus de marchÃ©", "market abuse",
+    "lutte contre le blanchiment", "abus de marché", "market abuse",
     "devoir de vigilance", "loi sapin", "lanceur d'alerte",
-    "whistleblow", "beneficial owner", "bÃ©nÃ©ficiaire effectif",
+    "whistleblow", "beneficial owner", "bénéficiaire effectif",
     "asset freeze", "liste noire", "blacklist", "amla",
-    "prudenti", "solvabilitÃ©", "solvency", "capital requirement",
-    "payment service", "services de paiement", "monnaie Ã©lectronique",
+    "prudenti", "solvabilité", "solvency", "capital requirement",
+    "payment service", "services de paiement", "monnaie électronique",
     "e-money", "financement participatif", "crowdfunding",
 ]
 
-# Patterns regex pour mots-clÃ©s ambigus (Ã©viter faux positifs)
+# Patterns regex pour mots-clés ambigus (éviter faux positifs)
 import re as _re
 _REGEX_KEYWORDS = [
-    # MiCA : exiger contexte crypto/rÃ©glementaire, exclure "MICA Center" militaire
+    # MiCA : exiger contexte crypto/réglementaire, exclure "MICA Center" militaire
     _re.compile(r'\bmica\b(?![\s-]*center)', _re.IGNORECASE),
 ]
 
-# Sources cÅur compliance : tout leur contenu est pertinent, pas de filtrage
+# Sources cœur compliance : tout leur contenu est pertinent, pas de filtrage
 CORE_COMPLIANCE_SOURCES = {
-    "ACPR - DerniÃ¨res publications",
-    "AMF - ActualitÃ©s",
+    "ACPR - Dernières publications",
+    "AMF - Actualités",
     "Tracfin",
     "FATF / GAFI",
     "AMLA (EU AML Authority)",
@@ -138,11 +138,11 @@ def score_item(title, text, category):
 
 
 def matches_compliance_keywords(title, text):
-    """Retourne True si le titre/texte contient au moins un mot-clÃ© compliance."""
-    combined = f{title} {text}".lower()
+    """Retourne True si le titre/texte contient au moins un mot-clé compliance."""
+    combined = f"{title} {text}".lower()
     if any(k in combined for k in COMPLIANCE_KEYWORDS):
         return True
-    # VÃ©rification regex pour mots-clÃ©s ambigus (ex: "mica" mais pas "MICA Center")
+    # Vérification regex pour mots-clés ambigus (ex: "mica" mais pas "MICA Center")
     full = f"{title} {text}"
     if any(pat.search(full) for pat in _REGEX_KEYWORDS):
         return True
@@ -189,11 +189,16 @@ def fetch_rss(url, source_name, source_type, category):
 
     items = []
     for entry in feed.entries[:50]:
-        title = getattr(entry, "title", "Sans titre") or "Sans titre"
+        title = getattr(entry, "title", "") or ""
         link = getattr(entry, "link", "") or ""
         author = getattr(entry, "author", "") or ""
         summary = getattr(entry, "summary", "") or ""
         summary_clean = re.sub(r"<[^>]+>", "", summary)[:500]
+
+        # Si pas de titre (ex: posts Mastodon), utiliser le début du résumé
+        if not title.strip() or title == "Sans titre":
+            words = summary_clean.split()
+            title = " ".join(words[:12]) + ("…" if len(words) > 12 else "") if words else "Sans titre"
 
         published = None
         for attr in ("published_parsed", "updated_parsed"):
@@ -207,8 +212,8 @@ def fetch_rss(url, source_name, source_type, category):
         if not published:
             published = datetime.now(timezone.utc).isoformat()
 
-        # Filtrage : les sources cÅur compliance passent toujours,
-        # toutes les autres doivent matcher au moins un mot-clÃ©
+        # Filtrage : les sources cœur compliance passent toujours,
+        # toutes les autres doivent matcher au moins un mot-clé
         if source_name not in CORE_COMPLIANCE_SOURCES:
             if not matches_compliance_keywords(title, summary_clean):
                 continue
@@ -299,7 +304,7 @@ class VeilleHandler(BaseHTTPRequestHandler):
 
     def _send_auth_required(self):
         self.send_response(401)
-        self.send_header("WWW-Authenticate", 'Basic realm="Veille RÃ©glementaire"')
+        self.send_header("WWW-Authenticate", 'Basic realm="Veille Réglementaire"')
         self.send_header("Content-Type", "text/html; charset=utf-8")
         self.end_headers()
         self.wfile.write(b"<h1>Mot de passe requis</h1>")
@@ -319,63 +324,103 @@ class VeilleHandler(BaseHTTPRequestHandler):
     def do_GET(self):
         if not self._check_auth():
             return
-\ÙYH\\ÙJÙ[]
-B]H\ÙY]Ý\
-ÈHÜÈ\ÈH\ÙWÜ\Ê\ÙY]Y\JBY]OHÈYSÑSK^\ÝÊ
-NÛÛ[HSÑSKXYØ]\Ê
-BÙ[Ù[Ü\ÜÛÙJ
-BÙ[Ù[ÚXY\ÛÛ[U\H^Ú[ÈÚ\Ù]]]NBÙ[Ù[ÚXY\ÛÛ[S[ÝÝ[ÛÛ[
-JJBÙ[Ù[ÚXY\ØXÚKPÛÛÛËXØXÚKË\ÝÜK]\Ý\][Y]HBÙ[[ÚXY\Ê
-BÙ[Ù[KÜ]JÛÛ[
-B[ÙNÙ[Ù[Ù\Ü
-
-\ÚØ\SÝÝ[B]\]HHØYÙ]J
-BY]OHØ\KÚ][\È][\ÈH]VÈ][\ÈB][\ËÛÜ
-Ù^O[[XHÙ]
-ØÛÜH
-K]\ÙOUYJBÙ[ÚÛÛÜ\ÜÛÙJ][\ÊB]\Y]OHØ\KÚ][\ËÜÙX\ÚHH\ËÙ]
-HÈJVÌKÝÙ\
-B][\ÈHÚHÜH[]VÈ][\ÈHYH[VÈ]HKÝÙ\
-HÜH[KÙ]
-Ý[[X\HKÝÙ\
-WB][\ËÛÜ
-Ù^O[[XHÙ]
-ØÛÜH
-K]\ÙOUYJBÙ[ÚÛÛÜ\ÜÛÙJ][\ÊB]\Y]OHØ\KÜÛÝ\Ù\ÈÙ[ÚÛÛÜ\ÜÛÙJ]VÈÛÝ\Ù\ÈJB]\Y]OHØ\KÙX\KXYY][\ÈHÚÜH[]VÈ][\ÈHYKÙ]
-X\WØYYWB][\ËÛÜ
-Ù^O[[XHÙ]
-ØÛÜH
-K]\ÙOUYJBÙ[ÚÛÛÜ\ÜÛÙJ][\ÊB]\Y]OHØ\KÙYÙ\Ý^\ÈH[
-\ËÙ]
-^\ÈÍ×JVÌJBÝ]ÙH
-]][YKÝÊ[Y^ÛK]ÊHH[YY[J^\ÏY^\ÊJK\ÛÙÜX]
 
-BXÙ[HÚHÜH[]VÈ][\ÈHYKÙ]
-X\ÚYHHÝ]ÙBXÙ[ÛÜ
-Ù^O[[XHÙ]
-ØÛÜH
-K]\ÙOUYJBÙ[ÚÛÛÜ\ÜÛÙJÂ\[ÙÙ^\È^\ËÛÝ[[XÙ[
-KÜÚ][\ÈXÙ[ÎKJB]\Ù[Ù[Ù\Ü
-
-BY×ÔÔÕ
-Ù[NYÝÙ[ØÚXÚ×Ø]]
+        parsed = urlparse(self.path)
+        path = parsed.path.rstrip("/") or "/"
+        qs = parse_qs(parsed.query)
 
-N]\\ÙYH\\ÙJÙ[]
-B]H\ÙY]Ý\
-ÈB]HHØYÙ]J
-BY]OHØ\KÜÙYYYYHÙYYÜÛÝ\Ù\Ê]JBÙ[ÚÛÛÜ\ÜÛÙJÈYYYYJB]\Y]OHØ\KÚ[Ù\Ý]×ØÛÝ[H[Ù\ÝØ[
-]JBÙ[ÚÛÛÜ\ÜÛÙJÈ]×Ú][\È]×ØÛÝ[Ý[[]VÈ][\ÈJ_JB]\Y]OHØ\KÜÛÝ\Ù\ÈÙHHÛÛØYÊÙ[ÜXYØÙJ
-JB]VÈÛÝ\Ù\ÈK\[
-Â[YHÙKÙ]
-[YHÝ\ÝÛHK\ÙKÙ]
-\K\HÙKÙ]
-\HÜÈKØ]YÛÜHÙKÙ]
-Ø]YÛÜH\ÜÙHKXÝ]HYKJBØ]WÙ]J]JBÙ[ÚÛÛÜ\ÜÛÙJÈÚÈY_JB]\Y]OHØ\KÚ][\ÈÙHHÛÛØYÊÙ[ÜXYØÙJ
-JB][\ÈHÙHY\Ú[Ý[ÙJÙK\Ý
-H[ÙHØÙWB^\Ý[×Ú\Ú\ÈHÚ]È\ÚHÜ][]VÈ][\È_BYYHÜ][H[][\ÎH][KÙ]
-ish") or item_hash(item.get("title", ""), item.get("url", ""))
+        if path == "/":
+            if HTML_FILE.exists():
+                content = HTML_FILE.read_bytes()
+                self.send_response(200)
+                self.send_header("Content-Type", "text/html; charset=utf-8")
+                self.send_header("Content-Length", str(len(content)))
+                self.send_header("Cache-Control", "no-cache, no-store, must-revalidate")
+                self.end_headers()
+                self.wfile.write(content)
+            else:
+                self.send_error(404, "Dashboard HTML not found")
+            return
+
+        data = load_data()
+
+        if path == "/api/items":
+            items = data["items"]
+            items.sort(key=lambda x: x.get("score", 0), reverse=True)
+            self._json_response(items)
+            return
+
+        if path == "/api/items/search":
+            q = qs.get("q", [""])[0].lower()
+            items = [i for i in data["items"] if q in i["title"].lower() or q in i.get("summary", "").lower()]
+            items.sort(key=lambda x: x.get("score", 0), reverse=True)
+            self._json_response(items)
+            return
+
+        if path == "/api/sources":
+            self._json_response(data["sources"])
+            return
+
+        if path == "/api/early-brief":
+            items = [i for i in data["items"] if i.get("early_brief")]
+            items.sort(key=lambda x: x.get("score", 0), reverse=True)
+            self._json_response(items)
+            return
+
+        if path == "/api/digest":
+            days = int(qs.get("days", [7])[0])
+            cutoff = (datetime.now(timezone.utc) - timedelta(days=days)).isoformat()
+            recent = [i for i in data["items"] if i.get("published", "") >= cutoff]
+            recent.sort(key=lambda x: x.get("score", 0), reverse=True)
+            self._json_response({
+                "period_days": days,
+                "count": len(recent),
+                "top_items": recent[:20],
+            })
+            return
+
+        self.send_error(404)
+
+    def do_POST(self):
+        if not self._check_auth():
+            return
+
+        parsed = urlparse(self.path)
+        path = parsed.path.rstrip("/")
+        data = load_data()
+
+        if path == "/api/seed":
+            added = seed_sources(data)
+            self._json_response({"added": added})
+            return
+
+        if path == "/api/ingest":
+            new_count = ingest_all(data)
+            self._json_response({"new_items": new_count, "total": len(data["items"])})
+            return
+
+        if path == "/api/sources":
+            body = json.loads(self._read_body())
+            data["sources"].append({
+                "name": body.get("name", "Custom"),
+                "url": body.get("url", ""),
+                "type": body.get("type", "rss"),
+                "category": body.get("category", "presse"),
+                "active": True,
+            })
+            save_data(data)
+            self._json_response({"ok": True})
+            return
+
+        if path == "/api/items":
+            body = json.loads(self._read_body())
+            items = body if isinstance(body, list) else [body]
+            existing_hashes = {it["hash"] for it in data["items"]}
+            added = 0
+            for item in items:
+                h = item.get("hash") or item_hash(item.get("title", ""), item.get("url", ""))
                 if h not in existing_hashes:
-                    item["hash"] = h"
+                    item["hash"] = h
                     item.setdefault("source_type", "email")
                     item.setdefault("category", "email")
                     item.setdefault("status", "new")
@@ -387,7 +432,7 @@ H[ÙHØÙWB^\Ý[×Ú\Ú\ÈHÚ]È\ÚHÜ]
                             item.get("category", "email"),
                         )
                     data["items"].append(item)
-                    existing_hashes.add(i)
+                    existing_hashes.add(h)
                     added += 1
             if added:
                 save_data(data)
@@ -454,7 +499,7 @@ def main():
         print("First run: seeding sources...")
         seed_sources(data)
 
-    print(f"Veille RÃªglementaire  â http://{HOST}:{PORT}")
+    print(f"Veille Réglementaire — http://{HOST}:{PORT}")
     print(f"  {len(data['sources'])} sources, {len(data['items'])} articles")
     if AUTH_PASSWORD:
         print("  Protected by password")
