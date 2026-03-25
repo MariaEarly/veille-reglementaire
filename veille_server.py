@@ -148,6 +148,25 @@ EXCLUDE_KEYWORDS = [
     "sécurité sociale", "retraite complémentaire",
     "nucléaire", "interconnexions électriques",
     "transition énergétique", "flash conjoncture",
+    # Rail, transport
+    "branche ferroviaire", "ferroviaire",
+    # Treasury / reserves (macroeconomic, not compliance)
+    "réserves de change", "réserves nettes", "réserves officielles",
+    # Technical changelogs
+    "format change", "changelog", "release notes",
+    # Employee savings (not compliance-related)
+    "épargne salariale", "épargne retraite",
+    # AMF corporate HR and surveys (not compliance)
+    "égalité femmes-hommes", "index égalité", "baromètre", "investisseurs particuliers",
+    # DG Trésor industrial/defense (not compliance)
+    "base industrielle", "industrie de défense",
+    # DGCCRF consumer protection (not financial compliance)
+    "date butoir", "pratiques commerciales", "intermarché", "supermarché",
+    "grande distribution",
+    # ESG/sustainability (unless also matches compliance keywords)
+    "durabilité", "préférences de durabilité", "esg",
+    # IP (not financial compliance)
+    "propriété intellectuelle", "contrefaçon", "anti-contrefaçon",
 ]
 
 
@@ -173,6 +192,58 @@ def matches_compliance_keywords(title, text):
     full = f"{title} {text}"
     if any(pat.search(full) for pat in _REGEX_KEYWORDS):
         return True
+    return False
+
+
+def is_off_topic_for_compliance(title, summary, source_name):
+    """
+    For CORE_COMPLIANCE_SOURCES, filter out articles that are off-topic
+    even though they come from trusted sources.
+    Returns True if the article should be excluded (is off-topic).
+    """
+    combined = f"{title} {summary}".lower()
+
+    # AMF-specific filtering: exclude investor education, corporate news, general surveys
+    if "amf" in source_name.lower():
+        off_topic_keywords = [
+            "baromètre", "investisseurs particuliers", "éducation financière",
+            "égalité femmes-hommes", "index égalité", "gender", "rh", "ressources humaines",
+            "épargne", "placement", "fonds commun", "sicav",
+        ]
+        if any(k in combined for k in off_topic_keywords):
+            # Check if it also matches compliance-related keywords
+            if not matches_compliance_keywords(title, summary):
+                return True
+
+    # DG Trésor: exclude macroeconomic/industrial content
+    if "dg trésor" in source_name.lower() or "tresor" in source_name.lower():
+        off_topic_keywords = [
+            "réserves de change", "réserves nettes", "réserves officielles",
+            "base industrielle", "industrie de défense", "conjoncture", "croissance",
+        ]
+        if any(k in combined for k in off_topic_keywords):
+            if not matches_compliance_keywords(title, summary):
+                return True
+
+    # OpenSanctions: exclude technical changelogs
+    if "opensanctions" in source_name.lower():
+        off_topic_keywords = [
+            "format change", "changelog", "release notes", "version", "update",
+        ]
+        if any(k in combined for k in off_topic_keywords):
+            if not matches_compliance_keywords(title, summary):
+                return True
+
+    # DGCCRF: exclude consumer protection (not financial compliance)
+    if "dgccrf" in source_name.lower():
+        off_topic_keywords = [
+            "pratiques commerciales", "date butoir", "consommateur", "supermarché",
+            "intermarché", "grande distribution",
+        ]
+        if any(k in combined for k in off_topic_keywords):
+            if not matches_compliance_keywords(title, summary):
+                return True
+
     return False
 
 
@@ -244,9 +315,12 @@ def fetch_rss(url, source_name, source_type, category):
         if any(ex in combined_lower for ex in EXCLUDE_KEYWORDS):
             continue
 
-        # Filtrage : les sources cœur compliance passent toujours,
-        # toutes les autres doivent matcher au moins un mot-clé
-        if source_name not in CORE_COMPLIANCE_SOURCES:
+        # For CORE sources, also check if content is off-topic
+        if source_name in CORE_COMPLIANCE_SOURCES:
+            if is_off_topic_for_compliance(title, summary_clean, source_name):
+                continue
+        else:
+            # Non-core sources must match compliance keywords
             if not matches_compliance_keywords(title, summary_clean):
                 continue
 
