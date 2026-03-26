@@ -941,7 +941,7 @@
     }
     .todo-progress-fill {
       height: 100%;
-      background: var(--color-text-tertiary);
+      background: var(--terra);
       width: 0%;
       transition: width 0.3s;
     }
@@ -963,7 +963,7 @@
       transition: border-color 0.15s;
     }
     .todo-add-input::placeholder { color: var(--color-text-tertiary); }
-    .todo-add-input:focus { border-bottom-color: var(--color-text-secondary); }
+    .todo-add-input:focus { border-bottom-color: var(--terra); }
     .todo-add-select {
       padding: 6px 8px;
       border: none;
@@ -997,18 +997,22 @@
     }
     .todo-filter-chip:hover { color: var(--color-text-secondary); }
     .todo-filter-chip.active {
-      color: var(--color-text-primary);
-      background: var(--color-background-tertiary);
+      color: var(--terra);
+      background: var(--terra-bg);
     }
     .todo-item {
       display: flex;
       align-items: flex-start;
       gap: 10px;
-      padding: 8px 0;
+      padding: 9px 10px;
       border-bottom: 0.5px solid var(--color-border-tertiary);
+      border-radius: 4px;
+      transition: background 0.1s;
     }
+    .todo-item:hover { background: var(--color-background-secondary); }
     .todo-item:last-child { border-bottom: none; }
     .todo-item.done { opacity: 0.4; }
+    .todo-item.prio-haute { border-left: 2px solid var(--terra); padding-left: 8px; }
     .todo-check {
       width: 16px;
       height: 16px;
@@ -1022,17 +1026,16 @@
       justify-content: center;
       transition: border-color 0.15s, background 0.15s;
     }
-    .todo-check:hover { border-color: var(--color-text-tertiary); }
+    .todo-check:hover { border-color: var(--terra); }
     .todo-check.checked {
-      border-color: var(--color-text-tertiary);
-      background: var(--color-text-tertiary);
+      border-color: var(--terra);
+      background: var(--terra);
     }
     .todo-check.checked::after {
-      content: '';
-      width: 6px;
-      height: 6px;
-      background: var(--color-background-primary);
-      border-radius: 50%;
+      content: '✓';
+      font-size: 10px;
+      color: white;
+      line-height: 1;
     }
     .todo-text {
       flex: 1;
@@ -1055,6 +1058,17 @@
       font-size: 10px;
       color: var(--color-text-tertiary);
       letter-spacing: 0.03em;
+      padding: 1px 6px;
+      border-radius: 3px;
+      background: var(--color-background-secondary);
+    }
+    .todo-meta-tag.prio-haute {
+      color: var(--terra);
+      background: var(--terra-bg);
+    }
+    .todo-meta-tag.prio-basse {
+      color: var(--color-text-tertiary);
+      background: transparent;
     }
     .todo-delete {
       opacity: 0;
@@ -2186,13 +2200,13 @@ function renderTodos() {
   const prioLabel = { haute: 'P1', moyenne: 'P2', basse: 'P3' };
 
   list.innerHTML = filtered.map(t => `
-    <div class="todo-item${t.done ? ' done' : ''}">
+    <div class="todo-item${t.done ? ' done' : ''}${t.priority === 'haute' ? ' prio-haute' : ''}">
       <div class="todo-check${t.done ? ' checked' : ''}" onclick="todoToggle(${t.id})"></div>
       <div style="flex:1;min-width:0;">
         <div class="todo-text">${t.text.replace(/</g,'&lt;')}</div>
         <div class="todo-meta">
           <span class="todo-meta-tag">${t.category}</span>
-          <span class="todo-meta-tag">${prioLabel[t.priority] || ''}</span>
+          <span class="todo-meta-tag prio-${t.priority}">${prioLabel[t.priority] || ''}</span>
         </div>
       </div>
       <button class="todo-delete" onclick="todoDelete(${t.id})">✕</button>
