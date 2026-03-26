@@ -228,56 +228,46 @@
       opacity: 0.7;
     }
 
-    /* Collapsible group toggle (Presse, Social) */
-    .source-group-toggle {
+    /* Source group header (parent org with children) */
+    .source-group-header {
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 8px;
       padding: 5px 8px;
-      cursor: pointer;
       border-radius: 6px;
-      transition: background 120ms;
-      user-select: none;
-      margin-top: 6px;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--color-text-primary);
+      cursor: pointer;
+      margin-bottom: 1px;
     }
 
-    .source-group-toggle:hover {
+    .source-group-header:hover {
       background: var(--color-background-secondary);
     }
 
-    .source-group-toggle-arrow {
-      font-size: 9px;
-      color: var(--color-text-tertiary);
-      transition: transform 150ms;
-      width: 10px;
-      text-align: center;
-      flex-shrink: 0;
+    .source-group-header.zero {
+      opacity: 0.5;
     }
 
-    .source-group-toggle.open .source-group-toggle-arrow {
+    .group-arrow {
+      font-size: 10px;
+      color: var(--color-text-tertiary);
+      transition: transform 0.15s;
+    }
+
+    .source-group-header.open .group-arrow {
       transform: rotate(90deg);
-    }
-
-    .source-group-toggle-label {
-      font-size: 13px;
-      font-weight: 600;
-      color: var(--color-text-secondary);
-      flex: 1;
-    }
-
-    .source-group-toggle-count {
-      font-family: var(--mono);
-      font-size: 11px;
-      color: var(--color-text-tertiary);
     }
 
     .source-group-children {
       display: none;
-      padding-left: 16px;
     }
 
-    .source-group-toggle.open + .source-group-children {
-      display: block;
+    .filter-item.child {
+      padding-left: 24px;
+      font-size: 12px;
+      color: var(--color-text-secondary);
     }
 
     /* Advanced filters toggle */
@@ -1357,60 +1347,94 @@ function renderSidebar() {
   const sourceCounts = {};
   state.items.forEach(i => { sourceCounts[i.source] = (sourceCounts[i.source] || 0) + 1; });
 
-  // Group sources: authorities are flat lines, presse/social/email are collapsible
-  const collapsible = new Set(['presse', 'social', 'email']);
+  // Group sources by parent org: "AMF - Actualités" → group "AMF", child "Actualités"
+  // Presse/Social/Email become top-level collapsible groups
+  const collapsibleCats = new Set(['presse', 'social', 'email']);
   const collapsibleLabels = { 'presse': 'Presse', 'social': 'Réseaux sociaux', 'email': 'Email' };
-  const grouped = {};
-  const authorities = [];
+  const collapsibleGroups = {};
+  const orgGroups = {};
+
   state.sources.forEach(s => {
     const cat = s.category || s.source_type || 'presse';
-    if (collapsible.has(cat)) {
-      if (!grouped[cat]) grouped[cat] = [];
-      grouped[cat].push(s);
+    if (collapsibleCats.has(cat)) {
+      if (!collapsibleGroups[cat]) collapsibleGroups[cat] = [];
+      collapsibleGroups[cat].push(s);
     } else {
-      authorities.push(s);
+      const parts = s.name.split(' - ');
+      const parent = parts[0].trim();
+      const child = parts.length > 1 ? parts.slice(1).join(' - ').trim() : null;
+      if (!orgGroups[parent]) orgGroups[parent] = [];
+      orgGroups[parent].push({ fullName: s.name, childLabel: child, count: sourceCounts[s.name] || 0 });
     }
   });
 
-  // Remember which toggles were open
-  const openCats = new Set();
-  sourcesList.querySelectorAll('.source-group-toggle.open').forEach(el => openCats.add(el.dataset.cat));
+  // Remember which groups were open
+  const openGroups = new Set();
+  sourcesList.querySelectorAll('.source-group-header.open').forEach(el => openGroups.add(el.dataset.group));
 
   let html = '';
 
-  // Flat authority lines
-  html += authorities.map(s => {
-    const count = sourceCounts[s.name] || 0;
-    const isActive = state.sourceFilter === s.name;
-    const zeroClass = count === 0 ? ' zero' : '';
-    return `<div class="filter-item${isActive ? ' active' : ''}${zeroClass}" data-filter="source" data-value="${esc(s.name)}"><div class="filter-dot"></div>${esc(s.name)}<span class="filter-count">${count}</span></div>`;
-  }).join('');
+  // Authority groups
+  for (const [parent, children] of Object.entries(orgGroups)) {
+    const totalCount = children.reduce((sum, c) => sum + c.count, 0);
+    const zeroClass = totalCount === 0 ? ' zero' : '';
 
-  // Collapsible groups (Presse, Social, Email)
+    if (children.length === 1 && !children[0].childLabel) {
+      // Single source, no children → flat line
+      const c = children[0];
+      const isActive = state.sourceFilter === c.fullName;
+      html += `<div class="filter-item${isActive ? ' active' : ''}${zeroClass}" data-filter="source" data-value="${esc(c.fullName)}"><div class="filter-dot"></div>${esc(parent)}<span class="filter-count">${c.count}</span></div>`;
+    } else {
+      // Group with children
+      const isOpen = openGroups.has(parent);
+      html += `<div class="source-group">`;
+      html += `<div class="source-group-header${zeroClass}${isOpen ? ' open' : ''}" data-group="${esc(parent)}" onclick="toggleGroup(this)">`;
+      html += `<div class="filter-dot"></div>`;
+      html += `<span class="group-name">${esc(parent)}</span>`;
+      html += `<span class="group-arrow">▸</span>`;
+      html += `<span class="filter-count">${totalCount}</span>`;
+      html += `</div>`;
+      html += `<div class="source-group-children"${isOpen ? '' : ' style="display:none"'}>`;
+      html += children.map(c => {
+        const isActive = state.sourceFilter === c.fullName;
+        const cZero = c.count === 0 ? ' zero' : '';
+        return `<div class="filter-item child${isActive ? ' active' : ''}${cZero}" data-filter="source" data-value="${esc(c.fullName)}"><div class="filter-dot"></div>${esc(c.childLabel || c.fullName)}<span class="filter-count">${c.count}</span></div>`;
+      }).join('');
+      html += `</div></div>`;
+    }
+  }
+
+  // Collapsible category groups (Presse, Social, Email)
   for (const [cat, label] of Object.entries(collapsibleLabels)) {
-    const sources = grouped[cat];
+    const sources = collapsibleGroups[cat];
     if (!sources || sources.length === 0) continue;
     const catTotal = sources.reduce((sum, s) => sum + (sourceCounts[s.name] || 0), 0);
-    const isOpen = openCats.has(cat);
-    html += `<div class="source-group-toggle${isOpen ? ' open' : ''}" data-cat="${cat}" onclick="toggleSourceCat(this)">`;
-    html += `<span class="source-group-toggle-arrow">▶</span>`;
-    html += `<span class="source-group-toggle-label">${label}</span>`;
-    html += `<span class="source-group-toggle-count">${catTotal}</span>`;
+    const isOpen = openGroups.has(cat);
+    const zeroClass = catTotal === 0 ? ' zero' : '';
+    html += `<div class="source-group">`;
+    html += `<div class="source-group-header${zeroClass}${isOpen ? ' open' : ''}" data-group="${cat}" onclick="toggleGroup(this)">`;
+    html += `<div class="filter-dot"></div>`;
+    html += `<span class="group-name">${label}</span>`;
+    html += `<span class="group-arrow">▸</span>`;
+    html += `<span class="filter-count">${catTotal}</span>`;
     html += `</div>`;
-    html += `<div class="source-group-children">`;
+    html += `<div class="source-group-children"${isOpen ? '' : ' style="display:none"'}>`;
     html += sources.map(s => {
       const count = sourceCounts[s.name] || 0;
       const isActive = state.sourceFilter === s.name;
-      const zeroClass = count === 0 ? ' zero' : '';
-      return `<div class="filter-item${isActive ? ' active' : ''}${zeroClass}" data-filter="source" data-value="${esc(s.name)}"><div class="filter-dot"></div>${esc(s.name)}<span class="filter-count">${count}</span></div>`;
+      const cZero = count === 0 ? ' zero' : '';
+      return `<div class="filter-item child${isActive ? ' active' : ''}${cZero}" data-filter="source" data-value="${esc(s.name)}"><div class="filter-dot"></div>${esc(s.name)}<span class="filter-count">${count}</span></div>`;
     }).join('');
-    html += `</div>`;
+    html += `</div></div>`;
   }
+
   sourcesList.innerHTML = html;
 }
 
-window.toggleSourceCat = function(el) {
-  el.classList.toggle('open');
+window.toggleGroup = function(header) {
+  header.classList.toggle('open');
+  const children = header.nextElementSibling;
+  children.style.display = children.style.display === 'none' ? 'block' : 'none';
 };
 
 function updateStats() {
