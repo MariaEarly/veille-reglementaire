@@ -151,6 +151,32 @@
       margin-bottom: 16px;
     }
 
+    .sidebar-section {
+      margin-bottom: 16px;
+    }
+
+    .sidebar-section-title {
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--color-text-tertiary);
+      letter-spacing: 0.5px;
+      margin-bottom: 10px;
+    }
+
+    .sidebar-section .source-groups {
+      max-height: 280px;
+      overflow-y: auto;
+      padding-right: 4px;
+    }
+
+    .sidebar-section .source-groups::-webkit-scrollbar {
+      width: 3px;
+    }
+    .sidebar-section .source-groups::-webkit-scrollbar-thumb {
+      background: var(--color-border-tertiary);
+      border-radius: 3px;
+    }
+
     /* Advanced filters toggle */
     .sidebar-toggle {
       cursor: pointer;
@@ -799,16 +825,17 @@
         <div class="sidebar-section-divider"></div>
       </div>
 
+      <div class="sidebar-section">
+        <div class="sidebar-section-title">SOURCE</div>
+        <div id="sources-list" class="source-groups"></div>
+      </div>
+
       <div class="sidebar-toggle" onclick="toggleAdvancedFilters()">
         <span>Filtres avancés</span>
         <span id="toggle-arrow">▾</span>
       </div>
 
       <div class="advanced-filters" id="advanced-filters">
-        <div class="filter-group">
-          <div class="filter-group-label">Source</div>
-          <div id="sources-list" class="source-groups"></div>
-        </div>
         <div class="filter-group">
           <div class="filter-group-label">Score min</div>
           <div class="filter-pills" id="score-pills"></div>
