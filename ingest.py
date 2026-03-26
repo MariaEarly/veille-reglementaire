@@ -64,6 +64,8 @@ SEED_SOURCES = [
     # Commission EU — Sanctions guidance & alerts (RSS fonctionnel)
     {"name": "Commission EU - Sanctions", "url": "https://finance.ec.europa.eu/node/1296/rss_en", "type": "rss", "category": "autorite_eu"},
     {"name": "Commission EU - Sanctions FAQ", "url": "https://finance.ec.europa.eu/node/1068/rss_en", "type": "rss", "category": "autorite_eu"},
+    # UK
+    {"name": "FCA - News & Enforcement", "url": "https://www.fca.org.uk/news/rss.xml", "type": "rss", "category": "autorite_intl"},
 ]
 
 # ---------------------------------------------------------------------------
@@ -156,6 +158,7 @@ CORE_COMPLIANCE_SOURCES = {
     "CJUE",
     "Commission EU - Sanctions",
     "Commission EU - Sanctions FAQ",
+    "FCA - News & Enforcement",
 }
 # Sources qui passent mais avec filtre léger (keyword compliance)
 # AMF Actualités, EBA, ECB, ANSSI, etc. = doivent matcher des keywords
@@ -232,6 +235,62 @@ def score_item(title, text, category):
         breakdown.append(f"+{src_bonus} {cat_labels.get(category, category)}")
         s += src_bonus
     return min(s, 100), " | ".join(breakdown) if breakdown else "Aucun mot-clé"
+
+
+def apply_time_decay(base_score, published_iso):
+    """
+    Apply time decay to a base score.
+    Boosts recent articles, penalizes old ones.
+
+    Args:
+        base_score: int (0-100)
+        published_iso: str (ISO 8601 datetime string)
+
+    Returns:
+        (final_score, decay_label) where:
+        - final_score: int capped at 100
+        - decay_label: str like "×1.5 (<24h)"
+    """
+    try:
+        # Parse published date
+        if isinstance(published_iso, str):
+            # Handle ISO format with or without timezone
+            pub_dt = datetime.fromisoformat(published_iso.replace('Z', '+00:00'))
+        else:
+            pub_dt = published_iso
+
+        # Get current time in UTC
+        now = datetime.now(timezone.utc)
+        if pub_dt.tzinfo is None:
+            pub_dt = pub_dt.replace(tzinfo=timezone.utc)
+
+        # Calculate age in hours
+        age_hours = (now - pub_dt).total_seconds() / 3600
+
+        # Apply decay multiplier based on age
+        if age_hours < 24:
+            multiplier = 1.5
+            label = "×1.5 (<24h)"
+        elif age_hours < 72:  # 3 days
+            multiplier = 1.2
+            label = "×1.2 (<3d)"
+        elif age_hours < 168:  # 7 days
+            multiplier = 1.0
+            label = "×1.0 (7d)"
+        elif age_hours < 336:  # 14 days
+            multiplier = 0.8
+            label = "×0.8 (14d)"
+        else:
+            multiplier = 0.6
+            label = "×0.6 (>14d)"
+
+        final_score = int(base_score * multiplier)
+        final_score = min(final_score, 100)
+
+        return final_score, label
+    except Exception as e:
+        # If parsing fails, return base score with no decay
+        return base_score, "×1.0 (err)"
 
 
 # ---------------------------------------------------------------------------
@@ -428,6 +487,16 @@ def is_off_topic_for_compliance(title, summary, source_name):
         if not any(k in combined for k in must_match):
             return True
 
+    # ── FCA UK: exclude consumer/mortgage/pensions, keep AML/enforcement/sanctions ──
+    if "fca" in src:
+        off_topic = [
+            "mortgage", "consumer credit", "pension", "insurance", "motor finance",
+            "redress", "ombudsman", "sustainability disclosure", "climate",
+        ]
+        if any(k in combined for k in off_topic):
+            if not any(k in combined for k in ["enforcement", "sanction", "aml", "money laundering", "fraud", "fine"]):
+                return True
+
     # ── Commission EU: only keep sanctions/AML/financial regulation ──
     if "commission eu" in src:
         must_match = [
@@ -574,8 +643,13 @@ def fetch_rss(url, source_name, source_type, category):
                 continue
 
         sc, sc_breakdown = score_item(title, summary_clean, category)
+        # Apply time decay to the base score
+        final_sc, decay_label = apply_time_decay(sc, published)
+        # Append decay info to score breakdown
+        full_breakdown = f"{sc_breakdown} | {decay_label}"
+
         doc_type = detect_doc_type(title)
-        action_class = classify_action(doc_type, title, sc)
+        action_class = classify_action(doc_type, title, final_sc)
 
         items.append({
             "hash": item_hash(title, link),
@@ -587,8 +661,8 @@ def fetch_rss(url, source_name, source_type, category):
             "author": author,
             "published": published,
             "summary": summary_clean,
-            "score": sc,
-            "score_breakdown": sc_breakdown,
+            "score": final_sc,
+            "score_breakdown": full_breakdown,
             "doc_type": doc_type,
             "action_class": action_class,
             "status": "new",
@@ -777,5 +851,52 @@ def main():
     print("Done.")
 
 
+# ---------------------------------------------------------------------------
+# REGENERATION SCRIPT: Recompute all item scores with time decay
+# ---------------------------------------------------------------------------
+def regenerate_scores_with_time_decay():
+    """
+    Load data.json, recompute all item scores using score_item() + time_decay(),
+    and save the updated file.
+    This is useful after adding/modifying the time decay system.
+    """
+    print("Regenerating scores with time decay...\n")
+    data = load_data()
+
+    regenerated_count = 0
+    for item in data.get("items", []):
+        title = item.get("title", "")
+        summary = item.get("summary", "")
+        category = item.get("category", "")
+        published = item.get("published", "")
+
+        # Recalculate base score
+        base_score, breakdown = score_item(title, summary, category)
+
+        # Apply time decay
+        final_score, decay_label = apply_time_decay(base_score, published)
+
+        # Update item
+        item["score"] = final_score
+        item["score_breakdown"] = f"{breakdown} | {decay_label}"
+
+        regenerated_count += 1
+        if regenerated_count % 50 == 0:
+            print(f"  Regenerated {regenerated_count} items...")
+
+    # Sort by new score
+    data["items"].sort(key=lambda x: x.get("score", 0), reverse=True)
+
+    # Save
+    save_data(data)
+    print(f"\nRegenerated {regenerated_count} items with time decay")
+    print(f"Saved: {len(data['items'])} total articles")
+    print(f"File size: {DATA_FILE.stat().st_size / 1024:.1f} KB")
+
+
 if __name__ == "__main__":
-    main()
+    import sys
+    if len(sys.argv) > 1 and sys.argv[1] == "regenerate":
+        regenerate_scores_with_time_decay()
+    else:
+        main()

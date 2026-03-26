@@ -18,6 +18,7 @@ import sys
 sys.path.insert(0, str(Path(__file__).parent))
 from ingest import (
     score_item,
+    apply_time_decay,
     detect_doc_type,
     classify_action,
     item_hash,
@@ -171,10 +172,8 @@ def _make_item(title, url, date_str, summary, source_name, category):
         return None
 
     sc, sc_breakdown = score_item(title, summary, category)
-    doc_type = detect_doc_type(title)
-    action_class = classify_action(doc_type, title, sc)
 
-    # Parse date
+    # Parse date first (needed for time decay)
     published = None
     if date_str:
         date_str = date_str.strip()
@@ -214,6 +213,14 @@ def _make_item(title, url, date_str, summary, source_name, category):
     if not published:
         published = datetime.now(timezone.utc).isoformat()
 
+    # Apply time decay to the base score
+    final_sc, decay_label = apply_time_decay(sc, published)
+    # Append decay info to score breakdown
+    full_breakdown = f"{sc_breakdown} | {decay_label}"
+
+    doc_type = detect_doc_type(title)
+    action_class = classify_action(doc_type, title, final_sc)
+
     return {
         "hash": item_hash(title, url),
         "source_name": source_name,
@@ -224,8 +231,8 @@ def _make_item(title, url, date_str, summary, source_name, category):
         "author": "",
         "published": published,
         "summary": summary[:500],
-        "score": sc,
-        "score_breakdown": sc_breakdown,
+        "score": final_sc,
+        "score_breakdown": full_breakdown,
         "doc_type": doc_type,
         "action_class": action_class,
         "status": "new",
