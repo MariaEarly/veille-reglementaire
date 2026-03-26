@@ -1120,6 +1120,11 @@
           <div class="sidebar-item-label">Source primaire</div>
           <div class="sidebar-item-count" id="count-primary">0</div>
         </div>
+        <div class="sidebar-item" data-filter="fil" data-value="jurisprudence">
+          <div class="sidebar-item-dot" style="background: var(--rose);"></div>
+          <div class="sidebar-item-label">Jurisprudence</div>
+          <div class="sidebar-item-count" id="count-jurisprudence">0</div>
+        </div>
         <div class="sidebar-section-divider"></div>
       </div>
 
@@ -1305,6 +1310,7 @@
   <option value="autorite_fr">Autorités FR</option>
   <option value="autorite_eu">Autorités EU</option>
   <option value="autorite_intl">International</option>
+  <option value="jurisprudence">Jurisprudence</option>
   <option value="presse">Presse</option>
   <option value="email">Email</option>
 </select>
@@ -1504,7 +1510,7 @@ function statusLabel(s) {
 }
 
 function catLabel(cat) {
-  const m = { 'autorite_fr':'FR', 'autorite_eu':'EU', 'autorite_intl':'Intl', 'presse':'Presse', 'email':'Email' };
+  const m = { 'autorite_fr':'FR', 'autorite_eu':'EU', 'autorite_intl':'Intl', 'jurisprudence':'Juris.', 'presse':'Presse', 'email':'Email' };
   return m[cat] || cat;
 }
 
@@ -1624,6 +1630,8 @@ function getFilteredItems() {
   if (state.filFilter === 'primary') {
     const primaryCats = new Set(['autorite_fr', 'autorite_eu', 'autorite_intl', 'jurisprudence']);
     items = items.filter(i => primaryCats.has(i.category));
+  } else if (state.filFilter === 'jurisprudence') {
+    items = items.filter(i => i.category === 'jurisprudence');
   }
   if (q) items = items.filter(i => i.title.toLowerCase().includes(q) || (i.summary||'').toLowerCase().includes(q));
   if (cat) items = items.filter(i => i.category === cat);
@@ -1684,6 +1692,7 @@ function renderSidebar() {
     tous: state.items.length,
     fresh: state.items.filter(i => isFresh(i.published)).length,
     primary: state.items.filter(i => ['autorite_fr','autorite_eu','autorite_intl','jurisprudence'].includes(i.category)).length,
+    jurisprudence: state.items.filter(i => i.category === 'jurisprudence').length,
     status_new: state.items.filter(i => i.status === 'new').length,
     status_important: state.items.filter(i => i.status === 'important').length,
     status_reviewed: state.items.filter(i => i.status === 'reviewed').length,
@@ -1694,6 +1703,7 @@ function renderSidebar() {
   document.getElementById('count-tous').textContent = counts.tous;
   document.getElementById('count-fresh').textContent = counts.fresh;
   document.getElementById('count-primary').textContent = counts.primary;
+  document.getElementById('count-jurisprudence').textContent = counts.jurisprudence;
   document.getElementById('count-status-new').textContent = counts.status_new;
   document.getElementById('count-status-important').textContent = counts.status_important;
   document.getElementById('count-status-reviewed').textContent = counts.status_reviewed;
@@ -1820,6 +1830,7 @@ function updateStats() {
   if (el('count-fresh')) el('count-fresh').textContent = fresh;
   const primaryCats = new Set(['autorite_fr', 'autorite_eu', 'autorite_intl', 'jurisprudence']);
   if (el('count-primary')) el('count-primary').textContent = state.items.filter(i => primaryCats.has(i.category)).length;
+  if (el('count-jurisprudence')) el('count-jurisprudence').textContent = state.items.filter(i => i.category === 'jurisprudence').length;
 }
 
 function renderCurrentTab() {
@@ -1960,8 +1971,9 @@ document.querySelectorAll('.sidebar-item[data-filter]').forEach(item => {
       } else if (filterValue === 'fresh') {
         document.getElementById('filter-date-from').value = new Date(Date.now() - 86400000).toISOString().split('T')[0];
       } else if (filterValue === 'primary') {
-        // Filter to primary sources only (autorités FR, EU, intl — not presse/social)
         state.filFilter = 'primary';
+      } else if (filterValue === 'jurisprudence') {
+        state.filFilter = 'jurisprudence';
       }
     } else if (filterType === 'status') {
       document.getElementById('filter-status').value = filterValue;
