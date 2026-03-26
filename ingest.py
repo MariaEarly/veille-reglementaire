@@ -117,6 +117,13 @@ COMPLIANCE_KEYWORDS = [
     # Banking instruments
     "chèques irréguliers", "fichier national des chèques",
     "interdit bancaire", "fcc", "ficp",
+    # Foreign bribery / FCPA / corruption
+    "bribery", "corruption", "fcpa", "foreign corrupt",
+    "uk bribery act", "sapin ii", "convention ocde",
+    "prise illégale d'intérêts", "trafic d'influence",
+    # DOJ / enforcement US
+    "bank secrecy act", "bsa violation", "sanctions evasion",
+    "wire fraud", "money transmitt", "fincen",
 ]
 
 _REGEX_KEYWORDS = [
