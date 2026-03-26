@@ -160,21 +160,115 @@
       font-weight: 600;
       color: var(--color-text-tertiary);
       letter-spacing: 0.5px;
-      margin-bottom: 10px;
+      margin-bottom: 6px;
     }
 
-    .sidebar-section .source-groups {
-      max-height: 280px;
+    .source-tree {
+      max-height: 380px;
       overflow-y: auto;
       padding-right: 4px;
     }
 
-    .sidebar-section .source-groups::-webkit-scrollbar {
+    .source-tree::-webkit-scrollbar {
       width: 3px;
     }
-    .sidebar-section .source-groups::-webkit-scrollbar-thumb {
+    .source-tree::-webkit-scrollbar-thumb {
       background: var(--color-border-tertiary);
       border-radius: 3px;
+    }
+
+    .source-cat-header {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 8px;
+      cursor: pointer;
+      border-radius: 4px;
+      transition: background 120ms;
+      user-select: none;
+    }
+
+    .source-cat-header:hover {
+      background: var(--color-background-secondary);
+    }
+
+    .source-cat-arrow {
+      font-size: 9px;
+      color: var(--color-text-tertiary);
+      transition: transform 150ms;
+      width: 10px;
+      text-align: center;
+      flex-shrink: 0;
+    }
+
+    .source-cat-header.open .source-cat-arrow {
+      transform: rotate(90deg);
+    }
+
+    .source-cat-label {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--color-text-secondary);
+      flex: 1;
+    }
+
+    .source-cat-count {
+      font-family: var(--mono);
+      font-size: 10px;
+      color: var(--color-text-tertiary);
+    }
+
+    .source-cat-items {
+      display: none;
+      padding-left: 18px;
+    }
+
+    .source-cat-header.open + .source-cat-items {
+      display: block;
+    }
+
+    .source-line {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 3px 8px;
+      cursor: pointer;
+      border-radius: 4px;
+      transition: all 120ms;
+    }
+
+    .source-line:hover {
+      background: var(--color-background-secondary);
+    }
+
+    .source-line.active {
+      background: var(--terra-bg);
+    }
+
+    .source-line-name {
+      font-size: 11px;
+      color: var(--color-text-secondary);
+      flex: 1;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .source-line.active .source-line-name {
+      color: var(--terra);
+      font-weight: 500;
+    }
+
+    .source-line-count {
+      font-family: var(--mono);
+      font-size: 10px;
+      color: var(--color-text-tertiary);
+      flex-shrink: 0;
+    }
+
+    .source-line.active .source-line-count {
+      color: var(--terra);
+      opacity: 0.7;
     }
 
     /* Advanced filters toggle */
@@ -827,7 +921,7 @@
 
       <div class="sidebar-section">
         <div class="sidebar-section-title">SOURCE</div>
-        <div id="sources-list" class="source-groups"></div>
+        <div id="sources-list" class="source-tree"></div>
       </div>
 
       <div class="sidebar-toggle" onclick="toggleAdvancedFilters()">
@@ -1262,20 +1356,40 @@ function renderSidebar() {
     grouped[cat].push(s);
   });
 
+  // Remember which categories were open
+  const openCats = new Set();
+  sourcesList.querySelectorAll('.source-cat-header.open').forEach(el => openCats.add(el.dataset.cat));
+  // Default: open first category on first render
+  if (sourcesList.children.length === 0) {
+    const firstCat = Object.keys(catGroups).find(c => grouped[c]?.length);
+    if (firstCat) openCats.add(firstCat);
+  }
+
   let html = '';
   for (const [cat, label] of Object.entries(catGroups)) {
     const sources = grouped[cat];
     if (!sources || sources.length === 0) continue;
-    html += `<div><div class="source-group-label">${label}</div><div class="source-group-items">`;
+    const catTotal = sources.reduce((sum, s) => sum + (sourceCounts[s.name] || 0), 0);
+    const isOpen = openCats.has(cat);
+    html += `<div class="source-cat-header${isOpen ? ' open' : ''}" data-cat="${cat}" onclick="toggleSourceCat(this)">`;
+    html += `<span class="source-cat-arrow">▶</span>`;
+    html += `<span class="source-cat-label">${label}</span>`;
+    html += `<span class="source-cat-count">${catTotal}</span>`;
+    html += `</div>`;
+    html += `<div class="source-cat-items">`;
     html += sources.map(s => {
       const count = sourceCounts[s.name] || 0;
       const isActive = state.sourceFilter === s.name;
-      return `<button class="source-pill${isActive ? ' active' : ''}" data-filter="source" data-value="${esc(s.name)}">${esc(s.name)}<span class="source-count">${count}</span></button>`;
+      return `<div class="source-line${isActive ? ' active' : ''}" data-filter="source" data-value="${esc(s.name)}"><span class="source-line-name">${esc(s.name)}</span><span class="source-line-count">${count}</span></div>`;
     }).join('');
-    html += `</div></div>`;
+    html += `</div>`;
   }
   sourcesList.innerHTML = html;
 }
+
+window.toggleSourceCat = function(el) {
+  el.classList.toggle('open');
+};
 
 function updateStats() {
   const fresh = state.items.filter(i => isFresh(i.published)).length;
@@ -1380,11 +1494,11 @@ document.querySelectorAll('.sidebar-item[data-filter]').forEach(item => {
   });
 });
 
-// Source pill click delegation (dynamic elements)
+// Source line click delegation (dynamic elements)
 document.getElementById('sources-list').addEventListener('click', (e) => {
-  const pill = e.target.closest('.source-pill');
-  if (!pill) return;
-  const value = pill.dataset.value;
+  const line = e.target.closest('.source-line');
+  if (!line) return;
+  const value = line.dataset.value;
   // Toggle: if already active, deselect
   if (state.sourceFilter === value) {
     state.sourceFilter = '';
