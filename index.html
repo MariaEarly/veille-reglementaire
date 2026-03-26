@@ -6,7 +6,7 @@
   <title>Early Brief — Veille Réglementaire</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant:wght@300;400;500;600&family=Hanken+Grotesk:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
   <style>
     :root {
       --bg: #F4F0E6;
@@ -35,10 +35,9 @@
       --purple-light: #eef0f6;
       --purple-text: #3a4870;
       --dark: #1A1814;
-      --radius: 4px;
+      --radius: 6px;
       --mono: 'IBM Plex Mono', monospace;
-      --sans: 'Hanken Grotesk', sans-serif;
-      --display: 'Cormorant', serif;
+      --sans: 'Inter', -apple-system, sans-serif;
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
@@ -65,11 +64,11 @@
       flex-wrap: wrap; gap: 24px;
     }
     .header h1 {
-      font-family: var(--display);
-      font-weight: 300; font-size: 2.2rem;
-      letter-spacing: -0.02em; line-height: 1;
+      font-family: var(--sans);
+      font-weight: 600; font-size: 1.5rem;
+      letter-spacing: -0.025em; line-height: 1.2;
     }
-    .header h1 span { color: var(--terra); font-weight: 400; }
+    .header h1 span { color: var(--terra); }
     .header .subtitle {
       font-family: var(--mono);
       font-size: 0.72rem; color: var(--subtle);
@@ -96,11 +95,11 @@
     }
     .nav-tab {
       padding: 10px 20px; border: none; cursor: pointer;
-      font-family: var(--mono); font-size: 0.78rem;
+      font-family: var(--sans); font-size: 0.82rem;
       color: var(--subtle); background: transparent;
       border-bottom: 2px solid transparent;
       transition: all 150ms ease;
-      letter-spacing: 0.02em;
+      font-weight: 500;
     }
     .nav-tab:hover { color: var(--text); }
     .nav-tab.active {
@@ -144,12 +143,12 @@
     }
     .filter-select {
       padding: 9px 12px; border: 1px solid var(--border);
-      font-family: var(--mono); font-size: 0.78rem;
+      font-family: var(--sans); font-size: 0.8rem;
       background: var(--surface); cursor: pointer; color: var(--text);
       border-radius: var(--radius);
       transition: all 150ms;
     }
-    .filter-select:hover { border-color: #cdd0d5; }
+    .filter-select:hover { border-color: rgba(26, 24, 20, 0.25); }
     .filter-select:focus {
       outline: none;
       border-color: var(--brand);
@@ -166,7 +165,7 @@
       border-radius: var(--radius);
     }
     .card:hover {
-      border-color: #cdd0d5;
+      border-color: rgba(26, 24, 20, 0.22);
       box-shadow: 0 2px 8px rgba(0,0,0,0.04);
     }
     .card.is-fresh {
@@ -292,12 +291,12 @@
     }
     .detail-btn {
       padding: 7px 14px; font-size: 0.8rem;
-      font-family: var(--mono);
+      font-family: var(--sans);
       border: 1px solid var(--border); background: var(--surface);
       cursor: pointer; color: var(--text); border-radius: var(--radius);
-      transition: all 120ms;
+      transition: all 120ms; font-weight: 500;
     }
-    .detail-btn:hover { background: var(--bg); border-color: #cdd0d5; }
+    .detail-btn:hover { background: var(--bg); border-color: rgba(26, 24, 20, 0.22); }
     .detail-btn-primary {
       background: var(--brand); color: var(--surface); border-color: var(--brand);
     }
@@ -365,7 +364,7 @@
       border-radius: var(--radius);
     }
     .source-card:hover {
-      border-color: #cdd0d5;
+      border-color: rgba(26, 24, 20, 0.22);
       box-shadow: 0 2px 8px rgba(0,0,0,0.04);
     }
     .source-dot { width: 8px; height: 8px; flex-shrink: 0; border-radius: 50%; }
@@ -446,7 +445,7 @@
     }
     .note-input {
       flex: 1; padding: 7px 12px; border: 1px solid var(--border);
-      font-family: var(--sans); font-size: 0.82rem; color: var(--text);
+      font-family: var(--sans); font-size: 0.8rem; color: var(--text);
       background: var(--bg); border-radius: var(--radius);
       transition: all 150ms;
     }
@@ -467,7 +466,7 @@
       display: flex; gap: 10px; align-items: center; margin-bottom: 20px;
     }
     .btn-export {
-      padding: 9px 18px; font-family: var(--mono); font-size: 0.78rem;
+      padding: 9px 18px; font-family: var(--sans); font-size: 0.82rem;
       background: var(--brand); color: var(--surface); border: none;
       border-radius: var(--radius); cursor: pointer; font-weight: 500;
       transition: all 120ms;
