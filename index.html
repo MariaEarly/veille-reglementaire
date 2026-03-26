@@ -1105,6 +1105,213 @@
       font-size: 13px;
       color: var(--color-text-tertiary);
     }
+
+    /* Agenda réglementaire */
+    .ag-wrapper {
+      flex: 1;
+      overflow-y: auto;
+      padding: 16px 20px;
+    }
+    .ag-toolbar {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 14px;
+    }
+    .ag-week-label {
+      font-size: 13px;
+      font-weight: 500;
+      flex: 1;
+    }
+    .ag-btn {
+      padding: 5px 12px;
+      border: 0.5px solid var(--color-border-tertiary);
+      border-radius: 4px;
+      font-size: 12px;
+      font-family: var(--sans);
+      color: var(--color-text-secondary);
+      background: transparent;
+      cursor: pointer;
+    }
+    .ag-btn:hover { background: var(--color-background-secondary); }
+    .ag-btn-add {
+      background: var(--terra);
+      color: white;
+      border-color: var(--terra);
+      font-weight: 500;
+    }
+    .ag-btn-add:hover { background: #7d3016; }
+    .ag-btn-xs { padding: 3px 8px; font-size: 11px; }
+    .ag-grid {
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+      gap: 4px;
+      margin-bottom: 14px;
+    }
+    .ag-head {
+      text-align: center;
+      font-family: var(--mono);
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--color-text-tertiary);
+      padding: 4px 0;
+    }
+    .ag-cell {
+      min-height: 100px;
+      border: 0.5px solid var(--color-border-tertiary);
+      border-radius: 4px;
+      background: var(--color-background-primary);
+      padding: 6px;
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+      transition: border-color 0.15s;
+    }
+    .ag-cell:hover { border-color: var(--terra); }
+    .ag-cell.today { border-color: var(--terra); background: var(--terra-bg); }
+    .ag-day-num {
+      font-size: 11px;
+      font-weight: 500;
+      color: var(--color-text-tertiary);
+      margin-bottom: 2px;
+    }
+    .ag-cell.today .ag-day-num { color: var(--terra); }
+    .ag-event {
+      font-size: 10px;
+      padding: 2px 5px;
+      border-radius: 3px;
+      line-height: 1.3;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .ag-event.auto { background: var(--terra-bg); color: var(--terra); border-left: 2px solid var(--terra); }
+    .ag-event.manual { background: rgba(44,74,46,0.08); color: #2C4A2E; border-left: 2px solid #2C4A2E; }
+    .ag-cell-add {
+      font-size: 10px;
+      color: var(--color-border-secondary);
+      text-align: center;
+      margin-top: auto;
+      padding: 2px 0;
+    }
+    .ag-cell:hover .ag-cell-add { color: var(--terra); }
+    .ag-add-panel {
+      margin-bottom: 14px;
+      padding-bottom: 14px;
+      border-bottom: 0.5px solid var(--color-border-tertiary);
+    }
+    .ag-add-row {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+    }
+    .ag-input {
+      padding: 7px 10px;
+      border: 0.5px solid var(--color-border-tertiary);
+      border-radius: 4px;
+      font-family: var(--sans);
+      font-size: 12px;
+      color: var(--color-text-primary);
+      background: var(--color-background-primary);
+      outline: none;
+    }
+    .ag-input:focus { border-color: var(--terra); }
+    .ag-input-wide { flex: 1; }
+    .ag-section { margin-bottom: 14px; }
+    .ag-section-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 8px;
+    }
+    .ag-section-label {
+      font-family: var(--mono);
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--color-text-tertiary);
+      font-weight: 500;
+    }
+    .ag-pill {
+      font-family: var(--mono);
+      font-size: 10px;
+      padding: 1px 8px;
+      border-radius: 3px;
+      background: var(--color-background-secondary);
+      color: var(--color-text-tertiary);
+    }
+    .ag-ev-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+      padding: 8px 10px;
+      border-bottom: 0.5px solid var(--color-border-tertiary);
+    }
+    .ag-ev-item:last-child { border-bottom: none; }
+    .ag-ev-bar {
+      width: 2px;
+      border-radius: 1px;
+      align-self: stretch;
+      flex-shrink: 0;
+    }
+    .ag-ev-bar.auto { background: var(--terra); }
+    .ag-ev-bar.manual { background: #2C4A2E; }
+    .ag-ev-date {
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--terra);
+      min-width: 38px;
+      flex-shrink: 0;
+    }
+    .ag-ev-body { flex: 1; min-width: 0; }
+    .ag-ev-desc { font-size: 13px; line-height: 1.4; }
+    .ag-ev-inst {
+      font-size: 11px;
+      color: var(--color-text-tertiary);
+      margin-top: 2px;
+    }
+    .ag-ev-badge {
+      font-family: var(--mono);
+      font-size: 9px;
+      padding: 1px 6px;
+      border-radius: 3px;
+      margin-left: 6px;
+    }
+    .ag-ev-badge.auto { background: var(--terra-bg); color: var(--terra); }
+    .ag-ev-badge.manual { background: rgba(44,74,46,0.08); color: #2C4A2E; }
+    .ag-ev-del {
+      opacity: 0;
+      background: none;
+      border: none;
+      color: var(--color-text-tertiary);
+      cursor: pointer;
+      font-size: 12px;
+      padding: 2px;
+      flex-shrink: 0;
+      transition: opacity 0.15s;
+    }
+    .ag-ev-item:hover .ag-ev-del { opacity: 1; }
+    .ag-empty {
+      font-size: 12px;
+      color: var(--color-text-tertiary);
+      padding: 24px;
+      text-align: center;
+      border: 0.5px dashed var(--color-border-tertiary);
+      border-radius: 4px;
+    }
+    .ag-export-box {
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--color-text-secondary);
+      background: var(--color-background-secondary);
+      border-radius: 4px;
+      padding: 12px;
+      white-space: pre-wrap;
+      line-height: 1.6;
+      min-height: 40px;
+    }
   </style>
 </head>
 <body>
@@ -1239,19 +1446,47 @@
       </div>
 
       <div class="tab-panel" id="panel-agenda">
-        <div class="agenda-container" style="padding: 16px; flex: 1; overflow-y: auto;">
-          <div style="margin-bottom: 16px; display: flex; justify-content: space-between; align-items: center;">
-            <div style="font-size: 15px; font-weight: 600;">Calendrier</div>
-            <div style="font-size: 12px; color: var(--color-text-tertiary);">Google Calendar · Europe/Paris</div>
+        <div class="ag-wrapper">
+          <!-- Toolbar -->
+          <div class="ag-toolbar">
+            <button class="ag-btn" onclick="agMoveWeek(-1)">←</button>
+            <span class="ag-week-label" id="ag-week-label"></span>
+            <button class="ag-btn" onclick="agMoveWeek(1)">→</button>
+            <button class="ag-btn" onclick="agGoToday()">Aujourd'hui</button>
           </div>
-          <div class="calendar-embed">
-            <iframe src="https://calendar.google.com/calendar/embed?src=maria.garcia1403%40gmail.com&ctz=Europe/Paris&showTitle=0&showPrint=0&showTabs=1&showCalendars=0&mode=WEEK&hl=fr"
-              style="border: 0; width: 100%; height: 100%; min-height: 600px; border-radius: 6px;"
-              allowfullscreen loading="lazy">
-            </iframe>
+          <!-- Calendar grid -->
+          <div class="ag-grid" id="ag-grid">
+            <div class="ag-head">Lun</div><div class="ag-head">Mar</div><div class="ag-head">Mer</div>
+            <div class="ag-head">Jeu</div><div class="ag-head">Ven</div><div class="ag-head">Sam</div><div class="ag-head">Dim</div>
           </div>
-          <div style="margin-top: 8px; font-size: 11px; color: var(--color-text-tertiary);">
-            Si le calendrier ne s'affiche pas, vérifiez que votre agenda Google est partagé publiquement.
+          <!-- Add form -->
+          <div class="ag-add-panel">
+            <div class="ag-add-row">
+              <input type="date" id="ag-new-date" class="ag-input" />
+              <input type="text" id="ag-new-ev" class="ag-input ag-input-wide" placeholder="Description de l'échéance" />
+              <input type="text" id="ag-new-src" class="ag-input" placeholder="Institution" style="max-width:140px;" />
+              <button class="ag-btn ag-btn-add" onclick="agAddManual()">Ajouter</button>
+            </div>
+          </div>
+          <!-- Event list -->
+          <div class="ag-section">
+            <div class="ag-section-header">
+              <span class="ag-section-label">Échéances</span>
+              <span class="ag-pill" id="ag-count">0</span>
+              <span style="margin-left:auto;display:flex;gap:4px;">
+                <button class="ag-btn ag-btn-xs" onclick="agFilterWeek()">Semaine</button>
+                <button class="ag-btn ag-btn-xs" onclick="agFilterAll()">Toutes</button>
+              </span>
+            </div>
+            <div id="ag-ev-list"></div>
+          </div>
+          <!-- Export -->
+          <div class="ag-section">
+            <div class="ag-section-header">
+              <span class="ag-section-label">Export semaine</span>
+              <button class="ag-btn ag-btn-xs" onclick="agCopyExport()">Copier</button>
+            </div>
+            <div id="ag-export-box" class="ag-export-box"></div>
           </div>
         </div>
       </div>
@@ -1701,70 +1936,38 @@ function renderSidebar() {
   const sourceCounts = {};
   state.items.forEach(i => { sourceCounts[i.source] = (sourceCounts[i.source] || 0) + 1; });
 
-  // Group sources by parent org: "AMF - Actualités" → group "AMF", child "Actualités"
-  // Presse/Social/Email become top-level collapsible groups
-  const collapsibleCats = new Set(['presse', 'social', 'email']);
-  const collapsibleLabels = { 'presse': 'Presse', 'social': 'Réseaux sociaux', 'email': 'Email' };
-  const collapsibleGroups = {};
-  const orgGroups = {};
-
+  // Macro-categories: group all sources by category
+  const macroLabels = {
+    'autorite_fr': 'Régulateurs FR',
+    'autorite_eu': 'Régulateurs EU',
+    'autorite_intl': 'International',
+    'jurisprudence': 'Jurisprudence',
+    'social': 'Réseaux sociaux',
+    'presse': 'Presse',
+    'email': 'Email'
+  };
+  const macroOrder = ['autorite_fr', 'autorite_eu', 'autorite_intl', 'jurisprudence', 'social', 'presse', 'email'];
+  const macroGroups = {};
   state.sources.forEach(s => {
     const cat = s.category || s.source_type || 'presse';
-    if (collapsibleCats.has(cat)) {
-      if (!collapsibleGroups[cat]) collapsibleGroups[cat] = [];
-      collapsibleGroups[cat].push(s);
-    } else {
-      const parts = s.name.split(' - ');
-      const parent = parts[0].trim();
-      const child = parts.length > 1 ? parts.slice(1).join(' - ').trim() : null;
-      if (!orgGroups[parent]) orgGroups[parent] = [];
-      orgGroups[parent].push({ fullName: s.name, childLabel: child, count: sourceCounts[s.name] || 0 });
-    }
+    if (!macroGroups[cat]) macroGroups[cat] = [];
+    macroGroups[cat].push(s);
   });
 
-  // Remember which groups were open
+  // Remember which macro groups were open
   const openGroups = new Set();
   sourcesList.querySelectorAll('.source-group-header.open').forEach(el => openGroups.add(el.dataset.group));
 
   let html = '';
 
-  // Authority groups
-  for (const [parent, children] of Object.entries(orgGroups)) {
-    const totalCount = children.reduce((sum, c) => sum + c.count, 0);
-    const zeroClass = totalCount === 0 ? ' zero' : '';
-
-    if (children.length === 1 && !children[0].childLabel) {
-      // Single source, no children → flat line
-      const c = children[0];
-      const isActive = state.sourceFilter === c.fullName;
-      html += `<div class="filter-item${isActive ? ' active' : ''}${zeroClass}" data-filter="source" data-value="${esc(c.fullName)}"><div class="filter-dot"></div>${esc(parent)}<span class="filter-count">${c.count}</span></div>`;
-    } else {
-      // Group with children
-      const isOpen = openGroups.has(parent);
-      html += `<div class="source-group">`;
-      html += `<div class="source-group-header${zeroClass}${isOpen ? ' open' : ''}" data-group="${esc(parent)}" onclick="toggleGroup(this)">`;
-      html += `<div class="filter-dot"></div>`;
-      html += `<span class="group-name">${esc(parent)}</span>`;
-      html += `<span class="group-arrow">▸</span>`;
-      html += `<span class="filter-count">${totalCount}</span>`;
-      html += `</div>`;
-      html += `<div class="source-group-children"${isOpen ? '' : ' style="display:none"'}>`;
-      html += children.map(c => {
-        const isActive = state.sourceFilter === c.fullName;
-        const cZero = c.count === 0 ? ' zero' : '';
-        return `<div class="filter-item child${isActive ? ' active' : ''}${cZero}" data-filter="source" data-value="${esc(c.fullName)}"><div class="filter-dot"></div>${esc(c.childLabel || c.fullName)}<span class="filter-count">${c.count}</span></div>`;
-      }).join('');
-      html += `</div></div>`;
-    }
-  }
-
-  // Collapsible category groups (Presse, Social, Email)
-  for (const [cat, label] of Object.entries(collapsibleLabels)) {
-    const sources = collapsibleGroups[cat];
+  for (const cat of macroOrder) {
+    const sources = macroGroups[cat];
     if (!sources || sources.length === 0) continue;
+    const label = macroLabels[cat] || cat;
     const catTotal = sources.reduce((sum, s) => sum + (sourceCounts[s.name] || 0), 0);
     const isOpen = openGroups.has(cat);
     const zeroClass = catTotal === 0 ? ' zero' : '';
+
     html += `<div class="source-group">`;
     html += `<div class="source-group-header${zeroClass}${isOpen ? ' open' : ''}" data-group="${cat}" onclick="toggleGroup(this)">`;
     html += `<div class="filter-dot"></div>`;
@@ -2083,6 +2286,129 @@ window.saveRedigerNote = function(id) {
     showToast('Note enregistrée');
   }
 };
+
+// --- Agenda réglementaire ---
+const AG_STORAGE = 'eb-agenda';
+const AG_MONTHS = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
+let agItems = [];
+let agWeekOffset = 0;
+let agWeekOnly = false;
+
+try { agItems = JSON.parse(localStorage.getItem(AG_STORAGE) || '[]'); } catch(e) { agItems = []; }
+
+function agSave() { try { localStorage.setItem(AG_STORAGE, JSON.stringify(agItems)); } catch(e) {} }
+
+function agGetMonday(d) {
+  const dt = new Date(d), day = dt.getDay() || 7;
+  dt.setDate(dt.getDate() - day + 1); dt.setHours(0,0,0,0); return dt;
+}
+function agAddDays(d, n) { const r = new Date(d); r.setDate(r.getDate() + n); return r; }
+function agYMD(d) { return d.toISOString().slice(0,10); }
+function agFmt(s) { const p = s.split('-'); return p[2] + '/' + p[1]; }
+function agWeekStart() { return agAddDays(agGetMonday(new Date()), agWeekOffset * 7); }
+
+window.agMoveWeek = function(dir) { agWeekOffset += dir; agRender(); };
+window.agGoToday = function() { agWeekOffset = 0; agRender(); };
+window.agFilterWeek = function() { agWeekOnly = true; agRenderList(); };
+window.agFilterAll = function() { agWeekOnly = false; agRenderList(); };
+
+function agRender() {
+  const ws = agWeekStart(), we = agAddDays(ws, 6);
+  document.getElementById('ag-week-label').textContent =
+    ws.getDate() + ' ' + AG_MONTHS[ws.getMonth()] + ' — ' + we.getDate() + ' ' + AG_MONTHS[we.getMonth()] + ' ' + we.getFullYear();
+  agRenderGrid(ws);
+  agRenderList();
+  agRenderExport(ws);
+}
+
+function agRenderGrid(ws) {
+  const todayStr = agYMD(new Date());
+  const grid = document.getElementById('ag-grid');
+  grid.querySelectorAll('.ag-cell').forEach(c => c.remove());
+  for (let i = 0; i < 7; i++) {
+    const d = agAddDays(ws, i), dStr = agYMD(d);
+    const cell = document.createElement('div');
+    cell.className = 'ag-cell' + (dStr === todayStr ? ' today' : '');
+    cell.innerHTML = '<div class="ag-day-num">' + d.getDate() + '</div>';
+    agItems.filter(it => it.date === dStr).forEach(it => {
+      const ev = document.createElement('div');
+      ev.className = 'ag-event ' + (it.auto ? 'auto' : 'manual');
+      ev.textContent = (it.institution ? it.institution + ' — ' : '') + it.description;
+      ev.title = ev.textContent;
+      cell.appendChild(ev);
+    });
+    const add = document.createElement('div');
+    add.className = 'ag-cell-add';
+    add.textContent = '+';
+    cell.appendChild(add);
+    cell.onclick = () => {
+      document.getElementById('ag-new-date').value = dStr;
+      document.getElementById('ag-new-ev').focus();
+    };
+    grid.appendChild(cell);
+  }
+}
+
+function agRenderList() {
+  const list = document.getElementById('ag-ev-list');
+  const countEl = document.getElementById('ag-count');
+  let items = [...agItems];
+  if (agWeekOnly) {
+    const ws = agWeekStart();
+    const week = Array.from({length:7}, (_, i) => agYMD(agAddDays(ws, i)));
+    items = items.filter(it => week.includes(it.date));
+  }
+  countEl.textContent = items.length;
+  if (!items.length) {
+    list.innerHTML = '<div class="ag-empty">Aucune échéance' + (agWeekOnly ? ' cette semaine' : '') + '</div>';
+    return;
+  }
+  list.innerHTML = items.map((it, i) => {
+    const realIdx = agItems.indexOf(it);
+    return `<div class="ag-ev-item">
+      <div class="ag-ev-bar ${it.auto ? 'auto' : 'manual'}"></div>
+      <span class="ag-ev-date">${agFmt(it.date)}</span>
+      <div class="ag-ev-body">
+        <div class="ag-ev-desc">${it.description}<span class="ag-ev-badge ${it.auto ? 'auto' : 'manual'}">${it.auto ? 'auto' : 'manuel'}</span></div>
+        ${it.institution ? '<div class="ag-ev-inst">' + it.institution + '</div>' : ''}
+      </div>
+      <button class="ag-ev-del" onclick="agRemove(${realIdx})">✕</button>
+    </div>`;
+  }).join('');
+}
+
+function agRenderExport(ws) {
+  if (!ws) ws = agWeekStart();
+  const week = Array.from({length:7}, (_, i) => agYMD(agAddDays(ws, i)));
+  const items = agItems.filter(it => week.includes(it.date));
+  const box = document.getElementById('ag-export-box');
+  if (!items.length) { box.textContent = 'Aucune échéance cette semaine.'; return; }
+  box.textContent = 'Agenda de la semaine\n\n' +
+    items.map(it => '— ' + agFmt(it.date) + ' · ' + (it.institution ? it.institution + ' — ' : '') + it.description).join('\n');
+}
+
+window.agAddManual = function() {
+  const d = document.getElementById('ag-new-date').value;
+  const ev = document.getElementById('ag-new-ev').value.trim();
+  const src = document.getElementById('ag-new-src').value.trim();
+  if (!d || !ev) return;
+  agItems.push({ date: d, description: ev, institution: src, auto: false });
+  agItems.sort((a, b) => a.date.localeCompare(b.date));
+  agSave();
+  ['ag-new-date','ag-new-ev','ag-new-src'].forEach(id => document.getElementById(id).value = '');
+  agRender();
+};
+
+window.agRemove = function(i) { agItems.splice(i, 1); agSave(); agRender(); };
+
+window.agCopyExport = function() {
+  const text = document.getElementById('ag-export-box').textContent;
+  navigator.clipboard.writeText(text).then(() => {
+    showToast('Agenda copié');
+  });
+};
+
+agRender();
 
 // --- Tab navigation ---
 document.querySelectorAll('.tab-item').forEach(tab => {
