@@ -1348,25 +1348,36 @@ function renderSidebar() {
   const sourceCounts = {};
   state.items.forEach(i => { sourceCounts[i.source] = (sourceCounts[i.source] || 0) + 1; });
 
-  const catGroups = { 'autorite_fr': 'Autorités FR', 'autorite_eu': 'Autorités EU', 'autorite_intl': 'International', 'presse': 'Presse', 'social': 'Réseaux sociaux', 'email': 'Email' };
+  // Group sources: authorities are flat lines, presse/social/email are collapsible
+  const collapsible = new Set(['presse', 'social', 'email']);
+  const collapsibleLabels = { 'presse': 'Presse', 'social': 'Réseaux sociaux', 'email': 'Email' };
   const grouped = {};
+  const authorities = [];
   state.sources.forEach(s => {
     const cat = s.category || s.source_type || 'presse';
-    if (!grouped[cat]) grouped[cat] = [];
-    grouped[cat].push(s);
+    if (collapsible.has(cat)) {
+      if (!grouped[cat]) grouped[cat] = [];
+      grouped[cat].push(s);
+    } else {
+      authorities.push(s);
+    }
   });
 
-  // Remember which categories were open
+  // Remember which toggles were open
   const openCats = new Set();
   sourcesList.querySelectorAll('.source-cat-header.open').forEach(el => openCats.add(el.dataset.cat));
-  // Default: open first category on first render
-  if (sourcesList.children.length === 0) {
-    const firstCat = Object.keys(catGroups).find(c => grouped[c]?.length);
-    if (firstCat) openCats.add(firstCat);
-  }
 
   let html = '';
-  for (const [cat, label] of Object.entries(catGroups)) {
+
+  // Flat authority lines
+  html += authorities.map(s => {
+    const count = sourceCounts[s.name] || 0;
+    const isActive = state.sourceFilter === s.name;
+    return `<div class="source-line${isActive ? ' active' : ''}" data-filter="source" data-value="${esc(s.name)}"><span class="source-line-name">${esc(s.name)}</span><span class="source-line-count">${count}</span></div>`;
+  }).join('');
+
+  // Collapsible groups (Presse, Social, Email)
+  for (const [cat, label] of Object.entries(collapsibleLabels)) {
     const sources = grouped[cat];
     if (!sources || sources.length === 0) continue;
     const catTotal = sources.reduce((sum, s) => sum + (sourceCounts[s.name] || 0), 0);
