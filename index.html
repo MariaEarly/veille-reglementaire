@@ -452,6 +452,19 @@
       align-items: center;
     }
 
+    .topbar-select {
+      padding: 5px 8px;
+      border: 0.5px solid var(--color-border-tertiary);
+      border-radius: 4px;
+      font-size: 12px;
+      font-family: var(--sans);
+      color: var(--color-text-secondary);
+      background: transparent;
+      cursor: pointer;
+      outline: none;
+    }
+    .topbar-select:focus { border-color: var(--terra); }
+
     .sort-button {
       padding: 6px 12px;
       background: transparent;
@@ -1129,36 +1142,6 @@
       </div>
 
       <div class="sidebar-section">
-        <div class="sidebar-section-label">Statut</div>
-        <div class="sidebar-item" data-filter="status" data-value="new">
-          <div class="sidebar-item-dot"></div>
-          <div class="sidebar-item-label">Nouveau</div>
-          <div class="sidebar-item-count" id="count-status-new">0</div>
-        </div>
-        <div class="sidebar-item" data-filter="status" data-value="important">
-          <div class="sidebar-item-dot"></div>
-          <div class="sidebar-item-label">Important</div>
-          <div class="sidebar-item-count" id="count-status-important">0</div>
-        </div>
-        <div class="sidebar-item" data-filter="status" data-value="reviewed">
-          <div class="sidebar-item-dot"></div>
-          <div class="sidebar-item-label">Relu</div>
-          <div class="sidebar-item-count" id="count-status-reviewed">0</div>
-        </div>
-        <div class="sidebar-item" data-filter="status" data-value="draft">
-          <div class="sidebar-item-dot"></div>
-          <div class="sidebar-item-label">À publier</div>
-          <div class="sidebar-item-count" id="count-status-draft">0</div>
-        </div>
-        <div class="sidebar-item" data-filter="status" data-value="archived">
-          <div class="sidebar-item-dot"></div>
-          <div class="sidebar-item-label">Archivé</div>
-          <div class="sidebar-item-count" id="count-status-archived">0</div>
-        </div>
-        <div class="sidebar-section-divider"></div>
-      </div>
-
-      <div class="sidebar-section">
         <div class="sidebar-section-label">Score minimum</div>
         <div class="sidebar-item" data-filter="score" data-value="0">
           <div class="sidebar-item-dot"></div>
@@ -1225,6 +1208,14 @@
         </div>
         <div class="topbar-controls">
           <input type="text" id="search" class="search-input" placeholder="Rechercher..." />
+          <select id="status-dropdown" class="topbar-select" onchange="applyStatusFilter(this.value)">
+            <option value="">Statut</option>
+            <option value="new">Nouveau</option>
+            <option value="important">Important</option>
+            <option value="reviewed">Relu</option>
+            <option value="draft">À publier</option>
+            <option value="archived">Archivé</option>
+          </select>
           <button class="sort-button active" data-sort="fresh">Récents</button>
           <button class="sort-button" data-sort="score">Score</button>
           <button class="sort-button" data-sort="date">Date</button>
@@ -1704,11 +1695,7 @@ function renderSidebar() {
   document.getElementById('count-fresh').textContent = counts.fresh;
   document.getElementById('count-primary').textContent = counts.primary;
   document.getElementById('count-jurisprudence').textContent = counts.jurisprudence;
-  document.getElementById('count-status-new').textContent = counts.status_new;
-  document.getElementById('count-status-important').textContent = counts.status_important;
-  document.getElementById('count-status-reviewed').textContent = counts.status_reviewed;
-  document.getElementById('count-status-draft').textContent = counts.status_draft;
-  document.getElementById('count-status-archived').textContent = counts.status_archived;
+  // Status counts removed from sidebar — now in topbar dropdown
 
   const sourcesList = document.getElementById('sources-list');
   const sourceCounts = {};
@@ -1849,6 +1836,11 @@ window.toggleBrief = function(id) {
     showToast(item.early_brief ? '★ Ajouté à Early Brief' : 'Retiré d\'Early Brief');
     renderCurrentTab();
   }
+};
+
+window.applyStatusFilter = function(val) {
+  document.getElementById('filter-status').value = val;
+  renderCurrentTab();
 };
 
 window.cycleStatus = function(id) {
