@@ -1449,6 +1449,11 @@ function getFilteredItems() {
   const dateTo = document.getElementById('filter-date-to').value;
   const sortBy = document.getElementById('sort-by').value;
 
+  // "Source primaire" = autorités only (not presse/social)
+  if (state.filFilter === 'primary') {
+    const primaryCats = new Set(['autorite_fr', 'autorite_eu', 'autorite_intl', 'jurisprudence']);
+    items = items.filter(i => primaryCats.has(i.category));
+  }
   if (q) items = items.filter(i => i.title.toLowerCase().includes(q) || (i.summary||'').toLowerCase().includes(q));
   if (cat) items = items.filter(i => i.category === cat);
   if (status) items = items.filter(i => i.status === status);
@@ -1489,7 +1494,7 @@ function renderBrief() {
   const items = state.items.filter(i => i.early_brief).sort((a, b) => b.score - a.score);
   const el = document.getElementById('draft-items');
   const countEl = document.getElementById('draft-count');
-  countEl.textContent = items.length + ' article' + (items.length !== 1 ? 's sélectionné' : ' sélectionné') + 's';
+  countEl.textContent = items.length + ' article' + (items.length > 1 ? 's' : '') + ' sélectionné' + (items.length > 1 ? 's' : '');
   if (!items.length) {
     el.innerHTML = '';
     return;
@@ -1507,7 +1512,7 @@ function renderSidebar() {
   const counts = {
     tous: state.items.length,
     fresh: state.items.filter(i => isFresh(i.published)).length,
-    primary: state.items.filter(i => i.is_primary).length,
+    primary: state.items.filter(i => ['autorite_fr','autorite_eu','autorite_intl','jurisprudence'].includes(i.category)).length,
     status_new: state.items.filter(i => i.status === 'new').length,
     status_important: state.items.filter(i => i.status === 'important').length,
     status_reviewed: state.items.filter(i => i.status === 'reviewed').length,
@@ -1642,7 +1647,8 @@ function updateStats() {
   // Feed counts
   if (el('count-tous')) el('count-tous').textContent = state.items.length;
   if (el('count-fresh')) el('count-fresh').textContent = fresh;
-  if (el('count-primary')) el('count-primary').textContent = state.items.filter(i => i.primary).length;
+  const primaryCats = new Set(['autorite_fr', 'autorite_eu', 'autorite_intl', 'jurisprudence']);
+  if (el('count-primary')) el('count-primary').textContent = state.items.filter(i => primaryCats.has(i.category)).length;
 }
 
 function renderCurrentTab() {
@@ -1770,13 +1776,21 @@ document.querySelectorAll('.sidebar-item[data-filter]').forEach(item => {
     const filterValue = item.dataset.value;
 
     if (filterType === 'fil') {
+      // Reset all filters first
+      document.getElementById('filter-category').value = '';
+      document.getElementById('filter-status').value = '';
+      document.getElementById('filter-date-from').value = '';
+      document.getElementById('filter-date-to').value = '';
+      state.sourceFilter = '';
+      state.filFilter = '';
+      document.getElementById('filter-source').value = '';
       if (filterValue === '') {
-        document.getElementById('filter-category').value = '';
-        document.getElementById('filter-status').value = '';
-        document.getElementById('filter-score').value = '0';
+        // "Tous" — just reset, keep default score
       } else if (filterValue === 'fresh') {
         document.getElementById('filter-date-from').value = new Date(Date.now() - 86400000).toISOString().split('T')[0];
-        document.getElementById('filter-date-to').value = '';
+      } else if (filterValue === 'primary') {
+        // Filter to primary sources only (autorités FR, EU, intl — not presse/social)
+        state.filFilter = 'primary';
       }
     } else if (filterType === 'status') {
       document.getElementById('filter-status').value = filterValue;
