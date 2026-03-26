@@ -782,6 +782,31 @@
       background: var(--color-background-secondary);
       border-radius: 6px;
       padding: 8px 10px;
+      position: relative;
+    }
+
+    .draft-item-remove {
+      position: absolute;
+      top: 6px;
+      right: 6px;
+      width: 18px;
+      height: 18px;
+      border: none;
+      background: none;
+      color: var(--color-text-tertiary);
+      font-size: 14px;
+      cursor: pointer;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      line-height: 1;
+      transition: all 120ms;
+    }
+
+    .draft-item-remove:hover {
+      background: var(--color-background-tertiary);
+      color: var(--terra);
     }
 
     .draft-item-title {
@@ -790,6 +815,7 @@
       color: var(--color-text-primary);
       line-height: 1.4;
       margin-bottom: 3px;
+      padding-right: 20px;
     }
 
     .draft-item-source {
@@ -977,7 +1003,8 @@
       <div class="right-panel-header">Prochaine édition</div>
       <div class="right-panel-subheader" id="draft-count">0 articles sélectionnés</div>
       <div class="draft-items" id="draft-items"></div>
-      <button class="export-btn" onclick="exportBrief()">Exporter</button>
+      <button class="export-btn" onclick="exportBrief()">Exporter Markdown</button>
+      <button class="export-btn rediger-btn" onclick="openRediger()" style="margin-top:6px; background: var(--color-text-primary);">Rédiger les brèves</button>
     </aside>
   </div>
 </div>
@@ -1335,6 +1362,7 @@ function renderBrief() {
   }
   el.innerHTML = items.map(i => `
     <div class="draft-item">
+      <button class="draft-item-remove" onclick="event.stopPropagation(); toggleBrief(${i.id})" title="Retirer">×</button>
       <div class="draft-item-title">${esc(i.title)}</div>
       <div class="draft-item-source">${esc(i.source)}</div>
     </div>
@@ -1607,8 +1635,117 @@ window.toggleAdvancedFilters = function() {
   document.getElementById('toggle-arrow').textContent = filters.classList.contains('open') ? '▴' : '▾';
 };
 
+// Workflow: open rediger view
+window.openRediger = function() {
+  const items = state.items.filter(i => i.early_brief).sort((a, b) => b.score - a.score);
+  if (!items.length) { showToast('Sélectionnez des articles d\'abord'); return; }
+
+  const overlay = document.getElementById('rediger-overlay');
+  const content = document.getElementById('rediger-content');
+
+  const today = new Date().toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' });
+
+  let html = `<div class="rediger-header">
+    <h2>Early Brief — ${today}</h2>
+    <p>${items.length} article${items.length > 1 ? 's' : ''} sélectionné${items.length > 1 ? 's' : ''}</p>
+    <button class="rediger-close" onclick="closeRediger()">✕ Fermer</button>
+  </div>`;
+
+  items.forEach((item, idx) => {
+    html += `
+    <div class="rediger-article">
+      <div class="rediger-article-header">
+        <span class="rediger-num">${idx + 1}</span>
+        <div>
+          <div class="rediger-article-title">${esc(item.title)}</div>
+          <div class="rediger-article-meta">${esc(item.source)} · ${shortDate(item.published)} · Score ${item.score}</div>
+        </div>
+        <button class="draft-item-remove" onclick="toggleBrief(${item.id}); openRediger();" title="Retirer">×</button>
+      </div>
+      <div class="rediger-article-summary">${esc(item.summary || '')}</div>
+      ${item.url ? `<a href="${esc(item.url)}" target="_blank" class="rediger-link">Lire la source ↗</a>` : ''}
+      <div class="rediger-note-section">
+        <label>Angle / notes de rédaction :</label>
+        <textarea class="rediger-note" id="rediger-note-${item.id}" placeholder="Quel angle pour la brève ?">${esc(item.note || '')}</textarea>
+        <button class="rediger-save-note" onclick="saveRedigerNote(${item.id})">Enregistrer</button>
+      </div>
+    </div>`;
+  });
+
+  html += `<div class="rediger-actions">
+    <button class="export-btn" onclick="exportBrief(); closeRediger();">Exporter en Markdown</button>
+  </div>`;
+
+  content.innerHTML = html;
+  overlay.style.display = 'flex';
+};
+
+window.closeRediger = function() {
+  document.getElementById('rediger-overlay').style.display = 'none';
+};
+
+window.saveRedigerNote = function(id) {
+  const item = state.items.find(i => i.id === id);
+  const textarea = document.getElementById('rediger-note-' + id);
+  if (item && textarea) {
+    item.note = textarea.value.trim();
+    saveItemState(item.hash, item.status, item.early_brief, item.note);
+    showToast('Note enregistrée');
+  }
+};
+
 // Init
 fetchData();
 </script>
+
+<!-- Rediger overlay -->
+<div id="rediger-overlay" style="display:none; position:fixed; inset:0; z-index:1000; background:rgba(0,0,0,0.5); justify-content:center; align-items:flex-start; padding:40px 20px; overflow-y:auto;">
+  <div id="rediger-content" style="background:var(--color-background-primary); border-radius:12px; max-width:800px; width:100%; padding:32px; box-shadow:0 20px 60px rgba(0,0,0,0.15);"></div>
+</div>
+
+<style>
+  .rediger-header { margin-bottom: 24px; }
+  .rediger-header h2 { font-size: 22px; font-weight: 700; margin-bottom: 4px; }
+  .rediger-header p { font-size: 13px; color: var(--color-text-tertiary); margin-bottom: 12px; }
+  .rediger-close {
+    background: none; border: 1px solid var(--color-border-secondary);
+    padding: 6px 14px; border-radius: 6px; font-size: 12px;
+    cursor: pointer; color: var(--color-text-secondary);
+  }
+  .rediger-close:hover { background: var(--color-background-secondary); }
+  .rediger-article {
+    border: 0.5px solid var(--color-border-tertiary);
+    border-radius: 8px; padding: 20px; margin-bottom: 16px;
+  }
+  .rediger-article-header {
+    display: flex; align-items: flex-start; gap: 12px; margin-bottom: 12px; position: relative;
+  }
+  .rediger-num {
+    background: var(--terra); color: white; width: 24px; height: 24px;
+    border-radius: 50%; display: flex; align-items: center; justify-content: center;
+    font-size: 12px; font-weight: 600; flex-shrink: 0;
+  }
+  .rediger-article-title { font-size: 15px; font-weight: 600; line-height: 1.4; }
+  .rediger-article-meta { font-size: 11px; color: var(--color-text-tertiary); margin-top: 2px; font-family: var(--mono); }
+  .rediger-article-summary { font-size: 13px; color: var(--color-text-secondary); line-height: 1.6; margin-bottom: 10px; }
+  .rediger-link { font-size: 12px; color: var(--terra); display: inline-block; margin-bottom: 12px; }
+  .rediger-note-section { margin-top: 8px; }
+  .rediger-note-section label { font-size: 11px; font-weight: 600; color: var(--color-text-tertiary); display: block; margin-bottom: 4px; }
+  .rediger-note {
+    width: 100%; min-height: 60px; border: 0.5px solid var(--color-border-secondary);
+    border-radius: 6px; padding: 8px 10px; font-size: 13px; font-family: var(--sans);
+    resize: vertical; line-height: 1.5;
+  }
+  .rediger-note:focus { outline: none; border-color: var(--terra); }
+  .rediger-save-note {
+    margin-top: 6px; background: var(--color-background-secondary); border: none;
+    padding: 4px 12px; border-radius: 4px; font-size: 11px; cursor: pointer;
+    color: var(--color-text-secondary);
+  }
+  .rediger-save-note:hover { background: var(--color-background-tertiary); }
+  .rediger-actions { margin-top: 20px; text-align: center; }
+  .rediger-article-header .draft-item-remove { position: absolute; top: 0; right: 0; }
+</style>
+
 </body>
 </html>
