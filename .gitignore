@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+*.log
+*.pid
+.DS_Store
+veille_aggregator_mvp/
+*.zip
+com.veille.server.plist
+install_veille.command
+start_veille_ui.command
+stop_veille_ui.command
+GMAIL_*.md
+.veille.*
