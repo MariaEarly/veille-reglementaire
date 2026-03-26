@@ -221,6 +221,63 @@
       color: var(--terra);
     }
 
+    .source-groups {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .source-group-label {
+      font-size: 10px;
+      text-transform: uppercase;
+      color: var(--color-text-tertiary);
+      font-weight: 600;
+      letter-spacing: 0.03em;
+      margin-bottom: 2px;
+      padding-left: 2px;
+    }
+
+    .source-group-items {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+    }
+
+    .source-pill {
+      padding: 3px 8px;
+      background: var(--color-background-secondary);
+      color: var(--color-text-secondary);
+      border: none;
+      border-radius: 4px;
+      font-size: 11px;
+      cursor: pointer;
+      transition: all 120ms;
+      font-family: var(--sans);
+      font-weight: 400;
+    }
+
+    .source-pill:hover {
+      background: var(--color-background-tertiary);
+    }
+
+    .source-pill.active {
+      background: var(--terra-bg);
+      color: var(--terra);
+      font-weight: 500;
+    }
+
+    .source-pill .source-count {
+      font-family: var(--mono);
+      font-size: 10px;
+      color: var(--color-text-tertiary);
+      margin-left: 3px;
+    }
+
+    .source-pill.active .source-count {
+      color: var(--terra);
+      opacity: 0.7;
+    }
+
     .date-range-group {
       display: flex;
       gap: 4px;
@@ -727,18 +784,16 @@
         <div class="sidebar-section-divider"></div>
       </div>
 
-      <div class="sidebar-section">
-        <div class="sidebar-section-label">Source</div>
-        <div id="sources-list"></div>
-        <div class="sidebar-section-divider"></div>
-      </div>
-
       <div class="sidebar-toggle" onclick="toggleAdvancedFilters()">
         <span>Filtres avancés</span>
         <span id="toggle-arrow">▾</span>
       </div>
 
       <div class="advanced-filters" id="advanced-filters">
+        <div class="filter-group">
+          <div class="filter-group-label">Source</div>
+          <div id="sources-list" class="source-groups"></div>
+        </div>
         <div class="filter-group">
           <div class="filter-group-label">Score min</div>
           <div class="filter-pills" id="score-pills"></div>
@@ -826,6 +881,9 @@
   <option value="SANCTION">Sanction</option>
   <option value="GUIDELINES">Guidelines</option>
   <option value="RAPPORT">Rapport</option>
+</select>
+<select class="hidden-select" id="filter-source" style="display:none;">
+  <option value="">Toutes sources</option>
 </select>
 <select class="hidden-select" id="filter-action" style="display:none;">
   <option value="">Action + Info</option>
@@ -1062,6 +1120,7 @@ function getFilteredItems() {
   const minScore = parseInt(document.getElementById('filter-score').value) || 0;
   const docType = document.getElementById('filter-doctype').value;
   const actionFilter = document.getElementById('filter-action').value;
+  const sourceFilter = document.getElementById('filter-source').value;
   const dateFrom = document.getElementById('filter-date-from').value;
   const dateTo = document.getElementById('filter-date-to').value;
   const sortBy = document.getElementById('sort-by').value;
@@ -1069,6 +1128,7 @@ function getFilteredItems() {
   if (q) items = items.filter(i => i.title.toLowerCase().includes(q) || (i.summary||'').toLowerCase().includes(q));
   if (cat) items = items.filter(i => i.category === cat);
   if (status) items = items.filter(i => i.status === status);
+  if (sourceFilter) items = items.filter(i => i.source === sourceFilter);
   if (minScore) items = items.filter(i => i.score >= minScore);
   if (dateFrom) items = items.filter(i => i.published && i.published.slice(0,10) >= dateFrom);
   if (dateTo) items = items.filter(i => i.published && i.published.slice(0,10) <= dateTo);
@@ -1142,13 +1202,28 @@ function renderSidebar() {
   const sourcesList = document.getElementById('sources-list');
   const sourceCounts = {};
   state.items.forEach(i => { sourceCounts[i.source] = (sourceCounts[i.source] || 0) + 1; });
-  sourcesList.innerHTML = state.sources.map(s => `
-    <div class="sidebar-item" data-filter="source" data-value="${esc(s.name)}">
-      <div class="sidebar-item-dot" style="background: ${sourceColor(s.name)};"></div>
-      <div class="sidebar-item-label">${esc(s.name)}</div>
-      <div class="sidebar-item-count">${sourceCounts[s.name] || 0}</div>
-    </div>
-  `).join('');
+
+  const catGroups = { 'autorite_fr': 'Autorités FR', 'autorite_eu': 'Autorités EU', 'autorite_intl': 'International', 'presse': 'Presse', 'email': 'Email' };
+  const grouped = {};
+  state.sources.forEach(s => {
+    const cat = s.source_type || 'presse';
+    if (!grouped[cat]) grouped[cat] = [];
+    grouped[cat].push(s);
+  });
+
+  let html = '';
+  for (const [cat, label] of Object.entries(catGroups)) {
+    const sources = grouped[cat];
+    if (!sources || sources.length === 0) continue;
+    html += `<div><div class="source-group-label">${label}</div><div class="source-group-items">`;
+    html += sources.map(s => {
+      const count = sourceCounts[s.name] || 0;
+      const isActive = state.sourceFilter === s.name;
+      return `<button class="source-pill${isActive ? ' active' : ''}" data-filter="source" data-value="${esc(s.name)}">${esc(s.name)}<span class="source-count">${count}</span></button>`;
+    }).join('');
+    html += `</div></div>`;
+  }
+  sourcesList.innerHTML = html;
 }
 
 function updateStats() {
@@ -1252,6 +1327,22 @@ document.querySelectorAll('.sidebar-item[data-filter]').forEach(item => {
 
     renderFeed();
   });
+});
+
+// Source pill click delegation (dynamic elements)
+document.getElementById('sources-list').addEventListener('click', (e) => {
+  const pill = e.target.closest('.source-pill');
+  if (!pill) return;
+  const value = pill.dataset.value;
+  // Toggle: if already active, deselect
+  if (state.sourceFilter === value) {
+    state.sourceFilter = '';
+    document.getElementById('filter-source').value = '';
+  } else {
+    state.sourceFilter = value;
+    document.getElementById('filter-source').value = value;
+  }
+  renderCurrentTab();
 });
 
 // Search and filter listeners
