@@ -63,6 +63,8 @@ SEED_SOURCES = [
     {"name": "ComplyAdvantage", "url": "https://complyadvantage.com/insights/feed/", "type": "press", "category": "presse"},
     # GAFI/FATF — RSS natif bloqué (403 WAF), Google News RSS comme proxy
     {"name": "GAFI/FATF News", "url": "https://news.google.com/rss/search?q=FATF+OR+GAFI+%22anti-money+laundering%22+OR+%22blanchiment%22&hl=en", "type": "rss", "category": "autorite_intl"},
+    # Interpol — site bloque les requêtes automatisées (403 WAF), Google News RSS comme proxy
+    {"name": "Interpol", "url": "https://news.google.com/rss/search?q=site:interpol.int+%22financial+crime%22+OR+%22money+laundering%22+OR+%22fraud%22+OR+%22organized+crime%22+OR+%22scam%22+after:2025-01-01&hl=en&gl=US&ceid=US:en", "type": "rss", "category": "autorite_intl"},
     # Commission EU — Sanctions guidance & alerts (RSS fonctionnel)
     {"name": "Commission EU - Sanctions", "url": "https://finance.ec.europa.eu/node/1296/rss_en", "type": "rss", "category": "autorite_eu"},
     {"name": "Commission EU - Sanctions FAQ", "url": "https://finance.ec.europa.eu/node/1068/rss_en", "type": "rss", "category": "autorite_eu"},

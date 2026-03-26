@@ -98,14 +98,7 @@ CHROME_ONLY_SOURCES = [
         "scraper": "egmont",
         "base_url": "https://egmontgroup.org",
     },
-    {
-        "name": "Interpol",
-        "url": "https://www.interpol.int/en/News-and-Events/News",
-        "type": "scrape",
-        "category": "autorite_intl",
-        "scraper": "interpol",
-        "base_url": "https://www.interpol.int",
-    },
+    # Interpol: moved to Google News RSS proxy in ingest.py (site returns 403)
     {
         "name": "Conseil de l'UE",
         "url": "https://www.consilium.europa.eu/en/press/press-releases/",
