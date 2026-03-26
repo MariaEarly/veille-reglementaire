@@ -228,6 +228,7 @@
       border-radius: 2px;
     }
 
+    .card { cursor: pointer; }
     .card-summary {
       color: var(--muted); font-size: 0.9rem; line-height: 1.6;
       display: -webkit-box; -webkit-line-clamp: 2;
@@ -246,6 +247,64 @@
       color: var(--subtle); font-size: 0.76rem; margin-top: 8px;
       font-family: 'IBM Plex Mono', monospace;
       letter-spacing: 0.01em;
+    }
+
+    /* Detail panel (inline expand) */
+    .card-detail {
+      display: none;
+      margin-top: 16px; padding-top: 16px;
+      border-top: 1px solid var(--border-light);
+    }
+    .card.expanded .card-detail { display: block; }
+    .card.expanded .card-summary {
+      display: block; -webkit-line-clamp: unset;
+      -webkit-box-orient: unset; overflow: visible;
+    }
+    .detail-grid {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 12px 32px;
+      margin-bottom: 16px;
+    }
+    .detail-field label {
+      display: block; font-size: 0.65rem; text-transform: uppercase;
+      letter-spacing: 0.06em; color: var(--subtle);
+      font-family: 'IBM Plex Mono', monospace; font-weight: 600;
+      margin-bottom: 3px;
+    }
+    .detail-field span {
+      font-size: 0.85rem; color: var(--text);
+    }
+    .detail-actions {
+      display: flex; gap: 10px; margin-top: 12px;
+    }
+    .detail-btn {
+      padding: 8px 16px; font-size: 0.78rem;
+      font-family: 'IBM Plex Mono', monospace;
+      border: 1px solid var(--border); background: var(--surface);
+      cursor: pointer; color: var(--text); border-radius: 2px;
+      transition: all 120ms;
+    }
+    .detail-btn:hover { background: var(--card-hover); border-color: #ccc; }
+    .detail-btn-primary {
+      background: var(--green); color: #fff; border-color: var(--green);
+    }
+    .detail-btn-primary:hover { background: #1e3a20; }
+
+    /* Date range filter */
+    .date-filter {
+      display: flex; gap: 6px; align-items: center;
+    }
+    .date-filter input[type="date"] {
+      padding: 9px 10px; border: 1px solid var(--border);
+      font-family: 'IBM Plex Mono', monospace; font-size: 0.75rem;
+      background: var(--surface); color: var(--text); border-radius: 2px;
+      transition: all 150ms;
+    }
+    .date-filter input[type="date"]:focus {
+      outline: none; border-color: var(--green); background: #fefdfb;
+    }
+    .date-filter span {
+      font-size: 0.72rem; color: var(--subtle);
+      font-family: 'IBM Plex Mono', monospace;
     }
     .card-actions {
       display: flex; flex-direction: column; gap: 10px;
@@ -439,6 +498,8 @@
       }
       .cockpit { padding: 20px 24px 0; }
       .cockpit-grid { grid-template-columns: 1fr; }
+      .detail-grid { grid-template-columns: 1fr; }
+      .date-filter { width: 100%; }
     }
   </style>
 </head>
@@ -514,6 +575,12 @@
         <option value="action">Action requise</option>
         <option value="info">Informatif</option>
       </select>
+      <div class="date-filter">
+        <span>Du</span>
+        <input type="date" id="filter-date-from" />
+        <span>au</span>
+        <input type="date" id="filter-date-to" />
+      </div>
       <select class="filter-select" id="sort-by">
         <option value="fresh">Tri : Récents d'abord</option>
         <option value="score">Tri : Score</option>
@@ -649,16 +716,20 @@ function showToast(msg) {
   setTimeout(() => t.classList.remove('show'), 2200);
 }
 
+function fmtDate(iso) {
+  if (!iso) return '—';
+  try { return new Date(iso).toLocaleDateString('fr-FR', {day:'numeric', month:'long', year:'numeric', hour:'2-digit', minute:'2-digit'}); } catch(e) { return iso; }
+}
+
 function renderCard(item, full) {
   const fresh = isFresh(item.published);
   const starCls = item.early_brief ? 'btn-star active' : 'btn-star';
-  const summaryStyle = full ? '' : 'display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;';
   const title = item.url
-    ? `<a href="${esc(item.url)}" target="_blank" rel="noreferrer">${esc(item.title)}</a>`
+    ? `<a href="${esc(item.url)}" target="_blank" rel="noreferrer" onclick="event.stopPropagation()">${esc(item.title)}</a>`
     : esc(item.title);
 
   return `
-    <article class="card${fresh ? ' is-fresh' : ''}" data-id="${item.id}">
+    <article class="card${fresh ? ' is-fresh' : ''}" data-id="${item.id}" onclick="toggleDetail(${item.id}, event)">
       <div class="card-body">
         <div class="card-title">${title}</div>
         <div class="card-meta">
@@ -668,18 +739,33 @@ function renderCard(item, full) {
           <span class="tag tag-${item.action_class}">${item.action_class === 'action' ? 'ACTION' : 'INFO'}</span>
           <span class="tag tag-source" style="background:${sourceColor(item.source)}">${esc(item.source)}</span>
           <span class="tag tag-category">${catLabel(item.category)}</span>
-          <span class="tag tag-status ${item.status}" onclick="cycleStatus(${item.id})">${esc(item.status)}</span>
+          <span class="tag tag-status ${item.status}" onclick="event.stopPropagation(); cycleStatus(${item.id})">${esc(item.status)}</span>
         </div>
-        ${item.summary ? `<div class="card-summary" style="${summaryStyle}">${esc(item.summary)}</div>` : ''}
+        ${item.summary ? `<div class="card-summary">${esc(item.summary)}</div>` : ''}
         ${item.ai_summary ? `<div class="card-ai-summary">${esc(item.ai_summary)}</div>` : ''}
         <div class="card-date">${relDate(item.published)}</div>
+
+        <div class="card-detail">
+          <div class="detail-grid">
+            <div class="detail-field"><label>Date de publication</label><span>${fmtDate(item.published)}</span></div>
+            <div class="detail-field"><label>Source</label><span>${esc(item.source)} (${catLabel(item.category)})</span></div>
+            <div class="detail-field"><label>Score</label><span>${item.score}/100 — ${esc(item.score_breakdown || '')}</span></div>
+            <div class="detail-field"><label>Type / Action</label><span>${item.doc_type || '—'} · ${item.action_class === 'action' ? 'Action requise' : 'Informatif'}</span></div>
+            ${item.author ? `<div class="detail-field"><label>Auteur</label><span>${esc(item.author)}</span></div>` : ''}
+          </div>
+          <div class="detail-actions">
+            ${item.url ? `<a href="${esc(item.url)}" target="_blank" rel="noreferrer" class="detail-btn detail-btn-primary" onclick="event.stopPropagation()">Ouvrir la source</a>` : ''}
+            <button class="detail-btn" onclick="event.stopPropagation(); toggleBrief(${item.id})">${item.early_brief ? 'Retirer d\'Early Brief' : 'Ajouter à Early Brief'}</button>
+            <button class="detail-btn" onclick="event.stopPropagation(); cycleStatus(${item.id})">Changer le statut</button>
+          </div>
+        </div>
       </div>
       <div class="card-actions">
         <div class="score-wrapper">
           <div class="score ${scoreClass(item.score)}">${item.score}</div>
           ${item.score_breakdown ? `<div class="score-tooltip">${esc(item.score_breakdown).replace(/ \| /g, '<br>')}</div>` : ''}
         </div>
-        <button class="${starCls}" onclick="toggleBrief(${item.id})" title="Early Brief">&#9733;</button>
+        <button class="${starCls}" onclick="event.stopPropagation(); toggleBrief(${item.id})" title="Early Brief">&#9733;</button>
       </div>
     </article>
   `;
@@ -693,12 +779,16 @@ function getFilteredItems() {
   const minScore = parseInt(document.getElementById('filter-score').value) || 0;
   const docType = document.getElementById('filter-doctype').value;
   const actionFilter = document.getElementById('filter-action').value;
+  const dateFrom = document.getElementById('filter-date-from').value;
+  const dateTo = document.getElementById('filter-date-to').value;
   const sortBy = document.getElementById('sort-by').value;
 
   if (q) items = items.filter(i => i.title.toLowerCase().includes(q) || (i.summary||'').toLowerCase().includes(q));
   if (cat) items = items.filter(i => i.category === cat);
   if (status) items = items.filter(i => i.status === status);
   if (minScore) items = items.filter(i => i.score >= minScore);
+  if (dateFrom) items = items.filter(i => i.published && i.published.slice(0,10) >= dateFrom);
+  if (dateTo) items = items.filter(i => i.published && i.published.slice(0,10) <= dateTo);
   if (docType) items = items.filter(i => i.doc_type === docType);
   if (actionFilter) items = items.filter(i => i.action_class === actionFilter);
 
@@ -818,11 +908,19 @@ document.querySelectorAll('.nav-tab').forEach(tab => {
 
 // Filters
 let debounce;
-['search','filter-category','filter-status','filter-score','filter-doctype','filter-action','sort-by'].forEach(id => {
+['search','filter-category','filter-status','filter-score','filter-doctype','filter-action','filter-date-from','filter-date-to','sort-by'].forEach(id => {
   const el = document.getElementById(id);
   el.addEventListener('input', () => { clearTimeout(debounce); debounce = setTimeout(renderFeed, 150); });
   el.addEventListener('change', () => { clearTimeout(debounce); debounce = setTimeout(renderFeed, 150); });
 });
+
+// Detail panel toggle
+window.toggleDetail = function(id, event) {
+  // Don't toggle if clicking a link, button, or tag
+  if (event && (event.target.tagName === 'A' || event.target.tagName === 'BUTTON' || event.target.closest('.tag-status') || event.target.closest('.btn-star') || event.target.closest('.detail-btn'))) return;
+  const card = document.querySelector(`.card[data-id="${id}"]`);
+  if (card) card.classList.toggle('expanded');
+};
 
 // Cockpit rendering
 function renderCockpit() {
