@@ -911,6 +911,173 @@
       .right-panel { width: 100%; border-left: none; border-top: 0.5px solid var(--color-border-tertiary); max-height: 120px; }
       .center-column { flex: 1; }
     }
+
+    /* Todo — minimal design */
+    .todo-wrapper {
+      flex: 1;
+      overflow-y: auto;
+      padding: 20px 24px;
+      max-width: 640px;
+    }
+    .todo-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+    .todo-progress {
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--color-text-tertiary);
+      letter-spacing: 0.03em;
+      flex-shrink: 0;
+    }
+    .todo-progress-bar {
+      flex: 1;
+      height: 2px;
+      background: var(--color-border-tertiary);
+      border-radius: 1px;
+      overflow: hidden;
+    }
+    .todo-progress-fill {
+      height: 100%;
+      background: var(--color-text-tertiary);
+      width: 0%;
+      transition: width 0.3s;
+    }
+    .todo-add {
+      display: flex;
+      gap: 6px;
+      margin-bottom: 14px;
+    }
+    .todo-add-input {
+      flex: 1;
+      padding: 8px 10px;
+      border: none;
+      border-bottom: 1px solid var(--color-border-tertiary);
+      font-family: var(--sans);
+      font-size: 13px;
+      background: transparent;
+      color: var(--color-text-primary);
+      outline: none;
+      transition: border-color 0.15s;
+    }
+    .todo-add-input::placeholder { color: var(--color-text-tertiary); }
+    .todo-add-input:focus { border-bottom-color: var(--color-text-secondary); }
+    .todo-add-select {
+      padding: 6px 8px;
+      border: none;
+      border-bottom: 1px solid var(--color-border-tertiary);
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--color-text-tertiary);
+      background: transparent;
+      cursor: pointer;
+      outline: none;
+    }
+    .todo-add-select:focus { border-bottom-color: var(--color-text-secondary); }
+    .todo-filters {
+      display: flex;
+      gap: 4px;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+    }
+    .todo-filter-chip {
+      padding: 3px 10px;
+      border-radius: 3px;
+      font-family: var(--mono);
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      cursor: pointer;
+      color: var(--color-text-tertiary);
+      background: transparent;
+      border: none;
+      transition: color 0.15s, background 0.15s;
+    }
+    .todo-filter-chip:hover { color: var(--color-text-secondary); }
+    .todo-filter-chip.active {
+      color: var(--color-text-primary);
+      background: var(--color-background-tertiary);
+    }
+    .todo-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 8px 0;
+      border-bottom: 0.5px solid var(--color-border-tertiary);
+    }
+    .todo-item:last-child { border-bottom: none; }
+    .todo-item.done { opacity: 0.4; }
+    .todo-check {
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      border: 1.5px solid var(--color-border-secondary);
+      cursor: pointer;
+      flex-shrink: 0;
+      margin-top: 1px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: border-color 0.15s, background 0.15s;
+    }
+    .todo-check:hover { border-color: var(--color-text-tertiary); }
+    .todo-check.checked {
+      border-color: var(--color-text-tertiary);
+      background: var(--color-text-tertiary);
+    }
+    .todo-check.checked::after {
+      content: '';
+      width: 6px;
+      height: 6px;
+      background: var(--color-background-primary);
+      border-radius: 50%;
+    }
+    .todo-text {
+      flex: 1;
+      font-size: 13px;
+      line-height: 1.5;
+      color: var(--color-text-primary);
+      min-width: 0;
+    }
+    .todo-item.done .todo-text {
+      text-decoration: line-through;
+      color: var(--color-text-tertiary);
+    }
+    .todo-meta {
+      display: flex;
+      gap: 6px;
+      margin-top: 2px;
+    }
+    .todo-meta-tag {
+      font-family: var(--mono);
+      font-size: 10px;
+      color: var(--color-text-tertiary);
+      letter-spacing: 0.03em;
+    }
+    .todo-delete {
+      opacity: 0;
+      background: none;
+      border: none;
+      color: var(--color-text-tertiary);
+      cursor: pointer;
+      font-size: 12px;
+      padding: 2px;
+      transition: opacity 0.15s;
+      flex-shrink: 0;
+      margin-top: 1px;
+    }
+    .todo-item:hover .todo-delete { opacity: 1; }
+    .todo-empty {
+      display: none;
+      padding: 48px 0;
+      text-align: center;
+    }
+    .todo-empty-text {
+      font-size: 13px;
+      color: var(--color-text-tertiary);
+    }
   </style>
 </head>
 <body>
@@ -1080,42 +1247,29 @@
       </div>
 
       <div class="tab-panel" id="panel-todo">
-        <div class="todo-container" style="padding: 16px; flex: 1; overflow-y: auto;">
-          <!-- Todo header -->
-          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; padding-bottom: 12px; border-bottom: 1px solid var(--color-border-primary, #E5E5E3);">
-            <div>
-              <span style="font-size: 14px; color: var(--color-text-secondary);" id="todo-progress-text">0/0 tâches complètes</span>
-              <div style="width: 120px; height: 4px; background: var(--color-border-primary, #E5E5E3); border-radius: 2px; margin-top: 4px; overflow: hidden;">
-                <div id="todo-progress-fill" style="height: 100%; background: var(--terra); width: 0%; transition: width 0.3s;"></div>
-              </div>
-            </div>
+        <div class="todo-wrapper">
+          <div class="todo-header">
+            <span class="todo-progress" id="todo-progress-text">0/0</span>
+            <div class="todo-progress-bar"><div class="todo-progress-fill" id="todo-progress-fill"></div></div>
           </div>
-
-          <!-- Quick add -->
-          <div style="display: grid; grid-template-columns: 1fr auto auto auto; gap: 8px; margin-bottom: 20px;">
-            <input type="text" id="todo-input" placeholder="Ajouter une tâche..." style="padding: 10px 12px; border: 1px solid var(--color-border-primary); border-radius: 6px; font-family: inherit; font-size: 14px; background: var(--color-bg-primary, #FAFAF8);" />
-            <select id="todo-category-select" style="padding: 8px; border: 1px solid var(--color-border-primary); border-radius: 6px; font-size: 13px;">
+          <div class="todo-add">
+            <input type="text" id="todo-input" class="todo-add-input" placeholder="Nouvelle tâche..." />
+            <select id="todo-category-select" class="todo-add-select">
               <option value="Veille">Veille</option>
               <option value="Rédaction">Rédaction</option>
               <option value="Admin">Admin</option>
               <option value="Recherche">Recherche</option>
             </select>
-            <select id="todo-priority-select" style="padding: 8px; border: 1px solid var(--color-border-primary); border-radius: 6px; font-size: 13px;">
-              <option value="moyenne">Moyenne</option>
-              <option value="haute">Haute</option>
-              <option value="basse">Basse</option>
+            <select id="todo-priority-select" class="todo-add-select">
+              <option value="moyenne">P2</option>
+              <option value="haute">P1</option>
+              <option value="basse">P3</option>
             </select>
-            <button onclick="todoAddTask()" style="padding: 10px 16px; background: var(--terra); color: white; border: none; border-radius: 6px; font-size: 14px; font-weight: 500; cursor: pointer;">Ajouter</button>
           </div>
-
-          <!-- Filters -->
-          <div id="todo-filters" style="display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px;"></div>
-
-          <!-- Task list -->
+          <div class="todo-filters" id="todo-filters"></div>
           <div id="todo-list"></div>
-          <div id="todo-empty" style="display: none; text-align: center; padding: 40px; color: var(--color-text-tertiary);">
-            <div style="font-size: 36px; margin-bottom: 12px;">✓</div>
-            <div style="font-size: 14px;">Aucune tâche à afficher</div>
+          <div id="todo-empty" class="todo-empty">
+            <div class="todo-empty-text">Aucune tâche</div>
           </div>
         </div>
       </div>
@@ -1976,20 +2130,16 @@ function renderTodoFilters() {
   const container = document.getElementById('todo-filters');
   if (!container) return;
   const cats = ['Veille', 'Rédaction', 'Admin', 'Recherche'];
-  const prios = ['haute', 'moyenne', 'basse'];
+  const prios = [['haute','P1'], ['moyenne','P2'], ['basse','P3']];
   let html = '';
   cats.forEach(c => {
-    const active = todoFilterCat === c ? 'background:var(--terra);color:white;' : 'background:var(--color-background-secondary);color:var(--color-text-secondary);';
-    html += `<span onclick="setTodoFilter('cat','${c}')" style="padding:4px 10px;border-radius:12px;font-size:12px;cursor:pointer;${active}">${c}</span>`;
+    html += `<button class="todo-filter-chip${todoFilterCat === c ? ' active' : ''}" onclick="setTodoFilter('cat','${c}')">${c}</button>`;
   });
-  html += `<span style="width:1px;background:var(--color-border-tertiary);margin:0 4px;"></span>`;
-  prios.forEach(p => {
-    const label = p === 'haute' ? '🔴 Haute' : p === 'moyenne' ? '🟡 Moyenne' : '🟢 Basse';
-    const active = todoFilterPriority === p ? 'background:var(--terra);color:white;' : 'background:var(--color-background-secondary);color:var(--color-text-secondary);';
-    html += `<span onclick="setTodoFilter('prio','${p}')" style="padding:4px 10px;border-radius:12px;font-size:12px;cursor:pointer;${active}">${label}</span>`;
+  prios.forEach(([val, label]) => {
+    html += `<button class="todo-filter-chip${todoFilterPriority === val ? ' active' : ''}" onclick="setTodoFilter('prio','${val}')">${label}</button>`;
   });
   if (todoFilterCat || todoFilterPriority) {
-    html += `<span onclick="setTodoFilter('clear','')" style="padding:4px 10px;border-radius:12px;font-size:12px;cursor:pointer;background:none;color:var(--color-text-tertiary);text-decoration:underline;">Effacer filtres</span>`;
+    html += `<button class="todo-filter-chip" onclick="setTodoFilter('clear','')">×</button>`;
   }
   container.innerHTML = html;
 }
@@ -2010,14 +2160,13 @@ function renderTodos() {
 
   const total = todos.length;
   const doneCount = todos.filter(t => t.done).length;
-  if (progressText) progressText.textContent = `${doneCount}/${total} tâches complètes`;
+  if (progressText) progressText.textContent = `${doneCount}/${total}`;
   if (progressFill) progressFill.style.width = total ? (doneCount / total * 100) + '%' : '0%';
 
   let filtered = todos;
   if (todoFilterCat) filtered = filtered.filter(t => t.category === todoFilterCat);
   if (todoFilterPriority) filtered = filtered.filter(t => t.priority === todoFilterPriority);
 
-  // Sort: undone first, then by priority (haute > moyenne > basse), then by creation
   const prioOrder = { haute: 0, moyenne: 1, basse: 2 };
   filtered.sort((a, b) => {
     if (a.done !== b.done) return a.done ? 1 : -1;
@@ -2034,20 +2183,19 @@ function renderTodos() {
   }
   if (empty) empty.style.display = 'none';
 
-  const prioColors = { haute: '#E03E3E', moyenne: '#D9A200', basse: '#0F7B6C' };
-  const prioDots = { haute: '🔴', moyenne: '🟡', basse: '🟢' };
+  const prioLabel = { haute: 'P1', moyenne: 'P2', basse: 'P3' };
 
   list.innerHTML = filtered.map(t => `
-    <div style="display:flex;align-items:flex-start;gap:10px;padding:10px 12px;border:0.5px solid var(--color-border-tertiary);border-radius:6px;margin-bottom:6px;${t.done ? 'opacity:0.5;' : ''}">
-      <input type="checkbox" ${t.done ? 'checked' : ''} onchange="todoToggle(${t.id})" style="margin-top:3px;accent-color:var(--terra);cursor:pointer;" />
+    <div class="todo-item${t.done ? ' done' : ''}">
+      <div class="todo-check${t.done ? ' checked' : ''}" onclick="todoToggle(${t.id})"></div>
       <div style="flex:1;min-width:0;">
-        <div style="font-size:14px;${t.done ? 'text-decoration:line-through;color:var(--color-text-tertiary);' : ''}">${t.text.replace(/</g,'&lt;')}</div>
-        <div style="display:flex;gap:6px;margin-top:4px;">
-          <span style="font-size:11px;padding:1px 6px;border-radius:4px;background:var(--color-background-secondary);color:var(--color-text-tertiary);">${t.category}</span>
-          <span style="font-size:11px;">${prioDots[t.priority] || ''}</span>
+        <div class="todo-text">${t.text.replace(/</g,'&lt;')}</div>
+        <div class="todo-meta">
+          <span class="todo-meta-tag">${t.category}</span>
+          <span class="todo-meta-tag">${prioLabel[t.priority] || ''}</span>
         </div>
       </div>
-      <button onclick="todoDelete(${t.id})" style="background:none;border:none;color:var(--color-text-tertiary);cursor:pointer;font-size:14px;padding:2px 6px;" title="Supprimer">✕</button>
+      <button class="todo-delete" onclick="todoDelete(${t.id})">✕</button>
     </div>
   `).join('');
 }
