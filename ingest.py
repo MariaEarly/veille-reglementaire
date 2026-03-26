@@ -596,6 +596,22 @@ def ingest_all(data):
                 new_count += 1
         print(f"    -> {len(items)} parsed, {new_count} new")
 
+    # Also scrape non-RSS sources
+    try:
+        from scraper import scrape_all
+        print("\n  --- HTML Scraping ---")
+        scraped = scrape_all()
+        for item in scraped:
+            if item["hash"] not in existing_hashes:
+                data["items"].append(item)
+                existing_hashes.add(item["hash"])
+                new_count += 1
+        print(f"    -> {len(scraped)} scraped, {new_count} total new")
+    except ImportError:
+        print("  scraper.py not found, skipping HTML scraping")
+    except Exception as e:
+        print(f"  Scraper error: {e}")
+
     return new_count
 
 

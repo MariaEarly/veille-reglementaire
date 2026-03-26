@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 """
 Veille Réglementaire — HTML Scraper for non-RSS sources.
-Implements scrapers for regulatory authorities without RSS feeds.
+Uses regex-based extraction on static HTML pages.
 Returns items in same format as fetch_rss() from ingest.py.
 """
 
 import urllib.request
 import urllib.error
-from html.parser import HTMLParser
+import urllib.parse
 from datetime import datetime, timezone
 import re
-import hashlib
+import json
 from pathlib import Path
 
 # Import scoring and classification functions from ingest.py
@@ -24,6 +24,7 @@ from ingest import (
     is_off_topic_for_compliance,
     matches_compliance_keywords,
     EXCLUDE_KEYWORDS,
+    CORE_COMPLIANCE_SOURCES,
 )
 
 # Configuration
@@ -31,620 +32,301 @@ USER_AGENT = "EarlyBrief-Veille/1.0 (+https://early-brief.com)"
 REQUEST_TIMEOUT = 15
 
 # ─────────────────────────────────────────────────────────────────────────────
-# HTML PARSERS
+# SCRAPE SOURCES
 # ─────────────────────────────────────────────────────────────────────────────
-
-class ACPRParser(HTMLParser):
-    """Parser for ACPR publications list (Autorité de contrôle prudentiel et de résolution)."""
-
-    def __init__(self):
-        super().__init__()
-        self.items = []
-        self.current_item = None
-        self.in_publication = False
-        self.in_title = False
-        self.in_link = False
-        self.in_date = False
-        self.in_summary = False
-        self.buffer = ""
-
-    def handle_starttag(self, tag, attrs):
-        attrs_dict = dict(attrs)
-
-        # Detect publication entries (typically in article or div with specific classes)
-        if tag == "article" or (tag == "div" and "class" in attrs_dict and "publication" in attrs_dict["class"]):
-            self.in_publication = True
-            self.current_item = {"title": "", "url": "", "date": "", "summary": ""}
-
-        # Links within publication entries
-        if self.in_publication and tag == "a":
-            href = attrs_dict.get("href", "")
-            if href:
-                # Make absolute URL if relative
-                if href.startswith("/"):
-                    href = "https://acpr.banque-france.fr" + href
-                elif not href.startswith("http"):
-                    href = "https://acpr.banque-france.fr/" + href
-                self.current_item["url"] = href
-                self.in_link = True
-
-        # Check for date in common date patterns
-        if self.in_publication and tag == "time":
-            self.in_date = True
-        elif self.in_publication and tag == "span" and "class" in attrs_dict and "date" in attrs_dict["class"].lower():
-            self.in_date = True
-
-    def handle_endtag(self, tag):
-        if tag == "article" or (tag == "div" and self.in_publication):
-            if self.current_item and self.current_item.get("title"):
-                self.items.append(self.current_item)
-            self.in_publication = False
-            self.current_item = None
-        elif tag == "a" and self.in_link:
-            self.in_link = False
-        elif tag == "time" and self.in_date:
-            self.in_date = False
-
-    def handle_data(self, data):
-        if self.in_publication and self.current_item:
-            text = data.strip()
-            if self.in_link and not self.current_item["title"]:
-                self.current_item["title"] = text
-            elif self.in_date and not self.current_item["date"]:
-                self.current_item["date"] = text
-
-
-class FinCENParser(HTMLParser):
-    """Parser for FinCEN news/announcements."""
-
-    def __init__(self):
-        super().__init__()
-        self.items = []
-        self.current_item = None
-        self.in_article = False
-        self.in_title = False
-        self.in_date = False
-
-    def handle_starttag(self, tag, attrs):
-        attrs_dict = dict(attrs)
-
-        # FinCEN news items typically in article or div with news class
-        if tag == "article" or (tag == "div" and "class" in attrs_dict and any(
-            c in attrs_dict["class"].lower() for c in ["news", "item", "post"]
-        )):
-            self.in_article = True
-            self.current_item = {"title": "", "url": "", "date": ""}
-
-        # Link to the news item
-        if self.in_article and tag == "a":
-            href = attrs_dict.get("href", "")
-            if href and not self.current_item["url"]:
-                if href.startswith("/"):
-                    href = "https://www.fincen.gov" + href
-                elif not href.startswith("http"):
-                    href = "https://www.fincen.gov/" + href
-                self.current_item["url"] = href
-                self.in_title = True
-
-        # Date element
-        if self.in_article and tag == "time":
-            self.in_date = True
-        elif self.in_article and tag == "span" and "class" in attrs_dict and "date" in attrs_dict["class"].lower():
-            self.in_date = True
-
-    def handle_endtag(self, tag):
-        if tag == "article" and self.in_article:
-            if self.current_item and self.current_item.get("title"):
-                self.items.append(self.current_item)
-            self.in_article = False
-            self.current_item = None
-        elif tag == "a" and self.in_title:
-            self.in_title = False
-        elif tag == "time" and self.in_date:
-            self.in_date = False
-
-    def handle_data(self, data):
-        if self.in_article and self.current_item:
-            text = data.strip()
-            if self.in_title and not self.current_item["title"]:
-                self.current_item["title"] = text
-            elif self.in_date and not self.current_item["date"]:
-                self.current_item["date"] = text
-
-
-class DOJParser(HTMLParser):
-    """Parser for US DOJ criminal fraud press releases."""
-
-    def __init__(self):
-        super().__init__()
-        self.items = []
-        self.current_item = None
-        self.in_article = False
-        self.in_title = False
-        self.in_date = False
-        self.buffer = ""
-
-    def handle_starttag(self, tag, attrs):
-        attrs_dict = dict(attrs)
-
-        # DOJ press releases in article elements or divs with specific classes
-        if tag == "article" or (tag == "div" and "class" in attrs_dict and any(
-            c in attrs_dict["class"].lower() for c in ["release", "news", "press"]
-        )):
-            self.in_article = True
-            self.current_item = {"title": "", "url": "", "date": ""}
-
-        # Link to press release
-        if self.in_article and tag == "a":
-            href = attrs_dict.get("href", "")
-            if href and not self.current_item["url"]:
-                if href.startswith("/"):
-                    href = "https://www.justice.gov" + href
-                elif not href.startswith("http"):
-                    href = "https://www.justice.gov/" + href
-                self.current_item["url"] = href
-                self.in_title = True
-
-        # Date
-        if self.in_article and tag == "time":
-            self.in_date = True
-        elif self.in_article and tag == "span" and "class" in attrs_dict and "date" in attrs_dict["class"].lower():
-            self.in_date = True
-
-    def handle_endtag(self, tag):
-        if tag == "article" and self.in_article:
-            if self.current_item and self.current_item.get("title"):
-                self.items.append(self.current_item)
-            self.in_article = False
-            self.current_item = None
-        elif tag == "a" and self.in_title:
-            self.in_title = False
-        elif tag == "time" and self.in_date:
-            self.in_date = False
-
-    def handle_data(self, data):
-        if self.in_article and self.current_item:
-            text = data.strip()
-            if self.in_title and not self.current_item["title"]:
-                self.current_item["title"] = text
-            elif self.in_date and not self.current_item["date"]:
-                self.current_item["date"] = text
-
-
-class ConseilEUParser(HTMLParser):
-    """Parser for European Council sanctions/press releases."""
-
-    def __init__(self):
-        super().__init__()
-        self.items = []
-        self.current_item = None
-        self.in_article = False
-        self.in_title = False
-        self.in_date = False
-
-    def handle_starttag(self, tag, attrs):
-        attrs_dict = dict(attrs)
-
-        # Press releases in article or div with specific classes
-        if tag == "article" or (tag == "div" and "class" in attrs_dict and any(
-            c in attrs_dict["class"].lower() for c in ["release", "item", "news", "press"]
-        )):
-            self.in_article = True
-            self.current_item = {"title": "", "url": "", "date": ""}
-
-        # Link
-        if self.in_article and tag == "a":
-            href = attrs_dict.get("href", "")
-            if href and not self.current_item["url"]:
-                if href.startswith("/"):
-                    href = "https://www.consilium.europa.eu" + href
-                elif not href.startswith("http"):
-                    href = "https://www.consilium.europa.eu/" + href
-                self.current_item["url"] = href
-                self.in_title = True
-
-        # Date
-        if self.in_article and tag == "time":
-            self.in_date = True
-        elif self.in_article and tag == "span" and "class" in attrs_dict and "date" in attrs_dict["class"].lower():
-            self.in_date = True
-
-    def handle_endtag(self, tag):
-        if tag == "article" and self.in_article:
-            if self.current_item and self.current_item.get("title"):
-                self.items.append(self.current_item)
-            self.in_article = False
-            self.current_item = None
-        elif tag == "a" and self.in_title:
-            self.in_title = False
-        elif tag == "time" and self.in_date:
-            self.in_date = False
-
-    def handle_data(self, data):
-        if self.in_article and self.current_item:
-            text = data.strip()
-            if self.in_title and not self.current_item["title"]:
-                self.current_item["title"] = text
-            elif self.in_date and not self.current_item["date"]:
-                self.current_item["date"] = text
-
-
-# ─────────────────────────────────────────────────────────────────────────────
-# SCRAPING FUNCTIONS
-# ─────────────────────────────────────────────────────────────────────────────
-
-def fetch_html(url):
-    """Fetch HTML content with proper headers and timeout."""
-    try:
-        req = urllib.request.Request(
-            url,
-            headers={"User-Agent": USER_AGENT}
-        )
-        response = urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT)
-        return response.read().decode("utf-8", errors="ignore")
-    except urllib.error.URLError as e:
-        print(f"    URLError fetching {url}: {e}")
-        return None
-    except urllib.error.HTTPError as e:
-        print(f"    HTTP {e.code} fetching {url}")
-        return None
-    except Exception as e:
-        print(f"    Error fetching {url}: {e}")
-        return None
-
-
-def parse_date(date_str):
-    """Parse common date formats to ISO format."""
-    if not date_str:
-        return datetime.now(timezone.utc).isoformat()
-
-    date_str = date_str.strip()
-
-    # Try common formats
-    formats = [
-        "%Y-%m-%d",
-        "%d/%m/%Y",
-        "%m/%d/%Y",
-        "%d %B %Y",
-        "%d %b %Y",
-        "%B %d, %Y",
-        "%b %d, %Y",
-        "%Y-%m-%dT%H:%M:%S",
-        "%Y-%m-%d %H:%M:%S",
-    ]
-
-    for fmt in formats:
-        try:
-            dt = datetime.strptime(date_str, fmt)
-            return dt.replace(tzinfo=timezone.utc).isoformat()
-        except ValueError:
-            continue
-
-    # Fallback to current time
-    return datetime.now(timezone.utc).isoformat()
-
-
-def scrape_acpr():
-    """Scrape ACPR (Autorité de contrôle prudentiel et de résolution) publications."""
-    url = "https://acpr.banque-france.fr/publications"
-    html = fetch_html(url)
-    if not html:
-        return []
-
-    parser = ACPRParser()
-    try:
-        parser.feed(html)
-    except Exception as e:
-        print(f"    Parse error ACPR: {e}")
-        return []
-
-    items = []
-    for entry in parser.items[:50]:
-        title = entry.get("title", "").strip()
-        link = entry.get("url", "").strip()
-        date_str = entry.get("date", "")
-        summary = entry.get("summary", "").strip()
-
-        if not title or not link:
-            continue
-
-        # Filter out noise
-        combined = f"{title} {summary}".lower()
-        if any(ex in combined for ex in EXCLUDE_KEYWORDS):
-            continue
-        if is_off_topic_for_compliance(title, summary, "ACPR"):
-            continue
-        if not matches_compliance_keywords(title, summary):
-            continue
-
-        published = parse_date(date_str)
-        score = score_item(title, summary, "autorite_fr")
-        doc_type = detect_doc_type(title)
-        action_class = classify_action(doc_type, title, score)
-
-        items.append({
-            "hash": item_hash(title, link),
-            "source_name": "ACPR",
-            "source_type": "scrape",
-            "category": "autorite_fr",
-            "title": title,
-            "url": link,
-            "author": "ACPR",
-            "published": published,
-            "summary": summary,
-            "score": score,
-            "doc_type": doc_type,
-            "action_class": action_class,
-            "status": "new",
-            "early_brief": False,
-            "ai_summary": None,
-        })
-
-    return items
-
-
-def scrape_fincen():
-    """Scrape FinCEN (Financial Crimes Enforcement Network) news."""
-    url = "https://www.fincen.gov/news-room"
-    html = fetch_html(url)
-    if not html:
-        return []
-
-    parser = FinCENParser()
-    try:
-        parser.feed(html)
-    except Exception as e:
-        print(f"    Parse error FinCEN: {e}")
-        return []
-
-    items = []
-    for entry in parser.items[:50]:
-        title = entry.get("title", "").strip()
-        link = entry.get("url", "").strip()
-        date_str = entry.get("date", "")
-        summary = ""
-
-        if not title or not link:
-            continue
-
-        # Filter
-        combined = f"{title} {summary}".lower()
-        if any(ex in combined for ex in EXCLUDE_KEYWORDS):
-            continue
-        if is_off_topic_for_compliance(title, summary, "FinCEN"):
-            continue
-        if not matches_compliance_keywords(title, summary):
-            continue
-
-        published = parse_date(date_str)
-        score = score_item(title, summary, "autorite_intl")
-        doc_type = detect_doc_type(title)
-        action_class = classify_action(doc_type, title, score)
-
-        items.append({
-            "hash": item_hash(title, link),
-            "source_name": "FinCEN (US Financial Crimes Enforcement Network)",
-            "source_type": "scrape",
-            "category": "autorite_intl",
-            "title": title,
-            "url": link,
-            "author": "FinCEN",
-            "published": published,
-            "summary": summary,
-            "score": score,
-            "doc_type": doc_type,
-            "action_class": action_class,
-            "status": "new",
-            "early_brief": False,
-            "ai_summary": None,
-        })
-
-    return items
-
-
-def scrape_doj():
-    """Scrape DOJ (Department of Justice) criminal fraud press releases."""
-    url = "https://www.justice.gov/criminal/criminal-fraud"
-    html = fetch_html(url)
-    if not html:
-        return []
-
-    parser = DOJParser()
-    try:
-        parser.feed(html)
-    except Exception as e:
-        print(f"    Parse error DOJ: {e}")
-        return []
-
-    items = []
-    for entry in parser.items[:50]:
-        title = entry.get("title", "").strip()
-        link = entry.get("url", "").strip()
-        date_str = entry.get("date", "")
-        summary = ""
-
-        if not title or not link:
-            continue
-
-        # Filter
-        combined = f"{title} {summary}".lower()
-        if any(ex in combined for ex in EXCLUDE_KEYWORDS):
-            continue
-        if is_off_topic_for_compliance(title, summary, "DOJ"):
-            continue
-        if not matches_compliance_keywords(title, summary):
-            continue
-
-        published = parse_date(date_str)
-        score = score_item(title, summary, "autorite_intl")
-        doc_type = detect_doc_type(title)
-        action_class = classify_action(doc_type, title, score)
-
-        items.append({
-            "hash": item_hash(title, link),
-            "source_name": "DOJ (US Department of Justice - Financial Fraud)",
-            "source_type": "scrape",
-            "category": "autorite_intl",
-            "title": title,
-            "url": link,
-            "author": "DOJ",
-            "published": published,
-            "summary": summary,
-            "score": score,
-            "doc_type": doc_type,
-            "action_class": action_class,
-            "status": "new",
-            "early_brief": False,
-            "ai_summary": None,
-        })
-
-    return items
-
-
-def scrape_conseil_eu():
-    """Scrape European Council press releases (with note about JS rendering)."""
-    url = "https://www.consilium.europa.eu/en/press/press-releases/?filters=2030"
-    html = fetch_html(url)
-    if not html:
-        print("    Note: Conseil de l'UE may use JS rendering. Headless browser recommended.")
-        return []
-
-    # Check if page contains actual content or is JS-rendered skeleton
-    if "press-releases" not in html.lower() and "article" not in html.lower():
-        print("    Note: Conseil de l'UE page appears JS-rendered. Implement headless browser if needed.")
-        return []
-
-    parser = ConseilEUParser()
-    try:
-        parser.feed(html)
-    except Exception as e:
-        print(f"    Parse error Conseil EU: {e}")
-        return []
-
-    items = []
-    for entry in parser.items[:50]:
-        title = entry.get("title", "").strip()
-        link = entry.get("url", "").strip()
-        date_str = entry.get("date", "")
-        summary = ""
-
-        if not title or not link:
-            continue
-
-        # Filter
-        combined = f"{title} {summary}".lower()
-        if any(ex in combined for ex in EXCLUDE_KEYWORDS):
-            continue
-        if is_off_topic_for_compliance(title, summary, "Conseil de l'UE"):
-            continue
-        if not matches_compliance_keywords(title, summary):
-            continue
-
-        published = parse_date(date_str)
-        score = score_item(title, summary, "autorite_eu")
-        doc_type = detect_doc_type(title)
-        action_class = classify_action(doc_type, title, score)
-
-        items.append({
-            "hash": item_hash(title, link),
-            "source_name": "Conseil de l'UE (Sanctions/Press Releases)",
-            "source_type": "scrape",
-            "category": "autorite_eu",
-            "title": title,
-            "url": link,
-            "author": "Conseil de l'UE",
-            "published": published,
-            "summary": summary,
-            "score": score,
-            "doc_type": doc_type,
-            "action_class": action_class,
-            "status": "new",
-            "early_brief": False,
-            "ai_summary": None,
-        })
-
-    return items
-
-
-# ─────────────────────────────────────────────────────────────────────────────
-# SCRAPE SOURCE DISPATCHER
-# ─────────────────────────────────────────────────────────────────────────────
-
+# Sources that work with static HTML scraping (GitHub Actions compatible)
 SCRAPE_SOURCES = [
     {
-        "name": "ACPR",
-        "url": "https://acpr.banque-france.fr/publications",
-        "type": "scrape",
-        "category": "autorite_fr",
-        "scraper": "acpr",
-    },
-    {
-        "name": "FinCEN (US Financial Crimes Enforcement Network)",
+        "name": "FinCEN",
         "url": "https://www.fincen.gov/news-room",
         "type": "scrape",
         "category": "autorite_intl",
         "scraper": "fincen",
+        "base_url": "https://www.fincen.gov",
+    },
+]
+
+# Sources that require JavaScript rendering (Cowork Chrome / Playwright only)
+# These are scraped via the Cowork scheduled task, not GitHub Actions
+CHROME_ONLY_SOURCES = [
+    {
+        "name": "ACPR - Communiqués",
+        "url": "https://acpr.banque-france.fr/fr/communiques-de-presse",
+        "type": "scrape",
+        "category": "autorite_fr",
+        "scraper": "acpr",
+        "base_url": "https://acpr.banque-france.fr",
     },
     {
-        "name": "DOJ (US Department of Justice - Financial Fraud)",
-        "url": "https://www.justice.gov/criminal/criminal-fraud",
+        "name": "ACPR - Publications",
+        "url": "https://acpr.banque-france.fr/fr/publications-acpr",
+        "type": "scrape",
+        "category": "autorite_fr",
+        "scraper": "acpr",
+        "base_url": "https://acpr.banque-france.fr",
+    },
+    {
+        "name": "DOJ - Criminal Division",
+        "url": "https://www.justice.gov/criminal/press-releases",
         "type": "scrape",
         "category": "autorite_intl",
         "scraper": "doj",
-    },
-    {
-        "name": "Conseil de l'UE (Sanctions/Press Releases)",
-        "url": "https://www.consilium.europa.eu/en/press/press-releases/?filters=2030",
-        "type": "scrape",
-        "category": "autorite_eu",
-        "scraper": "conseil_eu",
+        "base_url": "https://www.justice.gov",
     },
 ]
 
 
-def scrape_source(source_config):
-    """
-    Main dispatcher for scraping a single source.
+# ─────────────────────────────────────────────────────────────────────────────
+# HELPERS
+# ─────────────────────────────────────────────────────────────────────────────
+def _fetch_html(url):
+    """Fetch HTML content from URL, return decoded string or None."""
+    try:
+        req = urllib.request.Request(url, headers={
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+            "Accept": "text/html,application/xhtml+xml",
+            "Accept-Language": "en-US,en;q=0.9,fr;q=0.8",
+        })
+        resp = urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT)
+        return resp.read().decode("utf-8", errors="replace")
+    except Exception as e:
+        print(f"    Scraper fetch error {url}: {e}")
+        return None
 
-    Args:
-        source_config: dict with keys: name, url, type, category, scraper
 
-    Returns:
-        list of items in fetch_rss() format
-    """
-    scraper_name = source_config.get("scraper", "").lower()
+def _clean_html(text):
+    """Remove HTML tags and decode entities."""
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = text.replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">")
+    text = text.replace("&#039;", "'").replace("&quot;", '"')
+    text = re.sub(r"&#(\d+);", lambda m: chr(int(m.group(1))), text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
 
-    if scraper_name == "acpr":
-        return scrape_acpr()
-    elif scraper_name == "fincen":
-        return scrape_fincen()
-    elif scraper_name == "doj":
-        return scrape_doj()
-    elif scraper_name == "conseil_eu":
-        return scrape_conseil_eu()
-    else:
+
+def _make_item(title, url, date_str, summary, source_name, category):
+    """Create a standard item dict, applying filters."""
+    title = _clean_html(title).strip()
+    summary = _clean_html(summary).strip() if summary else ""
+
+    if not title or len(title) < 5:
+        return None
+
+    # Apply exclusion filters
+    combined = f"{title} {summary}".lower()
+    if any(ex in combined for ex in EXCLUDE_KEYWORDS):
+        return None
+    if is_off_topic_for_compliance(title, summary, source_name):
+        return None
+    # Scraped sources always require compliance keyword match
+    if not matches_compliance_keywords(title, summary):
+        return None
+
+    sc = score_item(title, summary, category)
+    doc_type = detect_doc_type(title)
+    action_class = classify_action(doc_type, title, sc)
+
+    # Parse date
+    published = None
+    if date_str:
+        date_str = date_str.strip()
+        for fmt in [
+            "%B %d, %Y", "%b %d, %Y",  # March 24, 2026
+            "%m/%d/%Y",                  # 03/10/2026
+            "%d %B %Y", "%d %b %Y",     # 24 March 2026
+            "%Y-%m-%d",                  # 2026-03-24
+            "%d/%m/%Y",                  # 24/03/2026
+            "%d %B %Y",                  # French: 24 mars 2026
+        ]:
+            try:
+                published = datetime.strptime(date_str, fmt).isoformat()
+                break
+            except ValueError:
+                continue
+        # Try French month names
+        if not published:
+            fr_months = {
+                "janvier": "01", "février": "02", "mars": "03", "avril": "04",
+                "mai": "05", "juin": "06", "juillet": "07", "août": "08",
+                "septembre": "09", "octobre": "10", "novembre": "11", "décembre": "12",
+            }
+            for fr, num in fr_months.items():
+                if fr in date_str.lower():
+                    try:
+                        d = re.sub(fr, num, date_str.lower(), flags=re.IGNORECASE)
+                        d = re.sub(r"[^\d/\s-]", "", d).strip()
+                        # Try "24 03 2026" format
+                        parts = d.split()
+                        if len(parts) == 3:
+                            published = f"{parts[2]}-{parts[1].zfill(2)}-{parts[0].zfill(2)}T00:00:00"
+                    except Exception:
+                        pass
+                    break
+
+    if not published:
+        published = datetime.now(timezone.utc).isoformat()
+
+    return {
+        "hash": item_hash(title, url),
+        "source_name": source_name,
+        "source_type": "scrape",
+        "category": category,
+        "title": title,
+        "url": url,
+        "author": "",
+        "published": published,
+        "summary": summary[:500],
+        "score": sc,
+        "doc_type": doc_type,
+        "action_class": action_class,
+        "status": "new",
+        "early_brief": False,
+        "ai_summary": None,
+    }
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# SCRAPERS
+# ─────────────────────────────────────────────────────────────────────────────
+
+def scrape_acpr(config):
+    """Scrape ACPR communiqués or publications page."""
+    html = _fetch_html(config["url"])
+    if not html:
+        return []
+
+    base = config["base_url"]
+    items = []
+
+    # ACPR pages use <a> tags with href pointing to /fr/... paths
+    # Pattern: link with title text, followed by date somewhere nearby
+    # Look for links to communiqués/publications
+    link_pattern = re.compile(
+        r'<a[^>]*href="(/fr/(?:communiques-de-presse|publications-et-statistiques/publications)/[^"]+)"[^>]*>\s*([^<]+)</a>',
+        re.IGNORECASE
+    )
+
+    # Also look for date patterns near links
+    date_pattern = re.compile(r'(\d{1,2}\s+(?:janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre)\s+\d{4})', re.IGNORECASE)
+
+    matches = link_pattern.findall(html)
+    dates = date_pattern.findall(html)
+
+    for i, (path, title) in enumerate(matches[:30]):
+        url = base + path
+        date_str = dates[i] if i < len(dates) else ""
+        item = _make_item(title, url, date_str, "", config["name"], config["category"])
+        if item:
+            items.append(item)
+
+    return items
+
+
+def scrape_fincen(config):
+    """Scrape FinCEN news room."""
+    html = _fetch_html(config["url"])
+    if not html:
+        return []
+
+    base = config["base_url"]
+    items = []
+
+    # FinCEN: links to /news/ paths with dates in MM/DD/YYYY format
+    # Pattern: date followed by link
+    pattern = re.compile(
+        r'(\d{2}/\d{2}/\d{4})\s*.*?<a[^>]*href="(/(?:news|resources)/[^"]+)"[^>]*>\s*([^<]+)</a>',
+        re.DOTALL | re.IGNORECASE
+    )
+
+    for date_str, path, title in pattern.findall(html)[:30]:
+        url = base + path
+        item = _make_item(title, url, date_str, "", config["name"], config["category"])
+        if item:
+            items.append(item)
+
+    return items
+
+
+def scrape_doj(config):
+    """Scrape DOJ Criminal Division press releases."""
+    html = _fetch_html(config["url"])
+    if not html:
+        return []
+
+    base = config["base_url"]
+    items = []
+
+    # DOJ: articles with links to /opa/pr/ or /criminal/press-releases/
+    # Look for links in article-like structures
+    pattern = re.compile(
+        r'<a[^>]*href="(/(?:opa/pr|criminal/press-releases)/[^"]+)"[^>]*>\s*([^<]{20,})</a>',
+        re.IGNORECASE
+    )
+
+    # Date pattern: Month DD, YYYY
+    date_pattern = re.compile(r'((?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+\d{4})')
+
+    link_matches = pattern.findall(html)
+    date_matches = date_pattern.findall(html)
+
+    for i, (path, title) in enumerate(link_matches[:30]):
+        # Skip social sharing links
+        if "facebook" in path.lower() or "twitter" in path.lower() or "linkedin" in path.lower():
+            continue
+        url = base + path
+        date_str = date_matches[i] if i < len(date_matches) else ""
+        item = _make_item(title, url, date_str, "", config["name"], config["category"])
+        if item:
+            items.append(item)
+
+    return items
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# DISPATCHER
+# ─────────────────────────────────────────────────────────────────────────────
+SCRAPERS = {
+    "acpr": scrape_acpr,
+    "fincen": scrape_fincen,
+    "doj": scrape_doj,
+}
+
+
+def scrape_source(config):
+    """Dispatch to the appropriate scraper."""
+    scraper_name = config.get("scraper", "")
+    scraper_fn = SCRAPERS.get(scraper_name)
+    if not scraper_fn:
         print(f"    Unknown scraper: {scraper_name}")
+        return []
+    try:
+        return scraper_fn(config)
+    except Exception as e:
+        print(f"    Scraper error {config['name']}: {e}")
         return []
 
 
+def scrape_all():
+    """Scrape all configured sources. Returns list of items."""
+    all_items = []
+    for src in SCRAPE_SOURCES:
+        print(f"  Scraping: {src['name']}...")
+        items = scrape_source(src)
+        print(f"    -> {len(items)} items")
+        all_items.extend(items)
+    return all_items
+
+
 # ─────────────────────────────────────────────────────────────────────────────
-# MAIN / TEST
+# MAIN (for testing)
 # ─────────────────────────────────────────────────────────────────────────────
-
-def main():
-    """Test/demo scraper."""
-    print("=" * 70)
-    print("Veille Réglementaire — HTML Scraper Test")
-    print("=" * 70)
-
-    for source_config in SCRAPE_SOURCES:
-        print(f"\nScraping: {source_config['name']}...")
-        items = scrape_source(source_config)
-        print(f"  -> {len(items)} items parsed")
-        if items:
-            for item in items[:3]:
-                print(f"     • {item['title'][:60]}... (score: {item['score']})")
-
-
 if __name__ == "__main__":
-    main()
+    print("Testing scrapers...\n")
+    for src in SCRAPE_SOURCES:
+        print(f"=== {src['name']} ===")
+        items = scrape_source(src)
+        print(f"  Found {len(items)} items")
+        for it in items[:5]:
+            print(f"  - [{it['score']:3d}] {it['title'][:80]}")
+            print(f"    {it['url'][:80]}")
+        print()
