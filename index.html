@@ -1148,6 +1148,181 @@
       color: var(--color-text-tertiary);
     }
 
+    /* Historique tab */
+    .hist-wrapper {
+      flex: 1;
+      overflow-y: auto;
+      padding: 16px 20px;
+    }
+    .hist-toolbar {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 14px;
+      flex-wrap: wrap;
+    }
+    .hist-search {
+      flex: 1;
+      min-width: 200px;
+      padding: 6px 10px;
+      border: 0.5px solid var(--color-border-tertiary);
+      border-radius: 4px;
+      font-family: var(--sans);
+      font-size: 12px;
+      background: transparent;
+      color: var(--color-text-primary);
+    }
+    .hist-search:focus { outline: none; border-color: var(--brand); }
+    .hist-select {
+      padding: 5px 8px;
+      border: 0.5px solid var(--color-border-tertiary);
+      border-radius: 4px;
+      font-size: 12px;
+      font-family: var(--sans);
+      color: var(--color-text-secondary);
+      background: transparent;
+      cursor: pointer;
+    }
+    .hist-stat {
+      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--color-text-tertiary);
+    }
+    .hist-stat strong {
+      color: var(--color-text-primary);
+      font-weight: 600;
+    }
+    .hist-list {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .hist-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 12px;
+      background: var(--color-background-primary);
+      border: 0.5px solid var(--color-border-tertiary);
+      border-radius: 6px;
+      font-size: 12px;
+    }
+    .hist-item-title {
+      flex: 1;
+      font-weight: 500;
+      color: var(--color-text-primary);
+      line-height: 1.4;
+    }
+    .hist-item-title a { color: var(--color-text-primary); }
+    .hist-item-title a:hover { color: var(--brand-dark); text-decoration: none; }
+    .hist-item-meta {
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--color-text-tertiary);
+      white-space: nowrap;
+    }
+    .hist-dest {
+      display: flex;
+      gap: 3px;
+    }
+    .hist-dest-badge {
+      padding: 1px 5px;
+      border-radius: 3px;
+      font-size: 10px;
+      font-weight: 600;
+      font-family: var(--mono);
+    }
+    .hist-dest-badge.q { background: var(--brand-bg); color: var(--brand-dark); }
+    .hist-dest-badge.h { background: rgba(99,102,241,0.1); color: #6366F1; }
+    .hist-edition {
+      font-family: var(--mono);
+      font-size: 10px;
+      color: var(--color-text-tertiary);
+      background: var(--color-background-secondary);
+      padding: 1px 5px;
+      border-radius: 3px;
+    }
+    .hist-empty {
+      text-align: center;
+      padding: 48px 0;
+      color: var(--color-text-tertiary);
+      font-size: 13px;
+    }
+    .hist-export-btn {
+      padding: 5px 12px;
+      border: 0.5px solid var(--color-border-tertiary);
+      border-radius: 4px;
+      font-size: 12px;
+      background: transparent;
+      color: var(--color-text-secondary);
+      cursor: pointer;
+      font-family: var(--sans);
+      font-weight: 500;
+    }
+    .hist-export-btn:hover { border-color: var(--brand); color: var(--brand); }
+
+    /* Edition modal */
+    .edition-modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.4);
+      z-index: 300;
+      align-items: center;
+      justify-content: center;
+    }
+    .edition-modal-overlay.show { display: flex; }
+    .edition-modal {
+      background: var(--color-background-primary);
+      border-radius: 8px;
+      padding: 24px;
+      width: 340px;
+      box-shadow: 0 8px 30px rgba(0,0,0,0.12);
+    }
+    .edition-modal h3 {
+      font-size: 15px;
+      font-weight: 600;
+      margin-bottom: 12px;
+    }
+    .edition-modal input {
+      width: 100%;
+      padding: 8px 10px;
+      border: 0.5px solid var(--color-border-secondary);
+      border-radius: 4px;
+      font-family: var(--sans);
+      font-size: 13px;
+      margin-bottom: 16px;
+    }
+    .edition-modal input:focus { outline: none; border-color: var(--brand); }
+    .edition-modal-actions {
+      display: flex;
+      gap: 8px;
+      justify-content: flex-end;
+    }
+    .edition-modal-actions button {
+      padding: 6px 16px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-family: var(--sans);
+      font-weight: 500;
+      cursor: pointer;
+      border: none;
+    }
+    .edition-modal-cancel {
+      background: var(--color-background-secondary);
+      color: var(--color-text-secondary);
+    }
+    .edition-modal-confirm {
+      background: var(--brand);
+      color: #111;
+    }
+
+    /* Published chip */
+    .chip.published {
+      background: rgba(62,207,142,0.1);
+      color: var(--brand-dark);
+    }
+
     /* Agenda réglementaire */
     .ag-wrapper {
       flex: 1;
@@ -1486,6 +1661,7 @@
         <div class="tab-item active" data-tab="veille">Veille</div>
         <div class="tab-item" data-tab="agenda">Agenda</div>
         <div class="tab-item" data-tab="todo">To-do</div>
+        <div class="tab-item" data-tab="historique">Historique</div>
       </div>
 
       <!-- Tab panels -->
@@ -1568,6 +1744,29 @@
           <div id="todo-empty" class="todo-empty">
             <div class="todo-empty-text">Aucune tâche</div>
           </div>
+        </div>
+      </div>
+
+      <div class="tab-panel" id="panel-historique">
+        <div class="hist-wrapper">
+          <div class="hist-toolbar">
+            <input type="text" class="hist-search" id="hist-search" placeholder="Rechercher dans l'historique..." oninput="renderHistorique()" />
+            <select class="hist-select" id="hist-filter-dest" onchange="renderHistorique()">
+              <option value="">Toutes destinations</option>
+              <option value="quotidien">Quotidien</option>
+              <option value="hebdo">Hebdo</option>
+            </select>
+            <select class="hist-select" id="hist-filter-edition" onchange="renderHistorique()">
+              <option value="">Toutes éditions</option>
+            </select>
+            <select class="hist-select" id="hist-filter-source" onchange="renderHistorique()">
+              <option value="">Toutes sources</option>
+            </select>
+            <div class="hist-stat" id="hist-stat"></div>
+            <button class="hist-export-btn" onclick="exportHistorique()">Exporter historique</button>
+          </div>
+          <div class="hist-list" id="hist-list"></div>
+          <div class="hist-empty" id="hist-empty" style="display:none;">Aucun article dans l'historique</div>
         </div>
       </div>
 
@@ -2105,6 +2304,7 @@ function renderCurrentTab() {
   renderBrief();
   renderSidebar();
   updateStats();
+  if (state.activeTab === 'historique') renderHistorique();
 }
 
 // Actions — Supabase + localStorage fallback
@@ -2121,6 +2321,7 @@ window.toggleDest = function(id, dest) {
       showToast(`★ Ajouté au ${dest === 'quotidien' ? 'Quotidien' : 'Hebdo'}`);
     }
     saveItemState(item.hash, item.status, item.destinations, item.note);
+    if (item.destinations.length > 0) recordHistory(item);
     renderCurrentTab();
   }
 };
@@ -2177,62 +2378,11 @@ window.exportBrief = function(dest) {
     md += `\n---\n\n`;
   });
 
-  const textarea = document.getElementById('brief-export');
-  textarea.style.display = 'block';
-  textarea.value = md;
-  textarea.select();
-  try { navigator.clipboard.writeText(md); showToast('Draft copié dans le presse-papier'); }
-  catch(e) { showToast('Draft généré — sélectionnez et copiez'); }
-
-  // Save edition + mark published
-  saveEdition(items, todayISO, md, dest);
+  // Show edition modal instead of direct save
+  window._pendingExport = { items, date: todayISO, md, dest };
+  window._pendingExportMd = md;
+  openEditionModal();
 };
-
-function saveEdition(items, date, markdown, dest) {
-  const edition = {
-    date: date,
-    label: new Date(date).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' }),
-    articles: items.map(i => ({
-      hash: i.hash, title: i.title, source: i.source,
-      published: i.published, score: i.score,
-      note: i.note || '', url: i.url || ''
-    })),
-    markdown: markdown
-  };
-
-  // Save to localStorage
-  const editions = JSON.parse(localStorage.getItem('earlybrief_editions') || '[]');
-  editions.unshift(edition);
-  localStorage.setItem('earlybrief_editions', JSON.stringify(editions));
-
-  // Track published hashes
-  const pubHashes = new Set(items.map(i => i.hash));
-  const published = new Set(JSON.parse(localStorage.getItem('earlybrief_published_hashes') || '[]'));
-  pubHashes.forEach(h => published.add(h));
-  localStorage.setItem('earlybrief_published_hashes', JSON.stringify([...published]));
-
-  // Mark in state + remove from destination
-  state.items.forEach(i => {
-    if (pubHashes.has(i.hash)) {
-      i.published_in_edition = true;
-      // Remove only the exported destination, keep the other if set
-      if (i.destinations) {
-        const idx = i.destinations.indexOf(dest);
-        if (idx >= 0) i.destinations.splice(idx, 1);
-      }
-    }
-  });
-
-  // Download editions.json backup
-  const blob = new Blob([JSON.stringify(editions, null, 2)], { type: 'application/json' });
-  const a = document.createElement('a');
-  a.href = URL.createObjectURL(blob);
-  a.download = 'editions.json';
-  a.click();
-
-  renderCurrentTab();
-  showToast(`Édition sauvegardée (${items.length} articles)`);
-}
 
 // Sidebar filter handlers
 document.querySelectorAll('.sidebar-item[data-filter]').forEach(item => {
@@ -2380,6 +2530,181 @@ window.saveRedigerNote = function(id) {
   }
 };
 
+// --- Historique persistant ---
+const HIST_KEY = 'eb-veille-historique';
+
+function loadHistorique() {
+  try { return JSON.parse(localStorage.getItem(HIST_KEY) || '[]'); } catch(e) { return []; }
+}
+
+function saveHistorique(hist) {
+  try { localStorage.setItem(HIST_KEY, JSON.stringify(hist)); } catch(e) { console.warn('Historique save failed', e); }
+}
+
+function recordHistory(item) {
+  const hist = loadHistorique();
+  const existing = hist.find(h => h.id === item.hash);
+  const entry = {
+    id: item.hash,
+    titre: item.title,
+    url: item.url || '',
+    source: item.source || '',
+    categorie: item.category || '',
+    score: item.score || 0,
+    date_article: item.published ? item.published.slice(0, 10) : '',
+    date_selection: new Date().toISOString(),
+    destinations: [...(item.destinations || [])],
+    edition: existing ? existing.edition : ''
+  };
+  if (existing) {
+    Object.assign(existing, entry);
+    existing.edition = existing.edition || '';
+  } else {
+    hist.unshift(entry);
+  }
+  saveHistorique(hist);
+}
+
+function markHistoryEdition(hashes, edition) {
+  const hist = loadHistorique();
+  hashes.forEach(h => {
+    const entry = hist.find(e => e.id === h);
+    if (entry) entry.edition = edition;
+  });
+  saveHistorique(hist);
+}
+
+// --- Edition modal ---
+window.openEditionModal = function() {
+  document.getElementById('edition-modal').classList.add('show');
+  const input = document.getElementById('edition-input');
+  input.value = '';
+  input.focus();
+};
+
+window.closeEditionModal = function() {
+  document.getElementById('edition-modal').classList.remove('show');
+  window._pendingExport = null;
+};
+
+window.confirmEdition = function() {
+  const edition = document.getElementById('edition-input').value.trim() || '';
+  const pending = window._pendingExport;
+  if (!pending) { closeEditionModal(); return; }
+
+  // Copy to clipboard
+  const md = window._pendingExportMd || pending.md;
+  try { navigator.clipboard.writeText(md); showToast('Export copié — édition ' + (edition || 'sans numéro')); }
+  catch(e) { showToast('Export généré'); }
+
+  // Mark edition in history
+  const hashes = pending.items.map(i => i.hash);
+  if (edition) markHistoryEdition(hashes, edition);
+
+  // Mark items as published
+  const pubHashes = new Set(hashes);
+  state.items.forEach(i => {
+    if (pubHashes.has(i.hash)) {
+      i.published_in_edition = true;
+      if (i.destinations) {
+        const idx = i.destinations.indexOf(pending.dest);
+        if (idx >= 0) i.destinations.splice(idx, 1);
+      }
+      saveItemState(i.hash, i.status, i.destinations, i.note);
+    }
+  });
+
+  // Save edition to localStorage
+  const editions = JSON.parse(localStorage.getItem('earlybrief_editions') || '[]');
+  editions.unshift({
+    date: pending.date,
+    edition: edition,
+    dest: pending.dest,
+    label: new Date(pending.date).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' }),
+    articles: pending.items.map(i => ({ hash: i.hash, title: i.title, source: i.source, published: i.published, score: i.score, note: i.note || '', url: i.url || '' })),
+    markdown: pending.md
+  });
+  localStorage.setItem('earlybrief_editions', JSON.stringify(editions));
+
+  // Track published hashes
+  const published = new Set(JSON.parse(localStorage.getItem('earlybrief_published_hashes') || '[]'));
+  pubHashes.forEach(h => published.add(h));
+  localStorage.setItem('earlybrief_published_hashes', JSON.stringify([...published]));
+
+  closeEditionModal();
+  renderCurrentTab();
+  showToast('Édition ' + (edition || '') + ' exportée (' + pending.items.length + ' articles)');
+};
+
+// --- Historique tab rendering ---
+window.renderHistorique = function() {
+  const hist = loadHistorique();
+  const q = (document.getElementById('hist-search').value || '').toLowerCase().trim();
+  const destFilter = document.getElementById('hist-filter-dest').value;
+  const editionFilter = document.getElementById('hist-filter-edition').value;
+  const sourceFilter = document.getElementById('hist-filter-source').value;
+
+  let filtered = hist;
+  if (q) filtered = filtered.filter(h => h.titre.toLowerCase().includes(q) || h.source.toLowerCase().includes(q));
+  if (destFilter) filtered = filtered.filter(h => h.destinations && h.destinations.includes(destFilter));
+  if (editionFilter) filtered = filtered.filter(h => h.edition === editionFilter);
+  if (sourceFilter) filtered = filtered.filter(h => h.source === sourceFilter);
+
+  // Update stat
+  document.getElementById('hist-stat').innerHTML = '<strong>' + hist.length + '</strong> articles · <strong>' + filtered.length + '</strong> affichés';
+
+  // Update edition filter options
+  const edSelect = document.getElementById('hist-filter-edition');
+  const currentEdVal = edSelect.value;
+  const editions = [...new Set(hist.map(h => h.edition).filter(Boolean))].sort();
+  edSelect.innerHTML = '<option value="">Toutes éditions</option>' + editions.map(e => '<option value="' + e + '"' + (e === currentEdVal ? ' selected' : '') + '>' + e + '</option>').join('');
+
+  // Update source filter options
+  const srcSelect = document.getElementById('hist-filter-source');
+  const currentSrcVal = srcSelect.value;
+  const sources = [...new Set(hist.map(h => h.source).filter(Boolean))].sort();
+  srcSelect.innerHTML = '<option value="">Toutes sources</option>' + sources.map(s => '<option value="' + s + '"' + (s === currentSrcVal ? ' selected' : '') + '>' + esc(s) + '</option>').join('');
+
+  const el = document.getElementById('hist-list');
+  const emptyEl = document.getElementById('hist-empty');
+
+  if (!filtered.length) {
+    el.innerHTML = '';
+    emptyEl.style.display = 'block';
+    return;
+  }
+  emptyEl.style.display = 'none';
+
+  el.innerHTML = filtered.map(h => {
+    const destBadges = (h.destinations || []).map(d =>
+      '<span class="hist-dest-badge ' + (d === 'quotidien' ? 'q' : 'h') + '">' + (d === 'quotidien' ? 'Q' : 'H') + '</span>'
+    ).join('');
+    const edBadge = h.edition ? '<span class="hist-edition">' + esc(h.edition) + '</span>' : '';
+    const titleHtml = h.url ? '<a href="' + esc(h.url) + '" target="_blank">' + esc(h.titre) + '</a>' : esc(h.titre);
+    return '<div class="hist-item">' +
+      '<div class="hist-dest">' + destBadges + '</div>' +
+      '<div class="hist-item-title">' + titleHtml + '</div>' +
+      '<div class="hist-item-meta">' + esc(h.source) + '</div>' +
+      '<div class="hist-item-meta">' + (h.date_selection ? h.date_selection.slice(0, 10) : '') + '</div>' +
+      edBadge +
+      '<div class="hist-item-meta">' + h.score + '</div>' +
+    '</div>';
+  }).join('');
+};
+
+window.exportHistorique = function() {
+  const hist = loadHistorique();
+  if (!hist.length) { showToast('Historique vide'); return; }
+  const sorted = [...hist].sort((a, b) => (b.date_selection || '').localeCompare(a.date_selection || ''));
+  const today = new Date().toISOString().slice(0, 10);
+  const blob = new Blob([JSON.stringify(sorted, null, 2)], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'eb-historique-' + today + '.json';
+  a.click();
+  showToast('Historique exporté (' + sorted.length + ' articles)');
+};
+
 // --- Agenda réglementaire ---
 const AG_STORAGE = 'eb-agenda';
 const AG_MONTHS = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
@@ -2509,7 +2834,9 @@ document.querySelectorAll('.tab-item').forEach(tab => {
     document.querySelectorAll('.tab-item').forEach(t => t.classList.remove('active'));
     document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
     tab.classList.add('active');
+    state.activeTab = tab.dataset.tab;
     document.getElementById('panel-' + tab.dataset.tab).classList.add('active');
+    renderCurrentTab();
   });
 });
 
@@ -2649,6 +2976,17 @@ renderTodos();
 // Init
 fetchData();
 </script>
+
+<div class="edition-modal-overlay" id="edition-modal">
+  <div class="edition-modal">
+    <h3>Numéro d'édition</h3>
+    <input type="text" id="edition-input" placeholder="Ex : S12, Q26-03-26..." />
+    <div class="edition-modal-actions">
+      <button class="edition-modal-cancel" onclick="closeEditionModal()">Annuler</button>
+      <button class="edition-modal-confirm" onclick="confirmEdition()">Exporter</button>
+    </div>
+  </div>
+</div>
 
 <!-- Rediger overlay -->
 <div id="rediger-overlay" style="display:none; position:fixed; inset:0; z-index:1000; background:rgba(0,0,0,0.5); justify-content:center; align-items:flex-start; padding:40px 20px; overflow-y:auto;">
