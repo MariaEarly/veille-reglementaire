@@ -26,32 +26,49 @@ app = FastAPI(title="Veille Aggregator")
 # ---------------------------------------------------------------------------
 
 SEED_SOURCES = [
+    # -------------------------------------------------------------------------
     # Autorités françaises
-    {"name": "ACPR - Actualités", "source_type": "rss", "url": "https://acpr.banque-france.fr/rss", "category": "autorité_fr"},
-    {"name": "AMF - Actualités", "source_type": "rss", "url": "https://www.amf-france.org/fr/rss/actualites", "category": "autorité_fr"},
+    # -------------------------------------------------------------------------
+    # ACPR: RSS en 503 (mort). Pas de feed public disponible.
+    # TODO: Surveiller ou scraper https://acpr.banque-france.fr/publications
+    {"name": "AMF - Actualités & Publications", "source_type": "rss", "url": "https://www.amf-france.org/fr/flux-rss/display/21", "category": "autorité_fr"},
+    {"name": "AMF - Sanctions", "source_type": "rss", "url": "https://www.amf-france.org/fr/flux-rss/display/24", "category": "autorité_fr"},
+    {"name": "AMF - Mises en garde", "source_type": "rss", "url": "https://www.amf-france.org/fr/flux-rss/display/28", "category": "autorité_fr"},
+    {"name": "AMF - Réglementation", "source_type": "rss", "url": "https://www.amf-france.org/fr/flux-rss/display/31", "category": "autorité_fr"},
     {"name": "Tracfin - Publications", "source_type": "rss", "url": "https://www.economie.gouv.fr/tracfin/rss", "category": "autorité_fr"},
     {"name": "Banque de France", "source_type": "rss", "url": "https://www.banque-france.fr/rss", "category": "autorité_fr"},
     {"name": "DG Trésor", "source_type": "rss", "url": "https://www.tresor.economie.gouv.fr/Articles/rss", "category": "autorité_fr"},
     {"name": "Légifrance - JORF", "source_type": "rss", "url": "https://www.legifrance.gouv.fr/eli/jo/rss", "category": "autorité_fr"},
 
+    # -------------------------------------------------------------------------
     # Autorités européennes
-    {"name": "EBA - News", "source_type": "rss", "url": "https://www.eba.europa.eu/rss-feeds", "category": "autorité_eu"},
-    {"name": "ESMA - News", "source_type": "rss", "url": "https://www.esma.europa.eu/rss", "category": "autorité_eu"},
+    # -------------------------------------------------------------------------
+    # EBA: un seul feed consolidé (news + press releases), pas de séparation publications/consultations
+    {"name": "EBA - News", "source_type": "rss", "url": "https://www.eba.europa.eu/news-press/news/rss.xml", "category": "autorité_eu"},
+    # ESMA: 4 feeds typés disponibles (corrigé: /rss → /rss.xml)
+    {"name": "ESMA - News", "source_type": "rss", "url": "https://www.esma.europa.eu/rss.xml?type=news", "category": "autorité_eu"},
+    {"name": "ESMA - Consultations", "source_type": "rss", "url": "https://www.esma.europa.eu/rss.xml?type=consultation", "category": "autorité_eu"},
+    {"name": "ESMA - Q&A", "source_type": "rss", "url": "https://www.esma.europa.eu/rss.xml?type=qa", "category": "autorité_eu"},
+    {"name": "ESMA - Technical Standards", "source_type": "rss", "url": "https://www.esma.europa.eu/rss.xml?type=technical_standard", "category": "autorité_eu"},
     # TODO: AMLA — no RSS feed yet, RSS.app scraping fails. Monitor https://www.amla.europa.eu/news-and-publications
     # TODO: Conseil de l'UE — RSS 403 + RSS.app fails. Monitor https://www.consilium.europa.eu/en/press/press-releases/
     {"name": "EUR-Lex - Derniers actes", "source_type": "rss", "url": "https://eur-lex.europa.eu/rss/act-rss.xml", "category": "autorité_eu"},
-    {"name": "Commission EU - Finance", "source_type": "rss", "url": "https://finance.ec.europa.eu/rss_en", "category": "autorité_eu"},
+    {"name": "Commission EU - DG FISMA", "source_type": "rss", "url": "https://finance.ec.europa.eu/node/1408/rss_en", "category": "autorité_eu"},
     {"name": "BCE - Communiqués", "source_type": "rss", "url": "https://www.ecb.europa.eu/rss/press.html", "category": "autorité_eu"},
     {"name": "Parlement EU - ECON", "source_type": "rss", "url": "https://www.europarl.europa.eu/rss/committee/econ/en.xml", "category": "autorité_eu"},
     {"name": "CSSF Luxembourg (AML/CFT)", "source_type": "rss", "url": "https://www.cssf.lu/en/feed/publications?content_keyword=aml-cft", "category": "autorité_eu"},
 
+    # -------------------------------------------------------------------------
     # Autorités internationales
+    # -------------------------------------------------------------------------
     {"name": "FATF / GAFI", "source_type": "rss", "url": "https://www.fatf-gafi.org/en/rss.xml", "category": "autorité_intl"},
     {"name": "Comité de Bâle", "source_type": "rss", "url": "https://www.bis.org/bcbs/bcbsrss.xml", "category": "autorité_intl"},
     {"name": "BRI / BIS", "source_type": "rss", "url": "https://www.bis.org/doclist/allrss.rss", "category": "autorité_intl"},
     {"name": "OFAC - Recent Actions", "source_type": "rss", "url": "https://rss.app/feeds/pvdLC9x4pQQk1ROW.xml", "category": "autorité_intl"},
 
+    # -------------------------------------------------------------------------
     # Registre national des gels (API DG Trésor, fetcher custom)
+    # -------------------------------------------------------------------------
     {"name": "DG Trésor - Gel des avoirs", "source_type": "gel", "url": "https://gels-avoirs.dgtresor.gouv.fr", "category": "autorité_fr"},
 
     # Presse spécialisée (filtrée par mots-clés conformité)
