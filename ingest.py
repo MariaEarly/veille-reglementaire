@@ -61,6 +61,9 @@ SEED_SOURCES = [
     {"name": "FinCrime Central", "url": "https://fincrimecentral.com/feed/", "type": "press", "category": "presse"},
     {"name": "Financial Crime News", "url": "https://thefinancialcrimenews.com/feed/", "type": "press", "category": "presse"},
     {"name": "GAFI/FATF Statements", "url": "https://www.fatf-gafi.org/rss/fatf-news.xml", "type": "rss", "category": "autorite_intl"},
+    # Commission EU — Sanctions guidance & alerts (RSS fonctionnel)
+    {"name": "Commission EU - Sanctions", "url": "https://finance.ec.europa.eu/node/1296/rss_en", "type": "rss", "category": "autorite_eu"},
+    {"name": "Commission EU - Sanctions FAQ", "url": "https://finance.ec.europa.eu/node/1068/rss_en", "type": "rss", "category": "autorite_eu"},
 ]
 
 # ---------------------------------------------------------------------------
@@ -151,6 +154,8 @@ CORE_COMPLIANCE_SOURCES = {
     "Interpol",
     "Conseil de l'UE",
     "CJUE",
+    "Commission EU - Sanctions",
+    "Commission EU - Sanctions FAQ",
 }
 # Sources qui passent mais avec filtre léger (keyword compliance)
 # AMF Actualités, EBA, ECB, ANSSI, etc. = doivent matcher des keywords
