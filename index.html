@@ -180,8 +180,9 @@
     .card-meta {
       display: flex; gap: 4px; align-items: center; flex-wrap: wrap;
       margin-bottom: 8px;
-      font-size: 0.72rem; color: var(--subtle);
+      font-size: 0.75rem; color: var(--subtle);
     }
+    .meta-sep { color: var(--border); margin: 0 2px; }
     .tag {
       display: inline-flex; align-items: center;
       padding: 2px 0; font-size: 0.7rem;
@@ -728,6 +729,11 @@ function scoreClass(s) {
   return 'score-low';
 }
 
+function statusLabel(s) {
+  const m = { new:'nouveau', important:'important', reviewed:'relu', draft:'à publier', archived:'archivé' };
+  return m[s] || s;
+}
+
 function catLabel(cat) {
   const m = { 'autorite_fr':'FR', 'autorite_eu':'EU', 'autorite_intl':'Intl', 'presse':'Presse', 'email':'Email' };
   return m[cat] || cat;
@@ -763,13 +769,14 @@ function renderCard(item, full) {
       <div class="card-body">
         <div class="card-title">${title}</div>
         <div class="card-meta">
-          ${fresh ? '<span class="tag tag-fresh">&lt; 24h</span>' : ''}
-          ${item.is_primary ? '<span class="tag tag-primary">PRIMAIRE</span>' : ''}
-          ${item.doc_type ? `<span class="tag tag-doctype">${esc(item.doc_type)}</span>` : ''}
-          <span class="tag tag-${item.action_class}">${item.action_class === 'action' ? 'ACTION' : 'INFO'}</span>
-          <span class="tag tag-source" style="background:${sourceColor(item.source)}">${esc(item.source)}</span>
+          <span class="tag tag-source">${esc(item.source)}</span>
+          <span class="meta-sep">·</span>
           <span class="tag tag-category">${catLabel(item.category)}</span>
-          <span class="tag tag-status ${item.status}" onclick="event.stopPropagation(); cycleStatus(${item.id})">${esc(item.status)}</span>
+          ${item.doc_type ? `<span class="meta-sep">·</span><span class="tag tag-doctype">${esc(item.doc_type)}</span>` : ''}
+          <span class="meta-sep">·</span>
+          <span class="tag tag-status ${item.status}" onclick="event.stopPropagation(); cycleStatus(${item.id})">${statusLabel(item.status)}</span>
+          ${fresh ? '<span class="meta-sep">·</span><span class="tag tag-fresh">nouveau</span>' : ''}
+          ${item.is_primary ? '<span class="meta-sep">·</span><span class="tag tag-primary">source primaire</span>' : ''}
         </div>
         ${item.summary ? `<div class="card-summary">${esc(item.summary)}</div>` : ''}
         ${item.ai_summary ? `<div class="card-ai-summary">${esc(item.ai_summary)}</div>` : ''}
