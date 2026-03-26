@@ -513,6 +513,21 @@
       color: var(--rose);
     }
 
+    .chip.social-signal {
+      background: #E8E5F0;
+      color: #6B5B95;
+    }
+
+    .card.social-source {
+      border-left: 2px dashed #6B5B95;
+      padding-left: 13px;
+      opacity: 0.85;
+    }
+
+    .card.social-source:hover {
+      opacity: 1;
+    }
+
     .early-brief-marker {
       margin-left: auto;
       font-size: 11px;
@@ -1071,12 +1086,21 @@ function renderCard(item, full) {
     footer += `<span class="chip action-required">Action requise</span>`;
   }
 
+  const isSocial = item.source_type === 'social';
+  if (isSocial) {
+    footer += `<span class="chip social-signal">Signal</span>`;
+  }
+
   if (item.early_brief) {
     footer += `<span class="early-brief-marker">Early Brief</span>`;
   }
 
+  let cardClass = 'card';
+  if (isSocial) cardClass += ' social-source';
+  else if (item.status === 'important' && !fresh) cardClass += ' important';
+
   return `
-    <article class="card${item.status === 'important' && !fresh ? ' important' : ''}" data-id="${item.id}" onclick="toggleDetail(${item.id}, event)">
+    <article class="${cardClass}" data-id="${item.id}" onclick="toggleDetail(${item.id}, event)">
       <div class="card-meta">
         <span class="tag">${esc(item.source)}</span>
         <span class="meta-sep">·</span>
@@ -1203,7 +1227,7 @@ function renderSidebar() {
   const sourceCounts = {};
   state.items.forEach(i => { sourceCounts[i.source] = (sourceCounts[i.source] || 0) + 1; });
 
-  const catGroups = { 'autorite_fr': 'Autorités FR', 'autorite_eu': 'Autorités EU', 'autorite_intl': 'International', 'presse': 'Presse', 'email': 'Email' };
+  const catGroups = { 'autorite_fr': 'Autorités FR', 'autorite_eu': 'Autorités EU', 'autorite_intl': 'International', 'presse': 'Presse', 'social': 'Réseaux sociaux', 'email': 'Email' };
   const grouped = {};
   state.sources.forEach(s => {
     const cat = s.source_type || 'presse';
