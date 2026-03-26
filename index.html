@@ -1869,10 +1869,17 @@ async function loadLocalState() {
   }
 }
 
-async function saveItemState(hash, status, destinations, note) {
+async function saveItemState(hash, status, destinations, note, meta) {
   try {
     const local = JSON.parse(localStorage.getItem('veille_local') || '{}');
-    local[hash] = { status, destinations: destinations || [], note: note || '' };
+    const entry = { status, destinations: destinations || [], note: note || '' };
+    // Persist full metadata when article has destinations (needed if it disappears from RSS)
+    if (meta && (destinations && destinations.length > 0)) {
+      entry.meta = { title: meta.title, url: meta.url, source: meta.source, category: meta.category, score: meta.score, published: meta.published };
+    } else if (local[hash] && local[hash].meta) {
+      entry.meta = local[hash].meta; // preserve existing meta
+    }
+    local[hash] = entry;
     localStorage.setItem('veille_local', JSON.stringify(local));
   } catch(e) {}
   try {
@@ -1919,6 +1926,39 @@ async function fetchData() {
         ai_summary: item.ai_summary || null,
         published_in_edition: item.published_in_edition || false,
       };
+    });
+
+    // Inject ghost items: articles that left the RSS feed but still have destinations
+    const feedHashes = new Set(state.items.map(i => i.hash));
+    let ghostId = state.items.length + 1000;
+    Object.keys(local).forEach(hash => {
+      if (feedHashes.has(hash)) return; // already in feed
+      const ls = local[hash];
+      if (!ls.destinations || ls.destinations.length === 0) return; // no destination, skip
+      const m = ls.meta || {};
+      state.items.push({
+        id: ghostId++,
+        hash: hash,
+        title: m.title || '(Article hors flux)',
+        url: m.url || '',
+        summary: '',
+        author: '',
+        published: m.published || '',
+        source: m.source || 'Source inconnue',
+        source_type: '',
+        category: m.category || '',
+        score: m.score || 0,
+        score_breakdown: '',
+        doc_type: null,
+        action_class: 'info',
+        is_primary: false,
+        status: ls.status || 'draft',
+        destinations: ls.destinations,
+        note: ls.note || '',
+        ai_summary: null,
+        published_in_edition: false,
+        _ghost: true, // flag for visual indicator
+      });
     });
 
     // Mark articles already published in past editions (from localStorage)
@@ -2054,6 +2094,10 @@ function renderCard(item, full) {
 
   if (item.published_in_edition) {
     footer += `<span class="chip" style="background:#e8e8e8; color:#888;">Déjà publié</span>`;
+  }
+
+  if (item._ghost) {
+    footer += `<span class="chip" style="background:rgba(62,207,142,0.12); color:var(--brand-dark); font-weight:500;">Hors flux</span>`;
   }
 
   const hasQ = item.destinations && item.destinations.includes('quotidien');
@@ -2320,7 +2364,7 @@ window.toggleDest = function(id, dest) {
       item.destinations.push(dest);
       showToast(`★ Ajouté au ${dest === 'quotidien' ? 'Quotidien' : 'Hebdo'}`);
     }
-    saveItemState(item.hash, item.status, item.destinations, item.note);
+    saveItemState(item.hash, item.status, item.destinations, item.note, item);
     if (item.destinations.length > 0) recordHistory(item);
     renderCurrentTab();
   }
@@ -2340,7 +2384,7 @@ window.cycleStatus = function(id) {
   if (item) {
     const idx = order.indexOf(item.status);
     item.status = order[(idx + 1) % order.length];
-    saveItemState(item.hash, item.status, item.destinations, item.note);
+    saveItemState(item.hash, item.status, item.destinations, item.note, item);
     showToast('Statut : ' + (labels[item.status] || item.status));
     renderCurrentTab();
   }
@@ -2351,7 +2395,7 @@ window.saveNote = function(id) {
   const input = document.getElementById('note-' + id);
   if (item && input) {
     item.note = input.value.trim();
-    saveItemState(item.hash, item.status, item.destinations, item.note);
+    saveItemState(item.hash, item.status, item.destinations, item.note, item);
     showToast('Note enregistrée');
   }
 };
@@ -2525,7 +2569,7 @@ window.saveRedigerNote = function(id) {
   const textarea = document.getElementById('rediger-note-' + id);
   if (item && textarea) {
     item.note = textarea.value.trim();
-    saveItemState(item.hash, item.status, item.destinations, item.note);
+    saveItemState(item.hash, item.status, item.destinations, item.note, item);
     showToast('Note enregistrée');
   }
 };
@@ -2610,7 +2654,7 @@ window.confirmEdition = function() {
         const idx = i.destinations.indexOf(pending.dest);
         if (idx >= 0) i.destinations.splice(idx, 1);
       }
-      saveItemState(i.hash, i.status, i.destinations, i.note);
+      saveItemState(i.hash, i.status, i.destinations, i.note, i);
     }
   });
 
