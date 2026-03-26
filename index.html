@@ -2636,10 +2636,19 @@ window.confirmEdition = function() {
   const pending = window._pendingExport;
   if (!pending) { closeEditionModal(); return; }
 
-  // Copy to clipboard
+  // Download .md file + copy to clipboard
   const md = window._pendingExportMd || pending.md;
-  try { navigator.clipboard.writeText(md); showToast('Export copié — édition ' + (edition || 'sans numéro')); }
-  catch(e) { showToast('Export généré'); }
+  const destLabel = pending.dest === 'quotidien' ? 'quotidien' : 'hebdo';
+  const dateSlug = new Date().toISOString().slice(0, 10);
+  const filename = `early-brief-${destLabel}${edition ? '-' + edition : ''}-${dateSlug}.md`;
+  const blob = new Blob([md], { type: 'text/markdown;charset=utf-8' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = filename;
+  a.click();
+  URL.revokeObjectURL(a.href);
+  try { navigator.clipboard.writeText(md); } catch(e) {}
+  showToast('Fichier téléchargé : ' + filename);
 
   // Mark edition in history
   const hashes = pending.items.map(i => i.hash);
