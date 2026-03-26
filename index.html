@@ -1310,7 +1310,7 @@ function getFilteredItems() {
   const minScore = parseInt(document.getElementById('filter-score').value) || 0;
   const docType = document.getElementById('filter-doctype').value;
   const actionFilter = document.getElementById('filter-action').value;
-  const sourceFilter = document.getElementById('filter-source').value;
+  const sourceFilter = state.sourceFilter || document.getElementById('filter-source').value;
   const dateFrom = document.getElementById('filter-date-from').value;
   const dateTo = document.getElementById('filter-date-to').value;
   const sortBy = document.getElementById('sort-by').value;
