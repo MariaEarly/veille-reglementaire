@@ -45,6 +45,9 @@ SEED_SOURCES = [
     # OFAC RSS removed (returns page metadata, not actual actions)
     # Real OFAC data comes via Cowork scrape task (Recent Actions + Treasury Press)
     {"name": "OpenSanctions", "url": "https://www.opensanctions.org/changelog/rss/", "type": "rss", "category": "autorite_intl"},
+    # ACPR — pas de RSS, site JS lourd, Google News RSS comme proxy
+    {"name": "ACPR", "url": "https://news.google.com/rss/search?q=site:acpr.banque-france.fr&hl=fr&gl=FR&ceid=FR:fr", "type": "rss", "category": "autorite_fr"},
+    {"name": "ACPR (presse)", "url": "https://news.google.com/rss/search?q=%22ACPR%22+%22blanchiment%22+OR+%22LCB-FT%22+OR+%22sanctions%22+OR+%22agr%C3%A9ment%22+OR+%22prudentiel%22&hl=fr&gl=FR&ceid=FR:fr", "type": "press", "category": "presse"},
     # Justice FR
     {"name": "PNF (Parquet National Financier)", "url": "https://social.numerique.gouv.fr/@pnf.rss", "type": "rss", "category": "autorite_fr"},
     {"name": "Ministère de la Justice (CJIP)", "url": "https://www.justice.gouv.fr/rss.xml", "type": "rss", "category": "autorite_fr"},
@@ -141,6 +144,7 @@ _REGEX_KEYWORDS = [
 ]
 
 CORE_COMPLIANCE_SOURCES = {
+    "ACPR",
     "AMF - Mises en garde",
     "Tracfin",
     "OFAC - Recent Actions",
