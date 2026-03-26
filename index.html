@@ -1384,7 +1384,10 @@ function renderCard(item, full) {
 
   const isSocial = item.source_type === 'social';
   if (isSocial) {
-    footer += `<span class="chip social-signal">Signal</span>`;
+    const isLinkedIn = /linkedin/i.test(item.source);
+    const isX = /\(X\)/i.test(item.source);
+    const socialLabel = isLinkedIn ? 'in LinkedIn' : isX ? '𝕏' : 'Social';
+    footer += `<span class="chip social-signal" style="font-size:11px;">${socialLabel}</span>`;
   }
 
   if (item.published_in_edition) {
