@@ -701,8 +701,41 @@
     .early-brief-marker {
       margin-left: auto;
       font-size: 11px;
-      color: var(--rose);
+      color: var(--brand);
       font-weight: 500;
+    }
+
+    /* Destination toggles Q/H */
+    .dest-toggles {
+      display: flex;
+      gap: 4px;
+      margin-left: auto;
+    }
+    .dest-btn {
+      width: 24px;
+      height: 20px;
+      border: 1px solid var(--color-border-secondary);
+      border-radius: 4px;
+      background: transparent;
+      color: var(--color-text-tertiary);
+      font-size: 11px;
+      font-weight: 600;
+      font-family: var(--mono);
+      cursor: pointer;
+      transition: all 120ms;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      line-height: 1;
+    }
+    .dest-btn:hover {
+      border-color: var(--brand);
+      color: var(--brand);
+    }
+    .dest-btn.active {
+      background: var(--brand);
+      border-color: var(--brand);
+      color: #fff;
     }
 
     /* Detail panel */
@@ -1354,6 +1387,16 @@
           <div class="sidebar-item-label">Jurisprudence</div>
           <div class="sidebar-item-count" id="count-jurisprudence">0</div>
         </div>
+        <div class="sidebar-item" data-filter="fil" data-value="dest-quotidien">
+          <div class="sidebar-item-dot" style="background: var(--brand);"></div>
+          <div class="sidebar-item-label">À publier · Quotidien</div>
+          <div class="sidebar-item-count" id="count-dest-quotidien">0</div>
+        </div>
+        <div class="sidebar-item" data-filter="fil" data-value="dest-hebdo">
+          <div class="sidebar-item-dot" style="background: var(--brand);"></div>
+          <div class="sidebar-item-label">À publier · Hebdo</div>
+          <div class="sidebar-item-count" id="count-dest-hebdo">0</div>
+        </div>
         <div class="sidebar-section-divider"></div>
       </div>
 
@@ -1531,11 +1574,17 @@
     </div>
 
     <aside class="right-panel">
-      <div class="right-panel-header">Prochaine édition</div>
-      <div class="right-panel-subheader" id="draft-count">0 articles sélectionnés</div>
-      <div class="draft-items" id="draft-items"></div>
-      <button class="export-btn" onclick="exportBrief()">Exporter Markdown</button>
-      <button class="export-btn rediger-btn" onclick="openRediger()" style="margin-top:6px; background: var(--color-text-primary); color: #fff;">Rédiger les brèves</button>
+      <div class="right-panel-header">Quotidien</div>
+      <div class="right-panel-subheader" id="draft-count-q">0 articles</div>
+      <div class="draft-items" id="draft-items-q"></div>
+      <button class="export-btn" onclick="exportBrief('quotidien')">Exporter Quotidien</button>
+      <div style="margin-top:16px; padding-top:12px; border-top: 0.5px solid var(--color-border-tertiary);">
+        <div class="right-panel-header">Hebdo</div>
+        <div class="right-panel-subheader" id="draft-count-h">0 articles</div>
+        <div class="draft-items" id="draft-items-h"></div>
+        <button class="export-btn" onclick="exportBrief('hebdo')">Exporter Hebdo</button>
+      </div>
+      <button class="export-btn rediger-btn" onclick="openRediger()" style="margin-top:12px; background: var(--color-text-primary); color: #fff;">Rédiger les brèves</button>
     </aside>
   </div>
 </div>
@@ -1609,7 +1658,9 @@ async function loadLocalState() {
     if (error) throw error;
     const result = {};
     (data || []).forEach(row => {
-      result[row.hash] = { status: row.status, early_brief: row.early_brief, note: row.note || '' };
+      // Migration: early_brief → destinations
+      const dest = row.destinations || (row.early_brief ? ['quotidien'] : []);
+      result[row.hash] = { status: row.status, destinations: dest, note: row.note || '' };
     });
     try { localStorage.setItem('veille_local', JSON.stringify(result)); } catch(e) {}
     return result;
@@ -1619,15 +1670,15 @@ async function loadLocalState() {
   }
 }
 
-async function saveItemState(hash, status, early_brief, note) {
+async function saveItemState(hash, status, destinations, note) {
   try {
     const local = JSON.parse(localStorage.getItem('veille_local') || '{}');
-    local[hash] = { status, early_brief, note: note || '' };
+    local[hash] = { status, destinations: destinations || [], note: note || '' };
     localStorage.setItem('veille_local', JSON.stringify(local));
   } catch(e) {}
   try {
     const { error } = await sb.from('article_state').upsert({
-      hash, status, early_brief, note: note || '', updated_at: new Date().toISOString()
+      hash, status, destinations: destinations || [], early_brief: (destinations && destinations.length > 0), note: note || '', updated_at: new Date().toISOString()
     }, { onConflict: 'hash' });
     if (error) console.warn('Supabase write failed:', error.message);
   } catch(e) {
@@ -1664,7 +1715,7 @@ async function fetchData() {
         action_class: item.action_class || 'info',
         is_primary: item.is_primary || false,
         status: localItem.status || item.status || (item.score >= 40 ? 'important' : 'new'),
-        early_brief: localItem.early_brief !== undefined ? localItem.early_brief : (item.early_brief || false),
+        destinations: localItem.destinations || (localItem.early_brief ? ['quotidien'] : []),
         note: localItem.note || '',
         ai_summary: item.ai_summary || null,
         published_in_edition: item.published_in_edition || false,
@@ -1806,9 +1857,12 @@ function renderCard(item, full) {
     footer += `<span class="chip" style="background:#e8e8e8; color:#888;">Déjà publié</span>`;
   }
 
-  if (item.early_brief) {
-    footer += `<span class="early-brief-marker">Early Brief</span>`;
-  }
+  const hasQ = item.destinations && item.destinations.includes('quotidien');
+  const hasH = item.destinations && item.destinations.includes('hebdo');
+  footer += `<div class="dest-toggles">`;
+  footer += `<button class="dest-btn${hasQ ? ' active' : ''}" onclick="event.stopPropagation(); toggleDest(${item.id}, 'quotidien')" title="Quotidien">Q</button>`;
+  footer += `<button class="dest-btn${hasH ? ' active' : ''}" onclick="event.stopPropagation(); toggleDest(${item.id}, 'hebdo')" title="Hebdo">H</button>`;
+  footer += `</div>`;
 
   let cardClass = 'card';
   if (isSocial) cardClass += ' social-source';
@@ -1843,7 +1897,8 @@ function renderCard(item, full) {
         </div>
         <div class="detail-actions">
           ${item.url ? `<a href="${esc(item.url)}" target="_blank" rel="noreferrer" class="detail-btn" onclick="event.stopPropagation()">Ouvrir</a>` : ''}
-          <button class="detail-btn" onclick="event.stopPropagation(); toggleBrief(${item.id})">${item.early_brief ? 'Retirer d\'Early Brief' : 'Ajouter à Early Brief'}</button>
+          <button class="detail-btn" onclick="event.stopPropagation(); toggleDest(${item.id}, 'quotidien')">${hasQ ? '✓ Quotidien' : '+ Quotidien'}</button>
+          <button class="detail-btn" onclick="event.stopPropagation(); toggleDest(${item.id}, 'hebdo')">${hasH ? '✓ Hebdo' : '+ Hebdo'}</button>
           <button class="detail-btn" onclick="event.stopPropagation(); cycleStatus(${item.id})">Changer le statut</button>
         </div>
       </div>
@@ -1870,6 +1925,10 @@ function getFilteredItems() {
     items = items.filter(i => primaryCats.has(i.category));
   } else if (state.filFilter === 'jurisprudence') {
     items = items.filter(i => i.category === 'jurisprudence');
+  } else if (state.filFilter === 'dest-quotidien') {
+    items = items.filter(i => i.destinations && i.destinations.includes('quotidien'));
+  } else if (state.filFilter === 'dest-hebdo') {
+    items = items.filter(i => i.destinations && i.destinations.includes('hebdo'));
   }
   if (q) items = items.filter(i => i.title.toLowerCase().includes(q) || (i.summary||'').toLowerCase().includes(q));
   if (cat) items = items.filter(i => i.category === cat);
@@ -1908,21 +1967,24 @@ function renderFeed() {
 }
 
 function renderBrief() {
-  const items = state.items.filter(i => i.early_brief).sort((a, b) => b.score - a.score);
-  const el = document.getElementById('draft-items');
-  const countEl = document.getElementById('draft-count');
-  countEl.textContent = items.length + ' article' + (items.length > 1 ? 's' : '') + ' sélectionné' + (items.length > 1 ? 's' : '');
-  if (!items.length) {
-    el.innerHTML = '';
-    return;
-  }
-  el.innerHTML = items.map(i => `
-    <div class="draft-item">
-      <button class="draft-item-remove" onclick="event.stopPropagation(); toggleBrief(${i.id})" title="Retirer">×</button>
-      <div class="draft-item-title">${esc(i.title)}</div>
-      <div class="draft-item-source">${esc(i.source)}</div>
-    </div>
-  `).join('');
+  ['quotidien', 'hebdo'].forEach(dest => {
+    const suffix = dest === 'quotidien' ? 'q' : 'h';
+    const items = state.items.filter(i => i.destinations && i.destinations.includes(dest)).sort((a, b) => b.score - a.score);
+    const el = document.getElementById('draft-items-' + suffix);
+    const countEl = document.getElementById('draft-count-' + suffix);
+    countEl.textContent = items.length + ' article' + (items.length > 1 ? 's' : '');
+    if (!items.length) {
+      el.innerHTML = '';
+      return;
+    }
+    el.innerHTML = items.map(i => `
+      <div class="draft-item">
+        <button class="draft-item-remove" onclick="event.stopPropagation(); toggleDest(${i.id}, '${dest}')" title="Retirer">×</button>
+        <div class="draft-item-title">${esc(i.title)}</div>
+        <div class="draft-item-source">${esc(i.source)}</div>
+      </div>
+    `).join('');
+  });
 }
 
 function renderSidebar() {
@@ -1936,13 +1998,16 @@ function renderSidebar() {
     status_reviewed: state.items.filter(i => i.status === 'reviewed').length,
     status_draft: state.items.filter(i => i.status === 'draft').length,
     status_archived: state.items.filter(i => i.status === 'archived').length,
+    dest_quotidien: state.items.filter(i => i.destinations && i.destinations.includes('quotidien')).length,
+    dest_hebdo: state.items.filter(i => i.destinations && i.destinations.includes('hebdo')).length,
   };
 
   document.getElementById('count-tous').textContent = counts.tous;
   document.getElementById('count-fresh').textContent = counts.fresh;
   document.getElementById('count-primary').textContent = counts.primary;
   document.getElementById('count-jurisprudence').textContent = counts.jurisprudence;
-  // Status counts removed from sidebar — now in topbar dropdown
+  document.getElementById('count-dest-quotidien').textContent = counts.dest_quotidien;
+  document.getElementById('count-dest-hebdo').textContent = counts.dest_hebdo;
 
   const sourcesList = document.getElementById('sources-list');
   const sourceCounts = {};
@@ -2008,7 +2073,7 @@ window.toggleGroup = function(header) {
 
 function updateStats() {
   const fresh = state.items.filter(i => isFresh(i.published)).length;
-  const important = state.items.filter(i => i.status === 'draft').length;
+  const important = state.items.filter(i => i.destinations && i.destinations.length > 0).length;
   document.getElementById('stat-total').textContent = state.items.length;
   document.getElementById('stat-fresh').textContent = fresh;
   document.getElementById('stat-important').textContent = important;
@@ -2043,15 +2108,24 @@ function renderCurrentTab() {
 }
 
 // Actions — Supabase + localStorage fallback
-window.toggleBrief = function(id) {
+window.toggleDest = function(id, dest) {
   const item = state.items.find(i => i.id === id);
   if (item) {
-    item.early_brief = !item.early_brief;
-    saveItemState(item.hash, item.status, item.early_brief, item.note);
-    showToast(item.early_brief ? '★ Ajouté à Early Brief' : 'Retiré d\'Early Brief');
+    if (!item.destinations) item.destinations = [];
+    const idx = item.destinations.indexOf(dest);
+    if (idx >= 0) {
+      item.destinations.splice(idx, 1);
+      showToast(`Retiré de ${dest === 'quotidien' ? 'Quotidien' : 'Hebdo'}`);
+    } else {
+      item.destinations.push(dest);
+      showToast(`★ Ajouté au ${dest === 'quotidien' ? 'Quotidien' : 'Hebdo'}`);
+    }
+    saveItemState(item.hash, item.status, item.destinations, item.note);
     renderCurrentTab();
   }
 };
+// Legacy compat
+window.toggleBrief = function(id) { toggleDest(id, 'quotidien'); };
 
 window.applyStatusFilter = function(val) {
   document.getElementById('filter-status').value = val;
@@ -2065,7 +2139,7 @@ window.cycleStatus = function(id) {
   if (item) {
     const idx = order.indexOf(item.status);
     item.status = order[(idx + 1) % order.length];
-    saveItemState(item.hash, item.status, item.early_brief, item.note);
+    saveItemState(item.hash, item.status, item.destinations, item.note);
     showToast('Statut : ' + (labels[item.status] || item.status));
     renderCurrentTab();
   }
@@ -2076,18 +2150,20 @@ window.saveNote = function(id) {
   const input = document.getElementById('note-' + id);
   if (item && input) {
     item.note = input.value.trim();
-    saveItemState(item.hash, item.status, item.early_brief, item.note);
+    saveItemState(item.hash, item.status, item.destinations, item.note);
     showToast('Note enregistrée');
   }
 };
 
-window.exportBrief = function() {
-  const items = state.items.filter(i => i.early_brief).sort((a, b) => b.score - a.score);
-  if (!items.length) { showToast('Aucun article dans Early Brief'); return; }
+window.exportBrief = function(dest) {
+  dest = dest || 'quotidien';
+  const label = dest === 'quotidien' ? 'Quotidien' : 'Hebdo';
+  const items = state.items.filter(i => i.destinations && i.destinations.includes(dest)).sort((a, b) => b.score - a.score);
+  if (!items.length) { showToast('Aucun article dans ' + label); return; }
 
   const today = new Date().toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' });
   const todayISO = new Date().toISOString();
-  let md = `# Early Brief — ${today}\n\n`;
+  let md = `# Early Brief ${label} — ${today}\n\n`;
 
   items.forEach((item, idx) => {
     md += `## ${idx + 1}. ${item.title}\n\n`;
@@ -2109,10 +2185,10 @@ window.exportBrief = function() {
   catch(e) { showToast('Draft généré — sélectionnez et copiez'); }
 
   // Save edition + mark published
-  saveEdition(items, todayISO, md);
+  saveEdition(items, todayISO, md, dest);
 };
 
-function saveEdition(items, date, markdown) {
+function saveEdition(items, date, markdown, dest) {
   const edition = {
     date: date,
     label: new Date(date).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' }),
@@ -2135,11 +2211,15 @@ function saveEdition(items, date, markdown) {
   pubHashes.forEach(h => published.add(h));
   localStorage.setItem('earlybrief_published_hashes', JSON.stringify([...published]));
 
-  // Mark in state + deselect
+  // Mark in state + remove from destination
   state.items.forEach(i => {
     if (pubHashes.has(i.hash)) {
       i.published_in_edition = true;
-      i.early_brief = false;
+      // Remove only the exported destination, keep the other if set
+      if (i.destinations) {
+        const idx = i.destinations.indexOf(dest);
+        if (idx >= 0) i.destinations.splice(idx, 1);
+      }
     }
   });
 
@@ -2242,7 +2322,7 @@ window.toggleAdvancedFilters = function() {
 
 // Workflow: open rediger view
 window.openRediger = function() {
-  const items = state.items.filter(i => i.early_brief).sort((a, b) => b.score - a.score);
+  const items = state.items.filter(i => i.destinations && i.destinations.length > 0).sort((a, b) => b.score - a.score);
   if (!items.length) { showToast('Sélectionnez des articles d\'abord'); return; }
 
   const overlay = document.getElementById('rediger-overlay');
@@ -2277,8 +2357,9 @@ window.openRediger = function() {
     </div>`;
   });
 
-  html += `<div class="rediger-actions">
-    <button class="export-btn" onclick="exportBrief(); closeRediger();">Exporter en Markdown</button>
+  html += `<div class="rediger-actions" style="display:flex; gap:8px; justify-content:center;">
+    <button class="export-btn" style="flex:1;" onclick="exportBrief('quotidien'); closeRediger();">Exporter Quotidien</button>
+    <button class="export-btn" style="flex:1;" onclick="exportBrief('hebdo'); closeRediger();">Exporter Hebdo</button>
   </div>`;
 
   content.innerHTML = html;
@@ -2294,7 +2375,7 @@ window.saveRedigerNote = function(id) {
   const textarea = document.getElementById('rediger-note-' + id);
   if (item && textarea) {
     item.note = textarea.value.trim();
-    saveItemState(item.hash, item.status, item.early_brief, item.note);
+    saveItemState(item.hash, item.status, item.destinations, item.note);
     showToast('Note enregistrée');
   }
 };
