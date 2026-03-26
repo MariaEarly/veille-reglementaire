@@ -141,10 +141,16 @@ CORE_COMPLIANCE_SOURCES = {
     "JORF - Blanchiment",
     "JORF - Gel des avoirs",
     "GAFI/FATF Statements",
+    "GAFI/FATF",
     "FinCrime Central",
     "Financial Crime News",
     "AMLA - Anti-Money Laundering Authority",
     "ESMA - European Securities and Markets Authority",
+    "Wolfsberg Group",
+    "Egmont Group",
+    "Interpol",
+    "Conseil de l'UE",
+    "CJUE",
 }
 # Sources qui passent mais avec filtre léger (keyword compliance)
 # AMF Actualités, EBA, ECB, ANSSI, etc. = doivent matcher des keywords
