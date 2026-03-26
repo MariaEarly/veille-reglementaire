@@ -54,21 +54,20 @@ SEED_SOURCES = [
     # Gmail (unique entry, configured via env vars)
     {"name": "Gmail - Newsletters", "source_type": "gmail", "url": None, "category": "email"},
 
-    # Social feeds via RSS.app — URLs to be filled after RSS.app setup
+    # Social feeds via RSS.app (Basic plan, 9/15 feeds used)
     # X (Twitter)
-    {"name": "ACPR (X)", "source_type": "social", "url": None, "category": "social"},
-    {"name": "AMF France (X)", "source_type": "social", "url": None, "category": "social"},
-    {"name": "Tracfin (X)", "source_type": "social", "url": None, "category": "social"},
-    {"name": "EBA (X)", "source_type": "social", "url": None, "category": "social"},
-    {"name": "ESMA (X)", "source_type": "social", "url": None, "category": "social"},
-    {"name": "FATF/GAFI (X)", "source_type": "social", "url": None, "category": "social"},
-    {"name": "BCE/ECB (X)", "source_type": "social", "url": None, "category": "social"},
-    {"name": "Commission EU Finance (X)", "source_type": "social", "url": None, "category": "social"},
+    {"name": "AMF France (X)", "source_type": "social", "url": "https://rss.app/feeds/bCPK9N5ApKDZ18Dy.xml", "category": "social"},
+    {"name": "EBA (X)", "source_type": "social", "url": "https://rss.app/feeds/QviSp2dr0dtYvtzf.xml", "category": "social"},
+    {"name": "ESMA (X)", "source_type": "social", "url": "https://rss.app/feeds/Ux1qsUgczt11vW30.xml", "category": "social"},
+    {"name": "FATF/GAFI (X)", "source_type": "social", "url": "https://rss.app/feeds/PxhJ61P1z3aEDvd1.xml", "category": "social"},
+    {"name": "BCE/ECB (X)", "source_type": "social", "url": "https://rss.app/feeds/o0xNXN8unJh9rSkU.xml", "category": "social"},
+    {"name": "Commission EU Finance (X)", "source_type": "social", "url": "https://rss.app/feeds/7IN64UeEwhae0u54.xml", "category": "social"},
+    {"name": "Banque de France (X)", "source_type": "social", "url": "https://rss.app/feeds/7s2zaEUmEv4749Jp.xml", "category": "social"},
     # LinkedIn
-    {"name": "ACPR (LinkedIn)", "source_type": "social", "url": None, "category": "social"},
-    {"name": "AMF France (LinkedIn)", "source_type": "social", "url": None, "category": "social"},
-    {"name": "EBA (LinkedIn)", "source_type": "social", "url": None, "category": "social"},
-    {"name": "FATF/GAFI (LinkedIn)", "source_type": "social", "url": None, "category": "social"},
+    {"name": "Tracfin (LinkedIn)", "source_type": "social", "url": "https://rss.app/feeds/QrJZllVNrJvGjRbb.xml", "category": "social"},
+    {"name": "EBA (LinkedIn)", "source_type": "social", "url": "https://rss.app/feeds/DI2CHpgDUF6UWXmk.xml", "category": "social"},
+    # Note: ESMA LinkedIn & FATF LinkedIn failed on RSS.app (no posts found)
+    # Note: ACPR has no dedicated X account (uses Banque de France), Tracfin has no X account
 ]
 
 
