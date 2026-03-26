@@ -221,6 +221,10 @@
       background: var(--purple-light);
       color: var(--purple-text);
     }
+    .tag-status.draft {
+      background: #fff7ed;
+      color: #c2410c;
+    }
     .tag-status.archived {
       background: #f3f4f6;
       color: var(--subtle);
@@ -436,6 +440,40 @@
       border-radius: 4px;
     }
 
+    /* Note field */
+    .note-row {
+      display: flex; gap: 8px; align-items: center; margin-top: 10px;
+    }
+    .note-input {
+      flex: 1; padding: 7px 12px; border: 1px solid var(--border);
+      font-family: var(--sans); font-size: 0.82rem; color: var(--text);
+      background: var(--bg); border-radius: var(--radius);
+      transition: all 150ms;
+    }
+    .note-input:focus {
+      outline: none; border-color: var(--brand);
+      box-shadow: 0 0 0 3px rgba(44, 74, 46, 0.12);
+      background: var(--surface);
+    }
+    .note-input::placeholder { color: var(--subtle); }
+    .note-badge {
+      display: inline-block; font-size: 0.75rem; color: var(--muted);
+      font-style: italic; margin-top: 6px;
+      max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+    }
+
+    /* Export button */
+    .export-bar {
+      display: flex; gap: 10px; align-items: center; margin-bottom: 20px;
+    }
+    .btn-export {
+      padding: 9px 18px; font-family: var(--mono); font-size: 0.78rem;
+      background: var(--brand); color: var(--surface); border: none;
+      border-radius: var(--radius); cursor: pointer; font-weight: 500;
+      transition: all 120ms;
+    }
+    .btn-export:hover { background: var(--brand-dark); }
+
     /* Score tooltip */
     .score-wrapper {
       position: relative;
@@ -537,6 +575,7 @@
         <option value="new">Nouveau</option>
         <option value="important">Important</option>
         <option value="reviewed">Relu</option>
+        <option value="draft">À publier</option>
         <option value="archived">Archivé</option>
       </select>
       <select class="filter-select" id="filter-score">
@@ -582,8 +621,12 @@
 
   <!-- Early Brief -->
   <div id="panel-brief" style="display:none;">
-    <p style="margin-bottom:16px; color:var(--muted); font-size:0.9rem;">Articles sélectionnés pour la prochaine édition.</p>
+    <div class="export-bar">
+      <p style="color:var(--muted); font-size:0.9rem; flex:1;">Articles sélectionnés pour la prochaine édition.</p>
+      <button class="btn-export" onclick="exportBrief()">Exporter le draft</button>
+    </div>
     <div class="cards" id="brief-cards"></div>
+    <textarea id="brief-export" style="display:none; width:100%; min-height:300px; margin-top:20px; padding:16px; font-family:var(--mono); font-size:0.82rem; border:1px solid var(--border); border-radius:var(--radius); background:var(--surface); color:var(--text); line-height:1.7; resize:vertical;"></textarea>
   </div>
 
   <!-- Sources -->
@@ -609,7 +652,7 @@ async function loadLocalState() {
     if (error) throw error;
     const result = {};
     (data || []).forEach(row => {
-      result[row.hash] = { status: row.status, early_brief: row.early_brief };
+      result[row.hash] = { status: row.status, early_brief: row.early_brief, note: row.note || '' };
     });
     // Cache locally for offline fallback
     try { localStorage.setItem('veille_local', JSON.stringify(result)); } catch(e) {}
@@ -620,17 +663,17 @@ async function loadLocalState() {
   }
 }
 
-async function saveItemState(hash, status, early_brief) {
+async function saveItemState(hash, status, early_brief, note) {
   // Update localStorage cache immediately
   try {
     const local = JSON.parse(localStorage.getItem('veille_local') || '{}');
-    local[hash] = { status, early_brief };
+    local[hash] = { status, early_brief, note: note || '' };
     localStorage.setItem('veille_local', JSON.stringify(local));
   } catch(e) {}
   // Upsert to Supabase
   try {
     const { error } = await sb.from('article_state').upsert({
-      hash, status, early_brief, updated_at: new Date().toISOString()
+      hash, status, early_brief, note: note || '', updated_at: new Date().toISOString()
     }, { onConflict: 'hash' });
     if (error) console.warn('Supabase write failed:', error.message);
   } catch(e) {
@@ -668,6 +711,7 @@ async function fetchData() {
         is_primary: item.is_primary || false,
         status: localItem.status || item.status || (item.score >= 40 ? 'important' : 'new'),
         early_brief: localItem.early_brief !== undefined ? localItem.early_brief : (item.early_brief || false),
+        note: localItem.note || '',
         ai_summary: item.ai_summary || null,
       };
     });
@@ -761,7 +805,8 @@ function renderCard(item, full) {
         </div>
         ${item.summary ? `<div class="card-summary">${esc(item.summary)}</div>` : ''}
         ${item.ai_summary ? `<div class="card-ai-summary">${esc(item.ai_summary)}</div>` : ''}
-        <div class="card-date">${relDate(item.published)}</div>
+        <div class="card-date">${relDate(item.published)}${item.note ? ` · ` : ''}</div>
+        ${item.note ? `<div class="note-badge">${esc(item.note)}</div>` : ''}
 
         <div class="card-detail">
           <div class="detail-grid">
@@ -770,6 +815,10 @@ function renderCard(item, full) {
             <div class="detail-field"><label>Score</label><span>${item.score}/100 — ${esc(item.score_breakdown || '')}</span></div>
             <div class="detail-field"><label>Type / Action</label><span>${item.doc_type || '—'} · ${item.action_class === 'action' ? 'Action requise' : 'Informatif'}</span></div>
             ${item.author ? `<div class="detail-field"><label>Auteur</label><span>${esc(item.author)}</span></div>` : ''}
+          </div>
+          <div class="note-row" onclick="event.stopPropagation()">
+            <input class="note-input" id="note-${item.id}" type="text" placeholder="Ajouter une note (angle, action, remarque)..." value="${esc(item.note)}" onkeydown="if(event.key==='Enter'){saveNote(${item.id});}" />
+            <button class="detail-btn" onclick="saveNote(${item.id})">Sauver</button>
           </div>
           <div class="detail-actions">
             ${item.url ? `<a href="${esc(item.url)}" target="_blank" rel="noreferrer" class="detail-btn detail-btn-primary" onclick="event.stopPropagation()">Ouvrir la source</a>` : ''}
@@ -890,22 +939,60 @@ window.toggleBrief = function(id) {
   const item = state.items.find(i => i.id === id);
   if (item) {
     item.early_brief = !item.early_brief;
-    saveItemState(item.hash, item.status, item.early_brief);
+    saveItemState(item.hash, item.status, item.early_brief, item.note);
     showToast(item.early_brief ? '★ Ajouté à Early Brief' : 'Retiré d\'Early Brief');
     renderCurrentTab();
   }
 };
 
 window.cycleStatus = function(id) {
-  const order = ['new', 'important', 'reviewed', 'archived'];
+  const order = ['new', 'important', 'reviewed', 'draft', 'archived'];
+  const labels = { new: 'Nouveau', important: 'Important', reviewed: 'Relu', draft: 'À publier', archived: 'Archivé' };
   const item = state.items.find(i => i.id === id);
   if (item) {
     const idx = order.indexOf(item.status);
     item.status = order[(idx + 1) % order.length];
-    saveItemState(item.hash, item.status, item.early_brief);
-    showToast('Statut : ' + item.status);
+    saveItemState(item.hash, item.status, item.early_brief, item.note);
+    showToast('Statut : ' + (labels[item.status] || item.status));
     renderCurrentTab();
   }
+};
+
+window.saveNote = function(id) {
+  const item = state.items.find(i => i.id === id);
+  const input = document.getElementById('note-' + id);
+  if (item && input) {
+    item.note = input.value.trim();
+    saveItemState(item.hash, item.status, item.early_brief, item.note);
+    showToast('Note enregistrée');
+  }
+};
+
+window.exportBrief = function() {
+  const items = state.items.filter(i => i.early_brief).sort((a, b) => b.score - a.score);
+  if (!items.length) { showToast('Aucun article dans Early Brief'); return; }
+
+  const today = new Date().toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' });
+  let md = `# Early Brief — ${today}\n\n`;
+
+  items.forEach((item, idx) => {
+    md += `## ${idx + 1}. ${item.title}\n\n`;
+    if (item.note) md += `**Angle :** ${item.note}\n\n`;
+    if (item.summary) md += `${item.summary}\n\n`;
+    md += `**Source :** ${item.source} (${catLabel(item.category)})`;
+    if (item.published) md += ` — ${fmtDate(item.published)}`;
+    md += `\n`;
+    if (item.url) md += `**Lien :** ${item.url}\n`;
+    if (item.doc_type) md += `**Type :** ${item.doc_type}\n`;
+    md += `\n---\n\n`;
+  });
+
+  const textarea = document.getElementById('brief-export');
+  textarea.style.display = 'block';
+  textarea.value = md;
+  textarea.select();
+  try { navigator.clipboard.writeText(md); showToast('Draft copié dans le presse-papier'); }
+  catch(e) { showToast('Draft généré — sélectionnez et copiez'); }
 };
 
 // Tab nav
@@ -939,14 +1026,21 @@ function renderCockpit() {
   const el = document.getElementById('cockpit');
   if (!state.items.length) { el.innerHTML = ''; return; }
 
-  // Top 3 by score (new items only)
-  const top3 = [...state.items]
-    .filter(i => i.status === 'new' || i.status === 'important')
+  const now = Date.now();
+
+  // Section 1: Sources primaires nouvelles (<48h, is_primary)
+  const freshPrimary = [...state.items]
+    .filter(i => i.is_primary && i.published && (now - new Date(i.published).getTime()) < 48 * 3600 * 1000)
     .sort((a, b) => b.score - a.score)
-    .slice(0, 3);
+    .slice(0, 4);
+
+  // Section 2: À qualifier (score > 30, status = new)
+  const toQualify = [...state.items]
+    .filter(i => i.score >= 30 && i.status === 'new')
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 4);
 
   // Silent sources (>48h since last article)
-  const now = Date.now();
   const sourceLastSeen = {};
   state.items.forEach(i => {
     if (!i.published) return;
@@ -956,18 +1050,15 @@ function renderCockpit() {
   const silent = Object.entries(sourceLastSeen)
     .filter(([_, t]) => (now - t) > 48 * 3600 * 1000)
     .sort((a, b) => a[1] - b[1])
-    .slice(0, 4);
-
-  const primaryCount = state.items.filter(i => i.is_primary).length;
-  const freshPrimary = state.items.filter(i => i.is_primary && isFresh(i.published)).length;
+    .slice(0, 3);
 
   let html = '<div class="cockpit-grid">';
 
-  // Left: top items
-  html += '<div class="cockpit-section"><h3>À traiter maintenant</h3>';
-  if (top3.length) {
-    top3.forEach(item => {
-      const url = item.url ? `<a href="${esc(item.url)}" target="_blank">${esc(item.title.substring(0, 70))}${item.title.length > 70 ? '…' : ''}</a>` : esc(item.title.substring(0, 70));
+  // Left: Sources primaires nouvelles
+  html += '<div class="cockpit-section"><h3>Sources primaires — nouveau</h3>';
+  if (freshPrimary.length) {
+    freshPrimary.forEach(item => {
+      const url = item.url ? `<a href="${esc(item.url)}" target="_blank">${esc(item.title.substring(0, 65))}${item.title.length > 65 ? '…' : ''}</a>` : esc(item.title.substring(0, 65));
       html += `<div class="cockpit-item">
         <div class="mini-score ${scoreClass(item.score)}">${item.score}</div>
         ${url}
@@ -975,20 +1066,30 @@ function renderCockpit() {
       </div>`;
     });
   } else {
-    html += '<div class="cockpit-alert"><span class="dot-green"></span> Rien de critique en attente</div>';
+    html += '<div class="cockpit-alert"><span class="dot-green"></span> Aucune publication primaire récente</div>';
   }
-  html += '</div>';
-
-  // Right: alerts
-  html += '<div class="cockpit-section"><h3>Santé des sources</h3>';
-  html += `<div class="cockpit-alert"><span class="dot-green"></span> ${primaryCount} articles de sources primaires (${freshPrimary} &lt;24h)</div>`;
+  // Source health alerts inline
   if (silent.length) {
     silent.forEach(([src, t]) => {
       const days = Math.floor((now - t) / (24 * 3600 * 1000));
-      html += `<div class="cockpit-alert"><span class="dot-red"></span> ${esc(src)} — silencieuse depuis ${days}j</div>`;
+      html += `<div class="cockpit-alert"><span class="dot-red"></span> ${esc(src)} — silence ${days}j</div>`;
+    });
+  }
+  html += '</div>';
+
+  // Right: À qualifier
+  html += '<div class="cockpit-section"><h3>À qualifier</h3>';
+  if (toQualify.length) {
+    toQualify.forEach(item => {
+      const url = item.url ? `<a href="${esc(item.url)}" target="_blank">${esc(item.title.substring(0, 65))}${item.title.length > 65 ? '…' : ''}</a>` : esc(item.title.substring(0, 65));
+      html += `<div class="cockpit-item">
+        <div class="mini-score ${scoreClass(item.score)}">${item.score}</div>
+        ${url}
+        <span class="cockpit-source">${relDate(item.published)} · ${esc(item.source)}</span>
+      </div>`;
     });
   } else {
-    html += '<div class="cockpit-alert"><span class="dot-green"></span> Toutes les sources ont publié &lt;48h</div>';
+    html += '<div class="cockpit-alert"><span class="dot-green"></span> Tout est qualifié</div>';
   }
   html += '</div></div>';
 
