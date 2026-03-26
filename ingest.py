@@ -21,7 +21,7 @@ DATA_FILE = SCRIPT_DIR / "data.json"
 # ---------------------------------------------------------------------------
 SEED_SOURCES = [
     # Autorités FR
-    {"name": "AMF - Actualités", "url": "https://www.amf-france.org/fr/flux-rss/display/21", "type": "rss", "category": "autorite_fr"},
+    {"name": "AMF - Communiqués", "url": "https://www.amf-france.org/fr/flux-rss/display/23", "type": "rss", "category": "autorite_fr"},
     {"name": "AMF - Mises en garde", "url": "https://www.amf-france.org/fr/flux-rss/display/28", "type": "rss", "category": "autorite_fr"},
     {"name": "Tracfin", "url": "https://www.economie.gouv.fr/tracfin/rss", "type": "rss", "category": "autorite_fr"},
     {"name": "DGCCRF", "url": "https://www.economie.gouv.fr/dgccrf/rss", "type": "rss", "category": "autorite_fr"},
@@ -33,11 +33,11 @@ SEED_SOURCES = [
     {"name": "ECB - Banking Supervision", "url": "https://www.bankingsupervision.europa.eu/rss/press.html", "type": "rss", "category": "autorite_eu"},
     {"name": "ECB - Press Releases", "url": "https://www.ecb.europa.eu/rss/press.html", "type": "rss", "category": "autorite_eu"},
     {"name": "ECB - Blog", "url": "https://www.ecb.europa.eu/rss/blog.html", "type": "rss", "category": "autorite_eu"},
-    {"name": "EDPB - European Data Protection Board", "url": "https://www.edpb.europa.eu/rss_en", "type": "rss", "category": "autorite_eu"},
+    {"name": "EDPB - European Data Protection Board", "url": "https://www.edpb.europa.eu/feed/news_en", "type": "rss", "category": "autorite_eu"},
     {"name": "AMLA - Anti-Money Laundering Authority", "url": "https://www.amla.europa.eu/node/19/rss_en", "type": "rss", "category": "autorite_eu"},
     {"name": "ESMA - European Securities and Markets Authority", "url": "https://www.esma.europa.eu/rss.xml", "type": "rss", "category": "autorite_eu"},
     {"name": "Europol", "url": "https://www.europol.europa.eu/cms/api/rss/news", "type": "rss", "category": "autorite_eu"},
-    {"name": "Eurojust", "url": "https://www.eurojust.europa.eu/rss.xml", "type": "rss", "category": "autorite_eu"},
+    {"name": "Eurojust", "url": "https://www.eurojust.europa.eu/rss/news.xml", "type": "rss", "category": "autorite_eu"},
     {"name": "Commission EU - Press", "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en&pageSize=50", "type": "rss", "category": "autorite_eu"},
     # International
     {"name": "BIS - Speeches", "url": "https://www.bis.org/doclist/cbspeeches.rss", "type": "rss", "category": "autorite_intl"},
@@ -56,11 +56,11 @@ SEED_SOURCES = [
     {"name": "JORF - Gel des avoirs", "url": "https://legifrss.org/latest?q=gel+des+avoirs", "type": "rss", "category": "autorite_fr"},
     {"name": "JORF - Crypto/PSAN", "url": "https://legifrss.org/latest?q=crypto", "type": "rss", "category": "autorite_fr"},
     # Presse spécialisée
-    {"name": "Les Echos Finance", "url": "https://www.lesechos.fr/rss/rss_finance.xml", "type": "press", "category": "presse"},
+    {"name": "BFM Business Économie", "url": "https://www.bfmtv.com/rss/economie/", "type": "press", "category": "presse"},
     {"name": "Le Monde Économie", "url": "https://www.lemonde.fr/economie/rss_full.xml", "type": "press", "category": "presse"},
-    {"name": "FinCrime Central", "url": "https://fincrimecentral.com/feed/", "type": "press", "category": "presse"},
+    {"name": "Corporate Compliance Insights", "url": "https://www.corporatecomplianceinsights.com/feed/", "type": "press", "category": "presse"},
     {"name": "Financial Crime News", "url": "https://thefinancialcrimenews.com/feed/", "type": "press", "category": "presse"},
-    {"name": "GAFI/FATF Statements", "url": "https://www.fatf-gafi.org/rss/fatf-news.xml", "type": "rss", "category": "autorite_intl"},
+    {"name": "ComplyAdvantage", "url": "https://complyadvantage.com/insights/feed/", "type": "press", "category": "presse"},
     # Commission EU — Sanctions guidance & alerts (RSS fonctionnel)
     {"name": "Commission EU - Sanctions", "url": "https://finance.ec.europa.eu/node/1296/rss_en", "type": "rss", "category": "autorite_eu"},
     {"name": "Commission EU - Sanctions FAQ", "url": "https://finance.ec.europa.eu/node/1068/rss_en", "type": "rss", "category": "autorite_eu"},
