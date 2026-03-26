@@ -313,7 +313,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +10 mots forts: acpr | +10 mots moyens: risque, banque | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "abe98bb51d8b2139",
@@ -330,7 +332,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'AMLA organise une audience publique sur des projets de normes techniques relatives à la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car l'AMLA organise une audience publique sur des projets de normes techniques relatives à la lutte anti-blanchiment.",
+      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, anti-money, amla | +12 Source EU",
+      "is_primary": true
     },
     {
       "hash": "684030b1acb69a68",
@@ -347,7 +351,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La nomination d'une nouvelle membre au conseil d'administration de l'AMLA concerne directement la gouvernance de l'autorité chargée de la lutte anti-blanchiment."
+      "ai_summary": "La nomination d'une nouvelle membre au conseil d'administration de l'AMLA concerne directement la gouvernance de l'autorité chargée de la lutte anti-blanchiment.",
+      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, anti-money, amla | +12 Source EU",
+      "is_primary": true
     },
     {
       "hash": "fa794222d2a15f5f",
@@ -364,7 +370,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots critiques: fraud | +10 mots forts: acpr | +5 mots moyens: paiement | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "e492c1d1721f6335",
@@ -381,7 +389,9 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté modifie les modalités de rémunération des membres des autorités administratives indépendantes, concernant directement la conformité financière et la gouvernance de ces entités."
+      "ai_summary": "Cet arrêté modifie les modalités de rémunération des membres des autorités administratives indépendantes, concernant directement la conformité financière et la gouvernance de ces entités.",
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: audit | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "5f13dd20f105e974",
@@ -398,7 +408,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet exercice de collecte de données teste les modèles d'évaluation des risques de blanchiment, crucial pour la conformité AML."
+      "ai_summary": "Cet exercice de collecte de données teste les modèles d'évaluation des risques de blanchiment, crucial pour la conformité AML.",
+      "score_breakdown": "+20 mots forts: aml, amla | +5 mots moyens: risk | +12 Source EU",
+      "is_primary": true
     },
     {
       "hash": "7a042bef5b3b0e93",
@@ -415,7 +427,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article traite de la conformité financière car il présente la vision de l'AMLA pour un cadre AML unifié en Europe contre le blanchiment de capitaux."
+      "ai_summary": "L'article traite de la conformité financière car il présente la vision de l'AMLA pour un cadre AML unifié en Europe contre le blanchiment de capitaux.",
+      "score_breakdown": "+20 mots forts: aml, amla | +5 mots moyens: bank | +12 Source EU",
+      "is_primary": true
     },
     {
       "hash": "31ad9974317917af",
@@ -432,7 +446,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les autorités de régulation financière européennes révisent les exigences d'évaluation de l'adéquation pour assurer la conformité des banques et entreprises d'investissement."
+      "ai_summary": "Les autorités de régulation financière européennes révisent les exigences d'évaluation de l'adéquation pour assurer la conformité des banques et entreprises d'investissement.",
+      "score_breakdown": "+20 mots forts: eba, esma | +5 mots moyens: bank | +12 Source EU",
+      "is_primary": true
     },
     {
       "hash": "0be9112307242fc2",
@@ -449,7 +465,9 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Hors périmètre compliance",
+      "score_breakdown": "+20 mots critiques: sanction | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "e44b0d75c34023be",
@@ -466,7 +484,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots forts: acpr, amf, crypto | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "15e5cac3e6b123e5",
@@ -483,7 +503,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots critiques: blanchiment, financement du terrorisme | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "b0f22b838ac775f4",
@@ -500,7 +522,9 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots critiques: sanction, fraud | +5 mots moyens: bank | +10 Source Intl",
+      "is_primary": false
     },
     {
       "hash": "970fc6e5767d9832",
@@ -517,7 +541,9 @@
       "early_brief": false,
       "doc_type": "SANCTION",
       "action_class": "action",
-      "ai_summary": "La BCE sanctionne une filiale Nordea pour dépassement des limites de concentration des risques, un enjeu clé de conformité réglementaire."
+      "ai_summary": "La BCE sanctionne une filiale Nordea pour dépassement des limites de concentration des risques, un enjeu clé de conformité réglementaire.",
+      "score_breakdown": "+20 mots critiques: sanction | +12 Source EU",
+      "is_primary": false
     },
     {
       "hash": "87279a487cda3408",
@@ -534,7 +560,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation et de la technologie en matière de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation et de la technologie en matière de lutte anti-blanchiment.",
+      "score_breakdown": "+20 mots forts: aml, amla | +12 Source EU",
+      "is_primary": true
     },
     {
       "hash": "fb938c8efd5e0aaa",
@@ -551,7 +579,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur les exigences réglementaires EMIR 3 relatives aux services de réduction des risques post-négociation supervisés par l'ESMA."
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur les exigences réglementaires EMIR 3 relatives aux services de réduction des risques post-négociation supervisés par l'ESMA.",
+      "score_breakdown": "+10 mots forts: esma | +10 mots moyens: risk, regulation | +12 Source EU",
+      "is_primary": true
     },
     {
       "hash": "226d605e437be099",
@@ -568,7 +598,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Hors périmètre compliance",
+      "score_breakdown": "+20 mots critiques: fraud | +12 Source EU",
+      "is_primary": false
     },
     {
       "hash": "7ddd3a5a005d883e",
@@ -585,7 +617,9 @@
       "early_brief": false,
       "doc_type": null,
       "action_class": "action",
-      "ai_summary": "L'AMF impose aux plateformes de financement participatif de respecter leurs obligations de traitement des réclamations clients."
+      "ai_summary": "L'AMF impose aux plateformes de financement participatif de respecter leurs obligations de traitement des réclamations clients.",
+      "score_breakdown": "+10 mots forts: amf | +5 mots moyens: ppe | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "5476379967a3934d",
@@ -602,7 +636,9 @@
       "early_brief": false,
       "doc_type": null,
       "action_class": "info",
-      "ai_summary": "La tokenisation crée de nouveaux risques LCB-FT et de sanctions nécessitant une adaptation urgente des cadres de conformité."
+      "ai_summary": "La tokenisation crée de nouveaux risques LCB-FT et de sanctions nécessitant une adaptation urgente des cadres de conformité.",
+      "score_breakdown": "+10 mots forts: amf | +5 mots moyens: banque | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "b67005de69dde053",
@@ -619,7 +655,9 @@
       "early_brief": false,
       "doc_type": null,
       "action_class": "info",
-      "ai_summary": "Les CJIP imposent aux entreprises des programmes de mise en conformité financière pour résoudre des violations détectées par le Parquet."
+      "ai_summary": "Les CJIP imposent aux entreprises des programmes de mise en conformité financière pour résoudre des violations détectées par le Parquet.",
+      "score_breakdown": "+10 mots forts: conformité | +5 mots moyens: paiement | +15 Source FR",
+      "is_primary": true
     },
     {
       "hash": "a6545758c65e1154",
@@ -636,7 +674,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+10 mots forts: acpr | +5 mots moyens: règlement | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "c342df5542a288b1",
@@ -653,7 +693,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+10 mots forts: acpr | +5 mots moyens: paiement | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "93a4b08044f32c6e",
@@ -670,7 +712,9 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots critiques: sanction | +10 Source Intl",
+      "is_primary": false
     },
     {
       "hash": "de1f1a421bf7773d",
@@ -687,7 +731,9 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots critiques: sanction | +10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "f60de7c95585ee76",
@@ -704,7 +750,9 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots critiques: sanction, fraud | +10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "fbc38cd3ed3fd8b6",
@@ -721,7 +769,9 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "b9ec3331ad976b14",
@@ -738,7 +788,9 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots critiques: sanction | +10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "9b5876456462a241",
@@ -755,7 +807,9 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots critiques: sanction | +10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "81d2ce9efa64bb1f",
@@ -772,7 +826,9 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots critiques: sanction | +10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "b9d33caf55883b3e",
@@ -789,7 +845,9 @@
       "early_brief": false,
       "doc_type": null,
       "action_class": "info",
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA établit les normes et régulations que les banques européennes doivent respecter."
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA établit les normes et régulations que les banques européennes doivent respecter.",
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +12 Source EU",
+      "is_primary": false
     },
     {
       "hash": "698fef318d98b698",
@@ -806,7 +864,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Hors périmètre compliance",
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: regulation | +12 Source EU",
+      "is_primary": false
     },
     {
       "hash": "f3faeb5318ab1bf1",
@@ -823,7 +883,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision réglementaire du trading algorithmique par l'ESMA."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision réglementaire du trading algorithmique par l'ESMA.",
+      "score_breakdown": "+10 mots forts: esma | +5 mots moyens: supervisory | +12 Source EU",
+      "is_primary": true
     },
     {
       "hash": "c894fbdb7441210f",
@@ -840,7 +902,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "ESMA définit les seuils de compensation sous EMIR 3, imposant des obligations de conformité réglementaire sur les dérivés."
+      "ai_summary": "ESMA définit les seuils de compensation sous EMIR 3, imposant des obligations de conformité réglementaire sur les dérivés.",
+      "score_breakdown": "+10 mots forts: esma | +5 mots moyens: risk | +12 Source EU",
+      "is_primary": true
     },
     {
       "hash": "775e686216fd10f4",
@@ -857,7 +921,9 @@
       "early_brief": false,
       "doc_type": null,
       "action_class": "info",
-      "ai_summary": "L'AMF suspend RAPID NUTRITION pour protéger l'épargne : cas d'école d'abus de marché requérant vigilance compliance."
+      "ai_summary": "L'AMF suspend RAPID NUTRITION pour protéger l'épargne : cas d'école d'abus de marché requérant vigilance compliance.",
+      "score_breakdown": "+10 mots forts: amf | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "7e557626f0b48426",
@@ -874,7 +940,9 @@
       "early_brief": false,
       "doc_type": null,
       "action_class": "info",
-      "ai_summary": "Cette décision concerne la conformité financière car elle organise la délégation de pouvoirs de supervision prudentielle et de résolution bancaire."
+      "ai_summary": "Cette décision concerne la conformité financière car elle organise la délégation de pouvoirs de supervision prudentielle et de résolution bancaire.",
+      "score_breakdown": "+10 mots forts: contrôle prudentiel | +15 Source FR",
+      "is_primary": true
     },
     {
       "hash": "d89a3829f0f0aafb",
@@ -891,7 +959,9 @@
       "early_brief": false,
       "doc_type": "ARRÊTÉ",
       "action_class": "action",
-      "ai_summary": "Cet arrêté encadre la lutte anti-blanchiment et contre le financement du terrorisme en application du code monétaire et financier."
+      "ai_summary": "Cet arrêté encadre la lutte anti-blanchiment et contre le financement du terrorisme en application du code monétaire et financier.",
+      "score_breakdown": "+10 mots forts: code monétaire | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "0b674b9da7320ba5",
@@ -908,7 +978,9 @@
       "early_brief": false,
       "doc_type": "ARRÊTÉ",
       "action_class": "action",
-      "ai_summary": "Cet arrêté concerne la conformité financière en désignant les pays tiers autorisés pour les opérations régies par le code monétaire et financier."
+      "ai_summary": "Cet arrêté concerne la conformité financière en désignant les pays tiers autorisés pour les opérations régies par le code monétaire et financier.",
+      "score_breakdown": "+10 mots forts: code monétaire | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "e509bc4b8853cf50",
@@ -925,7 +997,9 @@
       "early_brief": false,
       "doc_type": "DÉCRET",
       "action_class": "action",
-      "ai_summary": "Ce décret concerne la conformité financière car il régit l'accès des fonds alternatifs aux chambres de compensation et leurs obligations de garanties."
+      "ai_summary": "Ce décret concerne la conformité financière car il régit l'accès des fonds alternatifs aux chambres de compensation et leurs obligations de garanties.",
+      "score_breakdown": "+10 mots forts: code monétaire | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "373e683ac99f0348",
@@ -942,7 +1016,9 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté applique les règles de lutte contre le blanchiment de capitaux et le financement du terrorisme définis au code monétaire et financier."
+      "ai_summary": "Cet arrêté applique les règles de lutte contre le blanchiment de capitaux et le financement du terrorisme définis au code monétaire et financier.",
+      "score_breakdown": "+10 mots forts: code monétaire | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "7c8f8d65011769cc",
@@ -959,7 +1035,9 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté applique les obligations de lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet arrêté applique les obligations de lutte contre le blanchiment de capitaux et le financement du terrorisme.",
+      "score_breakdown": "+10 mots forts: code monétaire | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "0774f9d005954e5f",
@@ -976,7 +1054,9 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté applique les dispositions du code monétaire et financier relatives au gel des avoirs et au contrôle des flux financiers, conformément aux obligations de conformité."
+      "ai_summary": "Cet arrêté applique les dispositions du code monétaire et financier relatives au gel des avoirs et au contrôle des flux financiers, conformément aux obligations de conformité.",
+      "score_breakdown": "+10 mots forts: code monétaire | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "be7cc31445746da3",
@@ -993,7 +1073,9 @@
       "action_class": "info",
       "ai_summary": "Les notifications de conformité aux lignes directrices relèvent de la conformité réglementaire financière.",
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "score_breakdown": "+20 mots forts: compliance, esma | +12 Source EU",
+      "is_primary": false
     },
     {
       "hash": "2fe3b88648b80452",
@@ -1010,7 +1092,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+10 mots forts: acpr | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "8c763e95e57a8743",
@@ -1027,7 +1111,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+10 mots forts: crypto | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "bdfaeeff3b1479d8",
@@ -1044,7 +1130,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+10 mots forts: contrôle prudentiel | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "07ea1e4ef8d713df",
@@ -1061,7 +1149,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+10 mots forts: lcb-ft | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "43d713235072a834",
@@ -1078,7 +1168,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+10 mots forts: résolution bancaire | +15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "9b2803453f91b3fa",
@@ -1095,7 +1187,9 @@
       "early_brief": false,
       "doc_type": null,
       "action_class": "info",
-      "ai_summary": "La nouvelle stratégie UK anti-fraude 2026-2029 impose une vigilance accrue sur les risques de fraude pour les compliance officers."
+      "ai_summary": "La nouvelle stratégie UK anti-fraude 2026-2029 impose une vigilance accrue sur les risques de fraude pour les compliance officers.",
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse",
+      "is_primary": true
     },
     {
       "hash": "3370b3c2b25627fa",
@@ -1112,7 +1206,9 @@
       "early_brief": false,
       "doc_type": null,
       "action_class": "info",
-      "ai_summary": "L'EBA annonce un appel à contributions pour son atelier de recherche politique 2026, concernant potentiellement la conformité réglementaire bancaire."
+      "ai_summary": "L'EBA annonce un appel à contributions pour son atelier de recherche politique 2026, concernant potentiellement la conformité réglementaire bancaire.",
+      "score_breakdown": "+10 mots forts: eba | +12 Source EU",
+      "is_primary": false
     },
     {
       "hash": "cbd20b25aa07911a",
@@ -1129,7 +1225,9 @@
       "early_brief": false,
       "doc_type": null,
       "action_class": "info",
-      "ai_summary": "Réduction des délais de demande de réduction des fonds propres : impact majeur sur la planification réglementaire et la gestion des risques bancaires."
+      "ai_summary": "Réduction des délais de demande de réduction des fonds propres : impact majeur sur la planification réglementaire et la gestion des risques bancaires.",
+      "score_breakdown": "+10 mots forts: eba | +12 Source EU",
+      "is_primary": false
     },
     {
       "hash": "598e15ea93eae548",
@@ -1146,7 +1244,9 @@
       "early_brief": false,
       "doc_type": null,
       "action_class": "info",
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA consulte sur l'autorisation de modèles de marge initiale, sujet réglementaire bancaire clé."
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA consulte sur l'autorisation de modèles de marge initiale, sujet réglementaire bancaire clé.",
+      "score_breakdown": "+10 mots forts: eba | +12 Source EU",
+      "is_primary": false
     },
     {
       "hash": "4ee12739442de036",
@@ -1163,7 +1263,9 @@
       "early_brief": false,
       "doc_type": null,
       "action_class": "info",
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA établit des normes harmonisées de reporting pour la supervision des succursales de pays tiers."
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA établit des normes harmonisées de reporting pour la supervision des succursales de pays tiers.",
+      "score_breakdown": "+10 mots forts: eba | +12 Source EU",
+      "is_primary": false
     },
     {
       "hash": "862306cd37ec42d5",
@@ -1180,7 +1282,9 @@
       "early_brief": false,
       "doc_type": null,
       "action_class": "info",
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'adéquation des taux de perte pour les expositions sécurisées selon les normes de l'EBA."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'adéquation des taux de perte pour les expositions sécurisées selon les normes de l'EBA.",
+      "score_breakdown": "+10 mots forts: eba | +12 Source EU",
+      "is_primary": false
     },
     {
       "hash": "ded2a0d7db30638e",
@@ -1197,7 +1301,9 @@
       "early_brief": false,
       "doc_type": null,
       "action_class": "info",
-      "ai_summary": "EBA clarifie les mécanismes légaux équivalents en LCB-FT : essentiel pour adapter sa conformité aux nouvelles normes techniques européennes."
+      "ai_summary": "EBA clarifie les mécanismes légaux équivalents en LCB-FT : essentiel pour adapter sa conformité aux nouvelles normes techniques européennes.",
+      "score_breakdown": "+10 mots forts: eba | +12 Source EU",
+      "is_primary": false
     },
     {
       "hash": "29fd45bcfd2ac631",
@@ -1214,7 +1320,9 @@
       "early_brief": false,
       "doc_type": null,
       "action_class": "info",
-      "ai_summary": "Cet article concerne la conformité financière car la BCE publie des statistiques de supervision bancaire sur les institutions significatives, essentielles pour le contrôle réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car la BCE publie des statistiques de supervision bancaire sur les institutions significatives, essentielles pour le contrôle réglementaire.",
+      "score_breakdown": "+10 mots moyens: supervisory, bank | +12 Source EU",
+      "is_primary": false
     },
     {
       "hash": "5bc31becae431e17",
@@ -1231,7 +1339,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Hors périmètre compliance",
+      "score_breakdown": "+10 mots forts: eba | +12 Source EU",
+      "is_primary": false
     },
     {
       "hash": "a9f823f0d55ab6aa",
@@ -1248,7 +1358,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car l'ESMA établit des actions pour simplifier l'accès aux investissements tout en renforçant la protection des investisseurs de détail."
+      "ai_summary": "L'article concerne la conformité financière car l'ESMA établit des actions pour simplifier l'accès aux investissements tout en renforçant la protection des investisseurs de détail.",
+      "score_breakdown": "+10 mots forts: esma | +12 Source EU",
+      "is_primary": true
     },
     {
       "hash": "fbcdbae820ca135b",
@@ -1265,7 +1377,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'ESMA publie les calculs annuels de transparence obligatoires pour les instruments financiers."
+      "ai_summary": "Cet article concerne la conformité financière car l'ESMA publie les calculs annuels de transparence obligatoires pour les instruments financiers.",
+      "score_breakdown": "+10 mots forts: esma | +12 Source EU",
+      "is_primary": true
     },
     {
       "hash": "d4464cecd67498ec",
@@ -1282,7 +1396,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de nouvelles questions-réponses publiées par l'ESMA concernant la conformité aux normes de reporting financier et de transparence des émetteurs."
+      "ai_summary": "Cet article traite de nouvelles questions-réponses publiées par l'ESMA concernant la conformité aux normes de reporting financier et de transparence des émetteurs.",
+      "score_breakdown": "+10 mots forts: esma | +12 Source EU",
+      "is_primary": true
     },
     {
       "hash": "d3a0ec534b6fd8c7",
@@ -1299,7 +1415,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "70d8050ddb4ba7b2",
@@ -1316,7 +1434,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "5663533e6163db84",
@@ -1333,7 +1453,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "8e2467643a58ea1d",
@@ -1350,7 +1472,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "a695f4cbedd6bc87",
@@ -1367,7 +1491,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "c4928c398f0fee88",
@@ -1384,7 +1510,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "261772559cfb0ee0",
@@ -1401,7 +1529,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "bfda575c7341202f",
@@ -1418,7 +1548,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "2f71cf120e6e6364",
@@ -1435,7 +1567,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "3ec3b53873955ce4",
@@ -1452,7 +1586,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "0af35ac1208f0b20",
@@ -1469,7 +1605,9 @@
       "early_brief": false,
       "doc_type": null,
       "action_class": "info",
-      "ai_summary": "Cet article concerne la supervision bancaire et les interconnexions de marché, éléments clés de la conformité financière réglementaire."
+      "ai_summary": "Cet article concerne la supervision bancaire et les interconnexions de marché, éléments clés de la conformité financière réglementaire.",
+      "score_breakdown": "+5 mots moyens: bank | +12 Source EU",
+      "is_primary": false
     },
     {
       "hash": "17e2e27a6b4f823f",
@@ -1486,7 +1624,9 @@
       "early_brief": false,
       "doc_type": null,
       "action_class": "info",
-      "ai_summary": "Accord de conformité financière conclu par l'AMF avec Edmond de Rothschild Private Equity suite à manquements réglementaires."
+      "ai_summary": "Accord de conformité financière conclu par l'AMF avec Edmond de Rothschild Private Equity suite à manquements réglementaires.",
+      "score_breakdown": "+15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "634b2839ef2a1915",
@@ -1503,7 +1643,9 @@
       "early_brief": false,
       "doc_type": null,
       "action_class": "info",
-      "ai_summary": "Accord de composition administrative relatif à des manquements aux obligations de conformité et de déclaration en matière financière."
+      "ai_summary": "Accord de composition administrative relatif à des manquements aux obligations de conformité et de déclaration en matière financière.",
+      "score_breakdown": "+15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "a8437cd3e81107f7",
@@ -1520,7 +1662,9 @@
       "early_brief": false,
       "doc_type": null,
       "action_class": "info",
-      "ai_summary": "Accord de conformité administrative entre l'AMF et AMA Corporation PLC suite à des manquements réglementaires identifiés."
+      "ai_summary": "Accord de conformité administrative entre l'AMF et AMA Corporation PLC suite à des manquements réglementaires identifiés.",
+      "score_breakdown": "+15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "d83197c181184a4a",
@@ -1537,7 +1681,9 @@
       "early_brief": false,
       "doc_type": null,
       "action_class": "info",
-      "ai_summary": "Cet accord de composition administrative avec Caisse d'Epargne concerne la conformité financière en tant que règlement d'une violation réglementaire."
+      "ai_summary": "Cet accord de composition administrative avec Caisse d'Epargne concerne la conformité financière en tant que règlement d'une violation réglementaire.",
+      "score_breakdown": "+15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "513fae72938defe4",
@@ -1554,7 +1700,9 @@
       "early_brief": false,
       "doc_type": null,
       "action_class": "info",
-      "ai_summary": "Le procureur national financier expose les enjeux du PNF en matière de délinquance économique et financière."
+      "ai_summary": "Le procureur national financier expose les enjeux du PNF en matière de délinquance économique et financière.",
+      "score_breakdown": "+15 Source FR",
+      "is_primary": true
     },
     {
       "hash": "5b8ee3fb6d906fd7",
@@ -1571,7 +1719,9 @@
       "early_brief": false,
       "doc_type": null,
       "action_class": "info",
-      "ai_summary": "Ce podcast traite de la traçabilité des flux financiers illicites et de la lutte contre la criminalité financière, domaines clés de la conformité."
+      "ai_summary": "Ce podcast traite de la traçabilité des flux financiers illicites et de la lutte contre la criminalité financière, domaines clés de la conformité.",
+      "score_breakdown": "+15 Source FR",
+      "is_primary": true
     },
     {
       "hash": "f9fd45b737185f77",
@@ -1588,7 +1738,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre la corruption, un enjeu majeur de conformité financière et de prévention des risques."
+      "ai_summary": "Cet article concerne la lutte contre la corruption, un enjeu majeur de conformité financière et de prévention des risques.",
+      "score_breakdown": "+15 Source FR",
+      "is_primary": true
     },
     {
       "hash": "0173d468b25da93f",
@@ -1605,7 +1757,9 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La nomination d'un adjoint aux services administratifs et financiers du Premier ministre relève de la conformité financière."
+      "ai_summary": "La nomination d'un adjoint aux services administratifs et financiers du Premier ministre relève de la conformité financière.",
+      "score_breakdown": "+15 Source FR",
+      "is_primary": false
     },
     {
       "hash": "56b09794f6f0e825",
@@ -1622,7 +1776,9 @@
       "action_class": "action",
       "ai_summary": "Les directives de l'ESMA établissent les normes de conformité réglementaire que les entreprises financières doivent respecter.",
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "score_breakdown": "+10 mots forts: esma | +12 Source EU",
+      "is_primary": false
     },
     {
       "hash": "505233ae2f950a19",
@@ -1639,7 +1795,9 @@
       "action_class": "action",
       "ai_summary": "Cet article concerne la conformité financière car il traite des garanties en tant que collatéral pour les contreparties centrales et de la politique d'investissement des CCP.",
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "score_breakdown": "+10 mots forts: esma | +12 Source EU",
+      "is_primary": false
     },
     {
       "hash": "b3cd71f625999748",
@@ -1656,7 +1814,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de l'évolution du concept de PEP sur 50 ans, essentiel à la conformité pour l'identification des personnes politiquement exposées."
+      "ai_summary": "Cet article traite de l'évolution du concept de PEP sur 50 ans, essentiel à la conformité pour l'identification des personnes politiquement exposées.",
+      "score_breakdown": "+10 mots moyens: bank, pep | +3 Presse",
+      "is_primary": true
     },
     {
       "hash": "af137f10343653c1",
@@ -1673,7 +1833,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une exemption réglementaire accordée par la SEC aux dirigeants d'émetteurs privés étrangers de l'EEA."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une exemption réglementaire accordée par la SEC aux dirigeants d'émetteurs privés étrangers de l'EEA.",
+      "score_breakdown": "+12 Source EU",
+      "is_primary": true
     },
     {
       "hash": "e67d4bfc19e68f27",
@@ -1690,7 +1852,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite des infractions financières liées au dossier Epstein, analysant les mécanismes de blanchiment d'argent et les lacunes réglementaires."
+      "ai_summary": "Cet article traite des infractions financières liées au dossier Epstein, analysant les mécanismes de blanchiment d'argent et les lacunes réglementaires.",
+      "score_breakdown": "+3 Presse",
+      "is_primary": true
     },
     {
       "hash": "9433928b37602dab",
@@ -1707,7 +1871,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article analyse les lacunes de détection des crimes financiers à travers le cas Epstein et propose des améliorations systémiques."
+      "ai_summary": "Cet article analyse les lacunes de détection des crimes financiers à travers le cas Epstein et propose des améliorations systémiques.",
+      "score_breakdown": "+3 Presse",
+      "is_primary": true
     },
     {
       "hash": "e5942c388373915a",
@@ -1724,7 +1890,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots forts: aml, cft, fatf | +10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "b24a1ddad9242026",
@@ -1741,7 +1909,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots forts: aml, cft, compliance | +10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "98bed315e1d39b21",
@@ -1758,7 +1928,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots forts: aml, cft, fatf | +10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "d169ed8dbff7839f",
@@ -1775,7 +1947,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+10 mots forts: fatf | +10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "c894a5adcc9739d1",
@@ -1792,7 +1966,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots critiques: money laundering, fraud | +10 mots forts: fatf | +5 mots moyens: risk | +10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "3e263a2a3624088c",
@@ -1809,7 +1985,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots forts: aml, cft | +10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "805c3e1f6b640ca3",
@@ -1826,7 +2004,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "ba2f5f25d6b162cd",
@@ -1843,7 +2023,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+15 mots moyens: risk, bank, correspondent banking | +10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "734bfee1295e8cf9",
@@ -1860,7 +2042,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+5 mots moyens: payment | +10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "35596d0f724ee683",
@@ -1877,7 +2061,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots critiques: money laundering, fraud | +10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "a76f36672fae1368",
@@ -1894,7 +2080,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots forts: aml, cft, fatf | +10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "c43f07660ce4595b",
@@ -1911,7 +2099,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, cft, anti-money | +10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "eb7578b6397fe4cb",
@@ -1928,7 +2118,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots critiques: fraud | +10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "76211ba9397771d5",
@@ -1945,7 +2137,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots critiques: money laundering, fraud | +10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "0c6a9b52a6e76f30",
@@ -1962,7 +2156,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots critiques: money laundering, fraud | +10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "a59df67bce4ac997",
@@ -1979,7 +2175,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+10 Source Intl",
+      "is_primary": true
     },
     {
       "hash": "664896d19cebc86f",
@@ -1996,7 +2194,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots critiques: sanction | +12 Source EU",
+      "is_primary": true
     },
     {
       "hash": "b9cef7332c5fa6d5",
@@ -2013,7 +2213,9 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots critiques: sanction | +12 Source EU",
+      "is_primary": true
     },
     {
       "hash": "0cb7e2f35fc90734",
@@ -2030,7 +2232,9 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots critiques: sanction | +12 Source EU",
+      "is_primary": true
     },
     {
       "hash": "f3496a2cdd21c050",
@@ -2047,7 +2251,9 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots forts: aml, due diligence | +10 mots moyens: directive, bank | +12 Source EU",
+      "is_primary": true
     },
     {
       "hash": "2c0bc99038f2e35b",
@@ -2064,7 +2270,9 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": null,
+      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, cft, anti-money | +5 mots moyens: directive | +12 Source EU",
+      "is_primary": true
     }
   ],
   "last_update": "2026-03-26T07:54:21.526798+00:00"

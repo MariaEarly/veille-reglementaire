@@ -317,6 +317,69 @@
       letter-spacing: 0.01em;
     }
 
+    /* Cockpit banner */
+    .cockpit {
+      max-width: 1400px; margin: 0 auto; padding: 24px 48px 0;
+    }
+    .cockpit-grid {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 16px;
+    }
+    .cockpit-section {
+      background: var(--surface); border: 1px solid var(--border-light);
+      padding: 20px 24px;
+    }
+    .cockpit-section h3 {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.7rem; text-transform: uppercase;
+      letter-spacing: 0.06em; color: var(--subtle);
+      margin-bottom: 14px; font-weight: 600;
+    }
+    .cockpit-item {
+      display: flex; align-items: center; gap: 10px;
+      padding: 6px 0; font-size: 0.85rem;
+    }
+    .cockpit-item + .cockpit-item { border-top: 1px solid var(--border-light); }
+    .cockpit-item .mini-score {
+      width: 32px; height: 24px; display: flex; align-items: center;
+      justify-content: center; font-size: 0.7rem; font-weight: 700;
+      color: #fff; font-family: 'IBM Plex Mono', monospace;
+      border-radius: 2px; flex-shrink: 0;
+    }
+    .cockpit-item a { color: var(--text); font-weight: 500; }
+    .cockpit-item a:hover { color: var(--green); text-decoration: none; }
+    .cockpit-item .cockpit-source {
+      font-size: 0.7rem; color: var(--subtle);
+      font-family: 'IBM Plex Mono', monospace;
+      margin-left: auto; flex-shrink: 0;
+    }
+    .cockpit-alert {
+      display: flex; align-items: center; gap: 8px;
+      padding: 5px 0; font-size: 0.82rem; color: var(--muted);
+    }
+    .cockpit-alert .dot-red { width: 8px; height: 8px; border-radius: 50%; background: #d4380d; flex-shrink: 0; }
+    .cockpit-alert .dot-green { width: 8px; height: 8px; border-radius: 50%; background: var(--green); flex-shrink: 0; }
+
+    /* Primary badge */
+    .tag-primary {
+      background: var(--green); color: #fff; border-radius: 2px;
+      font-weight: 700; letter-spacing: 0.04em;
+    }
+
+    /* Score tooltip */
+    .score-wrapper {
+      position: relative;
+    }
+    .score-tooltip {
+      display: none; position: absolute; right: 60px; top: 50%;
+      transform: translateY(-50%);
+      background: var(--dark); color: var(--cream);
+      padding: 8px 12px; font-size: 0.7rem;
+      font-family: 'IBM Plex Mono', monospace;
+      white-space: nowrap; z-index: 100;
+      border-radius: 3px; line-height: 1.5;
+    }
+    .score-wrapper:hover .score-tooltip { display: block; }
+
     /* Toast */
     .toast {
       position: fixed; bottom: 32px; right: 32px; z-index: 200;
@@ -374,6 +437,8 @@
       .stats-row {
         gap: 20px;
       }
+      .cockpit { padding: 20px 24px 0; }
+      .cockpit-grid { grid-template-columns: 1fr; }
     }
   </style>
 </head>
@@ -399,6 +464,9 @@
   <button class="nav-tab" data-tab="brief">Early Brief <span class="count" id="brief-badge">0</span></button>
   <button class="nav-tab" data-tab="sources">Sources</button>
 </nav>
+
+<!-- Cockpit -->
+<div class="cockpit" id="cockpit"></div>
 
 <main class="content">
   <!-- Feed -->
@@ -427,6 +495,19 @@
         <option value="20">Score ≥ 20</option>
         <option value="40">Score ≥ 40</option>
         <option value="60">Score ≥ 60</option>
+      </select>
+      <select class="filter-select" id="filter-doctype">
+        <option value="">Tous types</option>
+        <option value="DÉCRET">Décret</option>
+        <option value="ARRÊTÉ">Arrêté</option>
+        <option value="LOI">Loi</option>
+        <option value="DIRECTIVE">Directive</option>
+        <option value="RÈGLEMENT">Règlement</option>
+        <option value="COMMUNIQUÉ">Communiqué</option>
+        <option value="CONSULTATION">Consultation</option>
+        <option value="SANCTION">Sanction</option>
+        <option value="GUIDELINES">Guidelines</option>
+        <option value="RAPPORT">Rapport</option>
       </select>
       <select class="filter-select" id="filter-action">
         <option value="">Action + Info</option>
@@ -496,8 +577,10 @@ async function fetchData() {
         source_type: item.source_type || '',
         category: item.category || '',
         score: item.score || 0,
+        score_breakdown: item.score_breakdown || '',
         doc_type: item.doc_type || null,
         action_class: item.action_class || 'info',
+        is_primary: item.is_primary || false,
         status: localItem.status || item.status || (item.score >= 40 ? 'important' : 'new'),
         early_brief: localItem.early_brief !== undefined ? localItem.early_brief : (item.early_brief || false),
         ai_summary: item.ai_summary || null,
@@ -580,6 +663,7 @@ function renderCard(item, full) {
         <div class="card-title">${title}</div>
         <div class="card-meta">
           ${fresh ? '<span class="tag tag-fresh">&lt; 24h</span>' : ''}
+          ${item.is_primary ? '<span class="tag tag-primary">PRIMAIRE</span>' : ''}
           ${item.doc_type ? `<span class="tag tag-doctype">${esc(item.doc_type)}</span>` : ''}
           <span class="tag tag-${item.action_class}">${item.action_class === 'action' ? 'ACTION' : 'INFO'}</span>
           <span class="tag tag-source" style="background:${sourceColor(item.source)}">${esc(item.source)}</span>
@@ -591,7 +675,10 @@ function renderCard(item, full) {
         <div class="card-date">${relDate(item.published)}</div>
       </div>
       <div class="card-actions">
-        <div class="score ${scoreClass(item.score)}">${item.score}</div>
+        <div class="score-wrapper">
+          <div class="score ${scoreClass(item.score)}">${item.score}</div>
+          ${item.score_breakdown ? `<div class="score-tooltip">${esc(item.score_breakdown).replace(/ \| /g, '<br>')}</div>` : ''}
+        </div>
         <button class="${starCls}" onclick="toggleBrief(${item.id})" title="Early Brief">&#9733;</button>
       </div>
     </article>
@@ -604,6 +691,7 @@ function getFilteredItems() {
   const cat = document.getElementById('filter-category').value;
   const status = document.getElementById('filter-status').value;
   const minScore = parseInt(document.getElementById('filter-score').value) || 0;
+  const docType = document.getElementById('filter-doctype').value;
   const actionFilter = document.getElementById('filter-action').value;
   const sortBy = document.getElementById('sort-by').value;
 
@@ -611,6 +699,7 @@ function getFilteredItems() {
   if (cat) items = items.filter(i => i.category === cat);
   if (status) items = items.filter(i => i.status === status);
   if (minScore) items = items.filter(i => i.score >= minScore);
+  if (docType) items = items.filter(i => i.doc_type === docType);
   if (actionFilter) items = items.filter(i => i.action_class === actionFilter);
 
   if (sortBy === 'fresh') {
@@ -684,6 +773,7 @@ function renderCurrentTab() {
   if (state.activeTab === 'feed') renderFeed();
   if (state.activeTab === 'brief') renderBrief();
   if (state.activeTab === 'sources') renderSources();
+  renderCockpit();
   updateStats();
 }
 
@@ -728,11 +818,72 @@ document.querySelectorAll('.nav-tab').forEach(tab => {
 
 // Filters
 let debounce;
-['search','filter-category','filter-status','filter-score','filter-action','sort-by'].forEach(id => {
+['search','filter-category','filter-status','filter-score','filter-doctype','filter-action','sort-by'].forEach(id => {
   const el = document.getElementById(id);
   el.addEventListener('input', () => { clearTimeout(debounce); debounce = setTimeout(renderFeed, 150); });
   el.addEventListener('change', () => { clearTimeout(debounce); debounce = setTimeout(renderFeed, 150); });
 });
+
+// Cockpit rendering
+function renderCockpit() {
+  const el = document.getElementById('cockpit');
+  if (!state.items.length) { el.innerHTML = ''; return; }
+
+  // Top 3 by score (new items only)
+  const top3 = [...state.items]
+    .filter(i => i.status === 'new' || i.status === 'important')
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 3);
+
+  // Silent sources (>48h since last article)
+  const now = Date.now();
+  const sourceLastSeen = {};
+  state.items.forEach(i => {
+    if (!i.published) return;
+    const t = new Date(i.published).getTime();
+    if (!sourceLastSeen[i.source] || t > sourceLastSeen[i.source]) sourceLastSeen[i.source] = t;
+  });
+  const silent = Object.entries(sourceLastSeen)
+    .filter(([_, t]) => (now - t) > 48 * 3600 * 1000)
+    .sort((a, b) => a[1] - b[1])
+    .slice(0, 4);
+
+  const primaryCount = state.items.filter(i => i.is_primary).length;
+  const freshPrimary = state.items.filter(i => i.is_primary && isFresh(i.published)).length;
+
+  let html = '<div class="cockpit-grid">';
+
+  // Left: top items
+  html += '<div class="cockpit-section"><h3>À traiter maintenant</h3>';
+  if (top3.length) {
+    top3.forEach(item => {
+      const url = item.url ? `<a href="${esc(item.url)}" target="_blank">${esc(item.title.substring(0, 80))}${item.title.length > 80 ? '…' : ''}</a>` : esc(item.title.substring(0, 80));
+      html += `<div class="cockpit-item">
+        <div class="mini-score ${scoreClass(item.score)}">${item.score}</div>
+        ${url}
+        <span class="cockpit-source">${esc(item.source)}</span>
+      </div>`;
+    });
+  } else {
+    html += '<div class="cockpit-alert"><span class="dot-green"></span> Rien de critique en attente</div>';
+  }
+  html += '</div>';
+
+  // Right: alerts
+  html += '<div class="cockpit-section"><h3>Santé des sources</h3>';
+  html += `<div class="cockpit-alert"><span class="dot-green"></span> ${primaryCount} articles de sources primaires (${freshPrimary} &lt;24h)</div>`;
+  if (silent.length) {
+    silent.forEach(([src, t]) => {
+      const days = Math.floor((now - t) / (24 * 3600 * 1000));
+      html += `<div class="cockpit-alert"><span class="dot-red"></span> ${esc(src)} — silencieuse depuis ${days}j</div>`;
+    });
+  } else {
+    html += '<div class="cockpit-alert"><span class="dot-green"></span> Toutes les sources ont publié &lt;48h</div>';
+  }
+  html += '</div></div>';
+
+  el.innerHTML = html;
+}
 
 // Init
 fetchData();

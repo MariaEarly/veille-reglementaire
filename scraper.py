@@ -170,7 +170,7 @@ def _make_item(title, url, date_str, summary, source_name, category):
     if not matches_compliance_keywords(title, summary):
         return None
 
-    sc = score_item(title, summary, category)
+    sc, sc_breakdown = score_item(title, summary, category)
     doc_type = detect_doc_type(title)
     action_class = classify_action(doc_type, title, sc)
 
@@ -225,6 +225,7 @@ def _make_item(title, url, date_str, summary, source_name, category):
         "published": published,
         "summary": summary[:500],
         "score": sc,
+        "score_breakdown": sc_breakdown,
         "doc_type": doc_type,
         "action_class": action_class,
         "status": "new",

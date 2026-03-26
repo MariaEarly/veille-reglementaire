@@ -211,14 +211,27 @@ EXCLUDE_KEYWORDS = [
 def score_item(title, text, category):
     combined = f"{title} {text}".lower()
     s = 0
-    if any(k in combined for k in KEYWORDS_CRITICAL):
+    breakdown = []
+    crit_hits = [k for k in KEYWORDS_CRITICAL if k in combined]
+    if crit_hits:
         s += 20
-    hits = sum(1 for k in KEYWORDS_HIGH if k in combined)
-    s += min(hits, 2) * 10
-    hits = sum(1 for k in KEYWORDS_MEDIUM if k in combined)
-    s += min(hits, 3) * 5
-    s += SOURCE_BONUS.get(category, 0)
-    return min(s, 100)
+        breakdown.append(f"+20 mots critiques: {', '.join(crit_hits[:3])}")
+    high_hits = [k for k in KEYWORDS_HIGH if k in combined]
+    high_pts = min(len(high_hits), 2) * 10
+    if high_pts:
+        s += high_pts
+        breakdown.append(f"+{high_pts} mots forts: {', '.join(high_hits[:3])}")
+    med_hits = [k for k in KEYWORDS_MEDIUM if k in combined]
+    med_pts = min(len(med_hits), 3) * 5
+    if med_pts:
+        s += med_pts
+        breakdown.append(f"+{med_pts} mots moyens: {', '.join(med_hits[:3])}")
+    src_bonus = SOURCE_BONUS.get(category, 0)
+    if src_bonus:
+        cat_labels = {"autorite_fr": "Source FR", "autorite_eu": "Source EU", "autorite_intl": "Source Intl", "presse": "Presse", "email": "Email"}
+        breakdown.append(f"+{src_bonus} {cat_labels.get(category, category)}")
+        s += src_bonus
+    return min(s, 100), " | ".join(breakdown) if breakdown else "Aucun mot-clé"
 
 
 # ---------------------------------------------------------------------------
@@ -560,7 +573,7 @@ def fetch_rss(url, source_name, source_type, category):
             if not matches_compliance_keywords(title, summary_clean):
                 continue
 
-        sc = score_item(title, summary_clean, category)
+        sc, sc_breakdown = score_item(title, summary_clean, category)
         doc_type = detect_doc_type(title)
         action_class = classify_action(doc_type, title, sc)
 
@@ -575,6 +588,7 @@ def fetch_rss(url, source_name, source_type, category):
             "published": published,
             "summary": summary_clean,
             "score": sc,
+            "score_breakdown": sc_breakdown,
             "doc_type": doc_type,
             "action_class": action_class,
             "status": "new",
