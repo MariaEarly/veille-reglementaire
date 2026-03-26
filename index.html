@@ -9,600 +9,836 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
   <style>
     :root {
-      --bg: #F4F0E6;
-      --surface: #FAF9F6;
-      --card: #FAF9F6;
-      --card-hover: #FFFFFF;
-      --border: rgba(26, 24, 20, 0.14);
-      --border-light: rgba(26, 24, 20, 0.08);
-      --text: #1A1814;
-      --muted: #4A4540;
-      --subtle: #8A8480;
-      --brand: #2C4A2E;
-      --brand-dark: #1e3520;
-      --brand-light: #e8ede8;
-      --brand-text: #2C4A2E;
       --terra: #9E3D1B;
-      --terra-light: #fdf4f0;
-      --terra-text: #9E3D1B;
-      --amber: #b8860b;
-      --amber-light: #fdf6e3;
-      --amber-text: #7a5a08;
-      --red: #9E3D1B;
-      --red-light: #fdf4f0;
-      --red-text: #7a2e14;
-      --purple: #4a5a88;
-      --purple-light: #eef0f6;
-      --purple-text: #3a4870;
-      --dark: #1A1814;
-      --radius: 6px;
+      --terra-bg: #9E3D1B14;
+      --rose: #C48B9F;
+      --rose-bg: #FAF0F4;
+      --ecru: #F5F2EB;
+      --color-background-primary: #FFFFFF;
+      --color-background-secondary: #F7F7F5;
+      --color-background-tertiary: #EFEFEC;
+      --color-text-primary: #1A1814;
+      --color-text-secondary: #6B6660;
+      --color-text-tertiary: #9B9590;
+      --color-border-tertiary: #E8E5E0;
+      --color-border-secondary: #D5D0CA;
+      --radius: 8px;
       --mono: 'IBM Plex Mono', monospace;
       --sans: 'Inter', -apple-system, sans-serif;
     }
+
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
       font-family: var(--sans);
-      color: var(--text);
-      background: var(--bg);
+      color: var(--color-text-primary);
+      background: var(--color-background-primary);
       line-height: 1.6;
       -webkit-font-smoothing: antialiased;
       font-size: 14px;
     }
-    a { color: var(--brand); text-decoration: none; }
+    a { color: var(--color-text-primary); text-decoration: none; }
     a:hover { text-decoration: underline; }
+
+    /* Layout wrapper */
+    .layout-wrapper {
+      display: flex;
+      height: 100vh;
+      flex-direction: column;
+    }
 
     /* Header */
     .header {
-      background: var(--surface);
-      color: var(--text);
-      padding: 32px 40px 28px;
-      border-bottom: 1px solid var(--border);
-    }
-    .header-inner {
-      max-width: 1400px; margin: 0 auto;
-      display: flex; align-items: flex-end; justify-content: space-between;
-      flex-wrap: wrap; gap: 24px;
+      background: var(--color-background-primary);
+      color: var(--color-text-primary);
+      padding: 24px 24px 20px;
+      border-bottom: 0.5px solid var(--color-border-tertiary);
     }
     .header h1 {
       font-family: var(--sans);
-      font-weight: 600; font-size: 1.5rem;
-      letter-spacing: -0.025em; line-height: 1.2;
+      font-weight: 600;
+      font-size: 18px;
+      letter-spacing: -0.025em;
+      line-height: 1.2;
     }
     .header h1 span { color: var(--terra); }
     .header .subtitle {
       font-family: var(--mono);
-      font-size: 0.72rem; color: var(--subtle);
-      margin-top: 8px; letter-spacing: 0.04em; text-transform: uppercase;
-    }
-    .stats-row {
-      display: flex; gap: 24px; flex-wrap: wrap;
-      font-size: 0.8rem;
-    }
-    .stat-item {
-      display: flex; align-items: baseline; gap: 6px; color: var(--subtle);
-    }
-    .stat-item strong {
-      font-size: 1.3rem; color: var(--text); font-weight: 600;
-      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--color-text-tertiary);
+      margin-top: 6px;
+      letter-spacing: 0.04em;
     }
 
-    /* Nav tabs */
-    .nav {
-      max-width: 1400px; margin: 0 auto; padding: 16px 40px 0;
-      display: flex; gap: 4px; border-bottom: 1px solid var(--border);
+    /* Main content area */
+    .main-content {
+      display: flex;
+      flex: 1;
+      overflow: hidden;
     }
-    .nav-tab {
-      padding: 10px 20px; border: none; cursor: pointer;
-      font-family: var(--sans); font-size: 0.82rem;
-      color: var(--subtle); background: transparent;
-      border-bottom: 2px solid transparent;
-      transition: all 150ms ease;
+
+    /* Sidebar */
+    .sidebar {
+      width: 220px;
+      border-right: 0.5px solid var(--color-border-tertiary);
+      overflow-y: auto;
+      padding: 16px 12px;
+      background: var(--color-background-primary);
+    }
+
+    .sidebar-section {
+      margin-bottom: 24px;
+    }
+
+    .sidebar-section-label {
+      font-family: var(--mono);
+      font-size: 11px;
+      text-transform: uppercase;
+      color: var(--color-text-tertiary);
+      font-weight: 600;
+      margin-bottom: 10px;
+      letter-spacing: 0.04em;
+    }
+
+    .sidebar-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 10px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 13px;
+      color: var(--color-text-primary);
+      transition: all 120ms;
+      margin-bottom: 4px;
+    }
+
+    .sidebar-item:hover {
+      background: var(--color-background-secondary);
+    }
+
+    .sidebar-item.active {
+      background: var(--terra-bg);
+      color: var(--terra);
       font-weight: 500;
     }
-    .nav-tab:hover { color: var(--text); }
-    .nav-tab.active {
-      color: var(--brand); border-bottom-color: var(--brand); font-weight: 500;
-    }
-    .nav-tab .count {
-      background: var(--terra); color: #fff;
-      font-size: 0.65rem; padding: 2px 7px;
-      margin-left: 6px; font-weight: 600; border-radius: 10px;
+
+    .sidebar-item-dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--color-border-secondary);
+      flex-shrink: 0;
     }
 
-    /* Content */
-    .content {
-      max-width: 1400px; margin: 0 auto; padding: 28px 40px 80px;
+    .sidebar-item.active .sidebar-item-dot {
+      background: var(--terra);
     }
 
-    /* Toolbar */
-    .toolbar {
-      display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 28px;
-      align-items: center;
-    }
-    .search-box {
-      flex: 1; min-width: 260px; position: relative;
-    }
-    .search-box input {
-      width: 100%; padding: 9px 14px 9px 38px;
-      border: none; border-bottom: 1px solid var(--border);
-      background: transparent;
-      font: inherit; font-size: 0.85rem; color: var(--text);
-      transition: all 150ms;
-      border-radius: 0;
-    }
-    .search-box input:focus {
-      outline: none;
-      border-bottom-color: var(--text);
-    }
-    .search-box::before {
-      content: ""; position: absolute; left: 12px; top: 50%;
-      transform: translateY(-50%); width: 14px; height: 14px;
-      background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%239b9fa7' stroke-width='2'%3E%3Ccircle cx='11' cy='11' r='8'/%3E%3Cpath d='m21 21-4.35-4.35'/%3E%3C/svg%3E") no-repeat center/contain;
-    }
-    .filter-select {
-      padding: 9px 4px; border: none; border-bottom: 1px solid var(--border);
-      font-family: var(--sans); font-size: 0.8rem;
-      background: transparent; cursor: pointer; color: var(--muted);
-      border-radius: 0;
-      transition: all 150ms;
-      -webkit-appearance: none; appearance: none;
-    }
-    .filter-select:hover { color: var(--text); border-bottom-color: var(--muted); }
-    .filter-select:focus {
-      outline: none;
-      border-bottom-color: var(--text); color: var(--text);
+    .sidebar-item-label {
+      flex: 1;
     }
 
-    /* Cards */
-    .cards { display: flex; flex-direction: column; gap: 0; }
-    .card {
-      background: transparent;
-      border: none;
-      border-bottom: 1px solid var(--border);
-      padding: 20px 0;
-      display: grid; grid-template-columns: 1fr auto; gap: 20px;
-      transition: all 150ms ease;
-      border-radius: 0;
-    }
-    .card:hover {
-      background: rgba(26, 24, 20, 0.02);
-    }
-    .card.is-fresh {
-      border-left: none;
-    }
-    .card-body { min-width: 0; }
-    .card-title {
-      font-size: 0.95rem; font-weight: 600; margin-bottom: 10px;
-      line-height: 1.45; letter-spacing: -0.01em;
-    }
-    .card-title a { color: var(--text); }
-    .card-title a:hover { color: var(--brand); text-decoration: none; }
-    .card-meta {
-      display: flex; gap: 4px; align-items: center; flex-wrap: wrap;
-      margin-bottom: 8px;
-      font-size: 0.75rem; color: var(--subtle);
-    }
-    .meta-sep { color: var(--border); margin: 0 2px; }
-    .tag {
-      display: inline-flex; align-items: center;
-      padding: 2px 0; font-size: 0.7rem;
-      font-weight: 500; letter-spacing: 0.01em;
-      color: var(--subtle);
-    }
-    .tag-source {
-      color: var(--muted); font-weight: 600;
-    }
-    .tag-category {
-      color: var(--subtle);
-    }
-    .tag-fresh {
-      color: var(--brand); font-weight: 600;
-      animation: pulse 2.5s ease-in-out infinite;
-    }
-    @keyframes pulse {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.75; }
-    }
-    .tag-status {
-      cursor: pointer;
-      user-select: none;
-    }
-    .tag-status.new { color: var(--brand); }
-    .tag-status.important { color: var(--terra); }
-    .tag-status.reviewed { color: var(--purple); }
-    .tag-status.draft { color: var(--amber); }
-    .tag-status.archived { color: var(--subtle); text-decoration: line-through; }
-    .tag-doctype {
-      color: var(--purple); font-weight: 600;
-    }
-    .tag-action {
-      color: var(--terra); font-weight: 600;
-    }
-    .tag-info {
-      color: var(--subtle);
-    }
-
-    .card { cursor: pointer; }
-    .card-summary {
-      color: var(--muted); font-size: 0.85rem; line-height: 1.6;
-      display: -webkit-box; -webkit-line-clamp: 2;
-      -webkit-box-orient: vertical; overflow: hidden;
-    }
-    .card-ai-summary {
-      color: var(--purple-text);
-      font-size: 0.8rem;
-      font-style: italic;
-      margin-top: 8px;
-      padding-left: 12px;
-      border-left: 2px solid var(--brand-light);
+    .sidebar-item-count {
       font-family: var(--mono);
-    }
-    .card-date {
-      color: var(--subtle); font-size: 0.75rem; margin-top: 8px;
-      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--color-text-tertiary);
+      margin-left: auto;
+      flex-shrink: 0;
     }
 
-    /* Detail panel (inline expand) */
-    .card-detail {
-      display: none;
-      margin-top: 16px; padding-top: 16px;
-      border-top: 1px solid var(--border-light);
-    }
-    .card.expanded .card-detail { display: block; }
-    .card.expanded .card-summary {
-      display: block; -webkit-line-clamp: unset;
-      -webkit-box-orient: unset; overflow: visible;
-    }
-    .detail-grid {
-      display: grid; grid-template-columns: 1fr 1fr; gap: 12px 32px;
+    .sidebar-section-divider {
+      border-bottom: 0.5px solid var(--color-border-tertiary);
       margin-bottom: 16px;
     }
-    .detail-field label {
-      display: block; font-size: 0.68rem; text-transform: uppercase;
-      letter-spacing: 0.04em; color: var(--subtle);
-      font-family: var(--mono); font-weight: 500;
-      margin-bottom: 3px;
-    }
-    .detail-field span {
-      font-size: 0.85rem; color: var(--text);
-    }
-    .detail-actions {
-      display: flex; gap: 8px; margin-top: 12px;
-    }
-    .detail-btn {
-      padding: 6px 0; font-size: 0.8rem;
-      font-family: var(--sans);
-      border: none; background: transparent;
-      cursor: pointer; color: var(--muted);
-      transition: all 120ms; font-weight: 500;
-      text-decoration: underline; text-underline-offset: 3px;
-    }
-    .detail-btn:hover { color: var(--text); }
-    .detail-btn-primary {
-      color: var(--brand); font-weight: 600;
-    }
-    .detail-btn-primary:hover { color: var(--brand-dark); }
 
-    /* Date range filter */
-    .date-filter {
-      display: flex; gap: 6px; align-items: center;
+    /* Advanced filters toggle */
+    .sidebar-toggle {
+      cursor: pointer;
+      font-size: 12px;
+      color: var(--color-text-secondary);
+      padding: 8px 10px;
+      border-radius: 4px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 120ms;
+      font-weight: 500;
     }
-    .date-filter input[type="date"] {
-      padding: 8px 4px; border: none; border-bottom: 1px solid var(--border);
-      font-family: var(--mono); font-size: 0.75rem;
-      background: transparent; color: var(--muted); border-radius: 0;
-      transition: all 150ms;
+
+    .sidebar-toggle:hover {
+      background: var(--color-background-secondary);
     }
-    .date-filter input[type="date"]:focus {
-      outline: none; border-bottom-color: var(--text); color: var(--text);
+
+    .advanced-filters {
+      display: none;
+      margin-top: 12px;
+      padding-top: 12px;
+      border-top: 0.5px solid var(--color-border-tertiary);
     }
-    .date-filter span {
-      font-size: 0.75rem; color: var(--subtle);
+
+    .advanced-filters.open {
+      display: block;
     }
-    .card-actions {
-      display: flex; flex-direction: column; gap: 8px;
-      align-items: center; justify-content: flex-start;
+
+    .filter-group {
+      margin-bottom: 12px;
     }
-    .score {
-      font-size: 1.1rem; font-weight: 600;
+
+    .filter-group-label {
       font-family: var(--mono);
-      width: auto; height: auto;
-      display: flex; align-items: center; justify-content: center;
-    }
-    .score-low { color: var(--subtle); }
-    .score-med { color: var(--amber); }
-    .score-high { color: var(--terra); }
-    .score-critical { color: #7a1e0e; }
-    .btn-star {
-      background: transparent; border: none;
-      width: auto; height: auto; cursor: pointer; font-size: 1.1rem;
-      display: flex; align-items: center; justify-content: center;
-      transition: all 120ms; color: var(--border);
-      padding: 4px;
-    }
-    .btn-star:hover {
-      color: var(--amber);
-    }
-    .btn-star.active {
-      color: var(--amber);
+      font-size: 10px;
+      text-transform: uppercase;
+      color: var(--color-text-tertiary);
+      margin-bottom: 6px;
+      font-weight: 600;
     }
 
-    /* Sources tab */
-    .sources-grid {
-      display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    .filter-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+    }
+
+    .filter-pill {
+      padding: 4px 8px;
+      background: var(--color-background-secondary);
+      color: var(--color-text-secondary);
+      border: none;
+      border-radius: 4px;
+      font-size: 11px;
+      cursor: pointer;
+      transition: all 120ms;
+      font-family: var(--sans);
+      font-weight: 500;
+    }
+
+    .filter-pill:hover {
+      background: var(--color-background-tertiary);
+    }
+
+    .filter-pill.active {
+      background: var(--terra-bg);
+      color: var(--terra);
+    }
+
+    .date-range-group {
+      display: flex;
+      gap: 4px;
+      font-size: 11px;
+    }
+
+    .date-range-group input {
+      flex: 1;
+      padding: 4px 6px;
+      border: 0.5px solid var(--color-border-secondary);
+      border-radius: 4px;
+      font-family: var(--mono);
+      font-size: 11px;
+      background: var(--color-background-secondary);
+    }
+
+    /* Center column */
+    .center-column {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      background: var(--color-background-secondary);
+      overflow: hidden;
+    }
+
+    /* Topbar */
+    .topbar {
+      height: 48px;
+      border-bottom: 0.5px solid var(--color-border-tertiary);
+      padding: 0 16px;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      background: var(--color-background-primary);
+    }
+
+    .topbar-stats {
+      display: flex;
+      gap: 20px;
+      font-size: 12px;
+      color: var(--color-text-secondary);
+    }
+
+    .stat-value {
+      font-weight: 500;
+      color: var(--color-text-primary);
+    }
+
+    .topbar-controls {
+      margin-left: auto;
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .sort-button {
+      padding: 6px 12px;
+      background: transparent;
+      border: 0.5px solid var(--color-border-tertiary);
+      border-radius: 4px;
+      font-size: 12px;
+      color: var(--color-text-secondary);
+      cursor: pointer;
+      transition: all 120ms;
+      font-family: var(--sans);
+      font-weight: 500;
+    }
+
+    .sort-button:hover {
+      border-color: var(--color-border-secondary);
+    }
+
+    .sort-button.active {
+      background: var(--color-background-secondary);
+      border-color: var(--color-border-secondary);
+      color: var(--color-text-primary);
+    }
+
+    .search-input {
+      padding: 6px 10px;
+      border: none;
+      border-bottom: 0.5px solid var(--color-border-tertiary);
+      background: transparent;
+      font-family: var(--sans);
+      font-size: 12px;
+      color: var(--color-text-primary);
+      flex: 0 0 200px;
+      transition: all 120ms;
+    }
+
+    .search-input::placeholder {
+      color: var(--color-text-tertiary);
+    }
+
+    .search-input:focus {
+      outline: none;
+      border-bottom-color: var(--color-text-secondary);
+    }
+
+    /* Feed cards */
+    .feed-container {
+      flex: 1;
+      overflow-y: auto;
+      padding: 12px 12px;
+      display: flex;
+      flex-direction: column;
       gap: 8px;
     }
-    .source-card {
-      background: transparent;
-      border-bottom: 1px solid var(--border);
-      padding: 14px 0;
-      display: flex; align-items: center; gap: 14px;
-      transition: all 150ms ease;
-    }
-    .source-card:hover {
-      background: rgba(26, 24, 20, 0.02);
-    }
-    .source-dot { width: 8px; height: 8px; flex-shrink: 0; border-radius: 50%; }
-    .source-card h3 { font-size: 0.9rem; font-weight: 600; letter-spacing: -0.01em; }
-    .source-card .meta {
-      color: var(--subtle);
-      font-size: 0.75rem;
-      font-family: var(--mono);
-      margin-top: 2px;
-    }
-    .source-card .cnt {
-      margin-left: auto;
-      font-weight: 700;
-      font-size: 1.15rem;
-      color: var(--terra);
-      font-family: var(--mono);
+
+    .cards { display: flex; flex-direction: column; gap: 8px; }
+
+    .card {
+      background: var(--color-background-primary);
+      border: 0.5px solid var(--color-border-tertiary);
+      border-radius: 8px;
+      padding: 12px 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      cursor: pointer;
+      transition: all 120ms ease;
     }
 
-    /* Empty & loading */
-    .empty, .loading {
-      text-align: center; padding: 64px 32px; color: var(--subtle);
-      font-size: 0.88rem;
+    .card:hover {
+      border-color: var(--color-border-secondary);
+      background: var(--color-background-primary);
     }
 
-    /* Cockpit banner */
-    .cockpit {
-      max-width: 1400px; margin: 0 auto; padding: 20px 40px 0;
+    .card.important {
+      border-left: 2px solid var(--terra);
+      padding-left: 13px;
     }
-    .cockpit-grid {
-      display: grid; grid-template-columns: 1fr 1fr; gap: 12px;
+
+    .card-meta {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+      flex-wrap: wrap;
+      font-size: 11px;
+      color: var(--color-text-tertiary);
     }
-    .cockpit-section {
+
+    .meta-sep { color: var(--color-text-tertiary); }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
       padding: 0;
-    }
-    .cockpit-section h3 {
-      font-family: var(--mono);
-      font-size: 0.68rem; text-transform: uppercase;
-      letter-spacing: 0.04em; color: var(--subtle);
-      margin-bottom: 12px; font-weight: 600;
-    }
-    .cockpit-item {
-      display: flex; align-items: center; gap: 10px;
-      padding: 6px 0; font-size: 0.85rem;
-    }
-    .cockpit-item + .cockpit-item { border-top: 1px solid var(--border-light); }
-    .cockpit-item .mini-score {
-      font-size: 0.78rem; font-weight: 600;
-      font-family: var(--mono); flex-shrink: 0;
-      min-width: 24px; text-align: right;
-    }
-    .cockpit-item a { color: var(--text); font-weight: 500; }
-    .cockpit-item a:hover { color: var(--brand); text-decoration: none; }
-    .cockpit-item .cockpit-source {
-      font-size: 0.7rem; color: var(--subtle);
-      font-family: var(--mono);
-      margin-left: auto; flex-shrink: 0;
-    }
-    .cockpit-alert {
-      display: flex; align-items: center; gap: 8px;
-      padding: 5px 0; font-size: 0.82rem; color: var(--muted);
-    }
-    .cockpit-alert .dot-red { width: 8px; height: 8px; border-radius: 50%; background: var(--red); flex-shrink: 0; }
-    .cockpit-alert .dot-green { width: 8px; height: 8px; border-radius: 50%; background: var(--brand); flex-shrink: 0; }
-
-    /* Primary badge */
-    .tag-primary {
-      color: var(--brand); font-weight: 600;
-      letter-spacing: 0.02em;
+      font-size: 11px;
+      font-weight: 400;
+      color: var(--color-text-tertiary);
     }
 
-    /* Note field */
+    .score-badge {
+      background: var(--color-background-secondary);
+      color: var(--color-text-secondary);
+      padding: 1px 6px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 500;
+      font-family: var(--mono);
+    }
+
+    .score-badge.high {
+      background: var(--terra-bg);
+      color: var(--terra);
+    }
+
+    .card-title {
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--color-text-primary);
+      line-height: 1.4;
+    }
+
+    .card-title a {
+      color: var(--color-text-primary);
+    }
+
+    .card-title a:hover {
+      color: var(--terra);
+      text-decoration: none;
+    }
+
+    .card-summary {
+      font-size: 12px;
+      color: var(--color-text-secondary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .card-footer {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+
+    .chip {
+      background: var(--color-background-secondary);
+      color: var(--color-text-tertiary);
+      padding: 2px 7px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 400;
+    }
+
+    .chip.new {
+      background: #EAF3DE;
+      color: #3B6D11;
+    }
+
+    .chip.important {
+      background: var(--terra-bg);
+      color: var(--terra);
+    }
+
+    .chip.reviewed {
+      background: var(--color-background-secondary);
+      color: var(--color-text-tertiary);
+    }
+
+    .chip.draft {
+      background: var(--rose-bg);
+      color: var(--rose);
+    }
+
+    .chip.action-required {
+      background: var(--rose-bg);
+      color: var(--rose);
+    }
+
+    .early-brief-marker {
+      margin-left: auto;
+      font-size: 11px;
+      color: var(--rose);
+      font-weight: 500;
+    }
+
+    /* Detail panel */
+    .card-detail {
+      display: none;
+      margin-top: 10px;
+      padding-top: 10px;
+      border-top: 0.5px solid var(--color-border-tertiary);
+    }
+
+    .card.expanded .card-detail {
+      display: block;
+    }
+
+    .card.expanded .card-summary {
+      -webkit-line-clamp: unset;
+    }
+
+    .detail-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px 16px;
+      margin-bottom: 10px;
+      font-size: 12px;
+    }
+
+    .detail-field label {
+      display: block;
+      font-size: 10px;
+      text-transform: uppercase;
+      color: var(--color-text-tertiary);
+      font-family: var(--mono);
+      font-weight: 600;
+      margin-bottom: 2px;
+      letter-spacing: 0.04em;
+    }
+
+    .detail-field span {
+      font-size: 12px;
+      color: var(--color-text-primary);
+    }
+
     .note-row {
-      display: flex; gap: 8px; align-items: center; margin-top: 10px;
+      display: flex;
+      gap: 6px;
+      align-items: center;
+      margin-top: 8px;
     }
+
     .note-input {
-      flex: 1; padding: 7px 0; border: none;
-      border-bottom: 1px solid var(--border);
-      font-family: var(--sans); font-size: 0.8rem; color: var(--text);
-      background: transparent; border-radius: 0;
-      transition: all 150ms;
-    }
-    .note-input:focus {
-      outline: none; border-bottom-color: var(--text);
-    }
-    .note-input::placeholder { color: var(--subtle); }
-    .note-badge {
-      display: inline-block; font-size: 0.75rem; color: var(--muted);
-      font-style: italic; margin-top: 6px;
-      max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
-    }
-
-    /* Export button */
-    .export-bar {
-      display: flex; gap: 10px; align-items: center; margin-bottom: 20px;
-    }
-    .btn-export {
-      padding: 8px 0; font-family: var(--sans); font-size: 0.82rem;
-      background: transparent; color: var(--brand); border: none;
-      cursor: pointer; font-weight: 600;
+      flex: 1;
+      padding: 6px 0;
+      border: none;
+      border-bottom: 0.5px solid var(--color-border-tertiary);
+      font-family: var(--sans);
+      font-size: 12px;
+      color: var(--color-text-primary);
+      background: transparent;
       transition: all 120ms;
-      text-decoration: underline; text-underline-offset: 3px;
     }
-    .btn-export:hover { color: var(--text); }
 
-    /* Score tooltip */
-    .score-wrapper {
-      position: relative;
+    .note-input::placeholder {
+      color: var(--color-text-tertiary);
     }
-    .score-tooltip {
-      display: none; position: absolute; right: 54px; top: 50%;
-      transform: translateY(-50%);
-      background: var(--dark); color: #f0f0f0;
-      padding: 8px 12px; font-size: 0.7rem;
+
+    .note-input:focus {
+      outline: none;
+      border-bottom-color: var(--color-text-secondary);
+    }
+
+    .detail-btn {
+      padding: 4px 0;
+      font-size: 12px;
+      font-family: var(--sans);
+      border: none;
+      background: transparent;
+      color: var(--color-text-secondary);
+      cursor: pointer;
+      transition: all 120ms;
+      font-weight: 500;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
+    .detail-btn:hover {
+      color: var(--color-text-primary);
+    }
+
+    .detail-actions {
+      display: flex;
+      gap: 8px;
+      margin-top: 8px;
+      flex-wrap: wrap;
+    }
+
+    /* Right panel */
+    .right-panel {
+      width: 240px;
+      border-left: 0.5px solid var(--color-border-tertiary);
+      overflow-y: auto;
+      padding: 16px 12px;
+      background: var(--color-background-primary);
+    }
+
+    .right-panel-header {
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--color-text-primary);
+      margin-bottom: 4px;
+    }
+
+    .right-panel-subheader {
+      font-size: 11px;
+      color: var(--color-text-tertiary);
+      margin-bottom: 12px;
       font-family: var(--mono);
-      white-space: nowrap; z-index: 100;
-      border-radius: var(--radius); line-height: 1.5;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     }
-    .score-wrapper:hover .score-tooltip { display: block; }
+
+    .draft-items {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      margin-bottom: 12px;
+    }
+
+    .draft-item {
+      background: var(--color-background-secondary);
+      border-radius: 6px;
+      padding: 8px 10px;
+    }
+
+    .draft-item-title {
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--color-text-primary);
+      line-height: 1.4;
+      margin-bottom: 3px;
+    }
+
+    .draft-item-source {
+      font-size: 11px;
+      color: var(--color-text-secondary);
+      font-family: var(--mono);
+    }
+
+    .export-btn {
+      background: var(--terra);
+      color: var(--ecru);
+      border: none;
+      border-radius: 8px;
+      font-size: 12px;
+      font-weight: 500;
+      padding: 8px;
+      width: 100%;
+      cursor: pointer;
+      font-family: var(--sans);
+      transition: all 120ms;
+    }
+
+    .export-btn:hover {
+      background: #8B3416;
+    }
+
+    /* Empty state */
+    .empty, .loading {
+      text-align: center;
+      padding: 32px 16px;
+      color: var(--color-text-secondary);
+      font-size: 13px;
+    }
 
     /* Toast */
     .toast {
-      position: fixed; bottom: 32px; right: 32px; z-index: 200;
-      background: var(--text); color: var(--bg); padding: 10px 20px;
-      font-size: 0.82rem;
-      opacity: 0; transform: translateY(10px);
+      position: fixed;
+      bottom: 32px;
+      right: 32px;
+      z-index: 200;
+      background: var(--color-text-primary);
+      color: var(--color-background-primary);
+      padding: 10px 16px;
+      font-size: 12px;
+      border-radius: 6px;
+      opacity: 0;
+      transform: translateY(10px);
       transition: all 200ms ease;
-      border-radius: 0;
     }
-    .toast.show { opacity: 1; transform: translateY(0); }
+
+    .toast.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
 
     /* Responsive */
+    @media (max-width: 1024px) {
+      .sidebar { width: 180px; }
+      .right-panel { width: 200px; }
+    }
+
     @media (max-width: 768px) {
-      .header { padding: 24px 20px; }
-      .header-inner {
-        flex-direction: column; align-items: flex-start; gap: 16px;
-      }
-      .header h1 { font-size: 1.25rem; }
-      .content { padding: 20px 20px 64px; }
-      .nav { padding: 12px 20px 0; overflow-x: auto; }
-      .card {
-        grid-template-columns: 1fr; gap: 16px; padding: 16px;
-      }
-      .card-actions {
-        flex-direction: row; justify-content: flex-start; gap: 10px;
-      }
-      .toolbar { flex-direction: column; gap: 8px; }
-      .search-box { min-width: 100%; }
-      .filter-select { width: 100%; }
-      .stats-row { gap: 12px; }
-      .stat-item { padding: 6px 10px; font-size: 0.75rem; }
-      .cockpit { padding: 16px 20px 0; }
-      .cockpit-grid { grid-template-columns: 1fr; }
-      .detail-grid { grid-template-columns: 1fr; }
-      .date-filter { width: 100%; }
+      .main-content { flex-direction: column; }
+      .sidebar { width: 100%; border-right: none; border-bottom: 0.5px solid var(--color-border-tertiary); max-height: 120px; overflow-x: auto; }
+      .right-panel { width: 100%; border-left: none; border-top: 0.5px solid var(--color-border-tertiary); max-height: 120px; }
+      .center-column { flex: 1; }
     }
   </style>
 </head>
 <body>
 
-<header class="header">
-  <div class="header-inner">
-    <div>
-      <h1>Early <span>Brief</span> — Veille</h1>
-      <div class="subtitle" id="last-update">Chargement...</div>
-    </div>
-    <div class="stats-row">
-      <div class="stat-item"><strong id="stat-total">—</strong> articles</div>
-      <div class="stat-item"><strong id="stat-fresh">—</strong> &lt;24h</div>
-      <div class="stat-item"><strong id="stat-important">—</strong> importants</div>
-      <div class="stat-item"><strong id="stat-brief">—</strong> Early Brief</div>
-    </div>
-  </div>
-</header>
+<div class="layout-wrapper">
+  <header class="header">
+    <h1>Early <span>Brief</span></h1>
+    <div class="subtitle" id="last-update">Chargement...</div>
+  </header>
 
-<nav class="nav" id="tabs">
-  <button class="nav-tab active" data-tab="feed">Fil d'actualité</button>
-  <button class="nav-tab" data-tab="brief">Early Brief <span class="count" id="brief-badge">0</span></button>
-  <button class="nav-tab" data-tab="sources">Sources</button>
-</nav>
-
-<!-- Cockpit -->
-<div class="cockpit" id="cockpit"></div>
-
-<main class="content">
-  <!-- Feed -->
-  <div id="panel-feed">
-    <div class="toolbar">
-      <div class="search-box">
-        <input type="text" id="search" placeholder="Rechercher..." />
+  <div class="main-content">
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <div class="sidebar-section-label">Fil</div>
+        <div class="sidebar-item active" data-filter="fil" data-value="">
+          <div class="sidebar-item-dot"></div>
+          <div class="sidebar-item-label">Tous</div>
+          <div class="sidebar-item-count" id="count-tous">0</div>
+        </div>
+        <div class="sidebar-item" data-filter="fil" data-value="fresh">
+          <div class="sidebar-item-dot" style="background: #3B6D11;"></div>
+          <div class="sidebar-item-label">&lt; 24h</div>
+          <div class="sidebar-item-count" id="count-fresh">0</div>
+        </div>
+        <div class="sidebar-item" data-filter="fil" data-value="primary">
+          <div class="sidebar-item-dot" style="background: var(--terra);"></div>
+          <div class="sidebar-item-label">Source primaire</div>
+          <div class="sidebar-item-count" id="count-primary">0</div>
+        </div>
+        <div class="sidebar-section-divider"></div>
       </div>
-      <select class="filter-select" id="filter-category">
-        <option value="">Toutes catégories</option>
-        <option value="autorite_fr">Autorités FR</option>
-        <option value="autorite_eu">Autorités EU</option>
-        <option value="autorite_intl">International</option>
-        <option value="presse">Presse</option>
-        <option value="email">Email</option>
-      </select>
-      <select class="filter-select" id="filter-status">
-        <option value="">Tous statuts</option>
-        <option value="new">Nouveau</option>
-        <option value="important">Important</option>
-        <option value="reviewed">Relu</option>
-        <option value="draft">À publier</option>
-        <option value="archived">Archivé</option>
-      </select>
-      <select class="filter-select" id="filter-score">
-        <option value="0">Score min : 0</option>
-        <option value="20">Score ≥ 20</option>
-        <option value="40">Score ≥ 40</option>
-        <option value="60">Score ≥ 60</option>
-      </select>
-      <select class="filter-select" id="filter-doctype">
-        <option value="">Tous types</option>
-        <option value="DÉCRET">Décret</option>
-        <option value="ARRÊTÉ">Arrêté</option>
-        <option value="LOI">Loi</option>
-        <option value="DIRECTIVE">Directive</option>
-        <option value="RÈGLEMENT">Règlement</option>
-        <option value="COMMUNIQUÉ">Communiqué</option>
-        <option value="CONSULTATION">Consultation</option>
-        <option value="SANCTION">Sanction</option>
-        <option value="GUIDELINES">Guidelines</option>
-        <option value="RAPPORT">Rapport</option>
-      </select>
-      <select class="filter-select" id="filter-action">
-        <option value="">Action + Info</option>
-        <option value="action">Action requise</option>
-        <option value="info">Informatif</option>
-      </select>
-      <div class="date-filter">
-        <span>Du</span>
-        <input type="date" id="filter-date-from" />
-        <span>au</span>
-        <input type="date" id="filter-date-to" />
+
+      <div class="sidebar-section">
+        <div class="sidebar-section-label">Statut</div>
+        <div class="sidebar-item" data-filter="status" data-value="new">
+          <div class="sidebar-item-dot"></div>
+          <div class="sidebar-item-label">Nouveau</div>
+          <div class="sidebar-item-count" id="count-status-new">0</div>
+        </div>
+        <div class="sidebar-item" data-filter="status" data-value="important">
+          <div class="sidebar-item-dot"></div>
+          <div class="sidebar-item-label">Important</div>
+          <div class="sidebar-item-count" id="count-status-important">0</div>
+        </div>
+        <div class="sidebar-item" data-filter="status" data-value="reviewed">
+          <div class="sidebar-item-dot"></div>
+          <div class="sidebar-item-label">Relu</div>
+          <div class="sidebar-item-count" id="count-status-reviewed">0</div>
+        </div>
+        <div class="sidebar-item" data-filter="status" data-value="draft">
+          <div class="sidebar-item-dot"></div>
+          <div class="sidebar-item-label">À publier</div>
+          <div class="sidebar-item-count" id="count-status-draft">0</div>
+        </div>
+        <div class="sidebar-item" data-filter="status" data-value="archived">
+          <div class="sidebar-item-dot"></div>
+          <div class="sidebar-item-label">Archivé</div>
+          <div class="sidebar-item-count" id="count-status-archived">0</div>
+        </div>
+        <div class="sidebar-section-divider"></div>
       </div>
-      <select class="filter-select" id="sort-by">
-        <option value="fresh">Tri : Récents d'abord</option>
-        <option value="score">Tri : Score</option>
-        <option value="date">Tri : Date</option>
-      </select>
-    </div>
-    <div class="cards" id="feed-cards">
-      <div class="loading">Chargement des articles...</div>
-    </div>
-  </div>
 
-  <!-- Early Brief -->
-  <div id="panel-brief" style="display:none;">
-    <div class="export-bar">
-      <p style="color:var(--muted); font-size:0.9rem; flex:1;">Articles sélectionnés pour la prochaine édition.</p>
-      <button class="btn-export" onclick="exportBrief()">Exporter le draft</button>
-    </div>
-    <div class="cards" id="brief-cards"></div>
-    <textarea id="brief-export" style="display:none; width:100%; min-height:300px; margin-top:20px; padding:16px; font-family:var(--mono); font-size:0.82rem; border:1px solid var(--border); border-radius:var(--radius); background:var(--surface); color:var(--text); line-height:1.7; resize:vertical;"></textarea>
-  </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-label">Source</div>
+        <div id="sources-list"></div>
+        <div class="sidebar-section-divider"></div>
+      </div>
 
-  <!-- Sources -->
-  <div id="panel-sources" style="display:none;">
-    <div class="sources-grid" id="sources-grid"></div>
+      <div class="sidebar-toggle" onclick="toggleAdvancedFilters()">
+        <span>Filtres avancés</span>
+        <span id="toggle-arrow">▾</span>
+      </div>
+
+      <div class="advanced-filters" id="advanced-filters">
+        <div class="filter-group">
+          <div class="filter-group-label">Score min</div>
+          <div class="filter-pills" id="score-pills"></div>
+        </div>
+        <div class="filter-group">
+          <div class="filter-group-label">Type</div>
+          <div class="filter-pills" id="doctype-pills"></div>
+        </div>
+        <div class="filter-group">
+          <div class="filter-group-label">Action</div>
+          <div class="filter-pills" id="action-pills"></div>
+        </div>
+        <div class="filter-group">
+          <div class="filter-group-label">Plage de date</div>
+          <div class="date-range-group">
+            <input type="date" id="filter-date-from" placeholder="De" />
+            <input type="date" id="filter-date-to" placeholder="À" />
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <div class="center-column">
+      <div class="topbar">
+        <div class="topbar-stats">
+          <span><span class="stat-value" id="stat-total">0</span> articles</span>
+          <span><span class="stat-value" id="stat-fresh">0</span> &lt;24h</span>
+          <span><span class="stat-value" id="stat-important">0</span> à publier</span>
+        </div>
+        <div class="topbar-controls">
+          <input type="text" id="search" class="search-input" placeholder="Rechercher..." />
+          <button class="sort-button active" data-sort="fresh">Récents</button>
+          <button class="sort-button" data-sort="score">Score</button>
+          <button class="sort-button" data-sort="date">Date</button>
+        </div>
+      </div>
+
+      <div class="feed-container">
+        <div class="cards" id="feed-cards">
+          <div class="loading">Chargement des articles...</div>
+        </div>
+      </div>
+    </div>
+
+    <aside class="right-panel">
+      <div class="right-panel-header">Prochaine édition</div>
+      <div class="right-panel-subheader" id="draft-count">0 articles sélectionnés</div>
+      <div class="draft-items" id="draft-items"></div>
+      <button class="export-btn" onclick="exportBrief()">Exporter</button>
+    </aside>
   </div>
-</main>
+</div>
+
+<select class="hidden-select" id="filter-category" style="display:none;">
+  <option value="">Toutes catégories</option>
+  <option value="autorite_fr">Autorités FR</option>
+  <option value="autorite_eu">Autorités EU</option>
+  <option value="autorite_intl">International</option>
+  <option value="presse">Presse</option>
+  <option value="email">Email</option>
+</select>
+<select class="hidden-select" id="filter-status" style="display:none;">
+  <option value="">Tous statuts</option>
+  <option value="new">Nouveau</option>
+  <option value="important">Important</option>
+  <option value="reviewed">Relu</option>
+  <option value="draft">À publier</option>
+  <option value="archived">Archivé</option>
+</select>
+<select class="hidden-select" id="filter-score" style="display:none;">
+  <option value="0">Score min : 0</option>
+  <option value="20">Score ≥ 20</option>
+  <option value="40">Score ≥ 40</option>
+  <option value="60">Score ≥ 60</option>
+</select>
+<select class="hidden-select" id="filter-doctype" style="display:none;">
+  <option value="">Tous types</option>
+  <option value="DÉCRET">Décret</option>
+  <option value="ARRÊTÉ">Arrêté</option>
+  <option value="LOI">Loi</option>
+  <option value="DIRECTIVE">Directive</option>
+  <option value="RÈGLEMENT">Règlement</option>
+  <option value="COMMUNIQUÉ">Communiqué</option>
+  <option value="CONSULTATION">Consultation</option>
+  <option value="SANCTION">Sanction</option>
+  <option value="GUIDELINES">Guidelines</option>
+  <option value="RAPPORT">Rapport</option>
+</select>
+<select class="hidden-select" id="filter-action" style="display:none;">
+  <option value="">Action + Info</option>
+  <option value="action">Action requise</option>
+  <option value="info">Informatif</option>
+</select>
+<select class="hidden-select" id="sort-by" style="display:none;">
+  <option value="fresh">Tri : Récents d'abord</option>
+  <option value="score">Tri : Score</option>
+  <option value="date">Tri : Date</option>
+</select>
+
+<textarea id="brief-export" style="display:none; width:100%; min-height:300px; margin-top:20px; padding:16px; font-family:var(--mono); font-size:0.82rem; border:1px solid var(--color-border-tertiary); border-radius:var(--radius); background:var(--color-background-secondary); color:var(--color-text-primary); line-height:1.7; resize:vertical;"></textarea>
 
 <div class="toast" id="toast"></div>
 
@@ -612,7 +848,7 @@ const SUPABASE_URL = 'https://zmxrcafyoepcjyrbpzam.supabase.co';
 const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpteHJjYWZ5b2VwY2p5cmJwemFtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ1MjA3ODIsImV4cCI6MjA5MDA5Njc4Mn0.e1o3O4m57RHIA8rtZw3ODutEJccOL72oP5uJzyhiCZg';
 const sb = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
-const state = { items: [], sources: [], activeTab: 'feed' };
+const state = { items: [], sources: [], activeTab: 'feed', filFilter: '', statusFilter: '', sourceFilter: '' };
 
 // --- Supabase-backed state (with localStorage fallback) ---
 async function loadLocalState() {
@@ -623,7 +859,6 @@ async function loadLocalState() {
     (data || []).forEach(row => {
       result[row.hash] = { status: row.status, early_brief: row.early_brief, note: row.note || '' };
     });
-    // Cache locally for offline fallback
     try { localStorage.setItem('veille_local', JSON.stringify(result)); } catch(e) {}
     return result;
   } catch(e) {
@@ -633,13 +868,11 @@ async function loadLocalState() {
 }
 
 async function saveItemState(hash, status, early_brief, note) {
-  // Update localStorage cache immediately
   try {
     const local = JSON.parse(localStorage.getItem('veille_local') || '{}');
     local[hash] = { status, early_brief, note: note || '' };
     localStorage.setItem('veille_local', JSON.stringify(local));
   } catch(e) {}
-  // Upsert to Supabase
   try {
     const { error } = await sb.from('article_state').upsert({
       hash, status, early_brief, note: note || '', updated_at: new Date().toISOString()
@@ -685,7 +918,6 @@ async function fetchData() {
       };
     });
 
-    // Show last update from data
     const lastUpdate = raw.last_update ? new Date(raw.last_update) : null;
     if (lastUpdate) {
       document.getElementById('last-update').textContent =
@@ -759,53 +991,64 @@ function fmtDate(iso) {
 
 function renderCard(item, full) {
   const fresh = isFresh(item.published);
-  const starCls = item.early_brief ? 'btn-star active' : 'btn-star';
   const title = item.url
     ? `<a href="${esc(item.url)}" target="_blank" rel="noreferrer" onclick="event.stopPropagation()">${esc(item.title)}</a>`
     : esc(item.title);
 
-  return `
-    <article class="card${fresh ? ' is-fresh' : ''}" data-id="${item.id}" onclick="toggleDetail(${item.id}, event)">
-      <div class="card-body">
-        <div class="card-title">${title}</div>
-        <div class="card-meta">
-          <span class="tag tag-source">${esc(item.source)}</span>
-          <span class="meta-sep">·</span>
-          <span class="tag tag-category">${catLabel(item.category)}</span>
-          ${item.doc_type ? `<span class="meta-sep">·</span><span class="tag tag-doctype">${esc(item.doc_type)}</span>` : ''}
-          ${!fresh ? `<span class="meta-sep">·</span><span class="tag tag-status ${item.status}" onclick="event.stopPropagation(); cycleStatus(${item.id})">${statusLabel(item.status)}</span>` : `<span class="meta-sep">·</span><span class="tag tag-fresh" onclick="event.stopPropagation(); cycleStatus(${item.id})">nouveau</span>`}
-          ${item.is_primary ? '<span class="meta-sep">·</span><span class="tag tag-primary">source primaire</span>' : ''}
-        </div>
-        ${item.summary ? `<div class="card-summary">${esc(item.summary)}</div>` : ''}
-        ${item.ai_summary ? `<div class="card-ai-summary">${esc(item.ai_summary)}</div>` : ''}
-        <div class="card-date">${relDate(item.published)}${item.note ? ` · ` : ''}</div>
-        ${item.note ? `<div class="note-badge">${esc(item.note)}</div>` : ''}
+  let footer = '';
+  if (item.doc_type) {
+    footer += `<span class="chip">${esc(item.doc_type)}</span>`;
+  }
 
-        <div class="card-detail">
-          <div class="detail-grid">
-            <div class="detail-field"><label>Date de publication</label><span>${fmtDate(item.published)}</span></div>
-            <div class="detail-field"><label>Source</label><span>${esc(item.source)} (${catLabel(item.category)})</span></div>
-            <div class="detail-field"><label>Score</label><span>${item.score}/100 — ${esc(item.score_breakdown || '')}</span></div>
-            <div class="detail-field"><label>Type / Action</label><span>${item.doc_type || '—'} · ${item.action_class === 'action' ? 'Action requise' : 'Informatif'}</span></div>
-            ${item.author ? `<div class="detail-field"><label>Auteur</label><span>${esc(item.author)}</span></div>` : ''}
-          </div>
-          <div class="note-row" onclick="event.stopPropagation()">
-            <input class="note-input" id="note-${item.id}" type="text" placeholder="Ajouter une note (angle, action, remarque)..." value="${esc(item.note)}" onkeydown="if(event.key==='Enter'){saveNote(${item.id});}" />
-            <button class="detail-btn" onclick="saveNote(${item.id})">Sauver</button>
-          </div>
-          <div class="detail-actions">
-            ${item.url ? `<a href="${esc(item.url)}" target="_blank" rel="noreferrer" class="detail-btn detail-btn-primary" onclick="event.stopPropagation()">Ouvrir la source</a>` : ''}
-            <button class="detail-btn" onclick="event.stopPropagation(); toggleBrief(${item.id})">${item.early_brief ? 'Retirer d\'Early Brief' : 'Ajouter à Early Brief'}</button>
-            <button class="detail-btn" onclick="event.stopPropagation(); cycleStatus(${item.id})">Changer le statut</button>
-          </div>
-        </div>
+  if (fresh) {
+    footer += `<span class="chip new">Nouveau</span>`;
+  } else {
+    if (item.status === 'new') footer += `<span class="chip new">Nouveau</span>`;
+    if (item.status === 'important') footer += `<span class="chip important">Important</span>`;
+    if (item.status === 'reviewed') footer += `<span class="chip reviewed">Relu</span>`;
+    if (item.status === 'draft') footer += `<span class="chip draft">À publier</span>`;
+  }
+
+  if (item.action_class === 'action') {
+    footer += `<span class="chip action-required">Action requise</span>`;
+  }
+
+  if (item.early_brief) {
+    footer += `<span class="early-brief-marker">Early Brief</span>`;
+  }
+
+  return `
+    <article class="card${item.status === 'important' && !fresh ? ' important' : ''}" data-id="${item.id}" onclick="toggleDetail(${item.id}, event)">
+      <div class="card-meta">
+        <span class="tag">${esc(item.source)}</span>
+        <span class="meta-sep">·</span>
+        <span class="tag">${relDate(item.published)}</span>
+        <span class="meta-sep">·</span>
+        <span class="score-badge${item.score >= 60 ? ' high' : ''}">${item.score}</span>
       </div>
-      <div class="card-actions">
-        <div class="score-wrapper">
-          <div class="score ${scoreClass(item.score)}">${item.score}</div>
-          ${item.score_breakdown ? `<div class="score-tooltip">${esc(item.score_breakdown).replace(/ \| /g, '<br>')}</div>` : ''}
+      <div class="card-title">${title}</div>
+      ${item.summary ? `<div class="card-summary">${esc(item.summary)}</div>` : ''}
+      <div class="card-footer">
+        ${footer}
+      </div>
+
+      <div class="card-detail">
+        <div class="detail-grid">
+          <div class="detail-field"><label>Date de publication</label><span>${fmtDate(item.published)}</span></div>
+          <div class="detail-field"><label>Source</label><span>${esc(item.source)} (${catLabel(item.category)})</span></div>
+          <div class="detail-field"><label>Score</label><span>${item.score}/100 — ${esc(item.score_breakdown || '')}</span></div>
+          <div class="detail-field"><label>Type / Action</label><span>${item.doc_type || '—'} · ${item.action_class === 'action' ? 'Action requise' : 'Informatif'}</span></div>
+          ${item.author ? `<div class="detail-field"><label>Auteur</label><span>${esc(item.author)}</span></div>` : ''}
         </div>
-        <button class="${starCls}" onclick="event.stopPropagation(); toggleBrief(${item.id})" title="Early Brief">&#9733;</button>
+        <div class="note-row" onclick="event.stopPropagation()">
+          <input class="note-input" id="note-${item.id}" type="text" placeholder="Ajouter une note..." value="${esc(item.note)}" onkeydown="if(event.key==='Enter'){saveNote(${item.id});}" />
+          <button class="detail-btn" onclick="saveNote(${item.id})">Sauver</button>
+        </div>
+        <div class="detail-actions">
+          ${item.url ? `<a href="${esc(item.url)}" target="_blank" rel="noreferrer" class="detail-btn" onclick="event.stopPropagation()">Ouvrir</a>` : ''}
+          <button class="detail-btn" onclick="event.stopPropagation(); toggleBrief(${item.id})">${item.early_brief ? 'Retirer d\'Early Brief' : 'Ajouter à Early Brief'}</button>
+          <button class="detail-btn" onclick="event.stopPropagation(); cycleStatus(${item.id})">Changer le statut</button>
+        </div>
       </div>
     </article>
   `;
@@ -860,50 +1103,66 @@ function renderFeed() {
 
 function renderBrief() {
   const items = state.items.filter(i => i.early_brief).sort((a, b) => b.score - a.score);
-  const el = document.getElementById('brief-cards');
-  document.getElementById('brief-badge').textContent = items.length;
-  document.getElementById('stat-brief').textContent = items.length;
+  const el = document.getElementById('draft-items');
+  const countEl = document.getElementById('draft-count');
+  countEl.textContent = items.length + ' article' + (items.length !== 1 ? 's sélectionné' : ' sélectionné') + 's';
   if (!items.length) {
-    el.innerHTML = '<div class="empty">Aucun article marqué. Cliquez ★ pour sélectionner.</div>';
+    el.innerHTML = '';
     return;
   }
-  el.innerHTML = items.map(i => renderCard(i, true)).join('');
+  el.innerHTML = items.map(i => `
+    <div class="draft-item">
+      <div class="draft-item-title">${esc(i.title)}</div>
+      <div class="draft-item-source">${esc(i.source)}</div>
+    </div>
+  `).join('');
 }
 
-function renderSources() {
-  const grid = document.getElementById('sources-grid');
-  const counts = {};
-  state.items.forEach(i => { counts[i.source] = (counts[i.source] || 0) + 1; });
+function renderSidebar() {
+  const counts = {
+    tous: state.items.length,
+    fresh: state.items.filter(i => isFresh(i.published)).length,
+    primary: state.items.filter(i => i.is_primary).length,
+    status_new: state.items.filter(i => i.status === 'new').length,
+    status_important: state.items.filter(i => i.status === 'important').length,
+    status_reviewed: state.items.filter(i => i.status === 'reviewed').length,
+    status_draft: state.items.filter(i => i.status === 'draft').length,
+    status_archived: state.items.filter(i => i.status === 'archived').length,
+  };
 
-  grid.innerHTML = state.sources.map(s => `
-    <div class="source-card">
-      <div class="source-dot" style="background:${sourceColor(s.name)}"></div>
-      <div>
-        <h3>${esc(s.name)}</h3>
-        <div class="meta">${catLabel(s.category)} · ${s.active !== false ? 'Actif' : 'Inactif'}</div>
-      </div>
-      <div class="cnt">${counts[s.name] || 0}</div>
+  document.getElementById('count-tous').textContent = counts.tous;
+  document.getElementById('count-fresh').textContent = counts.fresh;
+  document.getElementById('count-primary').textContent = counts.primary;
+  document.getElementById('count-status-new').textContent = counts.status_new;
+  document.getElementById('count-status-important').textContent = counts.status_important;
+  document.getElementById('count-status-reviewed').textContent = counts.status_reviewed;
+  document.getElementById('count-status-draft').textContent = counts.status_draft;
+  document.getElementById('count-status-archived').textContent = counts.status_archived;
+
+  const sourcesList = document.getElementById('sources-list');
+  const sourceCounts = {};
+  state.items.forEach(i => { sourceCounts[i.source] = (sourceCounts[i.source] || 0) + 1; });
+  sourcesList.innerHTML = state.sources.map(s => `
+    <div class="sidebar-item" data-filter="source" data-value="${esc(s.name)}">
+      <div class="sidebar-item-dot" style="background: ${sourceColor(s.name)};"></div>
+      <div class="sidebar-item-label">${esc(s.name)}</div>
+      <div class="sidebar-item-count">${sourceCounts[s.name] || 0}</div>
     </div>
   `).join('');
 }
 
 function updateStats() {
   const fresh = state.items.filter(i => isFresh(i.published)).length;
+  const important = state.items.filter(i => i.status === 'draft').length;
   document.getElementById('stat-total').textContent = state.items.length;
   document.getElementById('stat-fresh').textContent = fresh;
-  document.getElementById('stat-important').textContent = state.items.filter(i => i.score >= 40).length;
-  document.getElementById('stat-brief').textContent = state.items.filter(i => i.early_brief).length;
-  document.getElementById('brief-badge').textContent = state.items.filter(i => i.early_brief).length;
+  document.getElementById('stat-important').textContent = important;
 }
 
 function renderCurrentTab() {
-  document.getElementById('panel-feed').style.display = state.activeTab === 'feed' ? '' : 'none';
-  document.getElementById('panel-brief').style.display = state.activeTab === 'brief' ? '' : 'none';
-  document.getElementById('panel-sources').style.display = state.activeTab === 'sources' ? '' : 'none';
-  if (state.activeTab === 'feed') renderFeed();
-  if (state.activeTab === 'brief') renderBrief();
-  if (state.activeTab === 'sources') renderSources();
-  renderCockpit();
+  renderFeed();
+  renderBrief();
+  renderSidebar();
   updateStats();
 }
 
@@ -968,106 +1227,64 @@ window.exportBrief = function() {
   catch(e) { showToast('Draft généré — sélectionnez et copiez'); }
 };
 
-// Tab nav
-document.querySelectorAll('.nav-tab').forEach(tab => {
-  tab.addEventListener('click', () => {
-    document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
-    tab.classList.add('active');
-    state.activeTab = tab.dataset.tab;
-    renderCurrentTab();
+// Sidebar filter handlers
+document.querySelectorAll('.sidebar-item[data-filter]').forEach(item => {
+  item.addEventListener('click', () => {
+    const section = item.parentElement;
+    section.querySelectorAll('.sidebar-item[data-filter]').forEach(i => i.classList.remove('active'));
+    item.classList.add('active');
+
+    const filterType = item.dataset.filter;
+    const filterValue = item.dataset.value;
+
+    if (filterType === 'fil') {
+      if (filterValue === '') {
+        document.getElementById('filter-category').value = '';
+        document.getElementById('filter-status').value = '';
+        document.getElementById('filter-score').value = '0';
+      } else if (filterValue === 'fresh') {
+        document.getElementById('filter-date-from').value = new Date(Date.now() - 86400000).toISOString().split('T')[0];
+        document.getElementById('filter-date-to').value = '';
+      }
+    } else if (filterType === 'status') {
+      document.getElementById('filter-status').value = filterValue;
+    }
+
+    renderFeed();
   });
 });
 
-// Filters
+// Search and filter listeners
 let debounce;
-['search','filter-category','filter-status','filter-score','filter-doctype','filter-action','filter-date-from','filter-date-to','sort-by'].forEach(id => {
+['search','filter-date-from','filter-date-to'].forEach(id => {
   const el = document.getElementById(id);
   el.addEventListener('input', () => { clearTimeout(debounce); debounce = setTimeout(renderFeed, 150); });
   el.addEventListener('change', () => { clearTimeout(debounce); debounce = setTimeout(renderFeed, 150); });
 });
 
+// Sort button handlers
+document.querySelectorAll('.sort-button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.sort-button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById('sort-by').value = btn.dataset.sort;
+    renderFeed();
+  });
+});
+
 // Detail panel toggle
 window.toggleDetail = function(id, event) {
-  // Don't toggle if clicking a link, button, or tag
-  if (event && (event.target.tagName === 'A' || event.target.tagName === 'BUTTON' || event.target.closest('.tag-status') || event.target.closest('.btn-star') || event.target.closest('.detail-btn'))) return;
+  if (event && (event.target.tagName === 'A' || event.target.tagName === 'BUTTON' || event.target.closest('.detail-btn') || event.target.closest('.chip'))) return;
   const card = document.querySelector(`.card[data-id="${id}"]`);
   if (card) card.classList.toggle('expanded');
 };
 
-// Cockpit rendering
-function renderCockpit() {
-  const el = document.getElementById('cockpit');
-  if (!state.items.length) { el.innerHTML = ''; return; }
-
-  const now = Date.now();
-
-  // Section 1: Sources primaires nouvelles (<48h, is_primary)
-  const freshPrimary = [...state.items]
-    .filter(i => i.is_primary && i.published && (now - new Date(i.published).getTime()) < 48 * 3600 * 1000)
-    .sort((a, b) => b.score - a.score)
-    .slice(0, 4);
-
-  // Section 2: À qualifier (score > 30, status = new)
-  const toQualify = [...state.items]
-    .filter(i => i.score >= 30 && i.status === 'new')
-    .sort((a, b) => b.score - a.score)
-    .slice(0, 4);
-
-  // Silent sources (>48h since last article)
-  const sourceLastSeen = {};
-  state.items.forEach(i => {
-    if (!i.published) return;
-    const t = new Date(i.published).getTime();
-    if (!sourceLastSeen[i.source] || t > sourceLastSeen[i.source]) sourceLastSeen[i.source] = t;
-  });
-  const silent = Object.entries(sourceLastSeen)
-    .filter(([_, t]) => (now - t) > 48 * 3600 * 1000)
-    .sort((a, b) => a[1] - b[1])
-    .slice(0, 3);
-
-  let html = '<div class="cockpit-grid">';
-
-  // Left: Sources primaires nouvelles
-  html += '<div class="cockpit-section"><h3>Sources primaires — nouveau</h3>';
-  if (freshPrimary.length) {
-    freshPrimary.forEach(item => {
-      const url = item.url ? `<a href="${esc(item.url)}" target="_blank">${esc(item.title.substring(0, 65))}${item.title.length > 65 ? '…' : ''}</a>` : esc(item.title.substring(0, 65));
-      html += `<div class="cockpit-item">
-        <div class="mini-score ${scoreClass(item.score)}">${item.score}</div>
-        ${url}
-        <span class="cockpit-source">${relDate(item.published)} · ${esc(item.source)}</span>
-      </div>`;
-    });
-  } else {
-    html += '<div class="cockpit-alert"><span class="dot-green"></span> Aucune publication primaire récente</div>';
-  }
-  // Source health alerts inline
-  if (silent.length) {
-    silent.forEach(([src, t]) => {
-      const days = Math.floor((now - t) / (24 * 3600 * 1000));
-      html += `<div class="cockpit-alert"><span class="dot-red"></span> ${esc(src)} — silence ${days}j</div>`;
-    });
-  }
-  html += '</div>';
-
-  // Right: À qualifier
-  html += '<div class="cockpit-section"><h3>À qualifier</h3>';
-  if (toQualify.length) {
-    toQualify.forEach(item => {
-      const url = item.url ? `<a href="${esc(item.url)}" target="_blank">${esc(item.title.substring(0, 65))}${item.title.length > 65 ? '…' : ''}</a>` : esc(item.title.substring(0, 65));
-      html += `<div class="cockpit-item">
-        <div class="mini-score ${scoreClass(item.score)}">${item.score}</div>
-        ${url}
-        <span class="cockpit-source">${relDate(item.published)} · ${esc(item.source)}</span>
-      </div>`;
-    });
-  } else {
-    html += '<div class="cockpit-alert"><span class="dot-green"></span> Tout est qualifié</div>';
-  }
-  html += '</div></div>';
-
-  el.innerHTML = html;
-}
+// Advanced filters toggle
+window.toggleAdvancedFilters = function() {
+  const filters = document.getElementById('advanced-filters');
+  filters.classList.toggle('open');
+  document.getElementById('toggle-arrow').textContent = filters.classList.contains('open') ? '▴' : '▾';
+};
 
 // Init
 fetchData();
