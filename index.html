@@ -6,45 +6,50 @@
   <title>Early Brief — Veille Réglementaire</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant:wght@300;400;500;600&family=Hanken+Grotesk:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
   <style>
     :root {
-      --bg: #f8f8f8;
-      --surface: #ffffff;
-      --card: #ffffff;
-      --card-hover: #fafafa;
-      --border: #e6e8eb;
-      --border-light: #eceef1;
-      --text: #171717;
-      --muted: #6b6f76;
-      --subtle: #9b9fa7;
-      --brand: #3ecf8e;
-      --brand-dark: #24b47e;
-      --brand-light: #ddf8ec;
-      --brand-text: #0e6a45;
-      --amber: #f59e0b;
-      --amber-light: #fef3c7;
-      --amber-text: #92400e;
-      --red: #ef4444;
-      --red-light: #fef2f2;
-      --red-text: #991b1b;
-      --purple: #8b5cf6;
-      --purple-light: #f5f3ff;
-      --purple-text: #5b21b6;
-      --dark: #1c1c1c;
-      --radius: 6px;
-      --mono: 'JetBrains Mono', monospace;
+      --bg: #F4F0E6;
+      --surface: #FAF9F6;
+      --card: #FAF9F6;
+      --card-hover: #FFFFFF;
+      --border: rgba(26, 24, 20, 0.14);
+      --border-light: rgba(26, 24, 20, 0.08);
+      --text: #1A1814;
+      --muted: #4A4540;
+      --subtle: #8A8480;
+      --brand: #2C4A2E;
+      --brand-dark: #1e3520;
+      --brand-light: #e8ede8;
+      --brand-text: #2C4A2E;
+      --terra: #9E3D1B;
+      --terra-light: #fdf4f0;
+      --terra-text: #9E3D1B;
+      --amber: #b8860b;
+      --amber-light: #fdf6e3;
+      --amber-text: #7a5a08;
+      --red: #9E3D1B;
+      --red-light: #fdf4f0;
+      --red-text: #7a2e14;
+      --purple: #4a5a88;
+      --purple-light: #eef0f6;
+      --purple-text: #3a4870;
+      --dark: #1A1814;
+      --radius: 4px;
+      --mono: 'IBM Plex Mono', monospace;
+      --sans: 'Hanken Grotesk', sans-serif;
+      --display: 'Cormorant', serif;
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
-      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      font-family: var(--sans);
       color: var(--text);
       background: var(--bg);
       line-height: 1.6;
       -webkit-font-smoothing: antialiased;
       font-size: 14px;
     }
-    a { color: var(--brand-dark); text-decoration: none; }
+    a { color: var(--brand); text-decoration: none; }
     a:hover { text-decoration: underline; }
 
     /* Header */
@@ -60,15 +65,15 @@
       flex-wrap: wrap; gap: 24px;
     }
     .header h1 {
-      font-family: 'Inter', sans-serif;
-      font-weight: 600; font-size: 1.5rem;
-      letter-spacing: -0.025em; line-height: 1.2;
+      font-family: var(--display);
+      font-weight: 300; font-size: 2.2rem;
+      letter-spacing: -0.02em; line-height: 1;
     }
-    .header h1 span { color: var(--brand-dark); }
+    .header h1 span { color: var(--terra); font-weight: 400; }
     .header .subtitle {
       font-family: var(--mono);
       font-size: 0.72rem; color: var(--subtle);
-      margin-top: 6px; letter-spacing: 0.02em;
+      margin-top: 8px; letter-spacing: 0.04em; text-transform: uppercase;
     }
     .stats-row {
       display: flex; gap: 24px; flex-wrap: wrap;
@@ -91,18 +96,18 @@
     }
     .nav-tab {
       padding: 10px 20px; border: none; cursor: pointer;
-      font-family: 'Inter', sans-serif; font-size: 0.82rem;
-      color: var(--muted); background: transparent;
+      font-family: var(--mono); font-size: 0.78rem;
+      color: var(--subtle); background: transparent;
       border-bottom: 2px solid transparent;
       transition: all 150ms ease;
-      font-weight: 500; border-radius: var(--radius) var(--radius) 0 0;
+      letter-spacing: 0.02em;
     }
-    .nav-tab:hover { color: var(--text); background: var(--bg); }
+    .nav-tab:hover { color: var(--text); }
     .nav-tab.active {
-      color: var(--brand-dark); border-bottom-color: var(--brand);
+      color: var(--brand); border-bottom-color: var(--brand); font-weight: 500;
     }
     .nav-tab .count {
-      background: var(--brand); color: #fff;
+      background: var(--terra); color: #fff;
       font-size: 0.65rem; padding: 2px 7px;
       margin-left: 6px; font-weight: 600; border-radius: 10px;
     }
@@ -130,7 +135,7 @@
     .search-box input:focus {
       outline: none;
       border-color: var(--brand);
-      box-shadow: 0 0 0 3px rgba(62, 207, 142, 0.15);
+      box-shadow: 0 0 0 3px rgba(44, 74, 46, 0.12);
     }
     .search-box::before {
       content: ""; position: absolute; left: 12px; top: 50%;
@@ -139,7 +144,7 @@
     }
     .filter-select {
       padding: 9px 12px; border: 1px solid var(--border);
-      font-family: 'Inter', sans-serif; font-size: 0.8rem;
+      font-family: var(--mono); font-size: 0.78rem;
       background: var(--surface); cursor: pointer; color: var(--text);
       border-radius: var(--radius);
       transition: all 150ms;
@@ -148,7 +153,7 @@
     .filter-select:focus {
       outline: none;
       border-color: var(--brand);
-      box-shadow: 0 0 0 3px rgba(62, 207, 142, 0.15);
+      box-shadow: 0 0 0 3px rgba(44, 74, 46, 0.12);
     }
 
     /* Cards */
@@ -173,7 +178,7 @@
       line-height: 1.45; letter-spacing: -0.01em;
     }
     .card-title a { color: var(--text); }
-    .card-title a:hover { color: var(--brand-dark); text-decoration: none; }
+    .card-title a:hover { color: var(--brand); text-decoration: none; }
     .card-meta {
       display: flex; gap: 6px; align-items: center; flex-wrap: wrap;
       margin-bottom: 10px;
@@ -283,16 +288,16 @@
     }
     .detail-btn {
       padding: 7px 14px; font-size: 0.8rem;
-      font-family: 'Inter', sans-serif;
+      font-family: var(--mono);
       border: 1px solid var(--border); background: var(--surface);
       cursor: pointer; color: var(--text); border-radius: var(--radius);
-      transition: all 120ms; font-weight: 500;
+      transition: all 120ms;
     }
     .detail-btn:hover { background: var(--bg); border-color: #cdd0d5; }
     .detail-btn-primary {
-      background: var(--brand); color: #fff; border-color: var(--brand);
+      background: var(--brand); color: var(--surface); border-color: var(--brand);
     }
-    .detail-btn-primary:hover { background: var(--brand-dark); border-color: var(--brand-dark); }
+    .detail-btn-primary:hover { background: var(--brand-dark); border-color: var(--brand); }
 
     /* Date range filter */
     .date-filter {
@@ -306,7 +311,7 @@
     }
     .date-filter input[type="date"]:focus {
       outline: none; border-color: var(--brand);
-      box-shadow: 0 0 0 3px rgba(62, 207, 142, 0.15);
+      box-shadow: 0 0 0 3px rgba(44, 74, 46, 0.12);
     }
     .date-filter span {
       font-size: 0.75rem; color: var(--subtle);
@@ -322,10 +327,10 @@
       font-family: var(--mono);
       border-radius: var(--radius);
     }
-    .score-low { background: #9ca3af; }
+    .score-low { background: var(--subtle); }
     .score-med { background: var(--amber); }
-    .score-high { background: #f97316; }
-    .score-critical { background: var(--red); }
+    .score-high { background: var(--terra); }
+    .score-critical { background: #7a1e0e; }
     .btn-star {
       background: var(--surface); border: 1px solid var(--border);
       width: 36px; height: 36px; cursor: pointer; font-size: 1rem;
@@ -371,7 +376,7 @@
       margin-left: auto;
       font-weight: 700;
       font-size: 1.15rem;
-      color: var(--brand-dark);
+      color: var(--terra);
       font-family: var(--mono);
     }
 
@@ -411,7 +416,7 @@
       border-radius: 4px; flex-shrink: 0;
     }
     .cockpit-item a { color: var(--text); font-weight: 500; }
-    .cockpit-item a:hover { color: var(--brand-dark); text-decoration: none; }
+    .cockpit-item a:hover { color: var(--brand); text-decoration: none; }
     .cockpit-item .cockpit-source {
       font-size: 0.7rem; color: var(--subtle);
       font-family: var(--mono);
