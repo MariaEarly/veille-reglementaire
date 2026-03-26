@@ -1230,7 +1230,7 @@ function renderSidebar() {
   const catGroups = { 'autorite_fr': 'Autorités FR', 'autorite_eu': 'Autorités EU', 'autorite_intl': 'International', 'presse': 'Presse', 'social': 'Réseaux sociaux', 'email': 'Email' };
   const grouped = {};
   state.sources.forEach(s => {
-    const cat = s.source_type || 'presse';
+    const cat = s.category || s.source_type || 'presse';
     if (!grouped[cat]) grouped[cat] = [];
     grouped[cat].push(s);
   });
