@@ -1160,8 +1160,15 @@ async function fetchData() {
         early_brief: localItem.early_brief !== undefined ? localItem.early_brief : (item.early_brief || false),
         note: localItem.note || '',
         ai_summary: item.ai_summary || null,
+        published_in_edition: item.published_in_edition || false,
       };
     });
+
+    // Mark articles already published in past editions (from localStorage)
+    const pubHashes = new Set(JSON.parse(localStorage.getItem('earlybrief_published_hashes') || '[]'));
+    if (pubHashes.size) {
+      state.items.forEach(i => { if (pubHashes.has(i.hash)) i.published_in_edition = true; });
+    }
 
     const lastUpdate = raw.last_update ? new Date(raw.last_update) : null;
     if (lastUpdate) {
@@ -1280,6 +1287,10 @@ function renderCard(item, full) {
   const isSocial = item.source_type === 'social';
   if (isSocial) {
     footer += `<span class="chip social-signal">Signal</span>`;
+  }
+
+  if (item.published_in_edition) {
+    footer += `<span class="chip" style="background:#e8e8e8; color:#888;">Déjà publié</span>`;
   }
 
   if (item.early_brief) {
@@ -1582,6 +1593,7 @@ window.exportBrief = function() {
   if (!items.length) { showToast('Aucun article dans Early Brief'); return; }
 
   const today = new Date().toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' });
+  const todayISO = new Date().toISOString();
   let md = `# Early Brief — ${today}\n\n`;
 
   items.forEach((item, idx) => {
@@ -1602,7 +1614,52 @@ window.exportBrief = function() {
   textarea.select();
   try { navigator.clipboard.writeText(md); showToast('Draft copié dans le presse-papier'); }
   catch(e) { showToast('Draft généré — sélectionnez et copiez'); }
+
+  // Save edition + mark published
+  saveEdition(items, todayISO, md);
 };
+
+function saveEdition(items, date, markdown) {
+  const edition = {
+    date: date,
+    label: new Date(date).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' }),
+    articles: items.map(i => ({
+      hash: i.hash, title: i.title, source: i.source,
+      published: i.published, score: i.score,
+      note: i.note || '', url: i.url || ''
+    })),
+    markdown: markdown
+  };
+
+  // Save to localStorage
+  const editions = JSON.parse(localStorage.getItem('earlybrief_editions') || '[]');
+  editions.unshift(edition);
+  localStorage.setItem('earlybrief_editions', JSON.stringify(editions));
+
+  // Track published hashes
+  const pubHashes = new Set(items.map(i => i.hash));
+  const published = new Set(JSON.parse(localStorage.getItem('earlybrief_published_hashes') || '[]'));
+  pubHashes.forEach(h => published.add(h));
+  localStorage.setItem('earlybrief_published_hashes', JSON.stringify([...published]));
+
+  // Mark in state + deselect
+  state.items.forEach(i => {
+    if (pubHashes.has(i.hash)) {
+      i.published_in_edition = true;
+      i.early_brief = false;
+    }
+  });
+
+  // Download editions.json backup
+  const blob = new Blob([JSON.stringify(editions, null, 2)], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'editions.json';
+  a.click();
+
+  renderCurrentTab();
+  showToast(`Édition sauvegardée (${items.length} articles)`);
+}
 
 // Sidebar filter handlers
 document.querySelectorAll('.sidebar-item[data-filter]').forEach(item => {
