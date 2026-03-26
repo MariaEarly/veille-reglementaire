@@ -61,10 +61,8 @@ SEED_SOURCES = [
     {"name": "Corporate Compliance Insights", "url": "https://www.corporatecomplianceinsights.com/feed/", "type": "press", "category": "presse"},
     {"name": "Financial Crime News", "url": "https://thefinancialcrimenews.com/feed/", "type": "press", "category": "presse"},
     {"name": "ComplyAdvantage", "url": "https://complyadvantage.com/insights/feed/", "type": "press", "category": "presse"},
-    # GAFI/FATF — RSS natif bloqué (403 WAF). Créer un feed RSS.app sur :
-    # https://www.fatf-gafi.org/en/the-fatf/news.html
-    # puis coller l'URL RSS.app ci-dessous (slot 11/15)
-    {"name": "GAFI/FATF News", "url": "TODO_RSSAPP_FATF_FEED_URL", "type": "rss", "category": "autorite_intl"},
+    # GAFI/FATF — RSS natif bloqué (403 WAF), Google News RSS comme proxy
+    {"name": "GAFI/FATF News", "url": "https://news.google.com/rss/search?q=FATF+OR+GAFI+%22anti-money+laundering%22+OR+%22blanchiment%22&hl=en", "type": "rss", "category": "autorite_intl"},
     # Commission EU — Sanctions guidance & alerts (RSS fonctionnel)
     {"name": "Commission EU - Sanctions", "url": "https://finance.ec.europa.eu/node/1296/rss_en", "type": "rss", "category": "autorite_eu"},
     {"name": "Commission EU - Sanctions FAQ", "url": "https://finance.ec.europa.eu/node/1068/rss_en", "type": "rss", "category": "autorite_eu"},
