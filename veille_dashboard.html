@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Veille Réglementaire</title>
+  <style>
+    :root {
+      --bg: #f5f1e8;
+      --surface: #fffaf0;
+      --card: #ffffff;
+      --border: #d6c7ad;
+      --text: #1f1a14;
+      --muted: #6f6558;
+      --accent: #9f3d24;
+      --accent2: #1e5b52;
+      --success: #2d8176;
+      --warn: #a36a00;
+      --radius: 12px;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Georgia", serif;
+      color: var(--text);
+      background: radial-gradient(circle at top left, rgba(159,61,36,0.07), transparent 24rem),
+                  radial-gradient(circle at bottom right, rgba(30,91,82,0.07), transparent 24rem),
+                  var(--bg);
+      line-height: 1.55;
+    }
+    a { color: var(--accent2); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* Header */
+    .header {
+      background: linear-gradient(135deg, rgba(255,255,255,0.96), rgba(255,250,240,0.96));
+      border-bottom: 1px solid var(--border);
+      padding: 18px 24px;
+      position: sticky; top: 0; z-index: 100;
+      box-shadow: 0 2px 12px rgba(31,26,20,0.08);
+    }
+    .header-inner {
+      max-width: 1300px; margin: 0 auto;
+      display: flex; align-items: center; justify-content: space-between; gap: 16px;
+      flex-wrap: wrap;
+    }
+    .header h1 { font-size: 1.5rem; letter-spacing: -0.02em; }
+    .header .meta { color: var(--muted); font-size: 0.88rem; }
+    .stats-row {
+      display: flex; gap: 16px; flex-wrap: wrap;
+    }
+    .stat-chip {
+      background: var(--card); border: 1px solid var(--border); border-radius: 20px;
+      padding: 6px 14px; font-size: 0.88rem; display: flex; align-items: center; gap: 6px;
+    }
+    .stat-chip strong { font-size: 1.1rem; }
+
+    /* Tabs */
+    .tabs {
+      max-width: 1300px; margin: 0 auto; padding: 16px 24px 0;
+      display: flex; gap: 4px;
+    }
+    .tab {
+      padding: 10px 20px; border-radius: 10px 10px 0 0;
+      background: transparent; border: none; cursor: pointer;
+      font: inherit; font-size: 0.95rem; color: var(--muted);
+      transition: all 150ms ease;
+    }
+    .tab:hover { background: rgba(159,61,36,0.06); }
+    .tab.active {
+      background: var(--card); color: var(--text); font-weight: 600;
+      box-shadow: 0 -2px 8px rgba(31,26,20,0.06);
+    }
+    .tab .badge {
+      background: var(--accent); color: #fff; border-radius: 10px;
+      padding: 1px 8px; font-size: 0.78rem; margin-left: 6px;
+    }
+
+    /* Content */
+    .content {
+      max-width: 1300px; margin: 0 auto; padding: 0 24px 48px;
+    }
+    .panel {
+      background: var(--card); border: 1px solid var(--border);
+      border-radius: 0 var(--radius) var(--radius) var(--radius);
+      padding: 24px; min-height: 400px;
+      box-shadow: 0 4px 16px rgba(31,26,20,0.06);
+    }
+
+    /* Search & Filters */
+    .toolbar {
+      display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 20px;
+      align-items: center;
+    }
+    .search-box {
+      flex: 1; min-width: 260px; position: relative;
+    }
+    .search-box input {
+      width: 100%; padding: 10px 14px 10px 38px;
+      border: 1px solid var(--border); border-radius: 10px;
+      font: inherit; font-size: 0.95rem; background: var(--surface);
+      transition: border-color 150ms;
+    }
+    .search-box input:focus { outline: none; border-color: var(--accent2); }
+    .search-box::before {
+      content: "🔍"; position: absolute; left: 12px; top: 50%;
+      transform: translateY(-50%); font-size: 0.9rem;
+    }
+    select {
+      padding: 10px 14px; border: 1px solid var(--border);
+      border-radius: 10px; font: inherit; font-size: 0.9rem;
+      background: var(--surface); cursor: pointer;
+    }
+    select:focus { outline: none; border-color: var(--accent2); }
+
+    /* Cards */
+    .cards { display: grid; gap: 14px; }
+    .card {
+      background: var(--card); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 18px;
+      transition: box-shadow 150ms, transform 150ms;
+      display: grid; grid-template-columns: 1fr auto; gap: 12px;
+    }
+    .card:hover {
+      box-shadow: 0 6px 20px rgba(31,26,20,0.1);
+      transform: translateY(-1px);
+    }
+    .card-body { min-width: 0; }
+    .card-title {
+      font-size: 1.05rem; font-weight: 600; margin-bottom: 6px;
+      line-height: 1.35;
+    }
+    .card-title a { color: var(--text); }
+    .card-title a:hover { color: var(--accent2); text-decoration: none; }
+    .card-meta {
+      display: flex; gap: 8px; align-items: center; flex-wrap: wrap;
+      margin-bottom: 8px;
+    }
+    .pill {
+      display: inline-flex; align-items: center; padding: 3px 10px;
+      border-radius: 20px; font-size: 0.78rem; font-weight: 500;
+    }
+    .pill-source { color: #fff; }
+    .pill-category {
+      background: #efe4d2; color: var(--text);
+    }
+    .pill-status { cursor: pointer; user-select: none; }
+    .pill-status.new { background: #dcefe8; color: #1e5b52; }
+    .pill-status.important { background: #f6dfd0; color: #8a3119; }
+    .pill-status.reviewed { background: #dde4f0; color: #2c3e80; }
+    .pill-status.archived { background: #e8e4de; color: #6f6558; }
+    .card-summary {
+      color: var(--muted); font-size: 0.9rem; line-height: 1.5;
+      display: -webkit-box; -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical; overflow: hidden;
+    }
+    .card-date { color: var(--muted); font-size: 0.82rem; margin-top: 6px; }
+    .card-actions {
+      display: flex; flex-direction: column; gap: 8px;
+      align-items: center; justify-content: flex-start;
+    }
+    .score-badge {
+      width: 48px; height: 48px; border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1rem; font-weight: 700; color: #fff;
+    }
+    .score-low { background: #90a4ae; }
+    .score-med { background: #f9a825; }
+    .score-high { background: #e65100; }
+    .score-critical { background: #b71c1c; }
+    .btn-star {
+      background: none; border: 1px solid var(--border); border-radius: 8px;
+      width: 40px; height: 40px; cursor: pointer; font-size: 1.2rem;
+      display: flex; align-items: center; justify-content: center;
+      transition: all 150ms;
+    }
+    .btn-star:hover { background: #fff8e1; border-color: #f9a825; }
+    .btn-star.active { background: #fff8e1; border-color: #f9a825; }
+
+    /* Sources tab */
+    .sources-grid {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 14px;
+    }
+    .source-card {
+      background: var(--card); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 16px;
+      display: flex; align-items: center; gap: 12px;
+    }
+    .source-dot {
+      width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0;
+    }
+    .source-card h3 { font-size: 0.95rem; margin-bottom: 2px; }
+    .source-card .meta { color: var(--muted); font-size: 0.82rem; }
+    .source-card .count { margin-left: auto; font-weight: 700; font-size: 1.1rem; color: var(--accent); }
+
+    /* Empty state */
+    .empty {
+      text-align: center; padding: 48px 24px; color: var(--muted);
+    }
+    .empty p { font-size: 1.05rem; }
+
+    /* Toast */
+    .toast {
+      position: fixed; bottom: 24px; right: 24px; z-index: 200;
+      background: #333; color: #fff; padding: 12px 20px;
+      border-radius: 10px; font-size: 0.9rem; opacity: 0;
+      transform: translateY(10px);
+      transition: all 300ms ease;
+    }
+    .toast.show { opacity: 1; transform: translateY(0); }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .header-inner { flex-direction: column; align-items: flex-start; }
+      .card { grid-template-columns: 1fr; }
+      .card-actions { flex-direction: row; justify-content: flex-start; }
+      .tabs { overflow-x: auto; }
+      .toolbar { flex-direction: column; }
+      .search-box { min-width: 100%; }
+    }
+  </style>
+</head>
+<body>
+
+<header class="header">
+  <div class="header-inner">
+    <div>
+      <h1>Veille Réglementaire</h1>
+      <div class="meta">Dernière mise à jour : 26/03/2026 à 08:34</div>
+    </div>
+    <div class="stats-row">
+      <div class="stat-chip"><strong id="stat-total">0</strong> articles</div>
+      <div class="stat-chip"><strong id="stat-important">0</strong> importants</div>
+      <div class="stat-chip">⭐ <strong id="stat-brief">0</strong> Early Brief</div>
+      <div class="stat-chip"><strong id="stat-sources">0</strong> sources</div>
+    </div>
+  </div>
+</header>
+
+<nav class="tabs" id="tabs">
+  <button class="tab active" data-tab="feed">Fil d'actualité</button>
+  <button class="tab" data-tab="brief">Early Brief <span class="badge" id="brief-badge">0</span></button>
+  <button class="tab" data-tab="sources">Sources</button>
+</nav>
+
+<main class="content">
+  <!-- Fil d'actualité -->
+  <div class="panel" id="panel-feed">
+    <div class="toolbar">
+      <div class="search-box">
+        <input type="text" id="search" placeholder="Rechercher dans les articles..." />
+      </div>
+      <select id="filter-category">
+        <option value="">Toutes catégories</option>
+        <option value="autorité_fr">🇫🇷 Autorités FR</option>
+        <option value="autorité_eu">🇪🇺 Autorités EU</option>
+        <option value="autorité_intl">🌍 International</option>
+        <option value="officiel_fr">📜 Textes officiels</option>
+        <option value="presse">📰 Presse</option>
+      </select>
+      <select id="filter-status">
+        <option value="">Tous statuts</option>
+        <option value="important">Important</option>
+        <option value="new">Nouveau</option>
+        <option value="reviewed">Relu</option>
+        <option value="archived">Archivé</option>
+      </select>
+      <select id="filter-score">
+        <option value="0">Score min : 0</option>
+        <option value="20">Score ≥ 20</option>
+        <option value="40">Score ≥ 40</option>
+        <option value="60">Score ≥ 60</option>
+      </select>
+      <select id="sort-by">
+        <option value="score">Tri : Score ↓</option>
+        <option value="date">Tri : Date ↓</option>
+      </select>
+    </div>
+    <div class="cards" id="feed-cards"></div>
+  </div>
+
+  <!-- Early Brief -->
+  <div class="panel" id="panel-brief" style="display:none;">
+    <p style="margin-bottom:16px; color:var(--muted);">Articles sélectionnés pour la prochaine édition d'Early Brief.</p>
+    <div class="cards" id="brief-cards"></div>
+  </div>
+
+  <!-- Sources -->
+  <div class="panel" id="panel-sources" style="display:none;">
+    <p style="margin-bottom:16px; color:var(--muted);">16 sources configurées, réparties par catégorie.</p>
+    <div class="sources-grid" id="sources-grid"></div>
+  </div>
+</main>
+
+<div class="toast" id="toast"></div>
+
+<script>
+// Embedded data from Python collection
+const RAW_ITEMS = [{"title": "LCB-FT : état de la menace 2024-2025", "url": "https://www.economie.gouv.fr/tracfin/lcb-ft-etat-de-la-menace-2024-2025", "summary": "Tracfin publie le tome 3 de son rapport d'activité consacré à l'état de la menace en matière de LCB-FT sur la période 2024-2025. Cette publication présente 21 cas typologiques consacrés aux tendances, récurrentes ou émergentes, en matière de blanchiment de capitaux et de financement du terrorisme (BC-FT).", "author": "", "published": "2025-09-29T18:34:47", "source": "Tracfin", "category": "autorité_fr", "color": "#1a4d2e", "score": 60, "hash": "b8f7aec10d986dcb"}, {"title": "Troisième Forum Tracfin à Bercy", "url": "https://www.economie.gouv.fr/tracfin/troisieme-forum-tracfin-bercy", "summary": "Le vendredi 7 novembre 2025, Tracfin organisait à Bercy (Paris) la troisième édition de son Forum destiné aux professionnels de la lutte contre le blanchiment de capitaux et le financement du terrorisme (LCB-FT).", "author": "", "published": "2025-11-10T18:04:17", "source": "Tracfin", "category": "autorité_fr", "color": "#1a4d2e", "score": 60, "hash": "c96f74ca209ebf08"}, {"title": "FOCUS TRACFIN N°1 : Le blanchiment de capitaux et le financement du terrorisme dans le secteur de l’art", "url": "https://www.economie.gouv.fr/tracfin/focus-tracfin-ndeg1-le-blanchiment-de-capitaux-et-le-financement-du-terrorisme-dans-le-secteur-de-lart", "summary": "Dans ce premier numéro de FOCUS TRACFIN, Tracfin propose de traiter la lutte contre le blanchiment de capitaux et le financement du terrorisme (LCB-FT) dans le secteur de l’art.", "author": "", "published": "2026-02-02T19:01:59", "source": "Tracfin", "category": "autorité_fr", "color": "#1a4d2e", "score": 60, "hash": "fafcdb79b011544e"}, {"title": "Tracfin et la DGCCRF publient deux brochures pédagogiques sur le dispositif LCB-FT à destination des professionnels déclarants", "url": "https://www.economie.gouv.fr/tracfin/tracfin-et-la-dgccrf-publient-deux-brochures-pedagogiques-sur-le-dispositif-lcb-ft-destination-des-professionnels-declarants", "summary": "Proposées pour accompagner les professionnels de l’immobilier et de la domiciliation d’entreprise, Tracfin et la Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) mettent à disposition deux nouvelles brochures pédagogiques. Celles-ci visent à clarifier les obligations liées au dispositif de lutte contre le blanchiment de capitaux et le financement du terrorisme (LCB-FT) afin de faciliter leur application au quotidien.", "author": "", "published": "2026-02-09T10:17:47", "source": "Tracfin", "category": "autorité_fr", "color": "#1a4d2e", "score": 60, "hash": "b1dd293b300a9620"}, {"title": "Tracfin dévoile ses valeurs et sa devise", "url": "https://www.economie.gouv.fr/tracfin/tracfin-devoile-ses-valeurs-et-sa-devise", "summary": "En début d’année 2025, Tracfin a engagé une réflexion interne sur les principes qui fondent son action et le sens de sa mission. Ce travail a permis de définir quatre valeurs cardinales : Vigilance – Expertise – Discrétion – Intégrité ainsi qu’une devise claire : « Faire parler l’argent ».", "author": "", "published": "2025-10-02T10:37:31", "source": "Tracfin", "category": "autorité_fr", "color": "#1a4d2e", "score": 40, "hash": "43c7008098894561"}, {"title": "Tracfin : Visite du Premier ministre, François BAYROU", "url": "https://www.economie.gouv.fr/tracfin/tracfin-visite-du-premier-ministre-francois-bayrou", "summary": "Le 31 juillet dernier, François BAYROU, Premier ministre, s'est rendu dans les locaux de Tracfin. Une visite historique puisque c'était la première fois depuis sa création en 1990, qu'un chef de gouvernement était accueilli par le service de renseignement financier de Bercy.", "author": "", "published": "2025-08-07T22:20:09", "source": "Tracfin", "category": "autorité_fr", "color": "#1a4d2e", "score": 30, "hash": "a42494c23c8b0d0f"}, {"title": "L'activité de Tracfin - Bilan 2024", "url": "https://www.economie.gouv.fr/tracfin/lactivite-de-tracfin-bilan-2024", "summary": "En 2024, Tracfin accroît son impact avec 4 000 notes d’information transmises à ses partenaires.", "author": "", "published": "2025-09-05T10:47:17", "source": "Tracfin", "category": "autorité_fr", "color": "#1a4d2e", "score": 30, "hash": "7f3a4bc93e958b14"}, {"title": "Clément LARRAURI nommé sous-directeur, adjoint au directeur de Tracfin", "url": "https://www.economie.gouv.fr/tracfin/clement-larrauri-nomme-sous-directeur-adjoint-au-directeur-de-tracfin", "summary": "Par arrêté du Premier ministre et du ministre de l’économie, des finances et de la souveraineté industrielle et numérique du 24 septembre 2025, M. Clément LARRAURI, administrateur de l’État du premier grade, est nommé sous-directeur, adjoint au directeur du service à compétence nationale Tracfin, à l’administration centrale des ministères économiques et financiers, à compter du 13 octobre 2025.", "author": "", "published": "2025-10-13T15:05:36", "source": "Tracfin", "category": "autorité_fr", "color": "#1a4d2e", "score": 30, "hash": "2fd7c9832950f8b4"}, {"title": "Podcast : la saison 3 d'HABILITÉ.E.S, le podcast de Tracfin est disponible !", "url": "https://www.economie.gouv.fr/tracfin/podcast-la-saison-3-dhabilitees-le-podcast-de-tracfin-est-disponible", "summary": "Tracfin présente la troisième saison du podcast \"HABILITÉ.E.S\" ! Découvrez une nouvelle série de portraits d’agents, tous habilités “très secret”, qui œuvrent chaque jour pour faire parler l’argent.", "author": "", "published": "2025-11-12T11:13:44", "source": "Tracfin", "category": "autorité_fr", "color": "#1a4d2e", "score": 30, "hash": "5050a9f5263d66cd"}, {"title": "Tracfin et la CNCCFP renforcent leur collaboration", "url": "https://www.economie.gouv.fr/tracfin/tracfin-et-la-cnccfp-renforcent-leur-collaboration", "summary": "Le 3 décembre dernier, Tracfin et la Commission nationale des comptes de campagne et des financements politiques (CNCCFP) ont conclu un protocole qui vient renforcer leurs échanges et améliorer la détection des infractions liées au financement de la vie politique.", "author": "", "published": "2025-12-09T15:50:49", "source": "Tracfin", "category": "autorité_fr", "color": "#1a4d2e", "score": 30, "hash": "f891e2e3e7d0a226"}, {"title": "Frank Elderson: Nature in decline, economy on the line: the importance of international cooperation for managing nature-related risks", "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260309~6cfdbd02b7.en.html", "summary": "", "author": "", "published": "2026-03-09T10:30:00+01:00", "source": "BCE", "category": "autorité_eu", "color": "#004d99", "score": 22, "hash": "89cf3d2c2d0a91cb"}, {"title": "Christine Lagarde: Navigating energy shocks: risks and policy responses", "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260325~ac2916a211.en.html", "summary": "", "author": "", "published": "2026-03-25T09:45:00+01:00", "source": "BCE", "category": "autorité_eu", "color": "#004d99", "score": 22, "hash": "aaccf008a983fa6b"}, {"title": "Eurosystem Unveils Appia Roadmap for Europe’s Tokenised Finance", "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260311~14ddf51a77.en.html", "summary": "", "author": "", "published": "2026-03-11T10:00:00+01:00", "source": "BCE", "category": "autorité_eu", "color": "#004d99", "score": 17, "hash": "28007035250254c5"}, {"title": "ECB welcomes decision on new site for European School Frankfurt", "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260311_1~517a097089.en.html", "summary": "", "author": "", "published": "2026-03-11T13:00:00+01:00", "source": "BCE", "category": "autorité_eu", "color": "#004d99", "score": 17, "hash": "da892e39099f7702"}, {"title": "Monetary policy decisions", "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260319~3057739775.en.html", "summary": "", "author": "", "published": "2026-03-19T14:15:00+01:00", "source": "BCE", "category": "autorité_eu", "color": "#004d99", "score": 17, "hash": "77b2c6fd1fc1368c"}, {"title": "Christine Lagarde, Luis de Guindos: Monetary policy statement (with Q&A)", "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260319~93b1cbad97.en.html", "summary": "", "author": "", "published": "2026-03-19T15:00:00+01:00", "source": "BCE", "category": "autorité_eu", "color": "#004d99", "score": 17, "hash": "cd1ec2e6df2c0ee6"}, {"title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)", "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260320~5dfc6af626.en.html", "summary": "", "author": "", "published": "2026-03-20T15:00:00+01:00", "source": "BCE", "category": "autorité_eu", "color": "#004d99", "score": 17, "hash": "6ad7c749944218d4"}, {"title": "Piero Cipollone: Digital euro - why?", "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260321~bf2186fc07.en.pdf", "summary": "", "author": "", "published": "2026-03-21T09:30:00+01:00", "source": "BCE", "category": "autorité_eu", "color": "#004d99", "score": 17, "hash": "da1038cb430b1433"}, {"title": "Luis de Guindos: Interview with El Mundo", "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260323~b893c61107.en.html", "summary": "", "author": "", "published": "2026-03-23T07:00:00+01:00", "source": "BCE", "category": "autorité_eu", "color": "#004d99", "score": 17, "hash": "9f83dd4cf7652099"}, {"title": "New data release: ECB wage tracker continues to suggest negotiated wage pressures easing in 2026", "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260323~ba4ddfe349.en.html", "summary": "", "author": "", "published": "2026-03-23T10:00:00+01:00", "source": "BCE", "category": "autorité_eu", "color": "#004d99", "score": 17, "hash": "dd8be516049e6a63"}, {"title": "Piero Cipollone: Building the rails for Europe’s tokenised financial markets", "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260323~a88f20c049.en.html", "summary": "", "author": "", "published": "2026-03-23T16:00:00+01:00", "source": "BCE", "category": "autorité_eu", "color": "#004d99", "score": 17, "hash": "a679772b1b1b7293"}, {"title": "Philip R. Lane: AI and the euro area economy", "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260323_1~1e06784a89.en.html", "summary": "", "author": "", "published": "2026-03-23T17:00:00+01:00", "source": "BCE", "category": "autorité_eu", "color": "#004d99", "score": 17, "hash": "fc29d8ad91865240"}, {"title": "ECB to open its doors for the Night of the Museums on 25 April 2026", "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260324~c439239caa.en.html", "summary": "", "author": "", "published": "2026-03-24T12:00:00+01:00", "source": "BCE", "category": "autorité_eu", "color": "#004d99", "score": 17, "hash": "74cf8c3bc18b2d58"}, {"title": "Piero Cipollone: The digital euro: preparing for a potential launch", "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260324~66f71f7577.en.html", "summary": "", "author": "", "published": "2026-03-24T14:30:00+01:00", "source": "BCE", "category": "autorité_eu", "color": "#004d99", "score": 17, "hash": "12cde3a91c811652"}, {"title": "Philip R. Lane: The outlook for the euro area economy", "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260325_1~6b0b29cdd4.en.pdf", "summary": "", "author": "", "published": "2026-03-25T10:15:00+01:00", "source": "BCE", "category": "autorité_eu", "color": "#004d99", "score": 17, "hash": "02a96fe290408dbc"}];
+const SOURCE_STATS = [{"name": "ACPR", "count": 0, "category": "autorité_fr"}, {"name": "AMF", "count": 0, "category": "autorité_fr"}, {"name": "Tracfin", "count": 10, "category": "autorité_fr"}, {"name": "Banque de France", "count": 0, "category": "autorité_fr"}, {"name": "Légifrance - JORF", "count": 0, "category": "officiel_fr"}, {"name": "DG Trésor", "count": 0, "category": "autorité_fr"}, {"name": "EBA", "count": 0, "category": "autorité_eu"}, {"name": "ESMA", "count": 0, "category": "autorité_eu"}, {"name": "EUR-Lex", "count": 0, "category": "autorité_eu"}, {"name": "Commission EU - Finance", "count": 0, "category": "autorité_eu"}, {"name": "BCE", "count": 15, "category": "autorité_eu"}, {"name": "FATF / GAFI", "count": 0, "category": "autorité_intl"}, {"name": "Comité de Bâle", "count": 0, "category": "autorité_intl"}, {"name": "BRI / BIS", "count": 0, "category": "autorité_intl"}, {"name": "AGEFI Réglementation", "count": 0, "category": "presse"}, {"name": "Revue Banque", "count": 0, "category": "presse"}];
+const SOURCES_CONFIG = [{"name": "ACPR", "url": "https://acpr.banque-france.fr/rss", "category": "autorité_fr", "color": "#1e3a5f"}, {"name": "AMF", "url": "https://www.amf-france.org/fr/rss/actualites", "category": "autorité_fr", "color": "#003366"}, {"name": "Tracfin", "url": "https://www.economie.gouv.fr/tracfin/rss", "category": "autorité_fr", "color": "#1a4d2e"}, {"name": "Banque de France", "url": "https://www.banque-france.fr/rss", "category": "autorité_fr", "color": "#2c3e50"}, {"name": "Légifrance - JORF", "url": "https://www.legifrance.gouv.fr/eli/jo/rss", "category": "officiel_fr", "color": "#4a0e4e"}, {"name": "DG Trésor", "url": "https://www.tresor.economie.gouv.fr/Articles/rss", "category": "autorité_fr", "color": "#1b5e20"}, {"name": "EBA", "url": "https://www.eba.europa.eu/rss-feeds", "category": "autorité_eu", "color": "#003399"}, {"name": "ESMA", "url": "https://www.esma.europa.eu/rss", "category": "autorité_eu", "color": "#1565c0"}, {"name": "EUR-Lex", "url": "https://eur-lex.europa.eu/rss/act-rss.xml", "category": "autorité_eu", "color": "#0d47a1"}, {"name": "Commission EU - Finance", "url": "https://finance.ec.europa.eu/rss_en", "category": "autorité_eu", "color": "#1a237e"}, {"name": "BCE", "url": "https://www.ecb.europa.eu/rss/press.html", "category": "autorité_eu", "color": "#004d99"}, {"name": "FATF / GAFI", "url": "https://www.fatf-gafi.org/en/rss.xml", "category": "autorité_intl", "color": "#bf360c"}, {"name": "Comité de Bâle", "url": "https://www.bis.org/bcbs/bcbsrss.xml", "category": "autorité_intl", "color": "#e65100"}, {"name": "BRI / BIS", "url": "https://www.bis.org/doclist/allrss.rss", "category": "autorité_intl", "color": "#d84315"}, {"name": "AGEFI Réglementation", "url": "https://www.agefi.fr/rss", "category": "presse", "color": "#795548"}, {"name": "Revue Banque", "url": "https://www.revue-banque.fr/feed", "category": "presse", "color": "#6d4c41"}];
+
+// State (in-memory, persists via data attributes in DOM for starred items)
+const state = {
+  items: RAW_ITEMS.map((item, i) => ({
+    ...item,
+    id: i,
+    status: item.score >= 40 ? 'important' : 'new',
+    early_brief: false,
+  })),
+  activeTab: 'feed',
+};
+
+// Try to restore early_brief state from a previous session
+try {
+  const saved = JSON.parse(localStorage.getItem('veille_brief') || '{}');
+  state.items.forEach(item => {
+    if (saved[item.hash]) item.early_brief = true;
+  });
+} catch(e) {}
+
+function saveBriefState() {
+  const brief = {};
+  state.items.filter(i => i.early_brief).forEach(i => { brief[i.hash] = true; });
+  try { localStorage.setItem('veille_brief', JSON.stringify(brief)); } catch(e) {}
+}
+
+function escHtml(s) {
+  return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function relativeDate(iso) {
+  if (!iso) return '';
+  const d = new Date(iso);
+  const now = new Date();
+  const diff = (now - d) / 1000;
+  if (diff < 3600) return Math.max(1, Math.floor(diff / 60)) + ' min';
+  if (diff < 86400) return Math.floor(diff / 3600) + 'h';
+  if (diff < 604800) return Math.floor(diff / 86400) + 'j';
+  return d.toLocaleDateString('fr-FR');
+}
+
+function scoreClass(s) {
+  if (s >= 60) return 'score-critical';
+  if (s >= 40) return 'score-high';
+  if (s >= 20) return 'score-med';
+  return 'score-low';
+}
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2500);
+}
+
+function renderCard(item, showFullSummary) {
+  const starClass = item.early_brief ? 'btn-star active' : 'btn-star';
+  const statusClass = `pill pill-status ${item.status}`;
+  const summaryStyle = showFullSummary ? '' : 'display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;';
+  const title = item.url
+    ? `<a href="${escHtml(item.url)}" target="_blank" rel="noreferrer">${escHtml(item.title)}</a>`
+    : escHtml(item.title);
+
+  return `
+    <article class="card" data-id="${item.id}">
+      <div class="card-body">
+        <div class="card-title">${title}</div>
+        <div class="card-meta">
+          <span class="pill pill-source" style="background:${item.color}">${escHtml(item.source)}</span>
+          <span class="pill pill-category">${categoryLabel(item.category)}</span>
+          <span class="${statusClass}" onclick="cycleStatus(${item.id})">${escHtml(item.status)}</span>
+        </div>
+        <div class="card-summary" style="${summaryStyle}">${escHtml(item.summary)}</div>
+        <div class="card-date">${relativeDate(item.published)}</div>
+      </div>
+      <div class="card-actions">
+        <div class="score-badge ${scoreClass(item.score)}">${item.score}</div>
+        <button class="${starClass}" onclick="toggleBrief(${item.id})" title="Early Brief">⭐</button>
+      </div>
+    </article>
+  `;
+}
+
+function categoryLabel(cat) {
+  const labels = {
+    'autorité_fr': '🇫🇷 FR',
+    'autorité_eu': '🇪🇺 EU',
+    'autorité_intl': '🌍 Intl',
+    'officiel_fr': '📜 JORF',
+    'presse': '📰 Presse',
+  };
+  return labels[cat] || cat;
+}
+
+function getFilteredItems() {
+  let items = [...state.items];
+  const q = document.getElementById('search').value.toLowerCase().trim();
+  const cat = document.getElementById('filter-category').value;
+  const status = document.getElementById('filter-status').value;
+  const minScore = parseInt(document.getElementById('filter-score').value) || 0;
+  const sortBy = document.getElementById('sort-by').value;
+
+  if (q) items = items.filter(i => i.title.toLowerCase().includes(q) || (i.summary || '').toLowerCase().includes(q));
+  if (cat) items = items.filter(i => i.category === cat);
+  if (status) items = items.filter(i => i.status === status);
+  if (minScore) items = items.filter(i => i.score >= minScore);
+
+  if (sortBy === 'date') {
+    items.sort((a, b) => (b.published || '').localeCompare(a.published || ''));
+  } else {
+    items.sort((a, b) => b.score - a.score || (b.published || '').localeCompare(a.published || ''));
+  }
+
+  return items;
+}
+
+function renderFeed() {
+  const items = getFilteredItems();
+  const container = document.getElementById('feed-cards');
+  if (!items.length) {
+    container.innerHTML = '<div class="empty"><p>Aucun article ne correspond aux filtres.</p></div>';
+    return;
+  }
+  container.innerHTML = items.map(i => renderCard(i, false)).join('');
+}
+
+function renderBrief() {
+  const items = state.items.filter(i => i.early_brief).sort((a, b) => b.score - a.score);
+  const container = document.getElementById('brief-cards');
+  document.getElementById('brief-badge').textContent = items.length;
+  document.getElementById('stat-brief').textContent = items.length;
+
+  if (!items.length) {
+    container.innerHTML = '<div class="empty"><p>Aucun article marqué pour Early Brief. Cliquez ⭐ sur un article pour le sélectionner.</p></div>';
+    return;
+  }
+  container.innerHTML = items.map(i => renderCard(i, true)).join('');
+}
+
+function renderSources() {
+  const grid = document.getElementById('sources-grid');
+  const countBySource = {};
+  state.items.forEach(i => { countBySource[i.source] = (countBySource[i.source] || 0) + 1; });
+
+  grid.innerHTML = SOURCES_CONFIG.map(s => `
+    <div class="source-card">
+      <div class="source-dot" style="background:${s.color}"></div>
+      <div>
+        <h3>${escHtml(s.name)}</h3>
+        <div class="meta">${categoryLabel(s.category)}</div>
+      </div>
+      <div class="count">${countBySource[s.name] || 0}</div>
+    </div>
+  `).join('');
+}
+
+function updateStats() {
+  document.getElementById('stat-total').textContent = state.items.length;
+  document.getElementById('stat-important').textContent = state.items.filter(i => i.score >= 40).length;
+  document.getElementById('stat-brief').textContent = state.items.filter(i => i.early_brief).length;
+  document.getElementById('stat-sources').textContent = SOURCES_CONFIG.length;
+  document.getElementById('brief-badge').textContent = state.items.filter(i => i.early_brief).length;
+}
+
+function renderCurrentTab() {
+  document.getElementById('panel-feed').style.display = state.activeTab === 'feed' ? '' : 'none';
+  document.getElementById('panel-brief').style.display = state.activeTab === 'brief' ? '' : 'none';
+  document.getElementById('panel-sources').style.display = state.activeTab === 'sources' ? '' : 'none';
+
+  if (state.activeTab === 'feed') renderFeed();
+  if (state.activeTab === 'brief') renderBrief();
+  if (state.activeTab === 'sources') renderSources();
+  updateStats();
+}
+
+// Actions
+window.toggleBrief = function(id) {
+  const item = state.items.find(i => i.id === id);
+  if (item) {
+    item.early_brief = !item.early_brief;
+    saveBriefState();
+    showToast(item.early_brief ? '⭐ Ajouté à Early Brief' : 'Retiré d\'Early Brief');
+    renderCurrentTab();
+  }
+};
+
+window.cycleStatus = function(id) {
+  const order = ['new', 'important', 'reviewed', 'archived'];
+  const item = state.items.find(i => i.id === id);
+  if (item) {
+    const idx = order.indexOf(item.status);
+    item.status = order[(idx + 1) % order.length];
+    showToast('Statut : ' + item.status);
+    renderCurrentTab();
+  }
+};
+
+// Tab navigation
+document.querySelectorAll('.tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    state.activeTab = tab.dataset.tab;
+    renderCurrentTab();
+  });
+});
+
+// Search & filters with debounce
+let debounce;
+['search', 'filter-category', 'filter-status', 'filter-score', 'sort-by'].forEach(id => {
+  document.getElementById(id).addEventListener('input', () => {
+    clearTimeout(debounce);
+    debounce = setTimeout(renderFeed, 200);
+  });
+  document.getElementById(id).addEventListener('change', () => {
+    clearTimeout(debounce);
+    debounce = setTimeout(renderFeed, 200);
+  });
+});
+
+// Init
+renderCurrentTab();
+</script>
+
+</body>
+</html>

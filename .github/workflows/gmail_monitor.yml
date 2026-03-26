@@ -1,0 +1,43 @@
+name: Veille — Gmail Monitor (ACPR/ESMA/EBA)
+
+on:
+  schedule:
+    # Toutes les 6 heures, décalé de 30 min par rapport à l'ingestion RSS
+    - cron: '30 0,6,12,18 * * *'
+  workflow_dispatch:
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Run Gmail monitor
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python gmail_monitor.py
+
+      - name: Commit & push data.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: gmail monitor update $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

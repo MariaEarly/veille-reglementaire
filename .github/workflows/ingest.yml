@@ -1,0 +1,42 @@
+name: Veille Réglementaire — Ingestion
+
+on:
+  schedule:
+    # Toutes les 6 heures : 6h, 12h, 18h, minuit (UTC)
+    - cron: '0 0,6,12,18 * * *'
+  workflow_dispatch:  # Permet de lancer manuellement depuis l'UI GitHub
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Nécessaire pour committer data.json
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Run ingestion
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python ingest.py
+
+      - name: Commit & push data.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update veille data $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: veille-reglementaire
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python veille_server.py
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: VEILLE_PASSWORD
+        sync: false
