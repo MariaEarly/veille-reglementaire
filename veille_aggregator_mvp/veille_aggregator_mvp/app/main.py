@@ -11,6 +11,7 @@ from .schemas import ItemOut, ItemPatch, ManualItemCreate, SourceCreate, SourceO
 from .rss import parse_rss_feed
 from .press_fetch import fetch_press_feed
 from .social_fetch import fetch_social_feed
+from .gel_fetch import fetch_gel_avoirs
 from .gmail_fetch import fetch_gmail_items, is_configured as gmail_configured
 from .scoring import score_item, is_social_noise
 from .dedupe import make_duplicate_group
@@ -48,8 +49,10 @@ SEED_SOURCES = [
     {"name": "FATF / GAFI", "source_type": "rss", "url": "https://www.fatf-gafi.org/en/rss.xml", "category": "autorité_intl"},
     {"name": "Comité de Bâle", "source_type": "rss", "url": "https://www.bis.org/bcbs/bcbsrss.xml", "category": "autorité_intl"},
     {"name": "BRI / BIS", "source_type": "rss", "url": "https://www.bis.org/doclist/allrss.rss", "category": "autorité_intl"},
-    # Note: OFAC RSS retiré le 31/01/2025. Alternative: RSS.app sur https://ofac.treasury.gov/recent-actions
-    # ou email GovDelivery. Slot RSS.app disponible si besoin.
+    {"name": "OFAC - Recent Actions", "source_type": "social", "url": "https://rss.app/feeds/pvdLC9x4pQQk1ROW.xml", "category": "autorité_intl"},
+
+    # Registre national des gels (API DG Trésor, fetcher custom)
+    {"name": "DG Trésor - Gel des avoirs", "source_type": "gel", "url": "https://gels-avoirs.dgtresor.gouv.fr", "category": "autorité_fr"},
 
     # Presse spécialisée (filtrée par mots-clés conformité)
     {"name": "Les Echos - Finance", "source_type": "press", "url": "https://syndication.lesechos.fr/rss/rss_finance_marches.xml", "category": "presse"},
@@ -191,15 +194,17 @@ def ingest_rss(source_id: int, db: Session = Depends(get_db)):
     source = db.query(Source).filter(Source.id == source_id).first()
     if not source:
         raise HTTPException(status_code=404, detail="Source not found")
-    if source.source_type not in ("rss", "press", "social"):
-        raise HTTPException(status_code=400, detail="Source is not RSS/press/social")
-    if not source.url:
+    if source.source_type not in ("rss", "press", "social", "gel"):
+        raise HTTPException(status_code=400, detail="Source is not RSS/press/social/gel")
+    if not source.url and source.source_type != "gel":
         raise HTTPException(status_code=400, detail="Source has no URL")
 
     if source.source_type == "press":
         entries = fetch_press_feed(source.url, source.name)
     elif source.source_type == "social":
         entries = fetch_social_feed(source.url, source.name)
+    elif source.source_type == "gel":
+        entries = fetch_gel_avoirs()
     else:
         entries = parse_rss_feed(source.url)
 
@@ -251,6 +256,8 @@ def ingest_all(db: Session = Depends(get_db)):
                 entries = fetch_press_feed(source.url, source.name)
             elif source.source_type == "social" and source.url:
                 entries = fetch_social_feed(source.url, source.name)
+            elif source.source_type == "gel":
+                entries = fetch_gel_avoirs()
             elif source.source_type == "gmail" and gmail_configured():
                 entries = fetch_gmail_items(days_back=7, max_emails=100)
             else:
