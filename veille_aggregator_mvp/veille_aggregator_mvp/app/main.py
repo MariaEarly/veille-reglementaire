@@ -37,11 +37,11 @@ SEED_SOURCES = [
     # Autorités européennes
     {"name": "EBA - News", "source_type": "rss", "url": "https://www.eba.europa.eu/rss-feeds", "category": "autorité_eu"},
     {"name": "ESMA - News", "source_type": "rss", "url": "https://www.esma.europa.eu/rss", "category": "autorité_eu"},
-    {"name": "AMLA", "source_type": "rss", "url": "https://www.amla.europa.eu/rss_en", "category": "autorité_eu"},
+    # TODO: AMLA — no RSS feed yet, RSS.app scraping fails. Monitor https://www.amla.europa.eu/news-and-publications
+    # TODO: Conseil de l'UE — RSS 403 + RSS.app fails. Monitor https://www.consilium.europa.eu/en/press/press-releases/
     {"name": "EUR-Lex - Derniers actes", "source_type": "rss", "url": "https://eur-lex.europa.eu/rss/act-rss.xml", "category": "autorité_eu"},
     {"name": "Commission EU - Finance", "source_type": "rss", "url": "https://finance.ec.europa.eu/rss_en", "category": "autorité_eu"},
     {"name": "BCE - Communiqués", "source_type": "rss", "url": "https://www.ecb.europa.eu/rss/press.html", "category": "autorité_eu"},
-    {"name": "Conseil de l'UE - Communiqués", "source_type": "rss", "url": "https://www.consilium.europa.eu/en/press/press-releases/rss.xml", "category": "autorité_eu"},
     {"name": "Parlement EU - ECON", "source_type": "rss", "url": "https://www.europarl.europa.eu/rss/committee/econ/en.xml", "category": "autorité_eu"},
     {"name": "CSSF Luxembourg (AML/CFT)", "source_type": "rss", "url": "https://www.cssf.lu/en/feed/publications?content_keyword=aml-cft", "category": "autorité_eu"},
 
@@ -49,7 +49,7 @@ SEED_SOURCES = [
     {"name": "FATF / GAFI", "source_type": "rss", "url": "https://www.fatf-gafi.org/en/rss.xml", "category": "autorité_intl"},
     {"name": "Comité de Bâle", "source_type": "rss", "url": "https://www.bis.org/bcbs/bcbsrss.xml", "category": "autorité_intl"},
     {"name": "BRI / BIS", "source_type": "rss", "url": "https://www.bis.org/doclist/allrss.rss", "category": "autorité_intl"},
-    {"name": "OFAC - Recent Actions", "source_type": "social", "url": "https://rss.app/feeds/pvdLC9x4pQQk1ROW.xml", "category": "autorité_intl"},
+    {"name": "OFAC - Recent Actions", "source_type": "rss", "url": "https://rss.app/feeds/pvdLC9x4pQQk1ROW.xml", "category": "autorité_intl"},
 
     # Registre national des gels (API DG Trésor, fetcher custom)
     {"name": "DG Trésor - Gel des avoirs", "source_type": "gel", "url": "https://gels-avoirs.dgtresor.gouv.fr", "category": "autorité_fr"},
