@@ -945,6 +945,31 @@
       </div>
 
       <div class="sidebar-section">
+        <div class="sidebar-section-label">Score minimum</div>
+        <div class="sidebar-item" data-filter="score" data-value="0">
+          <div class="sidebar-item-dot"></div>
+          <div class="sidebar-item-label">Tous</div>
+          <div class="sidebar-item-count" id="count-score-all">0</div>
+        </div>
+        <div class="sidebar-item active" data-filter="score" data-value="15">
+          <div class="sidebar-item-dot" style="background: #3B6D11;"></div>
+          <div class="sidebar-item-label">≥ 15 (pertinent)</div>
+          <div class="sidebar-item-count" id="count-score-15">0</div>
+        </div>
+        <div class="sidebar-item" data-filter="score" data-value="30">
+          <div class="sidebar-item-dot" style="background: var(--terra);"></div>
+          <div class="sidebar-item-label">≥ 30 (très pertinent)</div>
+          <div class="sidebar-item-count" id="count-score-30">0</div>
+        </div>
+        <div class="sidebar-item" data-filter="score" data-value="50">
+          <div class="sidebar-item-dot" style="background: #c0392b;"></div>
+          <div class="sidebar-item-label">≥ 50 (critique)</div>
+          <div class="sidebar-item-count" id="count-score-50">0</div>
+        </div>
+        <div class="sidebar-section-divider"></div>
+      </div>
+
+      <div class="sidebar-section">
         <div class="sidebar-section-title">SOURCE</div>
         <div id="sources-list" class="source-list"></div>
       </div>
@@ -1027,9 +1052,9 @@
 </select>
 <select class="hidden-select" id="filter-score" style="display:none;">
   <option value="0">Score min : 0</option>
-  <option value="20">Score ≥ 20</option>
-  <option value="40">Score ≥ 40</option>
-  <option value="60">Score ≥ 60</option>
+  <option value="15" selected>Score ≥ 15</option>
+  <option value="30">Score ≥ 30</option>
+  <option value="50">Score ≥ 50</option>
 </select>
 <select class="hidden-select" id="filter-doctype" style="display:none;">
   <option value="">Tous types</option>
@@ -1490,6 +1515,25 @@ function updateStats() {
   document.getElementById('stat-total').textContent = state.items.length;
   document.getElementById('stat-fresh').textContent = fresh;
   document.getElementById('stat-important').textContent = important;
+
+  // Score counts
+  const el = (id) => document.getElementById(id);
+  if (el('count-score-all')) el('count-score-all').textContent = state.items.length;
+  if (el('count-score-15')) el('count-score-15').textContent = state.items.filter(i => i.score >= 15).length;
+  if (el('count-score-30')) el('count-score-30').textContent = state.items.filter(i => i.score >= 30).length;
+  if (el('count-score-50')) el('count-score-50').textContent = state.items.filter(i => i.score >= 50).length;
+
+  // Status counts
+  const statuses = ['new', 'important', 'reviewed', 'draft', 'archived'];
+  statuses.forEach(s => {
+    const c = el('count-status-' + s);
+    if (c) c.textContent = state.items.filter(i => i.status === s).length;
+  });
+
+  // Feed counts
+  if (el('count-tous')) el('count-tous').textContent = state.items.length;
+  if (el('count-fresh')) el('count-fresh').textContent = fresh;
+  if (el('count-primary')) el('count-primary').textContent = state.items.filter(i => i.primary).length;
 }
 
 function renderCurrentTab() {
@@ -1581,9 +1625,11 @@ document.querySelectorAll('.sidebar-item[data-filter]').forEach(item => {
       }
     } else if (filterType === 'status') {
       document.getElementById('filter-status').value = filterValue;
+    } else if (filterType === 'score') {
+      document.getElementById('filter-score').value = filterValue;
     }
 
-    renderFeed();
+    renderCurrentTab();
   });
 });
 
