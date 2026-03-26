@@ -606,18 +606,48 @@
 
 <div class="toast" id="toast"></div>
 
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script>
+const SUPABASE_URL = 'https://zmxrcafyoepcjyrbpzam.supabase.co';
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpteHJjYWZ5b2VwY2p5cmJwemFtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ1MjA3ODIsImV4cCI6MjA5MDA5Njc4Mn0.e1o3O4m57RHIA8rtZw3ODutEJccOL72oP5uJzyhiCZg';
+const sb = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+
 const state = { items: [], sources: [], activeTab: 'feed' };
 
-// --- Local storage for user selections (brief + status) ---
-function loadLocalState() {
+// --- Supabase-backed state (with localStorage fallback) ---
+async function loadLocalState() {
   try {
-    return JSON.parse(localStorage.getItem('veille_local') || '{}');
-  } catch(e) { return {}; }
+    const { data, error } = await sb.from('article_state').select('*');
+    if (error) throw error;
+    const result = {};
+    (data || []).forEach(row => {
+      result[row.hash] = { status: row.status, early_brief: row.early_brief };
+    });
+    // Cache locally for offline fallback
+    try { localStorage.setItem('veille_local', JSON.stringify(result)); } catch(e) {}
+    return result;
+  } catch(e) {
+    console.warn('Supabase read failed, falling back to localStorage:', e.message);
+    try { return JSON.parse(localStorage.getItem('veille_local') || '{}'); } catch(e2) { return {}; }
+  }
 }
 
-function saveLocalState(local) {
-  try { localStorage.setItem('veille_local', JSON.stringify(local)); } catch(e) {}
+async function saveItemState(hash, status, early_brief) {
+  // Update localStorage cache immediately
+  try {
+    const local = JSON.parse(localStorage.getItem('veille_local') || '{}');
+    local[hash] = { status, early_brief };
+    localStorage.setItem('veille_local', JSON.stringify(local));
+  } catch(e) {}
+  // Upsert to Supabase
+  try {
+    const { error } = await sb.from('article_state').upsert({
+      hash, status, early_brief, updated_at: new Date().toISOString()
+    }, { onConflict: 'hash' });
+    if (error) console.warn('Supabase write failed:', error.message);
+  } catch(e) {
+    console.warn('Supabase upsert error:', e.message);
+  }
 }
 
 // --- Fetch data.json (static file, no API) ---
@@ -627,7 +657,7 @@ async function fetchData() {
     if (!res.ok) throw new Error('data.json not found');
     const raw = await res.json();
 
-    const local = loadLocalState();
+    const local = await loadLocalState();
 
     state.sources = raw.sources || [];
     state.items = (raw.items || []).map((item, i) => {
@@ -867,15 +897,12 @@ function renderCurrentTab() {
   updateStats();
 }
 
-// Actions — local storage only (no server)
+// Actions — Supabase + localStorage fallback
 window.toggleBrief = function(id) {
   const item = state.items.find(i => i.id === id);
   if (item) {
     item.early_brief = !item.early_brief;
-    const local = loadLocalState();
-    local[item.hash] = local[item.hash] || {};
-    local[item.hash].early_brief = item.early_brief;
-    saveLocalState(local);
+    saveItemState(item.hash, item.status, item.early_brief);
     showToast(item.early_brief ? '★ Ajouté à Early Brief' : 'Retiré d\'Early Brief');
     renderCurrentTab();
   }
@@ -887,10 +914,7 @@ window.cycleStatus = function(id) {
   if (item) {
     const idx = order.indexOf(item.status);
     item.status = order[(idx + 1) % order.length];
-    const local = loadLocalState();
-    local[item.hash] = local[item.hash] || {};
-    local[item.hash].status = item.status;
-    saveLocalState(local);
+    saveItemState(item.hash, item.status, item.early_brief);
     showToast('Statut : ' + item.status);
     renderCurrentTab();
   }
