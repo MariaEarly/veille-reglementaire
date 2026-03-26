@@ -22,8 +22,8 @@
       --color-background-tertiary: #F1F3F5;
       --color-background-dark: #1C1C1C;
       --color-text-primary: #171717;
-      --color-text-secondary: #666666;
-      --color-text-tertiary: #999999;
+      --color-text-secondary: #4B5563;
+      --color-text-tertiary: #6B7280;
       --color-border-tertiary: #E5E7EB;
       --color-border-secondary: #D1D5DB;
       --radius: 6px;
@@ -1650,10 +1650,10 @@ async function fetchData() {
       return {
         id: i,
         hash: item.hash,
-        title: item.title || 'Sans titre',
+        title: decodeHtml(item.title || 'Sans titre'),
         url: item.url || '',
-        summary: item.summary || '',
-        author: item.author || '',
+        summary: decodeHtml(item.summary || ''),
+        author: decodeHtml(item.author || ''),
         published: item.published || '',
         source: item.source_name || '',
         source_type: item.source_type || '',
@@ -1695,6 +1695,9 @@ async function fetchData() {
   renderCurrentTab();
 }
 
+// Decode HTML entities from RSS feed data (&#039; &amp; etc.)
+const _decodeEl = document.createElement('textarea');
+function decodeHtml(s) { _decodeEl.innerHTML = s || ''; return _decodeEl.value; }
 function esc(s) { return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
 
 function isFresh(iso) {
