@@ -682,7 +682,7 @@ def fetch_rss(url, source_name, source_type, category):
 
 
 def seed_sources(data):
-    existing_urls = {s["url"] for s in data["sources"]}
+    existing_urls = {s["url"] for s in data["sources"] if "url" in s}
     added = 0
     for src in SEED_SOURCES:
         if src["url"] not in existing_urls:
@@ -704,6 +704,8 @@ def ingest_all(data):
     for src in data["sources"]:
         if not src.get("active", True):
             continue
+        if "url" not in src:
+            continue  # Skip scrape-only sources (no RSS URL)
         print(f"  Fetching: {src['name']}...")
         items = fetch_rss(src["url"], src["name"], src["type"], src["category"])
         for item in items:
