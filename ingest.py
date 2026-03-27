@@ -64,6 +64,13 @@ SEED_SOURCES = [
     {"name": "Corporate Compliance Insights", "url": "https://www.corporatecomplianceinsights.com/feed/", "type": "press", "category": "presse"},
     {"name": "Financial Crime News", "url": "https://thefinancialcrimenews.com/feed/", "type": "press", "category": "presse"},
     {"name": "ComplyAdvantage", "url": "https://complyadvantage.com/insights/feed/", "type": "press", "category": "presse"},
+    {"name": "Fintech Business Weekly", "url": "https://fintechbusinessweekly.substack.com/feed", "type": "press", "category": "presse"},
+    {"name": "Money Laundering News", "url": "https://www.moneylaunderingnews.com/feed/", "type": "press", "category": "presse"},
+    {"name": "Money Laundering Watch Blog", "url": "https://www.moneylaunderingwatchblog.com/feed/", "type": "press", "category": "presse"},
+    {"name": "Global Investigations Review", "url": "https://globalinvestigationsreview.com/rss", "type": "press", "category": "presse"},
+    {"name": "Presse FR - LCB-FT/Conformité", "url": "https://news.google.com/rss/search?q=%22blanchiment%22+OR+%22LCB-FT%22+OR+%22conformit%C3%A9%22+%22sanctions%22&hl=fr&gl=FR&ceid=FR:fr", "type": "press", "category": "presse"},
+    {"name": "L'Agefi (conformité)", "url": "https://news.google.com/rss/search?q=site:agefi.fr+%22conformit%C3%A9%22+OR+%22blanchiment%22+OR+%22sanctions%22+OR+%22bancaire%22&hl=fr&gl=FR&ceid=FR:fr", "type": "press", "category": "presse"},
+    {"name": "The Big Whale (crypto/MiCA)", "url": "https://news.google.com/rss/search?q=%22The+Big+Whale%22+crypto+OR+MiCA+OR+PSAN&hl=fr&gl=FR&ceid=FR:fr", "type": "press", "category": "presse"},
     # GAFI/FATF — RSS natif bloqué (403 WAF), Google News RSS comme proxy
     {"name": "GAFI/FATF News", "url": "https://news.google.com/rss/search?q=FATF+OR+GAFI+%22anti-money+laundering%22+OR+%22blanchiment%22&hl=en", "type": "rss", "category": "autorite_intl"},
     # Interpol — site bloque les requêtes automatisées (403 WAF), Google News RSS comme proxy
