@@ -108,6 +108,46 @@ KEYWORDS_MEDIUM = [
 ]
 SOURCE_BONUS = {"autorite_fr": 15, "autorite_eu": 12, "autorite_intl": 10, "presse": 3, "email": 8}
 
+# ---------------------------------------------------------------------------
+# GEO-BOOST : bonus basé sur la zone géographique mentionnée dans le contenu
+# Indépendant de la source émettrice — un article FATF sur la France score +15
+# ---------------------------------------------------------------------------
+GEO_FRANCE_KEYWORDS = [
+    "france", "français", "française", "acpr", "amf", "tracfin",
+    "banque de france", "code monétaire", "parquet national financier",
+    "pnf", "cjip", "jorf", "journal officiel", "dg trésor",
+    "dgccrf", "autorité des marchés financiers", "cnil",
+    "outre-mer", "dom-tom",
+    "loi sapin", "sapin ii", "loi de vigilance",
+]
+GEO_EU_KEYWORDS = [
+    "union européenne", "european union", "commission européenne",
+    "european commission", "parlement européen", "european parliament",
+    "conseil de l'ue", "council of the eu",
+    "eba", "esma", "amla", "edpb", "europol", "eurojust",
+    "directive européenne", "règlement européen",
+    "zone euro", "eurozone", "état membre", "member state",
+    "allemagne", "germany", "italie", "italy", "espagne", "spain",
+    "pays-bas", "netherlands", "belgique", "belgium", "luxembourg",
+    "portugal", "autriche", "austria", "irlande", "ireland",
+    "pologne", "poland", "suède", "sweden", "danemark", "denmark",
+    "finlande", "finland", "grèce", "greece",
+    "dora", "mica", "5amld", "6amld", "aml package",
+    "cssf", "bafin", "dnb", "consob",
+]
+GEO_INTL_KEYWORDS = [
+    "united states", "états-unis", "us treasury", "ofac", "fincen",
+    "doj", "department of justice",
+    "bank secrecy act", "fcpa", "foreign corrupt",
+    "united kingdom", "royaume-uni", "fca", "sfo",
+    "uk bribery act", "national crime agency",
+    "suisse", "switzerland", "finma",
+    "canada", "fintrac", "australia", "austrac",
+    "singapore", "singapour",
+    "hong kong", "hkma", "japan", "japon",
+]
+GEO_BOOST = {"france": 15, "eu": 8, "intl": 3}
+
 COMPLIANCE_KEYWORDS = [
     "lcb-ft", "aml", "blanchiment", "money laundering", "sanction",
     "conformité", "compliance", "fraude", "fraud", "régulat",
@@ -249,6 +289,23 @@ def score_item(title, text, category):
         cat_labels = {"autorite_fr": "Source FR", "autorite_eu": "Source EU", "autorite_intl": "Source Intl", "presse": "Presse", "email": "Email"}
         breakdown.append(f"+{src_bonus} {cat_labels.get(category, category)}")
         s += src_bonus
+    # Geo-boost: bonus based on geographic zone mentioned in content
+    geo_fr = [k for k in GEO_FRANCE_KEYWORDS if k in combined]
+    geo_eu = [k for k in GEO_EU_KEYWORDS if k in combined]
+    geo_intl = [k for k in GEO_INTL_KEYWORDS if k in combined]
+    # Take the highest matching zone (France > EU > Intl), no cumul between zones
+    if geo_fr:
+        geo_pts = GEO_BOOST["france"]
+        breakdown.append(f"+{geo_pts} Géo FR: {', '.join(geo_fr[:3])}")
+        s += geo_pts
+    elif geo_eu:
+        geo_pts = GEO_BOOST["eu"]
+        breakdown.append(f"+{geo_pts} Géo EU: {', '.join(geo_eu[:3])}")
+        s += geo_pts
+    elif geo_intl:
+        geo_pts = GEO_BOOST["intl"]
+        breakdown.append(f"+{geo_pts} Géo Intl: {', '.join(geo_intl[:3])}")
+        s += geo_pts
     return min(s, 100), " | ".join(breakdown) if breakdown else "Aucun mot-clé"
 
 
