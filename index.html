@@ -1650,7 +1650,7 @@
             <option value="draft">À publier</option>
             <option value="archived">Archivé</option>
           </select>
-          <button class="sort-button active" data-sort="fresh">Récents</button>
+          <button class="sort-button active" data-sort="fresh">Pertinence</button>
           <button class="sort-button" data-sort="score">Score</button>
           <button class="sort-button" data-sort="date">Date</button>
         </div>
@@ -1833,7 +1833,7 @@
   <option value="info">Informatif</option>
 </select>
 <select class="hidden-select" id="sort-by" style="display:none;">
-  <option value="fresh">Tri : Récents d'abord</option>
+  <option value="fresh">Tri : Pertinence (score × récence)</option>
   <option value="score">Tri : Score</option>
   <option value="date">Tri : Date</option>
 </select>
@@ -1993,6 +1993,21 @@ function esc(s) { return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;'
 function isFresh(iso) {
   if (!iso) return false;
   return (Date.now() - new Date(iso).getTime()) < 86400000;
+}
+
+// Score combiné : score × récence. Un article récent et pertinent domine.
+// Multiplicateur : <6h → ×2.0, <24h → ×1.5, <3j → ×1.2, <7j → ×1.0, >7j → ×0.7
+function combinedScore(item) {
+  const base = item.score || 0;
+  if (!item.published) return base * 0.7;
+  const ageH = (Date.now() - new Date(item.published).getTime()) / 3600000;
+  let mult;
+  if (ageH < 6) mult = 2.0;
+  else if (ageH < 24) mult = 1.5;
+  else if (ageH < 72) mult = 1.2;
+  else if (ageH < 168) mult = 1.0;
+  else mult = 0.7;
+  return base * mult;
 }
 
 function relDate(iso) {
@@ -2184,13 +2199,7 @@ function getFilteredItems() {
   if (actionFilter) items = items.filter(i => i.action_class === actionFilter);
 
   if (sortBy === 'fresh') {
-    items.sort((a, b) => {
-      const aFresh = isFresh(a.published) ? 1 : 0;
-      const bFresh = isFresh(b.published) ? 1 : 0;
-      if (bFresh !== aFresh) return bFresh - aFresh;
-      if (aFresh && bFresh) return (b.published||'').localeCompare(a.published||'');
-      return b.score - a.score;
-    });
+    items.sort((a, b) => combinedScore(b) - combinedScore(a) || (b.published||'').localeCompare(a.published||''));
   } else if (sortBy === 'date') {
     items.sort((a, b) => (b.published||'').localeCompare(a.published||''));
   } else {
