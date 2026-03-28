@@ -1572,6 +1572,11 @@
           <div class="sidebar-item-label">À publier · Hebdo</div>
           <div class="sidebar-item-count" id="count-dest-hebdo">0</div>
         </div>
+        <div class="sidebar-item" data-filter="fil" data-value="archived">
+          <div class="sidebar-item-dot" style="background: #aaa;"></div>
+          <div class="sidebar-item-label">Archivés</div>
+          <div class="sidebar-item-count" id="count-archived">0</div>
+        </div>
         <div class="sidebar-section-divider"></div>
       </div>
 
@@ -2194,6 +2199,8 @@ function getFilteredItems() {
     items = items.filter(i => i.destinations && i.destinations.includes('quotidien'));
   } else if (state.filFilter === 'dest-hebdo') {
     items = items.filter(i => i.destinations && i.destinations.includes('hebdo'));
+  } else if (state.filFilter === 'archived') {
+    items = items.filter(i => i.status === 'archived');
   }
   if (q) items = items.filter(i => i.title.toLowerCase().includes(q) || (i.summary||'').toLowerCase().includes(q));
   if (cat) items = items.filter(i => i.category === cat);
@@ -2271,6 +2278,7 @@ function renderSidebar() {
   document.getElementById('count-jurisprudence').textContent = counts.jurisprudence;
   document.getElementById('count-dest-quotidien').textContent = counts.dest_quotidien;
   document.getElementById('count-dest-hebdo').textContent = counts.dest_hebdo;
+  if (document.getElementById('count-archived')) document.getElementById('count-archived').textContent = counts.status_archived;
 
   const sourcesList = document.getElementById('sources-list');
   const sourceCounts = {};
@@ -2486,6 +2494,12 @@ document.querySelectorAll('.sidebar-item[data-filter]').forEach(item => {
         state.filFilter = 'primary';
       } else if (filterValue === 'jurisprudence') {
         state.filFilter = 'jurisprudence';
+      } else if (filterValue === 'dest-quotidien') {
+        state.filFilter = 'dest-quotidien';
+      } else if (filterValue === 'dest-hebdo') {
+        state.filFilter = 'dest-hebdo';
+      } else if (filterValue === 'archived') {
+        state.filFilter = 'archived';
       }
     } else if (filterType === 'status') {
       document.getElementById('filter-status').value = filterValue;
