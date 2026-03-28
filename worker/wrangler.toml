@@ -1,0 +1,13 @@
+name = "earlybrief-log"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+# Secrets (set via `wrangler secret put`):
+# GITHUB_TOKEN  — fine-grained PAT, scope: contents (read+write) on MariaEarly/veille-reglementaire
+# API_KEY       — random string shared with the frontend (rate-limit + auth)
+
+[vars]
+GITHUB_OWNER = "MariaEarly"
+GITHUB_REPO = "veille-reglementaire"
+GITHUB_BRANCH = "main"
+ALLOWED_ORIGINS = "https://mariaearly.github.io"

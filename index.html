@@ -1955,6 +1955,59 @@ const sb = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
 const state = { items: [], sources: [], activeTab: 'feed', filFilter: '', statusFilter: '', sourceFilter: '' };
 
+// --- Training Log: queue + flush ---
+const LOG_WORKER_URL = ''; // TODO: set after deploying Worker (e.g. https://earlybrief-log.<account>.workers.dev)
+const LOG_API_KEY = '';    // TODO: set after deploying Worker
+const LOG_FLUSH_INTERVAL = 30000; // 30s
+
+const _logQueue = { 'training-log': [], 'editorial-log': [] };
+
+function logAction(logName, entry) {
+  entry.timestamp = new Date().toISOString();
+  if (!_logQueue[logName]) _logQueue[logName] = [];
+  _logQueue[logName].push(entry);
+}
+
+async function flushLogs() {
+  if (!LOG_WORKER_URL) return; // Worker not configured yet
+  for (const logName of Object.keys(_logQueue)) {
+    const entries = _logQueue[logName].splice(0);
+    if (!entries.length) continue;
+    try {
+      const res = await fetch(LOG_WORKER_URL + '/append', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'X-API-Key': LOG_API_KEY },
+        body: JSON.stringify({ log: logName, entries }),
+      });
+      if (!res.ok) {
+        console.warn(`Log flush failed for ${logName}:`, await res.text());
+        // Re-queue failed entries at the front
+        _logQueue[logName].unshift(...entries);
+      }
+    } catch (err) {
+      console.warn(`Log flush error for ${logName}:`, err.message);
+      _logQueue[logName].unshift(...entries);
+    }
+  }
+}
+
+// Flush every 30s
+setInterval(flushLogs, LOG_FLUSH_INTERVAL);
+// Flush on page unload (best-effort with sendBeacon fallback)
+window.addEventListener('beforeunload', () => {
+  if (!LOG_WORKER_URL) return;
+  for (const logName of Object.keys(_logQueue)) {
+    const entries = _logQueue[logName].splice(0);
+    if (!entries.length) continue;
+    // sendBeacon is more reliable than fetch on unload
+    try {
+      navigator.sendBeacon(LOG_WORKER_URL + '/append',
+        new Blob([JSON.stringify({ log: logName, entries, _key: LOG_API_KEY })],
+          { type: 'application/json' }));
+    } catch (e) {}
+  }
+});
+
 // --- Supabase-backed state (with localStorage fallback) ---
 async function loadLocalState() {
   try {
@@ -2549,6 +2602,14 @@ window.toggleDest = function(id, dest) {
     }
     saveItemState(item.hash, item.status, item.destinations, item.note, item);
     if (item.destinations.length > 0) recordHistory(item);
+    // Training log
+    logAction('training-log', {
+      type: 'triage',
+      action: idx >= 0 ? 'remove_dest' : 'add_dest',
+      dest,
+      article: { hash: item.hash, title: item.title, source: item.source, category: item.category, score: item.score, published: item.published },
+      destinations_after: [...item.destinations],
+    });
     renderCurrentTab();
   }
 };
@@ -2579,6 +2640,12 @@ window.archiveItem = function(id) {
     item.status = 'archived';
     item.destinations = [];
     saveItemState(item.hash, item.status, item.destinations, item.note, item);
+    // Training log
+    logAction('training-log', {
+      type: 'triage',
+      action: 'ignore',
+      article: { hash: item.hash, title: item.title, source: item.source, category: item.category, score: item.score, published: item.published },
+    });
     showToast('Archivé');
     renderCurrentTab();
   }
@@ -2614,6 +2681,15 @@ window.exportBrief = function(dest) {
     if (item.url) md += `**Lien :** ${item.url}\n`;
     if (item.doc_type) md += `**Type :** ${item.doc_type}\n`;
     md += `\n---\n\n`;
+  });
+
+  // Log export action
+  logAction('editorial-log', {
+    type: 'export',
+    action: 'export',
+    dest,
+    article_count: items.length,
+    articles: items.map(i => ({ hash: i.hash, title: i.title, source: i.source, score: i.score })),
   });
 
   // Show edition modal instead of direct save
