@@ -1641,6 +1641,11 @@
           <div class="sidebar-item-label">Inbox</div>
           <div class="sidebar-item-count" id="count-tous">0</div>
         </div>
+        <div class="sidebar-item" data-filter="fil" data-value="week">
+          <div class="sidebar-item-dot" style="background: var(--brand);"></div>
+          <div class="sidebar-item-label">&lt; 7 jours</div>
+          <div class="sidebar-item-count" id="count-week">0</div>
+        </div>
         <div class="sidebar-item" data-filter="fil" data-value="dest-quotidien">
           <div class="sidebar-item-dot" style="background: var(--brand);"></div>
           <div class="sidebar-item-label">À publier · Quotidien</div>
@@ -2155,6 +2160,10 @@ function isFresh(iso) {
   if (!iso) return false;
   return (Date.now() - new Date(iso).getTime()) < 86400000;
 }
+function isWithinWeek(iso) {
+  if (!iso) return false;
+  return (Date.now() - new Date(iso).getTime()) < 7 * 86400000;
+}
 
 // Score combiné : score × récence. Un article récent et pertinent domine.
 // Multiplicateur : <6h → ×2.0, <24h → ×1.5, <3j → ×1.2, <7j → ×1.0, >7j → ×0.7
@@ -2346,12 +2355,14 @@ function getFilteredItems() {
 
   // Inbox (default): only untriaged articles (not archived, no destinations)
   // Other filters show their specific subset
-  if (state.filFilter === '' || state.filFilter === 'fresh' || state.filFilter === 'primary' || state.filFilter === 'jurisprudence') {
+  if (state.filFilter === '' || state.filFilter === 'fresh' || state.filFilter === 'week' || state.filFilter === 'primary' || state.filFilter === 'jurisprudence') {
     // Inbox: exclude archived and already-triaged items
     items = items.filter(i => i.status !== 'archived' && (!i.destinations || i.destinations.length === 0));
     // Sub-filters within inbox
     if (state.filFilter === 'fresh') {
       items = items.filter(i => isFresh(i.published));
+    } else if (state.filFilter === 'week') {
+      items = items.filter(i => isWithinWeek(i.published));
     } else if (state.filFilter === 'primary') {
       const primaryCats = new Set(['autorite_fr', 'autorite_eu', 'autorite_intl', 'jurisprudence']);
       items = items.filter(i => primaryCats.has(i.category));
@@ -2394,7 +2405,7 @@ function renderFeed() {
   const items = getFilteredItems();
   const el = document.getElementById('feed-cards');
   if (!items.length) {
-    const isInbox = state.filFilter === '' || state.filFilter === 'fresh';
+    const isInbox = state.filFilter === '' || state.filFilter === 'fresh' || state.filFilter === 'week';
     el.innerHTML = `<div class="empty">${isInbox ? 'Inbox vide — tous les articles ont été triés.' : 'Aucun article ne correspond aux filtres.'}</div>`;
     return;
   }
@@ -2465,6 +2476,7 @@ function renderSidebar() {
   const counts = {
     tous: inbox.length,
     fresh: inbox.filter(i => isFresh(i.published)).length,
+    week: inbox.filter(i => isWithinWeek(i.published)).length,
     primary: inbox.filter(i => primaryCats.has(i.category)).length,
     jurisprudence: inbox.filter(i => i.category === 'jurisprudence').length,
     status_new: state.items.filter(i => i.status === 'new').length,
@@ -2479,6 +2491,7 @@ function renderSidebar() {
 
   document.getElementById('count-tous').textContent = counts.tous;
   if (document.getElementById('count-fresh')) document.getElementById('count-fresh').textContent = counts.fresh;
+  if (document.getElementById('count-week')) document.getElementById('count-week').textContent = counts.week;
   if (document.getElementById('count-primary')) document.getElementById('count-primary').textContent = counts.primary;
   if (document.getElementById('count-jurisprudence')) document.getElementById('count-jurisprudence').textContent = counts.jurisprudence;
   document.getElementById('count-dest-quotidien').textContent = counts.dest_quotidien;
@@ -2724,7 +2737,10 @@ document.querySelectorAll('.sidebar-item[data-filter]').forEach(item => {
       if (filterValue === '') {
         // "Tous" — just reset, keep default score
       } else if (filterValue === 'fresh') {
+        state.filFilter = 'fresh';
         document.getElementById('filter-date-from').value = new Date(Date.now() - 86400000).toISOString().split('T')[0];
+      } else if (filterValue === 'week') {
+        state.filFilter = 'week';
       } else if (filterValue === 'primary') {
         state.filFilter = 'primary';
       } else if (filterValue === 'jurisprudence') {
