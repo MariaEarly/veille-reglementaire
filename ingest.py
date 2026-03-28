@@ -106,7 +106,7 @@ KEYWORDS_MEDIUM = [
     "identité numérique", "digital identity", "ppe", "pep",
     "correspondant bancaire", "correspondent banking",
 ]
-SOURCE_BONUS = {"autorite_fr": 15, "autorite_eu": 12, "autorite_intl": 10, "presse": 3, "email": 8}
+SOURCE_BONUS = {"autorite_fr": 25, "autorite_eu": 15, "autorite_intl": 5, "presse": 3, "email": 8}
 
 # ---------------------------------------------------------------------------
 # GEO-BOOST : bonus basé sur la zone géographique mentionnée dans le contenu
@@ -146,7 +146,7 @@ GEO_INTL_KEYWORDS = [
     "singapore", "singapour",
     "hong kong", "hkma", "japan", "japon",
 ]
-GEO_BOOST = {"france": 15, "eu": 8, "intl": 3}
+GEO_BOOST = {"france": 20, "eu": 10, "intl": 3}
 
 COMPLIANCE_KEYWORDS = [
     "lcb-ft", "aml", "blanchiment", "money laundering", "sanction",
