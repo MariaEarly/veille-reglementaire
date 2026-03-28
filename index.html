@@ -738,6 +738,14 @@
       border-color: var(--brand);
       color: #fff;
     }
+    .dest-btn.ignore-btn {
+      color: var(--color-text-tertiary);
+    }
+    .dest-btn.ignore-btn:hover {
+      border-color: #e74c3c;
+      color: #e74c3c;
+      background: rgba(231,76,60,0.06);
+    }
 
     /* Detail panel */
     .card-detail {
@@ -1630,13 +1638,8 @@
         <div class="sidebar-section-label">Fil</div>
         <div class="sidebar-item active" data-filter="fil" data-value="">
           <div class="sidebar-item-dot"></div>
-          <div class="sidebar-item-label">Tous</div>
+          <div class="sidebar-item-label">Inbox</div>
           <div class="sidebar-item-count" id="count-tous">0</div>
-        </div>
-        <div class="sidebar-item" data-filter="fil" data-value="fresh">
-          <div class="sidebar-item-dot" style="background: var(--brand);"></div>
-          <div class="sidebar-item-label">&lt; 24h</div>
-          <div class="sidebar-item-count" id="count-fresh">0</div>
         </div>
         <div class="sidebar-item" data-filter="fil" data-value="dest-quotidien">
           <div class="sidebar-item-dot" style="background: var(--brand);"></div>
@@ -1731,8 +1734,8 @@
             <option value="draft">À publier</option>
             <option value="archived">Archivé</option>
           </select>
-          <button class="sort-button active" data-sort="fresh">Pertinence</button>
-          <button class="sort-button" data-sort="score">Score</button>
+          <button class="sort-button" data-sort="fresh">Pertinence</button>
+          <button class="sort-button active" data-sort="score">Score</button>
           <button class="sort-button" data-sort="date">Date</button>
         </div>
       </div>
@@ -1939,7 +1942,7 @@
 </select>
 <select class="hidden-select" id="sort-by" style="display:none;">
   <option value="fresh">Tri : Pertinence (score × récence)</option>
-  <option value="score">Tri : Score</option>
+  <option value="score" selected>Tri : Score</option>
   <option value="date">Tri : Date</option>
 </select>
 
@@ -2282,7 +2285,7 @@ function renderCard(item, full) {
   footer += `<button class="dest-btn${hasQ ? ' active' : ''}" onclick="event.stopPropagation(); toggleDest(${item.id}, 'quotidien')" title="Quotidien">Quotidien</button>`;
   footer += `<button class="dest-btn${hasH ? ' active' : ''}" onclick="event.stopPropagation(); toggleDest(${item.id}, 'hebdo')" title="Hebdo">Hebdo</button>`;
   if (item.status !== 'archived' && !hasQ && !hasH) {
-    footer += `<button class="dest-btn" onclick="event.stopPropagation(); archiveItem(${item.id})" title="Ignorer" style="opacity:0.5;">Ignorer</button>`;
+    footer += `<button class="dest-btn ignore-btn" onclick="event.stopPropagation(); archiveItem(${item.id})" title="Ignorer">Ignorer</button>`;
   }
   footer += `</div>`;
 
@@ -2391,7 +2394,8 @@ function renderFeed() {
   const items = getFilteredItems();
   const el = document.getElementById('feed-cards');
   if (!items.length) {
-    el.innerHTML = '<div class="empty">Aucun article ne correspond aux filtres.</div>';
+    const isInbox = state.filFilter === '' || state.filFilter === 'fresh';
+    el.innerHTML = `<div class="empty">${isInbox ? 'Inbox vide — tous les articles ont été triés.' : 'Aucun article ne correspond aux filtres.'}</div>`;
     return;
   }
   el.innerHTML = items.map(i => renderCard(i, false)).join('');
@@ -2474,9 +2478,9 @@ function renderSidebar() {
   };
 
   document.getElementById('count-tous').textContent = counts.tous;
-  document.getElementById('count-fresh').textContent = counts.fresh;
-  document.getElementById('count-primary').textContent = counts.primary;
-  document.getElementById('count-jurisprudence').textContent = counts.jurisprudence;
+  if (document.getElementById('count-fresh')) document.getElementById('count-fresh').textContent = counts.fresh;
+  if (document.getElementById('count-primary')) document.getElementById('count-primary').textContent = counts.primary;
+  if (document.getElementById('count-jurisprudence')) document.getElementById('count-jurisprudence').textContent = counts.jurisprudence;
   document.getElementById('count-dest-quotidien').textContent = counts.dest_quotidien;
   document.getElementById('count-dest-hebdo').textContent = counts.dest_hebdo;
   if (document.getElementById('count-archived')) document.getElementById('count-archived').textContent = counts.status_archived;
