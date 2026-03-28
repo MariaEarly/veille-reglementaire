@@ -80,6 +80,8 @@ SEED_SOURCES = [
     {"name": "Commission EU - Sanctions FAQ", "url": "https://finance.ec.europa.eu/node/1068/rss_en", "type": "rss", "category": "autorite_eu"},
     # UK
     {"name": "FCA - News & Enforcement", "url": "https://www.fca.org.uk/news/rss.xml", "type": "rss", "category": "autorite_intl"},
+    # Banque de France — publications (working papers, bulletins, IA x stabilité)
+    {"name": "Banque de France - Publications", "url": "https://publications.banque-france.fr/liste-chronologique/rss", "type": "rss", "category": "autorite_fr"},
     # IA & Régulation financière — sources dédiées
     {"name": "AI Office (Commission EU)", "url": "https://digital-strategy.ec.europa.eu/en/rss.xml", "type": "rss", "category": "autorite_eu"},
     {"name": "Parlement européen - ECON", "url": "https://www.europarl.europa.eu/rss/doc/top-stories/en.xml", "type": "rss", "category": "autorite_eu"},
@@ -510,6 +512,20 @@ def is_off_topic_for_compliance(title, summary, source_name):
             "prêt garanti", "label isr", "g7 finances",
         ]
         if any(k in combined for k in off_topic):
+            return True
+
+    # ── Banque de France publications: exclude pure macro/monetary, keep supervision/IA/stability ──
+    if "banque de france" in src:
+        must_match = [
+            "supervision", "prudenti", "stabilité financière", "financial stability",
+            "aml", "lcb", "blanchiment", "sanction", "compliance", "conformité",
+            "intelligence artificielle", "artificial intelligence", "machine learning",
+            "algorithm", "model risk", "risque de modèle", "fintech", "regtech",
+            "crypto", "stablecoin", "payment", "paiement", "digital",
+            "dora", "résilience", "cyber", "systemic risk", "risque systémique",
+            "résolution", "deposit", "bancaire",
+        ]
+        if not any(k in combined for k in must_match):
             return True
 
     # ── OpenSanctions: exclude technical changelogs ──
