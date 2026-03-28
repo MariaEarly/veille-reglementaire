@@ -80,6 +80,11 @@ SEED_SOURCES = [
     {"name": "Commission EU - Sanctions FAQ", "url": "https://finance.ec.europa.eu/node/1068/rss_en", "type": "rss", "category": "autorite_eu"},
     # UK
     {"name": "FCA - News & Enforcement", "url": "https://www.fca.org.uk/news/rss.xml", "type": "rss", "category": "autorite_intl"},
+    # IA & Régulation financière — sources dédiées
+    {"name": "AI Office (Commission EU)", "url": "https://digital-strategy.ec.europa.eu/en/rss.xml", "type": "rss", "category": "autorite_eu"},
+    {"name": "Parlement européen - ECON", "url": "https://www.europarl.europa.eu/rss/doc/top-stories/en.xml", "type": "rss", "category": "autorite_eu"},
+    {"name": "FSB - Financial Stability Board", "url": "https://www.fsb.org/feed/", "type": "rss", "category": "autorite_intl"},
+    {"name": "EIOPA", "url": "https://www.eiopa.europa.eu/rss_en", "type": "rss", "category": "autorite_eu"},
 ]
 
 # ---------------------------------------------------------------------------
@@ -107,6 +112,42 @@ KEYWORDS_MEDIUM = [
     "correspondant bancaire", "correspondent banking",
 ]
 SOURCE_BONUS = {"autorite_fr": 25, "autorite_eu": 15, "autorite_intl": 5, "presse": 3, "email": 8}
+
+# ---------------------------------------------------------------------------
+# IA & RÉGULATION FINANCIÈRE — Combo boost
+# Un article score +15 quand il contient à la fois un terme IA ET un terme finance régulée.
+# IA seule sans ancrage financier = pas de boost (filtré par off-topic si hors scope).
+# ---------------------------------------------------------------------------
+AI_KEYWORDS = [
+    "artificial intelligence", "intelligence artificielle",
+    "ai act", "règlement ia", "ia act",
+    "machine learning", "apprentissage automatique",
+    "algorithmic", "algorithmique",
+    "model risk", "risque de modèle",
+    "automated decision", "décision automatisée",
+    "large language model", "llm", "generative ai", "ia générative",
+    "ai governance", "gouvernance de l'ia",
+    "explainability", "explicabilité",
+    "ai system", "système d'ia",
+]
+AI_FINANCE_ANCHORS = [
+    "financial service", "services financiers", "secteur financier",
+    "banking", "bancaire", "banque", "crédit",
+    "insurance", "assurance",
+    "investment", "investissement", "gestion d'actifs", "asset management",
+    "payment", "paiement", "dsp2", "psd2",
+    "supervision", "supervisory", "prudenti",
+    "eba", "esma", "eiopa", "acpr", "amf", "ecb", "bce",
+    "dora", "résilience opérationnelle",
+    "model validation", "validation de modèle",
+    "third-party", "tiers", "fournisseur", "outsourcing", "externalisation",
+    "sanction", "aml", "lcb-ft", "compliance", "conformité",
+    "market abuse", "abus de marché",
+    "high-risk ai", "ia à haut risque",
+    "credit scoring", "scoring de crédit",
+    "fraud detection", "détection de fraude",
+]
+AI_COMBO_BOOST = 15
 
 # ---------------------------------------------------------------------------
 # GEO-BOOST : bonus basé sur la zone géographique mentionnée dans le contenu
@@ -289,6 +330,12 @@ def score_item(title, text, category):
         cat_labels = {"autorite_fr": "Source FR", "autorite_eu": "Source EU", "autorite_intl": "Source Intl", "presse": "Presse", "email": "Email"}
         breakdown.append(f"+{src_bonus} {cat_labels.get(category, category)}")
         s += src_bonus
+    # AI + Finance combo boost: requires BOTH an AI term AND a financial regulation anchor
+    ai_hits = [k for k in AI_KEYWORDS if k in combined]
+    ai_fin_hits = [k for k in AI_FINANCE_ANCHORS if k in combined]
+    if ai_hits and ai_fin_hits:
+        s += AI_COMBO_BOOST
+        breakdown.append(f"+{AI_COMBO_BOOST} IA×Finance: {ai_hits[0]}+{ai_fin_hits[0]}")
     # Geo-boost: bonus based on geographic zone mentioned in content
     geo_fr = [k for k in GEO_FRANCE_KEYWORDS if k in combined]
     geo_eu = [k for k in GEO_EU_KEYWORDS if k in combined]
@@ -572,12 +619,62 @@ def is_off_topic_for_compliance(title, summary, source_name):
             if not any(k in combined for k in ["enforcement", "sanction", "aml", "money laundering", "fraud", "fine"]):
                 return True
 
-    # ── Commission EU: only keep sanctions/AML/financial regulation ──
+    # ── Commission EU: only keep sanctions/AML/financial regulation/AI+finance ──
     if "commission eu" in src:
         must_match = [
             "sanction", "restrictive measures", "anti-money laundering", "aml",
             "financial services", "banking", "payment", "crypto", "mica", "dora",
             "capital markets", "market abuse", "compliance", "regulation",
+            "artificial intelligence", "ai act", "algorithmic",
+        ]
+        if not any(k in combined for k in must_match):
+            return True
+
+    # ── AI Office (Commission EU): only keep items with financial regulation angle ──
+    if "ai office" in src:
+        must_match = [
+            "financial", "financier", "banking", "bancaire", "insurance", "assurance",
+            "payment", "paiement", "credit", "crédit", "supervision",
+            "high-risk", "haut risque", "compliance", "conformité",
+            "ai act", "règlement ia", "dora", "eba", "esma", "eiopa", "acpr",
+            "model risk", "risque de modèle", "automated decision", "décision automatisée",
+        ]
+        if not any(k in combined for k in must_match):
+            return True
+
+    # ── Parlement européen: only keep financial regulation / AI+finance ──
+    if "parlement" in src or "europarl" in src:
+        must_match = [
+            "sanction", "aml", "money laundering", "blanchiment",
+            "financial", "financier", "banking", "bancaire",
+            "ai act", "artificial intelligence", "intelligence artificielle",
+            "dora", "mica", "payment", "compliance", "conformité",
+            "supervision", "prudenti", "crypto",
+        ]
+        if not any(k in combined for k in must_match):
+            return True
+
+    # ── FSB: only keep financial regulation / fintech / AI / crypto ──
+    if "fsb" in src:
+        must_match = [
+            "financial stability", "stabilité financière",
+            "crypto", "stablecoin", "digital", "fintech",
+            "artificial intelligence", "ai", "machine learning",
+            "climate risk", "systemic risk", "risque systémique",
+            "supervision", "regulation", "aml", "sanctions",
+            "non-bank", "payment", "cyber", "resilience",
+        ]
+        if not any(k in combined for k in must_match):
+            return True
+
+    # ── EIOPA: only keep items relevant to compliance / AI / DORA / supervision ──
+    if "eiopa" in src:
+        must_match = [
+            "supervision", "compliance", "conformité", "sanction",
+            "dora", "digital", "ai", "artificial intelligence",
+            "solvency", "solvabilité", "governance", "gouvernance",
+            "outsourcing", "externalisation", "cyber", "resilience",
+            "consumer protection", "conduct", "reporting", "ict",
         ]
         if not any(k in combined for k in must_match):
             return True
