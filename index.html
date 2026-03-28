@@ -1641,9 +1641,9 @@
     <div class="center-column">
       <div class="topbar">
         <div class="topbar-stats">
-          <span><span class="stat-value" id="stat-total">0</span> articles</span>
+          <span><span class="stat-value" id="stat-total">0</span> à trier</span>
           <span><span class="stat-value" id="stat-fresh">0</span> &lt;24h</span>
-          <span><span class="stat-value" id="stat-important">0</span> à publier</span>
+          <span><span class="stat-value" id="stat-selected">0</span> sélectionnés</span>
         </div>
         <div class="topbar-controls">
           <input type="text" id="search" class="search-input" placeholder="Rechercher..." />
@@ -2126,10 +2126,10 @@ function renderCard(item, full) {
   const hasQ = item.destinations && item.destinations.includes('quotidien');
   const hasH = item.destinations && item.destinations.includes('hebdo');
   footer += `<div class="dest-toggles">`;
-  footer += `<button class="dest-btn${hasQ ? ' active' : ''}" onclick="event.stopPropagation(); toggleDest(${item.id}, 'quotidien')" title="Quotidien">Q</button>`;
-  footer += `<button class="dest-btn${hasH ? ' active' : ''}" onclick="event.stopPropagation(); toggleDest(${item.id}, 'hebdo')" title="Hebdo">H</button>`;
-  if (item.status !== 'archived') {
-    footer += `<button class="dest-btn" onclick="event.stopPropagation(); archiveItem(${item.id})" title="Archiver" style="font-size:11px;opacity:0.5;">✕</button>`;
+  footer += `<button class="dest-btn${hasQ ? ' active' : ''}" onclick="event.stopPropagation(); toggleDest(${item.id}, 'quotidien')" title="Quotidien">Quotidien</button>`;
+  footer += `<button class="dest-btn${hasH ? ' active' : ''}" onclick="event.stopPropagation(); toggleDest(${item.id}, 'hebdo')" title="Hebdo">Hebdo</button>`;
+  if (item.status !== 'archived' && !hasQ && !hasH) {
+    footer += `<button class="dest-btn" onclick="event.stopPropagation(); archiveItem(${item.id})" title="Ignorer" style="opacity:0.5;">Ignorer</button>`;
   }
   footer += `</div>`;
 
@@ -2168,8 +2168,7 @@ function renderCard(item, full) {
           ${item.url ? `<a href="${esc(item.url)}" target="_blank" rel="noreferrer" class="detail-btn" onclick="event.stopPropagation()">Ouvrir</a>` : ''}
           <button class="detail-btn" onclick="event.stopPropagation(); toggleDest(${item.id}, 'quotidien')">${hasQ ? '✓ Quotidien' : '+ Quotidien'}</button>
           <button class="detail-btn" onclick="event.stopPropagation(); toggleDest(${item.id}, 'hebdo')">${hasH ? '✓ Hebdo' : '+ Hebdo'}</button>
-          <button class="detail-btn" onclick="event.stopPropagation(); cycleStatus(${item.id})">Changer le statut</button>
-          <button class="detail-btn" onclick="event.stopPropagation(); archiveItem(${item.id})" style="color:#e74c3c;">Archiver</button>
+          <button class="detail-btn" onclick="event.stopPropagation(); archiveItem(${item.id})" style="color:#e74c3c;">Ignorer</button>
         </div>
       </div>
     </article>
@@ -2189,16 +2188,25 @@ function getFilteredItems() {
   const dateTo = document.getElementById('filter-date-to').value;
   const sortBy = document.getElementById('sort-by').value;
 
-  // "Source primaire" = autorités only (not presse/social)
-  if (state.filFilter === 'primary') {
-    const primaryCats = new Set(['autorite_fr', 'autorite_eu', 'autorite_intl', 'jurisprudence']);
-    items = items.filter(i => primaryCats.has(i.category));
-  } else if (state.filFilter === 'jurisprudence') {
-    items = items.filter(i => i.category === 'jurisprudence');
+  // Inbox (default): only untriaged articles (not archived, no destinations)
+  // Other filters show their specific subset
+  if (state.filFilter === '' || state.filFilter === 'fresh' || state.filFilter === 'primary' || state.filFilter === 'jurisprudence') {
+    // Inbox: exclude archived and already-triaged items
+    items = items.filter(i => i.status !== 'archived' && (!i.destinations || i.destinations.length === 0));
+    // Sub-filters within inbox
+    if (state.filFilter === 'fresh') {
+      items = items.filter(i => isFresh(i.published));
+    } else if (state.filFilter === 'primary') {
+      const primaryCats = new Set(['autorite_fr', 'autorite_eu', 'autorite_intl', 'jurisprudence']);
+      items = items.filter(i => primaryCats.has(i.category));
+    } else if (state.filFilter === 'jurisprudence') {
+      items = items.filter(i => i.category === 'jurisprudence');
+    }
   } else if (state.filFilter === 'dest-quotidien') {
     items = items.filter(i => i.destinations && i.destinations.includes('quotidien'));
   } else if (state.filFilter === 'dest-hebdo') {
-    items = items.filter(i => i.destinations && i.destinations.includes('hebdo'));
+    // Hebdo file = tagged hebdo + tagged quotidien (auto-included)
+    items = items.filter(i => i.destinations && (i.destinations.includes('hebdo') || i.destinations.includes('quotidien')));
   } else if (state.filFilter === 'archived') {
     items = items.filter(i => i.status === 'archived');
   }
@@ -2236,10 +2244,28 @@ function renderFeed() {
   el.innerHTML = items.map(i => renderCard(i, false)).join('');
 }
 
+function getBriefItems(dest) {
+  if (dest === 'hebdo') {
+    // Hebdo = tagged hebdo + all tagged quotidien (auto-included, no duplicates)
+    const seen = new Set();
+    return state.items.filter(i => {
+      if (!i.destinations || i.destinations.length === 0) return false;
+      if (i.destinations.includes('hebdo') || i.destinations.includes('quotidien')) {
+        if (seen.has(i.hash)) return false;
+        seen.add(i.hash);
+        return true;
+      }
+      return false;
+    }).sort((a, b) => b.score - a.score);
+  }
+  // Quotidien = only tagged quotidien
+  return state.items.filter(i => i.destinations && i.destinations.includes('quotidien')).sort((a, b) => b.score - a.score);
+}
+
 function renderBrief() {
   ['quotidien', 'hebdo'].forEach(dest => {
     const suffix = dest === 'quotidien' ? 'q' : 'h';
-    const items = state.items.filter(i => i.destinations && i.destinations.includes(dest)).sort((a, b) => b.score - a.score);
+    const items = getBriefItems(dest);
     const el = document.getElementById('draft-items-' + suffix);
     const countEl = document.getElementById('draft-count-' + suffix);
     countEl.textContent = items.length + ' article' + (items.length > 1 ? 's' : '');
@@ -2247,29 +2273,37 @@ function renderBrief() {
       el.innerHTML = '';
       return;
     }
-    el.innerHTML = items.map(i => `
+    el.innerHTML = items.map(i => {
+      const badges = [];
+      if (i.destinations.includes('quotidien')) badges.push('Q');
+      if (i.destinations.includes('hebdo')) badges.push('H');
+      return `
       <div class="draft-item">
-        <button class="draft-item-remove" onclick="event.stopPropagation(); toggleDest(${i.id}, '${dest}')" title="Retirer">×</button>
+        <button class="draft-item-remove" onclick="event.stopPropagation(); toggleDest(${i.id}, '${i.destinations.includes(dest) ? dest : 'quotidien'}')" title="Retirer">\u00d7</button>
         <div class="draft-item-title">${esc(i.title)}</div>
-        <div class="draft-item-source">${esc(i.source)}</div>
+        <div class="draft-item-source">${esc(i.source)} ${badges.length ? '<span style="opacity:0.5;font-size:11px;">' + badges.join('+') + '</span>' : ''}</div>
       </div>
-    `).join('');
+    `}).join('');
   });
 }
 
 function renderSidebar() {
+  // Inbox = not archived, no destinations
+  const inbox = state.items.filter(i => i.status !== 'archived' && (!i.destinations || i.destinations.length === 0));
+  const primaryCats = new Set(['autorite_fr', 'autorite_eu', 'autorite_intl', 'jurisprudence']);
   const counts = {
-    tous: state.items.length,
-    fresh: state.items.filter(i => isFresh(i.published)).length,
-    primary: state.items.filter(i => ['autorite_fr','autorite_eu','autorite_intl','jurisprudence'].includes(i.category)).length,
-    jurisprudence: state.items.filter(i => i.category === 'jurisprudence').length,
+    tous: inbox.length,
+    fresh: inbox.filter(i => isFresh(i.published)).length,
+    primary: inbox.filter(i => primaryCats.has(i.category)).length,
+    jurisprudence: inbox.filter(i => i.category === 'jurisprudence').length,
     status_new: state.items.filter(i => i.status === 'new').length,
     status_important: state.items.filter(i => i.status === 'important').length,
     status_reviewed: state.items.filter(i => i.status === 'reviewed').length,
     status_draft: state.items.filter(i => i.status === 'draft').length,
     status_archived: state.items.filter(i => i.status === 'archived').length,
     dest_quotidien: state.items.filter(i => i.destinations && i.destinations.includes('quotidien')).length,
-    dest_hebdo: state.items.filter(i => i.destinations && i.destinations.includes('hebdo')).length,
+    // Hebdo file = tagged hebdo + tagged quotidien
+    dest_hebdo: state.items.filter(i => i.destinations && (i.destinations.includes('hebdo') || i.destinations.includes('quotidien'))).length,
   };
 
   document.getElementById('count-tous').textContent = counts.tous;
@@ -2343,11 +2377,12 @@ window.toggleGroup = function(header) {
 };
 
 function updateStats() {
-  const fresh = state.items.filter(i => isFresh(i.published)).length;
-  const important = state.items.filter(i => i.destinations && i.destinations.length > 0).length;
-  document.getElementById('stat-total').textContent = state.items.length;
+  const inbox = state.items.filter(i => i.status !== 'archived' && (!i.destinations || i.destinations.length === 0));
+  const fresh = inbox.filter(i => isFresh(i.published)).length;
+  const selected = state.items.filter(i => i.destinations && i.destinations.length > 0).length;
+  document.getElementById('stat-total').textContent = inbox.length;
   document.getElementById('stat-fresh').textContent = fresh;
-  document.getElementById('stat-important').textContent = important;
+  if (document.getElementById('stat-selected')) document.getElementById('stat-selected').textContent = selected;
 
   // Score counts
   const el = (id) => document.getElementById(id);
@@ -2448,7 +2483,7 @@ window.saveNote = function(id) {
 window.exportBrief = function(dest) {
   dest = dest || 'quotidien';
   const label = dest === 'quotidien' ? 'Quotidien' : 'Hebdo';
-  const items = state.items.filter(i => i.destinations && i.destinations.includes(dest)).sort((a, b) => b.score - a.score);
+  const items = getBriefItems(dest);
   if (!items.length) { showToast('Aucun article dans ' + label); return; }
 
   const today = new Date().toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' });
@@ -2461,7 +2496,7 @@ window.exportBrief = function(dest) {
     if (item.summary) md += `${item.summary}\n\n`;
     md += `**Source :** ${item.source} (${catLabel(item.category)})`;
     if (item.published) md += ` — ${fmtDate(item.published)}`;
-    md += `\n`;
+    md += ` — Score : ${item.score}\n`;
     if (item.url) md += `**Lien :** ${item.url}\n`;
     if (item.doc_type) md += `**Type :** ${item.doc_type}\n`;
     md += `\n---\n\n`;
