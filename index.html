@@ -2392,6 +2392,12 @@ window.toggleDest = function(id, dest) {
       item.destinations.push(dest);
       showToast(`★ Ajouté au ${dest === 'quotidien' ? 'Quotidien' : 'Hebdo'}`);
     }
+    // Auto-archive when tagged, un-archive when all destinations removed
+    if (item.destinations.length > 0) {
+      item.status = 'archived';
+    } else {
+      item.status = 'new';
+    }
     saveItemState(item.hash, item.status, item.destinations, item.note, item);
     if (item.destinations.length > 0) recordHistory(item);
     renderCurrentTab();
