@@ -324,6 +324,9 @@ def apply_time_decay(base_score, published_iso):
         - decay_label: str like "×1.5 (<24h)"
     """
     try:
+        # No date → no boost, no penalty
+        if not published_iso:
+            return base_score, "×1.0 (no date)"
         # Parse published date
         if isinstance(published_iso, str):
             # Handle ISO format with or without timezone
@@ -697,8 +700,20 @@ def fetch_rss(url, source_name, source_type, category):
                 except Exception:
                     pass
                 break
+        # Try feedparser's raw published/updated string as fallback
         if not published:
-            published = datetime.now(timezone.utc).isoformat()
+            for attr in ("published", "updated"):
+                raw = getattr(entry, attr, None)
+                if raw:
+                    try:
+                        from email.utils import parsedate_to_datetime
+                        published = parsedate_to_datetime(raw).isoformat()
+                    except Exception:
+                        pass
+                    break
+        # Do NOT fall back to now() — articles without dates get no recency boost
+        if not published:
+            published = ""
 
         # Exclure le bruit évident (conventions collectives, etc.)
         combined_lower = f"{title} {summary_clean}".lower()
@@ -915,8 +930,9 @@ def main():
     # Prune old articles to keep data.json manageable
     prune_old_items(data, max_age_days=30)
 
-    # Sort by score desc for the dashboard
-    data["items"].sort(key=lambda x: x.get("score", 0), reverse=True)
+    # Sort by score desc, then geo priority (FR > EU > Intl), then date
+    _geo_prio = {"autorite_fr": 3, "autorite_eu": 2, "jurisprudence": 2, "autorite_intl": 1, "presse": 0, "social": 0, "email": 0}
+    data["items"].sort(key=lambda x: (x.get("score", 0), _geo_prio.get(x.get("category", ""), 0), x.get("published", "")), reverse=True)
 
     # Save
     save_data(data)
@@ -958,8 +974,9 @@ def regenerate_scores_with_time_decay():
         if regenerated_count % 50 == 0:
             print(f"  Regenerated {regenerated_count} items...")
 
-    # Sort by new score
-    data["items"].sort(key=lambda x: x.get("score", 0), reverse=True)
+    # Sort by score desc, then geo priority (FR > EU > Intl), then date
+    _geo_prio = {"autorite_fr": 3, "autorite_eu": 2, "jurisprudence": 2, "autorite_intl": 1, "presse": 0, "social": 0, "email": 0}
+    data["items"].sort(key=lambda x: (x.get("score", 0), _geo_prio.get(x.get("category", ""), 0), x.get("published", "")), reverse=True)
 
     # Save
     save_data(data)

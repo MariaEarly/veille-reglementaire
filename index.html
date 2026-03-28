@@ -2201,12 +2201,16 @@ function getFilteredItems() {
   if (docType) items = items.filter(i => i.doc_type === docType);
   if (actionFilter) items = items.filter(i => i.action_class === actionFilter);
 
+  // Geo priority for tie-breaking: FR first, then EU, then others
+  const geoPrio = {'autorite_fr': 3, 'autorite_eu': 2, 'autorite_intl': 1, 'jurisprudence': 2, 'presse': 0, 'social': 0, 'email': 0};
+  const gp = (item) => geoPrio[item.category] || 0;
+
   if (sortBy === 'fresh') {
-    items.sort((a, b) => combinedScore(b) - combinedScore(a) || (b.published||'').localeCompare(a.published||''));
+    items.sort((a, b) => combinedScore(b) - combinedScore(a) || gp(b) - gp(a) || (b.published||'').localeCompare(a.published||''));
   } else if (sortBy === 'date') {
     items.sort((a, b) => (b.published||'').localeCompare(a.published||''));
   } else {
-    items.sort((a, b) => b.score - a.score || (b.published||'').localeCompare(a.published||''));
+    items.sort((a, b) => b.score - a.score || gp(b) - gp(a) || (b.published||'').localeCompare(a.published||''));
   }
   return items;
 }
