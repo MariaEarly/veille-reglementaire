@@ -574,7 +574,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des risques systémiques et des vulnérabilités du système financier de l'UE identifiés par les autorités de surveillance."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des risques systémiques et des vulnérabilités du système financier européen identifiés par les autorités de supervision."
     },
     {
       "hash": "4a8f38927e46b190",
@@ -628,7 +628,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il détaille les obligations réglementaires d'agrément, d'information et de passeport des sociétés de gestion de portefeuille.",
+      "ai_summary": "L'article traite de la conformité financière en définissant les procédures d'agrément, les obligations d'information et le régime transfrontalier des sociétés de gestion de portefeuille.",
       "score_breakdown": "+20 mots forts: amf, agrément | +25 Source FR | +20 Géo FR: français, française, amf | ×1.2 (<3d)",
       "is_primary": true
     },
@@ -648,7 +648,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c077640610a4ad62",
@@ -666,7 +666,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il détaille les obligations réglementaires d'agrément, d'information et de passeport pour les sociétés de gestion."
+      "ai_summary": "Cet article concerne la conformité financière car il détaille les conditions d'agrément, obligations informationnelles et règles de passeport des sociétés de gestion."
     },
     {
       "hash": "ae243849cfdcbad3",
@@ -684,7 +684,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c306997deea820a2",
@@ -757,7 +757,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article traite de la conformité des prestataires de services crypto-actifs concernant les critères de connaissances et compétences requis par la réglementation européenne."
+      "ai_summary": "Les orientations de l'ESMA définissent les critères de compétences pour les acteurs des crypto-actifs, garantissant la conformité réglementaire."
     },
     {
       "hash": "513968b335d099b8",
@@ -772,7 +772,7 @@
       "score": 67,
       "doc_type": "RAPPORT",
       "action_class": "info",
-      "ai_summary": "Cet article concerne l'évaluation réglementaire des plateformes de trading non-européennes selon MiFID II/MiFIR, assurant la conformité financière transfrontalière.",
+      "ai_summary": "Cet article concerne l'évaluation de la conformité des plateformes de trading de pays tiers aux normes réglementaires MiFID II et MiFIR.",
       "status": "new",
       "early_brief": false,
       "score_breakdown": "+10 mots forts: esma | +10 mots moyens: directive, regulation | +15 Source EU | +10 Géo EU: esma | ×1.5 (<24h)"
@@ -811,7 +811,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet avis fixe les taux effectifs moyens des crédits et les seuils d'usure applicables au 1er avril 2026, assurant la conformité des établissements de crédit avec la réglementation de protection du consommateur et de stabilité financière."
+      "ai_summary": "Cet avis fixe les taux effectifs moyens des crédits et les seuils d'usure applicables au 1er avril 2026 pour assurer la conformité réglementaire des établissements de crédit."
     },
     {
       "hash": "a29840f627648f31",
@@ -1015,7 +1015,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de vérification des entreprises réglementées envers les prestataires non régulementés."
+      "ai_summary": "L'article concerne la conformité financière car il rappelle aux entreprises régulées de vérifier les entités non régulées avec lesquelles elles travaillent pour respecter les obligations AML."
+    },
+    {
+      "hash": "d3ecc22257cd54ad",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "AXA FRANCE IARD - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ONUtrNG5zZWRxYWNGSFY3c3FLTk9qVDhFRWtRaXc4bENvV2UwZWZpV3c2a0ZwOUJYczFCV3BCZmNVSmstQURqVlBjNmFUNmJsV3Jkazd0dTg?oc=5",
+      "author": "",
+      "published": "2026-03-26T01:05:02",
+      "summary": "AXA FRANCE IARD&nbsp;&nbsp;Banque de France",
+      "score": 60,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "e492c1d1721f6335",
@@ -1045,24 +1063,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02OVBzdlhRbklsNmFEVVhQaGE4d0wwNDl2UG93UlZJWndfVi1RUzRaR3Y3MzZJWnc0cG5TM1NHUFIzZ0psYTNKMVJBOFFXaVBKdFEyel9sSF81T0N1dVVpMlpfcU9ZZw?oc=5",
       "author": "",
       "published": "2026-03-25T23:30:37",
-      "summary": "View PDF&nbsp;&nbsp;Banque de France",
-      "score": 60,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "3631b18bfb47d180",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "View PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqQlM2WFJBNnJfd0llV2dZRmZpRkk2dUJPeWN5Yk9udGxoS285bGtjeG92TUR6dFFpWnI2NkUtbDFYTHg1TkJyOTJIWjkzX21faTNkenFPM3FBU3JhVW04NVl1TVJTQQ?oc=5",
-      "author": "",
-      "published": "2026-03-25T21:18:06",
       "summary": "View PDF&nbsp;&nbsp;Banque de France",
       "score": 60,
       "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
@@ -1106,7 +1106,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a6545758c65e1154",
@@ -1346,7 +1346,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de normes techniques réglementaires pour la lutte anti-blanchiment et contre le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur les normes techniques réglementaires de lutte anti-blanchiment et anti-terrorisme."
     },
     {
       "hash": "be7cc31445746da3",
@@ -1437,7 +1437,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'ESMA met en place des mesures pour simplifier l'accès des investisseurs particuliers aux marchés, relevant de la protection des investisseurs et de la conformité réglementaire."
+      "ai_summary": "L'ESMA encadre l'accès des investisseurs retail aux marchés financiers pour renforcer leur protection et la conformité réglementaire."
     },
     {
       "hash": "19476e9a9fafef31",
@@ -1476,22 +1476,22 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'application des sanctions et des risques de non-conformité."
     },
     {
-      "hash": "933e1368ba73be37",
+      "hash": "6b1b2f8d0415567c",
       "source_name": "ACPR",
       "source_type": "rss",
       "category": "autorite_fr",
-      "title": "View PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zVWt4TmIxTHpiUHEzWG15eENJUHFEa296cXFrMkw3VUFYTDRoNUs0TkR2R3RTN0xURmk2aUxQNHhiaWJ3WTR5dnVpZGg4eUUtVUpkTTQxbEdmVEFMWlZNNl82eEp0Zw?oc=5",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fMFF0RF9EcmN2eHI3blEyb0M4THdLWmVFQ1ZzYTd5TERVdS1MbHk5RVNGVU9kUGpvNVA4dnZ4VWZaQk1vbWt6eTVrZUlBWm5uM0tfMDJMWTQxcGpvNXBSNjViT1hEQQ?oc=5",
       "author": "",
-      "published": "2026-03-23T07:21:57",
-      "summary": "View PDF&nbsp;&nbsp;Banque de France",
+      "published": "2026-03-24T18:54:18",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
       "score": 50,
       "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "367207a40a5ac9f5",
@@ -1502,24 +1502,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJaHpGSnRYQnFCaE8xbGFuWldTb0daWElBUHo1MnI1aGU3c3M2QWdrU0JVY1FxbFRjVDBXZEtXdkZodnYtd3JYYnp6UHRjSjYzTXN2Z2MwTXpxcDZ3ZzItT3FVaml1dw?oc=5",
       "author": "",
       "published": "2026-03-21T12:53:16",
-      "summary": "View PDF&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "647134793e3eebf7",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "View PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZX3h2VUtfcUxudVVZdEcwdWExelZKVU5HWmFZZ0pPaXlNMlktMGJaVHNxNG8zQnloUU4wb3dIOWo1ejBBQUFhZUI4b0IzN2FBRjdVd1JCSWdZWnJEaVc3VW5SVEZ2QQ?oc=5",
-      "author": "",
-      "published": "2026-03-21T08:37:42",
       "summary": "View PDF&nbsp;&nbsp;Banque de France",
       "score": 50,
       "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
@@ -1564,7 +1546,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il rapporte l'évaluation de la solidité du secteur bancaire européen par l'autorité de régulation (EBA)."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la solidité du secteur bancaire européen, de la capitalisation et de la qualité des actifs."
     },
     {
       "hash": "4da8ffbe2e07a58a",
@@ -1915,7 +1897,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il détaille les exigences réglementaires d'agrément et de gouvernance pour les gestionnaires de portefeuille."
+      "ai_summary": "Cet article concerne la conformité financière car il explique les exigences réglementaires d'agrément et de gouvernance pour les sociétés de gestion de portefeuille."
     },
     {
       "hash": "1ecc76cd67f2",
@@ -1950,7 +1932,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du gel des avoirs de personnalités russes dans le cadre des sanctions internationales liées à la guerre en Ukraine.",
+      "ai_summary": "Cet article concerne la conformité financière car il traite du gel des avoirs de personnalités sanctionnées.",
       "score_breakdown": "+20 mots critiques: gel des avoirs | +15 Source EU | ×1.2 (<3d)"
     },
     {
@@ -2003,7 +1985,7 @@
       "score": 42,
       "doc_type": "CONSULTATION",
       "action_class": "action",
-      "ai_summary": "Cet article concerne la conformité financière car il traite des règles de garanties en tant que collatéral pour les contreparties centrales et leur politique d'investissement.",
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur les règles régissant les garanties acceptées comme collatéral des contreparties centrales et leur politique de placement.",
       "status": "new",
       "early_brief": false,
       "score_breakdown": "+10 mots forts: esma | +15 Source EU | +10 Géo EU: esma | ×1.2 (<3d)",
@@ -2058,7 +2040,7 @@
       "score": 40,
       "doc_type": "RAPPORT",
       "action_class": "info",
-      "ai_summary": "Cet article concerne la conformité financière car il traite des risques systémiques identifiés par les autorités de supervision financière européennes.",
+      "ai_summary": "Cet article concerne la conformité financière car il rapporte l'évaluation des risques systémiques par les autorités de régulation européennes.",
       "status": "new",
       "early_brief": false
     },
@@ -2207,7 +2189,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la révision des règles de cotation applicables aux sociétés d'investissement, notamment les exigences d'indépendance du conseil d'administration et les transactions avec les parties liées."
+      "ai_summary": "Les règles de gouvernance et les conflits d'intérêts des investment trusts relèvent de la conformité réglementaire financière."
     },
     {
       "hash": "ec5f62bfdebe1025",
@@ -2261,7 +2243,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la corruption, un domaine clé de la conformité et de la gouvernance financière.",
+      "ai_summary": "Cet article concerne la lutte contre la corruption, domaine clé de la conformité financière et de la prévention des risques de blanchiment.",
       "score_breakdown": "+25 Source FR | +20 Géo FR: france, français, française | ×0.8 (14d)",
       "is_primary": true
     },
@@ -2281,7 +2263,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la corruption, un enjeu majeur de conformité et de prévention des risques financiers."
+      "ai_summary": "La lutte contre la corruption présentée par les autorités françaises relève de la conformité financière et de la prévention des risques de blanchiment."
     },
     {
       "hash": "7ddd3a5a005d883e",
@@ -2317,26 +2299,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce groupe stratégique concerne la conformité car il encadre la tokenisation financière, nécessitant de nouveaux cadres réglementaires et de conformité."
-    },
-    {
-      "hash": "8c02670c89c942d9",
-      "source_name": "Cass. - Fraude",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de BORDEAUX, 1ère chambre, 19 mars 2026, 24BX00525",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEBORDEAUX-20260319-24BX00525",
-      "author": "1ère chambre",
-      "published": "2026-03-19T12:00:00+00:00",
-      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           La société à responsabilité limitée SARL Maison Camp David a demandé au tribunal administratif de Saint-Barthélemy d'annuler la décision implicite par laquelle le président de la collectivité de Saint-Barthélemy a refusé de retirer, pour fraude, le permis de construire n° PC 971123 19 00049 accordé à la société La Plage par délibération n° 2019-1144 CE en date du 31 octobre 2019 du conseil exécutif de la collectiv...",
-      "score": 36,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance",
-      "score_breakdown": "+20 mots critiques: fraude, fraud | +5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
-      "is_primary": false
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la tokenisation et de l'innovation réglementées par l'AMF, la Banque de France et le Trésor."
     },
     {
       "hash": "cf077481a8f56fdf",
@@ -2354,7 +2317,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b22264d9bb793f31",
@@ -2372,7 +2335,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "42c54c9d9aa5d832",
@@ -2390,26 +2353,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "b9cef7332c5fa6d5",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Council extends sanctions framework against cyber-attacks",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/03/18/council-extends-sanctions-cyber-attacks/",
-      "author": "",
-      "published": "2026-03-18T00:00:00",
-      "summary": "EU Council renews restrictive measures against cyber-attacks threatening the EU and its member states",
-      "score": 36,
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance",
-      "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | +10 Géo EU: member state | ×0.8 (14d)",
-      "is_primary": true
+      "ai_summary": null
     },
     {
       "hash": "88e65851fd13b5f8",
@@ -2501,7 +2445,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "019b4e437c332f72",
@@ -2724,7 +2668,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "315dc75b56ea681f",
@@ -2816,7 +2760,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne l'expansion des capacités d'audit et de certification de conformité par acquisition de trois entreprises américaines spécialisées en inspection et audit."
+      "ai_summary": "Cet article concerne l'expansion des capacités d'audit et de certification de conformité, incluant les audits sociaux et les certifications de durabilité aux États-Unis."
     },
     {
       "hash": "775e686216fd10f4",
@@ -2890,7 +2834,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur les normes techniques réglementaires relatives aux fonds propres et aux passifs éligibles des institutions bancaires."
     },
     {
       "hash": "6f1e98f0b3cb7c72",
@@ -2908,7 +2852,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "70bba2a0f67f0a21",
@@ -2925,7 +2869,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article concerne la sensibilisation financière et l'éducation des consommateurs, éléments clés de la conformité réglementaire en matière de protection des clients.",
       "score_breakdown": "+20 mots critiques: fraud | +10 mots forts: eba | +10 Géo EU: eba | ×0.8 (14d)",
       "is_primary": false
     },
@@ -2945,7 +2889,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La sensibilisation financière et l'éducation des consommateurs relèvent de la conformité réglementaire et de la protection des consommateurs."
     },
     {
       "hash": "432ec23c2827a8bb",
@@ -2963,7 +2907,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "27b8843116cb826f",
@@ -2981,7 +2925,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "fd8b36ea81ed2f06",
@@ -2999,7 +2943,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne le suivi réglementaire et statistique des crédits immobiliers, relevant de la conformité bancaire et prudentielle."
     },
     {
       "hash": "d1e627859f22c1a8",
@@ -3017,7 +2961,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "0e26cbe0e81687e5",
@@ -3035,7 +2979,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur les normes de reporting harmonisées pour la surveillance des succursales de pays tiers."
     },
     {
       "hash": "ae83eff511ade559",
@@ -3052,7 +2996,7 @@
       "action_class": "veille",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Fraude Medicare : propriétaire de télémédecine reconnu coupable de détournement de 46 millions de dollars.",
       "score_breakdown": "+20 mots critiques: fraud | +5 Source Intl | ×1.2 (<3d)"
     },
     {
@@ -3070,7 +3014,7 @@
       "action_class": "veille",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une escroquerie télémarketing massive violant les réglementations de fraude.",
       "score_breakdown": "+20 mots critiques: fraud | +5 Source Intl | ×1.2 (<3d)"
     },
     {
@@ -3106,7 +3050,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "L'article traite de la conformité réglementaire bancaire via le cadre prudentiel, Basel III et l'intégration bancaire européenne.",
       "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.2 (<3d)",
       "is_primary": false
     },
@@ -3126,7 +3070,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'EBA discute de la simplification du cadre prudentiel, de la mise en œuvre de Bâle III et de l'intégration bancaire, éléments clés de la conformité financière."
     },
     {
       "hash": "47edda49a30437d4",
@@ -3163,7 +3107,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du MREL, une exigence réglementaire de fonds propres et passifs éligibles pour les banques de l'UE."
     },
     {
       "hash": "5ca7af31ae2abae6",
@@ -3180,7 +3124,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Le rapport annuel présente les mesures de stabilité financière et les coussins de fonds propres pour limiter les risques macroprudentiels.",
       "score_breakdown": "+10 mots moyens: risque, banque | +20 Géo FR: france, français, banque de france | ×1.0 (7d)",
       "is_primary": false
     },
@@ -3200,7 +3144,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Le rapport annuel présente les mesures de stabilité financière et les coussins de fonds propres pour limiter les risques macroprudentiels."
     },
     {
       "hash": "7da7de2a5e2e75d2",
@@ -3217,7 +3161,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article concerne la conformité financière car il invite à soumettre des recherches sur la régulation proportionnée du secteur financier.",
       "score_breakdown": "+10 mots forts: eba | +10 mots moyens: regulation, bank | +10 Géo EU: eba | ×1.0 (7d)",
       "is_primary": false
     },
@@ -3237,7 +3181,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la régulation efficace du secteur financier."
     },
     {
       "hash": "9d3d8980e67c6906",
@@ -3254,7 +3198,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article concerne la conformité financière car il présente les nouveaux tableaux de bord CRR3/CRD6 et les ratios de capital (CET1) et liquidité (LCR) des banques.",
       "score_breakdown": "+10 mots forts: eba | +10 mots moyens: risk, bank | +10 Géo EU: eba | ×1.0 (7d)",
       "is_primary": false
     },
@@ -3274,7 +3218,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il présente les ratios prudentiels CET1 et LCR des banques EU/EEA, essentiels à la régulation CRR3/CRD6."
     },
     {
       "hash": "479d1dda170039d2",
@@ -3292,7 +3236,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Tracfin et le PNACO renforcent leur coopération pour lutter contre le blanchiment de capitaux et les réseaux criminels."
     },
     {
       "hash": "ffc7b78facc84ac0",
@@ -3309,7 +3253,7 @@
       "action_class": "alerte",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Hors périmètre compliance",
       "score_breakdown": "+10 mots forts: eba | +15 Source EU | +10 Géo EU: eba | ×0.8 (14d)",
       "is_primary": true
     },
@@ -3329,7 +3273,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les normes techniques de l'EBA relatives aux délais de demande d'autorisation préalable pour les établissements bancaires."
     },
     {
       "hash": "8b690c8fb89698b8",
@@ -3347,7 +3291,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6242ebd4f57397c7",
@@ -3364,7 +3308,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article concerne la conformité financière car il documente les débats du comité économique et monétaire de l'UE.",
       "score_breakdown": "+10 mots forts: eba | +15 Source EU | +10 Géo EU: european union, eba | ×0.8 (14d)",
       "is_primary": true
     },
@@ -3384,7 +3328,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il documente les débats du Comité économique et monétaire de l'UE."
     },
     {
       "hash": "a08188c503ce48ce",
@@ -3401,7 +3345,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article concerne les affaires économiques et monétaires de l'UE, relevant de la conformité financière réglementaire.",
       "score_breakdown": "+10 mots forts: eba | +15 Source EU | +10 Géo EU: european union, eba | ×0.8 (14d)",
       "is_primary": true
     },
@@ -4583,24 +4527,6 @@
       "ai_summary": null
     },
     {
-      "hash": "5ead4475174994a3",
-      "source_name": "EBA - News",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "The EBA kicks off EU central validation of ISDA SIMM from 1 March 2026",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-kicks-eu-central-validation-isda-simm-1-march-2026",
-      "author": "jana.jaklic@eba.europa.eu",
-      "published": "2026-02-26T15:47:44",
-      "summary": "The European Banking Authority (EBA) will start the central validation of the International Swaps and Derivatives Association Standard Initial Margin Model (ISDA SIMM) on 1 March 2026. The Decision on arrangements for ISDA SIMM validation, published today sets out the operational framework governing the EBA’s new validation function. This marks a key milestone in the implementation of the EBA’s new role as central validator of pro forma models, aimed at ensuring consistent, robust and transparen",
-      "score": 24,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +15 Source EU | +10 Géo EU: eba | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
       "hash": "d5cb62b0de54318e",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -5313,24 +5239,6 @@
       "ai_summary": null
     },
     {
-      "hash": "ded2a0d7db30638e",
-      "source_name": "EBA - European Banking Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "EBA E-mail alert 26 February, 2026",
-      "url": "https://www.eba.europa.eu/node/19344",
-      "author": "Anonymous",
-      "published": "2026-02-26T16:00:02",
-      "summary": "EBA E-mail alert 26 February, 2026\n\n  \n    Date\n          26/02/2026\n\n      \n\nAnonymous (not verified)\n\nThu, 02/26/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          The EBA responds to the Commission’s proposed amendments to the draft technical standards on equivalent legal mechanism\n      ",
-      "score": 21,
-      "score_breakdown": "+10 mots forts: eba | +15 Source EU | +10 Géo EU: eba | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
       "hash": "e334e432229b1e62",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -5437,6 +5345,23 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": null
+    },
+    {
+      "hash": "108f46b20fcd9d01",
+      "source_name": "EBA (Email)",
+      "source_type": "email",
+      "category": "autorite_eu",
+      "title": "ESAs spring risk update highlights geopolitical pressures and rising private finance risks",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-spring-risk-update-highlights-geopolitical-pressures-and-rising-private-finance-risks",
+      "author": "no-reply@eba.europa.eu",
+      "published": "2026-03-27T19:35:54+01:00",
+      "summary": "NEWS & PRESS ESAS SPRING RISK UPDATE HIGHLIGHTS GEOPOLITICAL PRESSURES AND RISING PRIVATE FINANCE RISKS Press Release The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published their spring 2026 Joint Committee update on risks and vulnerabilities in the EU financial system. The update focuses on the challenges arising from ongoing geopolitical tensions and developments in private finance.",
+      "score": 20,
+      "doc_type": "COMMUNIQUÉ",
+      "action_class": "info",
+      "ai_summary": null,
+      "status": "new",
+      "early_brief": false
     },
     {
       "hash": "e715d1ab4c91e248",
@@ -5922,23 +5847,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": null
-    },
-    {
-      "hash": "108f46b20fcd9d01",
-      "source_name": "EBA (Email)",
-      "source_type": "email",
-      "category": "autorite_eu",
-      "title": "ESAs spring risk update highlights geopolitical pressures and rising private finance risks",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-spring-risk-update-highlights-geopolitical-pressures-and-rising-private-finance-risks",
-      "author": "no-reply@eba.europa.eu",
-      "published": "2026-03-27T19:35:54+01:00",
-      "summary": "NEWS & PRESS ESAS SPRING RISK UPDATE HIGHLIGHTS GEOPOLITICAL PRESSURES AND RISING PRIVATE FINANCE RISKS Press Release The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published their spring 2026 Joint Committee update on risks and vulnerabilities in the EU financial system. The update focuses on the challenges arising from ongoing geopolitical tensions and developments in private finance.",
-      "score": 20,
-      "doc_type": "COMMUNIQUÉ",
-      "action_class": "info",
-      "ai_summary": null,
-      "status": "new",
-      "early_brief": false
     },
     {
       "hash": "68415f993be86327",
@@ -7104,24 +7012,6 @@
       "ai_summary": null
     },
     {
-      "hash": "2f261fec56ec1b61",
-      "source_name": "EBA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📢The #EBA will launch EU wide central validation of #ISDASIMM on 1 March 2026 under #EMIR. Key points: validation framework now published; counterparty onboarding starts soon; applications from Aug 2026; first decisions expected in Q4 2026. 👉",
-      "url": "https://x.com/EBA_News/status/2027072642621042913",
-      "author": "@EBA_News",
-      "published": "2026-02-26T17:25:00",
-      "summary": "📢The  #EBA will launch EU wide central validation of  #ISDASIMM on 1 March 2026 under  #EMIR.Key points: validation framework now published; counterparty onboarding starts soon; applications from Aug 2026; first decisions expected in Q4 2026.👉 link.europa.eu/yG8nk7— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Feb 26, 2026",
-      "score": 15,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
       "hash": "af137f10343653c1",
       "source_name": "ESMA - European Securities and Markets Authority",
       "source_type": "rss",
@@ -7534,24 +7424,6 @@
       "summary": "🔔 New today: EBA Opinion on the Commission’s amendments to the draft RTS on equivalent legal mechanism\n\nThe #EBA has published its Opinion on the European Commission’s proposed amendments to the draft Regulatory Technical Standards (RTS) defining what constitutes an equivalent legal mechanism to ensure the completion of residential property under construction under the #CRR.\n\n🔍 Key points from the Opinion:\n\n▶️ The proposed amendments would weaken the prudential safeguards underpinning the prefer",
       "score": 12,
       "score_breakdown": "+10 mots forts: eba | +10 Géo EU: european commission, eba | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "136bcecb17c90681",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📢 The #EBA to kick off EU‑wide central validation of ISDA SIMM The EBA is set to launch its new central validation function for th...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7432837629357834241",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-02-26T17:23:06",
-      "summary": "📢 The #EBA to kick off EU‑wide central validation of ISDA SIMM\n\nThe EBA is set to launch its new central validation function for the ISDA Standard Initial Margin Model (#ISDASIMM) on 1 March 2026, as mandated under #EMIR. The Decision on arrangements for ISDA SIMM validation, published today, lays out the operational framework governing the EBA’s new validation function:\n\n💡Key points:\n 📌 The validation framework and operational arrangements are now published and enter into force on 1 March.\n 📌 I",
-      "score": 12,
-      "score_breakdown": "+10 mots forts: eba | +10 Géo EU: eba | ×0.6 (>14d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
@@ -8929,6 +8801,6 @@
       "ai_summary": null
     }
   ],
-  "last_update": "2026-03-28T18:03:12.136168+00:00",
+  "last_update": "2026-03-28T18:28:13.322457+00:00",
   "last_updated": "2026-03-26T16:46:36.586288+00:00"
 }
