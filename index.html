@@ -1956,8 +1956,8 @@ const sb = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 const state = { items: [], sources: [], activeTab: 'feed', filFilter: '', statusFilter: '', sourceFilter: '' };
 
 // --- Training Log: queue + flush ---
-const LOG_WORKER_URL = ''; // TODO: set after deploying Worker (e.g. https://earlybrief-log.<account>.workers.dev)
-const LOG_API_KEY = '';    // TODO: set after deploying Worker
+const LOG_WORKER_URL = 'https://earlybrief-log.maria-f8d.workers.dev';
+const LOG_API_KEY = 'bd7dd7d34c4383e6fe07bc9947d2782475ad411a50a9725c7ffdcf54417eb16f';
 const LOG_FLUSH_INTERVAL = 30000; // 30s
 
 const _logQueue = { 'training-log': [], 'editorial-log': [] };
