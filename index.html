@@ -2025,17 +2025,20 @@ function shortDate(iso) {
   if (!iso) return '';
   const d = new Date(iso);
   const now = new Date();
-  const diffMs = now - d;
-  const diffDays = Math.floor(diffMs / 86400000);
-  const day = d.getDate();
   const months = ['jan', 'fév', 'mar', 'avr', 'mai', 'juin', 'juil', 'août', 'sep', 'oct', 'nov', 'déc'];
+  const day = d.getDate();
   const month = months[d.getMonth()];
-  if (diffDays === 0) {
-    const diffH = Math.floor(diffMs / 3600000);
+  // Compare calendar dates (not raw diff) to avoid "Aujourd'hui" for yesterday's articles
+  const todayStr = now.toLocaleDateString('fr-FR');
+  const dStr = d.toLocaleDateString('fr-FR');
+  const yesterday = new Date(now); yesterday.setDate(yesterday.getDate() - 1);
+  const yesterdayStr = yesterday.toLocaleDateString('fr-FR');
+  if (dStr === todayStr) {
+    const diffH = Math.floor((now - d) / 3600000);
     if (diffH < 1) return 'Aujourd\'hui';
     return `Aujourd'hui · ${diffH}h`;
   }
-  if (diffDays === 1) return 'Hier';
+  if (dStr === yesterdayStr) return 'Hier';
   if (d.getFullYear() === now.getFullYear()) return `${day} ${month}`;
   return `${day} ${month} ${d.getFullYear()}`;
 }
