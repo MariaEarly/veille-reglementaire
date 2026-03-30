@@ -1054,6 +1054,24 @@
       "score_breakdown": "+20 mots critiques: fraud | +10 mots forts: acpr | +5 mots moyens: paiement | +25 Source FR | +20 Géo FR: acpr | ×0.6 (>14d)"
     },
     {
+      "hash": "4658c974e05663d7",
+      "source_name": "Money Laundering News",
+      "source_type": "press",
+      "category": "presse",
+      "title": "FinCEN Targets MBaer with Most Severe Section 311 Measure",
+      "url": "https://www.moneylaunderingnews.com/2026/03/fincen-targets-mbaer-with-most-severe-section-311-measure/",
+      "author": "Terence M. Grugan",
+      "published": "2026-03-30T15:36:39",
+      "summary": "MBaer Merchant Bank AG (“MBaer”) was recently designated a “primary money laundering concern” by the U.S. Department of the Treasury’s Financing Crimes Enforcement Network (“FinCEN”) pursuant to Section 311 of the PATRIOT Act. &#160; The Consequences FinCen detailed its allegations against MBaer on February 26, 2026, in its Notice of Proposed Rulemaking (“NPRM”) where it...",
+      "score": 46,
+      "score_breakdown": "+20 mots critiques: money laundering | +5 mots moyens: bank | +3 Presse | +3 Géo Intl: fincen | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "0173d468b25da93f",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1071,24 +1089,6 @@
       "ai_summary": "La nomination d'un adjoint aux services administratifs et financiers du Premier ministre relève de la conformité financière.",
       "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
       "is_primary": false
-    },
-    {
-      "hash": "4658c974e05663d7",
-      "source_name": "Money Laundering News",
-      "source_type": "press",
-      "category": "presse",
-      "title": "FinCEN Targets MBaer with Most Severe Section 311 Measure",
-      "url": "https://www.moneylaunderingnews.com/2026/03/fincen-targets-mbaer-with-most-severe-section-311-measure/",
-      "author": "Terence M. Grugan",
-      "published": "2026-03-30T15:36:39",
-      "summary": "MBaer Merchant Bank AG (“MBaer”) was recently designated a “primary money laundering concern” by the U.S. Department of the Treasury’s Financing Crimes Enforcement Network (“FinCEN”) pursuant to Section 311 of the PATRIOT Act. &#160; The Consequences FinCen detailed its allegations against MBaer on February 26, 2026, in its Notice of Proposed Rulemaking (“NPRM”) where it...",
-      "score": 46,
-      "score_breakdown": "+20 mots critiques: money laundering | +5 mots moyens: bank | +3 Presse | +3 Géo Intl: fincen | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
     },
     {
       "hash": "513fae72938defe4",
@@ -1438,24 +1438,6 @@
       "status": "new",
       "early_brief": false,
       "score_breakdown": "+10 mots forts: esma | +5 mots moyens: regulation | +15 Source EU | +10 Géo EU: esma | ×1.0 (7d)"
-    },
-    {
-      "hash": "f7fd8fdcd0756154",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, Juge des référés, 27 mars 2026, 513792",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260327-513792",
-      "author": "Juge des référés",
-      "published": "2026-03-27T12:00:00",
-      "summary": "Vu la procédure suivante :                Par une requête, enregistrée le 18 mars 2026 au secrétariat du contentieux du Conseil d'Etat, M. B... A... demande au juge des référés du Conseil d'Etat, statuant sur le fondement de l'article L. 521-1 du code de justice administrative :                   1° de suspendre l'exécution de la décision du 9 juillet 2025 par laquelle la commission des sanctions de l'Autorité des marchés financiers a prononcé à son encontre une interdiction définitive d'exercer",
-      "score": 40,
-      "score_breakdown": "+20 mots critiques: sanction | +20 Géo FR: france, autorité des marchés financiers | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
     },
     {
       "hash": "0b0d203a98c13c42",
@@ -3703,23 +3685,6 @@
       "score_breakdown": "+20 mots critiques: sanction | +5 Source Intl | +3 Géo Intl: ofac | ×0.8 (14d)"
     },
     {
-      "hash": "ab6b801fb305",
-      "source_name": "CJUE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Restrictive measures in respect of Russia: fund freezing prevents holders from attending shareholder meetings",
-      "url": "https://curia.europa.eu/jcms/upload/docs/application/pdf/2026-03/cp260035en.pdf",
-      "author": "",
-      "published": "2026-03-12T00:00:00Z",
-      "summary": "Restrictive measures in respect of Russia: fund freezing prevents holders from attending shareholder meetings",
-      "score": 22,
-      "doc_type": "sanction",
-      "action_class": "enforcement",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
       "hash": "dd2381a893c08cf5",
       "source_name": "OFAC - Recent Actions",
       "source_type": "scrape",
@@ -5272,23 +5237,6 @@
       "ai_summary": null
     },
     {
-      "hash": "9d4b808a06c8",
-      "source_name": "CJUE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Restrictive measures regarding Russia: asset freezing prevents depositary receipt holders from shareholder voting",
-      "url": "https://curia.europa.eu/site/jcms/d6_1000000368/en/upload/docs/application/pdf/2026-03/cp260035en.pdf",
-      "author": "",
-      "published": "2026-03-12T00:00:00Z",
-      "summary": "Restrictive measures regarding Russia: asset freezing prevents depositary receipt holders from shareholder voting",
-      "score": 17,
-      "doc_type": "sanction",
-      "action_class": "sanction_update",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
       "hash": "d5cb62b0de54318e",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -5507,23 +5455,6 @@
       "ai_summary": null,
       "score_breakdown": "+20 mots forts: aml, cft | +5 Source Intl | ×0.6 (>14d)",
       "is_primary": true
-    },
-    {
-      "hash": "bf9865f2360c",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Counter Terrorism Designations; Counter Narcotics and Russia-related Designations Removals",
-      "url": "https://ofac.treasury.gov/recent-actions#counter-terrorism-designations-counter-",
-      "author": "",
-      "published": "2026-03-20T00:00:00",
-      "summary": "Counter Terrorism Designations; Counter Narcotics and Russia-related Designations Removals",
-      "score": 15,
-      "doc_type": "sanction",
-      "action_class": "designation",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des suppressions de désignations OFAC relatives au terrorisme et aux sanctions russes."
     },
     {
       "hash": "8fd6af7752a3",
@@ -6329,23 +6260,6 @@
       "is_primary": false
     },
     {
-      "hash": "de85ab92016b",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Issuance of Venezuela-related General License and Frequently Asked Questions",
-      "url": "https://ofac.treasury.gov/recent-actions#issuance-of-venezuela-related-general-li",
-      "author": "",
-      "published": "2026-03-18T00:00:00",
-      "summary": "Issuance of Venezuela-related General License and Frequently Asked Questions",
-      "score": 10,
-      "doc_type": "license",
-      "action_class": "sanction",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité aux sanctions internationales imposées par les États-Unis contre le Venezuela."
-    },
-    {
       "hash": "92b40a04f4752343",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -6887,7 +6801,7 @@
       "action_class": "designation",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article concerne la conformité financière car il traite des suppressions de désignations OFAC relatives au terrorisme et aux sanctions russes.",
       "score_breakdown": "+5 Source Intl | ×0.8 (14d)"
     },
     {
@@ -6999,7 +6913,7 @@
       "action_class": "sanction",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article concerne la conformité aux sanctions internationales imposées par les États-Unis contre le Venezuela.",
       "score_breakdown": "+5 Source Intl | ×0.8 (14d)"
     },
     {
@@ -7438,6 +7352,6 @@
       "ai_summary": null
     }
   ],
-  "last_update": "2026-03-30T19:13:22.023724+00:00",
+  "last_update": "2026-03-30T19:14:26.026921+00:00",
   "last_updated": "2026-03-30T08:08:13"
 }
