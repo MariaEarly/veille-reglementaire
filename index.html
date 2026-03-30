@@ -1631,7 +1631,10 @@
   <div class="main-content">
     <aside class="sidebar">
       <div class="sidebar-header">
-        <div class="logo">Early <span>Brief</span></div>
+        <div style="display:flex; align-items:center; justify-content:space-between;">
+          <div class="logo">Early <span>Brief</span></div>
+          <button onclick="ebLogout()" title="Déconnexion" style="background:none; border:none; cursor:pointer; color:rgba(255,255,255,0.35); font-size:14px; padding:4px 6px; border-radius:4px; transition:all 150ms;" onmouseover="this.style.color='rgba(255,255,255,0.7)';this.style.background='rgba(255,255,255,0.06)'" onmouseout="this.style.color='rgba(255,255,255,0.35)';this.style.background='none'">&#x23FB;</button>
+        </div>
         <div class="last-update" id="last-update">Chargement...</div>
       </div>
       <div class="sidebar-section">
@@ -1955,200 +1958,229 @@
 
 <div class="toast" id="toast"></div>
 
-<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<!-- ===== LOGIN OVERLAY ===== -->
+<div id="login-overlay" style="display:none; position:fixed; inset:0; z-index:9999; background:rgba(28,28,28,0.92); justify-content:center; align-items:center; backdrop-filter:blur(6px);">
+  <form id="login-form" style="background:var(--color-background-primary); border-radius:12px; padding:40px 36px 32px; width:380px; max-width:90vw; box-shadow:0 24px 80px rgba(0,0,0,0.3);">
+    <div style="text-align:center; margin-bottom:28px;">
+      <div style="font-family:var(--sans); font-weight:700; font-size:20px; letter-spacing:-0.02em;">Early <span style="color:var(--brand);">Brief</span></div>
+      <p style="font-size:13px; color:var(--color-text-tertiary); margin-top:6px;">Connectez-vous pour accéder à la veille</p>
+    </div>
+    <label style="display:block; margin-bottom:16px;">
+      <span style="font-size:12px; font-weight:500; color:var(--color-text-secondary); display:block; margin-bottom:4px;">Email</span>
+      <input id="login-email" type="email" required autocomplete="email" placeholder="admin@earlybrief.com"
+        style="width:100%; padding:10px 12px; border:1px solid var(--color-border-tertiary); border-radius:6px; font-size:14px; font-family:var(--sans); outline:none; transition:border 150ms;"
+        onfocus="this.style.borderColor='var(--brand)'" onblur="this.style.borderColor='var(--color-border-tertiary)'" />
+    </label>
+    <label style="display:block; margin-bottom:8px;">
+      <span style="font-size:12px; font-weight:500; color:var(--color-text-secondary); display:block; margin-bottom:4px;">Mot de passe</span>
+      <input id="login-password" type="password" required autocomplete="current-password" placeholder="••••••••"
+        style="width:100%; padding:10px 12px; border:1px solid var(--color-border-tertiary); border-radius:6px; font-size:14px; font-family:var(--sans); outline:none; transition:border 150ms;"
+        onfocus="this.style.borderColor='var(--brand)'" onblur="this.style.borderColor='var(--color-border-tertiary)'" />
+    </label>
+    <div id="login-error" style="color:#ef4444; font-size:12px; min-height:20px; margin:8px 0 4px; text-align:center;"></div>
+    <button id="login-btn" type="submit"
+      style="width:100%; padding:11px; background:var(--brand); color:#fff; border:none; border-radius:6px; font-size:14px; font-weight:600; font-family:var(--sans); cursor:pointer; transition:background 150ms;"
+      onmouseover="this.style.background='var(--brand-dark)'" onmouseout="this.style.background='var(--brand)'">
+      Se connecter
+    </button>
+    <p id="login-fallback-msg" style="display:none; text-align:center; font-size:11px; color:var(--color-text-tertiary); margin-top:16px;">
+      Backend indisponible — mode lecture seule avec données locales.
+    </p>
+  </form>
+</div>
+
+<!-- ===== API CLIENT (auth, fetch, refresh) ===== -->
+<script src="api-client.js"></script>
+
 <script>
-const SUPABASE_URL = 'https://zmxrcafyoepcjyrbpzam.supabase.co';
-const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpteHJjYWZ5b2VwY2p5cmJwemFtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ1MjA3ODIsImV4cCI6MjA5MDA5Njc4Mn0.e1o3O4m57RHIA8rtZw3ODutEJccOL72oP5uJzyhiCZg';
-const sb = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+// Supabase removed — all state now lives in the backend PostgreSQL via API
 
 const state = { items: [], sources: [], activeTab: 'feed', filFilter: '', statusFilter: '', sourceFilter: '' };
 
-// --- Training Log: queue + flush ---
-const LOG_WORKER_URL = 'https://earlybrief-log.maria-f8d.workers.dev';
-const LOG_API_KEY = 'bd7dd7d34c4383e6fe07bc9947d2782475ad411a50a9725c7ffdcf54417eb16f';
-const LOG_FLUSH_INTERVAL = 30000; // 30s
+// --- Data mode flag ---
+let _dataMode = 'api'; // 'api' or 'fallback'
 
-const _logQueue = { 'training-log': [], 'editorial-log': [] };
-
-function logAction(logName, entry) {
-  entry.timestamp = new Date().toISOString();
-  if (!_logQueue[logName]) _logQueue[logName] = [];
-  _logQueue[logName].push(entry);
-}
-
-async function flushLogs() {
-  if (!LOG_WORKER_URL) return; // Worker not configured yet
-  for (const logName of Object.keys(_logQueue)) {
-    const entries = _logQueue[logName].splice(0);
-    if (!entries.length) continue;
-    try {
-      const res = await fetch(LOG_WORKER_URL + '/append', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json', 'X-API-Key': LOG_API_KEY },
-        body: JSON.stringify({ log: logName, entries }),
-      });
-      if (!res.ok) {
-        console.warn(`Log flush failed for ${logName}:`, await res.text());
-        // Re-queue failed entries at the front
-        _logQueue[logName].unshift(...entries);
-      }
-    } catch (err) {
-      console.warn(`Log flush error for ${logName}:`, err.message);
-      _logQueue[logName].unshift(...entries);
-    }
-  }
-}
-
-// Flush every 30s
-setInterval(flushLogs, LOG_FLUSH_INTERVAL);
-// Flush on page unload (best-effort with sendBeacon fallback)
-window.addEventListener('beforeunload', () => {
-  if (!LOG_WORKER_URL) return;
-  for (const logName of Object.keys(_logQueue)) {
-    const entries = _logQueue[logName].splice(0);
-    if (!entries.length) continue;
-    // sendBeacon is more reliable than fetch on unload
-    try {
-      navigator.sendBeacon(LOG_WORKER_URL + '/append',
-        new Blob([JSON.stringify({ log: logName, entries, _key: LOG_API_KEY })],
-          { type: 'application/json' }));
-    } catch (e) {}
-  }
-});
-
-// --- Supabase-backed state (with localStorage fallback) ---
-async function loadLocalState() {
-  try {
-    const { data, error } = await sb.from('article_state').select('*');
-    if (error) throw error;
-    const result = {};
-    (data || []).forEach(row => {
-      // Migration: early_brief → destinations
-      const dest = row.destinations || (row.early_brief ? ['quotidien'] : []);
-      result[row.hash] = { status: row.status, destinations: dest, note: row.note || '' };
-    });
-    try { localStorage.setItem('veille_local', JSON.stringify(result)); } catch(e) {}
-    return result;
-  } catch(e) {
-    console.warn('Supabase read failed, falling back to localStorage:', e.message);
-    try { return JSON.parse(localStorage.getItem('veille_local') || '{}'); } catch(e2) { return {}; }
-  }
-}
-
+// --- Triage: save to backend (replaces Supabase upsert) ---
 async function saveItemState(hash, status, destinations, note, meta) {
+  // Find item to get its backend UUID
+  const item = state.items.find(i => i.hash === hash);
+  if (!item || !item._apiId) {
+    console.warn('saveItemState: no API id for hash', hash);
+    return;
+  }
+
+  // Map dashboard statuses to backend statuses
+  const statusMap = {
+    'new': 'nouveau',
+    'important': 'important',
+    'reviewed': 'relu',
+    'draft': 'nouveau',
+    'archived': 'archive',
+  };
+  const apiStatus = statusMap[status] || status;
+
+  if (_dataMode !== 'api') return; // Don't persist in fallback mode
+
   try {
-    const local = JSON.parse(localStorage.getItem('veille_local') || '{}');
-    const entry = { status, destinations: destinations || [], note: note || '' };
-    // Persist full metadata when article has destinations (needed if it disappears from RSS)
-    if (meta && (destinations && destinations.length > 0)) {
-      entry.meta = { title: meta.title, url: meta.url, source: meta.source, category: meta.category, score: meta.score, published: meta.published };
-    } else if (local[hash] && local[hash].meta) {
-      entry.meta = local[hash].meta; // preserve existing meta
+    const res = await apiFetch('/articles/' + item._apiId + '/triage', {
+      method: 'PATCH',
+      body: JSON.stringify({ status: apiStatus, destinations: destinations || [], note: note || '' }),
+    });
+    if (!res.ok) {
+      const err = await res.json().catch(() => ({}));
+      console.warn('Triage API error:', err.detail || res.status);
     }
-    local[hash] = entry;
-    localStorage.setItem('veille_local', JSON.stringify(local));
-  } catch(e) {}
-  try {
-    const { error } = await sb.from('article_state').upsert({
-      hash, status, destinations: destinations || [], early_brief: (destinations && destinations.length > 0), note: note || '', updated_at: new Date().toISOString()
-    }, { onConflict: 'hash' });
-    if (error) console.warn('Supabase write failed:', error.message);
   } catch(e) {
-    console.warn('Supabase upsert error:', e.message);
+    console.warn('Triage save failed:', e.message);
   }
 }
 
-// --- Fetch data.json (static file, no API) ---
+// logAction is now a no-op — the backend logs triage actions automatically in training_log
+function logAction(logName, entry) {
+  // Backend handles logging via the /triage endpoint
+}
+
+// --- Fetch articles from backend API (replaces data.json + Supabase) ---
 async function fetchData() {
+  if (_dataMode === 'api' && isLoggedIn()) {
+    try {
+      // Load articles and sources in parallel from backend
+      const [articlesRes, sourcesRes] = await Promise.all([
+        apiFetch('/articles?page_size=500'),
+        apiFetch('/sources'),
+      ]);
+
+      if (articlesRes.ok && sourcesRes.ok) {
+        const articlesData = await articlesRes.json();
+        const sourcesData = await sourcesRes.json();
+
+        // Map backend sources to sidebar format
+        state.sources = sourcesData.map(s => ({
+          name: s.name,
+          slug: s.slug,
+          category: s.category,
+          source_type: s.source_type,
+        }));
+
+        // Map backend statuses back to dashboard statuses
+        const reverseStatusMap = {
+          'nouveau': 'new',
+          'important': 'important',
+          'relu': 'reviewed',
+          'quotidien': 'draft',
+          'hebdo': 'draft',
+          'archive': 'archived',
+          'ignorer': 'archived',
+        };
+
+        state.items = (articlesData.items || []).map((item, i) => {
+          const dashStatus = reverseStatusMap[item.status] || item.status;
+          return {
+            id: i,
+            _apiId: item.id, // UUID for API calls
+            hash: item.slug, // slug serves as hash
+            title: item.title || 'Sans titre',
+            url: item.original_url || '',
+            summary: item.summary || '',
+            author: '',
+            published: item.published_at || '',
+            source: item.source_name || '',
+            source_type: '',
+            category: _mapSourceCategory(item.source_name, sourcesData),
+            score: Number(item.score) || 0,
+            score_breakdown: '',
+            doc_type: null,
+            action_class: 'info',
+            is_primary: false,
+            status: (item.destinations && item.destinations.length > 0) ? 'archived' : dashStatus,
+            destinations: item.destinations || [],
+            note: item.note || '',
+            ai_summary: null,
+            published_in_edition: false,
+          };
+        });
+
+        // Mark articles already published in past editions (from localStorage)
+        const pubHashes = new Set(JSON.parse(localStorage.getItem('earlybrief_published_hashes') || '[]'));
+        if (pubHashes.size) {
+          state.items.forEach(i => { if (pubHashes.has(i.hash)) i.published_in_edition = true; });
+        }
+
+        document.getElementById('last-update').textContent =
+          'Connecté au backend · ' + state.items.length + ' articles';
+
+        renderCurrentTab();
+        return;
+      }
+    } catch (e) {
+      console.warn('API fetch failed, falling back to data.json:', e.message);
+    }
+  }
+
+  // --- Fallback: load from static data.json ---
+  _dataMode = 'fallback';
   try {
     const res = await fetch('data.json?t=' + Date.now());
     if (!res.ok) throw new Error('data.json not found');
     const raw = await res.json();
 
-    const local = await loadLocalState();
-
     state.sources = raw.sources || [];
-    state.items = (raw.items || []).map((item, i) => {
-      const localItem = local[item.hash] || {};
-      return {
-        id: i,
-        hash: item.hash,
-        title: decodeHtml(item.title || 'Sans titre'),
-        url: item.url || '',
-        summary: decodeHtml(item.summary || ''),
-        author: decodeHtml(item.author || ''),
-        published: item.published || '',
-        source: item.source_name || '',
-        source_type: item.source_type || '',
-        category: item.category || '',
-        score: item.score || 0,
-        score_breakdown: item.score_breakdown || '',
-        doc_type: item.doc_type || null,
-        action_class: item.action_class || 'info',
-        is_primary: item.is_primary || false,
-        status: localItem.status || item.status || (item.score >= 40 ? 'important' : 'new'),
-        destinations: localItem.destinations || (localItem.early_brief ? ['quotidien'] : []),
-        note: localItem.note || '',
-        ai_summary: item.ai_summary || null,
-        published_in_edition: item.published_in_edition || false,
-      };
-    });
-
-    // Inject ghost items: articles that left the RSS feed but still have destinations
-    const feedHashes = new Set(state.items.map(i => i.hash));
-    let ghostId = state.items.length + 1000;
-    Object.keys(local).forEach(hash => {
-      if (feedHashes.has(hash)) return; // already in feed
-      const ls = local[hash];
-      if (!ls.destinations || ls.destinations.length === 0) return; // no destination, skip
-      const m = ls.meta || {};
-      state.items.push({
-        id: ghostId++,
-        hash: hash,
-        title: m.title || '(Article hors flux)',
-        url: m.url || '',
-        summary: '',
-        author: '',
-        published: m.published || '',
-        source: m.source || 'Source inconnue',
-        source_type: '',
-        category: m.category || '',
-        score: m.score || 0,
-        score_breakdown: '',
-        doc_type: null,
-        action_class: 'info',
-        is_primary: false,
-        status: ls.status || 'draft',
-        destinations: ls.destinations,
-        note: ls.note || '',
-        ai_summary: null,
-        published_in_edition: false,
-        _ghost: true, // flag for visual indicator
-      });
-    });
-
-    // Mark articles already published in past editions (from localStorage)
-    const pubHashes = new Set(JSON.parse(localStorage.getItem('earlybrief_published_hashes') || '[]'));
-    if (pubHashes.size) {
-      state.items.forEach(i => { if (pubHashes.has(i.hash)) i.published_in_edition = true; });
-    }
+    state.items = (raw.items || []).map((item, i) => ({
+      id: i,
+      _apiId: null,
+      hash: item.hash,
+      title: decodeHtml(item.title || 'Sans titre'),
+      url: item.url || '',
+      summary: decodeHtml(item.summary || ''),
+      author: decodeHtml(item.author || ''),
+      published: item.published || '',
+      source: item.source_name || '',
+      source_type: item.source_type || '',
+      category: item.category || '',
+      score: item.score || 0,
+      score_breakdown: item.score_breakdown || '',
+      doc_type: item.doc_type || null,
+      action_class: item.action_class || 'info',
+      is_primary: item.is_primary || false,
+      status: item.status || (item.score >= 40 ? 'important' : 'new'),
+      destinations: [],
+      note: '',
+      ai_summary: item.ai_summary || null,
+      published_in_edition: item.published_in_edition || false,
+    }));
 
     const lastUpdate = raw.last_update ? new Date(raw.last_update) : null;
     if (lastUpdate) {
       document.getElementById('last-update').textContent =
-        'Dernière ingestion : ' + lastUpdate.toLocaleDateString('fr-FR') + ' à ' + lastUpdate.toLocaleTimeString('fr-FR', {hour:'2-digit', minute:'2-digit'});
+        'Mode local · ' + lastUpdate.toLocaleDateString('fr-FR') + ' à ' + lastUpdate.toLocaleTimeString('fr-FR', {hour:'2-digit', minute:'2-digit'});
     } else {
-      document.getElementById('last-update').textContent = 'Données chargées';
+      document.getElementById('last-update').textContent = 'Mode local · Données chargées';
     }
 
   } catch (e) {
     console.error('Fetch error:', e);
     document.getElementById('feed-cards').innerHTML =
-      '<div class="empty">Impossible de charger data.json. L\'ingestion n\'a peut-être pas encore tourné.</div>';
+      '<div class="empty">Impossible de charger les données. Vérifiez la connexion au backend.</div>';
     return;
   }
 
   renderCurrentTab();
+}
+
+// Helper: find category for a source_name by looking up in the sources array
+function _mapSourceCategory(sourceName, sourcesData) {
+  if (!sourceName || !sourcesData) return '';
+  const s = sourcesData.find(src => src.name === sourceName);
+  if (!s) return '';
+  // Map backend categories to dashboard categories
+  const catMap = {
+    'primaires': 'autorite_fr',
+    'organismes': 'autorite_eu',
+    'sanctions': 'autorite_intl',
+    'presse': 'presse',
+    'international': 'autorite_intl',
+  };
+  return catMap[s.category] || s.category;
 }
 
 // Decode HTML entities from RSS feed data (&#039; &amp; etc.)
@@ -2510,9 +2542,14 @@ function renderSidebar() {
     'jurisprudence': 'Jurisprudence',
     'social': 'Réseaux sociaux',
     'presse': 'Presse',
-    'email': 'Email'
+    'email': 'Email',
+    // Backend categories
+    'primaires': 'Régulateurs FR',
+    'organismes': 'Régulateurs EU',
+    'sanctions': 'Sanctions',
+    'international': 'International',
   };
-  const macroOrder = ['autorite_fr', 'autorite_eu', 'autorite_intl', 'jurisprudence', 'social', 'presse', 'email'];
+  const macroOrder = ['autorite_fr', 'primaires', 'autorite_eu', 'organismes', 'autorite_intl', 'sanctions', 'international', 'jurisprudence', 'social', 'presse', 'email'];
   const macroGroups = {};
   state.sources.forEach(s => {
     const cat = s.category || s.source_type || 'presse';
@@ -2678,9 +2715,33 @@ window.saveNote = function(id) {
   }
 };
 
-window.exportBrief = function(dest) {
+window.exportBrief = async function(dest) {
   dest = dest || 'quotidien';
   const label = dest === 'quotidien' ? 'Quotidien' : 'Hebdo';
+
+  if (_dataMode === 'api' && isLoggedIn()) {
+    // Use backend markdown export
+    try {
+      const res = await apiFetch('/articles/export/markdown?type=' + dest);
+      if (res.ok) {
+        const md = await res.text();
+        if (md.includes('Aucun article')) {
+          showToast('Aucun article dans ' + label);
+          return;
+        }
+        const todayISO = new Date().toISOString();
+        const items = getBriefItems(dest);
+        window._pendingExport = { items, date: todayISO, md, dest };
+        window._pendingExportMd = md;
+        openEditionModal();
+        return;
+      }
+    } catch(e) {
+      console.warn('Backend export failed, using local export:', e.message);
+    }
+  }
+
+  // Fallback: local export (same as before)
   const items = getBriefItems(dest);
   if (!items.length) { showToast('Aucun article dans ' + label); return; }
 
@@ -2700,16 +2761,6 @@ window.exportBrief = function(dest) {
     md += `\n---\n\n`;
   });
 
-  // Log export action
-  logAction('editorial-log', {
-    type: 'export',
-    action: 'export',
-    dest,
-    article_count: items.length,
-    articles: items.map(i => ({ hash: i.hash, title: i.title, source: i.source, score: i.score })),
-  });
-
-  // Show edition modal instead of direct save
   window._pendingExport = { items, date: todayISO, md, dest };
   window._pendingExportMd = md;
   openEditionModal();
@@ -3320,8 +3371,32 @@ window.todoDelete = todoDelete;
 loadTodos();
 renderTodos();
 
-// Init
-fetchData();
+// --- Auth guard + init ---
+(async function init() {
+  // Wire login form
+  const loginForm = document.getElementById('login-form');
+  if (loginForm) loginForm.addEventListener('submit', handleLoginSubmit);
+
+  const authStatus = await authGuard();
+
+  if (authStatus === 'fallback') {
+    // Backend down — show fallback message briefly, then load data.json
+    const msg = document.getElementById('login-fallback-msg');
+    if (msg) { msg.style.display = 'block'; }
+    // Auto-dismiss after 2s and load data.json
+    setTimeout(() => {
+      hideLoginOverlay();
+      fetchData();
+    }, 1500);
+  } else if (authStatus === 'authenticated') {
+    // Logged in — load data (still data.json for Step 1, API in Step 2)
+    fetchData();
+  }
+  // If 'login_required', overlay is shown — fetchData() called after successful login
+})();
+
+// Expose logout globally for UI
+window.ebLogout = apiLogout;
 </script>
 
 <div class="edition-modal-overlay" id="edition-modal">

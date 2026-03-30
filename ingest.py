@@ -528,6 +528,61 @@ def is_off_topic_for_compliance(title, summary, source_name):
         if not any(k in combined for k in must_match):
             return True
 
+    # ── CNIL: only keep data protection items relevant to financial compliance ──
+    if "cnil" in src:
+        must_match = [
+            "sanction", "amende", "mise en demeure", "rgpd", "gdpr",
+            "données personnelles", "personal data", "transfert de données",
+            "data transfer", "sous-traitant", "processor",
+            "banque", "banking", "financier", "financial", "assurance", "insurance",
+            "paiement", "payment", "fintech", "crypto",
+            "profilage", "profiling", "décision automatisée", "automated decision",
+            "consentement", "consent", "violation de données", "data breach",
+            "délégué à la protection", "dpo", "analyse d'impact", "dpia",
+            "intelligence artificielle", "artificial intelligence", "algorithme",
+        ]
+        # Exclude cybersecurity education, digital awareness, general tech
+        off_topic = [
+            "cybersécurité", "cybersecurity", "cybermalveillance",
+            "harcèlement", "mineurs", "enfants", "children",
+            "éducation numérique", "sensibilisation", "awareness",
+            "cookies", "traceurs", "caméras", "vidéosurveillance",
+            "vote électronique", "élections",
+        ]
+        if any(k in combined for k in off_topic):
+            if not any(k in combined for k in must_match):
+                return True
+        # Even without off-topic hit, CNIL is broad — require at least one must_match
+        if not any(k in combined for k in must_match):
+            return True
+
+    # ── Corporate Compliance Insights: only keep LCB-FT/sanctions/financial compliance ──
+    if "corporate compliance" in src:
+        must_match = [
+            "aml", "anti-money laundering", "money laundering", "sanctions",
+            "bribery", "corruption", "fcpa", "uk bribery", "fraud",
+            "bsa", "bank secrecy", "fincen", "ofac", "fatf", "gafi",
+            "kyc", "due diligence", "beneficial owner",
+            "financial crime", "enforcement", "doj", "sec",
+            "fintech", "crypto", "cryptocurrency", "compliance program",
+            "whistleblow", "internal investigation", "third-party risk",
+            "trade sanctions", "export control", "embargo",
+        ]
+        if not any(k in combined for k in must_match):
+            return True
+
+    # ── BFM Business: too broad, only keep compliance-specific articles ──
+    if "bfm" in src:
+        must_match = [
+            "blanchiment", "money laundering", "fraude", "fraud",
+            "amende", "sanction", "mise en examen", "garde à vue",
+            "perquisition", "acpr", "amf", "tracfin", "parquet",
+            "conformité", "compliance", "crypto", "psan",
+            "gel des avoirs", "terrorisme", "embargo",
+        ]
+        if not any(k in combined for k in must_match):
+            return True
+
     # ── OpenSanctions: exclude technical changelogs ──
     if "opensanctions" in src:
         off_topic = ["format change", "changelog", "release notes", "version", "update"]
@@ -576,14 +631,17 @@ def is_off_topic_for_compliance(title, summary, source_name):
             if not any(k in combined for k in must_match):
                 return True
 
-    # ── Le Monde / Les Echos: exclude labor law, consumer, general economics ──
+    # ── Le Monde / Les Echos: broad sources, need must_match for compliance relevance ──
     if "le monde" in src or "les echos" in src:
-        off_topic = [
-            "travail dissimulé", "droit du travail", "livraison",
-            "coursiers", "livreurs", "foodora", "deliveroo", "uber eats",
-            "grève", "manifestation", "retraite", "chômage",
+        must_match = [
+            "blanchiment", "money laundering", "fraude", "fraud",
+            "sanction", "amende", "conformité", "compliance",
+            "acpr", "amf", "tracfin", "parquet", "pnf",
+            "crypto", "psan", "mica", "banque", "bancaire",
+            "régulation", "regulation", "gel des avoirs",
+            "lcb", "aml", "terroris", "corruption",
         ]
-        if any(k in combined for k in off_topic):
+        if not any(k in combined for k in must_match):
             return True
 
     # ── JORF Sanctions / JORF Lois: exclude conventions collectives, non-financial ──
@@ -700,6 +758,23 @@ def is_off_topic_for_compliance(title, summary, source_name):
 
 def item_hash(title, url):
     return hashlib.sha1(f"{title}|{url}".encode()).hexdigest()[:16]
+
+
+def normalize_title(title):
+    """Normalize a title for dedup: lowercase, strip punctuation, collapse whitespace.
+    Truncate to first 10 words to catch near-dupes with different suffixes."""
+    t = title.lower().strip()
+    # Remove common prefixes added by Google News proxies
+    t = re.sub(r'^(view pdf|pdf|lire aussi|à lire|en bref)\s*[:\-–—]?\s*', '', t)
+    # Strip punctuation
+    t = re.sub(r'[^\w\s]', '', t)
+    # Collapse whitespace
+    t = re.sub(r'\s+', ' ', t).strip()
+    # Truncate to first 10 words — catches near-dupes with different suffixes
+    words = t.split()
+    if len(words) > 10:
+        t = ' '.join(words[:10])
+    return t
 
 
 def summarize_item(title, summary, source_name):
@@ -891,7 +966,10 @@ def seed_sources(data):
 
 def ingest_all(data):
     new_count = 0
+    skipped_title_dedup = 0
     existing_hashes = {it["hash"] for it in data["items"]}
+    # Build a set of normalized titles for title-based dedup
+    existing_titles = {normalize_title(it.get("title", "")) for it in data["items"]}
 
     for src in data["sources"]:
         if not src.get("active", True):
@@ -901,11 +979,20 @@ def ingest_all(data):
         print(f"  Fetching: {src['name']}...")
         items = fetch_rss(src["url"], src["name"], src["type"], src["category"])
         for item in items:
-            if item["hash"] not in existing_hashes:
-                data["items"].append(item)
-                existing_hashes.add(item["hash"])
-                new_count += 1
+            if item["hash"] in existing_hashes:
+                continue
+            # Title-based dedup: skip if a normalized version already exists
+            norm = normalize_title(item.get("title", ""))
+            if norm and norm in existing_titles:
+                skipped_title_dedup += 1
+                continue
+            data["items"].append(item)
+            existing_hashes.add(item["hash"])
+            existing_titles.add(norm)
+            new_count += 1
         print(f"    -> {len(items)} parsed, {new_count} new")
+    if skipped_title_dedup:
+        print(f"  Skipped {skipped_title_dedup} title-duplicates")
 
     # Also scrape non-RSS sources
     try:
@@ -913,10 +1000,16 @@ def ingest_all(data):
         print("\n  --- HTML Scraping ---")
         scraped = scrape_all()
         for item in scraped:
-            if item["hash"] not in existing_hashes:
-                data["items"].append(item)
-                existing_hashes.add(item["hash"])
-                new_count += 1
+            if item["hash"] in existing_hashes:
+                continue
+            norm = normalize_title(item.get("title", ""))
+            if norm and norm in existing_titles:
+                skipped_title_dedup += 1
+                continue
+            data["items"].append(item)
+            existing_hashes.add(item["hash"])
+            existing_titles.add(norm)
+            new_count += 1
         print(f"    -> {len(scraped)} scraped, {new_count} total new")
     except ImportError:
         print("  scraper.py not found, skipping HTML scraping")
