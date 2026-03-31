@@ -51,6 +51,8 @@ SEED_SOURCES = [
     # Justice FR
     {"name": "PNF (Parquet National Financier)", "url": "https://social.numerique.gouv.fr/@pnf.rss", "type": "rss", "category": "autorite_fr"},
     {"name": "Ministère de la Justice (CJIP)", "url": "https://www.justice.gouv.fr/rss.xml", "type": "rss", "category": "autorite_fr"},
+    # Parquet de Paris / JIRS — pas de RSS, Google News proxy
+    {"name": "Parquet de Paris", "url": "https://news.google.com/rss/search?q=%22Parquet+de+Paris%22+OR+%22JIRS%22+%22blanchiment%22+OR+%22narcotrafic%22+OR+%22trafic%22+OR+%22fraude%22+OR+%22corruption%22+OR+%22OFAST%22&hl=fr&gl=FR&ceid=FR:fr", "type": "rss", "category": "autorite_fr"},
     # JORF / Legifrance
     {"name": "JORF - Lois", "url": "https://legifrss.org/latest?nature=LOI", "type": "rss", "category": "autorite_fr"},
     {"name": "JORF - Blanchiment", "url": "https://legifrss.org/latest?q=blanchiment", "type": "rss", "category": "autorite_fr"},
@@ -241,6 +243,7 @@ CORE_COMPLIANCE_SOURCES = {
     "US Treasury - Sanctions Press",
     "UN Security Council - Sanctions",
     "PNF (Parquet National Financier)",
+    "Parquet de Paris",
     "JORF - Blanchiment",
     "JORF - Gel des avoirs",
     "GAFI/FATF Statements",
