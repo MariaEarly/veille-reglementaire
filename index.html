@@ -3371,7 +3371,19 @@ window.todoDelete = todoDelete;
 loadTodos();
 renderTodos();
 
-// --- Auth guard + init ---
+// --- Auth stubs (no backend in GitHub Pages mode) ---
+function hideLoginOverlay() {
+  const o = document.getElementById('login-overlay');
+  if (o) o.style.display = 'none';
+}
+async function authGuard() {
+  // No backend — always fallback to data.json
+  return 'fallback';
+}
+function handleLoginSubmit(e) { e.preventDefault(); }
+function apiLogout() { location.reload(); }
+
+// --- Init ---
 (async function init() {
   // Wire login form
   const loginForm = document.getElementById('login-form');
@@ -3389,10 +3401,8 @@ renderTodos();
       fetchData();
     }, 1500);
   } else if (authStatus === 'authenticated') {
-    // Logged in — load data (still data.json for Step 1, API in Step 2)
     fetchData();
   }
-  // If 'login_required', overlay is shown — fetchData() called after successful login
 })();
 
 // Expose logout globally for UI
