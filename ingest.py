@@ -644,15 +644,54 @@ def is_off_topic_for_compliance(title, summary, source_name):
         if not any(k in combined for k in must_match):
             return True
 
-    # ── JORF Sanctions / JORF Lois: exclude conventions collectives, non-financial ──
+    # ── JORF: exclude non-financial regulation noise ──
     if "jorf" in src:
         off_topic = [
             "convention collective", "portant extension", "accords départementaux",
             "accords régionaux", "branche ferroviaire", "bâtiment",
             "jeux olympiques", "paralympiques", "sport",
+            # Nominations / RH
+            "portant nomination", "portant désignation", "portant affectation",
+            "portant détachement", "portant cessation", "portant maintien",
+            "portant admission", "portant promotion",
+            "administration centrale", "secrétariat général",
+            # Énergie / environnement
+            "commission de régulation de l'énergie", "énergie", "électricité",
+            "gaz naturel", "hydrocarbures", "nucléaire",
+            "transition énergétique", "environnement",
+            # Pêche / agriculture / maritime
+            "pêche", "halieutique", "maritime", "aquaculture",
+            "agriculture", "élevage", "chasse",
+            # Transport / urbanisme
+            "transport", "ferroviaire", "routier", "autoroute",
+            "urbanisme", "aménagement du territoire",
+            # Santé (sauf si lié à assurance)
+            "médicament", "dispositif médical", "pharmacie",
+            "hôpital", "établissement de santé",
+            # Défense / militaire
+            "défense", "militaire", "armée", "gendarmerie",
+            # Éducation
+            "éducation nationale", "enseignement", "université",
         ]
         if any(k in combined for k in off_topic):
-            return True
+            # Exception: keep if also matches core compliance terms
+            compliance_rescue = [
+                "blanchiment", "lcb", "aml", "sanction financière",
+                "gel des avoirs", "terroris", "acpr", "amf", "tracfin",
+                "établissement de crédit", "psan", "crypto", "bancaire",
+                "financier", "monétaire",
+            ]
+            # Only rescue if it has a REAL financial compliance match
+            # (not just "financier" which is too broad)
+            if not any(k in combined for k in compliance_rescue):
+                return True
+            # Extra check: "financier" alone isn't enough if paired with energy/HR/fishing
+            energy_hr = ["énergie", "électricité", "nomination", "pêche", "maritime"]
+            if any(k in combined for k in energy_hr):
+                strong_compliance = ["blanchiment", "lcb", "aml", "gel des avoirs",
+                                     "terroris", "acpr", "tracfin", "établissement de crédit"]
+                if not any(k in combined for k in strong_compliance):
+                    return True
 
     # ── Financial Crime News: exclude book reviews, non-news ──
     if "financial crime" in src or "fincrime" in src:
