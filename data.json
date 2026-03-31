@@ -1286,6 +1286,30 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de fraude, de collusion et de sanctions de la Banque mondiale contre des entités PwC."
     },
     {
+      "hash": "2ed4df5a3fd680ea",
+      "source_name": "EBA (Email)",
+      "source_type": "email",
+      "category": "autorite_eu",
+      "title": "The EBA streamlines supervisory approvals for IRB model changes",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-streamlines-supervisory-approvals-irb-model-changes",
+      "author": "no-reply@eba.europa.eu",
+      "published": "2026-03-30T17:46:44+00:00",
+      "summary": "L'EBA rationalise le processus d'approbation prudentielle pour les banques utilisant des modèles IRB (Internal Ratings Based). Publication des RTS sur les changements de modèles matériels, réduisant le nombre de changements classifiés comme matériels pour une supervision plus basée sur le risque.",
+      "score": 50,
+      "score_breakdown": [
+        "+20 aml",
+        "+10 supervisory",
+        "+10 prudenti",
+        "+5 publication",
+        "+5 source"
+      ],
+      "doc_type": "PUBLICATION",
+      "action_class": "info",
+      "ai_summary": null,
+      "status": "new",
+      "early_brief": false
+    },
+    {
       "hash": "6b089641fd667e48",
       "source_name": "OCCRP",
       "source_type": "email",
@@ -6972,6 +6996,26 @@
       "score_breakdown": "+5 Source Intl | ×1.0 (7d)"
     },
     {
+      "hash": "02db67759dde2676",
+      "source_name": "ESMA (Email)",
+      "source_type": "email",
+      "category": "autorite_eu",
+      "title": "EFIF Summary of the November 2025 meeting",
+      "url": "https://www.esma.europa.eu/document/efif-summary-november-2025-meeting",
+      "author": "noreply@esma.europa.eu",
+      "published": "2026-03-30T11:06:31+00:00",
+      "summary": "Résumé de la réunion de novembre 2025 de l'EFIF (European Forum for Innovation Facilitators), forum européen dédié aux sandbox réglementaires et à l'innovation fintech supervisée.",
+      "score": 5,
+      "score_breakdown": [
+        "+5 source"
+      ],
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "ai_summary": null,
+      "status": "new",
+      "early_brief": false
+    },
+    {
       "hash": "9fd1380322f830aa",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -7408,6 +7452,6 @@
       "ai_summary": null
     }
   ],
-  "last_update": "2026-03-31T20:24:21.283804+00:00",
-  "last_updated": "2026-03-31T20:10:20.123998"
+  "last_update": "2026-03-31T20:26:00.316175+00:00",
+  "last_updated": "2026-03-31T20:26:00.316175+00:00"
 }
