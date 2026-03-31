@@ -3372,16 +3372,24 @@ loadTodos();
 renderTodos();
 
 // --- Auth stubs (no backend in GitHub Pages mode) ---
+// All auth functions were lost in a merge — stub them for static mode.
 function hideLoginOverlay() {
   const o = document.getElementById('login-overlay');
   if (o) o.style.display = 'none';
 }
+function showLoginOverlay() {
+  const o = document.getElementById('login-overlay');
+  if (o) o.style.display = 'flex';
+}
+function isLoggedIn() { return false; }
 async function authGuard() {
   // No backend — always fallback to data.json
   return 'fallback';
 }
 function handleLoginSubmit(e) { e.preventDefault(); }
 function apiLogout() { location.reload(); }
+async function apiSaveItem() {}
+async function apiArchiveItem() {}
 
 // --- Init ---
 (async function init() {
