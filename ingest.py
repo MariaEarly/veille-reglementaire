@@ -766,6 +766,8 @@ def normalize_title(title):
     t = title.lower().strip()
     # Remove common prefixes added by Google News proxies
     t = re.sub(r'^(view pdf|pdf|lire aussi|à lire|en bref)\s*[:\-–—]?\s*', '', t)
+    # Remove emojis (common in X/LinkedIn posts)
+    t = re.sub(r'[\U0001f300-\U0001f9ff\u2600-\u27bf\u200d\ufe0f]', '', t)
     # Strip punctuation
     t = re.sub(r'[^\w\s]', '', t)
     # Collapse whitespace
@@ -775,6 +777,27 @@ def normalize_title(title):
     if len(words) > 10:
         t = ' '.join(words[:10])
     return t
+
+
+def normalize_title_short(title):
+    """Aggressive 6-word normalization for cross-source dedup (X vs LinkedIn, Google News vs direct)."""
+    t = title.lower().strip()
+    t = re.sub(r'[\U0001f300-\U0001f9ff\u2600-\u27bf\u200d\ufe0f]', '', t)
+    t = re.sub(r'[^\w\s]', '', t)
+    t = re.sub(r'\s+', ' ', t).strip()
+    words = t.split()
+    if len(words) > 6:
+        t = ' '.join(words[:6])
+    return t
+
+
+def normalize_url(url):
+    """Normalize URL for dedup: strip query params, fragments, trailing slashes."""
+    from urllib.parse import urlparse
+    u = urlparse(url)
+    # Keep scheme + netloc + path, strip query and fragment
+    path = u.path.rstrip('/')
+    return f"{u.netloc}{path}"
 
 
 def summarize_item(title, summary, source_name):
@@ -966,10 +989,12 @@ def seed_sources(data):
 
 def ingest_all(data):
     new_count = 0
-    skipped_title_dedup = 0
+    skipped_dedup = 0
     existing_hashes = {it["hash"] for it in data["items"]}
-    # Build a set of normalized titles for title-based dedup
+    # Build sets for multi-level dedup
     existing_titles = {normalize_title(it.get("title", "")) for it in data["items"]}
+    existing_titles_short = {normalize_title_short(it.get("title", "")) for it in data["items"]}
+    existing_urls = {normalize_url(it.get("url", "")) for it in data["items"] if it.get("url")}
 
     for src in data["sources"]:
         if not src.get("active", True):
@@ -981,18 +1006,31 @@ def ingest_all(data):
         for item in items:
             if item["hash"] in existing_hashes:
                 continue
-            # Title-based dedup: skip if a normalized version already exists
+            # Level 1: Title dedup (10 words)
             norm = normalize_title(item.get("title", ""))
             if norm and norm in existing_titles:
-                skipped_title_dedup += 1
+                skipped_dedup += 1
+                continue
+            # Level 2: URL-path dedup (same page, different query params)
+            norm_url = normalize_url(item.get("url", ""))
+            if norm_url and norm_url in existing_urls:
+                skipped_dedup += 1
+                continue
+            # Level 3: Short title dedup (6 words) — catches X vs LinkedIn, Google News vs direct
+            norm_short = normalize_title_short(item.get("title", ""))
+            if norm_short and len(norm_short) > 20 and norm_short in existing_titles_short:
+                skipped_dedup += 1
                 continue
             data["items"].append(item)
             existing_hashes.add(item["hash"])
             existing_titles.add(norm)
+            existing_titles_short.add(norm_short)
+            if norm_url:
+                existing_urls.add(norm_url)
             new_count += 1
         print(f"    -> {len(items)} parsed, {new_count} new")
-    if skipped_title_dedup:
-        print(f"  Skipped {skipped_title_dedup} title-duplicates")
+    if skipped_dedup:
+        print(f"  Skipped {skipped_dedup} duplicates (title/URL/cross-source)")
 
     # Also scrape non-RSS sources
     try:
@@ -1004,11 +1042,22 @@ def ingest_all(data):
                 continue
             norm = normalize_title(item.get("title", ""))
             if norm and norm in existing_titles:
-                skipped_title_dedup += 1
+                skipped_dedup += 1
+                continue
+            norm_url = normalize_url(item.get("url", ""))
+            if norm_url and norm_url in existing_urls:
+                skipped_dedup += 1
+                continue
+            norm_short = normalize_title_short(item.get("title", ""))
+            if norm_short and len(norm_short) > 20 and norm_short in existing_titles_short:
+                skipped_dedup += 1
                 continue
             data["items"].append(item)
             existing_hashes.add(item["hash"])
             existing_titles.add(norm)
+            existing_titles_short.add(norm_short)
+            if norm_url:
+                existing_urls.add(norm_url)
             new_count += 1
         print(f"    -> {len(scraped)} scraped, {new_count} total new")
     except ImportError:
