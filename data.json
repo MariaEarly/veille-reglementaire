@@ -554,6 +554,13 @@
       "type": "rss",
       "category": "autorite_eu",
       "active": true
+    },
+    {
+      "name": "Parquet de Paris",
+      "url": "https://news.google.com/rss/search?q=%22Parquet+de+Paris%22+OR+%22JIRS%22+%22blanchiment%22+OR+%22narcotrafic%22+OR+%22trafic%22+OR+%22fraude%22+OR+%22corruption%22+OR+%22OFAST%22&hl=fr&gl=FR&ceid=FR:fr",
+      "type": "rss",
+      "category": "autorite_fr",
+      "active": true
     }
   ],
   "items": [
@@ -828,7 +835,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article concerne la conformité aux directives MiCA sur les transferts de crypto-actifs, régulées par l'ESMA."
     },
     {
       "hash": "d2b1af64e5ad1808",
@@ -847,24 +854,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite du retrait d'une plainte de lanceur d'alerte concernant des violations AML/KYC."
-    },
-    {
-      "hash": "5e9cc23597fcea1e",
-      "source_name": "ESMA - Notifications",
-      "source_type": "email",
-      "category": "email",
-      "title": "ESAs Joint Guidelines on ESG stress testing",
-      "url": "https://www.esma.europa.eu/document/esas-joint-guidelines-esg-stress-testing",
-      "author": "noreply@esma.europa.eu",
-      "published": "2026-03-31T11:03:02+00:00",
-      "summary": "ESMA has published ESAs Joint Guidelines on ESG stress testing, covering environmental, social and governance risk integration in supervisory stress-testing frameworks for financial institutions.",
-      "score": 57,
-      "score_breakdown": "+10 mots forts: esma | +10 mots moyens: risk, supervisory | +8 Email | +10 Géo EU: esma | ×1.5 (<24h)",
-      "doc_type": "GUIDELINES",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
     },
     {
       "hash": "1d529c07ecaf25b2",
@@ -977,24 +966,6 @@
       "ai_summary": "Les autorités de supervision financière évaluent les risques géopolitiques et les risques croissants de la finance privée."
     },
     {
-      "hash": "b5d1f0e68a04",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Chemical weapons: Council renews EU sanctions until April 2027",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/03/27/chemical-weapons-council-renews-eu-sanctions-until-april-2027/",
-      "author": "",
-      "published": "2026-03-27",
-      "summary": "Le Conseil de l'UE renouvelle les sanctions liées aux armes chimiques jusqu'en avril 2027.",
-      "score": 55,
-      "doc_type": "decision",
-      "action_class": "sanction",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance",
-      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: mica | +15 Source EU | +10 Géo EU: conseil de l'ue, mica | ×1.0 (7d)"
-    },
-    {
       "hash": "441056e0c0d5",
       "source_name": "Conseil de l'UE",
       "source_type": "scrape",
@@ -1100,7 +1071,7 @@
       "action_class": "sanction",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les sanctions financières contre l'Iran pour violations des droits humains relèvent de la conformité réglementaire et du contrôle des flux financiers internationaux.",
+      "ai_summary": null,
       "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | +10 Géo EU: conseil de l'ue | ×1.2 (<3d)"
     },
     {
@@ -1141,24 +1112,6 @@
       "is_primary": true
     },
     {
-      "hash": "19476e9a9fafef31",
-      "source_name": "ACPR - Publications",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "Replay du webinaire lutte contre le blanchiment et le financement du terrorisme",
-      "url": "https://www.acpr.banque-france.fr/fr/publications-et-statistiques/publications/replay-du-webinaire-lutte-contre-le-blanchiment-et-le-financement-du-terrorisme",
-      "author": "",
-      "published": "2026-03-02T00:00:00",
-      "summary": "Replay du webinaire ACPR sur la LCB-FT.",
-      "score": 51,
-      "doc_type": null,
-      "action_class": "veille",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre le blanchiment et le financement du terrorisme.",
-      "score_breakdown": "+20 mots critiques: blanchiment, financement du terrorisme | +20 mots forts: acpr, lcb-ft | +25 Source FR | +20 Géo FR: acpr | ×0.6 (>14d)"
-    },
-    {
       "hash": "1941b0257142f385",
       "source_name": "MCMS - Crypto Regulatory",
       "source_type": "email",
@@ -1175,42 +1128,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": null
-    },
-    {
-      "hash": "7764c95a195afd85",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "View PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LV0RxLW9lRWppRjMzREdkb1UtbjR4U3BmU3JlbEZCaTY0R3JvRXhqZGNxU3dlcmZWZnpZSHBXQXVRVk5paHk0a1A5eV9TMFRCbkUtRTEtdGhjbzNhZVVFZG0tR2Zkdw?oc=5",
-      "author": "",
-      "published": "2026-03-27T10:11:55",
-      "summary": "View PDF&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "b0068e0dff042278",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Vue PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CRXlBX19uRnpqR0pHYlE2Z25wdzg1X0lPUTdXS05qN2NHanBDbFkxYW1fa2RrdEM5YnE5ZHNCV2FieGpWSzFkazMzeGwya3NQdjlzSnBiRkZ6c3NCZjZQTjlraDN5Zw?oc=5",
-      "author": "",
-      "published": "2026-03-27T04:39:43",
-      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "e492c1d1721f6335",
@@ -1250,6 +1167,30 @@
       "ai_summary": "Cet article concerne la conformité financière car CNP Assurances est soumise à la supervision de l'ACPR pour le respect des normes prudentielles."
     },
     {
+      "hash": "2ed4df5a3fd680ea",
+      "source_name": "EBA (Email)",
+      "source_type": "email",
+      "category": "autorite_eu",
+      "title": "The EBA streamlines supervisory approvals for IRB model changes",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-streamlines-supervisory-approvals-irb-model-changes",
+      "author": "no-reply@eba.europa.eu",
+      "published": "2026-03-30T17:46:44+00:00",
+      "summary": "L'EBA rationalise le processus d'approbation prudentielle pour les banques utilisant des modèles IRB (Internal Ratings Based). Publication des RTS sur les changements de modèles matériels, réduisant le nombre de changements classifiés comme matériels pour une supervision plus basée sur le risque.",
+      "score": 50,
+      "score_breakdown": [
+        "+20 aml",
+        "+10 supervisory",
+        "+10 prudenti",
+        "+5 publication",
+        "+5 source"
+      ],
+      "doc_type": "PUBLICATION",
+      "action_class": "info",
+      "ai_summary": null,
+      "status": "new",
+      "early_brief": false
+    },
+    {
       "hash": "c306997deea820a2",
       "source_name": "ESMA (Email)",
       "source_type": "email",
@@ -1284,30 +1225,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de fraude, de collusion et de sanctions de la Banque mondiale contre des entités PwC."
-    },
-    {
-      "hash": "2ed4df5a3fd680ea",
-      "source_name": "EBA (Email)",
-      "source_type": "email",
-      "category": "autorite_eu",
-      "title": "The EBA streamlines supervisory approvals for IRB model changes",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-streamlines-supervisory-approvals-irb-model-changes",
-      "author": "no-reply@eba.europa.eu",
-      "published": "2026-03-30T17:46:44+00:00",
-      "summary": "L'EBA rationalise le processus d'approbation prudentielle pour les banques utilisant des modèles IRB (Internal Ratings Based). Publication des RTS sur les changements de modèles matériels, réduisant le nombre de changements classifiés comme matériels pour une supervision plus basée sur le risque.",
-      "score": 50,
-      "score_breakdown": [
-        "+20 aml",
-        "+10 supervisory",
-        "+10 prudenti",
-        "+5 publication",
-        "+5 source"
-      ],
-      "doc_type": "PUBLICATION",
-      "action_class": "info",
-      "ai_summary": null,
-      "status": "new",
-      "early_brief": false
     },
     {
       "hash": "6b089641fd667e48",
@@ -1398,7 +1315,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7661c289d68acf96",
@@ -1582,7 +1499,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'ajout des prestataires de services d'actifs virtuels aux obligations de lutte anti-blanchiment."
     },
     {
       "hash": "d89a3829f0f0aafb",
@@ -1835,7 +1752,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il rapporte l'évaluation réglementaire de la solidité du secteur bancaire européen par l'autorité de supervision.",
+      "ai_summary": null,
       "score_breakdown": "+10 mots forts: eba | +15 mots moyens: risk, directive, regulation | +15 Source EU | +10 Géo EU: eba | ×0.8 (14d)",
       "is_primary": true
     },
@@ -1873,7 +1790,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La nomination à la tête de l'Autorité bancaire européenne concerne directement la conformité financière et prudentielle des banques."
     },
     {
       "hash": "e7cf7c8ca7dce7fd",
@@ -1891,7 +1808,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les victimes craignent que les actifs saisis ne servent à créer une réserve crypto américaine plutôt qu'à les indemniser."
     },
     {
       "hash": "bc32c7a43b5ce1d9",
@@ -1907,6 +1824,24 @@
       "score_breakdown": "+20 mots forts: compliance, mica, esma | +8 Email | +10 Géo EU: esma, mica | ×1.0 (7d)",
       "doc_type": "GUIDELINES",
       "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité avec les directives ESMA sur MiCA, un cadre réglementaire pour les crypto-actifs."
+    },
+    {
+      "hash": "5bead2e8994e3372",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Publication of Sanctions Advisory: Guidance on Sham Transactions and Sanctions Evasion | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260331_33",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-03-31T12:00:00",
+      "summary": "",
+      "score": 37,
+      "score_breakdown": "+20 mots critiques: sanction | +5 Source Intl | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
       "status": "new",
       "early_brief": false,
       "ai_summary": null
@@ -1927,7 +1862,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il porte sur la standardisation des rapports bancaires et des définitions requises pour assurer la conformité réglementaire des banques."
+      "ai_summary": null
     },
     {
       "hash": "4658c974e05663d7",
@@ -2470,7 +2405,7 @@
       "action_class": "enforcement",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Le gel des avoirs de personnalités sanctionnées relève directement de la conformité financière et des obligations de conformité aux sanctions internationales.",
+      "ai_summary": null,
       "score_breakdown": "+20 mots critiques: sanction, gel des avoirs | +15 Source EU | ×1.0 (7d)"
     },
     {
@@ -2639,24 +2574,6 @@
       "ai_summary": "Une filiale d'Apple a violé les sanctions britanniques en ne révoquant pas deux paiements à une personne désignée en 2022."
     },
     {
-      "hash": "841ec26e7e3f508c",
-      "source_name": "ESMA - Email Notification",
-      "source_type": "email",
-      "category": "email",
-      "title": "ESMA: EFIF Summary of the November 2025 meeting",
-      "url": "https://www.esma.europa.eu/document/efif-summary-november-2025-meeting",
-      "author": "noreply@esma.europa.eu",
-      "published": "2026-03-30T11:06:31+00:00",
-      "summary": "ESMA notification: EFIF Summary of the November 2025 meeting",
-      "score": 33,
-      "score_breakdown": "+10 mots forts: esma | +8 Email | +10 Géo EU: esma | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
       "hash": "e3f6f77502dec3e2",
       "source_name": "MCMS - Crypto Regulatory",
       "source_type": "email",
@@ -2709,24 +2626,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la compliance car il mentionne les remous réglementaires autour du Clarity Act et le gel de fonds par Circle."
-    },
-    {
-      "hash": "30ac897473e25592",
-      "source_name": "ESMA - Email Notification",
-      "source_type": "email",
-      "category": "email",
-      "title": "ESMA: ESAs spring risk update highlights geopolitical pressures and rising private finance risks",
-      "url": "https://www.esma.europa.eu/press-news/esas-spring-risk-update-2026",
-      "author": "noreply@esma.europa.eu",
-      "published": "2026-03-27T11:04:04+00:00",
-      "summary": "ESMA notification: ESAs spring risk update highlights geopolitical pressures and rising private finance risks",
-      "score": 33,
-      "score_breakdown": "+10 mots forts: esma | +5 mots moyens: risk | +8 Email | +10 Géo EU: esma | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
     },
     {
       "hash": "a56b4e202c91af0c",
@@ -2817,7 +2716,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des normes techniques réglementaires sur les fonds propres et passifs éligibles des institutions bancaires.",
+      "ai_summary": null,
       "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +15 Source EU | +10 Géo EU: eba | ×0.8 (14d)",
       "is_primary": true
     },
@@ -2946,7 +2845,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du cadre prudentiel bancaire et de la durabilité, dimensions clés de la régulation financière."
     },
     {
       "hash": "336fe20ef1d1d6d5",
@@ -3111,7 +3010,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne l'application du RGPD sur la transparence et l'information, aspects de conformité réglementaire en matière de protection des données."
+      "ai_summary": null
     },
     {
       "hash": "418afc265aa25fbf",
@@ -3186,42 +3085,6 @@
       "ai_summary": "Cet article concerne les améliorations du cadre anti-blanchiment et lutte contre le financement du terrorisme en Pologne selon le GAFI.",
       "score_breakdown": "+20 mots forts: aml, cft, fatf | +5 Source Intl | +10 Géo EU: poland | ×0.8 (14d)",
       "is_primary": true
-    },
-    {
-      "hash": "67133ea4a820ec45",
-      "source_name": "ESMA - Email Notification",
-      "source_type": "email",
-      "category": "email",
-      "title": "ESMA: 2026 Calendar of the Chair of ESMA",
-      "url": "https://www.esma.europa.eu/document/2026-calendar-chair-esma",
-      "author": "noreply@esma.europa.eu",
-      "published": "2026-03-26T17:04:36+00:00",
-      "summary": "ESMA notification: 2026 Calendar of the Chair of ESMA",
-      "score": 28,
-      "score_breakdown": "+10 mots forts: esma | +8 Email | +10 Géo EU: esma | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "89de0e38e3b3ce75",
-      "source_name": "ESMA - Email Notification",
-      "source_type": "email",
-      "category": "email",
-      "title": "ESMA: Cross-border distribution of investment funds",
-      "url": "https://www.esma.europa.eu/document/cross-border-distribution-investment-funds",
-      "author": "noreply@esma.europa.eu",
-      "published": "2026-03-25T10:03:57+00:00",
-      "summary": "ESMA notification: Cross-border distribution of investment funds",
-      "score": 28,
-      "score_breakdown": "+10 mots forts: esma | +8 Email | +10 Géo EU: esma | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
     },
     {
       "hash": "4b73d03984e8d19b",
@@ -3409,7 +3272,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "de536c0496d29d41",
@@ -3427,7 +3290,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les lignes directrices définissent les instruments autorisés pour les succursales étrangères afin de respecter les exigences de capital réglementaires."
+      "ai_summary": null
     },
     {
       "hash": "fe297d570b7df5c4",
@@ -3536,7 +3399,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de mesures de sanction contre des entreprises impliquées dans des cas de corruption et de versement de pots-de-vin."
+      "ai_summary": "La Banque mondiale poursuit des sociétés pour corruption et cherche restitution, ce qui relève de la conformité financière et de la lutte anti-corruption."
     },
     {
       "hash": "cb829d1092c6",
@@ -3553,7 +3416,7 @@
       "action_class": "sanction",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions et mesures restrictives de l'UE, relevant de la conformité en matière de sanctions internationales et de gel d'actifs.",
+      "ai_summary": null,
       "score_breakdown": "+15 Source EU | +10 Géo EU: conseil de l'ue | ×1.0 (7d)"
     },
     {
@@ -3698,7 +3561,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'assouplissement de la règle de voyage pour les prestataires de services d'actifs virtuels jusqu'en 2030 par AUSTRAC, un régulateur."
     },
     {
       "hash": "9f0ee0eaedc5619c",
@@ -3772,7 +3635,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'utilisation des évaluations de crédit par les agences de notation selon la réglementation européenne."
+      "ai_summary": null
     },
     {
       "hash": "5479262124a6",
@@ -3920,7 +3783,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les chocs tarifaires exposent les risques systémiques des marchés crypto via le levier élevé et les fragilités opérationnelles nécessitant une surveillance réglementaire accrue.",
+      "ai_summary": null,
       "score_breakdown": "+20 mots forts: crypto, esma | +10 Géo EU: esma | ×0.8 (14d)",
       "is_primary": false
     },
@@ -4051,7 +3914,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la protection légale des entreprises respectant les sanctions et les contrôles à l'exportation."
+      "ai_summary": null
     },
     {
       "hash": "ac8d3908238a",
@@ -4502,7 +4365,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des normes de reporting harmonisées établies par l'EBA pour améliorer la surveillance des succursales de pays tiers."
+      "ai_summary": null
     },
     {
       "hash": "5bc31becae431e17",
@@ -4520,7 +4383,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e334e432229b1e62",
@@ -4538,7 +4401,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne l'identification des juridictions non conformes aux normes de lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": null
     },
     {
       "hash": "f044e4ea2f234412",
@@ -4629,24 +4492,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'EBA établit des normes de reporting harmonisées pour les succursales de pays tiers, renforçant la conformité prudentielle et la supervision financière."
-    },
-    {
-      "hash": "e12a7145a6a36f40",
-      "source_name": "ESMA (Email)",
-      "source_type": "email",
-      "category": "autorite_eu",
-      "title": "ESAs Joint Guidelines on ESG stress testing",
-      "url": "https://www.esma.europa.eu/document/esas-joint-guidelines-esg-stress-testing",
-      "author": "noreply@esma.europa.eu",
-      "published": "2026-03-31T11:03:02+00:00",
-      "summary": "ESAs Joint Guidelines on ESG stress testing — joint publication by the three European Supervisory Authorities (ESMA, EBA, EIOPA). Sets out guidelines for ESG stress testing methodology.",
-      "score": 20,
-      "doc_type": "GUIDELINES",
-      "action_class": "action",
-      "ai_summary": null,
-      "status": "new",
-      "early_brief": false
+      "ai_summary": null
     },
     {
       "hash": "af81fd962c6fac38",
@@ -4686,25 +4532,6 @@
       "is_primary": true
     },
     {
-      "hash": "512cfe8019c38dc3",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour de cassation, Première chambre civile - formation restreinte hors rnsm/na, 25 mars 2026, 24-17.409",
-      "url": "http://juricaf.org/arret/FRANCE-COURDECASSATION-20260325-2417409",
-      "author": "Première chambre civile - formation restreinte hors rnsm/na",
-      "published": "2026-03-25T12:00:00+00:00",
-      "summary": "Le principe jurisprudentiel selon lequel le demandeur à une instance peut s'en tenir à la simple apparence de domicile pour y assigner le... CIV. 1    CF        COUR DE CASSATION _ Arrêt du 25 mars 2026          Rejet      Mme CHAMPALAUNE, présidente        Arrêt n° 241 F-B    Pourvoi n° U 24-17.409               R É P U B L I Q U E F R A N Ç A I S E _ AU NOM DU PEUPLE FRANÇAIS _ ARRÊT DE LA COUR DE CASSATION, PREMIÈRE CHAMBRE CIVILE, DU 25 MARS 2026      M. I W, domicilié Adresse 1 Malte, a for...",
-      "score": 20,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance",
-      "score_breakdown": "+20 Géo FR: france, français | ×1.0 (7d)",
-      "is_primary": false
-    },
-    {
       "hash": "fb1bd0fbab6227bd",
       "source_name": "ECB - Banking Supervision",
       "source_type": "rss",
@@ -4719,7 +4546,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la supervision bancaire européenne qui assure la conformité et la solidité du système bancaire par l'ECB et les autorités nationales.",
+      "ai_summary": null,
       "score_breakdown": "+5 mots moyens: bank | +15 Source EU | ×1.0 (7d)",
       "is_primary": true
     },
@@ -6724,24 +6551,6 @@
       "ai_summary": null
     },
     {
-      "hash": "43f8c245543c5584",
-      "source_name": "OCCRP",
-      "source_type": "email",
-      "category": "email",
-      "title": "'Mr. X' Revealed: U.K. Freezes $108M in Properties Purchased by Wanted Chinese National",
-      "url": "https://www.occrp.org/en/scoop/mr-x-revealed-uk-freezes-108m-properties",
-      "author": "alerts@occrp.org",
-      "published": "2026-03-28T20:17:32+00:00",
-      "summary": "Su Jiangbo used a St. Kitts and Nevis passport to open UK companies that purchased luxury London real estate. UK Freezes $108M in Properties.",
-      "score": 9,
-      "score_breakdown": "+8 Email | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
       "hash": "9d5b8bea01160c80",
       "source_name": "FCA - News & Enforcement",
       "source_type": "rss",
@@ -6858,6 +6667,24 @@
       "category": "autorite_intl",
       "title": "Counter Narcotics Designations Removals; Russia-related Designations Removals | Office of Foreign Assets Control",
       "url": "https://ofac.treasury.gov/recent-actions/20260331",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-03-31T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "b4370d0b6e7e7064",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Publication of Venezuela-related Frequently Asked Question | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260331_66",
       "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
       "published": "2026-03-31T12:00:00",
       "summary": "",
@@ -6994,26 +6821,6 @@
       "early_brief": false,
       "ai_summary": null,
       "score_breakdown": "+5 Source Intl | ×1.0 (7d)"
-    },
-    {
-      "hash": "02db67759dde2676",
-      "source_name": "ESMA (Email)",
-      "source_type": "email",
-      "category": "autorite_eu",
-      "title": "EFIF Summary of the November 2025 meeting",
-      "url": "https://www.esma.europa.eu/document/efif-summary-november-2025-meeting",
-      "author": "noreply@esma.europa.eu",
-      "published": "2026-03-30T11:06:31+00:00",
-      "summary": "Résumé de la réunion de novembre 2025 de l'EFIF (European Forum for Innovation Facilitators), forum européen dédié aux sandbox réglementaires et à l'innovation fintech supervisée.",
-      "score": 5,
-      "score_breakdown": [
-        "+5 source"
-      ],
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "ai_summary": null,
-      "status": "new",
-      "early_brief": false
     },
     {
       "hash": "9fd1380322f830aa",
@@ -7452,6 +7259,6 @@
       "ai_summary": null
     }
   ],
-  "last_update": "2026-03-31T20:26:00.316175+00:00",
+  "last_update": "2026-04-01T01:31:55.067308+00:00",
   "last_updated": "2026-03-31T20:26:00.316175+00:00"
 }
