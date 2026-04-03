@@ -580,7 +580,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'AMF sanctionne un conseiller en investissements pour non-respect de ses obligations professionnelles, illustrant l'application du droit de la conformité financière."
+      "ai_summary": "La Commission des sanctions de l'AMF sanctionne un conseiller pour manquements à ses obligations professionnelles, ce qui relève de la conformité réglementaire."
     },
     {
       "hash": "a48784fb0157c727",
@@ -724,7 +724,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "fe3dd2127fef4217",
@@ -763,24 +763,6 @@
       "ai_summary": "Sanction de l'AMF contre une société de conseil financier et ses dirigeants pour violation des règles de conformité financière."
     },
     {
-      "hash": "05261a2eae254e52",
-      "source_name": "Ministère de la Justice (CJIP)",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Sortants de prison en 2021 : stabilité de la récidive un an après la libération",
-      "url": "https://www.justice.gouv.fr/documentation/etudes-et-statistiques/sortants-prison-2021-stabilite-recidive-apres-liberation",
-      "author": "HABIMANA Emmanuel",
-      "published": "2026-04-02T10:00:11",
-      "summary": "Sortants de prison en 2021 : stabilité de la récidive un an après la libération\nHABIMANA Emmanuel\njeu 02/04/2026 - 12:00\n\n      \n\n  \n\n\n  \n        Parmi les sortants de prison en 2021, 34,2 % ont à nouveau été condamnés pour une infraction commise dans l’année qui a suivi leur libération, sanctionnée par une condamnation ou composition pénale enregistrée au Casier judiciaire national. La récidive à un an marque ainsi une stabilité par rapport aux sortants de prison en 2020 (+ 0,1 point).\nNéanmoin",
-      "score": 67,
-      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "04a7eb8ee27d9801",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -796,7 +778,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté approuve les modifications statutaires de la CNBF, organisme de gestion de fonds relatifs aux avocats, relevant de la conformité réglementaire et institutionnelle."
+      "ai_summary": "Cet arrêté approuve les modifications des statuts de la CNBF, organisme de retraite des avocats, relevant de la conformité réglementaire institutionnelle."
     },
     {
       "hash": "5bd867952670fa41",
@@ -909,24 +891,6 @@
       "score_breakdown": "+20 mots critiques: blanchiment, money laundering | +20 mots forts: aml, anti-money, amla | +15 Source EU | +10 Géo EU: conseil de l'ue, amla | ×1.0 (7d)"
     },
     {
-      "hash": "f7ffd31acdf41b3d",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "QIC EUROPE LTD - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBySzhuRW9QYV9FTndlazZpYU8ya0ZUMmYyRzR3VWt2VVBYQkNMUXNXTmhyMk42MTJZOFFPTjNuaElnZko5ODJSZU12cVpMRHhfZkktal9UZFg?oc=5",
-      "author": "",
-      "published": "2026-04-01T07:41:28",
-      "summary": "QIC EUROPE LTD&nbsp;&nbsp;Banque de France",
-      "score": 60,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "09fac48e29a16bfd",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -942,7 +906,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les instructions réglementaires de la Banque de France relatives à la conformité et aux obligations des établissements financiers."
+      "ai_summary": "Cet article concerne les instructions réglementaires de la Banque de France relatives à la conformité et la supervision financière."
     },
     {
       "hash": "8d70d233542a051e",
@@ -1255,6 +1219,24 @@
       "is_primary": false
     },
     {
+      "hash": "05261a2eae254e52",
+      "source_name": "Ministère de la Justice (CJIP)",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Sortants de prison en 2021 : stabilité de la récidive un an après la libération",
+      "url": "https://www.justice.gouv.fr/documentation/etudes-et-statistiques/sortants-prison-2021-stabilite-recidive-apres-liberation",
+      "author": "HABIMANA Emmanuel",
+      "published": "2026-04-02T10:00:11",
+      "summary": "Sortants de prison en 2021 : stabilité de la récidive un an après la libération\nHABIMANA Emmanuel\njeu 02/04/2026 - 12:00\n\n      \n\n  \n\n\n  \n        Parmi les sortants de prison en 2021, 34,2 % ont à nouveau été condamnés pour une infraction commise dans l’année qui a suivi leur libération, sanctionnée par une condamnation ou composition pénale enregistrée au Casier judiciaire national. La récidive à un an marque ainsi une stabilité par rapport aux sortants de prison en 2020 (+ 0,1 point).\nNéanmoin",
+      "score": 54,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "2b786dabe1fa5416",
       "source_name": "JORF - Sanctions",
       "source_type": "rss",
@@ -1270,7 +1252,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d14ab9c59b4510c5",
@@ -1364,6 +1346,42 @@
       "ai_summary": "BaFin classe le risque de blanchiment et financement du terrorisme en cryptomonnaies comme priorité majeure de conformité."
     },
     {
+      "hash": "622d6ebb011cdc47",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2Y0JYcWlzUE93ZDk5Y0xPS3BQNVBFNGhRV0REUFY2SkhBMHBRXzQyLTVUOU0xOElMcWpiQXpjck9oRGRITVhPZVN3X3NqWW1rVzdOUDh1N1JSUF9HcjFXT28tYnEzUQ?oc=5",
+      "author": "",
+      "published": "2026-03-29T12:57:20",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "714f5408ece3e249",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "View PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYTnpFYjhpSnpBclVzN1h3ZTR1MmJWbldvV19HaER4X3ZhcFZ6Sk1maWNVbElabFBzQkdwU21IdzFHY3Q4SW56T2xIQ3BxMjQ0d3FSRTFFaE5JcnUxd3NlU29ETlpPdw?oc=5",
+      "author": "",
+      "published": "2026-03-29T05:18:35",
+      "summary": "View PDF&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "10129d919b82b439",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -1379,7 +1397,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "815a6af59760dc1a",
@@ -1397,25 +1415,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "af50164d68dfec63",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Vue PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBET3lMVnJNZzBDR1BXb2ZRUTE0YzhWdjM1TXJSWE1WQTdIQnYxclp3UXNWZGdYWHVMNklKX1MwSmtxVXFvY2c1WEV4QkhTbzhZazlNTkZlT3M2a3VYQ1R1dVlISlNFUQ?oc=5",
-      "author": "",
-      "published": "2026-03-27T19:24:12",
-      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet article concerne la conformité financière car il mentionne l'AGPM Groupe en relation avec la Banque de France, autorité de supervision réglementaire."
     },
     {
       "hash": "6c801566e282bc92",
@@ -1640,7 +1640,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a50e382b22ca9dfc",
@@ -1658,7 +1658,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "513fae72938defe4",
@@ -1787,7 +1787,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e8a2c2dd728e2108",
@@ -2095,7 +2095,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1bd161ea73a4b0c7",
@@ -2113,7 +2113,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "161de54c0a6dc37d",
@@ -2132,24 +2132,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car l'EBA identifie les risques géopolitiques et financiers privés affectant les institutions bancaires."
-    },
-    {
-      "hash": "f7fd8fdcd0756154",
-      "source_name": "Cass. - Bancaire",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, Juge des référés, 27 mars 2026, 513792",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260327-513792",
-      "author": "Juge des référés",
-      "published": "2026-03-27T12:00:00",
-      "summary": "Vu la procédure suivante :                Par une requête, enregistrée le 18 mars 2026 au secrétariat du contentieux du Conseil d'Etat, M. B... A... demande au juge des référés du Conseil d'Etat, statuant sur le fondement de l'article L. 521-1 du code de justice administrative :                   1° de suspendre l'exécution de la décision du 9 juillet 2025 par laquelle la commission des sanctions de l'Autorité des marchés financiers a prononcé à son encontre une interdiction définitive d'exercer",
-      "score": 40,
-      "score_breakdown": "+20 mots critiques: sanction | +20 Géo FR: france, autorité des marchés financiers | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8543979b02804088",
@@ -2912,7 +2894,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des avancées contre la fraude fiscale et de la transparence financière en finance offshore."
     },
     {
       "hash": "fddb3b6e439cf83d",
@@ -2948,7 +2930,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne le contrôle fiscal et la détection des anomalies déclaratives auprès des contribuables fortunés, enjeu clé de la conformité fiscale."
+      "ai_summary": "Cet article traite du contrôle fiscal et de la lutte contre la fraude, aspects clés de la conformité financière et de la gestion des risques de blanchiment."
     },
     {
       "hash": "ed24ba061a438fb5",
@@ -3204,6 +3186,24 @@
       "ai_summary": "Sumsub et ComplyAdvantage s'associent pour améliorer le dépistage AML, renforçant la conformité financière des équipes."
     },
     {
+      "hash": "f7fd8fdcd0756154",
+      "source_name": "Cass. - Bancaire",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, Juge des référés, 27 mars 2026, 513792",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260327-513792",
+      "author": "Juge des référés",
+      "published": "2026-03-27T12:00:00",
+      "summary": "Vu la procédure suivante :                Par une requête, enregistrée le 18 mars 2026 au secrétariat du contentieux du Conseil d'Etat, M. B... A... demande au juge des référés du Conseil d'Etat, statuant sur le fondement de l'article L. 521-1 du code de justice administrative :                   1° de suspendre l'exécution de la décision du 9 juillet 2025 par laquelle la commission des sanctions de l'Autorité des marchés financiers a prononcé à son encontre une interdiction définitive d'exercer",
+      "score": 32,
+      "score_breakdown": "+20 mots critiques: sanction | +20 Géo FR: france, autorité des marchés financiers | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "0b0d203a98c13c42",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -3330,7 +3330,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9fb85b98aca69b7f",
@@ -3348,7 +3348,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1c6479d6e76791a5",
@@ -3737,7 +3737,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "88e65851fd13b5f8",
@@ -4175,7 +4175,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet article concerne la conformité financière car il traite des évaluations de crédit des agences de notation et de la conformité réglementaire bancaire."
     },
     {
       "hash": "5479262124a6",
@@ -4652,7 +4652,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité aux obligations de transparence et d'information du RGPD, relevant de la compliance en matière de protection des données."
+      "ai_summary": "Cet article concerne la conformité aux obligations de transparence et d'information du RGPD, qui sont des exigences de compliance réglementaire."
     },
     {
       "hash": "51d8eba14f002099",
@@ -4743,7 +4743,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la protection des données sensibles en essais cliniques, domaine relevant de la conformité réglementaire et de gouvernance, non de la compliance financière."
+      "ai_summary": "Cet article concerne la protection des données sensibles en essais cliniques, non la conformité financière stricto sensu.\n\nHors périmètre compliance"
     },
     {
       "hash": "79e6333b763b5136",
@@ -5071,24 +5071,6 @@
       "ai_summary": "Cet article concerne la conformité fiscale : il traite d'une cotisation supplémentaire d'impôt sur les sociétés contestée par une entreprise."
     },
     {
-      "hash": "dcf615b2be369a6a",
-      "source_name": "Cass. - Blanchiment",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de DOUAI, 1ère chambre, 26 mars 2026, 23DA01413",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEDOUAI-20260326-23DA01413",
-      "author": "1ère chambre",
-      "published": "2026-03-26T12:00:00",
-      "summary": "Vu la procédure suivante :            Procédure contentieuse antérieure :           L'association pour la suppression des pollutions industrielles ASPI a demandé au tribunal administratif de Lille d'annuler l'arrêté du 29 mai 2018 par lequel le préfet du Nord a accordé à la métropole européenne de Lille MEL une autorisation d'aménagement de la zone d'aménagement concerté Saint-Sauveur au titre de l'article L. 214-3 du code de l'environnement.           Par un jugement avant dire droit du 14 octo",
-      "score": 20,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "ebf1b1b1955cede1",
       "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
@@ -5098,6 +5080,24 @@
       "author": "4ème chambre",
       "published": "2026-03-26T12:00:00",
       "summary": "68-04-045 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. ... Vu la procédure suivante :           Procédures contentieuses antérieures :           Sous le n° 2205268, la société anonyme SA Bouygues Telecom et la société par actions simplifiée SAS Cellnex France ont demandé au tribunal administratif de Montpellier d'annuler l'arrêté du 12 août 2022 par lequel le maire de Saint-Gély-du-Fesc s'est opposé à la déclaration ",
+      "score": 20,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "dcf615b2be369a6a",
+      "source_name": "Cass. - Blanchiment",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de DOUAI, 1ère chambre, 26 mars 2026, 23DA01413",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEDOUAI-20260326-23DA01413",
+      "author": "1ère chambre",
+      "published": "2026-03-26T12:00:00",
+      "summary": "Vu la procédure suivante :            Procédure contentieuse antérieure :           L'association pour la suppression des pollutions industrielles ASPI a demandé au tribunal administratif de Lille d'annuler l'arrêté du 29 mai 2018 par lequel le préfet du Nord a accordé à la métropole européenne de Lille MEL une autorisation d'aménagement de la zone d'aménagement concerté Saint-Sauveur au titre de l'article L. 214-3 du code de l'environnement.           Par un jugement avant dire droit du 14 octo",
       "score": 20,
       "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
       "doc_type": null,
@@ -5475,7 +5475,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2cc324ce707a792a",
@@ -5548,7 +5548,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article traite de la conformité réglementaire financière en présentant la vision de l'EBA pour l'harmonisation des rapports financiers intégrés en Europe.",
+      "ai_summary": "La vision de l'EBA pour un reporting intégré harmonisé en UE relève de la conformité réglementaire bancaire et de la gouvernance des données financières.",
       "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×0.8 (14d)",
       "is_primary": false
     },
@@ -5842,7 +5842,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "394b7e82df8f3e55",
@@ -6081,7 +6081,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'un procès pour corruption étrangère (FCPA) impliquant un ancien banquier de Goldman Sachs."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une enquête FCPA sur la corruption étrangère d'un ex-banquier Goldman."
     },
     {
       "hash": "66b5668deb950826",
@@ -6194,24 +6194,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il porte sur l'autorisation des modèles de marge initiale sous EMIR.",
       "score_breakdown": "+10 mots forts: eba | +10 Géo EU: eba | ×0.8 (14d)",
       "is_primary": false
-    },
-    {
-      "hash": "17e2e27a6b4f823f",
-      "source_name": "AMF - Actualités",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Accord de composition administrative conclu le 20 novembre 2025 avec la Société Edmond de Rothschild Private Equity",
-      "url": "https://www.amf-france.org/fr/sanctions-transactions/transactions/transactions-homologuees/accord-de-composition-administrative-conclu-le-20-novembre-2025-avec-la-societe-edmond-de-rothschild#xts=607212&xtor=RSS-3&type=RSS",
-      "author": "",
-      "published": "2026-03-04T10:00:04",
-      "summary": "Transaction              TRA-2026-04 - Accord de composition administrative conclu le 20 novembre 2025 avec la Société Edmond de Rothschild Private Equity",
-      "score": 15,
-      "score_breakdown": "+25 Source FR | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Accord de composition administrative pour violation de règles financières par une société de gestion de patrimoine."
     },
     {
       "hash": "f2668a6f29b4",
@@ -6430,7 +6412,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b96d5e24b5ee6e97",
@@ -6448,7 +6430,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bb8da00a9021c038",
@@ -6503,24 +6485,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la gestion des risques de marché et de liquidité des banques, éléments clés de la conformité prudentielle."
-    },
-    {
-      "hash": "6481dd35d6002de3",
-      "source_name": "ESMA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📝 #ESMA consults on how post-trade risk reduction services can make use of the conditional exemption from the clearing obligation under #EMIR3. 🕒 Send your feedback by 20 April",
-      "url": "https://x.com/ESMAComms/status/2029118537680257078",
-      "author": "@ESMAComms",
-      "published": "2026-03-04T08:55:00",
-      "summary": "📝  #ESMA consults on how post-trade risk reduction services can make use of the conditional exemption from the clearing obligation under  #EMIR3.🕒 Send your feedback by 20 April →  link.europa.eu/YNr8gM— ESMA - EU Securities Markets Regulator 🇪🇺 (@ESMAComms) Mar 4, 2026",
-      "score": 15,
-      "score_breakdown": "+10 mots forts: esma | +5 mots moyens: risk | +10 Géo EU: esma | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'exemption conditionnelle de l'obligation de compensation selon EMIR3."
     },
     {
       "hash": "af137f10343653c1",
@@ -6646,7 +6610,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article traite de la conformité financière en abordant les risques systémiques liés aux interconnexions entre banques et acteurs financiers, nécessitant un cadre prudentiel renforcé.",
+      "ai_summary": "L'article traite de la conformité financière en soulignant les risques systémiques liés aux interconnexions bancaires et la nécessité de renforcer la surveillance macroprudentielle.",
       "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×0.8 (14d)",
       "is_primary": false
     },
@@ -6742,7 +6706,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "27c78e96d9fe5486",
@@ -6997,7 +6961,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La nomination d'administrateurs suite à une procédure de l'autorité de régulation financière concernant un schéma d'investissement non autorisé relève de la conformité financière."
+      "ai_summary": "Cet article concerne la conformité financière car il rapporte une action de l'autorité réglementaire contre une entreprise pour schéma d'investissement non autorisé."
     },
     {
       "hash": "08bdf77bbd743b2d",
@@ -7382,24 +7346,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption impliquant un employé d'entreprise technologique."
     },
     {
-      "hash": "924fb3a3c095ba54",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Swizz Beatz improperly revealed settlement talks in 1MDB suit, liquidators say",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/swizz-beatz-improperly-revealed-settlement-talks-in-1mdb-suit-liquidators-say",
-      "author": "Estelle Atkinson",
-      "published": "2026-03-16T20:11:09",
-      "summary": "The US rapper is accused of cashing in $7.3 million allegedly stolen by fugitive businessman Jho Low in the global corruption scandal.&nbsp;",
-      "score": 4,
-      "score_breakdown": "+5 mots moyens: ppe | +3 Presse | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "2980214da8362eb0",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -7487,7 +7433,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les mesures de sanctions contre le terrorisme appliquées au Soudan, relevant de la conformité aux règles de lutte antiterroriste (AML/CFT)."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions contre le Soudan, relevant des obligations de conformité aux mesures de lutte antiterroriste."
     },
     {
       "hash": "c464a9ba29de4649",
@@ -7542,24 +7488,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les sanctions financières et la conformité avec les mesures de gel d'actifs imposées par les États-Unis."
-    },
-    {
-      "hash": "5bcf70a456c9039c",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Issuance of Venezuela-related Frequently Asked Questions | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260304",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-03-04T12:00:00",
-      "summary": "",
-      "score": 3,
-      "score_breakdown": "+5 Source Intl | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions contre le Venezuela, un sujet clé des obligations de conformité OFAC."
     },
     {
       "hash": "a27f74dd31c20047",
@@ -7631,7 +7559,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il rapporte des violations de règles anti-corruption et de conformité éthique par une grande entreprise multinationale."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de corruption et de pots-de-vin, violations majeures des règles de conformité anticorruption."
     },
     {
       "hash": "e67d4bfc19e68f27",
@@ -7652,6 +7580,6 @@
       "ai_summary": "Cet article examine le cas Epstein sous l'angle de la criminalité financière et du blanchiment d'argent."
     }
   ],
-  "last_update": "2026-04-03T07:42:48.510054+00:00",
+  "last_update": "2026-04-03T12:42:32.368138+00:00",
   "last_updated": "2026-03-31T20:26:00.316175+00:00"
 }
