@@ -580,7 +580,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La Commission des sanctions de l'AMF sanctionne un conseiller pour manquements à ses obligations professionnelles, ce qui relève de la conformité réglementaire."
+      "ai_summary": "L'AMF sanctionne un conseiller en investissements pour manquements à ses obligations professionnelles, démontrant l'application du contrôle de la conformité réglementaire."
     },
     {
       "hash": "a48784fb0157c727",
@@ -724,7 +724,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "fe3dd2127fef4217",
@@ -778,7 +778,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté approuve les modifications des statuts de la CNBF, organisme de retraite des avocats, relevant de la conformité réglementaire institutionnelle."
+      "ai_summary": "Cet arrêté concerne la conformité financière car il approuve les modifications statutaires de la CNBF, organisme de gestion de fonds relevant de la réglementation financière."
     },
     {
       "hash": "5bd867952670fa41",
@@ -1234,7 +1234,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2b786dabe1fa5416",
@@ -1252,7 +1252,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d14ab9c59b4510c5",
@@ -1289,6 +1289,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'ACPR sanctionne les manquements de conformité d'une mutuelle dans son processus de règlement des prestations aux adhérents."
+    },
+    {
+      "hash": "ae9cc11447dd352e",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 3 April, 2026",
+      "url": "https://www.eba.europa.eu/node/19517",
+      "author": "Anonymous",
+      "published": "2026-04-03T15:00:03",
+      "summary": "EBA E-mail alert 3 April, 2026\n\n  \n    Date\n          03/04/2026\n\n      \n\nAnonymous (not verified)\n\nFri, 04/03/2026 - 17:00\n\n\n            \n\n      \n  \n    Final Q&amp;As\n          2025_7580 Reporting of unused prior permission amounts with no specification of subordination\n          2025_7614 Amount to be reported as MREL eligible amount and amount qualifying as Own Funds non-CET1 instruments, taking into account phase-out as applicable\n          2025_7630 Reporting Framework 4.2 - Z_09.02 - FMI ",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: eba | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il traite des normes de reporting bancaire et de subordination établies par l'EBA."
     },
     {
       "hash": "abe98bb51d8b2139",
@@ -1361,7 +1379,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "714f5408ece3e249",
@@ -1373,24 +1391,6 @@
       "author": "",
       "published": "2026-03-29T05:18:35",
       "summary": "View PDF&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "10129d919b82b439",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "AGPM VIE - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CNXBxSEVzZ1hUOXR1Ml9KUzQ0VGJnNHNaU1NZNC01TVhrSWlESTN4TVo2MDNKczZQTy0waTdjLU5ndFpOUVhZN0lEVC1Dei1RLTlYWVVjejE?oc=5",
-      "author": "",
-      "published": "2026-03-29T04:33:56",
-      "summary": "AGPM VIE&nbsp;&nbsp;Banque de France",
       "score": 50,
       "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
       "doc_type": null,
@@ -1415,7 +1415,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il mentionne l'AGPM Groupe en relation avec la Banque de France, autorité de supervision réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il mentionne l'ACPR, autorité de régulation bancaire et financière."
     },
     {
       "hash": "6c801566e282bc92",
@@ -1640,7 +1640,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a50e382b22ca9dfc",
@@ -1658,7 +1658,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "513fae72938defe4",
@@ -1770,24 +1770,6 @@
       "early_brief": false,
       "score_breakdown": "+20 mots forts: compliance, esma | +15 Source EU | +10 Géo EU: esma | ×1.0 (7d)",
       "is_primary": false
-    },
-    {
-      "hash": "94326017497f1de3",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🤝A great way to head into the Easter break: the EBA welcomed the CPCP for the first time On 26–27 March, the #EBA was proud to hos...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7445394655053152256",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-04-02T09:00:15",
-      "summary": "🤝A great way to head into the Easter break: the EBA welcomed the CPCP for the first time\n\nOn 26–27 March, the #EBA was proud to host its first Collège des Présidents des Comités du Personnel (#CPCP) meeting, bringing together staff committee and unions’ representatives from across EU institutions, including the EC, EP, Court of Justice, ECB, European Ombudsman, EDPS, CoR, EESC, staff committees from Luxembourg and Brussels, the AASC Secretariat and the ESMA Staff Committee.\n\n👋 Participants were ",
-      "score": 45,
-      "score_breakdown": "+20 mots forts: eba, esma | +10 Géo EU: eba, esma, luxembourg | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e8a2c2dd728e2108",
@@ -2095,7 +2077,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1bd161ea73a4b0c7",
@@ -2113,7 +2095,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "161de54c0a6dc37d",
@@ -2551,6 +2533,24 @@
       "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: compliance, fatf | +5 Source Intl | ×0.8 (14d)"
     },
     {
+      "hash": "94326017497f1de3",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🤝A great way to head into the Easter break: the EBA welcomed the CPCP for the first time On 26–27 March, the #EBA was proud to hos...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7445394655053152256",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-04-02T09:00:15",
+      "summary": "🤝A great way to head into the Easter break: the EBA welcomed the CPCP for the first time\n\nOn 26–27 March, the #EBA was proud to host its first Collège des Présidents des Comités du Personnel (#CPCP) meeting, bringing together staff committee and unions’ representatives from across EU institutions, including the EC, EP, Court of Justice, ECB, European Ombudsman, EDPS, CoR, EESC, staff committees from Luxembourg and Brussels, the AASC Secretariat and the ESMA Staff Committee.\n\n👋 Participants were ",
+      "score": 36,
+      "score_breakdown": "+20 mots forts: eba, esma | +10 Géo EU: eba, esma, luxembourg | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "511fbfe489a3adfd",
       "source_name": "EBA (X)",
       "source_type": "rss",
@@ -2894,7 +2894,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des avancées contre la fraude fiscale et de la transparence financière en finance offshore."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des avancées contre la fraude fiscale et de la transparence financière suite aux Panama Papers."
     },
     {
       "hash": "fddb3b6e439cf83d",
@@ -2930,7 +2930,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite du contrôle fiscal et de la lutte contre la fraude, aspects clés de la conformité financière et de la gestion des risques de blanchiment."
+      "ai_summary": "Cet article concerne la conformité fiscale en exposant les contrôles et redressements effectués sur les foyers fortunés ne déclarant pas de revenu imposable."
     },
     {
       "hash": "ed24ba061a438fb5",
@@ -3201,7 +3201,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0b0d203a98c13c42",
@@ -3313,42 +3313,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il mentionne une entité d'assurance et la Banque de France, autorité de régulation."
-    },
-    {
-      "hash": "c24cd475e93dafd6",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour de cassation, Deuxième chambre civile - formation restreinte hors rnsm/na, 02 avril 2026, 24-18.909",
-      "url": "http://juricaf.org/arret/FRANCE-COURDECASSATION-20260402-2418909",
-      "author": "Deuxième chambre civile - formation restreinte hors rnsm/na",
-      "published": "2026-04-02T12:00:00",
-      "summary": "CIV. 2    MW2        COUR DE CASSATION _ Arrêt du 2 avril 2026          Cassation partielle      Mme MARTINEL, présidente        Arrêt n° 299 F-B    Pourvoi n° Z 24-18.909           R É P U B L I Q U E F R A N Ç A I S E _ AU NOM DU PEUPLE FRANÇAIS _ ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 2 AVRIL 2026    Le Fonds de garantie des victimes des actes de terrorisme et d'autres infractions FGTI, dont le siège est, Adresse 1, a formé le pourvoi n° Z 24-18.909 contre l'arrêt rendu le",
-      "score": 30,
-      "score_breakdown": "+20 Géo FR: france, français | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "9fb85b98aca69b7f",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, Section, 31 mars 2026, 494252",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260331-494252",
-      "author": "Section",
-      "published": "2026-03-31T12:00:00",
-      "summary": "54-08-01-01-02 PROCÉDURE. - VOIES DE RECOURS. - APPEL. - RECEVABILITÉ. - QUALITÉ POUR FAIRE APPEL. - JUGEMENT ANNULANT UNE AUTORISATION... Vu les procédures suivantes :                  M. F... K... et Mme D... C... épouse K... ont demandé au tribunal administratif de Nice d'annuler pour excès de pouvoir l'arrêté du 22 juillet 2020 par lequel le maire de Tourrette-Levens Alpes-Maritimes a accordé à M. A... J... et Mme H... I... épouse J... un permis de construire une maison individuelle et une p",
-      "score": 30,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1c6479d6e76791a5",
@@ -3737,7 +3701,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "88e65851fd13b5f8",
@@ -3960,6 +3924,24 @@
       "ai_summary": "La Banque mondiale poursuit des sanctions contre des entreprises pour corruption et exige une restitution dans une affaire de pot-de-vin."
     },
     {
+      "hash": "9fb85b98aca69b7f",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, Section, 31 mars 2026, 494252",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260331-494252",
+      "author": "Section",
+      "published": "2026-03-31T12:00:00",
+      "summary": "54-08-01-01-02 PROCÉDURE. - VOIES DE RECOURS. - APPEL. - RECEVABILITÉ. - QUALITÉ POUR FAIRE APPEL. - JUGEMENT ANNULANT UNE AUTORISATION... Vu les procédures suivantes :                  M. F... K... et Mme D... C... épouse K... ont demandé au tribunal administratif de Nice d'annuler pour excès de pouvoir l'arrêté du 22 juillet 2020 par lequel le maire de Tourrette-Levens Alpes-Maritimes a accordé à M. A... J... et Mme H... I... épouse J... un permis de construire une maison individuelle et une p",
+      "score": 25,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "b7b76a1895bb",
       "source_name": "Conseil de l'UE",
       "source_type": "scrape",
@@ -4141,6 +4123,24 @@
       "is_primary": false
     },
     {
+      "hash": "c24cd475e93dafd6",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour de cassation, Deuxième chambre civile - formation restreinte hors rnsm/na, 02 avril 2026, 24-18.909",
+      "url": "http://juricaf.org/arret/FRANCE-COURDECASSATION-20260402-2418909",
+      "author": "Deuxième chambre civile - formation restreinte hors rnsm/na",
+      "published": "2026-04-02T12:00:00",
+      "summary": "CIV. 2    MW2        COUR DE CASSATION _ Arrêt du 2 avril 2026          Cassation partielle      Mme MARTINEL, présidente        Arrêt n° 299 F-B    Pourvoi n° Z 24-18.909           R É P U B L I Q U E F R A N Ç A I S E _ AU NOM DU PEUPLE FRANÇAIS _ ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 2 AVRIL 2026    Le Fonds de garantie des victimes des actes de terrorisme et d'autres infractions FGTI, dont le siège est, Adresse 1, a formé le pourvoi n° Z 24-18.909 contre l'arrêt rendu le",
+      "score": 24,
+      "score_breakdown": "+20 Géo FR: france, français | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "3fd195cd7dcf2349",
       "source_name": "ECB - Banking Supervision",
       "source_type": "rss",
@@ -4175,7 +4175,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des évaluations de crédit des agences de notation et de la conformité réglementaire bancaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de Q&As de l'EBA sur l'utilisation des évaluations de crédit par les ECAI."
     },
     {
       "hash": "5479262124a6",
@@ -4743,7 +4743,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la protection des données sensibles en essais cliniques, non la conformité financière stricto sensu.\n\nHors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "79e6333b763b5136",
@@ -5071,24 +5071,6 @@
       "ai_summary": "Cet article concerne la conformité fiscale : il traite d'une cotisation supplémentaire d'impôt sur les sociétés contestée par une entreprise."
     },
     {
-      "hash": "ebf1b1b1955cede1",
-      "source_name": "Cass. - Blanchiment",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de TOULOUSE, 4ème chambre, 26 mars 2026, 23TL02268",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDETOULOUSE-20260326-23TL02268",
-      "author": "4ème chambre",
-      "published": "2026-03-26T12:00:00",
-      "summary": "68-04-045 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. ... Vu la procédure suivante :           Procédures contentieuses antérieures :           Sous le n° 2205268, la société anonyme SA Bouygues Telecom et la société par actions simplifiée SAS Cellnex France ont demandé au tribunal administratif de Montpellier d'annuler l'arrêté du 12 août 2022 par lequel le maire de Saint-Gély-du-Fesc s'est opposé à la déclaration ",
-      "score": 20,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "dcf615b2be369a6a",
       "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
@@ -5098,6 +5080,24 @@
       "author": "1ère chambre",
       "published": "2026-03-26T12:00:00",
       "summary": "Vu la procédure suivante :            Procédure contentieuse antérieure :           L'association pour la suppression des pollutions industrielles ASPI a demandé au tribunal administratif de Lille d'annuler l'arrêté du 29 mai 2018 par lequel le préfet du Nord a accordé à la métropole européenne de Lille MEL une autorisation d'aménagement de la zone d'aménagement concerté Saint-Sauveur au titre de l'article L. 214-3 du code de l'environnement.           Par un jugement avant dire droit du 14 octo",
+      "score": 20,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "ebf1b1b1955cede1",
+      "source_name": "Cass. - Blanchiment",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de TOULOUSE, 4ème chambre, 26 mars 2026, 23TL02268",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDETOULOUSE-20260326-23TL02268",
+      "author": "4ème chambre",
+      "published": "2026-03-26T12:00:00",
+      "summary": "68-04-045 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. ... Vu la procédure suivante :           Procédures contentieuses antérieures :           Sous le n° 2205268, la société anonyme SA Bouygues Telecom et la société par actions simplifiée SAS Cellnex France ont demandé au tribunal administratif de Montpellier d'annuler l'arrêté du 12 août 2022 par lequel le maire de Saint-Gély-du-Fesc s'est opposé à la déclaration ",
       "score": 20,
       "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
       "doc_type": null,
@@ -5475,7 +5475,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "2cc324ce707a792a",
@@ -5548,7 +5548,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La vision de l'EBA pour un reporting intégré harmonisé en UE relève de la conformité réglementaire bancaire et de la gouvernance des données financières.",
+      "ai_summary": "La vision de l'EBA pour la conformité financière intégrée vise à harmoniser les rapports bancaires européens et réduire la fragmentation réglementaire.",
       "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×0.8 (14d)",
       "is_primary": false
     },
@@ -5842,7 +5842,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "394b7e82df8f3e55",
@@ -5933,24 +5933,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les seuils de compensation EMIR3 pour les produits dérivés de gré à gré imposent des obligations de conformité réglementaire aux participants."
-    },
-    {
-      "hash": "f086785cc61fbc47",
-      "source_name": "Tracfin (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🙏🏻 Merci à l' Association Sciences Po Défense & Stratégie pour son invitation et cette organisation particulièrement réussie. #Bila...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7435020633136087040",
-      "author": "Tracfin",
-      "published": "2026-03-04T17:57:35",
-      "summary": "🙏🏻 Merci à l' Association Sciences Po Défense & Stratégie pour son invitation et cette organisation particulièrement réussie.\n#Bilan : Beaucoup d'étudiants particulièrement intéressés par les missions et les carrières de Tracfin... et des profils très (très) intéressants. 😎\n\n🤞🏻𝐄𝐭 𝐚̀ 𝐛𝐢𝐞𝐧𝐭𝐨̂𝐭 𝐝𝐚𝐧𝐬 𝐥𝐞𝐬 𝐫𝐚𝐧𝐠𝐬 𝐝𝐮 𝐬𝐞𝐫𝐯𝐢𝐜𝐞 𝐝𝐞 𝐫𝐞𝐧𝐬𝐞𝐢𝐠𝐧𝐞𝐦𝐞𝐧𝐭 𝐟𝐢𝐧𝐚𝐧𝐜𝐢𝐞𝐫 𝐝𝐞 𝐁𝐞𝐫𝐜𝐲 !?",
-      "score": 18,
-      "score_breakdown": "+10 mots forts: tracfin | +20 Géo FR: tracfin | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Tracfin recrute des étudiants intéressés par les missions de lutte contre le blanchiment et le financement du terrorisme."
     },
     {
       "hash": "e715d1ab4c91e248",
@@ -6412,7 +6394,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b96d5e24b5ee6e97",
@@ -6430,7 +6412,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "bb8da00a9021c038",
@@ -6467,24 +6449,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article concerne l'évaluation d'équivalence réglementaire entre l'EBA et la Colombie, relevant de la conformité financière internationale."
-    },
-    {
-      "hash": "2e02c039c770cb47",
-      "source_name": "EBA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "💡 NEW: Reuters interviews #EBA’s Kamil Liberadzki on the 14% jump in EU banks’ sovereign bond holdings. He cautions that higher yields or a slowdown could pressure bank balance sheets as volatility and hedging costs rise. 👉Read more here:",
-      "url": "https://x.com/EBA_News/status/2029244542491218279",
-      "author": "@EBA_News",
-      "published": "2026-03-04T17:16:00",
-      "summary": "💡 NEW: Reuters interviews  #EBA’s Kamil Liberadzki on the 14% jump in EU banks’ sovereign bond holdings. He cautions that higher yields or a slowdown could pressure bank balance sheets as volatility and hedging costs rise.👉Read more here:  shorturl.at/gZg7J— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Mar 4, 2026",
-      "score": 15,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la gestion des risques de marché et de liquidité des banques, éléments clés de la conformité prudentielle."
     },
     {
       "hash": "af137f10343653c1",
@@ -6610,7 +6574,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article traite de la conformité financière en soulignant les risques systémiques liés aux interconnexions bancaires et la nécessité de renforcer la surveillance macroprudentielle.",
+      "ai_summary": "L'article concerne la conformité financière car il traite du cadre macroprudentiel nécessaire pour surveiller et contrôler les risques entre banques et acteurs financiers.",
       "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×0.8 (14d)",
       "is_primary": false
     },
@@ -6706,7 +6670,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "27c78e96d9fe5486",
@@ -6961,7 +6925,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il rapporte une action de l'autorité réglementaire contre une entreprise pour schéma d'investissement non autorisé."
+      "ai_summary": "L'article concerne la conformité financière car il rapporte des poursuites de l'autorité de régulation contre une entité pour schéma d'investissement non autorisé."
     },
     {
       "hash": "08bdf77bbd743b2d",
@@ -7108,6 +7072,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de l'évolution du concept de PEP (Personnes Politiquement Exposées) en conformité et lutte anti-blanchiment."
+    },
+    {
+      "hash": "ba642976f4a4bfd1",
+      "source_name": "FinCEN",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Whistleblower Incentives and Protections",
+      "url": "https://www.fincen.gov/resources/statutes-regulations/federal-register-notices/whistleblower-incentives-and-protections",
+      "author": "",
+      "published": "2026-04-01T00:00:00",
+      "summary": "",
+      "score": 6,
+      "score_breakdown": "+5 Source Intl | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "85ceac9ffde0d46a",
@@ -7433,7 +7415,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions contre le Soudan, relevant des obligations de conformité aux mesures de lutte antiterroriste."
+      "ai_summary": "Cet article concerne les sanctions financières contre le Soudan, relevant de la conformité aux règles OFAC de lutte antiterroriste."
     },
     {
       "hash": "c464a9ba29de4649",
@@ -7559,7 +7541,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de corruption et de pots-de-vin, violations majeures des règles de conformité anticorruption."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de corruption et de pratiques frauduleuses contraires aux règles de conformité."
     },
     {
       "hash": "e67d4bfc19e68f27",
@@ -7580,6 +7562,6 @@
       "ai_summary": "Cet article examine le cas Epstein sous l'angle de la criminalité financière et du blanchiment d'argent."
     }
   ],
-  "last_update": "2026-04-03T13:40:54.505177+00:00",
+  "last_update": "2026-04-03T18:36:25.544350+00:00",
   "last_updated": "2026-03-31T20:26:00.316175+00:00"
 }
