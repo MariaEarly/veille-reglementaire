@@ -616,7 +616,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Le retrait d'agrément par l'ACPR d'une association professionnelle concerne le respect des obligations réglementaires de conformité financière et prudentielle."
     },
     {
       "hash": "5b59f803c8847a72",
@@ -850,7 +850,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté approuve les modifications statutaires de la CNBF, organisme de retraite des avocats, relevant de la conformité réglementaire et institutionnelle."
+      "ai_summary": "Cet arrêté approuve les modifications statutaires de la CNBF, organisme gérant des fonds collectifs, relevant de la conformité réglementaire des structures financières."
     },
     {
       "hash": "5bd867952670fa41",
@@ -978,25 +978,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "5450b675d1cd246b",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "View PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jV3NTTGMwWEVJTl82WEV4bXdKV0hBTEdVcmxINjhNUVBXVkpjTnNlcGJpX2x2SzVEUWJTei04RE0zTkphR09lSGhCRTE2VnctdmtlVTZrYlREbWwzTkxjVE8zNFh3UQ?oc=5",
-      "author": "",
-      "published": "2026-04-01T16:52:49",
-      "summary": "View PDF&nbsp;&nbsp;Banque de France",
-      "score": 60,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "09fac48e29a16bfd",
@@ -1342,7 +1324,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "05261a2eae254e52",
@@ -1360,25 +1342,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "2b786dabe1fa5416",
-      "source_name": "JORF - Sanctions",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Avis n° 2026-03 du 11 mars 2026 relatif à la nomination d'une adjointe au rapporteur en charge de l'engagement des poursuites et de l'instruction préalable au prononcé des sanctions prises par l'Autorité de régulation de la communication audiovisuelle et numérique",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053749632",
-      "author": "Autorité de régulation de la communication audiovisuelle et numérique",
-      "published": "2026-04-02T00:00:00",
-      "summary": "Article Saisie pour avis par le vice-président du Conseil d'Etat, en application de l'article 42-7 de la loi du 30 septembre 1986 relative à la liberté de communication, sur la nomination de Mme Esther de Moustier en tant qu'adjointe au rapporteur chargé de l'engagement des poursuites et de l'instruction préalable au prononcé des sanctions par l'Autorité de régulation de la communication audiovisuelle et numérique, cette dernière, après en avoir délibéré le 11 mars 2026, émet un avis favorable a",
-      "score": 54,
-      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | ×1.2 (<3d)",
-      "doc_type": "AVIS",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d14ab9c59b4510c5",
@@ -1505,7 +1469,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5c6fb71e576474be",
@@ -1541,7 +1505,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "815a6af59760dc1a",
@@ -1767,6 +1731,24 @@
       "ai_summary": "Tracfin recrute un enquêteur financier spécialisé en cryptoactifs pour lutter contre le blanchiment d'argent.",
       "score_breakdown": "+20 mots critiques: blanchiment | +20 mots forts: tracfin, crypto | +20 Géo FR: tracfin | ×0.8 (14d)",
       "is_primary": false
+    },
+    {
+      "hash": "2b786dabe1fa5416",
+      "source_name": "JORF - Sanctions",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Avis n° 2026-03 du 11 mars 2026 relatif à la nomination d'une adjointe au rapporteur en charge de l'engagement des poursuites et de l'instruction préalable au prononcé des sanctions prises par l'Autorité de régulation de la communication audiovisuelle et numérique",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053749632",
+      "author": "Autorité de régulation de la communication audiovisuelle et numérique",
+      "published": "2026-04-02T00:00:00",
+      "summary": "Article Saisie pour avis par le vice-président du Conseil d'Etat, en application de l'article 42-7 de la loi du 30 septembre 1986 relative à la liberté de communication, sur la nomination de Mme Esther de Moustier en tant qu'adjointe au rapporteur chargé de l'engagement des poursuites et de l'instruction préalable au prononcé des sanctions par l'Autorité de régulation de la communication audiovisuelle et numérique, cette dernière, après en avoir délibéré le 11 mars 2026, émet un avis favorable a",
+      "score": 45,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | ×1.0 (7d)",
+      "doc_type": "AVIS",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "513fae72938defe4",
@@ -2185,7 +2167,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1bd161ea73a4b0c7",
@@ -2203,7 +2185,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "161de54c0a6dc37d",
@@ -2656,7 +2638,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "511fbfe489a3adfd",
@@ -3002,7 +2984,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite des progrès dans la lutte contre la fraude fiscale et l'optimisation fiscale abusive via le renforcement de la transparence financière."
+      "ai_summary": "Cet article traite de la conformité financière en montrant comment les Panama Papers ont renforcé la transparence et la lutte contre la fraude fiscale."
     },
     {
       "hash": "fddb3b6e439cf83d",
@@ -3038,7 +3020,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité fiscale en analysant les contrôles et redressements effectués sur les foyers fortunés ne déclarant pas de revenus imposables."
+      "ai_summary": "Cet article concerne la conformité fiscale en illustrant les contrôles de l'administration sur les foyers déclarant peu de revenus malgré une fortune importante, identifiant fraude et irrégularités."
     },
     {
       "hash": "ed24ba061a438fb5",
@@ -3438,7 +3420,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e37a7b5ab1dc1ad3",
@@ -3456,7 +3438,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1c6479d6e76791a5",
@@ -3827,7 +3809,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "88e65851fd13b5f8",
@@ -4833,7 +4815,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "79e6333b763b5136",
@@ -5016,24 +4998,6 @@
       "ai_summary": "La BCE sanctionne une filiale de Nordea pour dépassement des limites de concentration du risque de crédit."
     },
     {
-      "hash": "e334e432229b1e62",
-      "source_name": "FinCEN",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Financial Action Task Force Identifies Jurisdictions with Anti-Money Laundering, Combating the Financing of Terrorism, and Counter-Proliferation Finance Deficiencies",
-      "url": "https://www.fincen.gov/news/news-releases/financial-action-task-force-identifies-jurisdictions-anti-money-laundering-5",
-      "author": "",
-      "published": "2026-03-06T00:00:00",
-      "summary": "",
-      "score": 21,
-      "score_breakdown": "+20 mots critiques: money laundering | +10 mots forts: anti-money | +5 Source Intl | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le FATF identifie les juridictions défaillantes en lutte anti-blanchiment, contre le financement du terrorisme et la prolifération."
-    },
-    {
       "hash": "f044e4ea2f234412",
       "source_name": "MCMS - Crypto Regulatory",
       "source_type": "email",
@@ -5140,7 +5104,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c32c94081d9257f6",
@@ -5511,7 +5475,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2cc324ce707a792a",
@@ -5642,24 +5606,6 @@
       "ai_summary": "L'EBA consulte sur les directives d'autorisation des modèles de marge initiale sous EMIR, relevant de la conformité réglementaire bancaire.",
       "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×0.8 (14d)",
       "is_primary": false
-    },
-    {
-      "hash": "460083ea654c35e4",
-      "source_name": "FinCEN",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "FinCEN Assesses Historic $80 Million Penalty Against Canaccord Genuity LLC for Securities Fraud-Related Bank Secrecy Act Violations",
-      "url": "https://www.fincen.gov/news/news-releases/fincen-assesses-historic-80-million-penalty-against-canaccord-genuity-llc",
-      "author": "",
-      "published": "2026-03-06T00:00:00",
-      "summary": "",
-      "score": 19,
-      "score_breakdown": "+20 mots critiques: fraud | +5 mots moyens: bank | +5 Source Intl | +3 Géo Intl: fincen, bank secrecy act | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "FinCEN impose une amende de 80 millions de dollars à Canaccord Genuity pour violations de la Loi sur le secret bancaire liées à la fraude."
     },
     {
       "hash": "91b53460c1781570",
@@ -5878,7 +5824,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "394b7e82df8f3e55",
@@ -6412,7 +6358,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b96d5e24b5ee6e97",
@@ -6430,7 +6376,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bb8da00a9021c038",
@@ -6574,7 +6520,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite de la surveillance macroprudentielle des risques systémiques liés aux interconnexions bancaires.",
+      "ai_summary": "Cet article concerne les risques systémiques liés aux interconnexions bancaires et la nécessité d'un cadre macroprudentiel renforcé pour la conformité.",
       "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×0.8 (14d)",
       "is_primary": false
     },
@@ -6670,7 +6616,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "27c78e96d9fe5486",
@@ -7526,6 +7472,6 @@
       "ai_summary": "Cet article examine le cas Epstein sous l'angle de la criminalité financière et du blanchiment d'argent."
     }
   ],
-  "last_update": "2026-04-04T19:06:30.239185+00:00",
+  "last_update": "2026-04-05T01:27:00.580806+00:00",
   "last_updated": "2026-03-31T20:26:00.316175+00:00"
 }
