@@ -616,7 +616,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du retrait d'agrément réglementaire par l'ACPR, autorité de supervision prudentielle et de conformité."
+      "ai_summary": "Le retrait d'agrément d'une association professionnelle par l'ACPR concerne directement la conformité financière et prudentielle des intermédiaires en assurance et services de paiement."
     },
     {
       "hash": "5b59f803c8847a72",
@@ -850,7 +850,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté approuve les modifications des statuts de la CNBF, organisme gérant les caisses de retraite des avocats, relevant de la conformité réglementaire financière."
+      "ai_summary": "Cet arrêté approuve les modifications statutaires de la CNBF, organisme gérant les ressources financières des barreaux, relevant de la conformité institutionnelle et réglementaire."
     },
     {
       "hash": "5bd867952670fa41",
@@ -1108,6 +1108,24 @@
       "score_breakdown": "+20 mots critiques: gel des avoirs | +10 mots forts: acpr | +25 Source FR | +20 Géo FR: acpr, dg trésor | ×0.8 (14d)"
     },
     {
+      "hash": "e73fe41702a14f3e",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Le Premier ministre slovaque veut que l'UE lève les sanctions \"absurdes\" sur le pétrole et le gaz russes et qu'elle \"reprenne le dialogue avec la Russie\"",
+      "url": "https://www.bfmtv.com/economie/entreprises/energie/le-premier-ministre-slovaque-veut-que-l-ue-leve-les-sanctions-absurdes-sur-le-petrole-et-le-gaz-russes-et-qu-elle-reprenne-le-dialogue-avec-la-russie_AV-202604050247.html",
+      "author": "",
+      "published": "2026-04-05T14:59:43",
+      "summary": "Le Premier ministre slovaque a appelé l'Union européenne à lever les sanctions qui pèsent sur la Russie depuis son agression de l'Ukraine. Robert Fico, espère ainsi pouvoir s'approvisionner en pétrole et en gaz russe, pour tenir face au choc énergétique provoqué par la guerre au Moyen-Orient. ",
+      "score": 57,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +3 Presse | +10 Géo EU: union européenne | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "cf7cfe4912306e76",
       "source_name": "ESMA - Email Notification",
       "source_type": "email",
@@ -1291,6 +1309,24 @@
       "is_primary": false
     },
     {
+      "hash": "769a6244e788b149",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décret n° 2026-242 du 1er avril 2026 portant publication du traité d'amitié et de coopération entre la République française et la République portugaise, signé à Porto le 28 février 2025 (1)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053754626",
+      "author": "Ministère de l'Europe et des affaires étrangères",
+      "published": "2026-04-03T00:00:00",
+      "summary": "Article 1Le traité d'amitié et de coopération entre la République française et la République portugaise, signé à Porto le 28 février 2025, sera publié au Journal officiel de la République française.Article 2Le Premier ministre et le ministre de l'Europe et des affaires étrangères sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.AnnexeArticle TRAITÉ D'AMITIÉ ET DE COOPÉRATION ENTRE LA RÉPUBLIQUE FRANÇAISE ",
+      "score": 54,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
+      "doc_type": "DÉCRET",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
       "hash": "d14ab9c59b4510c5",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1400,24 +1436,6 @@
       "ai_summary": "BaFin classe le risque de blanchiment et financement du terrorisme en cryptomonnaies comme priorité majeure de conformité."
     },
     {
-      "hash": "8d38a9f2fa2adb18",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "View PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTSkZQcUFuQm5uaG1wSWFQTk1ncEdjSlAxcFVoYUgyWndiSmpnMmlGNFRuTU9uc0F1dnY5YkdISk5XdThrTXl4a2tIUzlfVm1nT1JZYVhPWUd2UnVGNUE4eGZKQXhqUQ?oc=5",
-      "author": "",
-      "published": "2026-04-01T18:28:19",
-      "summary": "View PDF&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "1ba7cc5de2d53605",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -1433,7 +1451,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car ERV Försäkringsaktiebolag est une assurance supervisée par l'ACPR."
     },
     {
       "hash": "7d191ea84074f4f6",
@@ -1451,7 +1469,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il mentionne une institution bancaire soumise à la supervision de la Banque de France et l'ACPR."
     },
     {
       "hash": "5c6fb71e576474be",
@@ -1472,14 +1490,14 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du contrôle réglementaire d'une compagnie d'assurance par l'ACPR."
     },
     {
-      "hash": "622d6ebb011cdc47",
+      "hash": "e74ef273672ee825",
       "source_name": "ACPR",
       "source_type": "rss",
       "category": "autorite_fr",
       "title": "Vue PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2Y0JYcWlzUE93ZDk5Y0xPS3BQNVBFNGhRV0REUFY2SkhBMHBRXzQyLTVUOU0xOElMcWpiQXpjck9oRGRITVhPZVN3X3NqWW1rVzdOUDh1N1JSUF9HcjFXT28tYnEzUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WZ292Q0VOWFB0bHhDaUllUFFFa1F4OE9jLTVPanpPRk42MkZVcmRKUjRPcWxfV0Rhc3ZmbGFjdXBZZkYxaVZ6bGlGRTBGWHdodmZFb3pZS2pDSnphMVlDNDU5REx6dw?oc=5",
       "author": "",
-      "published": "2026-03-29T12:57:20",
+      "published": "2026-03-31T15:39:27",
       "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
       "score": 50,
       "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
@@ -1487,7 +1505,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "815a6af59760dc1a",
@@ -1727,6 +1745,24 @@
       "score": 45,
       "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | ×1.0 (7d)",
       "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "2b786dabe1fa5416",
+      "source_name": "JORF - Sanctions",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Avis n° 2026-03 du 11 mars 2026 relatif à la nomination d'une adjointe au rapporteur en charge de l'engagement des poursuites et de l'instruction préalable au prononcé des sanctions prises par l'Autorité de régulation de la communication audiovisuelle et numérique",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053749632",
+      "author": "Autorité de régulation de la communication audiovisuelle et numérique",
+      "published": "2026-04-02T00:00:00",
+      "summary": "Article Saisie pour avis par le vice-président du Conseil d'Etat, en application de l'article 42-7 de la loi du 30 septembre 1986 relative à la liberté de communication, sur la nomination de Mme Esther de Moustier en tant qu'adjointe au rapporteur chargé de l'engagement des poursuites et de l'instruction préalable au prononcé des sanctions par l'Autorité de régulation de la communication audiovisuelle et numérique, cette dernière, après en avoir délibéré le 11 mars 2026, émet un avis favorable a",
+      "score": 45,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | ×1.0 (7d)",
+      "doc_type": "AVIS",
       "action_class": "info",
       "status": "new",
       "early_brief": false,
@@ -2149,7 +2185,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1bd161ea73a4b0c7",
@@ -2167,7 +2203,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "161de54c0a6dc37d",
@@ -2620,7 +2656,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne une réunion entre l'EBA et les représentants du personnel, sans lien direct avec la conformité financière.\n\nHors périmètre compliance"
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "511fbfe489a3adfd",
@@ -3387,42 +3423,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il mentionne une entité d'assurance et la Banque de France, autorité de régulation."
     },
     {
-      "hash": "28f6307aa5f48ad6",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de BORDEAUX, 1ère chambre, 02 avril 2026, 23BX02323",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEBORDEAUX-20260402-23BX02323",
-      "author": "1ère chambre",
-      "published": "2026-04-02T12:00:00",
-      "summary": "Vu la procédure suivante :           Par une requête et des mémoires complémentaires, enregistrés les 28 août 2023, 14 mars et 19 mai 2025, ce dernier mémoire n'ayant pas été communiqué, la société par actions simplifiée SAS Ferme Éolienne de Saint-Médard d'Aunis, représentée par Me Versini-Campinchi, demande à la cour :            1° d'annuler l'arrêté du 26 juin 2023 par lequel le préfet de la Charente-Maritime a refusé de lui délivrer une autorisation environnementale pour la création et l'ex",
-      "score": 30,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "c1e565000fe24d5f",
-      "source_name": "Cass. - Fraude",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de MARSEILLE, 1ère chambre, 02 avril 2026, 24MA00916",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEMARSEILLE-20260402-24MA00916",
-      "author": "1ère chambre",
-      "published": "2026-04-02T12:00:00",
-      "summary": "68-02-04-02 Urbanisme et aménagement du territoire. - Procédures d'intervention foncière. - Lotissements. - Autorisation de lotir. ... Vu la procédure suivante :           Procédure contentieuse antérieure :           La société civile de construction-vente SCCV La Farlède Force 5 a demandé au tribunal administratif de Toulon d'annuler l'arrêté du 27 novembre 2020 par lequel le préfet du Var ne s'est pas opposé à la déclaration préalable de division foncière déposée par la chambre de commerce et",
-      "score": 30,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "1c6479d6e76791a5",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
@@ -3791,7 +3791,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "88e65851fd13b5f8",
@@ -4012,6 +4012,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La Banque mondiale poursuit des sanctions contre des entreprises pour corruption et exige une restitution dans une affaire de pot-de-vin."
+    },
+    {
+      "hash": "28f6307aa5f48ad6",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de BORDEAUX, 1ère chambre, 02 avril 2026, 23BX02323",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEBORDEAUX-20260402-23BX02323",
+      "author": "1ère chambre",
+      "published": "2026-04-02T12:00:00",
+      "summary": "Vu la procédure suivante :           Par une requête et des mémoires complémentaires, enregistrés les 28 août 2023, 14 mars et 19 mai 2025, ce dernier mémoire n'ayant pas été communiqué, la société par actions simplifiée SAS Ferme Éolienne de Saint-Médard d'Aunis, représentée par Me Versini-Campinchi, demande à la cour :            1° d'annuler l'arrêté du 26 juin 2023 par lequel le préfet de la Charente-Maritime a refusé de lui délivrer une autorisation environnementale pour la création et l'ex",
+      "score": 25,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "c1e565000fe24d5f",
+      "source_name": "Cass. - Fraude",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de MARSEILLE, 1ère chambre, 02 avril 2026, 24MA00916",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEMARSEILLE-20260402-24MA00916",
+      "author": "1ère chambre",
+      "published": "2026-04-02T12:00:00",
+      "summary": "68-02-04-02 Urbanisme et aménagement du territoire. - Procédures d'intervention foncière. - Lotissements. - Autorisation de lotir. ... Vu la procédure suivante :           Procédure contentieuse antérieure :           La société civile de construction-vente SCCV La Farlède Force 5 a demandé au tribunal administratif de Toulon d'annuler l'arrêté du 27 novembre 2020 par lequel le préfet du Var ne s'est pas opposé à la déclaration préalable de division foncière déposée par la chambre de commerce et",
+      "score": 25,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "b7b76a1895bb",
@@ -4797,7 +4833,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "79e6333b763b5136",
@@ -5071,24 +5107,6 @@
       "ai_summary": "Cet article concerne la conformité fiscale : il traite d'une cotisation supplémentaire d'impôt sur les sociétés contestée par une entreprise."
     },
     {
-      "hash": "ebf1b1b1955cede1",
-      "source_name": "Cass. - Blanchiment",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de TOULOUSE, 4ème chambre, 26 mars 2026, 23TL02268",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDETOULOUSE-20260326-23TL02268",
-      "author": "4ème chambre",
-      "published": "2026-03-26T12:00:00",
-      "summary": "68-04-045 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. ... Vu la procédure suivante :           Procédures contentieuses antérieures :           Sous le n° 2205268, la société anonyme SA Bouygues Telecom et la société par actions simplifiée SAS Cellnex France ont demandé au tribunal administratif de Montpellier d'annuler l'arrêté du 12 août 2022 par lequel le maire de Saint-Gély-du-Fesc s'est opposé à la déclaration ",
-      "score": 20,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "dcf615b2be369a6a",
       "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
@@ -5098,6 +5116,24 @@
       "author": "1ère chambre",
       "published": "2026-03-26T12:00:00",
       "summary": "Vu la procédure suivante :            Procédure contentieuse antérieure :           L'association pour la suppression des pollutions industrielles ASPI a demandé au tribunal administratif de Lille d'annuler l'arrêté du 29 mai 2018 par lequel le préfet du Nord a accordé à la métropole européenne de Lille MEL une autorisation d'aménagement de la zone d'aménagement concerté Saint-Sauveur au titre de l'article L. 214-3 du code de l'environnement.           Par un jugement avant dire droit du 14 octo",
+      "score": 20,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "ebf1b1b1955cede1",
+      "source_name": "Cass. - Blanchiment",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de TOULOUSE, 4ème chambre, 26 mars 2026, 23TL02268",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDETOULOUSE-20260326-23TL02268",
+      "author": "4ème chambre",
+      "published": "2026-03-26T12:00:00",
+      "summary": "68-04-045 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. ... Vu la procédure suivante :           Procédures contentieuses antérieures :           Sous le n° 2205268, la société anonyme SA Bouygues Telecom et la société par actions simplifiée SAS Cellnex France ont demandé au tribunal administratif de Montpellier d'annuler l'arrêté du 12 août 2022 par lequel le maire de Saint-Gély-du-Fesc s'est opposé à la déclaration ",
       "score": 20,
       "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
       "doc_type": null,
@@ -5475,7 +5511,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "2cc324ce707a792a",
@@ -5824,7 +5860,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "394b7e82df8f3e55",
@@ -6358,7 +6394,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b96d5e24b5ee6e97",
@@ -6376,7 +6412,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "bb8da00a9021c038",
@@ -6616,7 +6652,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "27c78e96d9fe5486",
@@ -7436,6 +7472,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de corruption et de pratiques frauduleuses contraires aux règles de conformité."
     }
   ],
-  "last_update": "2026-04-05T13:33:37.543272+00:00",
+  "last_update": "2026-04-05T18:30:46.869818+00:00",
   "last_updated": "2026-03-31T20:26:00.316175+00:00"
 }
