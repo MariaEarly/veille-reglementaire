@@ -616,7 +616,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Le retrait d'agrément par l'ACPR d'une association professionnelle concerne directement la conformité financière et la supervision prudentielle des intermédiaires."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du retrait d'agrément réglementaire par l'ACPR, autorité de supervision prudentielle et de conformité."
     },
     {
       "hash": "5b59f803c8847a72",
@@ -850,7 +850,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les modifications des statuts de la CNBF concernent sa gouvernance et son fonctionnement institutionnel, relevant de la conformité réglementaire financière."
+      "ai_summary": "Cet arrêté approuve les modifications des statuts de la CNBF, organisme gérant les caisses de retraite des avocats, relevant de la conformité réglementaire financière."
     },
     {
       "hash": "5bd867952670fa41",
@@ -1291,42 +1291,6 @@
       "is_primary": false
     },
     {
-      "hash": "769a6244e788b149",
-      "source_name": "JORF - Blanchiment",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décret n° 2026-242 du 1er avril 2026 portant publication du traité d'amitié et de coopération entre la République française et la République portugaise, signé à Porto le 28 février 2025 (1)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053754626",
-      "author": "Ministère de l'Europe et des affaires étrangères",
-      "published": "2026-04-03T00:00:00",
-      "summary": "Article 1Le traité d'amitié et de coopération entre la République française et la République portugaise, signé à Porto le 28 février 2025, sera publié au Journal officiel de la République française.Article 2Le Premier ministre et le ministre de l'Europe et des affaires étrangères sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.AnnexeArticle TRAITÉ D'AMITIÉ ET DE COOPÉRATION ENTRE LA RÉPUBLIQUE FRANÇAISE ",
-      "score": 54,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
-      "doc_type": "DÉCRET",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "05261a2eae254e52",
-      "source_name": "Ministère de la Justice (CJIP)",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Sortants de prison en 2021 : stabilité de la récidive un an après la libération",
-      "url": "https://www.justice.gouv.fr/documentation/etudes-et-statistiques/sortants-prison-2021-stabilite-recidive-apres-liberation",
-      "author": "HABIMANA Emmanuel",
-      "published": "2026-04-02T10:00:11",
-      "summary": "Sortants de prison en 2021 : stabilité de la récidive un an après la libération\nHABIMANA Emmanuel\njeu 02/04/2026 - 12:00\n\n      \n\n  \n\n\n  \n        Parmi les sortants de prison en 2021, 34,2 % ont à nouveau été condamnés pour une infraction commise dans l’année qui a suivi leur libération, sanctionnée par une condamnation ou composition pénale enregistrée au Casier judiciaire national. La récidive à un an marque ainsi une stabilité par rapport aux sortants de prison en 2020 (+ 0,1 point).\nNéanmoin",
-      "score": 54,
-      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
-    },
-    {
       "hash": "d14ab9c59b4510c5",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1451,6 +1415,42 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "1ba7cc5de2d53605",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "ERV Försäkringsaktiebolag - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16WVNRbXdlc0I3OWozYklGVG9jNmZtbGU1U0p5RFBzQkwtTkRYRDJRQTR5bERBSnlSXzBfS2M5M2ZIVGp6TG1KNnI3TTlzU0x6cVNleTBaNUs?oc=5",
+      "author": "",
+      "published": "2026-04-01T18:01:41",
+      "summary": "ERV Försäkringsaktiebolag&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "7d191ea84074f4f6",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "BANQUE POPULAIRE MUTUALITE - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSTnRDWldfb3V4VlhOVjNpS2xvbWdIWWFJTmpZVEpZakNJUEJtZ3BmX19nSE5YTVRxcFVGSGl0emNHT203Q1k2eU95ZDMxSDBIcDAxM3IxOFg?oc=5",
+      "author": "",
+      "published": "2026-03-31T22:12:05",
+      "summary": "BANQUE POPULAIRE MUTUALITE&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
       "ai_summary": null
     },
     {
@@ -1487,7 +1487,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "815a6af59760dc1a",
@@ -1715,22 +1715,22 @@
       "is_primary": false
     },
     {
-      "hash": "2b786dabe1fa5416",
-      "source_name": "JORF - Sanctions",
+      "hash": "05261a2eae254e52",
+      "source_name": "Ministère de la Justice (CJIP)",
       "source_type": "rss",
       "category": "autorite_fr",
-      "title": "Avis n° 2026-03 du 11 mars 2026 relatif à la nomination d'une adjointe au rapporteur en charge de l'engagement des poursuites et de l'instruction préalable au prononcé des sanctions prises par l'Autorité de régulation de la communication audiovisuelle et numérique",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053749632",
-      "author": "Autorité de régulation de la communication audiovisuelle et numérique",
-      "published": "2026-04-02T00:00:00",
-      "summary": "Article Saisie pour avis par le vice-président du Conseil d'Etat, en application de l'article 42-7 de la loi du 30 septembre 1986 relative à la liberté de communication, sur la nomination de Mme Esther de Moustier en tant qu'adjointe au rapporteur chargé de l'engagement des poursuites et de l'instruction préalable au prononcé des sanctions par l'Autorité de régulation de la communication audiovisuelle et numérique, cette dernière, après en avoir délibéré le 11 mars 2026, émet un avis favorable a",
+      "title": "Sortants de prison en 2021 : stabilité de la récidive un an après la libération",
+      "url": "https://www.justice.gouv.fr/documentation/etudes-et-statistiques/sortants-prison-2021-stabilite-recidive-apres-liberation",
+      "author": "HABIMANA Emmanuel",
+      "published": "2026-04-02T10:00:11",
+      "summary": "Sortants de prison en 2021 : stabilité de la récidive un an après la libération\nHABIMANA Emmanuel\njeu 02/04/2026 - 12:00\n\n      \n\n  \n\n\n  \n        Parmi les sortants de prison en 2021, 34,2 % ont à nouveau été condamnés pour une infraction commise dans l’année qui a suivi leur libération, sanctionnée par une condamnation ou composition pénale enregistrée au Casier judiciaire national. La récidive à un an marque ainsi une stabilité par rapport aux sortants de prison en 2020 (+ 0,1 point).\nNéanmoin",
       "score": 45,
       "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | ×1.0 (7d)",
-      "doc_type": "AVIS",
+      "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "513fae72938defe4",
@@ -2149,7 +2149,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1bd161ea73a4b0c7",
@@ -2167,7 +2167,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "161de54c0a6dc37d",
@@ -2620,7 +2620,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne une réunion entre l'EBA et les représentants du personnel, sans lien direct avec la conformité financière.\n\nHors périmètre compliance"
     },
     {
       "hash": "511fbfe489a3adfd",
@@ -2966,7 +2966,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il aborde les avancées en transparence financière et la lutte contre la fraude fiscale suite aux Panama Papers."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la transparence financière et de la lutte contre la fraude fiscale."
     },
     {
       "hash": "fddb3b6e439cf83d",
@@ -3002,7 +3002,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite du contrôle fiscal et de la détection de fraude par l'administration, éléments clés de la conformité financière et du respect des obligations fiscales."
+      "ai_summary": "Cet article concerne la conformité fiscale et la lutte contre la fraude, montrant les écarts entre patrimoine et revenu déclaré."
     },
     {
       "hash": "ed24ba061a438fb5",
@@ -3402,7 +3402,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c1e565000fe24d5f",
@@ -3420,7 +3420,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1c6479d6e76791a5",
@@ -3791,7 +3791,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "88e65851fd13b5f8",
@@ -4797,7 +4797,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "79e6333b763b5136",
@@ -5071,24 +5071,6 @@
       "ai_summary": "Cet article concerne la conformité fiscale : il traite d'une cotisation supplémentaire d'impôt sur les sociétés contestée par une entreprise."
     },
     {
-      "hash": "dcf615b2be369a6a",
-      "source_name": "Cass. - Blanchiment",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de DOUAI, 1ère chambre, 26 mars 2026, 23DA01413",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEDOUAI-20260326-23DA01413",
-      "author": "1ère chambre",
-      "published": "2026-03-26T12:00:00",
-      "summary": "Vu la procédure suivante :            Procédure contentieuse antérieure :           L'association pour la suppression des pollutions industrielles ASPI a demandé au tribunal administratif de Lille d'annuler l'arrêté du 29 mai 2018 par lequel le préfet du Nord a accordé à la métropole européenne de Lille MEL une autorisation d'aménagement de la zone d'aménagement concerté Saint-Sauveur au titre de l'article L. 214-3 du code de l'environnement.           Par un jugement avant dire droit du 14 octo",
-      "score": 20,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "ebf1b1b1955cede1",
       "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
@@ -5098,6 +5080,24 @@
       "author": "4ème chambre",
       "published": "2026-03-26T12:00:00",
       "summary": "68-04-045 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. ... Vu la procédure suivante :           Procédures contentieuses antérieures :           Sous le n° 2205268, la société anonyme SA Bouygues Telecom et la société par actions simplifiée SAS Cellnex France ont demandé au tribunal administratif de Montpellier d'annuler l'arrêté du 12 août 2022 par lequel le maire de Saint-Gély-du-Fesc s'est opposé à la déclaration ",
+      "score": 20,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "dcf615b2be369a6a",
+      "source_name": "Cass. - Blanchiment",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de DOUAI, 1ère chambre, 26 mars 2026, 23DA01413",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEDOUAI-20260326-23DA01413",
+      "author": "1ère chambre",
+      "published": "2026-03-26T12:00:00",
+      "summary": "Vu la procédure suivante :            Procédure contentieuse antérieure :           L'association pour la suppression des pollutions industrielles ASPI a demandé au tribunal administratif de Lille d'annuler l'arrêté du 29 mai 2018 par lequel le préfet du Nord a accordé à la métropole européenne de Lille MEL une autorisation d'aménagement de la zone d'aménagement concerté Saint-Sauveur au titre de l'article L. 214-3 du code de l'environnement.           Par un jugement avant dire droit du 14 octo",
       "score": 20,
       "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
       "doc_type": null,
@@ -5475,7 +5475,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2cc324ce707a792a",
@@ -5824,7 +5824,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "394b7e82df8f3e55",
@@ -6358,7 +6358,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b96d5e24b5ee6e97",
@@ -6376,7 +6376,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bb8da00a9021c038",
@@ -6616,7 +6616,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "27c78e96d9fe5486",
@@ -7364,24 +7364,6 @@
       "ai_summary": "Cet article concerne les sanctions financières contre le Soudan, relevant de la conformité aux règles OFAC de lutte antiterroriste."
     },
     {
-      "hash": "c464a9ba29de4649",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Issuance of Venezuela-related General License | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260306_33",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-03-06T12:00:00",
-      "summary": "",
-      "score": 3,
-      "score_breakdown": "+5 Source Intl | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des licences émises par l'OFAC relatives aux sanctions contre le Venezuela."
-    },
-    {
       "hash": "a27f74dd31c20047",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7452,26 +7434,8 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de corruption et de pratiques frauduleuses contraires aux règles de conformité."
-    },
-    {
-      "hash": "e67d4bfc19e68f27",
-      "source_name": "Financial Crime News",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Epstein Files: Financial Crime Case Study – Lessons Learned & Long Form Chronology - Premium",
-      "url": "http://thefinancialcrimenews.com/epstein-files-financial-crime-case-study/?utm_source=rss&utm_medium=rss&utm_campaign=epstein-files-financial-crime-case-study",
-      "author": "John Cusack",
-      "published": "2026-03-06T12:07:01",
-      "summary": "\n\nFor a summary Financial Crime Case Study on the Epstein Files see HERE:\nFor a Financial Crime Case Study on the Epstein Files and long form chronology see HERE: JE Key Takeaways Master...\n\n\nYou need premium membership to view this post. If you are a premium member then please login otherwise register here to access the contents.\n\n\n      \n\nThe post Epstein Files: Financial Crime Case Study &#8211; Lessons Learned &amp; Long Form Chronology - &lt;span class=&quot;premium-text&quot;&gt;Premium&lt",
-      "score": 1,
-      "score_breakdown": "+3 Presse | ×0.6 (>14d)",
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article examine le cas Epstein sous l'angle de la criminalité financière et du blanchiment d'argent."
     }
   ],
-  "last_update": "2026-04-05T07:35:57.903775+00:00",
+  "last_update": "2026-04-05T12:38:46.059952+00:00",
   "last_updated": "2026-03-31T20:26:00.316175+00:00"
 }
