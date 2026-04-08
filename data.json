@@ -580,7 +580,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la mise en œuvre des mesures de gel des avoirs, une obligation de conformité réglementaire majeure."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la mise en œuvre des mesures de gel des avoirs, obligation légale de conformité réglementaire."
     },
     {
       "hash": "91f8d2a715e4ec5b",
@@ -619,6 +619,24 @@
       "ai_summary": "L'AMF rapporte les résultats de ses contrôles SPOT évaluant la conformité et les contrôles internes des sociétés de gestion d'actifs."
     },
     {
+      "hash": "00ac6f04905a234d",
+      "source_name": "CNIL",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Municipales 2026 : le bilan de l’observatoire des élections de la CNIL",
+      "url": "https://www.cnil.fr/fr/municipales-2026-bilan-observatoire",
+      "author": "CNIL",
+      "published": "2026-04-08T12:00:00",
+      "summary": "À l’occasion des élections municipales des 15 et 22&amp;nbsp;mars 2026, la CNIL a reçu 739&amp;nbsp;signalements, majoritairement pour des opérations de prospection par SMS (63&amp;nbsp;%), et a instruit 81&amp;nbsp;plaintes. À ce stade, quatre contrôles ont été engagés, ainsi qu’une procédure de sanction simplifiée.",
+      "score": 97,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: cnil | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
       "hash": "4879b000edc2a551",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -634,7 +652,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cette nomination concerne la gouvernance de l'ACPR, autorité en charge de la supervision et de la conformité financière des établissements bancaires et d'assurance."
+      "ai_summary": "Philippe Mongars rejoint l'ACPR pour renforcer la supervision prudentielle et la conformité bancaire et d'assurance."
     },
     {
       "hash": "5f7f97a2a1ec6a03",
@@ -1051,6 +1069,24 @@
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'adoption d'un paquet législatif anti-blanchiment par l'UE.",
       "score_breakdown": "+20 mots critiques: blanchiment, money laundering | +20 mots forts: aml, anti-money, amla | +15 Source EU | +10 Géo EU: conseil de l'ue, amla | ×1.0 (7d)"
+    },
+    {
+      "hash": "b6086d2f28dce231",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "MUTUELLE DE POITIERS - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vYVVtMVN4VnljQmhnWW1abXpWNWVGLUhIMXNSdG5ka3AyZmVVUEtLQjRMTDd1LTdhM0dxM3BsVktrMTZocXhpOUpIXzFCWUc2Tlo1TEZ3SkI?oc=5",
+      "author": "",
+      "published": "2026-04-06T10:06:30",
+      "summary": "MUTUELLE DE POITIERS&nbsp;&nbsp;Banque de France",
+      "score": 60,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "09fac48e29a16bfd",
@@ -1508,6 +1544,42 @@
       "ai_summary": "BaFin classe le risque de blanchiment et financement du terrorisme en cryptomonnaies comme priorité majeure de conformité."
     },
     {
+      "hash": "09d2e8b03a2dbf52",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rVC1NYnNyRVNFMzVTLWhkSmNTNXo0Tll4UkVGZGlXUEJmVkFVS0UyNnBLS0IwbnlHUlFCczVTRkxrSmVIVUJkMVNCeVBUWkhIdVVudkxRWGNFT0ZwQ21KM3pQUGQyQQ?oc=5",
+      "author": "",
+      "published": "2026-04-02T18:53:17",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "cc433dffd09dc18f",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "View PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ud0hFNEZDS2E3YS1nV3Q0NDRfVTlkX2pScTBkSGpQTGRMVllnWjZ3UnpvY0xZLWlRaDg1dUcxMW5IbmZWeGIzMTZWbl9RUXU2WFFORUt1eE9SekpFWE1hR2k5S0xjUQ?oc=5",
+      "author": "",
+      "published": "2026-04-01T18:17:49",
+      "summary": "View PDF&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "1ba7cc5de2d53605",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -1524,42 +1596,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car ERV Försäkringsaktiebolag est une assurance supervisée par l'ACPR."
-    },
-    {
-      "hash": "7bb784d7aeac4e5c",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "View PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85R3BLREFNTXowT1FXV25KUzFhTndUWWJXSlZrNjNyQzNfM3FUNFhIU1NDMTlwc3FuWERnVHROd1BDa240cnVMVkNfX2VWamNreTRTV2U3NllCRTJrWWEtblpKOVNlZw?oc=5",
-      "author": "",
-      "published": "2026-04-01T15:10:57",
-      "summary": "View PDF&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "b43ef6067fbbbc5c",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Vue PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05dnpLQWpvRHBwQ0U0RTlKaTZ4YXVRSVc1Y0wweWYzOXJiZ3k3cl9ySy1RckhYRnp2emRmcmhVd1dQNkRoMGEyd2pkTEpJUWhhNF9YTWQtbWpURElPWThmajhLanNQdw?oc=5",
-      "author": "",
-      "published": "2026-04-01T10:06:58",
-      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9d515d27b910303b",
@@ -1856,7 +1892,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "05261a2eae254e52",
@@ -2402,7 +2438,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8e91bd04eff344fb",
@@ -3471,7 +3507,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1bd161ea73a4b0c7",
@@ -3489,7 +3525,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f7fd8fdcd0756154",
@@ -3709,7 +3745,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "336fe20ef1d1d6d5",
@@ -4025,7 +4061,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'un contentieux administratif impliquant un service public départemental et potentiellement des enjeux de corruption."
     },
     {
       "hash": "88e65851fd13b5f8",
@@ -4248,22 +4284,22 @@
       "ai_summary": "La Banque mondiale poursuit des sanctions contre des entreprises pour corruption et exige une restitution dans une affaire de pot-de-vin."
     },
     {
-      "hash": "28f6307aa5f48ad6",
-      "source_name": "Conseil d'État (JURICAF)",
+      "hash": "cebb91bc44ba632c",
+      "source_name": "Cass. - Fraude",
       "source_type": "rss",
       "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de BORDEAUX, 1ère chambre, 02 avril 2026, 23BX02323",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEBORDEAUX-20260402-23BX02323",
+      "title": "France, Cour administrative d'appel de BORDEAUX, 1ère chambre, 02 avril 2026, 25BX01442",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEBORDEAUX-20260402-25BX01442",
       "author": "1ère chambre",
       "published": "2026-04-02T12:00:00",
-      "summary": "Vu la procédure suivante :           Par une requête et des mémoires complémentaires, enregistrés les 28 août 2023, 14 mars et 19 mai 2025, ce dernier mémoire n'ayant pas été communiqué, la société par actions simplifiée SAS Ferme Éolienne de Saint-Médard d'Aunis, représentée par Me Versini-Campinchi, demande à la cour :            1° d'annuler l'arrêté du 26 juin 2023 par lequel le préfet de la Charente-Maritime a refusé de lui délivrer une autorisation environnementale pour la création et l'ex",
+      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           Mme C... D... a demandé au tribunal administratif de la Guadeloupe d'annuler la décision du 14 décembre 2024 par laquelle la commune de Baie-Mahault a implicitement rejeté sa demande tendant au retrait du permis de construire n° PC97110323R1021 délivré à M. B... A... sur autorisation tacite, suite à une demande déposée le 13 février 2023, et a ce qu'il soit ordonné l'arrêt des travaux.           Par une ordonnance",
       "score": 25,
       "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.0 (7d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c1e565000fe24d5f",
@@ -4281,7 +4317,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b7b76a1895bb",
@@ -5067,7 +5103,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "79e6333b763b5136",
@@ -5341,24 +5377,6 @@
       "ai_summary": "Cet article concerne la conformité fiscale : il traite d'une cotisation supplémentaire d'impôt sur les sociétés contestée par une entreprise."
     },
     {
-      "hash": "ebf1b1b1955cede1",
-      "source_name": "Cass. - Blanchiment",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de TOULOUSE, 4ème chambre, 26 mars 2026, 23TL02268",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDETOULOUSE-20260326-23TL02268",
-      "author": "4ème chambre",
-      "published": "2026-03-26T12:00:00",
-      "summary": "68-04-045 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. ... Vu la procédure suivante :           Procédures contentieuses antérieures :           Sous le n° 2205268, la société anonyme SA Bouygues Telecom et la société par actions simplifiée SAS Cellnex France ont demandé au tribunal administratif de Montpellier d'annuler l'arrêté du 12 août 2022 par lequel le maire de Saint-Gély-du-Fesc s'est opposé à la déclaration ",
-      "score": 20,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "dcf615b2be369a6a",
       "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
@@ -5368,6 +5386,24 @@
       "author": "1ère chambre",
       "published": "2026-03-26T12:00:00",
       "summary": "Vu la procédure suivante :            Procédure contentieuse antérieure :           L'association pour la suppression des pollutions industrielles ASPI a demandé au tribunal administratif de Lille d'annuler l'arrêté du 29 mai 2018 par lequel le préfet du Nord a accordé à la métropole européenne de Lille MEL une autorisation d'aménagement de la zone d'aménagement concerté Saint-Sauveur au titre de l'article L. 214-3 du code de l'environnement.           Par un jugement avant dire droit du 14 octo",
+      "score": 20,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "ebf1b1b1955cede1",
+      "source_name": "Cass. - Blanchiment",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de TOULOUSE, 4ème chambre, 26 mars 2026, 23TL02268",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDETOULOUSE-20260326-23TL02268",
+      "author": "4ème chambre",
+      "published": "2026-03-26T12:00:00",
+      "summary": "68-04-045 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. ... Vu la procédure suivante :           Procédures contentieuses antérieures :           Sous le n° 2205268, la société anonyme SA Bouygues Telecom et la société par actions simplifiée SAS Cellnex France ont demandé au tribunal administratif de Montpellier d'annuler l'arrêté du 12 août 2022 par lequel le maire de Saint-Gély-du-Fesc s'est opposé à la déclaration ",
       "score": 20,
       "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
       "doc_type": null,
@@ -6076,7 +6112,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "394b7e82df8f3e55",
@@ -6573,7 +6609,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b20bafa97e384a1e",
@@ -6610,7 +6646,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b96d5e24b5ee6e97",
@@ -6628,7 +6664,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "af137f10343653c1",
@@ -7688,6 +7724,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de corruption et de pratiques frauduleuses contraires aux règles de conformité."
     }
   ],
-  "last_update": "2026-04-08T03:37:27.544626+00:00",
+  "last_update": "2026-04-08T07:09:03.550732+00:00",
   "last_updated": "2026-03-31T20:26:00.316175+00:00"
 }
