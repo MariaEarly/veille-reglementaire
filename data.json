@@ -580,7 +580,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la mise en œuvre des mesures de gel des avoirs, obligation de conformité réglementaire pour les établissements financiers."
+      "ai_summary": "L'article concerne la conformité financière car il traite de la mise en œuvre des mesures de gel des avoirs, obligation de compliance bancaire et de sanctions financières."
     },
     {
       "hash": "91f8d2a715e4ec5b",
@@ -833,6 +833,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet arrêté concerne la gouvernance et la gestion des ressources humaines de l'AFD, non la conformité financière stricto sensu."
+    },
+    {
+      "hash": "47b16c68c3e2687f",
+      "source_name": "FinCEN",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Permitted Payment Stablecoin Issuer Anti-Money Laundering/Countering the Financing of Terrorism Program and Sanctions Compliance Program Requirements",
+      "url": "https://www.fincen.gov/resources/statutes-regulations/federal-register-notices/permitted-payment-stablecoin-issuer-anti",
+      "author": "",
+      "published": "2026-04-08T00:00:00",
+      "summary": "",
+      "score": 75,
+      "score_breakdown": "+20 mots critiques: sanction, money laundering | +20 mots forts: compliance, anti-money | +5 mots moyens: payment | +5 Source Intl | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "41edb5a3bb03306a",
@@ -1544,32 +1562,14 @@
       "ai_summary": "BaFin classe le risque de blanchiment et financement du terrorisme en cryptomonnaies comme priorité majeure de conformité."
     },
     {
-      "hash": "09d2e8b03a2dbf52",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Vue PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rVC1NYnNyRVNFMzVTLWhkSmNTNXo0Tll4UkVGZGlXUEJmVkFVS0UyNnBLS0IwbnlHUlFCczVTRkxrSmVIVUJkMVNCeVBUWkhIdVVudkxRWGNFT0ZwQ21KM3pQUGQyQQ?oc=5",
-      "author": "",
-      "published": "2026-04-02T18:53:17",
-      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "cc433dffd09dc18f",
+      "hash": "e373887c2c2da906",
       "source_name": "ACPR",
       "source_type": "rss",
       "category": "autorite_fr",
       "title": "View PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ud0hFNEZDS2E3YS1nV3Q0NDRfVTlkX2pScTBkSGpQTGRMVllnWjZ3UnpvY0xZLWlRaDg1dUcxMW5IbmZWeGIzMTZWbl9RUXU2WFFORUt1eE9SekpFWE1hR2k5S0xjUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56eGdqLU9OSnI4VmwyWkNWYnJpbjdNRWxPM2pQMzQtanp5MTEyc0kzeGRHZDBfQmZvR1g4aXJRYVVtTXZvTWN6cjJ2V2NzSG9oRV95UFEyUUpyMXdickdfVkF1OEVEQQ?oc=5",
       "author": "",
-      "published": "2026-04-01T18:17:49",
+      "published": "2026-04-05T04:42:48",
       "summary": "View PDF&nbsp;&nbsp;Banque de France",
       "score": 50,
       "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
@@ -1577,7 +1577,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "a1d2dd59532e28b8",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cjVxTndReHVFRXpqY0dneUdObWIxSWphU2doOWRqekRFTE5UcmpsN25WVk1aaHVKcGdjV1hpWWpPVmNIQVh6T1BJZEpXOThzODBZN2laYzBpVzhBTE5WWkwwLUJxUQ?oc=5",
+      "author": "",
+      "published": "2026-04-03T16:47:55",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "1ba7cc5de2d53605",
@@ -1785,6 +1803,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de fraude, de collusion et de sanctions de la Banque mondiale contre des entités PwC."
     },
     {
+      "hash": "5eb306af2e80be75",
+      "source_name": "ComplyAdvantage",
+      "source_type": "press",
+      "category": "presse",
+      "title": "CBN’s Baseline Standards for Automated AML/CFT/CPF Solutions: What you need to know",
+      "url": "https://complyadvantage.com/insights/cbns-baseline-standards-for-automated-aml-cft-cpf-solutions-what-you-need-to-know/",
+      "author": "Audrey Langevin",
+      "published": "2026-04-08T14:31:25",
+      "summary": "The era of manual compliance in Nigeria is officially over. To reinforce the country’s economy and meet the Financial Action Task Force (FATF) global standards, in March 2026, the Central Bank of Nigeria (CBN) updated its Baseline Standards for Automated [&#8230;]\nThe post CBN’s Baseline Standards for Automated AML/CFT/CPF Solutions: What you need to know appeared first on ComplyAdvantage.",
+      "score": 49,
+      "score_breakdown": "+20 mots forts: aml, cft, compliance | +10 mots moyens: bank, ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "6b089641fd667e48",
       "source_name": "OCCRP",
       "source_type": "email",
@@ -1892,7 +1928,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2b786dabe1fa5416",
@@ -1910,7 +1946,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "513fae72938defe4",
@@ -2405,6 +2441,24 @@
       "ai_summary": "Les autorités de surveillance européennes identifient des risques accrus, relevant de la conformité réglementaire et financière."
     },
     {
+      "hash": "e6a2df53ff8960a2",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Judge grants ENRC’s demand for SFO investigator to explain legal bills",
+      "url": "https://globalinvestigationsreview.com/article/judge-grants-enrcs-demand-sfo-investigator-explain-legal-bills",
+      "author": "Grace Propheta",
+      "published": "2026-04-08T14:16:34",
+      "summary": "A Serious Fraud Office investigator accused the Kazakh mining company of trying to derail his attempt to claw back the cost of defending a lawsuit that saw him accused of leaking confidential investigation details to the media.",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: sfo | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "48dd51159e2eed0d",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -2420,7 +2474,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions économiques contre l'Iran et de leurs possibles modifications."
     },
     {
       "hash": "3ffbc2df09914ccb",
@@ -2438,7 +2492,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la fraude, élément clé de la compliance financière et de l'intégrité des marchés."
     },
     {
       "hash": "8e91bd04eff344fb",
@@ -2528,7 +2582,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article explique le droit au compte, une obligation réglementaire bancaire garantissant l'accès à des services bancaires minimaux."
     },
     {
       "hash": "34fa35e2633ba175",
@@ -3525,7 +3579,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la simplification réglementaire et du respect de la réglementation (compliance) de la pêche européenne."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du respect de la réglementation UE sur le contrôle de la pêche et de la simplification administrative."
     },
     {
       "hash": "1bd161ea73a4b0c7",
@@ -3543,7 +3597,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f7fd8fdcd0756154",
@@ -3763,7 +3817,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "336fe20ef1d1d6d5",
@@ -4079,7 +4133,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "88e65851fd13b5f8",
@@ -4190,7 +4244,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'avenir de la compliance et de son optimisation par l'IA."
     },
     {
       "hash": "190768747fc755d7",
@@ -4335,7 +4389,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c1e565000fe24d5f",
@@ -4353,7 +4407,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b7b76a1895bb",
@@ -4817,42 +4871,6 @@
       "ai_summary": "Cet article concerne les risques climatiques et de transition énergétique, enjeux majeurs de la conformité financière et prudentielle."
     },
     {
-      "hash": "f74495fff7b9b00e",
-      "source_name": "FATF/GAFI (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "💼 Secondment opportunity with FATF regional partner, MONEYVAL👇 @coe's MONEYVAL assesses 33 countries' & jurisdictions' compliance with international standards to counter money laundering, terrorist financing & proliferation financing 🔗  #AML #Jobs",
-      "url": "https://x.com/FATFNews/status/2031063122929184890",
-      "author": "@FATFNews",
-      "published": "2026-03-09T17:42:00",
-      "summary": "💼 Secondment opportunity with FATF regional partner, MONEYVAL👇 @coe's MONEYVAL assesses 33 countries' & jurisdictions' compliance with international standards to counter money laundering, terrorist financing & proliferation financing🔗 talents.coe.int/en_GB/career… #AML  #Jobs— FATF (@FATFNews) Mar 9, 2026",
-      "score": 24,
-      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, compliance, fatf | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "MONEYVAL évalue la conformité de 33 pays aux normes internationales contre le blanchiment et le financement du terrorisme."
-    },
-    {
-      "hash": "ef0b246a1902a9da",
-      "source_name": "FATF/GAFI (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "💼FATF regional partner, MONEYVAL, is hiring a Programme Manager 👇 @coe's MONEYVAL assesses 33 countries' & jurisdictions' compliance with international standards to counter money laundering, terrorist financing and proliferation financing 🔗  #AML #Jobs",
-      "url": "https://x.com/FATFNews/status/2031059306565558746",
-      "author": "@FATFNews",
-      "published": "2026-03-09T17:27:00",
-      "summary": "💼FATF regional partner, MONEYVAL, is hiring a Programme Manager 👇 @coe's MONEYVAL assesses 33 countries' & jurisdictions' compliance with international standards to counter money laundering, terrorist financing and proliferation financing🔗 talents.coe.int/en_GB/career… #AML  #Jobs— FATF (@FATFNews) Mar 9, 2026",
-      "score": 24,
-      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, compliance, fatf | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "MONEYVAL évalue la conformité de 33 pays aux normes internationales contre le blanchiment d'argent et le financement du terrorisme."
-    },
-    {
       "hash": "06a16891bc1631cb",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -5139,7 +5157,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière dans le secteur biotechnologique en établissant des garde-fous pour la protection des données de santé sensibles."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "79e6333b763b5136",
@@ -5413,24 +5431,6 @@
       "ai_summary": "Cet article concerne la conformité fiscale : il traite d'une cotisation supplémentaire d'impôt sur les sociétés contestée par une entreprise."
     },
     {
-      "hash": "ebf1b1b1955cede1",
-      "source_name": "Cass. - Blanchiment",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de TOULOUSE, 4ème chambre, 26 mars 2026, 23TL02268",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDETOULOUSE-20260326-23TL02268",
-      "author": "4ème chambre",
-      "published": "2026-03-26T12:00:00",
-      "summary": "68-04-045 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. ... Vu la procédure suivante :           Procédures contentieuses antérieures :           Sous le n° 2205268, la société anonyme SA Bouygues Telecom et la société par actions simplifiée SAS Cellnex France ont demandé au tribunal administratif de Montpellier d'annuler l'arrêté du 12 août 2022 par lequel le maire de Saint-Gély-du-Fesc s'est opposé à la déclaration ",
-      "score": 20,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "dcf615b2be369a6a",
       "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
@@ -5440,6 +5440,24 @@
       "author": "1ère chambre",
       "published": "2026-03-26T12:00:00",
       "summary": "Vu la procédure suivante :            Procédure contentieuse antérieure :           L'association pour la suppression des pollutions industrielles ASPI a demandé au tribunal administratif de Lille d'annuler l'arrêté du 29 mai 2018 par lequel le préfet du Nord a accordé à la métropole européenne de Lille MEL une autorisation d'aménagement de la zone d'aménagement concerté Saint-Sauveur au titre de l'article L. 214-3 du code de l'environnement.           Par un jugement avant dire droit du 14 octo",
+      "score": 20,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "ebf1b1b1955cede1",
+      "source_name": "Cass. - Blanchiment",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de TOULOUSE, 4ème chambre, 26 mars 2026, 23TL02268",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDETOULOUSE-20260326-23TL02268",
+      "author": "4ème chambre",
+      "published": "2026-03-26T12:00:00",
+      "summary": "68-04-045 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. ... Vu la procédure suivante :           Procédures contentieuses antérieures :           Sous le n° 2205268, la société anonyme SA Bouygues Telecom et la société par actions simplifiée SAS Cellnex France ont demandé au tribunal administratif de Montpellier d'annuler l'arrêté du 12 août 2022 par lequel le maire de Saint-Gély-du-Fesc s'est opposé à la déclaration ",
       "score": 20,
       "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
       "doc_type": null,
@@ -6148,7 +6166,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "394b7e82df8f3e55",
@@ -6185,24 +6203,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite du respect des sanctions UE par les PME."
-    },
-    {
-      "hash": "dbca63f87868742f",
-      "source_name": "AMF France (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "[#Médiation] #EpargneSalariale : avantages et inconvénients du regroupement des plans d’épargne entreprise. Le décryptage de Rémi Bouchez ➡️",
-      "url": "https://x.com/AMF_actu/status/2031047497909444666",
-      "author": "@AMF_actu",
-      "published": "2026-03-09T16:40:00",
-      "summary": "[ #Médiation]  #EpargneSalariale : avantages et inconvénients du regroupement des plans d’épargne entreprise.Le décryptage de Rémi Bouchez ➡️  cutt.ly/XtTcBO3c— AMF (@AMF_actu) Mar 9, 2026",
-      "score": 18,
-      "score_breakdown": "+10 mots forts: amf | +20 Géo FR: amf | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'article traite de la conformité des plans d'épargne salariale, notamment leur regroupement et la gouvernance associée."
     },
     {
       "hash": "e715d1ab4c91e248",
@@ -6645,7 +6645,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b20bafa97e384a1e",
@@ -6682,25 +6682,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "b96d5e24b5ee6e97",
-      "source_name": "EBA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "⏳ One week to go! The EUAN Green Network Conference takes place on 16 March, 13:00. 🌿 Speakers from the #OECD and #ECA will discuss how AI can boost Europe’s green transition. 🔗Register here:  (EU institutions/international organisations staff only)",
-      "url": "https://x.com/EBA_News/status/2031047756760916039",
-      "author": "@EBA_News",
-      "published": "2026-03-09T16:41:00",
-      "summary": "⏳ One week to go!The EUAN Green Network Conference takes place on 16 March, 13:00. 🌿Speakers from the  #OECD and  #ECA will discuss how AI can boost Europe’s green transition.🔗Register here:  shorturl.at/xkPGG (EU institutions/international organisations staff only)— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Mar 9, 2026",
-      "score": 15,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "af137f10343653c1",
@@ -7123,7 +7105,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article analyse les données sur les mesures de conformité imposées aux entreprises violant la loi FCPA sur la corruption."
     },
     {
       "hash": "63139951bf4a3a67",
@@ -7141,7 +7123,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les règlements FCPA impliquent le respect de la loi anticorruption américaine, élément clé de la conformité financière et réglementaire."
     },
     {
       "hash": "b5ab1c7288c0cb36",
@@ -7159,7 +7141,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il analyse les résolutions FCPA, loi anti-corruption imposant la conformité aux entreprises internationales."
     },
     {
       "hash": "307afc28c7ac7265",
@@ -7177,7 +7159,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les monitorships FCPA impliquent la surveillance de la conformité aux lois anti-corruption américaines par un tiers indépendant."
     },
     {
       "hash": "a4eb39af2fade7c8",
@@ -7360,6 +7342,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du cadre réglementaire harmonisé (Single Rulebook) applicable aux banques de la zone euro.",
       "score_breakdown": "+10 mots moyens: supervisory, bank | ×0.8 (14d)",
       "is_primary": false
+    },
+    {
+      "hash": "4000a79f6ff9d423",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Treasury Proposes Rule to Implement the GENIUS Act's Requirements to Counter Illicit Finance | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260408_33",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-04-08T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "ee9757a319cb8612",
@@ -7598,6 +7598,24 @@
       "is_primary": true
     },
     {
+      "hash": "83c9f2ae6a11801e",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Le prix de référence du gaz va augmenter pour des millions de ménages dès le 1ᵉʳ mai, sur fond de guerre au Moyen-Orient",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/08/le-prix-de-reference-du-gaz-va-augmenter-pour-des-millions-de-menages-des-le-1-mai-sur-fond-de-guerre-au-moyen-orient_6678283_3234.html",
+      "author": "",
+      "published": "2026-04-08T14:31:10",
+      "summary": "La Commission de régulation de l’énergie a annoncé, mercredi, que 73 % des abonnés résidentiels au gaz verront leur facture mensuelle augmenter de 6,19 euros TTC en moyenne au mois de mai.",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "f9864b5648e5cdeb",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -7613,7 +7631,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "129a5a8c4c40af47",
@@ -7832,6 +7850,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de corruption et de pratiques frauduleuses contraires aux règles de conformité."
     }
   ],
-  "last_update": "2026-04-08T14:07:07.651015+00:00",
+  "last_update": "2026-04-08T19:04:37.942621+00:00",
   "last_updated": "2026-03-31T20:26:00.316175+00:00"
 }
