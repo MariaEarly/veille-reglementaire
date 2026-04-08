@@ -580,7 +580,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la mise en œuvre des mesures de gel des avoirs, obligation légale de conformité réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la mise en œuvre des mesures de gel des avoirs, obligation de conformité réglementaire pour les établissements financiers."
     },
     {
       "hash": "91f8d2a715e4ec5b",
@@ -1086,7 +1086,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il mentionne une mutuelle supervisée par l'ACPR."
     },
     {
       "hash": "09fac48e29a16bfd",
@@ -1559,7 +1559,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "cc433dffd09dc18f",
@@ -1577,7 +1577,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1ba7cc5de2d53605",
@@ -1892,25 +1892,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "05261a2eae254e52",
-      "source_name": "Ministère de la Justice (CJIP)",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Sortants de prison en 2021 : stabilité de la récidive un an après la libération",
-      "url": "https://www.justice.gouv.fr/documentation/etudes-et-statistiques/sortants-prison-2021-stabilite-recidive-apres-liberation",
-      "author": "HABIMANA Emmanuel",
-      "published": "2026-04-02T10:00:11",
-      "summary": "Sortants de prison en 2021 : stabilité de la récidive un an après la libération\nHABIMANA Emmanuel\njeu 02/04/2026 - 12:00\n\n      \n\n  \n\n\n  \n        Parmi les sortants de prison en 2021, 34,2 % ont à nouveau été condamnés pour une infraction commise dans l’année qui a suivi leur libération, sanctionnée par une condamnation ou composition pénale enregistrée au Casier judiciaire national. La récidive à un an marque ainsi une stabilité par rapport aux sortants de prison en 2020 (+ 0,1 point).\nNéanmoin",
-      "score": 45,
-      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "2b786dabe1fa5416",
@@ -1928,7 +1910,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "513fae72938defe4",
@@ -2423,6 +2405,24 @@
       "ai_summary": "Les autorités de surveillance européennes identifient des risques accrus, relevant de la conformité réglementaire et financière."
     },
     {
+      "hash": "48dd51159e2eed0d",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Quelques heures après l'annonce du cessez-le-feu, Donald Trump affirme que les États-Unis \"discutent d'un allègement des droits de douane et des sanctions avec l'Iran\"",
+      "url": "https://www.bfmtv.com/economie/international/quelques-heures-apres-l-annonce-du-cessez-le-feu-donald-trump-affirme-que-les-etats-unis-discutent-d-un-allegement-des-droits-de-douane-et-des-sanctions-avec-l-iran_AD-202604080515.html",
+      "author": "",
+      "published": "2026-04-08T11:51:16",
+      "summary": "Alors que Washington et Téhéran se sont accordés sur un cessez-le-feu de deux semaines, le président américain a déclaré mercredi que les États-Unis allaient \"discuter\" d'un \"allègement des droits de douane et des sanctions\" avec l'Iran.",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: états-unis | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "3ffbc2df09914ccb",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -2438,7 +2438,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8e91bd04eff344fb",
@@ -2511,6 +2511,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions et des transactions fictives utilisées pour contourner les restrictions."
+    },
+    {
+      "hash": "3a10e498bcde55cc",
+      "source_name": "Banque de France (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "➡️ \"Le droit au compte n'est pas ouvert à tout le monde !\" ➡️ \"Sans lettre de refus de ma banque, je ne peux pas bénéficier du droit au compte.\" ➡️ \"Si je suis interdit bancaire, je n'ai pas droit au droit au compte !\" Toutes ces affirmations sont fausses ! Retrouvez dès maintenant certaines idées reçues sur le droit au compte, et rendez-vous sur notre site internet pour trouver des réponses à vos questions 👉",
+      "url": "https://x.com/banquedefrance/status/2041797027357426078",
+      "author": "@banquedefrance",
+      "published": "2026-04-08T08:35:00",
+      "summary": "➡️ \"Le droit au compte n'est pas ouvert à tout le monde !\"➡️ \"Sans lettre de refus de ma banque, je ne peux pas bénéficier du droit au compte.\"➡️ \"Si je suis interdit bancaire, je n'ai pas droit au droit au compte !\"Toutes ces affirmations sont fausses ! Retrouvez dès maintenant certaines idées reçues sur le droit au compte, et rendez-vous sur notre site internet pour trouver des réponses à vos questions 👉  banque-france.fr/fr Video  — Banque de France (@banquedefrance) Apr 8, 2026",
+      "score": 37,
+      "score_breakdown": "+5 mots moyens: banque | +20 Géo FR: france, banque de france | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "34fa35e2633ba175",
@@ -3507,7 +3525,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la simplification réglementaire et du respect de la réglementation (compliance) de la pêche européenne."
     },
     {
       "hash": "1bd161ea73a4b0c7",
@@ -3525,7 +3543,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f7fd8fdcd0756154",
@@ -3745,7 +3763,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "336fe20ef1d1d6d5",
@@ -4061,7 +4079,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'un contentieux administratif impliquant un service public départemental et potentiellement des enjeux de corruption."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "88e65851fd13b5f8",
@@ -4155,6 +4173,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les auditions publiques organisées par l'AMLA, l'autorité anti-blanchiment de l'UE, relevant de la conformité AML/CFT."
+    },
+    {
+      "hash": "eee0083a7128a8cf",
+      "source_name": "ComplyAdvantage",
+      "source_type": "press",
+      "category": "presse",
+      "title": "The Future of Compliance North America",
+      "url": "https://complyadvantage.com/insights/the-future-of-compliance-north-america/",
+      "author": "Marc Koskela",
+      "published": "2026-04-08T10:57:33",
+      "summary": "Turn compliance into a competitive advantage. Join senior leaders on May 13 for a closed-door virtual summit on AI, efficiency, and the future of compliance.\nThe post The Future of Compliance North America appeared first on ComplyAdvantage.",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "190768747fc755d7",
@@ -4299,7 +4335,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c1e565000fe24d5f",
@@ -4317,7 +4353,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b7b76a1895bb",
@@ -5103,7 +5139,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière dans le secteur biotechnologique en établissant des garde-fous pour la protection des données de santé sensibles."
     },
     {
       "hash": "79e6333b763b5136",
@@ -5377,24 +5413,6 @@
       "ai_summary": "Cet article concerne la conformité fiscale : il traite d'une cotisation supplémentaire d'impôt sur les sociétés contestée par une entreprise."
     },
     {
-      "hash": "dcf615b2be369a6a",
-      "source_name": "Cass. - Blanchiment",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de DOUAI, 1ère chambre, 26 mars 2026, 23DA01413",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEDOUAI-20260326-23DA01413",
-      "author": "1ère chambre",
-      "published": "2026-03-26T12:00:00",
-      "summary": "Vu la procédure suivante :            Procédure contentieuse antérieure :           L'association pour la suppression des pollutions industrielles ASPI a demandé au tribunal administratif de Lille d'annuler l'arrêté du 29 mai 2018 par lequel le préfet du Nord a accordé à la métropole européenne de Lille MEL une autorisation d'aménagement de la zone d'aménagement concerté Saint-Sauveur au titre de l'article L. 214-3 du code de l'environnement.           Par un jugement avant dire droit du 14 octo",
-      "score": 20,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "ebf1b1b1955cede1",
       "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
@@ -5404,6 +5422,24 @@
       "author": "4ème chambre",
       "published": "2026-03-26T12:00:00",
       "summary": "68-04-045 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. ... Vu la procédure suivante :           Procédures contentieuses antérieures :           Sous le n° 2205268, la société anonyme SA Bouygues Telecom et la société par actions simplifiée SAS Cellnex France ont demandé au tribunal administratif de Montpellier d'annuler l'arrêté du 12 août 2022 par lequel le maire de Saint-Gély-du-Fesc s'est opposé à la déclaration ",
+      "score": 20,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "dcf615b2be369a6a",
+      "source_name": "Cass. - Blanchiment",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de DOUAI, 1ère chambre, 26 mars 2026, 23DA01413",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEDOUAI-20260326-23DA01413",
+      "author": "1ère chambre",
+      "published": "2026-03-26T12:00:00",
+      "summary": "Vu la procédure suivante :            Procédure contentieuse antérieure :           L'association pour la suppression des pollutions industrielles ASPI a demandé au tribunal administratif de Lille d'annuler l'arrêté du 29 mai 2018 par lequel le préfet du Nord a accordé à la métropole européenne de Lille MEL une autorisation d'aménagement de la zone d'aménagement concerté Saint-Sauveur au titre de l'article L. 214-3 du code de l'environnement.           Par un jugement avant dire droit du 14 octo",
       "score": 20,
       "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
       "doc_type": null,
@@ -6112,7 +6148,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "394b7e82df8f3e55",
@@ -6609,7 +6645,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b20bafa97e384a1e",
@@ -6646,7 +6682,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b96d5e24b5ee6e97",
@@ -6664,7 +6700,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "af137f10343653c1",
@@ -7070,6 +7106,78 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La FinCEN propose un règlement pour rémunérer les lanceurs d'alerte, renforçant la conformité en incitant la dénonciation de fraudes financières."
+    },
+    {
+      "hash": "a943d58d62992c9b",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "FCPA monitorships: data analysis",
+      "url": "https://globalinvestigationsreview.com/survey/fcpa-counsel-tracker/fcpa-counsel-tracker/article/fcpa-monitorships-data-analysis",
+      "author": "",
+      "published": "2026-04-08T07:00:00",
+      "summary": "",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: fcpa | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "63139951bf4a3a67",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "FCPA Settlements: counsel dataset",
+      "url": "https://globalinvestigationsreview.com/survey/fcpa-counsel-tracker/fcpa-counsel-tracker/article/fcpa-resolutions-counsel-dataset",
+      "author": "",
+      "published": "2026-04-08T07:00:00",
+      "summary": "",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: fcpa | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "b5ab1c7288c0cb36",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "FCPA Resolutions: data analysis",
+      "url": "https://globalinvestigationsreview.com/survey/fcpa-counsel-tracker/fcpa-counsel-tracker/article/fcpa-resolutions-data-analysis",
+      "author": "",
+      "published": "2026-04-08T07:00:00",
+      "summary": "",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: fcpa | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "307afc28c7ac7265",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "FCPA monitorships: counsel dataset",
+      "url": "https://globalinvestigationsreview.com/survey/fcpa-counsel-tracker/fcpa-counsel-tracker/article/fcpa-monitorships-counsel-dataset",
+      "author": "",
+      "published": "2026-04-08T07:00:00",
+      "summary": "",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: fcpa | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "a4eb39af2fade7c8",
@@ -7490,6 +7598,24 @@
       "is_primary": true
     },
     {
+      "hash": "f9864b5648e5cdeb",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "PFAS : « Les projets de dérégulation portés par les pouvoirs publics servent avant tout les intérêts des industriels »",
+      "url": "https://www.lemonde.fr/idees/article/2026/04/08/pfas-les-projets-de-deregulation-portes-par-les-pouvoirs-publics-servent-avant-tout-les-interets-des-industriels_6678227_3232.html",
+      "author": "",
+      "published": "2026-04-08T09:00:03",
+      "summary": "La déréglementation croissante de l’industrie chimique européenne mue par une recherche frénétique de compétitivité freine l’encadrement des polluants éternels et la protection des populations, alerte un collectif d’associations et de citoyens dans une tribune au « Monde ».",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "129a5a8c4c40af47",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7634,24 +7760,6 @@
       "ai_summary": "Cet article concerne les sanctions financières et les restrictions commerciales imposées à la Russie par les États-Unis."
     },
     {
-      "hash": "56e5637decfb920c",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Counter Terrorism Designations; Sudan-related Designation Update | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260309",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-03-09T12:00:00",
-      "summary": "",
-      "score": 3,
-      "score_breakdown": "+5 Source Intl | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions financières contre le Soudan, relevant de la conformité aux règles OFAC de lutte antiterroriste."
-    },
-    {
       "hash": "a27f74dd31c20047",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7724,6 +7832,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de corruption et de pratiques frauduleuses contraires aux règles de conformité."
     }
   ],
-  "last_update": "2026-04-08T07:57:27.075392+00:00",
+  "last_update": "2026-04-08T13:00:42.758469+00:00",
   "last_updated": "2026-03-31T20:26:00.316175+00:00"
 }
