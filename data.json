@@ -580,7 +580,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cette ordonnance modifie le cadre de surveillance bancaire et de conformité financière en transposant la directive européenne 2024/1619 concernant les pouvoirs de contrôle, les sanctions et les risques ESG."
+      "ai_summary": "Cette ordonnance transpose une directive européenne modifiant les règles prudentielles bancaires, notamment les pouvoirs de surveillance et les sanctions de l'autorité de régulation financière."
     },
     {
       "hash": "d9c5ceb22e9d4f7c",
@@ -598,7 +598,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la mise en œuvre des mesures de gel des avoirs, obligation légale de conformité réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la mise en œuvre des mesures de gel des avoirs, obligation de conformité réglementaire."
     },
     {
       "hash": "91f8d2a715e4ec5b",
@@ -635,24 +635,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'AMF rapporte les résultats de ses contrôles SPOT évaluant la conformité et les contrôles internes des sociétés de gestion d'actifs."
-    },
-    {
-      "hash": "00ac6f04905a234d",
-      "source_name": "CNIL",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Municipales 2026 : le bilan de l’observatoire des élections de la CNIL",
-      "url": "https://www.cnil.fr/fr/municipales-2026-bilan-observatoire",
-      "author": "CNIL",
-      "published": "2026-04-08T12:00:00",
-      "summary": "À l’occasion des élections municipales des 15 et 22&amp;nbsp;mars 2026, la CNIL a reçu 739&amp;nbsp;signalements, majoritairement pour des opérations de prospection par SMS (63&amp;nbsp;%), et a instruit 81&amp;nbsp;plaintes. À ce stade, quatre contrôles ont été engagés, ainsi qu’une procédure de sanction simplifiée.",
-      "score": 97,
-      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: cnil | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4879b000edc2a551",
@@ -763,6 +745,24 @@
       "ai_summary": "Cet arrêté régule l'accès aux ressources financières et applique les règles de lutte contre le blanchiment et le financement du terrorisme."
     },
     {
+      "hash": "00ac6f04905a234d",
+      "source_name": "CNIL",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Municipales 2026 : le bilan de l’observatoire des élections de la CNIL",
+      "url": "https://www.cnil.fr/fr/municipales-2026-bilan-observatoire",
+      "author": "CNIL",
+      "published": "2026-04-08T12:00:00",
+      "summary": "À l’occasion des élections municipales des 15 et 22&amp;nbsp;mars 2026, la CNIL a reçu 739&amp;nbsp;signalements, majoritairement pour des opérations de prospection par SMS (63&amp;nbsp;%), et a instruit 81&amp;nbsp;plaintes. À ce stade, quatre contrôles ont été engagés, ainsi qu’une procédure de sanction simplifiée.",
+      "score": 78,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: cnil | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
       "hash": "03004a25a369d6b4",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -851,6 +851,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet arrêté concerne la gouvernance et la gestion des ressources humaines de l'AFD, non la conformité financière stricto sensu."
+    },
+    {
+      "hash": "4a804a81cb74d81e",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "The EBA consults on revised Guidelines on limits on exposures to shadow banking entities under the Capital Requirements Regulation",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-revised-guidelines-limits-exposures-shadow-banking-entities-under-capital-requirements",
+      "author": "jana.jaklic@eba.europa.eu",
+      "published": "2026-04-09T12:30:00",
+      "summary": "The European Banking Authority (EBA) today launched a public consultation on revised Guidelines on limits on exposures to shadow banking entities carrying out banking activities outside a regulated framework. The revised Guidelines aim to align with the updated EU large-exposure reporting framework and to support sound risk management and governance practices across institutions.",
+      "score": 75,
+      "score_breakdown": "+10 mots forts: eba | +15 mots moyens: risk, regulation, bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": "GUIDELINES",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "47b16c68c3e2687f",
@@ -1107,6 +1125,24 @@
       "score_breakdown": "+20 mots critiques: blanchiment, money laundering | +20 mots forts: aml, anti-money, amla | +15 Source EU | +10 Géo EU: conseil de l'ue, amla | ×1.0 (7d)"
     },
     {
+      "hash": "7d26a5bf6cd762c2",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTYUJCT2VqT0VRNW9xeXFiY3ZDNmVQNy1vVW9Xc2dSVlo1M3R1dWxYQnJDZnRvdGZtdWZsLUpTX3N0cjluMUFLZ0dzaW1vVGh2RUI4Y0s4ZTBqNzBPblVscEJFb0wwZw?oc=5",
+      "author": "",
+      "published": "2026-04-07T20:48:57",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
+      "score": 60,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "b6086d2f28dce231",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -1268,6 +1304,24 @@
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la mise en œuvre des mesures de gel des avoirs, obligation de conformité réglementaire.",
       "score_breakdown": "+20 mots critiques: gel des avoirs | +10 mots forts: acpr | +25 Source FR | +20 Géo FR: acpr, dg trésor | ×0.8 (14d)"
+    },
+    {
+      "hash": "91004de9a09ebf5d",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "The EBA publishes list of known data point model issues to enhance transparency and support reporting institutions",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-list-known-data-point-model-issues-enhance-transparency-and-support-reporting",
+      "author": "jana.jaklic@eba.europa.eu",
+      "published": "2026-04-09T08:47:43",
+      "summary": "The European Banking Authority (EBA) today announced that it will begin publishing, on a regular basis, a list of known issues related to the data point model (DPM) framework. The list will include information on available workarounds and indicative timelines for resolution. This initiative is intended to improve transparency and to support reporting institutions by providing a single reference point for recurring technical questions.",
+      "score": 60,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "cf7cfe4912306e76",
@@ -1595,7 +1649,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1ba7cc5de2d53605",
@@ -1928,7 +1982,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "513fae72938defe4",
@@ -3182,7 +3236,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8433050665c21d22",
@@ -3561,7 +3615,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1bd161ea73a4b0c7",
@@ -3579,7 +3633,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f7fd8fdcd0756154",
@@ -3690,7 +3744,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la fraude au sein du Département de la Justice américain."
     },
     {
       "hash": "10ce74b78ded266d",
@@ -3762,7 +3816,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1c6479d6e76791a5",
@@ -3818,24 +3872,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la conformité financière en abordant les dimensions de durabilité et de compétitivité intégrant le cadre prudentiel bancaire."
-    },
-    {
-      "hash": "94326017497f1de3",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🤝A great way to head into the Easter break: the EBA welcomed the CPCP for the first time On 26–27 March, the #EBA was proud to hos...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7445394655053152256",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-04-02T09:00:15",
-      "summary": "🤝A great way to head into the Easter break: the EBA welcomed the CPCP for the first time\n\nOn 26–27 March, the #EBA was proud to host its first Collège des Présidents des Comités du Personnel (#CPCP) meeting, bringing together staff committee and unions’ representatives from across EU institutions, including the EC, EP, Court of Justice, ECB, European Ombudsman, EDPS, CoR, EESC, staff committees from Luxembourg and Brussels, the AASC Secretariat and the ESMA Staff Committee.\n\n👋 Participants were ",
-      "score": 30,
-      "score_breakdown": "+20 mots forts: eba, esma | +10 Géo EU: eba, esma, luxembourg | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "336fe20ef1d1d6d5",
@@ -4244,7 +4280,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il évoque les risques de sanctions et les frais illicites liés aux violations de restrictions commerciales en zone à risque géopolitique."
     },
     {
       "hash": "eee0083a7128a8cf",
@@ -4407,7 +4443,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c1e565000fe24d5f",
@@ -4425,7 +4461,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b7b76a1895bb",
@@ -4680,6 +4716,24 @@
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de fraude bancaire, d'évasion des sanctions et du non-respect des réglementations.",
       "score_breakdown": "+20 mots critiques: sanction, fraud | +5 mots moyens: bank | +5 Source Intl | ×0.8 (14d)"
+    },
+    {
+      "hash": "94326017497f1de3",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🤝A great way to head into the Easter break: the EBA welcomed the CPCP for the first time On 26–27 March, the #EBA was proud to hos...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7445394655053152256",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-04-02T09:00:15",
+      "summary": "🤝A great way to head into the Easter break: the EBA welcomed the CPCP for the first time\n\nOn 26–27 March, the #EBA was proud to host its first Collège des Présidents des Comités du Personnel (#CPCP) meeting, bringing together staff committee and unions’ representatives from across EU institutions, including the EC, EP, Court of Justice, ECB, European Ombudsman, EDPS, CoR, EESC, staff committees from Luxembourg and Brussels, the AASC Secretariat and the ESMA Staff Committee.\n\n👋 Participants were ",
+      "score": 24,
+      "score_breakdown": "+20 mots forts: eba, esma | +10 Géo EU: eba, esma, luxembourg | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "f3d2447be4944156",
@@ -5175,7 +5229,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "79e6333b763b5136",
@@ -5413,24 +5467,6 @@
       "is_primary": false
     },
     {
-      "hash": "3483853168a6ca63",
-      "source_name": "ESMA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "☑️ ESMA added the Markets in #CryptoAssets Regulation (#MiCA) to its Interactive #SingleRulebook →  🛠️ ISRB offers stakeholders an overview of legal requirements from legislation, technical standards, delegated acts & instruments adopted by #ESMA.",
-      "url": "https://x.com/ESMAComms/status/2031294077673631967",
-      "author": "@ESMAComms",
-      "published": "2026-03-10T09:00:00",
-      "summary": "☑️ ESMA added the Markets in  #CryptoAssets Regulation ( #MiCA) to its Interactive  #SingleRulebook →  link.europa.eu/mHxJBF🛠️ ISRB offers stakeholders an overview of legal requirements from legislation, technical standards, delegated acts & instruments adopted by  #ESMA. Video  — ESMA - EU Securities Markets Regulator 🇪🇺 (@ESMAComms) Mar 10, 2026",
-      "score": 21,
-      "score_breakdown": "+20 mots forts: mica, crypto, esma | +5 mots moyens: regulation | +10 Géo EU: esma, mica | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'ESMA intègre MiCA à son référentiel réglementaire pour clarifier les exigences légales applicables aux actifs cryptographiques."
-    },
-    {
       "hash": "af81fd962c6fac38",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
@@ -5449,24 +5485,6 @@
       "ai_summary": "Cet article concerne la conformité fiscale : il traite d'une cotisation supplémentaire d'impôt sur les sociétés contestée par une entreprise."
     },
     {
-      "hash": "dcf615b2be369a6a",
-      "source_name": "Cass. - Blanchiment",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de DOUAI, 1ère chambre, 26 mars 2026, 23DA01413",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEDOUAI-20260326-23DA01413",
-      "author": "1ère chambre",
-      "published": "2026-03-26T12:00:00",
-      "summary": "Vu la procédure suivante :            Procédure contentieuse antérieure :           L'association pour la suppression des pollutions industrielles ASPI a demandé au tribunal administratif de Lille d'annuler l'arrêté du 29 mai 2018 par lequel le préfet du Nord a accordé à la métropole européenne de Lille MEL une autorisation d'aménagement de la zone d'aménagement concerté Saint-Sauveur au titre de l'article L. 214-3 du code de l'environnement.           Par un jugement avant dire droit du 14 octo",
-      "score": 20,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "ebf1b1b1955cede1",
       "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
@@ -5482,7 +5500,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c32c94081d9257f6",
@@ -6184,7 +6202,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "394b7e82df8f3e55",
@@ -6203,24 +6221,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la coopération internationale en matière de lutte contre le blanchiment et le financement du terrorisme."
-    },
-    {
-      "hash": "5bbbe4a08adff644",
-      "source_name": "Commission EU Finance (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "How can your SME navigate EU sanctions?🤔 Learn the essentials of compliance at this free EU Sanctions Helpdesk webinar, featuring real-life case studies for small businesses. ⏳ Register by 16 March 2026 👉",
-      "url": "https://x.com/EU_Finance/status/2031313580604215439",
-      "author": "@EU_Finance",
-      "published": "2026-03-10T10:17:00",
-      "summary": "How can your SME navigate EU sanctions?🤔Learn the essentials of compliance at this free EU Sanctions Helpdesk webinar, featuring real-life case studies for small businesses.⏳ Register by 16 March 2026👉  link.europa.eu/xGJC6j— EU Finance 🇪🇺 (@EU_Finance) Mar 10, 2026",
-      "score": 18,
-      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: compliance | ×0.6 (>14d)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du respect des sanctions UE par les PME."
     },
     {
       "hash": "e715d1ab4c91e248",
@@ -6351,7 +6351,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de confiscation d'avoirs et de règlement de poursuites pénales pour corruption commerciale."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des confiscations d'actifs dans une affaire de corruption commerciale impliquant la FIFA."
     },
     {
       "hash": "080b33a2131ad015",
@@ -6502,6 +6502,24 @@
       "is_primary": false
     },
     {
+      "hash": "dcf615b2be369a6a",
+      "source_name": "Cass. - Blanchiment",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de DOUAI, 1ère chambre, 26 mars 2026, 23DA01413",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEDOUAI-20260326-23DA01413",
+      "author": "1ère chambre",
+      "published": "2026-03-26T12:00:00",
+      "summary": "Vu la procédure suivante :            Procédure contentieuse antérieure :           L'association pour la suppression des pollutions industrielles ASPI a demandé au tribunal administratif de Lille d'annuler l'arrêté du 29 mai 2018 par lequel le préfet du Nord a accordé à la métropole européenne de Lille MEL une autorisation d'aménagement de la zone d'aménagement concerté Saint-Sauveur au titre de l'article L. 214-3 du code de l'environnement.           Par un jugement avant dire droit du 14 octo",
+      "score": 15,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "f2668a6f29b4",
       "source_name": "CJUE",
       "source_type": "scrape",
@@ -6629,6 +6647,24 @@
       "score_breakdown": "+20 mots critiques: sanction | +5 Source Intl | ×0.6 (>14d)"
     },
     {
+      "hash": "3c9da1e38ae1e5df",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "RT by @ecb: It’s vital that we know how banks can use capital buffers. In a new joint report, the ECB and the ESRB define key concepts and develop a toolkit for evaluating how buffers can be used and released under the prudential and resolution frameworks  pic.",
+      "url": "https://x.com/ESRBofficial/status/2042166249774260282",
+      "author": "@ESRBofficial",
+      "published": "2026-04-09T09:02:00",
+      "summary": "It’s vital that we know how banks can use capital buffers.In a new joint report, the ECB and the ESRB define key concepts and develop a toolkit for evaluating how buffers can be used and released under the prudential and resolution frameworks https://t.co/91BrcLeLuq pic.twitter.com/p9KErIVuLs— European Systemic Risk Board (@ESRBofficial) April 9, 2026",
+      "score": 15,
+      "score_breakdown": "+10 mots moyens: risk, bank | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "e24cd5446ea661a7",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -6663,7 +6699,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b20bafa97e384a1e",
@@ -6700,7 +6736,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "af137f10343653c1",
@@ -7649,7 +7685,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "83c9f2ae6a11801e",
@@ -7667,25 +7703,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "f9864b5648e5cdeb",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "PFAS : « Les projets de dérégulation portés par les pouvoirs publics servent avant tout les intérêts des industriels »",
-      "url": "https://www.lemonde.fr/idees/article/2026/04/08/pfas-les-projets-de-deregulation-portes-par-les-pouvoirs-publics-servent-avant-tout-les-interets-des-industriels_6678227_3232.html",
-      "author": "",
-      "published": "2026-04-08T09:00:03",
-      "summary": "La déréglementation croissante de l’industrie chimique européenne mue par une recherche frénétique de compétitivité freine l’encadrement des polluants éternels et la protection des populations, alerte un collectif d’associations et de citoyens dans une tribune au « Monde ».",
-      "score": 4,
-      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet article concerne l'impact réglementaire sur les tarifs énergétiques mais ne relève pas directement de la conformité financière des entreprises."
     },
     {
       "hash": "129a5a8c4c40af47",
@@ -7904,6 +7922,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de corruption et de pratiques frauduleuses contraires aux règles de conformité."
     }
   ],
-  "last_update": "2026-04-09T07:59:24.040040+00:00",
+  "last_update": "2026-04-09T13:01:41.926902+00:00",
   "last_updated": "2026-03-31T20:26:00.316175+00:00"
 }
