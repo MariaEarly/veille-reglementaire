@@ -598,7 +598,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cette ordonnance transpose une directive UE modifiant les règles de surveillance bancaire, sanctions et risques ESG, relevant directement de la conformité financière et prudentielle."
+      "ai_summary": "Cette ordonnance transpose une directive UE modifiant les règles prudentielles bancaires, notamment les pouvoirs de surveillance et les sanctions de l'autorité de régulation financière."
     },
     {
       "hash": "d9c5ceb22e9d4f7c",
@@ -655,6 +655,24 @@
       "ai_summary": "L'AMF rapporte les résultats de ses contrôles SPOT évaluant la conformité et les contrôles internes des sociétés de gestion d'actifs."
     },
     {
+      "hash": "ecc2123626dc12fc",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "The EBA publishes Decision harmonising reporting of SEPA data by national authorities",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-decision-harmonising-reporting-sepa-data-national-authorities",
+      "author": "jana.jaklic@eba.europa.eu",
+      "published": "2026-04-10T12:33:14",
+      "summary": "The European Banking Authority (EBA) today published a Decision harmonising how National Competent Authorities (NCAs) report under the SEPA Regulation. The Decision complements the existing European Commission’s Implementing Regulation which requires all Payment Service Providers (PSPs) to report data on charges for credit transfers and payment accounts, as well as the shares of transactions rejected due to EU sanctions. The Decision streamlines the second step of this reporting process – from t",
+      "score": 100,
+      "score_breakdown": "+20 mots critiques: sanction | +20 mots forts: aml, eba | +15 mots moyens: regulation, payment, bank | +15 Source EU | +10 Géo EU: european commission, eba | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "4879b000edc2a551",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -707,6 +725,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Le retrait d'agrément par l'ACPR d'une association professionnelle concerne la conformité réglementaire et prudentielle du secteur financier."
+    },
+    {
+      "hash": "a7c553ad28bc78cd",
+      "source_name": "AMF - Actualités",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "L'AMF confirme la reprise des négociations sur le titre RAPID NUTRITION",
+      "url": "https://www.amf-france.org/fr/actualites-publications/communiques/communiques-de-lamf/lamf-confirme-la-reprise-des-negociations-sur-le-titre-rapid-nutrition#xts=607212&xtor=RSS-3&type=RSS",
+      "author": "",
+      "published": "2026-04-10T13:30:07",
+      "summary": "Communiqué AMF                  Protection de l&#039;épargne              Mise en garde                    L&#039;AMF confirme la reprise des négociations sur le titre RAPID NUTRITION",
+      "score": 82,
+      "score_breakdown": "+10 mots forts: amf | +25 Source FR | +20 Géo FR: amf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "L'AMF confirme la reprise des négociations, ce qui relève de sa mission de protection des épargnants et de surveillance des marchés financiers."
     },
     {
       "hash": "d300a51719e0ff91",
@@ -886,7 +922,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite des limites d'exposition aux entités de shadow banking selon les règles prudentielles bancaires."
+      "ai_summary": "Cet article concerne la conformité financière car les limites d'exposition aux entités de shadow banking relèvent de la réglementation prudentielle et du respect des exigences de capital bancaire."
     },
     {
       "hash": "47b16c68c3e2687f",
@@ -1066,7 +1102,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'EBA simplifie les normes techniques de conformité bancaire en révisant les standards de reporting supervisé pour les institutions financières."
     },
     {
       "hash": "c90828c08f649803",
@@ -1194,7 +1230,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b6086d2f28dce231",
@@ -1360,6 +1396,24 @@
       "score_breakdown": "+20 mots critiques: gel des avoirs | +10 mots forts: acpr | +25 Source FR | +20 Géo FR: acpr, dg trésor | ×0.8 (14d)"
     },
     {
+      "hash": "a4dfad2e46ddc7de",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 10 April, 2026",
+      "url": "https://www.eba.europa.eu/node/19549",
+      "author": "Anonymous",
+      "published": "2026-04-10T15:00:02",
+      "summary": "EBA E-mail alert 10 April, 2026\n\n  \n    Date\n          10/04/2026\n\n      \n\nAnonymous (not verified)\n\nFri, 04/10/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          The EBA consults on major simplification of supervisory reporting to deliver a simpler, smarter and more proportionate framework\n          The EBA publishes Decision harmonising reporting of SEPA data by national authorities\n      ",
+      "score": 60,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: supervisory | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la simplification de la déclaration prudentielle bancaire par l'EBA, relevant de la conformité réglementaire financière."
+    },
+    {
       "hash": "91004de9a09ebf5d",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -1375,7 +1429,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'EBA publie les problèmes du modèle de données pour améliorer la transparence et soutenir les institutions dans la conformité réglementaire des reportings financiers."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la transparence des données bancaires et du soutien aux institutions dans leurs rapports réglementaires."
     },
     {
       "hash": "cf7cfe4912306e76",
@@ -1594,7 +1648,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la formation des responsables de conformité et de surveillance interne aux obligations réglementaires et aux bonnes pratiques de conformité financière."
+      "ai_summary": "Cet article concerne la conformité car il documente une formation officielle des responsables de conformité et de contrôle interne auprès de l'AMF."
     },
     {
       "hash": "6f5890c6bdbc17d1",
@@ -1685,7 +1739,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article concerne l'harmonisation des critères d'aptitude et d'honorabilité pour les rôles clés dans les banques et entreprises d'investissement européennes."
     },
     {
       "hash": "7a54d9c8ed0fd3d6",
@@ -1724,14 +1778,14 @@
       "ai_summary": "BaFin classe le risque de blanchiment et financement du terrorisme en cryptomonnaies comme priorité majeure de conformité."
     },
     {
-      "hash": "f53773bdd5aa0259",
+      "hash": "4398c89265de1d12",
       "source_name": "ACPR",
       "source_type": "rss",
       "category": "autorite_fr",
       "title": "View PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpUHZDOVFib0hNSEZJWTJqOHRzX3VPWEcxVUZHbld5ZHRxdEI3NkFrZ0p1QnhOTU9pN1JIZEVJSElyLWo3T056Vk1ldUJnaWt6eE85NENsTnpKeUZjbVJkUjdTallfUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53VDBLTDdlX1pETWt4djRCLVIwelZueVBucXdkX0VRMVFzLUpJa0lmc2lnejU5Zi1McFVad0VUUV9Xc0xicEhPdGZuaHlxU0YtNGdYTTZKOV9JLXRObkJ0aVowQlMzUQ?oc=5",
       "author": "",
-      "published": "2026-04-05T07:45:10",
+      "published": "2026-04-05T04:41:37",
       "summary": "View PDF&nbsp;&nbsp;Banque de France",
       "score": 50,
       "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
@@ -1739,7 +1793,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1ba7cc5de2d53605",
@@ -2183,7 +2237,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'EBA simplifie la déclaration prudentielle européenne en réduisant les données et en augmentant la proportionnalité."
     },
     {
       "hash": "65444816cd70b620",
@@ -2459,6 +2513,24 @@
       "ai_summary": "Cet article concerne la conformité financière car la COFACE est un assureur crédit régulé par l'ACPR."
     },
     {
+      "hash": "f7ffd31acdf41b3d",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "QIC EUROPE LTD - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBySzhuRW9QYV9FTndlazZpYU8ya0ZUMmYyRzR3VWt2VVBYQkNMUXNXTmhyMk42MTJZOFFPTjNuaElnZko5ODJSZU12cVpMRHhfZkktal9UZFg?oc=5",
+      "author": "",
+      "published": "2026-04-01T07:41:28",
+      "summary": "QIC EUROPE LTD&nbsp;&nbsp;Banque de France",
+      "score": 40,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "8f4e27ef3f3c109c",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -2726,7 +2798,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la simplification de la déclaration prudentielle supervisée par l'EBA."
     },
     {
       "hash": "daacd439f30d111c",
@@ -3434,7 +3506,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de fraude immobilière impliquant un détournement de fonds substantiel."
     },
     {
       "hash": "8433050665c21d22",
@@ -3813,7 +3885,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1bd161ea73a4b0c7",
@@ -3831,7 +3903,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f7fd8fdcd0756154",
@@ -4014,7 +4086,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1c6479d6e76791a5",
@@ -4822,7 +4894,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3fd195cd7dcf2349",
@@ -4913,7 +4985,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f3d2447be4944156",
@@ -5103,24 +5175,6 @@
       "ai_summary": "Cet article concerne la lutte anti-blanchiment et la conformité financière via les mesures AML du FATF.",
       "score_breakdown": "+20 mots critiques: money laundering, fraud | +20 mots forts: aml, fatf, anti-money | ×0.6 (>14d)",
       "is_primary": false
-    },
-    {
-      "hash": "d9ba4c2f15ddc314",
-      "source_name": "Banque de France (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "Imaginez la scène. Nous sommes en 2154. Vous êtes à la tête d’une multinationale dans le secteur de l’énergie. Et, par le plus grand des hasards, vous découvrez Pandora, une planète magnifique sur laquelle se trouvent des ressources exceptionnelles… 👉 Dans ce troisième épisode de Pop Éco, nous utilisons le film pour expliquer des concepts clés de l’économie et les missions de la Banque de France : les risques physiques du changement climatique, les risques de transition, la tragédie des biens communs, la croissance, l’inflation et la stabilité économique. Retrouvez la vidéo complète ici :  🍿 POP'ECO : Avec ce nouveau format vidéo, nous expliquons l'économie et l",
-      "url": "https://x.com/banquedefrance/status/2031782031437316351",
-      "author": "@banquedefrance",
-      "published": "2026-03-11T17:19:00",
-      "summary": "Imaginez la scène. Nous sommes en 2154. Vous êtes à la tête d’une multinationale dans le secteur de l’énergie. Et, par le plus grand des hasards, vous découvrez Pandora, une planète magnifique sur laquelle se trouvent des ressources exceptionnelles…👉 Dans ce troisième épisode de Pop Éco, nous utilisons le film pour expliquer des concepts clés de l’économie et les missions de la Banque de France : les risques physiques du changement climatique, les risques de transition, la tragédie des biens com",
-      "score": 24,
-      "score_breakdown": "+10 mots forts: dora | +10 mots moyens: risque, banque | +20 Géo FR: france, banque de france | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les risques climatiques et de transition énergétique, enjeux majeurs de la conformité financière et prudentielle."
     },
     {
       "hash": "06a16891bc1631cb",
@@ -5409,7 +5463,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "79e6333b763b5136",
@@ -5644,7 +5698,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c1e565000fe24d5f",
@@ -5662,7 +5716,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "9077ba78ba47b18f",
@@ -5680,7 +5734,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "af81fd962c6fac38",
@@ -6385,24 +6439,6 @@
       "is_primary": false
     },
     {
-      "hash": "edcb438734ddf45f",
-      "source_name": "EBA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🚀#EBA Career Events This March Great energy at the Amsterdam #Career Days — thank you to everyone who stopped by! Next up: 📍 19/03 — ŠANCE Job Fair (Prague) 📍 20/03 — Moovijob (Luxembourg, with EPSO) Join us and explore how you can help shape Europe’s financial future.",
-      "url": "https://x.com/EBA_News/status/2031728704271913343",
-      "author": "@EBA_News",
-      "published": "2026-03-11T13:47:00",
-      "summary": "🚀 #EBA Career Events This MarchGreat energy at the Amsterdam  #Career Days — thank you to everyone who stopped by!Next up:📍 19/03 — ŠANCE Job Fair (Prague)📍 20/03 — Moovijob (Luxembourg, with EPSO)Join us and explore how you can help shape Europe’s financial future.— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Mar 11, 2026",
-      "score": 18,
-      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: bank, ppe | +10 Géo EU: eba, luxembourg | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "e715d1ab4c91e248",
       "source_name": "ECB - Banking Supervision",
       "source_type": "rss",
@@ -6682,24 +6718,6 @@
       "is_primary": false
     },
     {
-      "hash": "ebf1b1b1955cede1",
-      "source_name": "Cass. - Blanchiment",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de TOULOUSE, 4ème chambre, 26 mars 2026, 23TL02268",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDETOULOUSE-20260326-23TL02268",
-      "author": "4ème chambre",
-      "published": "2026-03-26T12:00:00",
-      "summary": "68-04-045 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. ... Vu la procédure suivante :           Procédures contentieuses antérieures :           Sous le n° 2205268, la société anonyme SA Bouygues Telecom et la société par actions simplifiée SAS Cellnex France ont demandé au tribunal administratif de Montpellier d'annuler l'arrêté du 12 août 2022 par lequel le maire de Saint-Gély-du-Fesc s'est opposé à la déclaration ",
-      "score": 15,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "dcf615b2be369a6a",
       "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
@@ -6709,6 +6727,24 @@
       "author": "1ère chambre",
       "published": "2026-03-26T12:00:00",
       "summary": "Vu la procédure suivante :            Procédure contentieuse antérieure :           L'association pour la suppression des pollutions industrielles ASPI a demandé au tribunal administratif de Lille d'annuler l'arrêté du 29 mai 2018 par lequel le préfet du Nord a accordé à la métropole européenne de Lille MEL une autorisation d'aménagement de la zone d'aménagement concerté Saint-Sauveur au titre de l'article L. 214-3 du code de l'environnement.           Par un jugement avant dire droit du 14 octo",
+      "score": 15,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "ebf1b1b1955cede1",
+      "source_name": "Cass. - Blanchiment",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de TOULOUSE, 4ème chambre, 26 mars 2026, 23TL02268",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDETOULOUSE-20260326-23TL02268",
+      "author": "4ème chambre",
+      "published": "2026-03-26T12:00:00",
+      "summary": "68-04-045 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. ... Vu la procédure suivante :           Procédures contentieuses antérieures :           Sous le n° 2205268, la société anonyme SA Bouygues Telecom et la société par actions simplifiée SAS Cellnex France ont demandé au tribunal administratif de Montpellier d'annuler l'arrêté du 12 août 2022 par lequel le maire de Saint-Gély-du-Fesc s'est opposé à la déclaration ",
       "score": 15,
       "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.6 (>14d)",
       "doc_type": null,
@@ -6860,7 +6896,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3c9da1e38ae1e5df",
@@ -6915,7 +6951,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b20bafa97e384a1e",
@@ -6935,24 +6971,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la fraude et les crimes financiers, domaines clés de la compliance.",
       "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: singapore | ×0.6 (>14d)",
       "is_primary": false
-    },
-    {
-      "hash": "c3c2b4e418ad8fa6",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🎓The EBA at Career Fairs Across Europe – March Highlights March is a big month for the European Banking Authority as we step up ou...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7437493592681545730",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-03-11T13:44:14",
-      "summary": "🎓The EBA at Career Fairs Across Europe – March Highlights\n \nMarch is a big month for the European Banking Authority as we step up our outreach to students and young professionals across Europe.\n \n🌟Thank you, Amsterdam!\nOn 4 March, we were delighted to join the Amsterdam Career Days, where Orsolya and Davide met highly motivated students eager to learn how they can contribute to a safer, fairer and more innovative EU financial system.\nA warm thank‑you to everyone who visited our stand and shared ",
-      "score": 15,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "af137f10343653c1",
@@ -7901,7 +7919,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "83c9f2ae6a11801e",
@@ -8081,7 +8099,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption étrangère contre le groupe Adani, violation majeure des lois anti-corruption."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption transfrontalière contre le groupe Adani, impliquant des violations de lois anti-corruption."
     },
     {
       "hash": "a27f74dd31c20047",
@@ -8156,6 +8174,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de corruption et de pratiques frauduleuses contraires aux règles de conformité."
     }
   ],
-  "last_update": "2026-04-10T13:53:26.541452+00:00",
+  "last_update": "2026-04-10T18:41:20.954794+00:00",
   "last_updated": "2026-03-31T20:26:00.316175+00:00"
 }
