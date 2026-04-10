@@ -565,6 +565,24 @@
   ],
   "items": [
     {
+      "hash": "a5fc1ac6fedd24a0",
+      "source_name": "AMF - Actualités",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Un délit d'entrave à une enquête de l'AMF sanctionné par le Tribunal correctionnel de Paris",
+      "url": "https://www.amf-france.org/fr/actualites-publications/actualites/un-delit-dentrave-une-enquete-de-lamf-sanctionne-par-le-tribunal-correctionnel-de-paris#xts=607212&xtor=RSS-3&type=RSS",
+      "author": "",
+      "published": "2026-04-10T07:00:04",
+      "summary": "Actualité                  Abus de marché                    Un délit d&#039;entrave à une enquête de l&#039;AMF sanctionné par le Tribunal correctionnel de Paris",
+      "score": 100,
+      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: amf | +25 Source FR | +20 Géo FR: amf | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction pénale pour obstruction d'enquête de l'AMF."
+    },
+    {
       "hash": "c68ef462100c2285",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -580,7 +598,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cette ordonnance transpose une directive UE modifiant la régulation bancaire, renforçant les pouvoirs de surveillance et les exigences de conformité ESG pour les établissements financiers."
+      "ai_summary": "Cette ordonnance transpose une directive UE modifiant le cadre de surveillance bancaire et introduisant des obligations ESG, directement pertinente pour la conformité financière et réglementaire."
     },
     {
       "hash": "d9c5ceb22e9d4f7c",
@@ -868,7 +886,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les directives révisées encadrent les expositions bancaires aux entités de shadow banking pour assurer la stabilité du système financier."
+      "ai_summary": "Cet article concerne les limites d'exposition des banques aux entités de shadow banking pour assurer la stabilité financière et la conformité réglementaire."
     },
     {
       "hash": "47b16c68c3e2687f",
@@ -1321,7 +1339,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la transparence et de l'aide aux institutions bancaires dans leurs obligations de reporting réglementaires via le cadre DPM."
+      "ai_summary": "La publication de la liste des problèmes du modèle de données par l'EBA renforce la transparence réglementaire et facilite la conformité des rapports financiers bancaires."
     },
     {
       "hash": "cf7cfe4912306e76",
@@ -1540,7 +1558,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet article concerne la formation des responsables de conformité et de surveillance interne aux obligations réglementaires et de conformité financière."
     },
     {
       "hash": "6f5890c6bdbc17d1",
@@ -1652,14 +1670,14 @@
       "ai_summary": "BaFin classe le risque de blanchiment et financement du terrorisme en cryptomonnaies comme priorité majeure de conformité."
     },
     {
-      "hash": "a7ced4dae227e255",
+      "hash": "f53773bdd5aa0259",
       "source_name": "ACPR",
       "source_type": "rss",
       "category": "autorite_fr",
       "title": "View PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IeFBSa2JONmE3emprUEpmWTBjWXJOZmF4YmFxaFkyVjZyVU9MU21tSWZhLUNDQm5yZjNYS0k1Z3JxOF9kNnZELUN5aHdOVzlRQnFyeTZWMkRTcmQ3YmcxTmxaTEtkQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpUHZDOVFib0hNSEZJWTJqOHRzX3VPWEcxVUZHbld5ZHRxdEI3NkFrZ0p1QnhOTU9pN1JIZEVJSElyLWo3T056Vk1ldUJnaWt6eE85NENsTnpKeUZjbVJkUjdTallfUQ?oc=5",
       "author": "",
-      "published": "2026-04-03T20:47:58",
+      "published": "2026-04-05T07:45:10",
       "summary": "View PDF&nbsp;&nbsp;Banque de France",
       "score": 50,
       "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
@@ -1667,7 +1685,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1ba7cc5de2d53605",
@@ -2111,7 +2129,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA émet des directives pour limiter les expositions des institutions au secteur bancaire parallèle."
+      "ai_summary": "L'EBA met à jour ses directives sur les expositions aux entités de shadow banking pour assurer la conformité réglementaire des institutions financières."
     },
     {
       "hash": "00ee8455b64623d9",
@@ -2654,7 +2672,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'EBA publie une liste des problèmes connus du cadre DPM pour améliorer la transparence des rapports financiers réglementaires des institutions bancaires européennes."
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA améliore la transparence des rapports bancaires en clarifiant le cadre DPM."
     },
     {
       "hash": "f1602f3c91113dcd",
@@ -3687,7 +3705,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1bd161ea73a4b0c7",
@@ -3705,7 +3723,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f7fd8fdcd0756154",
@@ -3873,22 +3891,22 @@
       "ai_summary": "Cet article concerne la conformité financière car il mentionne une entité d'assurance et la Banque de France, autorité de régulation."
     },
     {
-      "hash": "821b1c0e50cd6c43",
+      "hash": "deca757fe1a9d2f8",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
       "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de NANCY, 5ème chambre, 07 avril 2026, 22NC01889",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDENANCY-20260407-22NC01889",
-      "author": "5ème chambre",
-      "published": "2026-04-07T12:00:00",
-      "summary": "Vu la procédure suivante :           Procédures contentieuses antérieures :           M. B... A... a demandé au tribunal administratif de Châlons-en-Champagne, d'une part, de condamner le centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière à lui verser, en réparation  des préjudices matériels et du préjudice moral subis résultant, à la fois, de l'illégalité fautive  de sa révocation et des manquements du centre national de ge",
+      "title": "France, Conseil d'État, 6ème - 5ème chambres réunies, 08 avril 2026, 495603",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260408-495603",
+      "author": "6ème - 5ème chambres réunies",
+      "published": "2026-04-08T12:00:00",
+      "summary": "Vu la procédure suivante :                  L'association Berzoc'h vent debout, la société pour la protection des paysages et de l'esthétique de la France, M. B... C..., M. D... C... et M. A... E... ont demandé à la cour administrative d'appel de Nantes d'annuler l'arrêté du préfet des Côtes-d'Armor du 13 décembre 2021 portant autorisation environnementale pour l'installation de six éoliennes et un poste de livraison sur la commune de Sainte-Tréphine et, en cas d'annulation partielle de l'arrêté",
       "score": 30,
       "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1c6479d6e76791a5",
@@ -4352,7 +4370,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite des risques de conformité liés aux sanctions contre l'Iran et aux exigences de due diligence pour les opérations dans le détroit d'Ormuz."
+      "ai_summary": "Cet article concerne les risques de non-conformité aux sanctions internationales et aux régulations financières liées aux transactions avec l'Iran."
     },
     {
       "hash": "eee0083a7128a8cf",
@@ -4681,6 +4699,24 @@
       "is_primary": false
     },
     {
+      "hash": "28ee11c270e02de3",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, 4ème - 1ère chambres réunies, 08 avril 2026, 497082",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260408-497082",
+      "author": "4ème - 1ère chambres réunies",
+      "published": "2026-04-08T12:00:00",
+      "summary": "54-06-08 PROCÉDURE. - JUGEMENTS. - DÉCISIONS PRISES EN APPLICATION DE DÉCISIONS ANNULÉES. - AUTORISATION DE LICENCIER UN SALARIÉ PROTÉGÉ... Vu la procédure suivante :                  Mme B... A... a demandé au tribunal administratif de Paris d'annuler pour excès de pouvoir la décision du 26 février 2020 par laquelle la ministre du travail a autorisé la Mutuelle générale des cheminots à la licencier ainsi que la décision implicite rejetant son recours gracieux contre cette décision. Par un jugem",
+      "score": 24,
+      "score_breakdown": "+20 Géo FR: france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "3fd195cd7dcf2349",
       "source_name": "ECB - Banking Supervision",
       "source_type": "rss",
@@ -4769,7 +4805,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f3d2447be4944156",
@@ -5265,7 +5301,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "79e6333b763b5136",
@@ -5500,7 +5536,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c1e565000fe24d5f",
@@ -5518,7 +5554,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "9077ba78ba47b18f",
+      "source_name": "Cass. - Fraude",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de NANCY, 1ère chambre, 02 avril 2026, 24NC02607",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDENANCY-20260402-24NC02607",
+      "author": "1ère chambre",
+      "published": "2026-04-02T12:00:00",
+      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           Mme A... B... a demandé au tribunal administratif de Strasbourg d'annuler l'arrêté du 5 avril 2024 par lequel la préfète du Bas-Rhin lui a refusé l'admission au séjour, l'a obligée à quitter le territoire français dans un délai de trente jours et a fixé le pays de destination, d'enjoindre à la préfète du Bas-Rhin de lui délivrer une autorisation provisoire de séjour dans un délai de quinze jours sous astreinte de ",
+      "score": 20,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france, français | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "af81fd962c6fac38",
@@ -6238,7 +6292,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "394b7e82df8f3e55",
@@ -6538,24 +6592,6 @@
       "is_primary": false
     },
     {
-      "hash": "ebf1b1b1955cede1",
-      "source_name": "Cass. - Blanchiment",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de TOULOUSE, 4ème chambre, 26 mars 2026, 23TL02268",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDETOULOUSE-20260326-23TL02268",
-      "author": "4ème chambre",
-      "published": "2026-03-26T12:00:00",
-      "summary": "68-04-045 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. ... Vu la procédure suivante :           Procédures contentieuses antérieures :           Sous le n° 2205268, la société anonyme SA Bouygues Telecom et la société par actions simplifiée SAS Cellnex France ont demandé au tribunal administratif de Montpellier d'annuler l'arrêté du 12 août 2022 par lequel le maire de Saint-Gély-du-Fesc s'est opposé à la déclaration ",
-      "score": 15,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "dcf615b2be369a6a",
       "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
@@ -6565,6 +6601,24 @@
       "author": "1ère chambre",
       "published": "2026-03-26T12:00:00",
       "summary": "Vu la procédure suivante :            Procédure contentieuse antérieure :           L'association pour la suppression des pollutions industrielles ASPI a demandé au tribunal administratif de Lille d'annuler l'arrêté du 29 mai 2018 par lequel le préfet du Nord a accordé à la métropole européenne de Lille MEL une autorisation d'aménagement de la zone d'aménagement concerté Saint-Sauveur au titre de l'article L. 214-3 du code de l'environnement.           Par un jugement avant dire droit du 14 octo",
+      "score": 15,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "ebf1b1b1955cede1",
+      "source_name": "Cass. - Blanchiment",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de TOULOUSE, 4ème chambre, 26 mars 2026, 23TL02268",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDETOULOUSE-20260326-23TL02268",
+      "author": "4ème chambre",
+      "published": "2026-03-26T12:00:00",
+      "summary": "68-04-045 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. ... Vu la procédure suivante :           Procédures contentieuses antérieures :           Sous le n° 2205268, la société anonyme SA Bouygues Telecom et la société par actions simplifiée SAS Cellnex France ont demandé au tribunal administratif de Montpellier d'annuler l'arrêté du 12 août 2022 par lequel le maire de Saint-Gély-du-Fesc s'est opposé à la déclaration ",
       "score": 15,
       "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.6 (>14d)",
       "doc_type": null,
@@ -6753,7 +6807,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b20bafa97e384a1e",
@@ -6790,7 +6844,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "af137f10343653c1",
@@ -6935,7 +6989,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'allégations de corruption étrangère contre une entreprise."
     },
     {
       "hash": "f8775e7b17309759",
@@ -7757,24 +7811,6 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "a8a1517cee86f601",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Adanis to request dismissal of SEC bribery case",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/adanis-request-dismissal-of-sec-bribery-case",
-      "author": "Austin Cope",
-      "published": "2026-04-08T20:05:22",
-      "summary": "Lawyers for Indian billionaire Gautam Adani and his nephew Sagar surfaced in January, more than a year after the pair was charged in a sprawling foreign bribery scheme involving the Adani Group’s green energy arm.&nbsp;",
-      "score": 4,
-      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
       "ai_summary": "Hors périmètre compliance"
     },
     {
@@ -7940,6 +7976,24 @@
       "ai_summary": "Cet article concerne les sanctions financières et les restrictions commerciales imposées à la Russie par les États-Unis."
     },
     {
+      "hash": "a8a1517cee86f601",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Adanis to request dismissal of SEC bribery case",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/adanis-request-dismissal-of-sec-bribery-case",
+      "author": "Austin Cope",
+      "published": "2026-04-08T20:05:22",
+      "summary": "Lawyers for Indian billionaire Gautam Adani and his nephew Sagar surfaced in January, more than a year after the pair was charged in a sprawling foreign bribery scheme involving the Adani Group’s green energy arm.&nbsp;",
+      "score": 3,
+      "score_breakdown": "+3 Presse | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a27f74dd31c20047",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -8012,6 +8066,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de corruption et de pratiques frauduleuses contraires aux règles de conformité."
     }
   ],
-  "last_update": "2026-04-10T03:45:18.638465+00:00",
+  "last_update": "2026-04-10T07:17:22.131093+00:00",
   "last_updated": "2026-03-31T20:26:00.316175+00:00"
 }
