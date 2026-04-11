@@ -598,7 +598,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cette ordonnance transpose une directive UE modifiant les règles prudentielles bancaires, notamment les pouvoirs de surveillance et les sanctions de l'autorité de régulation financière."
+      "ai_summary": "Cette ordonnance transpose une directive européenne modifiant les règles de surveillance bancaire, sanctions et risques ESG, concernant directement la conformité réglementaire financière."
     },
     {
       "hash": "d9c5ceb22e9d4f7c",
@@ -670,7 +670,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne l'harmonisation des règles de reporting SEPA par les autorités nationales, relevant de la conformité réglementaire bancaire."
     },
     {
       "hash": "4879b000edc2a551",
@@ -922,7 +922,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les limites d'exposition aux entités de shadow banking relèvent de la réglementation prudentielle et du respect des exigences de capital bancaire."
+      "ai_summary": "Cet article concerne la conformité réglementaire bancaire, en particulier les limites d'exposition aux entités de shadow banking."
     },
     {
       "hash": "47b16c68c3e2687f",
@@ -1215,24 +1215,6 @@
       "score_breakdown": "+20 mots critiques: blanchiment, money laundering | +20 mots forts: aml, anti-money, amla | +15 Source EU | +10 Géo EU: conseil de l'ue, amla | ×1.0 (7d)"
     },
     {
-      "hash": "4433b2c290e2c95f",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Vue PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FYl9ncHZhWXNZUXV3TmxXN3pOTVJOZjE5N1d3TjlFdjBucHpKbmY5Tk1xbld5aEpqSmM3Vmw5aWlTOVhSbndqRmoyQ0NCMVlPSTZLYWI4RzlWeHpzVlFZOWtSMW1kQQ?oc=5",
-      "author": "",
-      "published": "2026-04-07T21:01:36",
-      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
-      "score": 60,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "b6086d2f28dce231",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -1429,7 +1411,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la transparence des données bancaires et du soutien aux institutions dans leurs rapports réglementaires."
+      "ai_summary": "L'article concerne la conformité financière car il traite de la transparence et du support des institutions dans leurs rapports réglementaires."
     },
     {
       "hash": "cf7cfe4912306e76",
@@ -1739,7 +1721,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne l'harmonisation des critères d'aptitude et d'honorabilité pour les rôles clés dans les banques et entreprises d'investissement européennes."
+      "ai_summary": "L'article concerne l'harmonisation des critères d'aptitude professionnelle pour les rôles clés bancaires et financiers au sein de l'UE."
     },
     {
       "hash": "7a54d9c8ed0fd3d6",
@@ -1778,6 +1760,24 @@
       "ai_summary": "BaFin classe le risque de blanchiment et financement du terrorisme en cryptomonnaies comme priorité majeure de conformité."
     },
     {
+      "hash": "d8d4c5350a2ff338",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FMEk1bVAtZ2xGTHh1cV9mQlBhTE5QZmhZTW0xc0N1b3lkYUNwTmVtdHY1STNMQzNfMEpCRHFZdmhSeE5Pc0dZR3NRVnBodlhHMFVDVXAtcEJOVGl6R3I4MFI4ZElkZw?oc=5",
+      "author": "",
+      "published": "2026-04-06T05:24:37",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "4398c89265de1d12",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -1793,7 +1793,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1ba7cc5de2d53605",
@@ -2528,7 +2528,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8f4e27ef3f3c109c",
@@ -2763,6 +2763,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité avec les directives ESMA sur MiCA, un cadre réglementaire pour les crypto-actifs."
+    },
+    {
+      "hash": "1bd040e347fd9092",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Ordonnance n° 2026-265 du 8 avril 2026 portant partie législative du code des douanes",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053791010",
+      "author": "Ministère de l'action et des comptes publics",
+      "published": "2026-04-11T00:00:00",
+      "summary": "Article 1Les dispositions annexées à la présente ordonnance constituent la partie législative du code des douanes.Article 2Les dispositions de la partie législative du code des douanes qui mentionnent, sans les reproduire, des dispositions d'autres codes ou textes législatifs sont modifiées de plein droit par l'effet des modifications ultérieures de ces dispositions.Article 3Les références à des dispositions abrogées par les articles 4 et 6 de la présente ordonnance sont remplacées par des référ",
+      "score": 37,
+      "score_breakdown": "+25 Source FR | ×1.5 (<24h)",
+      "doc_type": "ORDONNANCE",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "5bead2e8994e3372",
@@ -3885,7 +3903,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1bd161ea73a4b0c7",
@@ -3903,7 +3921,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f7fd8fdcd0756154",
@@ -4086,7 +4104,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1c6479d6e76791a5",
@@ -4535,6 +4553,24 @@
       "ai_summary": "Cet article concerne les auditions publiques organisées par l'AMLA, l'autorité anti-blanchiment de l'UE, relevant de la conformité AML/CFT."
     },
     {
+      "hash": "ffde73cc6c09fc1d",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Fired Goldman consultant alleges bank pushed him to falsify records",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/fired-goldman-consultant-alleges-bank-pushed-him-falsify-records",
+      "author": "Austin Cope",
+      "published": "2026-04-10T19:18:57",
+      "summary": "In a retaliation lawsuit, Andrew Delaney says Goldman terminated him for refusing to alter compliance records about a controversial 2006 sale as it faced increased scrutiny amid the global 1MDB corruption scandal.",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: bank | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "b10919f889168a60",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -4894,7 +4930,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "3fd195cd7dcf2349",
@@ -4985,7 +5021,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f3d2447be4944156",
@@ -5463,7 +5499,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "79e6333b763b5136",
@@ -5500,132 +5536,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite d'un retard dans la collecte de données normalisée AML/CFT pour 2026."
-    },
-    {
-      "hash": "99d86deec68a",
-      "source_name": "CJUE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Restrictive measures in respect of Russia: the freezing of funds prevents the holder of a depositary receipt from attending a general meeting (Case C-465/24 SBK Art)",
-      "url": "https://curia.europa.eu/jcms/upload/docs/application/pdf/2026-03/cp260035en.pdf",
-      "author": "",
-      "published": "2026-03-12T00:00:00Z",
-      "summary": "La CJUE juge que le gel des avoirs empêche le titulaire d'un certificat de dépôt de participer et voter en assemblée générale.",
-      "score": 21,
-      "doc_type": "jurisprudence",
-      "action_class": "sanction",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne le respect des mesures restrictives financières et leurs impacts sur les droits des actionnaires en cas de gel d'avoirs.",
-      "score_breakdown": "+20 mots critiques: gel des avoirs | +15 Source EU | ×0.6 (>14d)"
-    },
-    {
-      "hash": "568dada3519b",
-      "source_name": "CJUE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "The assets of a company not included on the sanctions list may be frozen if it is controlled by a listed person (Case C-84/24 EM System)",
-      "url": "https://curia.europa.eu/jcms/upload/docs/application/pdf/2026-03/cp260032en.pdf",
-      "author": "",
-      "published": "2026-03-12T00:00:00Z",
-      "summary": "La CJUE confirme que les actifs d'une société non listée peuvent être gelés si elle est contrôlée par une personne sanctionnée.",
-      "score": 21,
-      "doc_type": "jurisprudence",
-      "action_class": "sanction",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du gel des actifs liés aux sanctions et du contrôle des entités.",
-      "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | ×0.6 (>14d)"
-    },
-    {
-      "hash": "d20fbcedc79f",
-      "source_name": "CJUE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Company assets may be frozen when controlled by a sanctioned person, even if company itself is not listed",
-      "url": "https://curia.europa.eu/site/jcms/d6_1000000368/en/upload/docs/application/pdf/2026-03/cp260032en.pdf",
-      "author": "",
-      "published": "2026-03-12T00:00:00Z",
-      "summary": "Company assets may be frozen when controlled by a sanctioned person, even if company itself is not listed",
-      "score": 21,
-      "doc_type": "news",
-      "action_class": "monitoring",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les actifs d'une entreprise peuvent être gelés si contrôlés par une personne sanctionnée, relevant de la conformité aux sanctions financières.",
-      "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | ×0.6 (>14d)"
-    },
-    {
-      "hash": "522c58ed675b",
-      "source_name": "CJUE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Restrictive measures regarding Russia: fund freezing prevents shareholder meeting attendance (C-465/24 SBK Art)",
-      "url": "https://curia.europa.eu/upload/docs/application/pdf/2026-03/cp260035en.pdf",
-      "author": "",
-      "published": "2026-03-12T00:00:00",
-      "summary": "Asset freeze under EU restrictive measures regarding Russia: freezing of funds prevents a shareholder from attending a general meeting.",
-      "score": 21,
-      "doc_type": "sanction",
-      "action_class": "designation",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les gels d'actifs au titre des mesures restrictives européennes contre la Russie relèvent de la conformité financière.",
-      "score_breakdown": "+20 mots critiques: asset freeze | +15 Source EU | ×0.6 (>14d)"
-    },
-    {
-      "hash": "c0eaef37e2bd",
-      "source_name": "CJUE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Asset freezing of non-listed companies controlled by sanctioned individuals (C-84/24 EM System)",
-      "url": "https://curia.europa.eu/upload/docs/application/pdf/2026-03/cp260032en.pdf",
-      "author": "",
-      "published": "2026-03-12T00:00:00",
-      "summary": "CJEU rules on asset freezing of non-listed companies controlled by persons subject to EU sanctions.",
-      "score": 21,
-      "doc_type": "sanction",
-      "action_class": "designation",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du gel d'actifs de sociétés contrôlées par des personnes sanctionnées par l'UE.",
-      "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | ×0.6 (>14d)"
-    },
-    {
-      "hash": "5db511d1f81e",
-      "source_name": "CJUE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "CJUE : Le gel des avoirs empêche la participation d'un actionnaire aux assemblées (Aff. C-465/24 SBK Art)",
-      "url": "https://curia.europa.eu/site/jcms/upload/docs/application/pdf/2026-03/cp260035en.pdf",
-      "author": "",
-      "published": "2026-03-12",
-      "summary": "Mesures restrictives sur la Russie : le gel des fonds empêche un actionnaire sanctionné de participer aux assemblées générales.",
-      "score": 21,
-      "doc_type": "jurisprudence",
-      "action_class": "arret",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du gel des avoirs dans le cadre des sanctions contre la Russie.",
-      "score_breakdown": "+20 mots critiques: sanction, gel des avoirs | +15 Source EU | ×0.6 (>14d)"
-    },
-    {
-      "hash": "287dd9b594c1",
-      "source_name": "CJUE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "CJUE : Les actifs d'une société contrôlée par une personne sanctionnée peuvent être gelés (Aff. C-84/24 EM System)",
-      "url": "https://curia.europa.eu/site/jcms/upload/docs/application/pdf/2026-03/cp260032en.pdf",
-      "author": "",
-      "published": "2026-03-12",
-      "summary": "La CJUE confirme que les actifs d'une société contrôlée par une personne visée par des sanctions peuvent être gelés.",
-      "score": 21,
-      "doc_type": "jurisprudence",
-      "action_class": "arret",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne le gel des actifs en cas de sanctions internationales, un élément clé de la conformité aux régimes de sanctions financières.",
-      "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | ×0.6 (>14d)"
     },
     {
       "hash": "f044e4ea2f234412",
@@ -5698,7 +5608,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c1e565000fe24d5f",
@@ -5716,7 +5626,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9077ba78ba47b18f",
@@ -5734,7 +5644,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "af81fd962c6fac38",
@@ -6718,24 +6628,6 @@
       "is_primary": false
     },
     {
-      "hash": "dcf615b2be369a6a",
-      "source_name": "Cass. - Blanchiment",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de DOUAI, 1ère chambre, 26 mars 2026, 23DA01413",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEDOUAI-20260326-23DA01413",
-      "author": "1ère chambre",
-      "published": "2026-03-26T12:00:00",
-      "summary": "Vu la procédure suivante :            Procédure contentieuse antérieure :           L'association pour la suppression des pollutions industrielles ASPI a demandé au tribunal administratif de Lille d'annuler l'arrêté du 29 mai 2018 par lequel le préfet du Nord a accordé à la métropole européenne de Lille MEL une autorisation d'aménagement de la zone d'aménagement concerté Saint-Sauveur au titre de l'article L. 214-3 du code de l'environnement.           Par un jugement avant dire droit du 14 octo",
-      "score": 15,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "ebf1b1b1955cede1",
       "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
@@ -6745,6 +6637,24 @@
       "author": "4ème chambre",
       "published": "2026-03-26T12:00:00",
       "summary": "68-04-045 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. ... Vu la procédure suivante :           Procédures contentieuses antérieures :           Sous le n° 2205268, la société anonyme SA Bouygues Telecom et la société par actions simplifiée SAS Cellnex France ont demandé au tribunal administratif de Montpellier d'annuler l'arrêté du 12 août 2022 par lequel le maire de Saint-Gély-du-Fesc s'est opposé à la déclaration ",
+      "score": 15,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "dcf615b2be369a6a",
+      "source_name": "Cass. - Blanchiment",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de DOUAI, 1ère chambre, 26 mars 2026, 23DA01413",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEDOUAI-20260326-23DA01413",
+      "author": "1ère chambre",
+      "published": "2026-03-26T12:00:00",
+      "summary": "Vu la procédure suivante :            Procédure contentieuse antérieure :           L'association pour la suppression des pollutions industrielles ASPI a demandé au tribunal administratif de Lille d'annuler l'arrêté du 29 mai 2018 par lequel le préfet du Nord a accordé à la métropole européenne de Lille MEL une autorisation d'aménagement de la zone d'aménagement concerté Saint-Sauveur au titre de l'article L. 214-3 du code de l'environnement.           Par un jugement avant dire droit du 14 octo",
       "score": 15,
       "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.6 (>14d)",
       "doc_type": null,
@@ -6845,42 +6755,6 @@
       "is_primary": true
     },
     {
-      "hash": "8fd6af7752a3",
-      "source_name": "US Treasury - Sanctions Press",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses",
-      "url": "https://home.treasury.gov/news/press-releases/sb0416",
-      "author": "",
-      "published": "2026-03-12T00:00:00Z",
-      "summary": "Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses",
-      "score": 15,
-      "doc_type": "news",
-      "action_class": "sanctions",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions imposées par le Trésor américain contre des facilitateurs de fraude.",
-      "score_breakdown": "+20 mots critiques: sanction, fraud | +5 Source Intl | ×0.6 (>14d)"
-    },
-    {
-      "hash": "b29c0232dcab741f",
-      "source_name": "US Treasury - Sanctions Press",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Treasury Continues to Disrupt Hamas' Sham Charity Network as the Group Refuses to Disarm",
-      "url": "https://home.treasury.gov/news/press-releases/sb0415",
-      "author": "",
-      "published": "2026-03-12T00:00:00",
-      "summary": "Treasury disrupts Hamas sham charity network; continued sanctions pressure.",
-      "score": 15,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le Trésor américain sanctionne les organisations caritatives fictives du Hamas pour financer ses activités terroristes.",
-      "score_breakdown": "+20 mots critiques: sanction | +5 Source Intl | ×0.6 (>14d)"
-    },
-    {
       "hash": "40469a15fb8f6b7e",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -6896,7 +6770,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3c9da1e38ae1e5df",
@@ -6951,7 +6825,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b20bafa97e384a1e",
@@ -7358,24 +7232,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des tensions réglementaires entre la GDPR et l'EU Data Act."
-    },
-    {
-      "hash": "9d4b808a06c8",
-      "source_name": "CJUE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Restrictive measures regarding Russia: asset freezing prevents depositary receipt holders from shareholder voting",
-      "url": "https://curia.europa.eu/site/jcms/d6_1000000368/en/upload/docs/application/pdf/2026-03/cp260035en.pdf",
-      "author": "",
-      "published": "2026-03-12T00:00:00Z",
-      "summary": "Restrictive measures regarding Russia: asset freezing prevents depositary receipt holders from shareholder voting",
-      "score": 9,
-      "doc_type": "sanction",
-      "action_class": "sanction_update",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les mesures restrictives contre la Russie imposent le gel des actifs, affectant les droits de vote des détenteurs de certificats de dépôt.",
-      "score_breakdown": "+15 Source EU | ×0.6 (>14d)"
     },
     {
       "hash": "f43c648b7cdf148b",
@@ -7904,24 +7760,6 @@
       "is_primary": true
     },
     {
-      "hash": "d99ed21ec2f0db14",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "La négociation sur les contrats courts s’achève dans une impasse",
-      "url": "https://www.lemonde.fr/politique/article/2026/04/09/la-negociation-sur-les-contrats-courts-s-acheve-dans-une-impasse_6678649_823448.html",
-      "author": "",
-      "published": "2026-04-09T20:25:36",
-      "summary": "Jeudi 9 avril, lors de la cinquième et dernière séance de discussions sur la régulation des contrats courts, les partenaires sociaux ont échoué à trouver un accord.",
-      "score": 4,
-      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "83c9f2ae6a11801e",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -8099,7 +7937,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption transfrontalière contre le groupe Adani, impliquant des violations de lois anti-corruption."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption étrangère contre le groupe Adani, violation majeure des réglementations anticorruption."
     },
     {
       "hash": "a27f74dd31c20047",
@@ -8174,6 +8012,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de corruption et de pratiques frauduleuses contraires aux règles de conformité."
     }
   ],
-  "last_update": "2026-04-10T19:25:43.556422+00:00",
+  "last_update": "2026-04-11T01:21:09.591783+00:00",
   "last_updated": "2026-03-31T20:26:00.316175+00:00"
 }
