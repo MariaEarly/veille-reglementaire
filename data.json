@@ -598,7 +598,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article transpose une directive européenne modifiant les règles de surveillance bancaire, sanctions et risques ESG, relevant directement de la conformité financière réglementaire."
+      "ai_summary": "Cette ordonnance transpose une directive européenne modifiant la réglementation bancaire sur la surveillance, les sanctions et les risques ESG."
     },
     {
       "hash": "d9c5ceb22e9d4f7c",
@@ -724,7 +724,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet arrêté fixe le montant de la contribution financière que les gestionnaires de crédits doivent payer pour les frais de contrôle réglementaire."
     },
     {
       "hash": "1fbb62c5d01bfa6c",
@@ -1231,24 +1231,6 @@
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'adoption d'un paquet législatif anti-blanchiment par l'UE.",
       "score_breakdown": "+20 mots critiques: blanchiment, money laundering | +20 mots forts: aml, anti-money, amla | +15 Source EU | +10 Géo EU: conseil de l'ue, amla | ×1.0 (7d)"
-    },
-    {
-      "hash": "64b2180a212a2cdd",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Vue PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52cUlSaVBmSjkxN2xiOU01cVFlNncxSGRwbW1HWGlyZF90VTYxdndUZ01QSGo1bW9FUkF0TUxlX1haSTdzNHl6ekFLaVBNeTcwdFBXWHhjSVVoMVRWVnA1OGctaHp2dw?oc=5",
-      "author": "",
-      "published": "2026-04-10T17:58:39",
-      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
-      "score": 60,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b6086d2f28dce231",
@@ -1796,14 +1778,14 @@
       "ai_summary": "BaFin classe le risque de blanchiment et financement du terrorisme en cryptomonnaies comme priorité majeure de conformité."
     },
     {
-      "hash": "195d3a6469498a31",
+      "hash": "695f36d67bdef0d1",
       "source_name": "ACPR",
       "source_type": "rss",
       "category": "autorite_fr",
       "title": "View PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mVllfQWZuekgwdkFuM0pzT0toeGNFMUZnZ3hfajc3RVc3ZEpSSXRKMGRJcHE3cGtpd1Jlc2lDR2ZhU3gtVENCUWY1LTlfZWNzaFRkUFpsbnJfWUFZUERNc1lWTEl5QQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hRDYtY29VajF3ZHFpOVZJaG9xdERMSEJfVTVkWjJpN2hjbXpPYXV1Vkc2YmNRTV9iV3pRandkMTZTeVV2MFBxRl9lR21LbEtGN2xwODhlUXlJNlBHUjNiOHA1clBKQQ?oc=5",
       "author": "",
-      "published": "2026-04-05T12:12:33",
+      "published": "2026-04-06T05:24:40",
       "summary": "View PDF&nbsp;&nbsp;Banque de France",
       "score": 50,
       "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
@@ -1811,7 +1793,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "38bbd5ee9b9f928b",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fMjRkQWk2VUpQT0hQQ1ZlYW4tSXBadzRBaUlYVG5EWDVfb1VtWV92cUhMYkxjdVlJQnlVeV9uYl9fZERDOEdLdmxJUE4yTDFpd0NXOThjUGVVU05mYUVlN3otUUJpdw?oc=5",
+      "author": "",
+      "published": "2026-04-05T11:53:48",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "1ba7cc5de2d53605",
@@ -2072,24 +2072,6 @@
       "ai_summary": "Ces CJIP imposent aux entreprises des programmes de mise en conformité pour violations financières et de corruption.",
       "score_breakdown": "+10 mots forts: conformité | +5 mots moyens: paiement | +25 Source FR | +20 Géo FR: parquet national financier, cjip | ×0.8 (14d)",
       "is_primary": true
-    },
-    {
-      "hash": "7a1b73c85551f951",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, 2ème chambre, 09 avril 2026, 506535",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260409-506535",
-      "author": "2ème chambre",
-      "published": "2026-04-09T12:00:00",
-      "summary": "Vu la procédure suivante :                  Par une requête sommaire et un mémoire complémentaire enregistrés les 23 juillet et 27 octobre 2025 au secrétariat du contentieux du Conseil d'Etat, M. A... B... demande au Conseil d'Etat :                  1° d'annuler la décision du 30 juin 2025 par laquelle la commission des sanctions de l'Agence française de lutte contre le dopage AFLD lui a interdit pour une durée de quatre ans :                  - de participer, à quelque titre que ce soit, à une",
-      "score": 48,
-      "score_breakdown": "+20 mots critiques: sanction | +20 Géo FR: france, français, française | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2355dec4e9b6602b",
@@ -3516,7 +3498,7 @@
       "title": "Inès Bernard, d’Anticor : « La convention judiciaire d’intérêt public est devenue un pis-aller à la paupérisation de la justice »",
       "url": "https://www.lemonde.fr/idees/article/2026/04/11/ines-bernard-d-anticor-la-convention-judiciaire-d-interet-public-est-devenue-un-pis-aller-a-la-pauperisation-de-la-justice_6679353_3232.html",
       "author": "",
-      "published": "2026-04-11T09:00:12",
+      "published": "2026-04-11T09:00:03",
       "summary": "Dans une tribune au « Monde », la déléguée générale de l’association anticorruption Anticor explique les raisons de son opposition à la CJIP, dont le fonctionnement s’apparente, selon elle, à un « instrument au service de l’impunité des entreprises ».",
       "score": 34,
       "score_breakdown": "+3 Presse | +20 Géo FR: cjip | ×1.5 (<24h)",
@@ -3524,7 +3506,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "db03cf53653eab53",
@@ -3921,7 +3903,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1bd161ea73a4b0c7",
@@ -3939,7 +3921,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f7fd8fdcd0756154",
@@ -4460,6 +4442,24 @@
       "is_primary": false
     },
     {
+      "hash": "b22264d9bb793f31",
+      "source_name": "Cass. - Corruption",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de NANCY, 2ème chambre, 19 mars 2026, 24NC00286",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDENANCY-20260319-24NC00286",
+      "author": "2ème chambre",
+      "published": "2026-03-19T12:00:00",
+      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           M. D... a demandé au tribunal administratif de Besançon d'annuler l'arrêté du 9 janvier 2021 par lequel le président du conseil d'administration du service départemental d'incendie et de secours SDIS de la Haute-Saône a prononcé à son endroit la sanction d'exclusion temporaire de fonctions pour une durée de deux ans.           Par un jugement n°2100195 du 5 décembre 2023, le tribunal administratif de Besançon a re",
+      "score": 27,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +20 Géo FR: france | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "88e65851fd13b5f8",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -4550,7 +4550,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ffde73cc6c09fc1d",
@@ -5003,7 +5003,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f3d2447be4944156",
@@ -5536,43 +5536,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
-    },
-    {
-      "hash": "c1e565000fe24d5f",
-      "source_name": "Cass. - Fraude",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de MARSEILLE, 1ère chambre, 02 avril 2026, 24MA00916",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEMARSEILLE-20260402-24MA00916",
-      "author": "1ère chambre",
-      "published": "2026-04-02T12:00:00",
-      "summary": "68-02-04-02 Urbanisme et aménagement du territoire. - Procédures d'intervention foncière. - Lotissements. - Autorisation de lotir. ... Vu la procédure suivante :           Procédure contentieuse antérieure :           La société civile de construction-vente SCCV La Farlède Force 5 a demandé au tribunal administratif de Toulon d'annuler l'arrêté du 27 novembre 2020 par lequel le préfet du Var ne s'est pas opposé à la déclaration préalable de division foncière déposée par la chambre de commerce et",
-      "score": 20,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "9077ba78ba47b18f",
-      "source_name": "Cass. - Fraude",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de NANCY, 1ère chambre, 02 avril 2026, 24NC02607",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDENANCY-20260402-24NC02607",
-      "author": "1ère chambre",
-      "published": "2026-04-02T12:00:00",
-      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           Mme A... B... a demandé au tribunal administratif de Strasbourg d'annuler l'arrêté du 5 avril 2024 par lequel la préfète du Bas-Rhin lui a refusé l'admission au séjour, l'a obligée à quitter le territoire français dans un délai de trente jours et a fixé le pays de destination, d'enjoindre à la préfète du Bas-Rhin de lui délivrer une autorisation provisoire de séjour dans un délai de quinze jours sous astreinte de ",
-      "score": 20,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france, français | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "af81fd962c6fac38",
@@ -6556,24 +6520,6 @@
       "is_primary": false
     },
     {
-      "hash": "ebf1b1b1955cede1",
-      "source_name": "Cass. - Blanchiment",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de TOULOUSE, 4ème chambre, 26 mars 2026, 23TL02268",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDETOULOUSE-20260326-23TL02268",
-      "author": "4ème chambre",
-      "published": "2026-03-26T12:00:00",
-      "summary": "68-04-045 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. ... Vu la procédure suivante :           Procédures contentieuses antérieures :           Sous le n° 2205268, la société anonyme SA Bouygues Telecom et la société par actions simplifiée SAS Cellnex France ont demandé au tribunal administratif de Montpellier d'annuler l'arrêté du 12 août 2022 par lequel le maire de Saint-Gély-du-Fesc s'est opposé à la déclaration ",
-      "score": 15,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "dcf615b2be369a6a",
       "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
@@ -6583,6 +6529,24 @@
       "author": "1ère chambre",
       "published": "2026-03-26T12:00:00",
       "summary": "Vu la procédure suivante :            Procédure contentieuse antérieure :           L'association pour la suppression des pollutions industrielles ASPI a demandé au tribunal administratif de Lille d'annuler l'arrêté du 29 mai 2018 par lequel le préfet du Nord a accordé à la métropole européenne de Lille MEL une autorisation d'aménagement de la zone d'aménagement concerté Saint-Sauveur au titre de l'article L. 214-3 du code de l'environnement.           Par un jugement avant dire droit du 14 octo",
+      "score": 15,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance."
+    },
+    {
+      "hash": "ebf1b1b1955cede1",
+      "source_name": "Cass. - Blanchiment",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de TOULOUSE, 4ème chambre, 26 mars 2026, 23TL02268",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDETOULOUSE-20260326-23TL02268",
+      "author": "4ème chambre",
+      "published": "2026-03-26T12:00:00",
+      "summary": "68-04-045 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. ... Vu la procédure suivante :           Procédures contentieuses antérieures :           Sous le n° 2205268, la société anonyme SA Bouygues Telecom et la société par actions simplifiée SAS Cellnex France ont demandé au tribunal administratif de Montpellier d'annuler l'arrêté du 12 août 2022 par lequel le maire de Saint-Gély-du-Fesc s'est opposé à la déclaration ",
       "score": 15,
       "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.6 (>14d)",
       "doc_type": null,
@@ -6735,7 +6699,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b20bafa97e384a1e",
@@ -7688,6 +7652,24 @@
       "is_primary": true
     },
     {
+      "hash": "858c2861dec1fe2e",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Data centers : « Limiter les impacts spatiaux, énergétiques et environnementaux des grandes fermes de données est fondamental »",
+      "url": "https://www.lemonde.fr/idees/article/2026/04/12/data-centers-limiter-les-impacts-spatiaux-energetiques-et-environnementaux-des-grandes-fermes-de-donnees-est-fondamental_6679547_3232.html",
+      "author": "",
+      "published": "2026-04-12T06:00:15",
+      "summary": "Dans une tribune au « Monde », l’avocat Sébastien Barles alerte sur la nécessaire mise en place d’une régulation des infrastructures de données, au fonctionnement opaque, énergivore et riche d’externalités négatives dont pâtissent les territoires où sont implantées ces structures.",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "03203157f24aadb0",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -7703,7 +7685,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "83c9f2ae6a11801e",
@@ -7847,7 +7829,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les poursuites en matière de corruption transfrontalière contre le groupe Adani, relevant de la conformité anticorruption et des obligations légales internationales."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a27f74dd31c20047",
@@ -7922,6 +7904,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de corruption et de pratiques frauduleuses contraires aux règles de conformité."
     }
   ],
-  "last_update": "2026-04-12T03:49:44.770191+00:00",
+  "last_update": "2026-04-12T07:05:14.800122+00:00",
   "last_updated": "2026-03-31T20:26:00.316175+00:00"
 }
