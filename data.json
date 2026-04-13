@@ -598,7 +598,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des règles de reporting des données SEPA par les autorités nationales, essentielle pour la conformité réglementaire."
+      "ai_summary": "L'article concerne l'harmonisation des rapports de conformité SEPA par les autorités nationales auprès de l'EBA."
     },
     {
       "hash": "c68ef462100c2285",
@@ -652,7 +652,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction pénale pour obstruction d'enquête de l'AMF, autorité de régulation des marchés financiers."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction pour obstruction d'enquête réglementaire par l'AMF."
     },
     {
       "hash": "03004a25a369d6b4",
@@ -778,7 +778,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4a8f38927e46b190",
@@ -837,24 +837,6 @@
       "score_breakdown": "+20 mots critiques: blanchiment, money laundering | +20 mots forts: aml, anti-money, amla | +15 Source EU | +10 Géo EU: conseil de l'ue, amla | ×1.0 (7d)"
     },
     {
-      "hash": "d8e4ce51608a9312",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Vue PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45S1FrNWZaNVpGRThFczJVS1lYR0Nva3M4UlktNmVINDEwdzU2WFM5aUZRbkV2ak9rdzlWVUVVcF9taXR5NkZhNjNocFdrZmFsVjJHQTBNZmZJREhpM0trYWllRjlDQQ?oc=5",
-      "author": "",
-      "published": "2026-04-10T15:59:21",
-      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
-      "score": 60,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "d1e80377fa7d2c74",
       "source_name": "AMF - Communiqués",
       "source_type": "rss",
@@ -870,7 +852,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'AMF sanctionne un conseiller financier pour manquements à ses obligations professionnelles, illustrant l'application du droit de la conformité réglementaire."
+      "ai_summary": "La Commission des sanctions de l'AMF sanctionne un conseiller en investissements pour manquements à ses obligations professionnelles, relevant de la conformité réglementaire financière."
     },
     {
       "hash": "74fcbe8b9189a049",
@@ -1310,6 +1292,42 @@
       "ai_summary": "Cet article traite de la conformité financière car il aborde le renforcement des obligations AML/CFT pour les crypto-actifs par BaFin."
     },
     {
+      "hash": "885c8193444a44a8",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "View PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwQnc4d2l6RWRBSkdQbkZsSHRNUzhJRUZRdEd1a1NhVENQSGJ6ZUVTTXlSUHFXb1NlekdwVVlmNW9WZU90ZTlHb05FbmNwNHpEMmhMLVEzclplWldTajVEa2pKcFJRQQ?oc=5",
+      "author": "",
+      "published": "2026-04-09T23:53:59",
+      "summary": "View PDF&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "2c2d4d27c970a8de",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mMGFEeWQwRk4wSUNvWGxXa2ZXcWVaSUR4N3c0RXk5Q0p2ZnN2YnlsUktHRDJ4UkdOSFA3Q0VGU2xCV1pwS0lmTHFTQzZrbk10MEt6UjJ1VjZpaUlnUGFDQWJEQ3JnUQ?oc=5",
+      "author": "",
+      "published": "2026-04-09T20:35:42",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "e492c1d1721f6335",
       "source_name": "JORF - Sanctions",
       "source_type": "rss",
@@ -1434,7 +1452,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il décrit comment la Hongrie a aidé à contourner les sanctions de l'UE contre la Russie et ses oligarques."
+      "ai_summary": "Cet article concerne la conformité financière car il documente des violations potentielles des sanctions de l'UE contre la Russie."
     },
     {
       "hash": "158e97f53889232b",
@@ -1525,7 +1543,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il présente un rapport des autorités de supervision européennes identifiant les risques dans le système financier de l'UE."
+      "ai_summary": "Cet article concerne la conformité financière car il rapporte l'évaluation des risques et vulnérabilités du système financier de l'UE par les autorités de surveillance."
     },
     {
       "hash": "c346f2c175c9853e",
@@ -1581,7 +1599,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA publie une liste des problèmes de modèles de points de données pour améliorer la transparence des institutions de reporting."
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA publie une liste de problèmes de modèles de points de données pour améliorer la transparence et soutenir les institutions de déclaration."
     },
     {
       "hash": "513968b335d099b8",
@@ -1856,7 +1874,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne l'évaluation de l'aptitude et de l'honorabilité des dirigeants de banques et sociétés d'investissement pour assurer la conformité réglementaire européenne."
+      "ai_summary": "L'article concerne l'évaluation harmonisée des critères \"fit and proper\" pour les rôles clés dans les banques et sociétés d'investissement."
     },
     {
       "hash": "7742a06e0a5557ce",
@@ -1910,7 +1928,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'amélioration du cadre de reporting réglementaire bancaire et de la transparence des données."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de reporting des banques selon le cadre DPM de l'EBA."
     },
     {
       "hash": "161de54c0a6dc37d",
@@ -1963,7 +1981,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il rapporte l'évaluation réglementaire de la solidité du secteur bancaire européen par l'autorité de supervision.",
+      "ai_summary": "Cet article concerne la conformité financière car le tableau de bord de l'EBA évalue la solidité réglementaire du secteur bancaire européen en matière de capital, liquidité et qualité des actifs.",
       "score_breakdown": "+10 mots forts: eba | +15 mots moyens: risk, directive, regulation | +15 Source EU | +10 Géo EU: eba | ×0.8 (14d)",
       "is_primary": true
     },
@@ -1983,7 +2001,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il rapporte une sanction de l'AMF pour manquement aux obligations professionnelles d'un conseiller en investissements."
+      "ai_summary": "L'AMF sanctionne un conseiller en investissements pour manquements à ses obligations professionnelles, relevant directement de la conformité réglementaire et financière."
     },
     {
       "hash": "eaa2e99cfd955793",
@@ -2055,7 +2073,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la standardisation de la terminologie bancaire pour la conformité de la déclaration de données."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la standardisation des termes de reporting bancaire, essentielle pour la conformité réglementaire."
     },
     {
       "hash": "4658c974e05663d7",
@@ -2091,7 +2109,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des activités du Parquet national financier chargé de poursuivre les infractions financières."
+      "ai_summary": "Cet article concerne les enjeux et la coopération du Parquet national financier, autorité spécialisée dans les enquêtes de conformité financière et fraude."
     },
     {
       "hash": "898c2094f4cefc4e",
@@ -2109,7 +2127,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il rapporte une décision de sanction de l'AMF contre une société de conseil financier et ses dirigeants."
+      "ai_summary": "Cette décision de sanction de l'AMF concerne directement la conformité financière et réglementaire des prestataires de services financiers."
     },
     {
       "hash": "5b8ee3fb6d906fd7",
@@ -2345,7 +2363,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les programmes de conformité FCPA doivent adapter leur approche aux spécificités régionales du Golfe pour détecter efficacement la corruption et la fraude."
+      "ai_summary": "Les programmes de conformité FCPA ne tiennent pas compte des spécificités régionales de la corruption, ce qui risque de manquer les signaux d'alerte."
     },
     {
       "hash": "511fbfe489a3adfd",
@@ -2435,7 +2453,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la formation des responsables de la conformité et des systèmes d'information sur les obligations réglementaires et les bonnes pratiques."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "80be931eb9786ae6",
@@ -2616,7 +2634,7 @@
       "action_class": "enforcement",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions financières et le gel des avoirs, mesures clés de conformité en matière de lutte contre le blanchiment et le respect des régimes restrictifs internationaux.",
+      "ai_summary": "Cet article concerne le gel des avoirs de personnalités russes dans le cadre des sanctions, une mesure relevant de la conformité aux sanctions internationales.",
       "score_breakdown": "+20 mots critiques: sanction, gel des avoirs | +15 Source EU | ×1.0 (7d)"
     },
     {
@@ -2871,7 +2889,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne les directives de l'ESMA sur les scénarios de tests de stress pour les fonds monétaires, relevant de la conformité réglementaire financière."
+      "ai_summary": "Cet article concerne les directives de l'ESMA sur les scénarios de tests de stress pour les fonds monétaires, un sujet central de conformité financière."
     },
     {
       "hash": "e839aabbb9fc344e",
@@ -2905,24 +2923,6 @@
       "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: regulation | +15 Source EU | +10 Géo EU: european commission | ×0.8 (14d)",
       "doc_type": null,
       "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "1bd161ea73a4b0c7",
-      "source_name": "Commission EU - Press",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Commission publishes guidance to support implementation of new packaging rules, for a more sustainable and competitive EU packaging sector",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_664",
-      "author": "",
-      "published": "2026-03-29T22:00:00",
-      "summary": "European Commission Press release Brussels, 30 Mar 2026 Today, the European Commission published guidelines on the implementation of the Packaging and Packaging Waste Regulation (PPWR) to facilitate the uniform application of the new packaging rules across the EU and simplify compliance for economic actors and Member States.",
-      "score": 32,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: regulation | +15 Source EU | +10 Géo EU: european commission, member state | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
       "status": "new",
       "early_brief": false,
       "ai_summary": "Hors périmètre compliance"
@@ -2980,7 +2980,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des normes techniques réglementaires relatives aux fonds propres et passifs éligibles des banques.",
+      "ai_summary": "Cet article concerne la conformité financière car il traite des normes techniques réglementaires sur les fonds propres et passifs éligibles des banques.",
       "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +15 Source EU | +10 Géo EU: eba | ×0.8 (14d)",
       "is_primary": true
     },
@@ -3001,23 +3001,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité de la protection des données personnelles dans le cadre de la cybersécurité européenne."
-    },
-    {
-      "hash": "4c7cb58b488c",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Cyber-attacks against the EU and its member states: Council sanctions three entities and two individuals",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/03/16/cyber-attacks-against-the-eu-and-its-member-states-council-sanctions-three-entities-and-two-individuals/",
-      "author": "",
-      "published": "2026-03-16",
-      "summary": "EU Council adopts restrictive measures against 3 entities and 2 individuals for cyber-attacks against EU member states",
-      "score": 32,
-      "doc_type": "press_release",
-      "action_class": "enforcement",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1bd040e347fd9092",
@@ -3194,7 +3177,7 @@
       "action_class": "enforcement",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car le Trésor américain impose des sanctions contre un réseau impliqué dans le vol d'outils cybernétiques gouvernementaux."
+      "ai_summary": "Cet article concerne la conformité financière car le Trésor applique des sanctions contre un réseau impliqué dans le vol d'outils gouvernementaux."
     },
     {
       "hash": "b036e96c4a0f43b8",
@@ -3266,7 +3249,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'EBA met à jour les directives sur les expositions au secteur bancaire parallèle pour renforcer la conformité réglementaire des institutions financières."
+      "ai_summary": "Les directives de l'EBA sur les expositions aux entités de shadow banking relèvent de la conformité réglementaire et du contrôle des risques financiers."
     },
     {
       "hash": "00ee8455b64623d9",
@@ -3432,24 +3415,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les normes techniques de l'EBA sur les délais d'autorisation bancaire préalable."
-    },
-    {
-      "hash": "8b690c8fb89698b8",
-      "source_name": "EDPB - European Data Protection Board",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR",
-      "url": "https://www.edpb.europa.eu/news/news/2026/cef-2026-edpb-launches-coordinated-enforcement-action-transparency-and-information_en",
-      "author": "EDPB",
-      "published": "2026-03-19T12:00:00",
-      "summary": "Brussels, 19 March - The EDPB has launched its Coordinated Enforcement Framework (CEF) action for 2026*. Following a year-long coordinated action on the right to erasure in 2025, the CEF's focus this year will shift to compliance with the obligations of transparency and information under the GDPR.\nThe GDPR ensures that individuals are informed when their data is being processed (under Art. 12, 13 and 14). This right to be informed is a core element of transparency and ensures that individuals ha",
-      "score": 28,
-      "score_breakdown": "+10 mots forts: compliance | +15 Source EU | +10 Géo EU: edpb | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "418afc265aa25fbf",
@@ -3654,7 +3619,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "88e65851fd13b5f8",
@@ -3710,25 +3675,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les défaillances présumées de conformité de Circle dans la détection et le blocage de fonds illicites circulant sur ses infrastructures."
-    },
-    {
-      "hash": "332519feb7f177ed",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Loïc André (Tetra HSSE) : Tetra HSSE, conformité et sécurité - 11/04",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/video-loic-andre-tetra-hsse-tetra-hsse-conformite-et-securite-11-04_VN-202604110346.html",
-      "author": "",
-      "published": "2026-04-11T20:11:11",
-      "summary": "BFM BUSINESS PARTENAIRE - Ce samedi 11 avril, Loïc André, président fondateur de Tetra HSSE, s’est penché sur les missions du cabinet, les avantages pour les propriétaires de faire appel à ses services, les engagements de l’entreprise, ainsi que sur le développement de nouveaux axes stratégiques, dans l'émission Paroles d'entreprises présentée par Vincent Touraine. Paroles d'entreprises est à voir ou écouter le samedi sur BFM Business. Cette émission a été réalisée par notre partenaire Médias Fr",
-      "score": 27,
-      "score_breakdown": "+10 mots forts: conformité | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet article concerne la conformité financière car il documente des manquements présumés de Circle aux obligations de conformité réglementaire dans la détection et le blocage de fonds illicites."
     },
     {
       "hash": "50d0461d37ba4598",
@@ -3746,7 +3693,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il critique la CJIP, un mécanisme de règlement des affaires de corruption qui affecte la responsabilité pénale et financière des entreprises."
+      "ai_summary": "Cet article concerne la conformité financière car il critique les mécanismes de régulation des entreprises face à la corruption."
     },
     {
       "hash": "db03cf53653eab53",
@@ -3764,7 +3711,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une fraude immobilière majeure impliquant blanchiment potentiel et violation des obligations de diligence raisonnable."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une fraude immobilière majeure impliquant des transactions suspectes et des poursuites judiciaires."
     },
     {
       "hash": "fe297d570b7df5c4",
@@ -3890,7 +3837,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une enquête de corruption menée par la Banque mondiale contre des entreprises impliquées dans un marché public corrompu en 2013 en Azerbaïdjan."
+      "ai_summary": "La Banque mondiale poursuit des sanctions contre des entreprises pour corruption dans un marché public, ce qui relève de la conformité et de la lutte anti-fraude."
     },
     {
       "hash": "cb829d1092c6",
@@ -3907,7 +3854,7 @@
       "action_class": "sanction",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Hors périmètre compliance",
       "score_breakdown": "+15 Source EU | +10 Géo EU: conseil de l'ue | ×1.0 (7d)"
     },
     {
@@ -4052,7 +3999,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'EBA consulte sur des directives mises à jour pour les expositions aux entités de shadow banking, alignées avec les nouvelles RTS et basées sur le capital Tier 1."
     },
     {
       "hash": "3a10e498bcde55cc",
@@ -4070,7 +4017,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Le droit au compte est une obligation légale de conformité bancaire garantissant l'accès aux services financiers de base."
     },
     {
       "hash": "6a7d811c24c264cd",
@@ -4088,7 +4035,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du relâchement réglementaire de la Travel Rule par AUSTRAC pour les prestataires de services crypto jusqu'en 2030."
     },
     {
       "hash": "9f0ee0eaedc5619c",
@@ -4106,7 +4053,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la régulation des stablecoins par l'autorité monétaire de Hong Kong."
     },
     {
       "hash": "8e4f7f6ed818e351",
@@ -4126,6 +4073,24 @@
       "ai_summary": "L'EBA contribue aux discussions sur la simplification du cadre prudentiel, la mise en œuvre de Bâle III et l'intégration bancaire.",
       "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.0 (7d)",
       "is_primary": false
+    },
+    {
+      "hash": "1bd161ea73a4b0c7",
+      "source_name": "Commission EU - Press",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Commission publishes guidance to support implementation of new packaging rules, for a more sustainable and competitive EU packaging sector",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_664",
+      "author": "",
+      "published": "2026-03-29T22:00:00",
+      "summary": "European Commission Press release Brussels, 30 Mar 2026 Today, the European Commission published guidelines on the implementation of the Packaging and Packaging Waste Regulation (PPWR) to facilitate the uniform application of the new packaging rules across the EU and simplify compliance for economic actors and Member States.",
+      "score": 24,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: regulation | +15 Source EU | +10 Géo EU: european commission, member state | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "3fd195cd7dcf2349",
@@ -4198,7 +4163,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "47edda49a30437d4",
@@ -4310,7 +4275,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article traite des risques systémiques liés aux marchés crypto et à leur intégration au système financier global, relevant de la conformité réglementaire et de la surveillance des risques.",
       "score_breakdown": "+20 mots forts: crypto, esma | +10 Géo EU: esma | ×0.8 (14d)",
       "is_primary": false
     },
@@ -4349,7 +4314,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Ce texte concerne la conformité financière car il traite de la protection légale des entreprises face aux risques de litiges liés au respect des sanctions et des contrôles à l'exportation."
     },
     {
       "hash": "3c6c3b862748",
@@ -4367,7 +4332,7 @@
       "action_class": "new_regulation",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'approbation officielle d'une aide financière réglementée par le cadre légal SAFE."
     },
     {
       "hash": "c6c78e91228f",
@@ -4385,7 +4350,7 @@
       "action_class": "new_regulation",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les nouvelles règles EU d'insolvabilité harmonisent les procédures, améliorant la transparence financière et le risque de crédit pour les investisseurs."
     },
     {
       "hash": "ac8d3908238a",
@@ -4493,7 +4458,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f78448ecd5554832",
@@ -4568,6 +4533,24 @@
       "ai_summary": "Les trois banques du Surinam ont été sanctionnées pour non-conformité aux règles de lutte contre le blanchiment de capitaux."
     },
     {
+      "hash": "8b690c8fb89698b8",
+      "source_name": "EDPB - European Data Protection Board",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "CEF 2026: EDPB launches coordinated enforcement action on transparency and information obligations under the GDPR",
+      "url": "https://www.edpb.europa.eu/news/news/2026/cef-2026-edpb-launches-coordinated-enforcement-action-transparency-and-information_en",
+      "author": "EDPB",
+      "published": "2026-03-19T12:00:00",
+      "summary": "Brussels, 19 March - The EDPB has launched its Coordinated Enforcement Framework (CEF) action for 2026*. Following a year-long coordinated action on the right to erasure in 2025, the CEF's focus this year will shift to compliance with the obligations of transparency and information under the GDPR.\nThe GDPR ensures that individuals are informed when their data is being processed (under Art. 12, 13 and 14). This right to be informed is a core element of transparency and ensures that individuals ha",
+      "score": 21,
+      "score_breakdown": "+10 mots forts: compliance | +15 Source EU | +10 Géo EU: edpb | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "51d8eba14f002099",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -4605,6 +4588,24 @@
       "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | ×0.6 (>14d)"
     },
     {
+      "hash": "332519feb7f177ed",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Loïc André (Tetra HSSE) : Tetra HSSE, conformité et sécurité - 11/04",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/video-loic-andre-tetra-hsse-tetra-hsse-conformite-et-securite-11-04_VN-202604110346.html",
+      "author": "",
+      "published": "2026-04-11T20:11:11",
+      "summary": "BFM BUSINESS PARTENAIRE - Ce samedi 11 avril, Loïc André, président fondateur de Tetra HSSE, s’est penché sur les missions du cabinet, les avantages pour les propriétaires de faire appel à ses services, les engagements de l’entreprise, ainsi que sur le développement de nouveaux axes stratégiques, dans l'émission Paroles d'entreprises présentée par Vincent Touraine. Paroles d'entreprises est à voir ou écouter le samedi sur BFM Business. Cette émission a été réalisée par notre partenaire Médias Fr",
+      "score": 21,
+      "score_breakdown": "+10 mots forts: conformité | +5 mots moyens: ppe | +3 Presse | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "ffde73cc6c09fc1d",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -4620,7 +4621,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de falsification de dossiers de conformité et de pressions exercées par une banque."
     },
     {
       "hash": "f044e4ea2f234412",
@@ -4638,7 +4639,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La SFC gèle 219M$ pour manipulation de marché, démontrant l'application de règles anti-fraude et de conformité financière."
     },
     {
       "hash": "fa243256d8f21148",
@@ -4656,7 +4657,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La FDIC exclut les stablecoins de l'assurance-dépôts, impactant la conformité réglementaire bancaire américaine."
     },
     {
       "hash": "6c97e207ec3fdc05",
@@ -4693,7 +4694,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "af81fd962c6fac38",
@@ -4747,7 +4748,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision bancaire européenne, essentielle pour assurer la solidité du système bancaire.",
       "score_breakdown": "+5 mots moyens: bank | +15 Source EU | ×1.0 (7d)",
       "is_primary": true
     },
@@ -4843,7 +4844,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité aux sanctions financières internationales et la prévention des transactions frauduleuses contournant les régimes de sanctions."
     },
     {
       "hash": "1f5fadb7052e",
@@ -4896,7 +4897,7 @@
       "action_class": "monitoring",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article concerne la conformité aux normes de lutte contre le blanchiment de capitaux et le financement du terrorisme.",
       "score_breakdown": "+20 mots critiques: money laundering | +5 Source Intl | ×0.8 (14d)"
     },
     {
@@ -4914,7 +4915,7 @@
       "action_class": "monitoring",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article traite de la conformité financière car il concerne les mesures contre le blanchiment de capitaux et le financement du terrorisme.",
       "score_breakdown": "+20 mots critiques: money laundering | +5 Source Intl | ×0.8 (14d)"
     },
     {
@@ -4932,7 +4933,7 @@
       "action_class": "general",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article concerne l'évaluation de la conformité technique des pays aux recommandations FATF anti-blanchiment.",
       "score_breakdown": "+20 mots forts: compliance, fatf | +5 Source Intl | ×0.8 (14d)"
     },
     {
@@ -4950,7 +4951,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article concerne l'évaluation du respect par la Bulgarie des normes anti-blanchiment et lutte contre le financement du terrorisme.",
       "score_breakdown": "+20 mots forts: aml, cft, fatf | +5 Source Intl | ×0.8 (14d)",
       "is_primary": true
     },
@@ -4969,7 +4970,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article concerne l'évaluation de la conformité chypriote aux normes internationales anti-blanchiment et anti-financement du terrorisme.",
       "score_breakdown": "+20 mots forts: aml, cft, compliance | +5 Source Intl | ×0.8 (14d)",
       "is_primary": true
     },
@@ -4988,7 +4989,7 @@
       "action_class": "fraud",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation de la loi américaine anti-corruption (FCPA) impliquant des pots-de-vin.",
       "score_breakdown": "+5 Source Intl | +20 Géo FR: france | ×0.8 (14d)"
     },
     {
@@ -7252,6 +7253,24 @@
       "is_primary": true
     },
     {
+      "hash": "e05f769d82c8f774",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "« Loin d’avoir modernisé la Hongrie, la politique économique de Viktor Orban l’a enfoncée dans une impasse »",
+      "url": "https://www.lemonde.fr/idees/article/2026/04/13/loin-d-avoir-modernise-la-hongrie-la-politique-economique-de-viktor-orban-l-a-enfoncee-dans-une-impasse_6679668_3232.html",
+      "author": "",
+      "published": "2026-04-13T04:00:11",
+      "summary": "Le premier ministre déchu a démontré que le populisme économique pétri de souverainisme et rongé par la corruption finit par produire la stagnation. Les Hongrois ont fini par en tirer la leçon, explique Stéphane Lauer, éditorialiste au « Monde ».",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "858c2861dec1fe2e",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -7504,6 +7523,6 @@
       "ai_summary": null
     }
   ],
-  "last_update": "2026-04-13T03:56:48.925826+00:00",
+  "last_update": "2026-04-13T07:52:09.881122+00:00",
   "last_updated": "2026-04-12T18:05:00Z"
 }
