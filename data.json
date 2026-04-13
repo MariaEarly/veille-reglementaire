@@ -580,7 +580,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les IBAN virtuels présentent des risques de blanchiment de capitaux nécessitant une conformité renforcée aux normes anti-blanchiment."
     },
     {
       "hash": "cfb3acec0e4afc36",
@@ -598,7 +598,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des risques de blanchiment de capitaux liés aux IBAN virtuels."
     },
     {
       "hash": "a48784fb0157c727",
@@ -619,6 +619,24 @@
       "ai_summary": "L'AMF rapporte les résultats de ses contrôles SPOT évaluant la conformité et les contrôles internes des sociétés de gestion d'actifs."
     },
     {
+      "hash": "513a92f91add152c",
+      "source_name": "Parlement EU - ECON",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Briefing - International comparison of Anti-Money Laundering frameworks - PE 779.866 - Committee on Economic and Monetary Affairs",
+      "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2026/779866/ECTI_BRI(2026)779866_EN.pdf",
+      "author": "",
+      "published": "2026-04-12T22:00:00",
+      "summary": "This briefing provides a comparative analysis of anti-money laundering (AML) frameworks in five major financial jurisdictions: the European Union, the United States, the United Kingdom, Japan and Singapore. Although these jurisdictions broadly follow international standards developed by the Financial Action Task Force (FATF), their institutional architectures and supervisory approaches differ significantly. The analysis examines several key dimensions of AML governance framework, including the l",
+      "score": 100,
+      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, fatf, anti-money | +5 mots moyens: supervisory | +15 Source EU | +10 Géo EU: european union | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "50e01384ed5be42e",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -634,7 +652,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du reporting prudentiel, un élément clé de la régulation bancaire."
     },
     {
       "hash": "55eabb698c471d47",
@@ -652,7 +670,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les IBAN virtuels présentent des risques de blanchiment et de financement du terrorisme, nécessitant une vigilance accrue en conformité LCB-FT."
     },
     {
       "hash": "ecc2123626dc12fc",
@@ -727,6 +745,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction pour obstruction d'enquête réglementaire par l'AMF."
     },
     {
+      "hash": "1d19cc97980c1ae7",
+      "source_name": "AMF - Actualités",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "L'AMF salue de premières décisions pénales dans le cadre d’une affaire de réseaux d'initiés",
+      "url": "https://www.amf-france.org/fr/actualites-publications/communiques/communiques-de-lamf/lamf-salue-de-premieres-decisions-penales-dans-le-cadre-dune-affaire-de-reseaux-dinities#xts=607212&xtor=RSS-3&type=RSS",
+      "author": "",
+      "published": "2026-04-13T14:42:46",
+      "summary": "Communiqué AMF                  Abus de marché                    L&#039;AMF salue de premières décisions pénales dans le cadre d’une affaire de réseaux d&#039;initiés",
+      "score": 82,
+      "score_breakdown": "+10 mots forts: amf | +25 Source FR | +20 Géo FR: amf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "03004a25a369d6b4",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -781,6 +817,24 @@
       "ai_summary": "L'ACPR contrôle la conformité prudentielle et financière des établissements bancaires et d'assurance en France."
     },
     {
+      "hash": "59007199e4d75928",
+      "source_name": "Money Laundering News",
+      "source_type": "press",
+      "category": "presse",
+      "title": "FinCEN’s Proposed Rule to Reform Financial Institution AML/CFT",
+      "url": "https://www.moneylaunderingnews.com/2026/04/fincens-proposed-rule-to-reform-financial-institution-aml-cft/",
+      "author": "Terence M. Grugan",
+      "published": "2026-04-13T14:13:18",
+      "summary": "As part of the U.S. Department of Treasury’s efforts to modernize the U.S. anti-money laundering regulatory and supervisory framework, the Financial Crimes Enforcement Network (FinCEN) has issued a proposed rule that would reform how financial institutions design and operate their anti-money laundering and countering the financing of terrorism (AML/CFT) programs. Though not a wholesale rebuild...",
+      "score": 76,
+      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, cft, anti-money | +5 mots moyens: supervisory | +3 Presse | +3 Géo Intl: fincen | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "d6db5323a132ac1e",
       "source_name": "FinCEN (via Fintech Brainfood)",
       "source_type": "email",
@@ -814,7 +868,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Conformité aux régulations ESMA sur les marchés financiers, protection des investisseurs de détail et reporting."
     },
     {
       "hash": "e8e9aa0991b411dc",
@@ -868,7 +922,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4a8f38927e46b190",
@@ -1016,6 +1070,42 @@
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la mise en œuvre des mesures de gel des avoirs, obligation de conformité réglementaire.",
       "score_breakdown": "+20 mots critiques: gel des avoirs | +10 mots forts: acpr | +25 Source FR | +20 Géo FR: acpr, dg trésor | ×0.8 (14d)"
+    },
+    {
+      "hash": "53fb15a63f6b46b8",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 13 April, 2026",
+      "url": "https://www.eba.europa.eu/node/19552",
+      "author": "Anonymous",
+      "published": "2026-04-13T15:00:03",
+      "summary": "EBA E-mail alert 13 April, 2026\n\n  \n    Date\n          13/04/2026\n\n      \n\nAnonymous (not verified)\n\nMon, 04/13/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          The EBA publishes Report on banks’ dry run testing of their recovery plans\n      ",
+      "score": 60,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "979ce7ce7385a258",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "The EBA publishes Report on banks’ dry run testing of their recovery plans",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-report-banks-dry-run-testing-their-recovery-plans",
+      "author": "jana.jaklic@eba.europa.eu",
+      "published": "2026-04-13T14:25:43",
+      "summary": "The European Banking Authority (EBA) today published a Report comparing how banks test the implementation of their recovery plans through so-called “dry runs”. In a context of heightened uncertainty and the continued need for operational preparedness and resilience to unexpected stress events, the analysis confirms that dry runs are an effective tool to strengthen the operationalisation of recovery plans and enhance institutions’ crisis readiness. When used meaningfully, dry runs improve institu",
+      "score": 60,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "cf7cfe4912306e76",
@@ -1342,7 +1432,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne l'enregistrement d'une compagnie d'assurance non-vie auprès de l'ACPR, régulateur français de la conformité prudentielle."
     },
     {
       "hash": "6f5890c6bdbc17d1",
@@ -1397,7 +1487,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cette décision EBA simplifie le signalement SEPA via un canal unique, réduisant les charges administratives et améliorant la collecte de données financières."
     },
     {
       "hash": "d9d180b015474732",
@@ -1415,7 +1505,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La publication de l'EBA sur la simplification du reporting SEPA concerne la conformité réglementaire bancaire."
     },
     {
       "hash": "1941b0257142f385",
@@ -1434,42 +1524,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la conformité financière car il aborde le renforcement des obligations AML/CFT pour les crypto-actifs par BaFin."
-    },
-    {
-      "hash": "885c8193444a44a8",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "View PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwQnc4d2l6RWRBSkdQbkZsSHRNUzhJRUZRdEd1a1NhVENQSGJ6ZUVTTXlSUHFXb1NlekdwVVlmNW9WZU90ZTlHb05FbmNwNHpEMmhMLVEzclplWldTajVEa2pKcFJRQQ?oc=5",
-      "author": "",
-      "published": "2026-04-09T23:53:59",
-      "summary": "View PDF&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "2c2d4d27c970a8de",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Vue PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mMGFEeWQwRk4wSUNvWGxXa2ZXcWVaSUR4N3c0RXk5Q0p2ZnN2YnlsUktHRDJ4UkdOSFA3Q0VGU2xCV1pwS0lmTHFTQzZrbk10MEt6UjJ1VjZpaUlnUGFDQWJEQ3JnUQ?oc=5",
-      "author": "",
-      "published": "2026-04-09T20:35:42",
-      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e492c1d1721f6335",
@@ -1687,7 +1741,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les autorités de supervision européennes publient un rapport d'évaluation des risques systémiques du système financier européen."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des risques et vulnérabilités du système financier de l'UE selon les autorités de supervision."
     },
     {
       "hash": "c346f2c175c9853e",
@@ -1743,7 +1797,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA publie une liste de problèmes de modèles de points de données pour améliorer la transparence des établissements de crédit."
+      "ai_summary": "L'EBA publie une liste de problèmes de modèle de données pour améliorer la transparence de la conformité de reporting."
     },
     {
       "hash": "513968b335d099b8",
@@ -2181,7 +2235,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il évoque un navire figurant sur la liste des sanctions américaines, soulevant des enjeux de respect des régimes de sanctions."
     },
     {
       "hash": "8e91bd04eff344fb",
@@ -2220,6 +2274,24 @@
       "ai_summary": "Cet article concerne les notifications de conformité avec les directives ESMA sur MiCA, élément clé de la conformité réglementaire financière."
     },
     {
+      "hash": "730fa5ec1801f901",
+      "source_name": "EBA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📢EBA publishes report on banks’ recovery‑plan dry runs • Dry runs strengthen crisis readiness when used as real management tools • Differences in maturity across banks • EBA calls for regular testing and stronger links with resolution work 🔗",
+      "url": "https://x.com/EBA_News/status/2043710684345569495",
+      "author": "@EBA_News",
+      "published": "2026-04-13T15:19:00",
+      "summary": "📢EBA publishes report on banks’ recovery‑plan dry runs• Dry runs strengthen crisis readiness when used as real management tools• Differences in maturity across banks• EBA calls for regular testing and stronger links with resolution work🔗 link.europa.eu/3dQchr  — EU Banking Authority - EBA 🇪🇺 (@EBA_News) Apr 13, 2026",
+      "score": 37,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "91119ef38818c42e",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -2235,7 +2307,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la standardisation des rapports bancaires et des définitions pour assurer la conformité réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la standardisation des rapports de données bancaires et de la harmonisation des définitions pour assurer la conformité réglementaire."
     },
     {
       "hash": "4658c974e05663d7",
@@ -2271,7 +2343,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la coordination du Parquet national financier sur les enjeux des juridictions spécialisées."
+      "ai_summary": "Cet article concerne la conformité financière car il rapporte une réunion du Parquet national financier sur ses enjeux."
     },
     {
       "hash": "898c2094f4cefc4e",
@@ -2615,7 +2687,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité car il présente les formations destinées aux responsables de la conformité et de la surveillance interne des entreprises."
     },
     {
       "hash": "80be931eb9786ae6",
@@ -2796,7 +2868,7 @@
       "action_class": "enforcement",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les sanctions financières contre ces oligarques russes relèvent de la conformité aux mesures restrictives de l'UE en matière de lutte contre le blanchiment et le financement du terrorisme.",
+      "ai_summary": "Gel des avoirs de cinq oligarques russes confirmé par la CJUE dans le cadre des sanctions anti-Russie liées à l'Ukraine.",
       "score_breakdown": "+20 mots critiques: sanction, gel des avoirs | +15 Source EU | ×1.0 (7d)"
     },
     {
@@ -2910,6 +2982,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des programmes de lutte contre le blanchiment d'argent et le financement du terrorisme."
     },
     {
+      "hash": "e7be9eaa5a60dc84",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Ugandan officials helped businessmen evade arms embargoes, court hears",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/ugandan-officials-helped-businessmen-evade-arms-embargoes-court-hears",
+      "author": "Grace Propheta",
+      "published": "2026-04-13T15:00:54",
+      "summary": "Officials at Uganda’s Ministry of Defence provided fake end user certificates to help two businessmen sell Soviet-era arms to countries on the UK’s arms embargo list, a London court has heard.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: embargo | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "5fa49dd9ad4f9307",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -2925,7 +3015,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Lafarge a violé les règles de conformité en finançant indirectement des organisations terroristes pour maintenir ses opérations commerciales en Syrie."
     },
     {
       "hash": "d26c0ca5a4c25f59",
@@ -3142,7 +3232,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne l'amendement des normes techniques réglementaires sur les fonds propres et passifs éligibles, relevant de la conformité réglementaire bancaire.",
+      "ai_summary": "L'article traite de conformité financière car il concerne les normes réglementaires sur les fonds propres et passifs admissibles des institutions bancaires.",
       "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +15 Source EU | +10 Géo EU: eba | ×0.8 (14d)",
       "is_primary": true
     },
@@ -3411,7 +3501,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'EBA met à jour ses lignes directrices sur les expositions aux entités de shadow banking pour renforcer la conformité réglementaire des institutions financières."
+      "ai_summary": "L'EBA consulte sur les directives encadrant les expositions bancaires aux entités de shadow banking non régulées."
     },
     {
       "hash": "00ee8455b64623d9",
@@ -3781,7 +3871,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "88e65851fd13b5f8",
@@ -3837,7 +3927,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les défaillances présumées de conformité de Circle dans la détection et le blocage de fonds illicites, essentiels à la lutte anti-blanchiment."
+      "ai_summary": "Circle aurait manqué ses obligations de conformité en ne détectant pas ou en tardant à bloquer 420 millions de dollars de fonds illicites."
     },
     {
       "hash": "50d0461d37ba4598",
@@ -3999,7 +4089,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de mesures de débarrage imposées par la Banque mondiale suite à des accusations de corruption et de fraude."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de sanctions de la Banque mondiale contre des entreprises pour corruption dans un marché public."
     },
     {
       "hash": "b7b76a1895bb",
@@ -4179,7 +4269,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du relâchement des obligations de signalement des transferts de crypto-actifs jusqu'en 2030 en Australie."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'assouplissement réglementaire de la règle de voyage par AUSTRAC pour les prestataires de services de crypto-actifs."
     },
     {
       "hash": "9f0ee0eaedc5619c",
@@ -4234,7 +4324,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1bd161ea73a4b0c7",
@@ -4252,7 +4342,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3fd195cd7dcf2349",
@@ -4325,7 +4415,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "47edda49a30437d4",
@@ -4476,7 +4566,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la protection légale des entreprises respectant les sanctions et contrôles d'exportation."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la protection légale des entreprises respectant les sanctions et contrôles à l'exportation."
     },
     {
       "hash": "3c6c3b862748",
@@ -4512,7 +4602,7 @@
       "action_class": "new_regulation",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des règles EU harmonisées sur l'insolvabilité, qui encadrent la gestion des procédures d'insolvabilité."
+      "ai_summary": "Cet article concerne la conformité financière car les règles d'insolvabilité harmonisées facilitent l'évaluation des risques financiers par les investisseurs."
     },
     {
       "hash": "ac8d3908238a",
@@ -4692,7 +4782,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "51d8eba14f002099",
@@ -4732,24 +4822,6 @@
       "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | ×0.6 (>14d)"
     },
     {
-      "hash": "332519feb7f177ed",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Loïc André (Tetra HSSE) : Tetra HSSE, conformité et sécurité - 11/04",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/video-loic-andre-tetra-hsse-tetra-hsse-conformite-et-securite-11-04_VN-202604110346.html",
-      "author": "",
-      "published": "2026-04-11T20:11:11",
-      "summary": "BFM BUSINESS PARTENAIRE - Ce samedi 11 avril, Loïc André, président fondateur de Tetra HSSE, s’est penché sur les missions du cabinet, les avantages pour les propriétaires de faire appel à ses services, les engagements de l’entreprise, ainsi que sur le développement de nouveaux axes stratégiques, dans l'émission Paroles d'entreprises présentée par Vincent Touraine. Paroles d'entreprises est à voir ou écouter le samedi sur BFM Business. Cette émission a été réalisée par notre partenaire Médias Fr",
-      "score": 21,
-      "score_breakdown": "+10 mots forts: conformité | +5 mots moyens: ppe | +3 Presse | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "ffde73cc6c09fc1d",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -4765,7 +4837,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il évoque l'altération de documents de conformité et des violations liées à un scandale de corruption financière majeur."
+      "ai_summary": "Cet article concerne la conformité financière car il décrit l'obligation de maintenir des registres précis et les risques de fraude documentaire en matière de respect des réglementations."
     },
     {
       "hash": "f044e4ea2f234412",
@@ -4838,7 +4910,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "af81fd962c6fac38",
@@ -4988,7 +5060,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions et la prévention de l'évasion, relevant de la conformité financière en matière de contrôle des sanctions internationales."
+      "ai_summary": "Cet article concerne les sanctions financières et les mesures de conformité contre l'évasion de sanctions par des transactions fictives."
     },
     {
       "hash": "1f5fadb7052e",
@@ -5224,7 +5296,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La présidente de l'ESMA explique comment le Market Integration Package améliore la supervision des marchés financiers et l'harmonisation réglementaire européenne.",
+      "ai_summary": "Cet article concerne la supervision des marchés financiers et la conformité réglementaire au niveau européen.",
       "score_breakdown": "+10 mots forts: esma | +10 Géo EU: esma | ×1.0 (7d)",
       "is_primary": false
     },
@@ -5246,24 +5318,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du MREL, obligation réglementaire de solvabilité des banques avant résolution.",
       "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×0.8 (14d)",
       "is_primary": false
-    },
-    {
-      "hash": "3891fe16ab0d21d5",
-      "source_name": "EBA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "more information to be found here",
-      "url": "https://x.com/EBA_News/status/2036388993592340520",
-      "author": "@EBA_News",
-      "published": "2026-03-24T10:25:00",
-      "summary": "linkedin.com/feed/update/urn… more information to be found here— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Mar 24, 2026",
-      "score": 20,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2cc324ce707a792a",
@@ -5336,7 +5390,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite de la vision de l'EBA pour harmoniser les rapports intégrés en UE, réduisant la fragmentation réglementaire et les charges de conformité bancaire.",
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la vision de l'EBA pour harmoniser les rapports financiers intégrés en Europe.",
       "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×0.8 (14d)",
       "is_primary": false
     },
@@ -5501,7 +5555,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article traite de conformité financière car il décrit comment une entreprise a divulgué volontairement des preuves de corruption pour éviter des poursuites pénales."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une auto-dénonciation de corruption et de coordination entre autorités."
     },
     {
       "hash": "611ce1c62832b64c",
@@ -5573,7 +5627,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les violations des sanctions géopolitiques (Iran, Syrie, Crimée) dues à des défaillances de conformité technologique en matière de surveillance des transactions."
+      "ai_summary": "Cet article concerne les violations de sanctions contre l'Iran, la Syrie et la Crimée, domaine clé de la conformité financière internationale."
     },
     {
       "hash": "8cf832255a6b59d2",
@@ -5741,7 +5795,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car le FSB traite de régulation du secteur financier non bancaire, des actifs crypto, de la stabilité opérationnelle et des paiements transfrontaliers."
     },
     {
       "hash": "dd2381a893c08cf5",
@@ -5778,7 +5832,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de la conformité financière en clarifiant les idées fausses sur la FCPA et son impact sur les entreprises."
     },
     {
       "hash": "66b5668deb950826",
@@ -5796,7 +5850,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des règles de protection des lanceurs d'alerte dans les obligations de signalement financier."
     },
     {
       "hash": "d5cb62b0de54318e",
@@ -5814,7 +5868,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Binance doit payer 6,9 millions de dollars en Australie pour non-respect des obligations de conformité financière et de lutte contre le blanchiment."
     },
     {
       "hash": "ab864200d4d4811e",
@@ -5831,7 +5885,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article concerne la supervision bancaire et la résolution des crises, éléments clés de la conformité financière en Europe.",
       "score_breakdown": "+10 mots moyens: supervisory, bank | +10 Géo EU: greece | ×0.8 (14d)",
       "is_primary": false
     },
@@ -5850,7 +5904,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article concerne la conformité financière car il traite des défis de supervision des néobanques dans l'Union bancaire européenne.",
       "score_breakdown": "+10 mots moyens: supervisory, bank | +10 Géo EU: european parliament | ×0.8 (14d)",
       "is_primary": false
     },
@@ -5869,7 +5923,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "MiFID II impose des obligations de reporting, d'échange de données et de transparence sur les marchés de capitaux européens, essentielles à la conformité réglementaire.",
       "score_breakdown": "+10 mots forts: esma | +10 Géo EU: esma | ×0.8 (14d)",
       "is_primary": false
     },
@@ -5888,7 +5942,7 @@
       "action_class": "consultation",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article concerne la conformité financière car il traite de nouvelles directives et normes techniques de l'EBA sur l'autorisation des modèles de marge initiale en vertu d'EMIR.",
       "score_breakdown": "+10 mots forts: eba | +10 Géo EU: eba | ×0.8 (14d)",
       "is_primary": false
     },
@@ -5908,7 +5962,7 @@
       "action_class": "information",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "98bd0f20b4c8",
@@ -5926,7 +5980,7 @@
       "action_class": "information",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'agrément des entités par l'ACPR, élément clé de la régulation bancaire et financière."
     },
     {
       "hash": "dcf615b2be369a6a",
@@ -5944,7 +5998,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "f2668a6f29b4",
@@ -5961,7 +6015,7 @@
       "action_class": "monitoring",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article concerne la conformité financière car il traite du gel des actifs de personnalités russes, mesure de conformité aux sanctions internationales.",
       "score_breakdown": "+15 Source EU | ×1.0 (7d)"
     },
     {
@@ -5979,7 +6033,7 @@
       "action_class": "enforcement",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article concerne la conformité financière car il traite du gel des actifs de personnalités russes, mesure de sanctions financières internationales.",
       "score_breakdown": "+15 Source EU | ×1.0 (7d)"
     },
     {
@@ -5997,7 +6051,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Hors périmètre compliance",
       "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.6 (>14d)",
       "is_primary": false
     },
@@ -6017,7 +6071,7 @@
       "action_class": "guidance",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la coordination réglementaire entre autorités américaines et britanniques en matière financière."
     },
     {
       "hash": "1fbb0c5e32c6",
@@ -6035,7 +6089,7 @@
       "action_class": "guidance",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière en définissant les rôles des acteurs dans la transparence des paiements, élément clé de la lutte anti-blanchiment."
     },
     {
       "hash": "1aac81a4adc1",
@@ -6129,6 +6183,24 @@
       "is_primary": true
     },
     {
+      "hash": "b8152da2a7c00fb6",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "The growth of euro‑denominated stablecoins could affect sovereign bond markets. In our latest #MacroprudentialBulletin, we analyse how their design and regulation may influence demand, liquidity and stress transmission in euro area government debt markets  pic.",
+      "url": "https://x.com/ecb/status/2043675576272400432",
+      "author": "@ecb",
+      "published": "2026-04-13T13:00:00",
+      "summary": "The growth of euro‑denominated stablecoins could affect sovereign bond markets. In our latest #MacroprudentialBulletin, we analyse how their design and regulation may influence demand, liquidity and stress transmission in euro area government debt markets https://t.co/kDoX6PbRAb pic.twitter.com/W91JbZ1tVW— European Central Bank (@ecb) April 13, 2026",
+      "score": 15,
+      "score_breakdown": "+10 mots moyens: regulation, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "9c1e101f90788dd8",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -6164,6 +6236,24 @@
       "ai_summary": null,
       "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×1.0 (7d)",
       "is_primary": false
+    },
+    {
+      "hash": "3891fe16ab0d21d5",
+      "source_name": "EBA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "more information to be found here",
+      "url": "https://x.com/EBA_News/status/2036388993592340520",
+      "author": "@EBA_News",
+      "published": "2026-03-24T10:25:00",
+      "summary": "linkedin.com/feed/update/urn… more information to be found here— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Mar 24, 2026",
+      "score": 15,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "af137f10343653c1",
@@ -6419,25 +6509,6 @@
       "early_brief": false,
       "ai_summary": null,
       "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×0.8 (14d)",
-      "is_primary": false
-    },
-    {
-      "hash": "8ec6c9de0145bfdb",
-      "source_name": "Commission EU Finance (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "RT by @EU_Finance: The EU's sanctions against those responsible for undermining or threatening the territorial integrity, sovereignty and independence of Ukraine have been extended by 6 months. More information on EU sanctions in response to Russia's war against Ukraine➡️  pic.",
-      "url": "https://x.com/EUCouncil/status/2032846610850353296",
-      "author": "@EUCouncil",
-      "published": "2026-03-14T15:49:00+00:00",
-      "summary": "The EU's sanctions against those responsible for undermining or threatening the territorial integrity, sovereignty and independence of Ukraine have been extended by 6 months.More information on EU sanctions in response to Russia's war against Ukraine➡️ https://t.co/kLLV2cVdFc pic.twitter.com/h7kiAvklDb— EU Council (@EUCouncil) March 14, 2026",
-      "score": 12,
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null,
-      "score_breakdown": "+20 mots critiques: sanction | ×0.6 (>14d)",
       "is_primary": false
     },
     {
@@ -7451,6 +7522,24 @@
       "is_primary": true
     },
     {
+      "hash": "90098d223279f76d",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "“I never wanted to be the minister of petroleum”, Alison-Madueke tells bribery trial",
+      "url": "https://globalinvestigationsreview.com/article/i-never-wanted-be-the-minister-of-petroleum-alison-madueke-tells-bribery-trial",
+      "author": "Grace Propheta",
+      "published": "2026-04-13T14:30:31",
+      "summary": "Nigeria’s former oil minister gave evidence as her bribery trial resumed on Monday after a three-week break. She told jurors how the country’s oil industry has long been “plagued by corrupt practices”.&nbsp;",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "fa86ed10c9b9e96e",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7739,6 +7828,6 @@
       "ai_summary": null
     }
   ],
-  "last_update": "2026-04-13T14:13:55.841149+00:00",
+  "last_update": "2026-04-13T19:02:51.191891+00:00",
   "last_updated": "2026-04-12T18:05:00Z"
 }
