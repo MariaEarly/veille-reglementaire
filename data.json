@@ -652,7 +652,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations légales de lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "46974b3c275f9e62",
@@ -670,7 +670,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4c007c350b83bc65",
@@ -688,7 +688,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b397a5b55047febe",
@@ -706,7 +706,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "308ba420d9eebcd5",
@@ -778,7 +778,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cette ordonnance transpose une directive UE modifiant le cadre de surveillance bancaire et renforce les pouvoirs de l'autorité financière en matière de risques ESG et sanctions."
+      "ai_summary": "Cette ordonnance transpose une directive UE modifiant les règles de surveillance bancaire, de sanctions et de gestion des risques ESG, concernant directement la conformité réglementaire financière."
     },
     {
       "hash": "4a43762375802e12",
@@ -814,7 +814,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'impact de la politique monétaire sur la stabilité et la structure du système financier, domaine de supervision prudentielle de l'ACPR."
+      "ai_summary": "Cet article concerne la conformité financière car l'assouplissement quantitatif affecte la structure et la stabilité du système financier, domaines clés de la régulation prudentielle de l'ACPR."
     },
     {
       "hash": "7e4a1e2eefe609ef",
@@ -868,7 +868,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet arrêté régit les obligations de conformité en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "03004a25a369d6b4",
@@ -958,7 +958,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a5fc1ac6fedd24a0",
@@ -1230,7 +1230,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3899a22033499909",
@@ -1341,6 +1341,24 @@
       "is_primary": true
     },
     {
+      "hash": "3bb8d76f8905dd85",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "​The EBA launches the recruitment of its Executive Director​",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-recruitment-its-executive-director",
+      "author": "jana.jaklic@eba.europa.eu",
+      "published": "2026-04-17T07:03:17",
+      "summary": "The European Banking Authority (EBA) has today launched an open selection procedure to recruit its new Executive Director.",
+      "score": 60,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "0fb09d331b27232d",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -1356,7 +1374,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la rémunération des hauts dirigeants bancaires, un élément clé de la conformité réglementaire en matière de gouvernance."
+      "ai_summary": "Cet article concerne la conformité car il rapporte les données de rémunération des hauts salaires dans les banques de l'UE, un élément clé de la conformité réglementaire bancaire."
     },
     {
       "hash": "3e3bc6040dffaa44",
@@ -1410,7 +1428,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la fiscalité crypto, de la déclaration des portefeuilles et de la régulation du secteur."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la fiscalité des cryptomonnaies et de la déclaration des portefeuilles numériques."
     },
     {
       "hash": "cf7cfe4912306e76",
@@ -1737,7 +1755,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6f5890c6bdbc17d1",
@@ -2610,7 +2628,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La décision EBA simplifie la conformité en centralisant le reporting SEPA, réduisant les charges administratives et améliorant la collecte de données réglementaires."
+      "ai_summary": "La décision de l'EBA simplifie la conformité en centralisant les rapports SEPA sur un unique canal, réduisant la charge administrative pour les autorités nationales."
     },
     {
       "hash": "d9d180b015474732",
@@ -2700,7 +2718,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'EBA publie une liste des problèmes connus du modèle de données pour améliorer la transparence des rapports de conformité financière des institutions."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la transparence du modèle de données utilisé pour la déclaration réglementaire des institutions bancaires."
     },
     {
       "hash": "161de54c0a6dc37d",
@@ -2809,7 +2827,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de la conformité financière car il expose comment l'OFAC sanctionne les institutions qui ne détectent pas les transactions suspectes."
     },
     {
       "hash": "fca694aa0ae36db9",
@@ -2935,7 +2953,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il rapporte les données de l'EBA sur les hauts salaires et les ratios de rémunération réglementés par la directive CRD."
+      "ai_summary": "Cet article concerne la divulgation des rémunérations élevées exigée par la réglementation financière EU."
     },
     {
       "hash": "91119ef38818c42e",
@@ -3514,7 +3532,7 @@
       "action_class": "enforcement",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions financières et le gel des avoirs, mesures essentielles de conformité en matière de lutte contre le financement de conflits.",
+      "ai_summary": "Gel des avoirs de ressortissants russes dans le cadre des sanctions liées à la guerre en Ukraine, confirmant la conformité aux mesures restrictives européennes.",
       "score_breakdown": "+20 mots critiques: sanction, gel des avoirs | +15 Source EU | ×1.0 (7d)"
     },
     {
@@ -3643,7 +3661,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'Autorité de la concurrence sanctionne des entreprises pour entente illégale, un manquement aux règles de droit de la concurrence."
+      "ai_summary": "Cet article concerne la conformité financière car l'Autorité de la concurrence sanctionne une entente anticoncurrentielle par une amende de 13 millions d'euros."
     },
     {
       "hash": "04bf735c19bc71c7",
@@ -4024,7 +4042,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car le code des douanes régit les obligations de déclaration et de contrôle des flux financiers transfrontaliers."
+      "ai_summary": "Cet article concerne la conformité financière car il établit le cadre légal du code des douanes, essentiel pour la lutte anti-blanchiment et le contrôle des flux commerciaux internationaux."
     },
     {
       "hash": "1c6479d6e76791a5",
@@ -4164,7 +4182,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA surveille les rémunérations des hauts dirigeants pour assurer le respect des règles prudentielles."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la surveillance réglementaire des rémunérations élevées dans le secteur financier de l'UE."
     },
     {
       "hash": "730fa5ec1801f901",
@@ -4624,7 +4642,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8bd21df0414f4cce",
@@ -4768,7 +4786,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les frais juridiques et la transparence des enquêtes, mais reste hors du périmètre de la conformité financière stricto sensu. Hors périmètre compliance."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la récupération des frais de défense légale suite à des accusations de violations de confidentialité dans une enquête de fraude."
     },
     {
       "hash": "3ffbc2df09914ccb",
@@ -5493,7 +5511,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ffde73cc6c09fc1d",
@@ -5511,7 +5529,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il évoque l'allégation qu'une banque aurait poussé un consultant à falsifier des registres de conformité."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de falsification de registres de conformité et de non-respect des obligations réglementaires."
     },
     {
       "hash": "f044e4ea2f234412",
@@ -6045,7 +6063,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de l'identité de Satoshi Nakamoto et des spéculations autour du créateur du bitcoin, sans aborder directement les obligations de conformité financière.\n\nHors périmètre compliance"
+      "ai_summary": "Cet article concerne l'identité de Satoshi Nakamoto, créateur du bitcoin, mais ne traite pas de conformité financière ou réglementaire. Hors périmètre compliance."
     },
     {
       "hash": "a736f9998e3f9794",
@@ -6171,7 +6189,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne une réunion entre l'EBA et les représentants du personnel. Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "3b313f3ccca1330a",
@@ -6207,7 +6225,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La supervision intégrée des acteurs des marchés de capitaux renforce la conformité réglementaire et la détection des risques transfrontaliers en Europe."
+      "ai_summary": "La supervision intégrée des acteurs des marchés de capitaux renforce la conformité réglementaire et la détection transfrontalière des risques financiers en Europe."
     },
     {
       "hash": "5cfb0938d441246e",
@@ -6261,7 +6279,7 @@
       "action_class": "amendment",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'extension des mesures restrictives relève de la conformité financière car elle impose des obligations de sanctions et de contrôles aux entités financières."
+      "ai_summary": "Les mesures restrictives de l'UE contre la Bosnie-Herzégovine relèvent de la conformité financière et sanctions internationales."
     },
     {
       "hash": "e013672a4067",
@@ -6373,7 +6391,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car le FSB aborde la régulation des risques systémiques, des cryptoactifs, de la résilience opérationnelle et des normes transfrontalières."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la stabilité financière mondiale, du contrôle des risques NBFI, crypto-actifs et de la résilience opérationnelle."
     },
     {
       "hash": "b753476f53c69187",
@@ -6391,7 +6409,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des incitations aux lanceurs d'alerte pour signaler les crimes financiers."
     },
     {
       "hash": "2862b58a22adca79",
@@ -6445,7 +6463,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Binance paie une amende pour non-respect des obligations de conformité réglementaire en matière de lutte contre le blanchiment et le financement du terrorisme."
+      "ai_summary": "Binance paie une amende pour non-conformité aux règles de lutte contre le blanchiment d'argent et le financement du terrorisme en Australie."
     },
     {
       "hash": "ab864200d4d4811e",
@@ -6500,7 +6518,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "MiFID II impose des obligations de reporting, d'échange de données et de transparence sur les marchés de capitaux européens, relevant de la conformité financière.",
+      "ai_summary": "MiFID II a imposé des obligations de reporting, d'échange de données et de transparence aux acteurs des marchés de capitaux européens.",
       "score_breakdown": "+10 mots forts: esma | +10 Géo EU: esma | ×0.8 (14d)",
       "is_primary": false
     },
@@ -6519,25 +6537,7 @@
       "action_class": "review",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il analyse les services d'IBAN virtuels, relevant de la régulation bancaire et de la supervision ACPR."
-    },
-    {
-      "hash": "2629458ccad0",
-      "source_name": "ACPR - Communiqués",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "Publications au Journal Officiel de la République Française",
-      "url": "https://acpr.banque-france.fr/fr/reglementation/textes-de-reference/publications-au-journal-officiel-de-la-republique-francaise",
-      "author": "",
-      "published": "2026-04-12T00:00:00Z",
-      "summary": "Publications au Journal Officiel de la République Française",
-      "score": 15,
-      "score_breakdown": null,
-      "doc_type": "news",
-      "action_class": "information",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet article concerne la conformité financière car il analyse les services d'IBAN virtuels, relevant de la régulation bancaire et de la lutte anti-blanchiment."
     },
     {
       "hash": "98bd0f20b4c8",
@@ -6555,7 +6555,7 @@
       "action_class": "information",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des agréments et retraits d'agréments délivrés par l'ACPR."
     },
     {
       "hash": "cebb91bc44ba632c",
@@ -6573,7 +6573,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "dcf615b2be369a6a",
@@ -6591,7 +6591,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ebf1b1b1955cede1",
@@ -6609,7 +6609,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f2668a6f29b4",
@@ -6626,7 +6626,7 @@
       "action_class": "monitoring",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "La Cour de justice confirme le gel des fonds de ressortissants russes en raison de sanctions liées au conflit ukrainien, relevant de la conformité réglementaire internationale.",
       "score_breakdown": "+15 Source EU | ×1.0 (7d)"
     },
     {
@@ -6644,7 +6644,7 @@
       "action_class": "enforcement",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article concerne le gel des actifs de personnalités russes dans le cadre des sanctions internationales, relevant de la conformité financière en matière de lutte contre le blanchiment et les restrictions.",
       "score_breakdown": "+15 Source EU | ×1.0 (7d)"
     },
     {
@@ -6663,7 +6663,7 @@
       "action_class": "guidance",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la coordination réglementaire entre les États-Unis et le Royaume-Uni sur les questions financières internationales."
     },
     {
       "hash": "1fbb0c5e32c6",
@@ -6681,7 +6681,7 @@
       "action_class": "guidance",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la transparence des paiements et les responsabilités des acteurs, éléments clés de la conformité anti-blanchiment."
     },
     {
       "hash": "1aac81a4adc1",
@@ -6699,7 +6699,7 @@
       "action_class": "information",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les juridictions à haut risque identifiées par le GAFI, directement pertinent pour la conformité financière et la lutte anti-blanchiment."
     },
     {
       "hash": "037dc4fcab55",
@@ -6717,7 +6717,7 @@
       "action_class": "information",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite des juridictions à haut risque et surveillées, essentielles à la conformité anti-blanchiment et à la lutte contre le financement du terrorisme."
     },
     {
       "hash": "e24cd5446ea661a7",
@@ -6734,7 +6734,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null,
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision bancaire, de la diversification des risques et de la mobilisation de l'épargne, enjeux clés de la régulation financière européenne.",
       "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×1.0 (7d)",
       "is_primary": false
     },
@@ -6754,7 +6754,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "190768747fc755d7",
@@ -6772,7 +6772,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite la compliance comme un atout stratégique pour les organisations, basé sur des échanges entre experts du secteur financier."
     },
     {
       "hash": "68415f993be86327",
@@ -6790,7 +6790,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la consolidation du régulateur PSR dans la FCA, un enjeu majeur de gouvernance réglementaire."
     },
     {
       "hash": "b6132ff154396c4a",
@@ -6808,7 +6808,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La FCA ordonne à Beauforce de cesser ses activités et de restituer les fonds des clients pour non-conformité réglementaire."
     },
     {
       "hash": "b3ea9e0ea220ffe6",
@@ -6826,7 +6826,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de lutte contre le blanchiment d'argent (AML)."
     },
     {
       "hash": "bc55741d761a9da5",
@@ -6844,7 +6844,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de la conformité financière en explorant une approche basée sur l'IA pour optimiser les processus de conformité."
     },
     {
       "hash": "a3c5a1a6a48c",
@@ -6862,7 +6862,7 @@
       "action_class": "guidance",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3852db38120d",
@@ -6879,7 +6879,7 @@
       "action_class": "monitor",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article concerne le gel des fonds de personnalités russes, relevant des sanctions financières et du contrôle des flux financiers en conformité réglementaire."
     },
     {
       "hash": "f0564526ed5f753c",
@@ -8308,6 +8308,6 @@
       "ai_summary": null
     }
   ],
-  "last_update": "2026-04-17T03:49:29.173702+00:00",
+  "last_update": "2026-04-17T07:21:26.668230+00:00",
   "last_updated": "2026-04-12T18:05:00Z"
 }
