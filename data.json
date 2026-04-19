@@ -817,24 +817,6 @@
       "ai_summary": "Cet arrêté régit les obligations de conformité en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
-      "hash": "46974b3c275f9e62",
-      "source_name": "Ministère de la Justice (CJIP)",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Les condamnations en France en 2024",
-      "url": "https://www.justice.gouv.fr/documentation/etudes-et-statistiques/condamnations-france-2024",
-      "author": "HABIMANA Emmanuel",
-      "published": "2026-04-16T09:39:37",
-      "summary": "Les condamnations en France en 2024\nHABIMANA Emmanuel\njeu 16/04/2026 - 11:39\n\n      \n\n  \n\n\n  \n        Le rapport annuel Les condamnations en France en 2024 rend compte des 560 000 condamnations prononcées et inscrites au Casier judiciaire national des personnes physiques en 2024. Ces condamnations ont sanctionné 929 000 infractions, lesquelles étaient des crimes pour 0,5 % d’entre elles, des délits pour 95,3 % et des contraventions de 5e classe pour 4,2 %.\n\n      \n\n        \n\n        \n\n  \n       ",
-      "score": 78,
-      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "03004a25a369d6b4",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -940,7 +922,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a5fc1ac6fedd24a0",
@@ -1048,7 +1030,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté fixe le calendrier de reconduction des contrats financiers des structures d'insertion, relevant de la conformité réglementaire et financière."
+      "ai_summary": "Cet arrêté fixe la date limite de reconduction automatique des contrats financiers des structures d'insertion, relevant de la conformité contractuelle et budgétaire."
     },
     {
       "hash": "fc7b25a0c13643fc",
@@ -1066,7 +1048,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "fced24320c956966",
@@ -1084,7 +1066,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la coopération entre les autorités de contrôle fiscal et le PNF pour la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la collaboration entre les autorités de vérification fiscale et le Parquet National Financier pour lutter contre la fraude et les infractions financières."
     },
     {
       "hash": "3b0befc06448594d",
@@ -1102,7 +1084,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret concerne la conformité financière car il désigne un procureur chargé de diriger le ministère public auprès des chambres régionales des comptes, garantes du contrôle financier des collectivités."
+      "ai_summary": "Cet article désigne un procureur financier pour la chambre régionale des comptes, organe de contrôle de la conformité financière des collectivités."
     },
     {
       "hash": "f4da2c83d36f413c",
@@ -1229,6 +1211,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'EBA facilite les approbations de changements de modèles IRB, concernant la conformité réglementaire bancaire et les normes de risque."
+    },
+    {
+      "hash": "46974b3c275f9e62",
+      "source_name": "Ministère de la Justice (CJIP)",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Les condamnations en France en 2024",
+      "url": "https://www.justice.gouv.fr/documentation/etudes-et-statistiques/condamnations-france-2024",
+      "author": "HABIMANA Emmanuel",
+      "published": "2026-04-16T09:39:37",
+      "summary": "Les condamnations en France en 2024\nHABIMANA Emmanuel\njeu 16/04/2026 - 11:39\n\n      \n\n  \n\n\n  \n        Le rapport annuel Les condamnations en France en 2024 rend compte des 560 000 condamnations prononcées et inscrites au Casier judiciaire national des personnes physiques en 2024. Ces condamnations ont sanctionné 929 000 infractions, lesquelles étaient des crimes pour 0,5 % d’entre elles, des délits pour 95,3 % et des contraventions de 5e classe pour 4,2 %.\n\n      \n\n        \n\n        \n\n  \n       ",
+      "score": 65,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "4a8f38927e46b190",
@@ -1755,7 +1755,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d14ab9c59b4510c5",
@@ -1975,14 +1975,14 @@
       "ai_summary": "BaFin classe la lutte anti-blanchiment et contre le financement du terrorisme en crypto comme risque majeur, relevant de la conformité réglementaire."
     },
     {
-      "hash": "4e9aa7a777a29c1f",
+      "hash": "199a3de723150d86",
       "source_name": "ACPR",
       "source_type": "rss",
       "category": "autorite_fr",
       "title": "Vue PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GQkFfd3hqNWFvY2xpRXcyZDBmX0FoYWxtS1Juc21yV21Rd1BBeUc5SzFFaDE4UmFkY05TODJhYjJGQWFoX3lSeHhxblcyLWU4eGNveFVzVy1kM2w0dkk3UEVwMDJSQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KbmxhUThZQmlVbThHSWdUNktoZjhES2lwb1NzMFhVM1FqMkhWLV96Ti1JLXZxNkQwQ2xuMXMzanFjdzhVNFlvakhwZFZKSE9jT0dkZnRrQkJFRVpGcWRoa2lYM0Vwdw?oc=5",
       "author": "",
-      "published": "2026-04-15T00:45:09",
+      "published": "2026-04-15T05:15:53",
       "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
       "score": 50,
       "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
@@ -1990,7 +1990,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f0132251b3e088b2",
@@ -2026,7 +2026,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une compagnie d'assurance-vie soumise au contrôle de l'ACPR."
     },
     {
       "hash": "e492c1d1721f6335",
@@ -2244,7 +2244,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "53fb15a63f6b46b8",
@@ -2844,24 +2844,6 @@
       "ai_summary": "Cet article concerne la conformité car il traite de la coordination entre entreprises et autorités fédérales contre les centres d'arnaque."
     },
     {
-      "hash": "88716cb7cc924cfd",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "The complexities of EU sanctions: compliance and enforcement",
-      "url": "https://globalinvestigationsreview.com/guide/the-guide-sanctions/sixth-edition/article/the-complexities-of-eu-sanctions-compliance-and-enforcement",
-      "author": "Sebastiaan Bennink,Sally Eshun,Melina Coelho Garcia,James Timmers-Yokoyama",
-      "published": "2026-03-20T09:00:00",
-      "summary": "The European Union's sanctions regime has evolved significantly, now encompassing over 5,600 entities across 36 distinct frameworks. As compliance expectations rise, businesses must navigate a complex landscape of regulations and adapt their strategies to mitigate risks associated with cross-border trade and evolving legal requirements.",
-      "score": 42,
-      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: compliance | +10 mots moyens: risk, regulation | +3 Presse | +10 Géo EU: european union | ×0.8 (14d)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité aux sanctions de l'UE, obligation majeure de conformité financière pour les entreprises."
-    },
-    {
       "hash": "91004de9a09ebf5d",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -2971,6 +2953,24 @@
       "ai_summary": "Les autorités de surveillance européennes identifient des risques accrus, relevant de la conformité réglementaire et financière."
     },
     {
+      "hash": "5936cec6e43af903",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "\"Chaque dollar versé est de l'argent pour la guerre\": Volodymyr Zelensky dénonce la suspension des sanctions américaines sur le pétrole russe",
+      "url": "https://www.bfmtv.com/economie/international/chaque-dollar-verse-est-de-l-argent-pour-la-guerre-volodymyr-zelensky-denonce-la-suspension-des-sanctions-americaines-sur-le-petrole-russe_AD-202604190144.html",
+      "author": "",
+      "published": "2026-04-19T08:47:04",
+      "summary": "Ce vendredi, les États-Unis ont prolongé la suspension de la majorité des sanctions contre le pétrole russe, alors que les cours oscillent toujours fortement dans le cadre de la guerre au Moyen-Orient.",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: états-unis | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "c42b99c3b31885ad",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -3004,7 +3004,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales imposées par les États-Unis, qui imposent des obligations légales de conformité aux institutions financières."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales et des restrictions de transactions qui obligent les institutions financières à respecter les régulations de conformité."
     },
     {
       "hash": "c7ab93c3955c4e4e",
@@ -3402,7 +3402,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6e0d2e587f3397be",
@@ -3874,7 +3874,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de sanctions imposées par l'Autorité de la concurrence pour non-respect des règles de concurrence."
+      "ai_summary": "Cet article concerne la conformité financière car il rapporte une sanction de l'Autorité de la concurrence pour entente illégale entre entreprises."
     },
     {
       "hash": "04bf735c19bc71c7",
@@ -4725,25 +4725,6 @@
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il présente les nouveaux tableaux de bord CRR3/CRD6 de l'EBA pour la surveillance réglementaire.",
       "score_breakdown": "+10 mots forts: eba | +15 mots moyens: risk, supervisory, bank | +10 Géo EU: eba | ×0.8 (14d)",
-      "is_primary": false
-    },
-    {
-      "hash": "5e446f3950e79272",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🔍 Advancing Integrated Reporting in Europe – Highlights from Handelsblatt Yesterday, our Director of Data Analytics, Reporting and...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7440686436162392064",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-03-20T09:11:28+00:00",
-      "summary": "🔍 Advancing Integrated Reporting in Europe – Highlights from Handelsblatt\n\nYesterday, our Director of Data Analytics, Reporting and Transparency, Meri Rimmanen, spoke at the Handelsblatt Conference on Banking Regulation in Frankfurt, sharing the EBA’s vision for European integrated reporting. ✨\n\nShe described it as a move towards a single, consistent and digital framework where banks provide data once and authorities can use it many times — across supervisory, resolution and statistical needs.\n\n...",
-      "score": 28,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la normalisation des rapports intégrés en Europe et de la régulation bancaire.",
-      "score_breakdown": "+10 mots forts: eba | +15 mots moyens: regulation, supervisory, bank | +10 Géo EU: eba | ×0.8 (14d)",
       "is_primary": false
     },
     {
@@ -5874,25 +5855,6 @@
       "is_primary": false
     },
     {
-      "hash": "ed376d30056f1673",
-      "source_name": "EBA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🔍At #Handelsblatt, Director of DART Meri Rimmanen set out the #EBA’s vision for EU Integrated reporting. 💡Goal: less fragmentation, lighter burden, better data. 📊Challenges: varying interpretations, fragmented IT, institutional silos.",
-      "url": "https://x.com/EBA_News/status/2034923224446763378",
-      "author": "@EBA_News",
-      "published": "2026-03-20T09:21:00+00:00",
-      "summary": "🔍At  #Handelsblatt, Director of DART Meri Rimmanen set out the  #EBA’s vision for EU Integrated reporting.💡Goal: less fragmentation, lighter burden, better data.📊Challenges: varying interpretations, fragmented IT, institutional silos.— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Mar 20, 2026",
-      "score": 20,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la vision de l'EBA pour harmoniser la reporting intégrée en UE.",
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×0.8 (14d)",
-      "is_primary": false
-    },
-    {
       "hash": "ab62fabe68036f27",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -6034,7 +5996,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3b313f3ccca1330a",
@@ -6330,25 +6292,6 @@
       "is_primary": false
     },
     {
-      "hash": "f2193dfa0c016792",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🚀 This week, our Director of Innovation, Conduct and Consumers Marilin Pikaro spoke at the European Parliament ECON Committee publ...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7440727291980107776",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-03-20T11:53:48+00:00",
-      "summary": "🚀 This week, our Director of Innovation, Conduct and Consumers Marilin Pikaro spoke at the European Parliament ECON Committee public hearing on neobanks 🌟\n\n💡 The discussion covered the impact of these new market entrants on the Banking Union, potential benefits for consumers, and supervisory challenges linked to rapid digital growth and cross-border operations.",
-      "score": 16,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde les défis de supervision des néobanques au sein de l'Union bancaire européenne.",
-      "score_breakdown": "+10 mots moyens: supervisory, bank | +10 Géo EU: european parliament | ×0.8 (14d)",
-      "is_primary": false
-    },
-    {
       "hash": "1a9f4e725c6b",
       "source_name": "ACPR - Communiqués",
       "source_type": "scrape",
@@ -6399,7 +6342,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "dcf615b2be369a6a",
@@ -6417,7 +6360,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ebf1b1b1955cede1",
@@ -6435,7 +6378,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f2668a6f29b4",
@@ -6598,7 +6541,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "190768747fc755d7",
@@ -6723,7 +6666,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b8152da2a7c00fb6",
@@ -6794,7 +6737,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière en traitant des risques systémiques liés à l'interconnexion entre banques et acteurs financiers, nécessitant un renforcement de la supervision macroprudentielle.",
+      "ai_summary": "L'article traite des risques systémiques liés à l'interconnexion croissante entre banques et acteurs financiers, nécessitant un renforcement de la supervision macroprudentielle.",
       "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×0.8 (14d)",
       "is_primary": false
     },
@@ -7106,24 +7049,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations d'exportations illégales de technologie américaine restreinte."
     },
     {
-      "hash": "c58aa81813ff28e8",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "AI compliance platform accused of faking certifications",
-      "url": "https://globalinvestigationsreview.com/article/ai-compliance-platform-accused-of-faking-certifications",
-      "author": "Ana de Liz",
-      "published": "2026-03-20T11:10:19",
-      "summary": "",
-      "score": 10,
-      "score_breakdown": "+10 mots forts: compliance | +3 Presse | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les fausses certifications de conformité d'une plateforme IA, ce qui relève directement de la fraude réglementaire."
-    },
-    {
       "hash": "f43c648b7cdf148b",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -7140,24 +7065,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "FinCEN propose de rémunérer les lanceurs d'alerte pour signaler les violations de conformité financière."
-    },
-    {
-      "hash": "a92a150d5b75b808",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "« Le tourisme tend à soumettre l’ensemble d’un territoire à ses impératifs »",
-      "url": "https://www.lemonde.fr/economie/article/2026/04/18/le-tourisme-tend-a-soumettre-l-ensemble-d-un-territoire-a-ses-imperatifs_6681149_3234.html",
-      "author": "",
-      "published": "2026-04-18T12:00:10",
-      "summary": "Dopé par les plateformes, le tourisme, qui croît de manière exponentielle dans le monde, est à la fois source de création de richesses et de dysfonctionnements majeurs, faute de régulation suffisante, estime le géographe Rémy Knafou dans un entretien au « Monde ».",
-      "score": 9,
-      "score_breakdown": "+3 Presse | +3 Géo Intl: sfo | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7038bcbfb30ffc98",
@@ -7522,6 +7429,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions imposées par les États-Unis et de leurs suppressions."
     },
     {
+      "hash": "a92a150d5b75b808",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "« Le tourisme tend à soumettre l’ensemble d’un territoire à ses impératifs »",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/18/le-tourisme-tend-a-soumettre-l-ensemble-d-un-territoire-a-ses-imperatifs_6681149_3234.html",
+      "author": "",
+      "published": "2026-04-18T12:00:10",
+      "summary": "Dopé par les plateformes, le tourisme, qui croît de manière exponentielle dans le monde, est à la fois source de création de richesses et de dysfonctionnements majeurs, faute de régulation suffisante, estime le géographe Rémy Knafou dans un entretien au « Monde ».",
+      "score": 7,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: sfo | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "c2c207530c55d58b",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7591,7 +7516,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'allégations de corruption étrangère contre une entreprise, relevant des lois anti-corruption."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'allégations de corruption étrangère contre Smartmatic, relevant des lois anti-corruption."
     },
     {
       "hash": "1f3cf1bbc6346e54",
@@ -7774,24 +7699,6 @@
       "ai_summary": "Cet article concerne la conformité financière relative aux sanctions contre le Venezuela imposées par les États-Unis."
     },
     {
-      "hash": "9fd1380322f830aa",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Counter Terrorism Designations; Counter Narcotics and Russia-related Designations Removals | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260320",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-03-20T12:00:00",
-      "summary": "",
-      "score": 4,
-      "score_breakdown": "+5 Source Intl | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions financières imposées par les États-Unis contre le terrorisme, la drogue et la Russie."
-    },
-    {
       "hash": "60e3448bd3d351d9",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7826,24 +7733,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article traite de accusations de corruption étrangère contre une entreprise, ce qui relève de la conformité en matière de lutte anti-corruption."
-    },
-    {
-      "hash": "da516436b300493f",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Issuance of Iran-related General License | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260320_33",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-03-20T12:00:00",
-      "summary": "",
-      "score": 3,
-      "score_breakdown": "+5 Source Intl | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
     },
     {
       "hash": "90098d223279f76d",
@@ -7970,26 +7859,8 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'application des règles anti-corruption et de leur impact sur les entreprises."
-    },
-    {
-      "hash": "d9e8789aa5310609",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Shipping billionaire Bolloré set to face trial over foreign bribery allegations",
-      "url": "https://globalinvestigationsreview.com/article/shipping-billionaire-bollore-set-face-trial-over-foreign-bribery-allegations",
-      "author": "Ana de Liz",
-      "published": "2026-03-20T12:19:19",
-      "summary": "A French investigative judge has approved the indictment of Vincent Bolloré and two former executives at his eponymous shipping company for alleged corruption in Togo.",
-      "score": 2,
-      "score_breakdown": "+3 Presse | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite d'accusations de corruption dans les affaires internationales."
     }
   ],
-  "last_update": "2026-04-19T07:52:21.958355+00:00",
+  "last_update": "2026-04-19T12:39:48.006344+00:00",
   "last_updated": "2026-04-12T18:05:00Z"
 }
