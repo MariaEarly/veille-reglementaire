@@ -724,7 +724,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cette ordonnance transpose une directive européenne modifiant la supervision bancaire, les pouvoirs de surveillance, les sanctions et l'intégration des risques ESG dans la conformité financière réglementaire."
+      "ai_summary": "Cette ordonnance transpose une directive UE modifiant la régulation bancaire, incluant les pouvoirs de surveillance, sanctions et risques ESG."
     },
     {
       "hash": "4a43762375802e12",
@@ -832,7 +832,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "03004a25a369d6b4",
@@ -922,7 +922,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la lutte contre la corruption et les atteintes à la probité financière, enquête du PNF."
     },
     {
       "hash": "a5fc1ac6fedd24a0",
@@ -1015,6 +1015,42 @@
       "ai_summary": "FinCEN encourage les institutions financières à intégrer l'IA et l'analyse blockchain dans leurs programmes de lutte contre le blanchiment."
     },
     {
+      "hash": "3cd0a88bf0f55e36",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 13 avril 2026 fixant le terme de la période de reconduction unilatérale de tous les avenants financiers pour les structures de l'insertion par l'activité économique, les entreprises adaptées et les entreprises adaptées de travail temporaire",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053911035",
+      "author": "Ministère du travail et des solidarités",
+      "published": "2026-04-19T00:00:00",
+      "summary": "Article 1Au deuxième alinéa de l'article 1er de l'arrêté du 26 janvier 2024 susvisé, l'année : « 2024 » est remplacée par l'année : « 2025 » et l'année : « 2025 » est remplacée par l'année : « 2026 ».Article 2Le présent arrêté sera publié au Journal officiel de la République française.",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "fc7b25a0c13643fc",
+      "source_name": "JORF - Sanctions",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 14 avril 2026 fixant le cahier des charges des unités judiciaires à priorité éducative",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053911130",
+      "author": "Ministère de la justice",
+      "published": "2026-04-19T00:00:00",
+      "summary": "Article 1Le cahier des charges des unités judiciaires à priorité éducative prévu à l'article R. 241-33 du code de la justice pénale des mineurs figure en annexe I du présent arrêté.Article 2Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXE ICAHIER DES CHARGES DES UNITÉS JUDICIAIRES À PRIORITÉ ÉDUCATIVE (UJPE)Préambule au cahier des charges des unités judiciaires à priorité éducativeLa protection judiciaire de la jeunesse est engagée dans une réform",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "fced24320c956966",
       "source_name": "PNF (Parquet National Financier)",
       "source_type": "rss",
@@ -1030,7 +1066,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la collaboration entre les autorités fiscales et le PNF pour traiter les procédures de conformité financière et de lutte anti-fraude."
     },
     {
       "hash": "3b0befc06448594d",
@@ -1048,25 +1084,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la désignation d'un procureur financier chargé de superviser les poursuites auprès des chambres régionales des comptes, organe de contrôle financier public."
-    },
-    {
-      "hash": "210da07a493edda8",
-      "source_name": "JORF - Crypto/PSAN",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décret n° 2026-287 du 16 avril 2026 portant publication de l'accord entre le Gouvernement de la République française et le Gouvernement du Grand-Duché de Luxembourg concernant l'échange et la protection des informations classifiées, signé à Paris le 1er juillet 2022 (1)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053910107",
-      "author": "Ministère de l'Europe et des affaires étrangères",
-      "published": "2026-04-18T00:00:00",
-      "summary": "Article 1L'accord entre le Gouvernement de la République française et le Gouvernement du Grand-Duché de Luxembourg concernant l'échange et la protection des informations classifiées, signé à Paris le 1er juillet 2022 sera publié au Journal officiel de la République française.Article 2Le Premier ministre et le ministre de l'Europe et des affaires étrangères sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.",
-      "score": 67,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
-      "doc_type": "DÉCRET",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet article concerne la nomination d'un procureur financier aux chambres régionales des comptes, structure de contrôle financier et de conformité des finances publiques."
     },
     {
       "hash": "f4da2c83d36f413c",
@@ -1287,24 +1305,6 @@
       "ai_summary": "Cette règle proposée par FinCEN réforme la conformité AML/CFT des institutions financières face au blanchiment d'argent."
     },
     {
-      "hash": "f0ad5ff996f293bf",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Vue PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwYjNRQlZMbjZnQWR3aTJzcTlEZnFFYzRiakFvMnhtM1JZaW01RzdlcUd3Szg1MTA3czg0ai10SVNqZG1QQUNBVXBuU0MtdDF1bE1LeVhXWFoxM0JvbmJmSVpuQmVKdw?oc=5",
-      "author": "",
-      "published": "2026-04-15T18:57:17",
-      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
-      "score": 60,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "3899a22033499909",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -1464,7 +1464,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il rapporte les données de l'EBA sur les rémunérations élevées des dirigeants bancaires, soumises à la réglementation prudentielle."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la rémunération des hauts dirigeants bancaires, soumise aux règles prudentielles de l'EBA."
     },
     {
       "hash": "3e3bc6040dffaa44",
@@ -1722,6 +1722,24 @@
       "is_primary": false
     },
     {
+      "hash": "210da07a493edda8",
+      "source_name": "JORF - Crypto/PSAN",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décret n° 2026-287 du 16 avril 2026 portant publication de l'accord entre le Gouvernement de la République française et le Gouvernement du Grand-Duché de Luxembourg concernant l'échange et la protection des informations classifiées, signé à Paris le 1er juillet 2022 (1)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053910107",
+      "author": "Ministère de l'Europe et des affaires étrangères",
+      "published": "2026-04-18T00:00:00",
+      "summary": "Article 1L'accord entre le Gouvernement de la République française et le Gouvernement du Grand-Duché de Luxembourg concernant l'échange et la protection des informations classifiées, signé à Paris le 1er juillet 2022 sera publié au Journal officiel de la République française.Article 2Le Premier ministre et le ministre de l'Europe et des affaires étrangères sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.",
+      "score": 54,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
+      "doc_type": "DÉCRET",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "d14ab9c59b4510c5",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1937,6 +1955,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "BaFin classe la lutte anti-blanchiment et contre le financement du terrorisme en crypto comme risque majeur, relevant de la conformité réglementaire."
+    },
+    {
+      "hash": "4e9aa7a777a29c1f",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GQkFfd3hqNWFvY2xpRXcyZDBmX0FoYWxtS1Juc21yV21Rd1BBeUc5SzFFaDE4UmFkY05TODJhYjJGQWFoX3lSeHhxblcyLWU4eGNveFVzVy1kM2w0dkk3UEVwMDJSQQ?oc=5",
+      "author": "",
+      "published": "2026-04-15T00:45:09",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "f0132251b3e088b2",
@@ -2172,7 +2208,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "53fb15a63f6b46b8",
@@ -2519,63 +2555,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'étude mesure la perception des acteurs régulés envers l'AMF et identifie les attentes pour améliorer la conformité réglementaire."
-    },
-    {
-      "hash": "d89a3829f0f0aafb",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 18 mars 2026 portant application des articles L. 562-2 et suivants du code monétaire et financier",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053703505",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-03-20T00:00:00",
-      "summary": "Article Par arrêté du ministre de l'intérieur et du ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique en date du 18 mars 2026, vu le code monétaire et financier, notamment ses articles L. 562-2 et suivants, les fonds et ressources économiques qui appartiennent à, sont possédés, détenus ou contrôlés par M. Mohamed HATTAY, né le 8 novembre 1991 à Strasbourg (67), ainsi que les fonds et ressources économiques qui appartiennent à, sont possédés, détenu",
-      "score": 44,
-      "status": "new",
-      "early_brief": false,
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "ai_summary": "Cet arrêté encadre la lutte anti-blanchiment et contre le financement du terrorisme en application du code monétaire et financier.",
-      "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: code monétaire | ×0.8 (14d)",
-      "is_primary": false
-    },
-    {
-      "hash": "0b674b9da7320ba5",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 18 mars 2026 modifiant l'arrêté du 20 août 2019 portant désignation des pays tiers mentionnés au 7 de l'article L. 440-2 du code monétaire et financier",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053703492",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-03-20T00:00:00",
-      "summary": "Article 1L'article 1er de l'arrêté du 20 août 2019 susvisé est remplacé par les dispositions suivantes :« Art. 1. - Les pays tiers mentionnés au 7 de l'article L. 440-2 du code monétaire et financier sont l'Australie, le Canada, les Etats-Unis, Guernesey, Hong-Kong, les Iles Caïmans, Jersey, le Japon, le Royaume-Uni, Singapour et la Suisse. »Article 2L'article 2 de l'arrêté du 20 août 2019 susvisé est remplacé par les dispositions suivantes :« Art. 2. - Les dispositions du présent arrêté sont ap",
-      "score": 44,
-      "status": "new",
-      "early_brief": false,
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "ai_summary": "Cet arrêté concerne la conformité financière en désignant les pays tiers autorisés pour les opérations régies par le code monétaire et financier.",
-      "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: code monétaire | ×0.8 (14d)",
-      "is_primary": false
-    },
-    {
-      "hash": "e509bc4b8853cf50",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décret n° 2026-195 du 18 mars 2026 modifiant les conditions d'accès des fonds d'investissement alternatifs aux chambres de compensation",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053703429",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-03-20T00:00:00",
-      "summary": "Article 1Au cinquième alinéa de l'article D. 440-3 du code monétaire et financier, après les mots : « 19 décembre 2012 », sont insérés les mots : « sauf si ces derniers justifient, pour couvrir tout ou partie des engagements vis-à-vis de la chambre de compensation, d'une garantie ou d'un engagement équivalent accordé par l'une des entités mentionnées aux points 1, 2 et 5 de l'article L. 440-2 et dans les conditions fixées par les règles de fonctionnement. »Article 2Au I des articles D. 762-12, D",
-      "score": 44,
-      "status": "new",
-      "early_brief": false,
-      "doc_type": "DÉCRET",
-      "action_class": "action",
-      "ai_summary": "Ce décret concerne la conformité financière car il régit l'accès des fonds alternatifs aux chambres de compensation et leurs obligations de garanties.",
-      "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: code monétaire | ×0.8 (14d)",
-      "is_primary": false
     },
     {
       "hash": "32b9db920a51",
@@ -2989,7 +2968,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les États-Unis prolongent les suspensions de sanctions contre le pétrole russe, ce qui relève de la conformité aux sanctions et du respect des régimes réglementaires internationaux."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales qui imposent des obligations de conformité aux institutions financières et entreprises."
     },
     {
       "hash": "c7ab93c3955c4e4e",
@@ -3226,24 +3205,6 @@
       "ai_summary": "Décision de sanction de l'AMF contre une société de conseil financier et ses dirigeants pour violation des règles de conformité."
     },
     {
-      "hash": "5b8ee3fb6d906fd7",
-      "source_name": "PNF (Parquet National Financier)",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Transparency International France présente son #podcast &quot;Où va l’argent ? Sur la…",
-      "url": "https://social.numerique.gouv.fr/@pnf/116257442119703039",
-      "author": "",
-      "published": "2026-03-19T19:16:26",
-      "summary": "Transparency International France présente son #podcast &quot;Où va l’argent ? Sur la trace des flux financiers illicites&quot;.​🎧 Dans le premier épisode, plongez au cœur de la justice financière et du quotidien des magistrats qui traquent les flux financiers illicites avec Jérôme Simon, Premier vice-procureur au sein du Parquet national financier, qui est en première ligne dans la lutte contre la grande délinquance économique. ​​🔗 Disponible ici : https://radio.amicus-curiae.net/podcast/episod",
-      "score": 36,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: france, parquet national financier | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Ce podcast traite de la lutte contre les flux financiers illicites et de la traçabilité de l'argent, éléments centraux de la conformité financière."
-    },
-    {
       "hash": "81e23b9558d20ccc",
       "source_name": "ECB - Banking Supervision",
       "source_type": "rss",
@@ -3405,7 +3366,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "6e0d2e587f3397be",
@@ -3877,7 +3838,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de sanctions prononcées par l'Autorité de la concurrence pour entente anticoncurrentielle, un enjeu majeur de conformité réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il rapporte des sanctions pécuniaires imposées par l'Autorité de la concurrence pour entente anticoncurrentielle."
     },
     {
       "hash": "04bf735c19bc71c7",
@@ -4601,24 +4562,6 @@
       "is_primary": true
     },
     {
-      "hash": "139006d8a9ea",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "European Council conclusions, 19 March 2026",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/03/20/european-council-conclusions/",
-      "author": "",
-      "published": "2026-03-20T00:00:00Z",
-      "summary": "European Council adopts conclusions on Ukraine, Middle East, competitiveness and security - including sanctions and restrictive measures discussions.",
-      "score": 28,
-      "doc_type": "conclusions",
-      "action_class": "sanction",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les conclusions du Conseil européen concernent les mesures de sanctions et restrictives, relevant de la conformité financière internationale.",
-      "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | ×0.8 (14d)"
-    },
-    {
       "hash": "2b48137ffa9a",
       "source_name": "OFAC - Recent Actions",
       "source_type": "scrape",
@@ -5270,24 +5213,6 @@
       "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: bank | +5 Source Intl | ×0.8 (14d)"
     },
     {
-      "hash": "ff09be2ed4e6",
-      "source_name": "DOJ - Criminal Division",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Former Bank CEO Pleads Guilty to Multimillion-Dollar Wire Fraud Conspiracy and Venezuela Sanctions Evasion Scheme",
-      "url": "https://www.justice.gov/criminal/pr/former-bank-ceo-pleads-guilty-multimillion-dollar-wire-fraud-conspiracy-and-venezuela-sanctions",
-      "author": "",
-      "published": "2026-03-20T00:00:00",
-      "summary": "The former CEO of Nodus International Bank pleaded guilty for leading a scheme to fraudulently obtain at least $24.9 million from the bank and conspiring to evade U.S. sanctions against Venezuela.",
-      "score": 24,
-      "doc_type": "sanction",
-      "action_class": "designation",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de fraude bancaire, d'évasion des sanctions et du non-respect des réglementations.",
-      "score_breakdown": "+20 mots critiques: sanction, fraud | +5 mots moyens: bank | +5 Source Intl | ×0.8 (14d)"
-    },
-    {
       "hash": "47edda49a30437d4",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -5417,42 +5342,6 @@
       "score_breakdown": "+20 mots critiques: sanction | +5 Source Intl | +3 Géo Intl: ofac | ×0.8 (14d)"
     },
     {
-      "hash": "2854c94f6c7c",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Issuance of Iran-related General License",
-      "url": "https://ofac.treasury.gov/recent-actions/20260320_33",
-      "author": "",
-      "published": "2026-03-20T00:00:00Z",
-      "summary": "OFAC issues general license related to Iran sanctions program.",
-      "score": 22,
-      "doc_type": "guidance",
-      "action_class": "sanction",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de licences générales OFAC relatives aux sanctions contre l'Iran.",
-      "score_breakdown": "+20 mots critiques: sanction | +5 Source Intl | +3 Géo Intl: ofac | ×0.8 (14d)"
-    },
-    {
-      "hash": "ad9f4d7a11d7",
-      "source_name": "US Treasury - Sanctions Press",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Treasury Sanctions Global Network Diverting Funds to Benefit Hizballah",
-      "url": "https://home.treasury.gov/news/press-releases/sb0420",
-      "author": "",
-      "published": "2026-03-20T00:00:00Z",
-      "summary": "US Treasury sanctions a global network diverting funds to benefit Hizballah, targeting financial facilitators.",
-      "score": 22,
-      "doc_type": "enforcement",
-      "action_class": "sanction",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions contre un réseau finançant une organisation désignée.",
-      "score_breakdown": "+20 mots critiques: sanction | +5 Source Intl | +3 Géo Intl: us treasury | ×0.8 (14d)"
-    },
-    {
       "hash": "f78448ecd5554832",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -5522,7 +5411,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il décrit l'allégation qu'une banque aurait pressé un employé à falsifier les registres de conformité."
+      "ai_summary": "Cet article concerne la conformité financière car il évoque l'allégation de falsification de registres de conformité et les violations potentielles des obligations réglementaires."
     },
     {
       "hash": "f044e4ea2f234412",
@@ -6109,7 +5998,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3b313f3ccca1330a",
@@ -6474,7 +6363,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "dcf615b2be369a6a",
@@ -6492,7 +6381,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ebf1b1b1955cede1",
@@ -6510,7 +6399,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "f2668a6f29b4",
@@ -6673,7 +6562,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "190768747fc755d7",
@@ -6798,7 +6687,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b8152da2a7c00fb6",
@@ -6869,7 +6758,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite de la surveillance macroprudentielle des risques systémiques liés à l'interconnexion bancaire.",
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la surveillance macroprudentielle et de la gestion des risques systémiques entre institutions financières.",
       "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×0.8 (14d)",
       "is_primary": false
     },
@@ -7232,7 +7121,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7038bcbfb30ffc98",
@@ -7394,7 +7283,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la liquidation judiciaire d'une entreprise de finance d'entreprise ordonnée par les autorités de régulation financière."
+      "ai_summary": "Cet article concerne la conformité financière car il rapporte la liquidation judiciaire d'une entreprise de finance d'entreprise ordonnée par la FCA."
     },
     {
       "hash": "40469a15fb8f6b7e",
@@ -7612,7 +7501,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites pour corruption étrangère, un enjeu majeur de lutte anti-corruption et de conformité réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites pour corruption internationale, un enjeu clé de la conformité anticorruption et des règlementations FCPA."
     },
     {
       "hash": "85ceac9ffde0d46a",
@@ -7648,7 +7537,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne l'adaptation des politiques prudentielles aux nouvelles modalités numériques d'émission et de négociation d'actifs financiers en UE."
+      "ai_summary": "Cet article concerne l'adaptation des politiques de conformité aux nouveaux modes numériques d'émission et de négociation d'actifs financiers."
     },
     {
       "hash": "e41c2747f82a2874",
@@ -7666,7 +7555,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1f3cf1bbc6346e54",
@@ -8047,6 +7936,6 @@
       "ai_summary": "L'article concerne la conformité financière car il traite d'accusations de corruption dans les affaires internationales."
     }
   ],
-  "last_update": "2026-04-18T19:12:51.564269+00:00",
+  "last_update": "2026-04-19T01:46:52.251562+00:00",
   "last_updated": "2026-04-12T18:05:00Z"
 }
