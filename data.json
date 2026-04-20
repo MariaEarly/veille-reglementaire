@@ -1030,7 +1030,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il évoque la collaboration entre les autorités de vérification fiscale et le PNF pour traiter les procédures financières."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la collaboration entre les autorités de contrôle fiscal et le PNF pour lutter contre la fraude financière."
     },
     {
       "hash": "3b0befc06448594d",
@@ -1192,7 +1192,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4a8f38927e46b190",
@@ -1719,7 +1719,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "210da07a493edda8",
@@ -1737,7 +1737,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d14ab9c59b4510c5",
@@ -1972,7 +1972,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6011d200e4441d12",
@@ -1990,7 +1990,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "f0132251b3e088b2",
@@ -2227,24 +2227,6 @@
       "ai_summary": "Ces CJIP imposent aux entreprises des programmes de mise en conformité pour violations financières et de corruption.",
       "score_breakdown": "+10 mots forts: conformité | +5 mots moyens: paiement | +25 Source FR | +20 Géo FR: parquet national financier, cjip | ×0.8 (14d)",
       "is_primary": true
-    },
-    {
-      "hash": "3bb8d76f8905dd85",
-      "source_name": "EBA - News",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "​The EBA launches the recruitment of its Executive Director​",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-recruitment-its-executive-director",
-      "author": "jana.jaklic@eba.europa.eu",
-      "published": "2026-04-17T07:03:17",
-      "summary": "The European Banking Authority (EBA) has today launched an open selection procedure to recruit its new Executive Director.",
-      "score": 48,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +15 Source EU | +10 Géo EU: eba | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "53fb15a63f6b46b8",
@@ -2844,6 +2826,24 @@
       "ai_summary": "Cet article concerne la conformité car il traite de la coordination entre entreprises et autorités fédérales contre les centres d'arnaque."
     },
     {
+      "hash": "3bb8d76f8905dd85",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "​The EBA launches the recruitment of its Executive Director​",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-recruitment-its-executive-director",
+      "author": "jana.jaklic@eba.europa.eu",
+      "published": "2026-04-17T07:03:17",
+      "summary": "The European Banking Authority (EBA) has today launched an open selection procedure to recruit its new Executive Director.",
+      "score": 40,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +15 Source EU | +10 Géo EU: eba | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "91004de9a09ebf5d",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -3004,7 +3004,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions internationales et les restrictions commerciales imposées par les États-Unis, éléments clés de la conformité financière et des contrôles commerciaux."
+      "ai_summary": "Cet article concerne la conformité financière car les sanctions contre le pétrole russe et l'Iran imposent des obligations de conformité strictes aux institutions financières."
     },
     {
       "hash": "c7ab93c3955c4e4e",
@@ -3402,7 +3402,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6e0d2e587f3397be",
@@ -5781,6 +5781,24 @@
       "ai_summary": "Cet article concerne les accusations de blanchiment d'argent contre Smartmatic et ses dirigeants, relevant de la conformité financière."
     },
     {
+      "hash": "e02517d1b2d4b55a",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "En Bourse, la tokénisation s’accélère",
+      "url": "https://www.lemonde.fr/argent/article/2026/04/20/en-bourse-la-tokenisation-s-accelere_6681606_1657007.html",
+      "author": "",
+      "published": "2026-04-20T04:00:09",
+      "summary": "Ce processus technologique, emprunté à l’univers des cryptoactifs, permettrait des transactions plus rapides, vingt-quatre heures sur vingt-quatre.",
+      "score": 19,
+      "score_breakdown": "+10 mots forts: crypto | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "ab62fabe68036f27",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -5922,7 +5940,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3b313f3ccca1330a",
@@ -6268,7 +6286,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "dcf615b2be369a6a",
@@ -6286,7 +6304,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ebf1b1b1955cede1",
@@ -6304,7 +6322,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f2668a6f29b4",
@@ -6467,7 +6485,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "190768747fc755d7",
@@ -6592,7 +6610,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b8152da2a7c00fb6",
@@ -6663,7 +6681,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite des risques systémiques et de la nécessité de renforcer la surveillance macroprudentielle des interconnexions bancaires.",
+      "ai_summary": "L'article traite de la conformité financière en abordant les risques systémiques liés aux interconnexions bancaires et la nécessité de renforcer la supervision macroprudentielle.",
       "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×0.8 (14d)",
       "is_primary": false
     },
@@ -7370,7 +7388,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c2c207530c55d58b",
@@ -7787,6 +7805,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'application des règles anti-corruption et de leur impact sur les entreprises."
     }
   ],
-  "last_update": "2026-04-20T03:56:05.299194+00:00",
+  "last_update": "2026-04-20T07:52:38.034852+00:00",
   "last_updated": "2026-04-12T18:05:00Z"
 }
