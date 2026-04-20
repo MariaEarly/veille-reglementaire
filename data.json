@@ -1015,24 +1015,6 @@
       "ai_summary": "Cet arrêté prolonge jusqu'en 2026 la période de reconduction automatique des avenants financiers pour les structures d'insertion."
     },
     {
-      "hash": "fc7b25a0c13643fc",
-      "source_name": "JORF - Sanctions",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 14 avril 2026 fixant le cahier des charges des unités judiciaires à priorité éducative",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053911130",
-      "author": "Ministère de la justice",
-      "published": "2026-04-19T00:00:00",
-      "summary": "Article 1Le cahier des charges des unités judiciaires à priorité éducative prévu à l'article R. 241-33 du code de la justice pénale des mineurs figure en annexe I du présent arrêté.Article 2Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXE ICAHIER DES CHARGES DES UNITÉS JUDICIAIRES À PRIORITÉ ÉDUCATIVE (UJPE)Préambule au cahier des charges des unités judiciaires à priorité éducativeLa protection judiciaire de la jeunesse est engagée dans une réform",
-      "score": 67,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "fced24320c956966",
       "source_name": "PNF (Parquet National Financier)",
       "source_type": "rss",
@@ -1048,7 +1030,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il présente la collaboration entre le PNF et la DVNI pour traiter les procédures d'affaires financières."
+      "ai_summary": "Cet article concerne la conformité financière car il évoque la collaboration entre les autorités de vérification fiscale et le PNF pour traiter les procédures financières."
     },
     {
       "hash": "3b0befc06448594d",
@@ -1722,6 +1704,24 @@
       "is_primary": false
     },
     {
+      "hash": "fc7b25a0c13643fc",
+      "source_name": "JORF - Sanctions",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 14 avril 2026 fixant le cahier des charges des unités judiciaires à priorité éducative",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053911130",
+      "author": "Ministère de la justice",
+      "published": "2026-04-19T00:00:00",
+      "summary": "Article 1Le cahier des charges des unités judiciaires à priorité éducative prévu à l'article R. 241-33 du code de la justice pénale des mineurs figure en annexe I du présent arrêté.Article 2Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXE ICAHIER DES CHARGES DES UNITÉS JUDICIAIRES À PRIORITÉ ÉDUCATIVE (UJPE)Préambule au cahier des charges des unités judiciaires à priorité éducativeLa protection judiciaire de la jeunesse est engagée dans une réform",
+      "score": 54,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "210da07a493edda8",
       "source_name": "JORF - Crypto/PSAN",
       "source_type": "rss",
@@ -1737,7 +1737,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d14ab9c59b4510c5",
@@ -1957,14 +1957,32 @@
       "ai_summary": "BaFin classe la lutte anti-blanchiment et contre le financement du terrorisme en crypto comme risque majeur, relevant de la conformité réglementaire."
     },
     {
-      "hash": "199a3de723150d86",
+      "hash": "76c16d069e4c64af",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "View PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRUlFiUkgzVVExQnFJV2NiMzIxLTVZSjhvSmR2c3N1Y2k4bVp1Rzl0eVZfemh4REVTZzlnWVBLc0NkcmlDVUVhSmNxNUtBSmEyQmhLNzNFdHBXVnJaU3JVV0RWVVRqdw?oc=5",
+      "author": "",
+      "published": "2026-04-16T21:00:17",
+      "summary": "View PDF&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "6011d200e4441d12",
       "source_name": "ACPR",
       "source_type": "rss",
       "category": "autorite_fr",
       "title": "Vue PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KbmxhUThZQmlVbThHSWdUNktoZjhES2lwb1NzMFhVM1FqMkhWLV96Ti1JLXZxNkQwQ2xuMXMzanFjdzhVNFlvakhwZFZKSE9jT0dkZnRrQkJFRVpGcWRoa2lYM0Vwdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mNjlDSVBqRVBPTDQ2Wk5NeWx5VktkazU5Nm0ta3dJcGo3WVRQU1dscFA2eWlUTnN2MHE1RzgtUUFfUTFldUM3c21zWWR3blBRdDQyYWhBUXNYcmxpbVJja2k3VjBBQQ?oc=5",
       "author": "",
-      "published": "2026-04-15T05:15:53",
+      "published": "2026-04-16T13:36:17",
       "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
       "score": 50,
       "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
@@ -1972,7 +1990,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f0132251b3e088b2",
@@ -2226,7 +2244,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "53fb15a63f6b46b8",
@@ -2950,7 +2968,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de sanctions économiques sur le pétrole russe, un enjeu majeur de conformité réglementaire et de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions économiques contre la Russie et de leur application par les États-Unis."
     },
     {
       "hash": "c42b99c3b31885ad",
@@ -2986,7 +3004,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales et des restrictions sur les transactions commerciales, domaines clés du respect des régulations de conformité."
+      "ai_summary": "Cet article concerne les sanctions internationales et les restrictions commerciales imposées par les États-Unis, éléments clés de la conformité financière et des contrôles commerciaux."
     },
     {
       "hash": "c7ab93c3955c4e4e",
@@ -3384,7 +3402,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6e0d2e587f3397be",
@@ -4908,24 +4926,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la création d'une division anti-fraude au sein du ministère américain de la Justice."
     },
     {
-      "hash": "050850cc015e0d07",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "World Bank moves to debar Alstom, Bombardier in Azerbaijan bribery case",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/world-bank-moves-debar-alstom-bombardier-in-azerbaijan-bribery-case",
-      "author": "Gaspard Le Dem",
-      "published": "2026-03-20T21:18:40",
-      "summary": "The lender is seeking $50 million in restitution from the companies and a Russian construction group after a corruption probe into a 2013 railway deal in Azerbaijan. The provisional decision tees up what could be a lengthy appeal process.",
-      "score": 26,
-      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: bank, ppe | +3 Presse | +10 Géo EU: eba | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de sanctions de la Banque mondiale contre des entreprises pour corruption."
-    },
-    {
       "hash": "3836d275e88e",
       "source_name": "ACPR - Communiqués",
       "source_type": "scrape",
@@ -5375,24 +5375,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il mentionne le blanchiment d'argent et les droits de données financières."
-    },
-    {
-      "hash": "052978398fe1e179",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Ex-CEO of Puerto Rican bank admits to investment fraud, sanctions violations",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/ex-ceo-of-puerto-rican-bank-admits-investment-fraud-sanctions-violations",
-      "author": "Austin Cope",
-      "published": "2026-03-20T20:43:47",
-      "summary": "Miami-based Tomás Niembro Concha led a scheme to siphon at least $24.9 million from Nodus Bank, breaching US sanctions on Venezuela along the way, court filings show. &nbsp;&nbsp;",
-      "score": 22,
-      "score_breakdown": "+20 mots critiques: sanction, fraud | +5 mots moyens: bank | +3 Presse | ×0.8 (14d)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière : fraude aux investissements, détournement de fonds et violations des sanctions internationales."
     },
     {
       "hash": "ffde73cc6c09fc1d",
@@ -5940,7 +5922,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3b313f3ccca1330a",
@@ -6286,7 +6268,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "dcf615b2be369a6a",
@@ -6304,7 +6286,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "ebf1b1b1955cede1",
@@ -6322,7 +6304,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f2668a6f29b4",
@@ -6485,7 +6467,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "190768747fc755d7",
@@ -6610,7 +6592,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b8152da2a7c00fb6",
@@ -6681,7 +6663,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite des risques systémiques et de la surveillance macroprudentielle des interconnexions bancaires.",
+      "ai_summary": "L'article concerne la conformité financière car il traite des risques systémiques et de la nécessité de renforcer la surveillance macroprudentielle des interconnexions bancaires.",
       "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×0.8 (14d)",
       "is_primary": false
     },
@@ -7388,7 +7370,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c2c207530c55d58b",
@@ -7805,6 +7787,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'application des règles anti-corruption et de leur impact sur les entreprises."
     }
   ],
-  "last_update": "2026-04-19T19:12:17.243039+00:00",
+  "last_update": "2026-04-20T01:49:15.674415+00:00",
   "last_updated": "2026-04-12T18:05:00Z"
 }
