@@ -1030,7 +1030,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la collaboration entre les autorités de contrôle fiscal et le PNF pour lutter contre la fraude financière."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la coopération entre les autorités de vérification fiscale et le parquet chargé des enquêtes financières."
     },
     {
       "hash": "3b0befc06448594d",
@@ -1192,7 +1192,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4a8f38927e46b190",
@@ -1719,7 +1719,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "210da07a493edda8",
@@ -1737,7 +1737,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d14ab9c59b4510c5",
@@ -1957,42 +1957,6 @@
       "ai_summary": "BaFin classe la lutte anti-blanchiment et contre le financement du terrorisme en crypto comme risque majeur, relevant de la conformité réglementaire."
     },
     {
-      "hash": "76c16d069e4c64af",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "View PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRUlFiUkgzVVExQnFJV2NiMzIxLTVZSjhvSmR2c3N1Y2k4bVp1Rzl0eVZfemh4REVTZzlnWVBLc0NkcmlDVUVhSmNxNUtBSmEyQmhLNzNFdHBXVnJaU3JVV0RWVVRqdw?oc=5",
-      "author": "",
-      "published": "2026-04-16T21:00:17",
-      "summary": "View PDF&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "6011d200e4441d12",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Vue PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mNjlDSVBqRVBPTDQ2Wk5NeWx5VktkazU5Nm0ta3dJcGo3WVRQU1dscFA2eWlUTnN2MHE1RzgtUUFfUTFldUM3c21zWWR3blBRdDQyYWhBUXNYcmxpbVJja2k3VjBBQQ?oc=5",
-      "author": "",
-      "published": "2026-04-16T13:36:17",
-      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
-    },
-    {
       "hash": "f0132251b3e088b2",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -2208,25 +2172,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il décrit comment la Hongrie a coordonné le délisting de sociétés et banques sanctionnées."
-    },
-    {
-      "hash": "158e97f53889232b",
-      "source_name": "PNF (Parquet National Financier)",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Untitled",
-      "url": "https://social.numerique.gouv.fr/@pnf/116266589984913322",
-      "author": "",
-      "published": "2026-03-21T10:02:51+00:00",
-      "summary": "Le 19 mars 2026, le président du Tribunal judiciaire de Paris a validé deux conventions judiciaires d’intérêt public (CJIP) conclues par le Parquet national financier, respectivement avec les sociétés COLAS RAIL ASIA et BALT USA.  Les conventions prévoient ainsi un programme de mise en conformité et le paiement d’une amende d’intérêt public d’un montant de 29 745 974€ s’agissant de COLAS RAIL ASIA (https://www.tribunal-de-paris.justice.fr/sites/default/files/2026-03/260317_CJIP%20COLAS%20RAIL%20...",
-      "score": 48,
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Ces CJIP imposent aux entreprises des programmes de mise en conformité pour violations financières et de corruption.",
-      "score_breakdown": "+10 mots forts: conformité | +5 mots moyens: paiement | +25 Source FR | +20 Géo FR: parquet national financier, cjip | ×0.8 (14d)",
-      "is_primary": true
     },
     {
       "hash": "53fb15a63f6b46b8",
@@ -2501,6 +2446,24 @@
       "early_brief": false,
       "score_breakdown": "+20 mots forts: compliance, esma | +15 Source EU | +10 Géo EU: esma | ×1.0 (7d)",
       "is_primary": false
+    },
+    {
+      "hash": "8499237b8668669e",
+      "source_name": "ESMA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🛡️ From 1 July 2026, #crypto‑asset services for EU clients require #MiCA authorisation. ⏱️ Providers without a licence will need to stop offering services. ⚠️ Investors: check your provider in the #ESMA's MiCA register. 📑",
+      "url": "https://x.com/ESMAComms/status/2046141760905077191",
+      "author": "@ESMAComms",
+      "published": "2026-04-20T08:19:00",
+      "summary": "🛡️ From 1 July 2026,  #crypto‑asset services for EU clients require  #MiCA authorisation.⏱️ Providers without a licence will need to stop offering services.⚠️ Investors: check your provider in the  #ESMA's MiCA register.📑  link.europa.eu/9pFHBv— ESMA - EU Securities Markets Regulator 🇪🇺 (@ESMAComms) Apr 20, 2026",
+      "score": 45,
+      "score_breakdown": "+20 mots forts: mica, crypto, esma | +10 Géo EU: esma, mica | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "6dad9d833f92d702",
@@ -2841,7 +2804,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "91004de9a09ebf5d",
@@ -3004,7 +2967,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les sanctions contre le pétrole russe et l'Iran imposent des obligations de conformité strictes aux institutions financières."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales qui imposent des obligations de conformité dans les transactions commerciales et financières avec la Russie et l'Iran."
     },
     {
       "hash": "c7ab93c3955c4e4e",
@@ -3385,24 +3348,6 @@
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité aux normes anti-blanchiment de capitaux et contre le financement du terrorisme.",
       "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: compliance, fatf | +5 Source Intl | ×0.8 (14d)"
-    },
-    {
-      "hash": "893aa9be74fd9f22",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📢 The EBA is recruiting its next Executive Director The European Banking Authority has launched an open selection procedure to app...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7450813718604640256",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-04-17T07:53:40",
-      "summary": "📢 The EBA is recruiting its next Executive Director\n\nThe European Banking Authority has launched an open selection procedure to appoint its next Executive Director, a senior leadership role at the heart of EU banking supervision and regulation.\n\nWorking closely with the Chair, the Executive Director will lead the operational management of the Authority and deliver its work programme.\n\n👉 A unique opportunity to shape EU banking regulation at the highest level.\n\n ➡️ More information: https://lnkd.",
-      "score": 36,
-      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: regulation, bank | +10 Géo EU: eba | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6e0d2e587f3397be",
@@ -3821,6 +3766,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite des programmes de lutte contre le blanchiment d'argent et le financement du terrorisme, essentiels à la conformité financière."
+    },
+    {
+      "hash": "9ffc00612c5c0ea1",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "La Corée du Nord sur le point d’inaugurer son plus vaste centre commercial",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/20/la-coree-du-nord-sur-le-point-d-inaugurer-son-plus-vaste-centre-commercial_6681712_3234.html",
+      "author": "",
+      "published": "2026-04-20T12:00:04",
+      "summary": "Les strictes sanctions onusiennes n’empêchent pas la Corée du Nord de construire à Pyongyang son plus grand complexe commercial, avec le concours d’investisseurs chinois.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "ae5a50347bc3e41b",
@@ -4359,6 +4322,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Le Trésor américain sanctionne un réseau ayant volé et revendu des outils informatiques gouvernementaux, violation de conformité."
+    },
+    {
+      "hash": "893aa9be74fd9f22",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📢 The EBA is recruiting its next Executive Director The European Banking Authority has launched an open selection procedure to app...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7450813718604640256",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-04-17T07:53:40",
+      "summary": "📢 The EBA is recruiting its next Executive Director\n\nThe European Banking Authority has launched an open selection procedure to appoint its next Executive Director, a senior leadership role at the heart of EU banking supervision and regulation.\n\nWorking closely with the Chair, the Executive Director will lead the operational management of the Authority and deliver its work programme.\n\n👉 A unique opportunity to shape EU banking regulation at the highest level.\n\n ➡️ More information: https://lnkd.",
+      "score": 30,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: regulation, bank | +10 Géo EU: eba | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "a308a01b788e9b63",
@@ -5796,7 +5777,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La tokénisation améliore la conformité en accélérant les transactions et en traçabilité des actifs financiers en bourse."
     },
     {
       "hash": "ab62fabe68036f27",
@@ -5940,7 +5921,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3b313f3ccca1330a",
@@ -6286,7 +6267,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "dcf615b2be369a6a",
@@ -6304,7 +6285,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ebf1b1b1955cede1",
@@ -6322,7 +6303,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f2668a6f29b4",
@@ -6485,7 +6466,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "190768747fc755d7",
@@ -6610,7 +6591,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b8152da2a7c00fb6",
@@ -6681,7 +6662,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article traite de la conformité financière en abordant les risques systémiques liés aux interconnexions bancaires et la nécessité de renforcer la supervision macroprudentielle.",
+      "ai_summary": "L'article concerne la conformité financière car il traite de la surveillance macroprudentielle des risques systémiques entre banques et acteurs financiers.",
       "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×0.8 (14d)",
       "is_primary": false
     },
@@ -7373,24 +7354,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions imposées par les États-Unis et de leurs suppressions."
     },
     {
-      "hash": "a92a150d5b75b808",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "« Le tourisme tend à soumettre l’ensemble d’un territoire à ses impératifs »",
-      "url": "https://www.lemonde.fr/economie/article/2026/04/18/le-tourisme-tend-a-soumettre-l-ensemble-d-un-territoire-a-ses-imperatifs_6681149_3234.html",
-      "author": "",
-      "published": "2026-04-18T12:00:10",
-      "summary": "Dopé par les plateformes, le tourisme, qui croît de manière exponentielle dans le monde, est à la fois source de création de richesses et de dysfonctionnements majeurs, faute de régulation suffisante, estime le géographe Rémy Knafou dans un entretien au « Monde ».",
-      "score": 7,
-      "score_breakdown": "+3 Presse | +3 Géo Intl: sfo | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "c2c207530c55d58b",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7805,6 +7768,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'application des règles anti-corruption et de leur impact sur les entreprises."
     }
   ],
-  "last_update": "2026-04-20T08:31:39.760804+00:00",
+  "last_update": "2026-04-20T13:08:01.111853+00:00",
   "last_updated": "2026-04-12T18:05:00Z"
 }
