@@ -670,7 +670,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article traite de la conformité financière car l'AMF et l'ACPR alertent sur des acteurs non autorisés proposant des produits financiers réglementés sans licence."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre les acteurs non autorisés opérant illégalement en France."
     },
     {
       "hash": "308ba420d9eebcd5",
@@ -925,24 +925,6 @@
       "ai_summary": "Cet article traite de la sélection d'un prestataire de données AML pour optimiser la conformité réglementaire et l'efficacité opérationnelle."
     },
     {
-      "hash": "9d3763bbec783623",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "View PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5saFhidFZmWnhQeU5fdzlSUmk4U1RCMWgxaV9heXU2MzhhdHluektFcFFhd00wR3RNbV9iWHZ5TzdCelhJUW0zOS0yTWFDc2Y2aUcwemtMLTlxRTZrNjFvYkNuY0dqdw?oc=5",
-      "author": "",
-      "published": "2026-04-20T08:53:31",
-      "summary": "View PDF&nbsp;&nbsp;Banque de France",
-      "score": 75,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "913696fc15056947",
       "source_name": "PNF (Parquet National Financier)",
       "source_type": "rss",
@@ -1048,7 +1030,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du respect des règles de déontologie et de neutralité exigées pour les cadres d'une institution financière publique."
+      "ai_summary": "Cet article concerne le respect des règles de déontologie et de neutralité applicables aux agents de la Banque de France, dimensions de la conformité institutionnelle."
     },
     {
       "hash": "f2c66e8e06c16cd6",
@@ -1267,24 +1249,6 @@
       "ai_summary": "L'EBA facilite les approbations de changements de modèles IRB, concernant la conformité réglementaire bancaire et les normes de risque."
     },
     {
-      "hash": "46974b3c275f9e62",
-      "source_name": "Ministère de la Justice (CJIP)",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Les condamnations en France en 2024",
-      "url": "https://www.justice.gouv.fr/documentation/etudes-et-statistiques/condamnations-france-2024",
-      "author": "HABIMANA Emmanuel",
-      "published": "2026-04-16T09:39:37",
-      "summary": "Les condamnations en France en 2024\nHABIMANA Emmanuel\njeu 16/04/2026 - 11:39\n\n      \n\n  \n\n\n  \n        Le rapport annuel Les condamnations en France en 2024 rend compte des 560 000 condamnations prononcées et inscrites au Casier judiciaire national des personnes physiques en 2024. Ces condamnations ont sanctionné 929 000 infractions, lesquelles étaient des crimes pour 0,5 % d’entre elles, des délits pour 95,3 % et des contraventions de 5e classe pour 4,2 %.\n\n      \n\n        \n\n        \n\n  \n       ",
-      "score": 65,
-      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "4a8f38927e46b190",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -1375,6 +1339,60 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cette règle proposée par FinCEN réforme la conformité AML/CFT des institutions financières face au blanchiment d'argent."
+    },
+    {
+      "hash": "aa66f304ba6520c0",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "View PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44OVRXMExqWjIxMml4QUhka1BNUnJvNGRJbW9KdDRzREdOSTlWdjluZHBVRkVQQXZhQVJRU0FfU01VLWZhdEpyUnpnNm1HbXlDWkFEOVFIemlGZFpmNlc5WUI5REw3dw?oc=5",
+      "author": "",
+      "published": "2026-04-20T08:13:39",
+      "summary": "View PDF&nbsp;&nbsp;Banque de France",
+      "score": 60,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "b94847c0a6ebbc14",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "COMPAGNIE FRANCAISE D ASSURANCE POUR LE COMMERCE EXTERIEUR (COFACE) - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQTEtoc2gwdVhRRUN0OW8xQmpISHVZWGo0SGtmNUVCV0tEQ2tSaUVWdEs3QXRiTFpXcC0yMlJxam9uMTlUMUpNYnVvWlRmVldYdEZxa3VOY0Y?oc=5",
+      "author": "",
+      "published": "2026-04-19T12:43:12",
+      "summary": "COMPAGNIE FRANCAISE D ASSURANCE POUR LE COMMERCE EXTERIEUR (COFACE)&nbsp;&nbsp;Banque de France",
+      "score": 60,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "bcfa05170c86779f",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Réclamations : l’ACPR constate des progrès mais alerte sur certaines pratiques encore insuffisantes dans la banque et l’assurance - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRnQwWnJQMDJuXy03NVJRM1JnUEZhb3oya3NveGFnTDhTX3ZyRUhYVmFiVU9sMmVTVGM4aklNYWhuSHkwZnN4OU9MdHMwQ0ZPbzZxb1E4VmNXZ29lOThlaDVkNTJBVHhzNVlzVGdrRXJzcHJ1X3htNFZMNmhFRVJDNUFBRDBzdzdKUERtclppSWJtb0ZIeW1CeFdSemE2cXVKUDVlQTVpVVJXd1ZLaGpKSHNvWGZqbkNKQW1QOFc4ZEFiQmhpRzRPYnU4Y2U0M3QtMm95UHNoYk1fb1VENDZXcmp3aXl1QQ?oc=5",
+      "author": "",
+      "published": "2026-04-16T15:04:38",
+      "summary": "Réclamations : l’ACPR constate des progrès mais alerte sur certaines pratiques encore insuffisantes dans la banque et l’assurance&nbsp;&nbsp;Banque de France",
+      "score": 60,
+      "score_breakdown": "+10 mots forts: acpr | +5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, acpr, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "3899a22033499909",
@@ -1485,6 +1503,24 @@
       "is_primary": true
     },
     {
+      "hash": "570d23baaf119348",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 21 April, 2026",
+      "url": "https://www.eba.europa.eu/node/19577",
+      "author": "Anonymous",
+      "published": "2026-04-21T15:00:03",
+      "summary": "EBA E-mail alert 21 April, 2026\n\n  \n    Date\n          21/04/2026\n\n      \n\nAnonymous (not verified)\n\nTue, 04/21/2026 - 17:00\n\n\n            \n\n      \n  \n    Careers\n          Call for expression of interest for trainees - Economic &amp; Risk Analysis Department\n      ",
+      "score": 60,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: risk | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne le recrutement de stagiaires à l'EBA, autorité de régulation bancaire."
+    },
+    {
       "hash": "b5cd2c874bcf0391",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -1573,6 +1609,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il porte sur les exigences de reporting bancaire supervisées par l'EBA et la BCE."
+    },
+    {
+      "hash": "cf2c38261542b211",
+      "source_name": "AMF France (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "[Mise en garde] ⚠️ L’AMF et l’@ACPR_actu mettent en garde le public à l’encontre de plusieurs acteurs proposant en France des investissements sur le #Forex et sur des produits dérivés sur #crypto actifs sans y être autorisés ➡️",
+      "url": "https://x.com/AMF_actu/status/2046611278160912644",
+      "author": "@AMF_actu",
+      "published": "2026-04-21T15:25:00",
+      "summary": "[Mise en garde] ⚠️ L’AMF et l’ @ACPR_actu mettent en garde le public à l’encontre de plusieurs acteurs proposant en France des investissements sur le  #Forex et sur des produits dérivés sur  #crypto actifs sans y être autorisés ➡️  cutt.ly/7tJz0hSK— AMF (@AMF_actu) Apr 21, 2026",
+      "score": 60,
+      "score_breakdown": "+20 mots forts: acpr, amf, crypto | +20 Géo FR: france, acpr, amf | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "f0c4dbb35ecafb32",
@@ -1809,7 +1863,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d14ab9c59b4510c5",
@@ -2045,6 +2099,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "BaFin classe la lutte anti-blanchiment et contre le financement du terrorisme en crypto comme risque majeur, relevant de la conformité réglementaire."
+    },
+    {
+      "hash": "3d45f9b6673c4fbe",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43Qy1ic1JuVExaZG9XN0hQWEk2UVRENEtWaWNNRjBYTXBCeFh0RTJSeDVWckNkZ1k2VUFoVEZwc3hSYWZDTEF1MUJBRmZEc05BS01IVUxFSWktblNMZzlTY2NGb29FQQ?oc=5",
+      "author": "",
+      "published": "2026-04-16T13:35:21",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "f0132251b3e088b2",
@@ -2424,7 +2496,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "513fae72938defe4",
@@ -2556,6 +2628,24 @@
       "is_primary": false
     },
     {
+      "hash": "7adb71e106d615fe",
+      "source_name": "EBA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🚨 EBA milestone on simplification The EBA has responded to the European Commission on EU banking competitiveness. 💡Competitiveness means better and simpler regulation: full Single Market integration, Basel III and lower reporting burdens. 🔗",
+      "url": "https://x.com/EBA_News/status/2046580782945161500",
+      "author": "@EBA_News",
+      "published": "2026-04-21T13:24:00",
+      "summary": "🚨 EBA milestone on simplificationThe EBA has responded to the European Commission on EU banking competitiveness.💡Competitiveness means better and simpler regulation: full Single Market integration, Basel III and lower reporting burdens.🔗  link.europa.eu/KQJd7P  — EU Banking Authority - EBA 🇪🇺 (@EBA_News) Apr 21, 2026",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: regulation, bank | +10 Géo EU: european commission, eba | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "8b3db46be5dfcf4b",
       "source_name": "EBA (X)",
       "source_type": "rss",
@@ -2571,7 +2661,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article annonce un stage à l'Autorité bancaire européenne dans le département d'analyse économique et des risques, contribuant à la stabilité financière de l'UE."
     },
     {
       "hash": "5f661cc552352cad",
@@ -2589,7 +2679,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "58217b3be600bb7a",
@@ -2625,7 +2715,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne l'obligation pour les prestataires de services crypto en UE d'obtenir une autorisation MiCA avant juillet 2026, relevant de la conformité réglementaire financière."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'obligation légale MiCA pour les prestataires de services crypto auprès de clients européens."
     },
     {
       "hash": "6dad9d833f92d702",
@@ -2840,7 +2930,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Deutsche Bank signale volontairement à la régulation des soupçons de violation des sanctions UE, démontrant un engagement envers la conformité réglementaire."
+      "ai_summary": "Deutsche Bank a auto-dénoncé des soupçons de violations des sanctions de l'UE, ce qui relève de la conformité en matière de respect des sanctions financières internationales."
     },
     {
       "hash": "8ce38c053297326c",
@@ -2984,7 +3074,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "91004de9a09ebf5d",
@@ -3096,6 +3186,24 @@
       "ai_summary": "Les autorités de surveillance européennes identifient des risques accrus, relevant de la conformité réglementaire et financière."
     },
     {
+      "hash": "4736b7913ad8d591",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "ENRC can’t claim subsidiaries’ losses, SFO argues",
+      "url": "https://globalinvestigationsreview.com/article/enrc-cant-claim-subsidiaries-losses-sfo-argues",
+      "author": "Grace Propheta",
+      "published": "2026-04-21T13:56:21",
+      "summary": "A barrister for the Serious Fraud Office told a London court that the Kazakh mining company has failed to produce clear evidence of the nearly $200 million in losses it says it incurred in the wake of a criminal investigation.",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: sfo | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "5936cec6e43af903",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -3147,7 +3255,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales qui obligent les institutions financières à respecter les restrictions commerciales imposées par les États-Unis."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions américaines affectant les transactions commerciales internationales avec la Russie et l'Iran."
     },
     {
       "hash": "c7ab93c3955c4e4e",
@@ -3276,6 +3384,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions financières contre le Venezuela et des licences d'exemption."
     },
     {
+      "hash": "f5a562edaa84f22f",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🚨 Milestone for the EBA’s work on simplification: the EBA responds to the European Commission’s consultation on EU banking competi...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7452344990426587139",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-04-21T13:18:24",
+      "summary": "🚨 Milestone for the EBA’s work on simplification: the EBA responds to the European Commission’s consultation on EU banking competitiveness\n\nLast week, the European Banking Authority published its response to the European Commission’s consultation on strengthening the competitiveness of the EU banking sector — an important milestone in the context of the EBA’s ongoing work on efficiency and regulatory simplification.\n\n💡 Core message: competitiveness and resilience go hand in hand.\n\nEU banks enter",
+      "score": 37,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: european commission, eba | ×1.5 (<24h)",
+      "doc_type": "CONSULTATION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "ad777215c807be1c",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -3291,43 +3417,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "d2229d7f39937b1c",
-      "source_name": "EBA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🌍 Thinking about an international career? Meet #EBA at the 21st International Organizations Career Fair and explore opportunities in European and international organisations. When? 24 April 2026 | 💻 Virtual | 🕙 10:00–18:00 🔗 Register (free):",
-      "url": "https://x.com/EBA_News/status/2046222831290024310",
-      "author": "@EBA_News",
-      "published": "2026-04-20T13:41:00",
-      "summary": "🌍 Thinking about an international career?Meet  #EBA at the 21st International Organizations Career Fair and explore opportunities in European and international organisations.When? 24 April 2026 | 💻 Virtual | 🕙 10:00–18:00🔗 Register (free):  meetyoo.live/register/1/Karr…— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Apr 20, 2026",
-      "score": 37,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
       "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "71e9923cd5a1a2d4",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🚀 Ready to kick‑start an international career? The European Banking Authority is pleased to take part in the 21st International Or...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7451984371663925248",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-04-20T13:25:25",
-      "summary": "🚀 Ready to kick‑start an international career?\n\nThe European Banking Authority is pleased to take part in the 21st International Organisations Career Fair, organised by the Federal Foreign Office.\n\nJoin us online to:\n- Discover exciting career opportunities \n- Connect directly with EBA professionals\n- Gain practical insights and tips on how to build your career at the EBA\n\n📅 24 April 2026\n 🕙 10:00–18:00\n 💻 Free & virtual\n👉 Register here: https://lnkd.in/ehHN72Za \n\nWe look forward to connecting w",
-      "score": 37,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "7c5997358456f30e",
@@ -4017,7 +4107,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite des changements réglementaires de la SEC concernant la divulgation des risques financiers."
     },
     {
       "hash": "ae5a50347bc3e41b",
@@ -4573,6 +4663,42 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
+      "ai_summary": "Les sanctions de l'UE contre les entités russes relèvent de la conformité réglementaire et du respect des obligations de sanctions financières internationales."
+    },
+    {
+      "hash": "d2229d7f39937b1c",
+      "source_name": "EBA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🌍 Thinking about an international career? Meet #EBA at the 21st International Organizations Career Fair and explore opportunities in European and international organisations. When? 24 April 2026 | 💻 Virtual | 🕙 10:00–18:00 🔗 Register (free):",
+      "url": "https://x.com/EBA_News/status/2046222831290024310",
+      "author": "@EBA_News",
+      "published": "2026-04-20T13:41:00",
+      "summary": "🌍 Thinking about an international career?Meet  #EBA at the 21st International Organizations Career Fair and explore opportunities in European and international organisations.When? 24 April 2026 | 💻 Virtual | 🕙 10:00–18:00🔗 Register (free):  meetyoo.live/register/1/Karr…— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Apr 20, 2026",
+      "score": 30,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "71e9923cd5a1a2d4",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🚀 Ready to kick‑start an international career? The European Banking Authority is pleased to take part in the 21st International Or...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7451984371663925248",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-04-20T13:25:25",
+      "summary": "🚀 Ready to kick‑start an international career?\n\nThe European Banking Authority is pleased to take part in the 21st International Organisations Career Fair, organised by the Federal Foreign Office.\n\nJoin us online to:\n- Discover exciting career opportunities \n- Connect directly with EBA professionals\n- Gain practical insights and tips on how to build your career at the EBA\n\n📅 24 April 2026\n 🕙 10:00–18:00\n 💻 Free & virtual\n👉 Register here: https://lnkd.in/ehHN72Za \n\nWe look forward to connecting w",
+      "score": 30,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
       "ai_summary": null
     },
     {
@@ -4591,7 +4717,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne le recrutement d'un directeur général de l'Autorité bancaire européenne, autorité de supervision et de régulation bancaire."
     },
     {
       "hash": "a308a01b788e9b63",
@@ -4976,7 +5102,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8bd21df0414f4cce",
@@ -6173,7 +6299,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3b313f3ccca1330a",
@@ -6519,7 +6645,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "dcf615b2be369a6a",
@@ -6537,7 +6663,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ebf1b1b1955cede1",
@@ -6555,7 +6681,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f2668a6f29b4",
@@ -6718,7 +6844,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "190768747fc755d7",
@@ -6843,7 +6969,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'allégations de corruption électorale impliquant des paiements et contrats aux Philippines."
+      "ai_summary": "Cet article concerne la conformité financière car il évoque des risques de corruption étrangère et des irrégularités contractuelles lors d'élections."
     },
     {
       "hash": "b8152da2a7c00fb6",
@@ -6914,7 +7040,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article traite de la conformité financière en analysant les risques systémiques liés aux interconnexions bancaires et la nécessité d'un cadre macroprudentiel renforcé.",
+      "ai_summary": "L'article concerne la surveillance macroprudentielle des risques financiers systémiques découlant des interconnexions croissantes entre banques et acteurs financiers.",
       "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×0.8 (14d)",
       "is_primary": false
     },
@@ -7149,7 +7275,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3c9da1e38ae1e5df",
@@ -7532,6 +7658,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du cadre réglementaire harmonisé applicable aux banques de la zone euro.",
       "score_breakdown": "+10 mots moyens: supervisory, bank | ×0.8 (14d)",
       "is_primary": false
+    },
+    {
+      "hash": "a06234fdfad052e0",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Counter Terrorism Designations; Non-Proliferation Designations | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260421",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-04-21T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "a45b1f65a47a2e9e",
@@ -8056,6 +8200,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'application des règles anti-corruption et de leur impact sur les entreprises."
     }
   ],
-  "last_update": "2026-04-21T14:14:02.557107+00:00",
+  "last_update": "2026-04-21T18:59:35.554974+00:00",
   "last_updated": "2026-04-12T18:05:00Z"
 }
