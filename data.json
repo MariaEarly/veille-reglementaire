@@ -1030,7 +1030,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne le respect des règles de déontologie et de neutralité applicables aux agents de la Banque de France, dimensions de la conformité institutionnelle."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du respect des règles déontologiques applicables aux directeurs d'une institution financière publique."
     },
     {
       "hash": "f2c66e8e06c16cd6",
@@ -1067,6 +1067,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "FinCEN encourage les institutions financières à intégrer l'IA et l'analyse blockchain dans leurs programmes de lutte contre le blanchiment."
+    },
+    {
+      "hash": "029db3cd1f9563ef",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Avis modifiant l'avis de vacance d'emplois de directeur d'établissements sanitaires, sociaux et médico-sociaux",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053926613",
+      "author": "Ministère de la santé, des familles, de l'autonomie et des personnes handicapées",
+      "published": "2026-04-22T00:00:00",
+      "summary": "Article L'avis de vacances d'emplois de directeur d'établissements sanitaires, sociaux et médico-sociaux publié au Journal officiel de la République française n° 89 du 15 avril 2026, texte n° 113 (NOR : SFHN2610166V), est ainsi modifié qu'il suit :Au II :Il convient de retirer les emplois suivants :- centre hospitalier de Molsheim (Bas-Rhin) (cf. fiche de poste en annexe I-15) ;- EHPAD « résidence des Fontenottes » à Ancy-le-Franc et EHPAD « Camille Rizier » à Ravières, direction commune (Yonne)",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "AVIS",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "3cd0a88bf0f55e36",
@@ -1356,7 +1374,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b94847c0a6ebbc14",
@@ -1374,7 +1392,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la supervision réglementaire de Coface par l'ACPR, autorité de conformité financière française."
     },
     {
       "hash": "bcfa05170c86779f",
@@ -1392,7 +1410,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'ACPR évalue la conformité des pratiques de traitement des réclamations en banque et assurance, domaine clé de la conformité réglementaire."
     },
     {
       "hash": "3899a22033499909",
@@ -1626,7 +1644,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'AMF et l'ACPR alertent sur des acteurs non autorisés proposant des investissements en Forex et crypto-dérivés, concernant la conformité réglementaire."
     },
     {
       "hash": "f0c4dbb35ecafb32",
@@ -1846,24 +1864,6 @@
       "ai_summary": "Tracfin sensibilise les partenaires publics et privés aux missions de lutte contre le blanchiment de capitaux et la conformité financière.",
       "score_breakdown": "+20 mots critiques: blanchiment, financement du terrorisme, fraude | +10 mots forts: tracfin | +5 mots moyens: ppe | +20 Géo FR: tracfin | ×1.0 (7d)",
       "is_primary": false
-    },
-    {
-      "hash": "fc7b25a0c13643fc",
-      "source_name": "JORF - Sanctions",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 14 avril 2026 fixant le cahier des charges des unités judiciaires à priorité éducative",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053911130",
-      "author": "Ministère de la justice",
-      "published": "2026-04-19T00:00:00",
-      "summary": "Article 1Le cahier des charges des unités judiciaires à priorité éducative prévu à l'article R. 241-33 du code de la justice pénale des mineurs figure en annexe I du présent arrêté.Article 2Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXE ICAHIER DES CHARGES DES UNITÉS JUDICIAIRES À PRIORITÉ ÉDUCATIVE (UJPE)Préambule au cahier des charges des unités judiciaires à priorité éducativeLa protection judiciaire de la jeunesse est engagée dans une réform",
-      "score": 54,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d14ab9c59b4510c5",
@@ -2116,7 +2116,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f0132251b3e088b2",
@@ -2481,6 +2481,24 @@
       "ai_summary": "Le FinCEN autorise des transactions pour la liquidation d'une banque mexicaine désignée comme risque majeur de blanchiment de capitaux."
     },
     {
+      "hash": "fc7b25a0c13643fc",
+      "source_name": "JORF - Sanctions",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 14 avril 2026 fixant le cahier des charges des unités judiciaires à priorité éducative",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053911130",
+      "author": "Ministère de la justice",
+      "published": "2026-04-19T00:00:00",
+      "summary": "Article 1Le cahier des charges des unités judiciaires à priorité éducative prévu à l'article R. 241-33 du code de la justice pénale des mineurs figure en annexe I du présent arrêté.Article 2Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXE ICAHIER DES CHARGES DES UNITÉS JUDICIAIRES À PRIORITÉ ÉDUCATIVE (UJPE)Préambule au cahier des charges des unités judiciaires à priorité éducativeLa protection judiciaire de la jeunesse est engagée dans une réform",
+      "score": 45,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "210da07a493edda8",
       "source_name": "JORF - Crypto/PSAN",
       "source_type": "rss",
@@ -2496,7 +2514,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "513fae72938defe4",
@@ -2643,7 +2661,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article concerne la simplification réglementaire bancaire, incluant Basel III et la réduction des charges de reporting, éléments clés de la conformité financière."
     },
     {
       "hash": "8b3db46be5dfcf4b",
@@ -2661,7 +2679,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article annonce un stage à l'Autorité bancaire européenne dans le département d'analyse économique et des risques, contribuant à la stabilité financière de l'UE."
+      "ai_summary": "Cet article concerne l'analyse économique et des risques pour la stabilité financière de l'UE par l'autorité bancaire européenne."
     },
     {
       "hash": "5f661cc552352cad",
@@ -2679,7 +2697,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "58217b3be600bb7a",
@@ -2715,7 +2733,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'obligation légale MiCA pour les prestataires de services crypto auprès de clients européens."
+      "ai_summary": "Cet article concerne la conformité financière car il rappelle l'obligation légale MiCA pour les prestataires de services crypto-actifs auprès de clients EU à partir de juillet 2026."
     },
     {
       "hash": "6dad9d833f92d702",
@@ -2788,24 +2806,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'étude mesure la perception des acteurs régulés envers l'AMF et identifie les attentes pour améliorer la conformité réglementaire."
-    },
-    {
-      "hash": "32b9db920a51",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Poland's progress in strengthening measures to tackle money laundering and terrorist financing",
-      "url": "https://www.fatf-gafi.org/en/publications/mutualevaluations/poland-fur-2026.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00Z",
-      "summary": "FATF follow-up report on Poland's progress in AML/CFT technical compliance.",
-      "score": 44,
-      "doc_type": "evaluation",
-      "action_class": "lcb-ft",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité aux normes anti-blanchiment de capitaux et de lutte contre le financement du terrorisme en Pologne.",
-      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, cft, compliance | +5 Source Intl | +10 Géo EU: poland | ×0.8 (14d)"
     },
     {
       "hash": "2b49d421cdd28f76",
@@ -2930,7 +2930,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Deutsche Bank a auto-dénoncé des soupçons de violations des sanctions de l'UE, ce qui relève de la conformité en matière de respect des sanctions financières internationales."
+      "ai_summary": "Deutsche Bank signale lui-même des violations présumées des sanctions européennes, démontrant sa conformité réglementaire."
     },
     {
       "hash": "8ce38c053297326c",
@@ -3074,7 +3074,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "91004de9a09ebf5d",
@@ -3201,7 +3201,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de divulgation et de documentation des pertes financières dans une enquête de fraude."
     },
     {
       "hash": "5936cec6e43af903",
@@ -3255,7 +3255,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions américaines affectant les transactions commerciales internationales avec la Russie et l'Iran."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales et des restrictions commerciales applicables aux transactions avec certains pays."
     },
     {
       "hash": "c7ab93c3955c4e4e",
@@ -3399,7 +3399,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'EBA répond à la Commission européenne sur la simplification réglementaire bancaire, directement liée à la conformité financière."
     },
     {
       "hash": "ad777215c807be1c",
@@ -3417,7 +3417,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7c5997358456f30e",
@@ -3582,96 +3582,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de blanchiment de capitaux jugée par le Conseil d'État.",
       "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: audit | +20 Géo FR: france | ×0.8 (14d)",
       "is_primary": false
-    },
-    {
-      "hash": "11e481f45a68",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Bulgaria's progress in strengthening measures to tackle money laundering and terrorist financing",
-      "url": "https://www.fatf-gafi.org/en/publications/mutualevaluations/bulgaria-fur-2026.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00Z",
-      "summary": "FATF follow-up report on Bulgaria's progress in addressing AML/CFT technical compliance deficiencies.",
-      "score": 36,
-      "doc_type": "evaluation",
-      "action_class": "lcb-ft",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité aux normes anti-blanchiment de capitaux et anti-financement du terrorisme en Bulgarie.",
-      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, cft, compliance | +5 Source Intl | ×0.8 (14d)"
-    },
-    {
-      "hash": "8eb2b5da20a5",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Cyprus' progress in strengthening measures to tackle money laundering and terrorist financing",
-      "url": "https://www.fatf-gafi.org/en/publications/mutualevaluations/cyprus-fur-2026.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00Z",
-      "summary": "FATF follow-up report on Cyprus' progress in strengthening AML/CFT framework.",
-      "score": 36,
-      "doc_type": "evaluation",
-      "action_class": "lcb-ft",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité aux normes de lutte contre le blanchiment de capitaux et le financement du terrorisme.",
-      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, cft, fatf | +5 Source Intl | ×0.8 (14d)"
-    },
-    {
-      "hash": "66d67e617861",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Romania's progress in strengthening measures to tackle money laundering and terrorist financing",
-      "url": "https://www.fatf-gafi.org/en/publications/mutualevaluations/romania-fur-2026.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00Z",
-      "summary": "FATF follow-up report on Romania's progress in addressing AML/CFT deficiencies.",
-      "score": 36,
-      "doc_type": "evaluation",
-      "action_class": "lcb-ft",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre le blanchiment de capitaux et le financement du terrorisme en Roumanie.",
-      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, cft, fatf | +5 Source Intl | ×0.8 (14d)"
-    },
-    {
-      "hash": "1dff1abb2b2e",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Montenegro's progress in strengthening measures to tackle money laundering and terrorist financing",
-      "url": "https://www.fatf-gafi.org/en/publications/mutualevaluations/montenegro-fur-2026.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00Z",
-      "summary": "Rapport de suivi du GAFI sur les progrès de Montenegro dans le renforcement de son dispositif LCB-FT.",
-      "score": 36,
-      "doc_type": "rapport",
-      "action_class": "publication",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des mesures de lutte contre le blanchiment de capitaux et le financement du terrorisme.",
-      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: lcb-ft, gafi | +5 Source Intl | ×0.8 (14d)"
-    },
-    {
-      "hash": "7a8fe7e18f60",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Moldova's progress in strengthening measures to tackle money laundering and terrorist financing",
-      "url": "https://www.fatf-gafi.org/en/publications/follow-upreports/documents/follow-up-report-moldova-2026.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00",
-      "summary": "Moldova has made progress on technical compliance with FATF Recommendations.",
-      "score": 36,
-      "doc_type": "guidance",
-      "action_class": "aml",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité aux normes anti-blanchiment de capitaux et contre le financement du terrorisme.",
-      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: compliance, fatf | +5 Source Intl | ×0.8 (14d)"
     },
     {
       "hash": "6e0d2e587f3397be",
@@ -4663,7 +4573,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les sanctions de l'UE contre les entités russes relèvent de la conformité réglementaire et du respect des obligations de sanctions financières internationales."
+      "ai_summary": "Les sanctions de l'UE contre les entités russes relèvent de la conformité réglementaire et des obligations de respect des listes de sanctions."
     },
     {
       "hash": "d2229d7f39937b1c",
@@ -4681,7 +4591,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "71e9923cd5a1a2d4",
@@ -4699,7 +4609,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "893aa9be74fd9f22",
@@ -4993,25 +4903,6 @@
       "score_breakdown": "+20 mots critiques: sanction | +5 Source Intl | +3 Géo Intl: ofac | ×1.0 (7d)"
     },
     {
-      "hash": "98bed315e1d39b21",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Follow-Up Report - Poland",
-      "url": "https://www.fatf-gafi.org/en/publications/Mutual-evaluations/Follow-up-report-Poland-2025.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00",
-      "summary": "FATF follow-up report on Poland's AML/CFT framework improvements",
-      "score": 28,
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les améliorations du cadre anti-blanchiment et lutte contre le financement du terrorisme en Pologne selon le GAFI.",
-      "score_breakdown": "+20 mots forts: aml, cft, fatf | +5 Source Intl | +10 Géo EU: poland | ×0.8 (14d)",
-      "is_primary": true
-    },
-    {
       "hash": "7a54d9c8ed0fd3d6",
       "source_name": "Commission EU Finance (X)",
       "source_type": "rss",
@@ -5085,24 +4976,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il présente les nouveaux tableaux de bord CRR3/CRD6 de l'EBA pour la surveillance réglementaire.",
       "score_breakdown": "+10 mots forts: eba | +15 mots moyens: risk, supervisory, bank | +10 Géo EU: eba | ×0.8 (14d)",
       "is_primary": false
-    },
-    {
-      "hash": "9ffc00612c5c0ea1",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "La Corée du Nord sur le point d’inaugurer son plus vaste centre commercial",
-      "url": "https://www.lemonde.fr/economie/article/2026/04/20/la-coree-du-nord-sur-le-point-d-inaugurer-son-plus-vaste-centre-commercial_6681712_3234.html",
-      "author": "",
-      "published": "2026-04-20T12:00:03",
-      "summary": "Les strictes sanctions onusiennes n’empêchent pas la Corée du Nord de construire à Pyongyang son plus grand complexe commercial, avec le concours d’investisseurs chinois.",
-      "score": 27,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8bd21df0414f4cce",
@@ -5938,134 +5811,6 @@
       "ai_summary": "Cet article concerne les mesures de conformité aux sanctions et la prévention de l'évasion des contrôles financiers internationaux."
     },
     {
-      "hash": "1f5fadb7052e",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Georgia's progress in strengthening measures to tackle money laundering and terrorist financing",
-      "url": "https://www.fatf-gafi.org/en/publications/georgia-fur-2026.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00Z",
-      "summary": "Georgia's progress in strengthening measures to tackle money laundering and terrorist financing",
-      "score": 20,
-      "doc_type": "news",
-      "action_class": "monitoring",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite des mesures de conformité financière contre le blanchiment d'argent et le financement du terrorisme.",
-      "score_breakdown": "+20 mots critiques: money laundering | +5 Source Intl | ×0.8 (14d)"
-    },
-    {
-      "hash": "9020835b962f",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Slovak Republic's progress in strengthening measures to tackle money laundering and terrorist financing",
-      "url": "https://www.fatf-gafi.org/en/publications/slovak-republic-fur-2026.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00Z",
-      "summary": "Slovak Republic's progress in strengthening measures to tackle money laundering and terrorist financing",
-      "score": 20,
-      "doc_type": "news",
-      "action_class": "monitoring",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre le blanchiment de capitaux et le financement du terrorisme, domaines clés de la conformité financière.",
-      "score_breakdown": "+20 mots critiques: money laundering | +5 Source Intl | ×0.8 (14d)"
-    },
-    {
-      "hash": "d40d49118cb9",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "North Macedonia's progress in strengthening measures to tackle money laundering and terrorist financing",
-      "url": "https://www.fatf-gafi.org/en/publications/north-macedonia-fur-2026.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00Z",
-      "summary": "North Macedonia's progress in strengthening measures to tackle money laundering and terrorist financing",
-      "score": 20,
-      "doc_type": "news",
-      "action_class": "monitoring",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les mesures de conformité financière contre le blanchiment d'argent et le financement du terrorisme.",
-      "score_breakdown": "+20 mots critiques: money laundering | +5 Source Intl | ×0.8 (14d)"
-    },
-    {
-      "hash": "fc35f51d02e9",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Azerbaijan's progress in strengthening measures to tackle money laundering and terrorist financing",
-      "url": "https://www.fatf-gafi.org/en/publications/azerbaijan-fur-2026.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00Z",
-      "summary": "Azerbaijan's progress in strengthening measures to tackle money laundering and terrorist financing",
-      "score": 20,
-      "doc_type": "news",
-      "action_class": "monitoring",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des mesures de lutte contre le blanchiment de capitaux et le financement du terrorisme.",
-      "score_breakdown": "+20 mots critiques: money laundering | +5 Source Intl | ×0.8 (14d)"
-    },
-    {
-      "hash": "9b1fbec18c82",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Consolidated assessment ratings (2014 - 2026 assessments)",
-      "url": "https://www.fatf-gafi.org/en/publications/mutualevaluations/documents/assessment-ratings.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00",
-      "summary": "Overview of ratings on effectiveness and technical compliance for all countries assessed against the 2012 FATF Recommendations.",
-      "score": 20,
-      "doc_type": "press_release",
-      "action_class": "general",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne l'évaluation de la conformité technique des pays aux normes anti-blanchiment du GAFI.",
-      "score_breakdown": "+20 mots forts: compliance, fatf | +5 Source Intl | ×0.8 (14d)"
-    },
-    {
-      "hash": "e5942c388373915a",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Follow-Up Report - Bulgaria",
-      "url": "https://www.fatf-gafi.org/en/publications/Mutual-evaluations/Follow-up-report-Bulgaria-2025.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00",
-      "summary": "FATF follow-up report on Bulgaria's progress in addressing AML/CFT deficiencies",
-      "score": 20,
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité aux normes anti-blanchiment et anti-financement du terrorisme en Bulgarie.",
-      "score_breakdown": "+20 mots forts: aml, cft, fatf | +5 Source Intl | ×0.8 (14d)",
-      "is_primary": true
-    },
-    {
-      "hash": "b24a1ddad9242026",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Follow-Up Report - Cyprus",
-      "url": "https://www.fatf-gafi.org/en/publications/Mutual-evaluations/Follow-up-report-Cyprus-2025.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00",
-      "summary": "FATF follow-up report on Cyprus AML/CFT compliance measures",
-      "score": 20,
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne l'évaluation de la conformité de Chypre aux normes internationales de lutte anti-blanchiment et anti-terrorisme du GAFI.",
-      "score_breakdown": "+20 mots forts: aml, cft, compliance | +5 Source Intl | ×0.8 (14d)",
-      "is_primary": true
-    },
-    {
       "hash": "34fa35e2633ba175",
       "source_name": "ESMA (X)",
       "source_type": "rss",
@@ -6299,7 +6044,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3b313f3ccca1330a",
@@ -6645,7 +6390,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "dcf615b2be369a6a",
@@ -6663,7 +6408,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ebf1b1b1955cede1",
@@ -6681,7 +6426,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f2668a6f29b4",
@@ -6844,7 +6589,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "190768747fc755d7",
@@ -6936,24 +6681,6 @@
       "ai_summary": "Cet article concerne le gel des fonds de personnalités liées à la Russie, relevant des sanctions financières et du respect des restrictions bancaires."
     },
     {
-      "hash": "f0564526ed5f753c",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Consolidated assessment ratings (2014-2026 assessments)",
-      "url": "https://www.fatf-gafi.org/en/publications/mutualevaluations/assessment-ratings.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00",
-      "summary": "FATF consolidated assessment ratings updated March 2026.",
-      "score": 12,
-      "doc_type": null,
-      "action_class": "veille",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne l'évaluation de la conformité aux normes du GAFI en matière de lutte contre le blanchiment et le financement du terrorisme.",
-      "score_breakdown": "+10 mots forts: fatf | +5 Source Intl | ×0.8 (14d)"
-    },
-    {
       "hash": "89e4fe534e69ce9f",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7040,7 +6767,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la surveillance macroprudentielle des risques financiers systémiques découlant des interconnexions croissantes entre banques et acteurs financiers.",
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision macroprudentielle et du monitoring des risques systémiques dans le secteur bancaire.",
       "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×0.8 (14d)",
       "is_primary": false
     },
@@ -7275,7 +7002,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3c9da1e38ae1e5df",
@@ -7386,6 +7113,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "FinCEN propose de rémunérer les lanceurs d'alerte pour signaler les violations de conformité financière."
+    },
+    {
+      "hash": "ab04a67f0f6f42fd",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "“Gangster nation”: US lawmakers spar over fate of beneficial ownership law",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/gangster-nation-us-lawmakers-spar-over-fate-of-beneficial-ownership-law",
+      "author": "Estelle Atkinson",
+      "published": "2026-04-21T19:49:26",
+      "summary": "A House committee marked up a bill that would repeal the Corporate Transparency Act, which requires companies to report their true owners to a US Treasury watchdog.",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: us treasury | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "0e080ad0d9ebf80d",
@@ -7675,7 +7420,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les désignations de sanctions relatives au terrorisme et à la non-prolifération, des mesures clés de conformité financière."
     },
     {
       "hash": "a45b1f65a47a2e9e",
@@ -8200,6 +7945,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'application des règles anti-corruption et de leur impact sur les entreprises."
     }
   ],
-  "last_update": "2026-04-21T19:43:14.868834+00:00",
+  "last_update": "2026-04-22T01:28:53.580088+00:00",
   "last_updated": "2026-04-12T18:05:00Z"
 }
