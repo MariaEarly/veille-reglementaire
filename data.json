@@ -799,6 +799,24 @@
       "ai_summary": "Cet arrêté fixe le montant de la contribution financière que les gestionnaires de crédits doivent verser aux autorités de contrôle financier."
     },
     {
+      "hash": "0fd7301d13ec92a3",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "L'ACPR et l'AMF mettent en garde le public contre plusieurs acteurs - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWERZM3JVRDBvc1VkNWoycmhCNl83WUNuMTNHc0YtNVBlVVcyVmdzbUJ2NlZ2RzR0VWt1SHZnSnNkcHVWZTlPX0cwWGRpQ2xvQ0tBQ3pyaFJDaDE3YjZ6aHYxWV9yZHBMcXFwLTVYc2hwX29SNGtheVlrUWk4bUxzWGFyTnBpUS05eUUtWXd4RDJfVHRVd3o3S1drcWJfSndfbGJ3RF9qdUphV1VRY1RoVVlPVUtaS3B3dzNkUA?oc=5",
+      "author": "",
+      "published": "2026-04-21T10:30:14",
+      "summary": "L'ACPR et l'AMF mettent en garde le public contre plusieurs acteurs&nbsp;&nbsp;Banque de France",
+      "score": 84,
+      "score_breakdown": "+20 mots forts: acpr, amf | +5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, acpr, amf | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "513a92f91add152c",
       "source_name": "Parlement EU - ECON",
       "source_type": "rss",
@@ -832,7 +850,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'AMF met en garde contre des acteurs non autorisés opérant en crypto-actifs, relevant d'enjeux de conformité réglementaire et de protection des investisseurs."
+      "ai_summary": "L'AMF met en garde contre des acteurs non autorisés opérant en crypto-actifs, enjeu clé de conformité financière et de protection des investisseurs."
     },
     {
       "hash": "ccf81d0b9165b664",
@@ -1102,7 +1120,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3cd0a88bf0f55e36",
@@ -1392,7 +1410,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b94847c0a6ebbc14",
@@ -1647,6 +1665,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il porte sur les exigences de reporting bancaire supervisées par l'EBA et la BCE."
     },
     {
+      "hash": "e66dd94b95ac4635",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🛡️ AI and cybersecurity: a changing landscape for financial systems A timely and important message from CERT-EU as banks and the wi...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7452711196035837952",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-04-22T13:33:34",
+      "summary": "🛡️ AI and cybersecurity: a changing landscape for financial systems\nA timely and important message from CERT-EU as banks and the wider financial system adapt to the opportunities and challenges brought by artificial intelligence.\n\n🤖🔐 As highlighted in this latest blog post, AI is reshaping the cybersecurity landscape, including the way vulnerabilities are discovered and exploited. This evolution calls for increased awareness across the financial sector.\n\nAgainst this backdrop:\n✅ The #EBA is clos",
+      "score": 60,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +15 IA×Finance: artificial intelligence+eba | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "837b8f5353d68977",
       "source_name": "AMF France (X)",
       "source_type": "rss",
@@ -1662,7 +1698,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'AMF avertit sur des sites non autorisés proposant des investissements en cryptoactifs, relevant de la conformité réglementaire et de la lutte contre les pratiques illégales."
     },
     {
       "hash": "cf2c38261542b211",
@@ -1681,6 +1717,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'AMF et l'ACPR alertent sur des acteurs non autorisés proposant du Forex et crypto-dérivés, violation de la réglementation financière."
+    },
+    {
+      "hash": "f032e267daa6f3f8",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Sweden’s top court acquits ex-Swedbank CEO on fraud charges",
+      "url": "https://globalinvestigationsreview.com/article/swedens-top-court-acquits-ex-swedbank-ceo-fraud-charges",
+      "author": "Malavika Devaya",
+      "published": "2026-04-22T12:05:06",
+      "summary": "Sweden’s Supreme Court has overturned Birgitte Bonnesen’s conviction, finding that statements she made in media interviews in 2018 about Swedbank’s involvement in the Baltic region’s money laundering scandal weren’t fraudulent.",
+      "score": 57,
+      "score_breakdown": "+20 mots critiques: money laundering, fraud | +5 mots moyens: bank | +3 Presse | +10 Géo EU: sweden | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "f0c4dbb35ecafb32",
@@ -2046,25 +2100,6 @@
       "ai_summary": "L'article concerne la conformité financière car l'EBA contrôle le respect des règles de rémunération des hauts dirigeants bancaires en Europe."
     },
     {
-      "hash": "abe98bb51d8b2139",
-      "source_name": "AMLA - Anti-Money Laundering Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "AMLA to Hold Public Hearing on Two Draft RTS",
-      "url": "https://www.amla.europa.eu/amla-hold-public-hearing-two-draft-rts_en",
-      "author": "",
-      "published": "2026-03-23T18:09:15",
-      "summary": "The Authority for Anti-Money Laundering and Countering the Financing of Terrorism (AMLA) will hold a public hearing on Tuesday, 24 March 2026, in two sessions. Participation in the hearing requires registration - find all details here.",
-      "score": 52,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne l'audition publique de l'AMLA sur des projets de normes techniques en lutte anti-blanchiment.",
-      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, anti-money, amla | +15 Source EU | +10 Géo EU: amla | ×0.8 (14d)",
-      "is_primary": true
-    },
-    {
       "hash": "89f590e45df53a99",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -2134,7 +2169,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "4312c167ea04e79b",
@@ -2152,7 +2187,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f0132251b3e088b2",
@@ -2297,7 +2332,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne le déblocage d'un prêt de 90 milliards d'euros à l'Ukraine par l'UE, relevant de la conformité aux règles de financement et d'aide financière internationales."
     },
     {
       "hash": "35ef3819afe10230",
@@ -2550,7 +2585,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "210da07a493edda8",
@@ -2568,7 +2603,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "513fae72938defe4",
@@ -2700,6 +2735,24 @@
       "is_primary": false
     },
     {
+      "hash": "0ae85db84e65da53",
+      "source_name": "AMF France (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "[#Médiation] Arbitrage : les ordres successifs, lorsqu’ils forment une opération globale, sont interdépendants. Un professionnel ne peut l’ignorer dès lors que le client l’a clairement exprimé. Le décryptage de Rémi Bouchez ➡️",
+      "url": "https://x.com/AMF_actu/status/2046974704326422757",
+      "author": "@AMF_actu",
+      "published": "2026-04-22T15:29:00",
+      "summary": "[ #Médiation] Arbitrage : les ordres successifs, lorsqu’ils forment une opération globale, sont interdépendants. Un professionnel ne peut l’ignorer dès lors que le client l’a clairement exprimé.Le décryptage de Rémi Bouchez ➡️  cutt.ly/JtJIm13G— AMF (@AMF_actu) Apr 22, 2026",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: amf | +20 Géo FR: amf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "89729cc896466034",
       "source_name": "ESMA (X)",
       "source_type": "rss",
@@ -2715,7 +2768,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la supervision des marchés financiers européens et la confiance des investisseurs, éléments clés de la conformité."
     },
     {
       "hash": "7adb71e106d615fe",
@@ -3128,7 +3181,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la surveillance et l'agrément des assureurs par l'autorité de régulation financière française."
     },
     {
       "hash": "3bb8d76f8905dd85",
@@ -3146,7 +3199,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "91004de9a09ebf5d",
@@ -3272,7 +3325,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une enquête pénale affectant la déclaration des pertes financières d'une entreprise cotée."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de questions de responsabilité légale et de divulgation financière d'une entreprise sous enquête pénale."
     },
     {
       "hash": "5936cec6e43af903",
@@ -3326,7 +3379,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales affectant les transactions commerciales et les obligations de conformité réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales qui imposent des obligations de conformité aux institutions financières dans leurs transactions."
     },
     {
       "hash": "c7ab93c3955c4e4e",
@@ -3633,7 +3686,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6e0d2e587f3397be",
@@ -4054,6 +4107,24 @@
       "ai_summary": "Cet article traite des programmes de lutte contre le blanchiment d'argent et le financement du terrorisme, essentiels à la conformité financière."
     },
     {
+      "hash": "4f613ba549cf11f6",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Lafarge judgment an example of a maturing French legal system",
+      "url": "https://globalinvestigationsreview.com/article/lafarge-judgment-example-of-maturing-french-legal-system",
+      "author": "Ana de Liz",
+      "published": "2026-04-22T15:10:14",
+      "summary": "Local lawyers told GIR they believe the French company’s recent conviction for terrorist financing and sanctions breaches prompts new considerations for settlements – at home and abroad.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "19da30e28717fb1e",
       "source_name": "Corporate Compliance Insights",
       "source_type": "press",
@@ -4451,23 +4522,22 @@
       "is_primary": true
     },
     {
-      "hash": "fbdd8d9593afafc8",
-      "source_name": "EBA - European Banking Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "EBA E-mail alert 23 March, 2026",
-      "url": "https://www.eba.europa.eu/node/19459",
-      "author": "Anonymous",
-      "published": "2026-03-23T16:00:02+00:00",
-      "summary": "EBA E-mail alert 23 March, 2026\n\n  \n    Date\n          23/03/2026\n\n      \n\nAnonymous (not verified)\n\nMon, 03/23/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          The European banking sector enters period of geopolitical uncertainty from a position of strength",
-      "score": 32,
-      "doc_type": null,
-      "action_class": "alerte",
+      "hash": "f772a8ba2c98fae7",
+      "source_name": "Money Laundering News",
+      "source_type": "press",
+      "category": "presse",
+      "title": "OFAC Issues Advisory Warning on Sham Transactions",
+      "url": "https://www.moneylaunderingnews.com/2026/04/ofac-issues-advisory-warning-on-sham-transactions/",
+      "author": "Ryan F. Sullivan",
+      "published": "2026-04-22T13:54:39",
+      "summary": "On March 31, 2026, the U.S. Department of the Treasury’s Office of Foreign Assets Control (“OFAC”) issued an advisory on sham transactions, highlighting the compliance risks financial institutions must navigate when facilitating international property transactions. What is a Sham Transaction? OFAC defines a “Sham Transaction” as one in which a blocked person, typically operating through...",
+      "score": 31,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: risk | +3 Presse | +3 Géo Intl: ofac | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA supervise la conformité réglementaire et prudentielle des banques européennes.",
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +15 Source EU | +10 Géo EU: eba | ×0.8 (14d)",
-      "is_primary": true
+      "ai_summary": null
     },
     {
       "hash": "1bd040e347fd9092",
@@ -4643,7 +4713,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d2229d7f39937b1c",
@@ -4661,7 +4731,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "71e9923cd5a1a2d4",
@@ -4679,7 +4749,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "893aa9be74fd9f22",
@@ -5029,23 +5099,22 @@
       "is_primary": false
     },
     {
-      "hash": "89f623526233d3ee",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📊 New Risk Dashboard & CRR3/CRD6 Dashboard now live on EDAP: key insights for Q4 2025 Our latest #RiskDashboard for Q4 2025 is out...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7441851092117868545",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-03-23T14:19:23+00:00",
-      "summary": "📊 New Risk Dashboard & CRR3/CRD6 Dashboard now live on EDAP: key insights for Q4 2025\n\nOur latest #RiskDashboard for Q4 2025 is out, published alongside the new CRR3/CRD6 dashboard — both now available on the European Data Access Portal (#EDAP), the EBA’s central hub for supervisory data across the EU/EEA.\n\n🔎 Key takeaways:\n✅EU/EEA banks remain resilient with strong capitalisation, solid asset quality, and ample liquidity.\n\n⚠️Risks are evolving: rising geopolitical tensions and macroeconomic unc...",
-      "score": 28,
+      "hash": "d5a9df43472de476",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Listen: New economic crime legislation “fundamentally” changed compliance",
+      "url": "https://globalinvestigationsreview.com/article/new-economic-crime-legislation-has-fundamentally-changed-compliance",
+      "author": "Ana de Liz,Lily Squires",
+      "published": "2026-04-22T14:41:37",
+      "summary": "Stale risk assessments, senior manager ambiguity, and a lack of official guidance are among the increasing issues organisations have to deal with. Subscribers can listen to the full conversation between compliance and financial crime professionals from GIR’s recent London conference.",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: risk | +3 Presse | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il présente les nouveaux tableaux de bord CRR3/CRD6 de l'EBA pour la surveillance réglementaire.",
-      "score_breakdown": "+10 mots forts: eba | +15 mots moyens: risk, supervisory, bank | +10 Géo EU: eba | ×0.8 (14d)",
-      "is_primary": false
+      "ai_summary": null
     },
     {
       "hash": "8bd21df0414f4cce",
@@ -5570,25 +5639,6 @@
       "is_primary": false
     },
     {
-      "hash": "9d3d8980e67c6906",
-      "source_name": "EBA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📊 Q4 2025 #RiskDashboard & new #CRR3/#CRD6 dashboard now live on #EDAP 💡EU/EEA banks remain robust (CET1 16.3%, LCR 163.1%) ⚠️ Geopolitical tensions may drive second-round risks via energy, inflation & supply chains 🔎 More here:",
-      "url": "https://x.com/EBA_News/status/2036088071913869479",
-      "author": "@EBA_News",
-      "published": "2026-03-23T14:29:00+00:00",
-      "summary": "📊 Q4 2025  #RiskDashboard & new  #CRR3/ #CRD6 dashboard now live on  #EDAP 💡EU/EEA banks remain robust (CET1 16.3%, LCR 163.1%)⚠️ Geopolitical tensions may drive second-round risks via energy, inflation & supply chains🔎 More here:  shorturl.at/Ubzhv Video  — EU Banking Authority - EBA 🇪🇺 (@EBA_News) Mar 23, 2026",
-      "score": 24,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'article concerne la conformité réglementaire bancaire via les ratios CET1 et LCR, et les nouvelles exigences CRR3/CRD6 de l'Union européenne.",
-      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: risk, bank | +10 Géo EU: eba | ×0.8 (14d)",
-      "is_primary": false
-    },
-    {
       "hash": "06a16891bc1631cb",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -5676,7 +5726,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il analyse les règles de capital bancaire de l'UE et leur conception réglementaire post-crise."
     },
     {
       "hash": "f78448ecd5554832",
@@ -6132,7 +6182,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3b313f3ccca1330a",
@@ -6478,7 +6528,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "dcf615b2be369a6a",
@@ -6496,7 +6546,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ebf1b1b1955cede1",
@@ -6514,7 +6564,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f2668a6f29b4",
@@ -6677,7 +6727,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "190768747fc755d7",
@@ -7090,7 +7140,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3c9da1e38ae1e5df",
@@ -8033,6 +8083,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'application des règles anti-corruption et de leur impact sur les entreprises."
     }
   ],
-  "last_update": "2026-04-22T14:14:31.887531+00:00",
+  "last_update": "2026-04-22T19:00:53.281820+00:00",
   "last_updated": "2026-04-12T18:05:00Z"
 }
