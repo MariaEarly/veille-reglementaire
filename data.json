@@ -1105,24 +1105,6 @@
       "ai_summary": "FinCEN encourage les institutions financières à intégrer l'IA et l'analyse blockchain dans leurs programmes de lutte contre le blanchiment."
     },
     {
-      "hash": "029db3cd1f9563ef",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Avis modifiant l'avis de vacance d'emplois de directeur d'établissements sanitaires, sociaux et médico-sociaux",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053926613",
-      "author": "Ministère de la santé, des familles, de l'autonomie et des personnes handicapées",
-      "published": "2026-04-22T00:00:00",
-      "summary": "Article L'avis de vacances d'emplois de directeur d'établissements sanitaires, sociaux et médico-sociaux publié au Journal officiel de la République française n° 89 du 15 avril 2026, texte n° 113 (NOR : SFHN2610166V), est ainsi modifié qu'il suit :Au II :Il convient de retirer les emplois suivants :- centre hospitalier de Molsheim (Bas-Rhin) (cf. fiche de poste en annexe I-15) ;- EHPAD « résidence des Fontenottes » à Ancy-le-Franc et EHPAD « Camille Rizier » à Ravières, direction commune (Yonne)",
-      "score": 67,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
-      "doc_type": "AVIS",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "3cd0a88bf0f55e36",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1395,6 +1377,24 @@
       "ai_summary": "Cette règle proposée par FinCEN réforme la conformité AML/CFT des institutions financières face au blanchiment d'argent."
     },
     {
+      "hash": "89606f7f2b07aedc",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pSHUwUEhHc2lZblBhTWVFZXN2SFFpMVd5NFpfM3E2T2lMWW40TE4zOTNvMGRCaXhOeWVVVTBxNl9xZFFMR2NlbzlGX1dTMi0xR1oyejBUTHU4V2ZRelZJQXlVNDUxZw?oc=5",
+      "author": "",
+      "published": "2026-04-21T18:56:27",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
+      "score": 60,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "b94847c0a6ebbc14",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -1662,7 +1662,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la cybersécurité et de l'IA dans les systèmes financiers, des risques de conformité essentiels pour les banques."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des risques cybersécurité liés à l'IA dans les systèmes financiers, sujet de régulation prudentielle."
     },
     {
       "hash": "837b8f5353d68977",
@@ -1938,6 +1938,24 @@
       "is_primary": false
     },
     {
+      "hash": "029db3cd1f9563ef",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Avis modifiant l'avis de vacance d'emplois de directeur d'établissements sanitaires, sociaux et médico-sociaux",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053926613",
+      "author": "Ministère de la santé, des familles, de l'autonomie et des personnes handicapées",
+      "published": "2026-04-22T00:00:00",
+      "summary": "Article L'avis de vacances d'emplois de directeur d'établissements sanitaires, sociaux et médico-sociaux publié au Journal officiel de la République française n° 89 du 15 avril 2026, texte n° 113 (NOR : SFHN2610166V), est ainsi modifié qu'il suit :Au II :Il convient de retirer les emplois suivants :- centre hospitalier de Molsheim (Bas-Rhin) (cf. fiche de poste en annexe I-15) ;- EHPAD « résidence des Fontenottes » à Ancy-le-Franc et EHPAD « Camille Rizier » à Ravières, direction commune (Yonne)",
+      "score": 54,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
+      "doc_type": "AVIS",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "d14ab9c59b4510c5",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -2082,6 +2100,24 @@
       "ai_summary": "L'article concerne la conformité financière car l'EBA contrôle le respect des règles de rémunération des hauts dirigeants bancaires en Europe."
     },
     {
+      "hash": "e050d240fdef8166",
+      "source_name": "Tracfin (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "#DicoTracfin 🔎 | Tracfin en est une, mais savez-vous ce que cela implique concrètement ? ➡️ Zoom sur la Cellule de Renseignement Fi...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7452967030636400641",
+      "author": "Tracfin",
+      "published": "2026-04-23T06:30:10",
+      "summary": "#DicoTracfin 🔎 | Tracfin en est une, mais savez-vous ce que cela implique concrètement ?\n➡️ Zoom sur la Cellule de Renseignement Financier (CRF).\n\nPeu connues, les CRF ont pourtant un rôle essentiel pour la détection des flux financiers suspects. Elles font le lien entre les professionnels déclarants (banques, notaires, experts-comptables, etc.) et les autorités publiques.\n\nConcrètement, leur rôle est de « faire parler l’argent » (la devise de Tracfin 👀) : capter des signaux faibles, reconstitue",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: tracfin | +5 mots moyens: banque | +20 Géo FR: tracfin | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "89f590e45df53a99",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -2134,6 +2170,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "BaFin classe la lutte anti-blanchiment et contre le financement du terrorisme en crypto comme risque majeur, relevant de la conformité réglementaire."
+    },
+    {
+      "hash": "85cde6f6c2a68c06",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "View PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RdEk4dmVIcG05ekM5ZmtUbTd6a3pIU1RNRkJEaENVRFR0a0ZJZDdmZWtDTTZMbUdZT2ZoMzRpWl9vWXVORUEyQkZqVHA4QzhrY3NIYTV5ZHdQMDQxb21Td0tVSE1Rdw?oc=5",
+      "author": "",
+      "published": "2026-04-20T04:49:00",
+      "summary": "View PDF&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "f0132251b3e088b2",
@@ -2278,7 +2332,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne le déblocage d'un prêt de 90 milliards d'euros à l'Ukraine par l'Union européenne, relevant de la conformité financière internationale et de la gouvernance budgétaire de l'UE."
+      "ai_summary": "Cet article concerne le déblocage d'un prêt de 90 milliards d'euros à l'Ukraine par l'UE, décision relevant de la conformité réglementaire et des obligations financières internationales."
     },
     {
       "hash": "35ef3819afe10230",
@@ -2531,7 +2585,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "210da07a493edda8",
@@ -2549,7 +2603,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "513fae72938defe4",
@@ -2696,7 +2750,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de l'obligation des professionnels financiers à respecter les instructions clients lors d'ordres liés, relevant de la conformité réglementaire."
+      "ai_summary": "Cet article traite du devoir d'information des professionnels financiers sur les ordres interdépendants, relevant de la conformité réglementaire."
     },
     {
       "hash": "89729cc896466034",
@@ -2968,6 +3022,42 @@
       "ai_summary": "Cet article concerne la conformité financière car le gel des avoirs constitue une mesure de conformité aux sanctions financières internationales."
     },
     {
+      "hash": "0fe18f86a8a74b2f",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Défiée par CNews, l’Arcom rappelée à son rôle de gendarme",
+      "url": "https://www.lemonde.fr/economie/article/2026/04/23/defiee-par-cnews-l-arcom-rappelee-a-son-role-de-gendarme_6682742_3234.html",
+      "author": "",
+      "published": "2026-04-23T04:00:20",
+      "summary": "Incapable d’empêcher les manquements de la chaîne du groupe Bolloré, le régulateur de l’audiovisuel est critiqué de toutes parts. Son président, Martin Ajdari, entend ne rien changer à la règle d’équilibre de l’Arcom : sanction des manquements à la loi et protection de la liberté de communication.",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "d4c94bac5223d879",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "La Défenseure des droits s’alarme de l’« industrialisation » de la lutte contre la fraude sociale",
+      "url": "https://www.lemonde.fr/politique/article/2026/04/23/la-defenseure-des-droits-s-alarme-de-l-industrialisation-de-la-lutte-contre-la-fraude-sociale_6682701_823448.html",
+      "author": "",
+      "published": "2026-04-23T03:30:30",
+      "summary": "Dans un rapport publié jeudi, l’institution appelle au respect des droits fondamentaux des bénéficiaires de prestations, en particulier le droit à l’erreur.",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "1749c589a923ac6a",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3145,7 +3235,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "91004de9a09ebf5d",
@@ -3271,7 +3361,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Le Trésor américain renforce la lutte contre la fraude via une approche gouvernementale, relevant de la conformité financière."
     },
     {
       "hash": "4736b7913ad8d591",
@@ -3289,7 +3379,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il concerne les obligations de transparence et de déclaration des pertes financières d'une entreprise lors d'une enquête criminelle."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de fraude impliquant la présentation de pertes financières et les enquêtes de l'autorité de lutte anti-fraude."
     },
     {
       "hash": "5936cec6e43af903",
@@ -3343,7 +3433,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales et des restrictions sur les transactions commerciales, éléments clés de la conformité réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales imposées par les États-Unis, qui obligent les institutions financières à respecter les restrictions commerciales."
     },
     {
       "hash": "c7ab93c3955c4e4e",
@@ -3650,7 +3740,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il annonce un stage à l'Autorité bancaire européenne, régulateur clé de la supervision bancaire et de la conformité réglementaire en Europe."
     },
     {
       "hash": "6e0d2e587f3397be",
@@ -4069,6 +4159,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite des programmes de lutte contre le blanchiment d'argent et le financement du terrorisme, essentiels à la conformité financière."
+    },
+    {
+      "hash": "165bb2d1943d1506",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "\"Une dizaine de pays vulnérables me l'ont demandé\": face au Sénat, le secrétaire américain au Trésor justifie la prolongation de la suspension des sanctions sur le pétrole russe",
+      "url": "https://www.bfmtv.com/economie/international/une-dizaine-de-pays-vulnerables-me-l-ont-demande-face-au-senat-le-secretaire-americain-au-tresor-justifie-la-prolongation-de-la-suspension-des-sanctions-sur-le-petrole-russe_AD-202604230093.html",
+      "author": "",
+      "published": "2026-04-23T04:53:41",
+      "summary": "Le secrétaire américain au Trésor, Scott Bessent, a justifié devant le Sénat la prolongation jusqu'au 16 mai de la suspension des sanctions sur le pétrole russe et iranien. Initialement opposé à ce report, Washington invoque la nécessité de stabiliser les cours mondiaux de l'énergie et de répondre aux inquiétudes des pays les plus vulnérables.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "4f613ba549cf11f6",
@@ -4677,7 +4785,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d2229d7f39937b1c",
@@ -4695,7 +4803,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "71e9923cd5a1a2d4",
@@ -4713,7 +4821,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "893aa9be74fd9f22",
@@ -6021,7 +6129,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3b313f3ccca1330a",
@@ -6189,25 +6297,6 @@
       "is_primary": false
     },
     {
-      "hash": "a3a5cfb77bf2e7f9",
-      "source_name": "ECB - Banking Supervision",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Claudia Buch: Interview with Naftemporiki",
-      "url": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260324~9204567f13.en.html",
-      "author": "",
-      "published": "2026-03-24T06:00:00+01:00",
-      "summary": "European banking supervisors contribute to keeping the banking system safe and sound. European banking supervision comprises the ECB and national supervisors of the participating countries.",
-      "score": 16,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la supervision bancaire européenne et la sécurité du système financier, relevant de la conformité réglementaire.",
-      "score_breakdown": "+5 mots moyens: bank | +15 Source EU | ×0.8 (14d)",
-      "is_primary": true
-    },
-    {
       "hash": "53b1a59b1ad42b7d",
       "source_name": "FSB - Financial Stability Board",
       "source_type": "rss",
@@ -6367,7 +6456,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "dcf615b2be369a6a",
@@ -6385,7 +6474,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ebf1b1b1955cede1",
@@ -6403,7 +6492,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f2668a6f29b4",
@@ -6566,7 +6655,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "190768747fc755d7",
@@ -6979,7 +7068,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3c9da1e38ae1e5df",
@@ -7778,6 +7867,24 @@
       "ai_summary": "L'article traite de accusations de corruption étrangère contre une entreprise, ce qui relève de la conformité en matière de lutte anti-corruption."
     },
     {
+      "hash": "ecb40600dee0a7df",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Issuance of Venezuela-related General License | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260324",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-03-24T12:00:00",
+      "summary": "",
+      "score": 3,
+      "score_breakdown": "+5 Source Intl | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "90098d223279f76d",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7904,6 +8011,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'application des règles anti-corruption et de leur impact sur les entreprises."
     }
   ],
-  "last_update": "2026-04-23T03:51:39.076951+00:00",
+  "last_update": "2026-04-23T07:24:26.414117+00:00",
   "last_updated": "2026-04-12T18:05:00Z"
 }
