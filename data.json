@@ -5688,6 +5688,29 @@
       "ai_summary": "Les autorités supervisoires évaluent les risques financiers géopolitiques et exhortent les superviseurs à maintenir la vigilance réglementaire."
     },
     {
+      "hash": "3725844fe0aa1491",
+      "source_name": "ESMA (Email)",
+      "source_type": "email",
+      "category": "autorite_eu",
+      "title": "ESMA - Markets in Crypto-Assets Regulation (MiCA) - mise à jour de page",
+      "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
+      "author": "noreply@esma.europa.eu",
+      "published": "2026-04-24T15:04:40Z",
+      "summary": "Please find below recently created content on ESMA's website: ESMA page Markets in Crypto-Assets Regulation (MiCA) : https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
+      "score": 30,
+      "score_breakdown": {
+        "crypto": 10,
+        "mica": 10,
+        "regulation": 5,
+        "_source_bonus": 5
+      },
+      "doc_type": "REGULATION",
+      "action_class": "action",
+      "ai_summary": null,
+      "status": "new",
+      "early_brief": false
+    },
+    {
       "hash": "ae9cc11447dd352e",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -6542,6 +6565,28 @@
       "is_primary": false
     },
     {
+      "hash": "143c973911018eb9",
+      "source_name": "EBA (Email)",
+      "source_type": "email",
+      "category": "autorite_eu",
+      "title": "EBA - ESA's Joint Committee highlights digitalisation, cyber resilience and sustainable finance as key priorities of 2025",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-joint-committee-highlights-digitalisation-cyber-resilience-and-sustainable-finance-key",
+      "author": "no-reply@eba.europa.eu",
+      "published": "2026-04-24T20:24:29Z",
+      "summary": "NEWS & PRESS - The ESA's Joint Committee highlights digitalisation, cyber resilience and sustainable finance as key priorities of 2025. The Joint Committee of the European Supervisory Authorities (EBA, EIOPA and ESMA - the ESAs) today published its Annual Report for 2025, setting out the main priorities and achievements of its cross-sectoral work over the past year. In 2025, the Joint Committee focused on protecting consumers in increasingly digital financial markets, strengthening operational a",
+      "score": 20,
+      "score_breakdown": {
+        "dora": 10,
+        "supervisory": 5,
+        "_source_bonus": 5
+      },
+      "doc_type": "PUBLICATION",
+      "action_class": "info",
+      "ai_summary": null,
+      "status": "new",
+      "early_brief": false
+    },
+    {
       "hash": "e02517d1b2d4b55a",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -7114,6 +7159,27 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision bancaire et de la diversification des risques par les banques.",
       "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×1.0 (7d)",
       "is_primary": false
+    },
+    {
+      "hash": "7011eabc70503620",
+      "source_name": "ESMA (Email)",
+      "source_type": "email",
+      "category": "autorite_eu",
+      "title": "ESMA - Joint Committee Annual Report 2025 (digitalisation, cyber resilience, sustainable finance, DORA)",
+      "url": "https://www.esma.europa.eu/document/joint-committee-annual-report-2025",
+      "author": "noreply@esma.europa.eu",
+      "published": "2026-04-24T12:03:48Z",
+      "summary": "Please find below recently created content on ESMA's website: Library Document Joint Committee Annual Report 2025 : https://www.esma.europa.eu/document/joint-committee-annual-report-2025 News Joint Committee annual report highlights digitalisation, cyber resilience and sustainable finance as key priorities of 2025 : https://www.esma.europa.eu/press-news/esma-news/joint-committee-annual-report-highlights-digitalisation-cyber-resilience-and",
+      "score": 15,
+      "score_breakdown": {
+        "dora": 10,
+        "_source_bonus": 5
+      },
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "ai_summary": null,
+      "status": "new",
+      "early_brief": false
     },
     {
       "hash": "190768747fc755d7",
@@ -8597,6 +8663,6 @@
       "ai_summary": "Un consultant pétrolier américain reconnaît sa culpabilité dans une affaire de corruption envers Pemex, illustrant la conformité anti-corruption."
     }
   ],
-  "last_update": "2026-04-25T03:37:51.406920+00:00",
-  "last_updated": "2026-04-24T18:10:18.474373Z"
+  "last_update": "2026-04-25T05:03:42Z",
+  "last_updated": "2026-04-25T05:03:42Z"
 }
