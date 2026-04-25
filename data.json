@@ -565,227 +565,6 @@
   ],
   "items": [
     {
-      "hash": "55e0d271207b",
-      "source_name": "ACPR - Communiqués",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "Nominations : Emmanuelle Assouan est nommée secrétaire générale de l'ACPR et Xavier Debrun est nommé chef-économiste de la Banque de France",
-      "url": "https://acpr.banque-france.fr/fr/communiques-de-presse/nominations-emmanuelle-assouan-est-nommee-secretaire-generale-de-lacpr-et-xavier-debrun-est-nomme",
-      "author": "",
-      "published": "2026-01-23T12:00:00",
-      "summary": "",
-      "score": 25,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "ac0f0f970e81",
-      "source_name": "ACPR - Communiqués",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "Escroqueries : l'ACPR met en garde le public contre les propositions frauduleuses de crédits, de livrets d'épargne, de services de paiement et d'assurances",
-      "url": "https://acpr.banque-france.fr/fr/communiques-de-presse/escroqueries-lacpr-met-en-garde-le-public-contre-les-propositions-frauduleuses-de-credits-de-livrets",
-      "author": "",
-      "published": "2026-01-13T12:00:00",
-      "summary": "",
-      "score": 45,
-      "doc_type": null,
-      "action_class": "alerte",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "cd5cec8f4437",
-      "source_name": "ACPR - Communiqués",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "L'AEAPP publie les résultats de son test de résistance européen sur le secteur des institutions de retraite professionnelle",
-      "url": "https://acpr.banque-france.fr/fr/communiques-de-presse/laeapp-publie-les-resultats-de-son-test-de-resistance-europeen-sur-le-secteur-des-institutions-de",
-      "author": "",
-      "published": "2025-12-17T12:00:00",
-      "summary": "",
-      "score": 15,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "0aab046736cd",
-      "source_name": "DOJ - Criminal Division",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Businessman and Two Attorneys Sentenced for Their Roles in Multimillion Dollar Scheme to Bribe Hawaii County Public Official",
-      "url": "https://www.justice.gov/opa/pr/businessman-and-two-attorneys-sentenced-their-roles-multimillion-dollar-scheme-bribe-hawaii",
-      "author": "",
-      "published": "2026-04-24T12:00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "b7d0f4773007",
-      "source_name": "DOJ - Criminal Division",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Florida Man Working as a Ransomware Negotiator Pleads Guilty to Conspiracy to Deploy Ransomware and Extort U.S. Victims",
-      "url": "https://www.justice.gov/opa/pr/florida-man-working-ransomware-negotiator-pleads-guilty-conspiracy-deploy-ransomware-and",
-      "author": "",
-      "published": "2026-04-20T12:00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "01e2237f91bc",
-      "source_name": "US Treasury - Sanctions Press",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Economic Fury Targets Global Network Fueling Iran's Oil Trade and Shadow Fleet",
-      "url": "https://home.treasury.gov/news/press-releases/sb0472",
-      "author": "",
-      "published": "2026-04-24T12:00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "999ff405e881",
-      "source_name": "Wolfsberg Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "The Wolfsberg Group publishes its second Statement on Effective Monitoring for Suspicious Activity",
-      "url": "https://wolfsberg-group.org/news/the-wolfsberg-group-publishes-its-second-statement-on-effective-monitoring-for-suspicious-activity",
-      "author": "",
-      "published": "2026-04-25T06:14:26",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "26642d292873",
-      "source_name": "Wolfsberg Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "The Wolfsberg Group celebrates its 25th anniversary and welcomes new management committee members",
-      "url": "https://wolfsberg-group.org/news/the-wolfsberg-group-celebrates-its-25th-anniversary-and-welcomes-new-management-committee-members",
-      "author": "",
-      "published": "2026-04-25T06:14:26",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "ebf96fed2460",
-      "source_name": "Egmont Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Egmont Group Welcomes FIU Kazakhstan Leadership to Strengthen Global Collaboration",
-      "url": "https://egmontgroup.org/news/egmont-group-welcomes-fiu-kazakhstan-leadership-to-strengthen-global-collaboration/",
-      "author": "",
-      "published": "2026-04-25T06:14:26",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "bc088ef902a1",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Russian hybrid threats: EU lists two entities over information manipulation activities",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/04/21/russian-hybrid-threats-eu-lists-two-entities-over-information-manipulation-activities/",
-      "author": "",
-      "published": "2026-04-21T12:00:00",
-      "summary": "",
-      "score": 12,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "e98ff95d4340",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Jurisdictions under Increased Monitoring - 13 February 2026",
-      "url": "https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-february-2026.html",
-      "author": "",
-      "published": "2026-02-13T12:00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "16b6cdf75224",
-      "source_name": "CJUE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Judgment of the Court in Case C-465/24 SBK Art - Restrictive measures Russia: freezing of funds prevents holder of depositary receipt from attending shareholders meeting",
-      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260035en.pdf",
-      "author": "",
-      "published": "2026-03-01T12:00:00",
-      "summary": "",
-      "score": 12,
-      "doc_type": "decision",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "68ffc59b648a",
-      "source_name": "CJUE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Judgment of the Court in Case C-84/24 EM System - Assets of company not on sanctions list may be frozen if controlled by listed person",
-      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260032en.pdf",
-      "author": "",
-      "published": "2026-03-01T12:00:00",
-      "summary": "",
-      "score": 32,
-      "doc_type": "decision",
-      "action_class": "enforcement",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
       "hash": "2f61392563bd4d41",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -801,7 +580,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Ce décret transpose une directive européenne modifiant les règles de surveillance bancaire, sanctions et risques ESG, relevant directement de la conformité réglementaire financière."
     },
     {
       "hash": "4ba3ac6348b6cd64",
@@ -819,7 +598,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Ce décret concerne la conformité financière car il régit l'accès au registre des bénéficiaires effectifs et impose une formation aux professionnels assujettis à la lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -837,7 +616,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Ce décret modifie les procédures de signalement des lanceurs d'alerte en matière de blanchiment de capitaux, financement du terrorisme et marchés financiers."
     },
     {
       "hash": "2998804b861efb25",
@@ -1053,7 +832,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des réformes réglementaires grecques en matière de sanctions, lutte anti-blanchiment, gouvernance et conformité."
+      "ai_summary": "Cet article concerne la conformité financière car il détaille les réformes réglementaires grecques en matière de sanctions, anti-corruption, lutte anti-blanchiment et gestion des risques tiers."
     },
     {
       "hash": "4a43762375802e12",
@@ -1179,7 +958,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet arrêté modifie la gouvernance du fonds de garantie des dépôts en précisant les rôles du président du directoire et du conseil de surveillance."
     },
     {
       "hash": "df2fc4f66ffbf9fe",
@@ -1413,7 +1192,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il expose les priorités 2025 des autorités de surveillance européennes incluant la résilience cyber et la finance durable."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des priorités de supervision financière européenne incluant la résilience cyber et la finance durable."
     },
     {
       "hash": "d02dba1fabe00d4f",
@@ -1521,7 +1300,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'évolution des technologies de gestion des risques et de la conformité dans les entreprises."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'évolution des technologies GRC et des outils d'automatisation pour les professionnels de la conformité."
     },
     {
       "hash": "a2c83ed119b46d04",
@@ -2043,7 +1822,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des exigences réglementaires de diversité dans les organes de gouvernance des institutions financières de l'UE."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des exigences réglementaires de diversité dans les organes de direction des établissements bancaires de l'UE."
     },
     {
       "hash": "570d23baaf119348",
@@ -2241,7 +2020,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car Morpho opère en finance décentralisée, secteur soumis à une régulation croissante et des obligations de conformité strictes."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la réglementation et des enjeux politiques des cryptomonnaies en finance décentralisée."
     },
     {
       "hash": "f032e267daa6f3f8",
@@ -2443,24 +2222,6 @@
       "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: eba | +15 Source EU | +10 Géo EU: conseil de l'ue, eba | ×1.0 (7d)"
     },
     {
-      "hash": "029db3cd1f9563ef",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Avis modifiant l'avis de vacance d'emplois de directeur d'établissements sanitaires, sociaux et médico-sociaux",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053926613",
-      "author": "Ministère de la santé, des familles, de l'autonomie et des personnes handicapées",
-      "published": "2026-04-22T00:00:00",
-      "summary": "Article L'avis de vacances d'emplois de directeur d'établissements sanitaires, sociaux et médico-sociaux publié au Journal officiel de la République française n° 89 du 15 avril 2026, texte n° 113 (NOR : SFHN2610166V), est ainsi modifié qu'il suit :Au II :Il convient de retirer les emplois suivants :- centre hospitalier de Molsheim (Bas-Rhin) (cf. fiche de poste en annexe I-15) ;- EHPAD « résidence des Fontenottes » à Ancy-le-Franc et EHPAD « Camille Rizier » à Ravières, direction commune (Yonne)",
-      "score": 54,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
-      "doc_type": "AVIS",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
-    },
-    {
       "hash": "d14ab9c59b4510c5",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -2602,7 +2363,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA définit les priorités de régulation bancaire incluant la résilience cyber et la finance durable."
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA définit les priorités réglementaires incluant la résilience cyber et la finance durable."
     },
     {
       "hash": "9ba702b181cd2a21",
@@ -2656,7 +2417,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il expose les priorités réglementaires 2025 des autorités de supervision européennes incluant la résilience cyber et la finance durable."
+      "ai_summary": "Cet article concerne la conformité financière car il détaille les priorités 2025 des autorités de supervision européennes incluant la finance durable et la résilience cyber."
     },
     {
       "hash": "21dba6fffc143344",
@@ -2747,42 +2508,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "BaFin classe la lutte anti-blanchiment et contre le financement du terrorisme en crypto comme risque majeur, relevant de la conformité réglementaire."
-    },
-    {
-      "hash": "4184fc612b38fe5a",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Vue PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10dUR3X2oyVU00UmdjZEtCbkRRU1lQb0V3cm9DUTlnaFcwSlptSG1iSHBRbEFjLVhaOW84bUo1ZGRZaHpOS2ozdkJybWJHdFgwSW1ydFhrdVg3d0U3R2pndnVscjUtdw?oc=5",
-      "author": "",
-      "published": "2026-04-21T07:24:20",
-      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "b878d0307df7716d",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "View PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IRzlzbjVJa2JycUZHeGdBTk5WWDUxN0R3NERLQmVzdjZBbjBkdm9DbGw5bFc4U0RtS0JESkNCVE11UjN3U3BHUXZCLXEwQjY3RFg1Ynp0a2RjeE5BUnZhbE95VTZUdw?oc=5",
-      "author": "",
-      "published": "2026-04-20T04:49:35",
-      "summary": "View PDF&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5c62bc04081a4abf",
@@ -2926,7 +2651,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions secondaires imposées par les États-Unis sur les acheteurs de pétrole iranien et les banques."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions secondaires imposées par les États-Unis sur les transactions liées au pétrole iranien et les fonds iraniens."
     },
     {
       "hash": "44e241321079a3db",
@@ -2962,7 +2687,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne le déblocage d'un prêt de 90 milliards d'euros à l'Ukraine par l'UE, relevant de la gouvernance financière internationale et de la conformité budgétaire européenne."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'approbation d'un prêt de 90 milliards d'euros par l'UE, relevant de la conformité réglementaire internationale."
     },
     {
       "hash": "35ef3819afe10230",
@@ -3231,6 +2956,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car l'ACPR alerte sur les fraudes affectant les produits et services financiers réglementés."
+    },
+    {
+      "hash": "029db3cd1f9563ef",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Avis modifiant l'avis de vacance d'emplois de directeur d'établissements sanitaires, sociaux et médico-sociaux",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053926613",
+      "author": "Ministère de la santé, des familles, de l'autonomie et des personnes handicapées",
+      "published": "2026-04-22T00:00:00",
+      "summary": "Article L'avis de vacances d'emplois de directeur d'établissements sanitaires, sociaux et médico-sociaux publié au Journal officiel de la République française n° 89 du 15 avril 2026, texte n° 113 (NOR : SFHN2610166V), est ainsi modifié qu'il suit :Au II :Il convient de retirer les emplois suivants :- centre hospitalier de Molsheim (Bas-Rhin) (cf. fiche de poste en annexe I-15) ;- EHPAD « résidence des Fontenottes » à Ancy-le-Franc et EHPAD « Camille Rizier » à Ravières, direction commune (Yonne)",
+      "score": 45,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
+      "doc_type": "AVIS",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "c90828c08f649803",
@@ -4706,6 +4449,24 @@
       "ai_summary": "Cet article traite des programmes de lutte contre le blanchiment d'argent et le financement du terrorisme, essentiels à la conformité financière."
     },
     {
+      "hash": "2a0226cd4fd2b1b0",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Hyper TPRM: Rethinking Third-Party Risk for Scale, Speed, and Confidence",
+      "url": "https://www.corporatecomplianceinsights.com/hyper-tprm-rethinking-third-party-risk-for-scale-speed-and-confidence/",
+      "author": "Corporate Compliance Insights",
+      "published": "2026-04-25T05:09:02",
+      "summary": "The post Hyper TPRM: Rethinking Third-Party Risk for Scale, Speed, and Confidence appeared first on Corporate Compliance Insights.",
+      "score": 34,
+      "score_breakdown": "+10 mots forts: compliance | +10 mots moyens: risk, ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "e21bc05c11d87c22",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -4721,7 +4482,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les sanctions contre la Russie imposent des obligations de respect des restrictions commerciales et financières."
+      "ai_summary": "Les sanctions financières contre la Russie relèvent de la conformité aux régimes de sanctions internationaux."
     },
     {
       "hash": "3d28ef3877d854f5",
@@ -5206,7 +4967,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "668852348f684faa",
@@ -5261,6 +5022,29 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car le code des douanes encadre les déclarations et contrôles des flux financiers internationaux."
+    },
+    {
+      "hash": "3725844fe0aa1491",
+      "source_name": "ESMA (Email)",
+      "source_type": "email",
+      "category": "autorite_eu",
+      "title": "ESMA - Markets in Crypto-Assets Regulation (MiCA) - mise à jour de page",
+      "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
+      "author": "noreply@esma.europa.eu",
+      "published": "2026-04-24T15:04:40Z",
+      "summary": "Please find below recently created content on ESMA's website: ESMA page Markets in Crypto-Assets Regulation (MiCA) : https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
+      "score": 30,
+      "score_breakdown": {
+        "crypto": 10,
+        "mica": 10,
+        "regulation": 5,
+        "_source_bonus": 5
+      },
+      "doc_type": "REGULATION",
+      "action_class": "action",
+      "ai_summary": "Cet article concerne la conformité financière car il présente MiCA, le cadre réglementaire européen encadrant les actifs cryptographiques et la conformité des marchés de crypto-actifs.",
+      "status": "new",
+      "early_brief": false
     },
     {
       "hash": "1c6479d6e76791a5",
@@ -5909,29 +5693,6 @@
       "ai_summary": "Les autorités supervisoires évaluent les risques financiers géopolitiques et exhortent les superviseurs à maintenir la vigilance réglementaire."
     },
     {
-      "hash": "3725844fe0aa1491",
-      "source_name": "ESMA (Email)",
-      "source_type": "email",
-      "category": "autorite_eu",
-      "title": "ESMA - Markets in Crypto-Assets Regulation (MiCA) - mise à jour de page",
-      "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
-      "author": "noreply@esma.europa.eu",
-      "published": "2026-04-24T15:04:40Z",
-      "summary": "Please find below recently created content on ESMA's website: ESMA page Markets in Crypto-Assets Regulation (MiCA) : https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
-      "score": 30,
-      "score_breakdown": {
-        "crypto": 10,
-        "mica": 10,
-        "regulation": 5,
-        "_source_bonus": 5
-      },
-      "doc_type": "REGULATION",
-      "action_class": "action",
-      "ai_summary": null,
-      "status": "new",
-      "early_brief": false
-    },
-    {
       "hash": "ae9cc11447dd352e",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -6407,7 +6168,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d2229d7f39937b1c",
@@ -6425,7 +6186,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f1602f3c91113dcd",
@@ -6572,6 +6333,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il analyse les règles de capital bancaire de l'UE et leur conception réglementaire post-crise."
     },
     {
+      "hash": "b48ceef8539e7e6e",
+      "source_name": "AI Office (Commission EU)",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Commission investigates Snapchat's compliance with child protection rules under the Digital Services Act",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-investigates-snapchats-compliance-child-protection-rules-under-digital-services-act",
+      "author": "Anonymous",
+      "published": "2026-03-26T08:39:00",
+      "summary": "Commission investigates Snapchat's compliance with child protection rules under the Digital Services Act\nAnonymous (not verified)\nThu, 03/26/2026 - 09:39\n\n\n\n  \n        \n              \n                                    The European Commission has opened formal proceedings to investigate if Snapchat is ensuring a high level of safety, privacy and security for children online, in compliance with the Digital Services Act (DSA).\n\n  \n              \n      \n                     \n            \n\n\n\n\n\n    ",
+      "score": 21,
+      "score_breakdown": "+10 mots forts: compliance | +15 Source EU | +10 Géo EU: european commission | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "ffde73cc6c09fc1d",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -6624,6 +6403,28 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article traite de la conformité réglementaire financière en abordant l'inéligibilité des stablecoins à l'assurance-dépôts américaine."
+    },
+    {
+      "hash": "143c973911018eb9",
+      "source_name": "EBA (Email)",
+      "source_type": "email",
+      "category": "autorite_eu",
+      "title": "EBA - ESA's Joint Committee highlights digitalisation, cyber resilience and sustainable finance as key priorities of 2025",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-joint-committee-highlights-digitalisation-cyber-resilience-and-sustainable-finance-key",
+      "author": "no-reply@eba.europa.eu",
+      "published": "2026-04-24T20:24:29Z",
+      "summary": "NEWS & PRESS - The ESA's Joint Committee highlights digitalisation, cyber resilience and sustainable finance as key priorities of 2025. The Joint Committee of the European Supervisory Authorities (EBA, EIOPA and ESMA - the ESAs) today published its Annual Report for 2025, setting out the main priorities and achievements of its cross-sectoral work over the past year. In 2025, the Joint Committee focused on protecting consumers in increasingly digital financial markets, strengthening operational a",
+      "score": 20,
+      "score_breakdown": {
+        "dora": 10,
+        "supervisory": 5,
+        "_source_bonus": 5
+      },
+      "doc_type": "PUBLICATION",
+      "action_class": "info",
+      "ai_summary": "Cet article concerne la conformité financière car il traite des priorités de régulation 2025 incluant la cybersécurité et la finance durable.",
+      "status": "new",
+      "early_brief": false
     },
     {
       "hash": "47cf6211574a0606",
@@ -6786,28 +6587,6 @@
       "is_primary": false
     },
     {
-      "hash": "143c973911018eb9",
-      "source_name": "EBA (Email)",
-      "source_type": "email",
-      "category": "autorite_eu",
-      "title": "EBA - ESA's Joint Committee highlights digitalisation, cyber resilience and sustainable finance as key priorities of 2025",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-joint-committee-highlights-digitalisation-cyber-resilience-and-sustainable-finance-key",
-      "author": "no-reply@eba.europa.eu",
-      "published": "2026-04-24T20:24:29Z",
-      "summary": "NEWS & PRESS - The ESA's Joint Committee highlights digitalisation, cyber resilience and sustainable finance as key priorities of 2025. The Joint Committee of the European Supervisory Authorities (EBA, EIOPA and ESMA - the ESAs) today published its Annual Report for 2025, setting out the main priorities and achievements of its cross-sectoral work over the past year. In 2025, the Joint Committee focused on protecting consumers in increasingly digital financial markets, strengthening operational a",
-      "score": 20,
-      "score_breakdown": {
-        "dora": 10,
-        "supervisory": 5,
-        "_source_bonus": 5
-      },
-      "doc_type": "PUBLICATION",
-      "action_class": "info",
-      "ai_summary": null,
-      "status": "new",
-      "early_brief": false
-    },
-    {
       "hash": "e02517d1b2d4b55a",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -6967,7 +6746,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3b313f3ccca1330a",
@@ -7219,6 +6998,27 @@
       "ai_summary": "Retrait d'agrément d'une association d'intermédiaires en assurance et services de paiement par l'ACPR pour non-conformité réglementaire."
     },
     {
+      "hash": "7011eabc70503620",
+      "source_name": "ESMA (Email)",
+      "source_type": "email",
+      "category": "autorite_eu",
+      "title": "ESMA - Joint Committee Annual Report 2025 (digitalisation, cyber resilience, sustainable finance, DORA)",
+      "url": "https://www.esma.europa.eu/document/joint-committee-annual-report-2025",
+      "author": "noreply@esma.europa.eu",
+      "published": "2026-04-24T12:03:48Z",
+      "summary": "Please find below recently created content on ESMA's website: Library Document Joint Committee Annual Report 2025 : https://www.esma.europa.eu/document/joint-committee-annual-report-2025 News Joint Committee annual report highlights digitalisation, cyber resilience and sustainable finance as key priorities of 2025 : https://www.esma.europa.eu/press-news/esma-news/joint-committee-annual-report-highlights-digitalisation-cyber-resilience-and",
+      "score": 15,
+      "score_breakdown": {
+        "dora": 10,
+        "_source_bonus": 5
+      },
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "ai_summary": "Cet article concerne la conformité financière car il traite de DORA, cyber-résilience et finance durable, éléments clés de la régulation financière européenne.",
+      "status": "new",
+      "early_brief": false
+    },
+    {
       "hash": "cebb91bc44ba632c",
       "source_name": "Cass. - Fraude",
       "source_type": "rss",
@@ -7234,7 +7034,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "dcf615b2be369a6a",
@@ -7252,7 +7052,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ebf1b1b1955cede1",
@@ -7270,7 +7070,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5d36d60793aa",
@@ -7382,27 +7182,6 @@
       "is_primary": false
     },
     {
-      "hash": "7011eabc70503620",
-      "source_name": "ESMA (Email)",
-      "source_type": "email",
-      "category": "autorite_eu",
-      "title": "ESMA - Joint Committee Annual Report 2025 (digitalisation, cyber resilience, sustainable finance, DORA)",
-      "url": "https://www.esma.europa.eu/document/joint-committee-annual-report-2025",
-      "author": "noreply@esma.europa.eu",
-      "published": "2026-04-24T12:03:48Z",
-      "summary": "Please find below recently created content on ESMA's website: Library Document Joint Committee Annual Report 2025 : https://www.esma.europa.eu/document/joint-committee-annual-report-2025 News Joint Committee annual report highlights digitalisation, cyber resilience and sustainable finance as key priorities of 2025 : https://www.esma.europa.eu/press-news/esma-news/joint-committee-annual-report-highlights-digitalisation-cyber-resilience-and",
-      "score": 15,
-      "score_breakdown": {
-        "dora": 10,
-        "_source_bonus": 5
-      },
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "ai_summary": null,
-      "status": "new",
-      "early_brief": false
-    },
-    {
       "hash": "190768747fc755d7",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -7439,6 +7218,23 @@
       "ai_summary": "La FCA ordonne à Beauforce de cesser ses activités et de restituer les fonds des clients pour non-conformité réglementaire."
     },
     {
+      "hash": "bc088ef902a1",
+      "source_name": "Conseil de l'UE",
+      "source_type": "scrape",
+      "category": "autorite_eu",
+      "title": "Russian hybrid threats: EU lists two entities over information manipulation activities",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/04/21/russian-hybrid-threats-eu-lists-two-entities-over-information-manipulation-activities/",
+      "author": "",
+      "published": "2026-04-21T12:00:00",
+      "summary": "",
+      "score": 12,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
       "hash": "f75742a063c2",
       "source_name": "Conseil de l'UE",
       "source_type": "scrape",
@@ -7454,7 +7250,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cette loi anti-corruption à l'échelle de l'UE renforce la conformité financière en imposant des normes strictes contre les fraudes et délits financiers."
+      "ai_summary": "Cet article concerne la conformité financière car la lutte anticorruption est un élément clé de la conformité réglementaire."
     },
     {
       "hash": "56298afdb8d65830",
@@ -7472,7 +7268,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "89e4fe534e69ce9f",
@@ -7563,6 +7359,40 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne le blanchiment d'argent, la corruption et la restitution d'actifs saisis dans une affaire de corruption commerciale."
+    },
+    {
+      "hash": "ebf96fed2460",
+      "source_name": "Egmont Group",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Egmont Group Welcomes FIU Kazakhstan Leadership to Strengthen Global Collaboration",
+      "url": "https://egmontgroup.org/news/egmont-group-welcomes-fiu-kazakhstan-leadership-to-strengthen-global-collaboration/",
+      "author": "",
+      "published": "2026-04-25T06:14:26",
+      "summary": "",
+      "score": 10,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Le renforcement de la collaboration internationale entre les unités de renseignement financier améliore l'échange d'informations pour la conformité financière."
+    },
+    {
+      "hash": "01e2237f91bc",
+      "source_name": "US Treasury - Sanctions Press",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Economic Fury Targets Global Network Fueling Iran's Oil Trade and Shadow Fleet",
+      "url": "https://home.treasury.gov/news/press-releases/sb0472",
+      "author": "",
+      "published": "2026-04-24T12:00:00",
+      "summary": "",
+      "score": 10,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions contre les réseaux facilitant le commerce pétrolier iranien."
     },
     {
       "hash": "646a6a9b7b9d",
@@ -8125,7 +7955,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du départ d'une experte FCPA chargée de superviser les obligations de conformité d'un entrepreneur en défense américain."
     },
     {
       "hash": "33272cd0ac2ff441",
@@ -8143,7 +7973,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Ce jugement concerne la conformité financière car il porte sur l'application de la loi FCPA contre la corruption."
     },
     {
       "hash": "ab04a67f0f6f42fd",
@@ -8359,7 +8189,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "40469a15fb8f6b7e",
@@ -8884,6 +8714,6 @@
       "ai_summary": "Un consultant pétrolier américain reconnaît sa culpabilité dans une affaire de corruption envers Pemex, illustrant la conformité anti-corruption."
     }
   ],
-  "last_update": "2026-04-25T06:14:26Z",
+  "last_update": "2026-04-25T07:04:03.137770+00:00",
   "last_updated": "2026-04-25T06:14:26Z"
 }
