@@ -580,7 +580,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret transpose une directive européenne modifiant les règles de surveillance bancaire, sanctions et risques ESG, relevant directement de la conformité financière réglementaire."
+      "ai_summary": "Ce décret transpose une directive UE modifiant les règles de surveillance bancaire, les sanctions et la gestion des risques ESG, relevant directement de la conformité financière réglementaire."
     },
     {
       "hash": "4ba3ac6348b6cd64",
@@ -598,7 +598,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il impose aux professionnels assujettis à la lutte anti-blanchiment de garantir l'accès aux informations essentielles et la formation continue des salariés."
+      "ai_summary": "Cet article concerne la conformité financière car il renforce l'accès au registre des bénéficiaires effectifs et impose une formation aux professionnels assujettis à la lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -616,7 +616,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret modifie les procédures de signalement des lanceurs d'alerte concernant les marchés financiers, le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Ce décret modifie les procédures de signalement des lanceurs d'alerte concernant les marchés financiers et la prévention du blanchiment de capitaux et du financement du terrorisme."
     },
     {
       "hash": "2998804b861efb25",
@@ -832,7 +832,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il détaille les réformes grecques en matière de sanctions, anti-corruption, lutte anti-blanchiment et gouvernance d'entreprise."
+      "ai_summary": "Cet article concerne la conformité financière car il détaille les obligations réglementaires, de lutte anti-blanchiment et de gouvernance que les conseils d'administration grecs doivent respecter."
     },
     {
       "hash": "4a43762375802e12",
@@ -1606,7 +1606,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La Belgique fait face à une dégradation de sa notation de dette souveraine due à des déséquilibres budgétaires persistants."
     },
     {
       "hash": "3db4698e9ff6c90a",
@@ -1624,7 +1624,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il expose un cas de fraude massifs et de disparition de dirigeant sans reddition de comptes, violations graves des obligations de conformité et de protection des clients."
+      "ai_summary": "Cet article concerne la conformité financière car il révèle une fraude massive impliquant la disparition de fonds clients et le non-respect des obligations de restitution des actifs numériques."
     },
     {
       "hash": "30d4ed3b82c97d03",
@@ -1696,7 +1696,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b94847c0a6ebbc14",
@@ -2148,24 +2148,6 @@
       "ai_summary": "L'AMF publie des données de marché monétaire relevant de la surveillance réglementaire et de la conformité des fonds monétaires."
     },
     {
-      "hash": "7dca1df947c39a47",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Avis du 26 mars 2026 relatif à l'application des articles L. 314-6 du code de la consommation et L. 313-5-1 du code monétaire et financier concernant l'usure",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053724000",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-03-27T00:00:00",
-      "summary": "Article TAUX EFFECTIFS MOYENS PRATIQUÉS PAR LES ÉTABLISSEMENTS DE CRÉDIT AU COURS DU PREMIER TRIMESTRE DE L'ANNÉE 2026 POUR LES DIVERSES CATÉGORIES DE CRÉDITS ET SEUILS DE L'USURE CORRESPONDANTS APPLICABLES À COMPTER DU 1ER AVRIL 2026CatégoriesTaux effectif pratiqué par les établissements \n      \n    de crédit et les sociétés de financement \n      \n    au cours des trois mois précédant le 1er avril 2026Seuil de l'usure applicable \n      \n    à compter du 1er avril 2026Contrats de crédit consenti",
-      "score": 55,
-      "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: code monétaire | ×1.0 (7d)",
-      "doc_type": "AVIS",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet avis fixe les seuils de taux d'usure applicables au 1er avril 2026, éléments clés de conformité réglementaire en matière de crédit."
-    },
-    {
       "hash": "f3faeb5318ab1bf1",
       "source_name": "ESMA - European Securities and Markets Authority",
       "source_type": "rss",
@@ -2200,24 +2182,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les autorités de supervision financière évaluent les risques géopolitiques et les risques croissants de la finance privée."
-    },
-    {
-      "hash": "441056e0c0d5",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Lebanon: Council extends framework for targeted sanctions for one year",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/03/27/lebanon-council-extends-framework-for-targeted-sanctions-for-one-year/",
-      "author": "",
-      "published": "2026-03-27",
-      "summary": "Le Conseil de l'UE prolonge d'un an le cadre de sanctions ciblées concernant le Liban.",
-      "score": 55,
-      "doc_type": "decision",
-      "action_class": "sanction",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le cadre de sanctions ciblées relève de la conformité financière car il impose des obligations de gel d'actifs et de contrôle des flux financiers.",
-      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: eba | +15 Source EU | +10 Géo EU: conseil de l'ue, eba | ×1.0 (7d)"
     },
     {
       "hash": "d14ab9c59b4510c5",
@@ -2415,7 +2379,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La finance durable, la résilience cyber et la numérisation sont des priorités de conformité financière des autorités de supervision européennes pour 2025."
+      "ai_summary": "Cet article concerne la conformité financière car il aborde les priorités de régulation 2025 des autorités européennes de surveillance financière incluant la digitalisation, la résilience cyber et la finance durable."
     },
     {
       "hash": "21dba6fffc143344",
@@ -2508,24 +2472,6 @@
       "ai_summary": "BaFin classe la lutte anti-blanchiment et contre le financement du terrorisme en crypto comme risque majeur, relevant de la conformité réglementaire."
     },
     {
-      "hash": "4184fc612b38fe5a",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Vue PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10dUR3X2oyVU00UmdjZEtCbkRRU1lQb0V3cm9DUTlnaFcwSlptSG1iSHBRbEFjLVhaOW84bUo1ZGRZaHpOS2ozdkJybWJHdFgwSW1ydFhrdVg3d0U3R2pndnVscjUtdw?oc=5",
-      "author": "",
-      "published": "2026-04-21T07:24:20",
-      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "6d0a04ff2b260892",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -2541,7 +2487,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5c62bc04081a4abf",
@@ -2562,22 +2508,22 @@
       "ai_summary": "Cet article concerne la conformité financière car il mentionne AXA France IARD supervisée par l'ACPR pour ses obligations réglementaires."
     },
     {
-      "hash": "2f8aed72c654a7e2",
+      "hash": "7fb7832939c0648d",
       "source_name": "ACPR",
       "source_type": "rss",
       "category": "autorite_fr",
-      "title": "CAISSE DE REASSURANCE MUTUELLE AGRICOLE DU CENTRE MANCHE - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ra1NKX1Y2YklmcDloclNPTHZFbTB5UDIzUUxycmlFQVJ2S1FrTXFLdjlHM3dfYnpQU2FtMmpXdmpPM1F2MkFrNUtIUHlPVGtYS0pOalJ6czM?oc=5",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51SXNoUHdRaHR0eVl3Z0gxRlBqM3BrckEzNHBpQmdpUTI4Z2lVSWlHTm1HQ19YVVM4VTlYWm51QmdlOU9RWkRCU2RKaHFneENUeFpvaF9BX05VLVFDdS0xanRXT2ItZw?oc=5",
       "author": "",
-      "published": "2026-04-19T09:49:47",
-      "summary": "CAISSE DE REASSURANCE MUTUELLE AGRICOLE DU CENTRE MANCHE&nbsp;&nbsp;Banque de France",
+      "published": "2026-04-19T23:12:42",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
       "score": 50,
       "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "f0132251b3e088b2",
@@ -2703,7 +2649,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions secondaires américaines affectant les transactions et les institutions financières."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions secondaires imposées par les États-Unis sur les transactions liées au pétrole iranien et les banques impliquées."
     },
     {
       "hash": "44e241321079a3db",
@@ -2739,7 +2685,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne le déblocage d'un prêt de 90 milliards d'euros à l'Ukraine par l'UE et des sanctions contre la Russie, relevant de la conformité géopolitique et réglementaire internationale."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "35ef3819afe10230",
@@ -2847,7 +2793,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des exigences réglementaires de diversité dans les organes de direction des institutions financières de l'UE."
     },
     {
       "hash": "53fb15a63f6b46b8",
@@ -3008,7 +2954,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les contrôles de conformité LCB-FT (lutte contre le blanchiment et financement du terrorisme) des prestataires de transmission de fonds."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du contrôle de la lutte contre le blanchiment de capitaux et le financement du terrorisme (LCB-FT)."
     },
     {
       "hash": "c4d639d201aa",
@@ -3060,7 +3006,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c90828c08f649803",
@@ -3690,7 +3636,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4879b000edc2a551",
@@ -4247,7 +4193,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article porte sur la conformité financière car il traite de la lutte contre le blanchiment de capitaux et le financement du terrorisme, enjeux clés de la conformité."
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur la lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "34b039de5d07",
@@ -4943,7 +4889,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions financières de l'UE contre la Russie visant à restreindre ses revenus énergétiques et ses services financiers, incluant les cryptomonnaies."
     },
     {
       "hash": "5d17d4fd3e3a",
@@ -4961,7 +4907,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions financières imposées par l'UE contre la Russie en raison de l'agression en Ukraine."
     },
     {
       "hash": "3bb8d76f8905dd85",
@@ -4979,7 +4925,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "668852348f684faa",
@@ -5740,42 +5686,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la déclaration réglementaire des montants de permission antérieure inutilisés."
     },
     {
-      "hash": "2b48137ffa9a",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Global Magnitsky Designations Removals; Russia-related Designations Removals",
-      "url": "https://ofac.treasury.gov/recent-actions/20260327",
-      "author": "",
-      "published": "2026-03-27T00:00:00Z",
-      "summary": "OFAC removes certain Global Magnitsky and Russia-related sanctions designations.",
-      "score": 28,
-      "doc_type": "designation",
-      "action_class": "sanction",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la levée de sanctions OFAC, un élément clé de la conformité en matière de lutte contre les sanctions internationales.",
-      "score_breakdown": "+20 mots critiques: sanction | +5 Source Intl | +3 Géo Intl: ofac | ×1.0 (7d)"
-    },
-    {
-      "hash": "40a5c001a374",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Issuance of New and Amended Venezuela-related General Licenses",
-      "url": "https://ofac.treasury.gov/recent-actions/20260327_33",
-      "author": "",
-      "published": "2026-03-27T00:00:00Z",
-      "summary": "OFAC issues new and amended general licenses related to Venezuela sanctions program.",
-      "score": 28,
-      "doc_type": "guidance",
-      "action_class": "sanction",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions imposées à la Birmanie par les autorités américaines.",
-      "score_breakdown": "+20 mots critiques: sanction | +5 Source Intl | +3 Géo Intl: ofac | ×1.0 (7d)"
-    },
-    {
       "hash": "7a54d9c8ed0fd3d6",
       "source_name": "Commission EU Finance (X)",
       "source_type": "rss",
@@ -6144,24 +6054,6 @@
       "ai_summary": "Le retrait d'agrément par l'ACPR d'une association professionnelle relève de la conformité réglementaire bancaire et financière."
     },
     {
-      "hash": "b7b76a1895bb",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Myanmar/Burma: Council extends restrictive measures for one year",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/03/27/myanmar-burma-council-extends-restrictive-measures-for-one-year/",
-      "author": "",
-      "published": "2026-03-27",
-      "summary": "Le Conseil de l'UE prolonge d'un an les mesures restrictives concernant le Myanmar/Birmanie.",
-      "score": 25,
-      "doc_type": "decision",
-      "action_class": "sanction",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les mesures restrictives prolongées visent à assurer la conformité avec les sanctions financières imposées contre le Myanmar.",
-      "score_breakdown": "+15 Source EU | +10 Géo EU: conseil de l'ue | ×1.0 (7d)"
-    },
-    {
       "hash": "2db6c2a741ac",
       "source_name": "Wolfsberg Group",
       "source_type": "scrape",
@@ -6193,7 +6085,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il annonce l'élection d'une nouvelle responsable de la prévention de la criminalité financière au Wolfsberg Group."
+      "ai_summary": "Le Wolfsberg Group élit une nouvelle co-présidente spécialisée en prévention de la criminalité financière, organisme clé de conformité bancaire."
     },
     {
       "hash": "7766697a8ad2559c",
@@ -6214,42 +6106,6 @@
       "ai_summary": "La FCA expose son rôle réglementaire concernant les conflits d'intérêt et l'indépendance des conseils d'administration des fonds de placement."
     },
     {
-      "hash": "ae83eff511ad",
-      "source_name": "DOJ - Criminal Division",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Telemedicine Company Owner Pleads Guilty to $46M Medicare Fraud Scheme",
-      "url": "https://www.justice.gov/opa/pr/telemedicine-company-owner-pleads-guilty-46m-medicare-fraud-scheme",
-      "author": "",
-      "published": "2026-03-27T00:00:00Z",
-      "summary": "Owner of telemedicine company pleads guilty to $46M Medicare fraud scheme involving fraudulent orders.",
-      "score": 25,
-      "doc_type": "enforcement",
-      "action_class": "fraude",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le propriétaire a plaidé coupable à une fraude Medicare de 46 millions de dollars, cas classique de conformité financière et anti-fraude.",
-      "score_breakdown": "+20 mots critiques: fraud | +5 Source Intl | ×1.0 (7d)"
-    },
-    {
-      "hash": "fca02c9e619feb01",
-      "source_name": "DOJ - Criminal Division",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Texas Fugitive Apprehended and Sentenced to Over 12 Years in Prison for $61M Telemarketing Fraud Scheme Targeting Medicare Beneficiaries",
-      "url": "https://www.justice.gov/opa/pr/texas-fugitive-apprehended-and-sentenced-over-12-years-prison-61m-telemarketing-fraud-scheme",
-      "author": "",
-      "published": "2026-03-27T00:00:00",
-      "summary": "Texas fugitive sentenced to 12+ years for $61M telemarketing fraud targeting Medicare.",
-      "score": 25,
-      "doc_type": null,
-      "action_class": "veille",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la fraude télémarketing massive et des obligations de conformité dans le secteur santé.",
-      "score_breakdown": "+20 mots critiques: fraud | +5 Source Intl | ×1.0 (7d)"
-    },
-    {
       "hash": "ad777215c807be1c",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -6265,7 +6121,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d2229d7f39937b1c",
@@ -6283,7 +6139,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f1602f3c91113dcd",
@@ -6356,24 +6212,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la régulation des stablecoins par l'autorité monétaire de Hong Kong."
-    },
-    {
-      "hash": "06a16891bc1631cb",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Bill to shield US companies from Russian lawsuits clears committee",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/bill-shield-us-companies-russian-lawsuits-clears-committee",
-      "author": "Estelle Atkinson",
-      "published": "2026-03-26T20:53:56",
-      "summary": "The legislation would block Russian entities from suing companies in the US over efforts to comply with sanctions and export controls.",
-      "score": 23,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cette législation concerne la conformité financière car elle protège les entreprises respectant les sanctions contre les poursuites russes."
     },
     {
       "hash": "3c6c3b862748",
@@ -6769,7 +6607,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3b313f3ccca1330a",
@@ -6930,7 +6768,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la coordination des mécanismes de résolution bancaire et assurantielle au niveau congloméral, relevant de la conformité réglementaire."
+      "ai_summary": "La coordination des travaux de résolution bancaire et assurantielle relève de la conformité financière par son encadrement réglementaire des conglomérats financiers."
     },
     {
       "hash": "d28a5d4c54d1",
@@ -7053,7 +6891,7 @@
       },
       "doc_type": "RAPPORT",
       "action_class": "info",
-      "ai_summary": "Cet article concerne la conformité financière car il couvre la résilience cyber, la finance durable et DORA, tous éléments clés de la conformité réglementaire.",
+      "ai_summary": "Cet article concerne la conformité financière car il couvre la résilience cyber, la finance durable et DORA, éléments clés de la conformité réglementaire financière européenne.",
       "status": "new",
       "early_brief": false
     },
@@ -7069,23 +6907,6 @@
       "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           Mme C... D... a demandé au tribunal administratif de la Guadeloupe d'annuler la décision du 14 décembre 2024 par laquelle la commune de Baie-Mahault a implicitement rejeté sa demande tendant au retrait du permis de construire n° PC97110323R1021 délivré à M. B... A... sur autorisation tacite, suite à une demande déposée le 13 février 2023, et a ce qu'il soit ordonné l'arrêt des travaux.           Par une ordonnance",
       "score": 15,
       "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "9ca189b36f8b",
-      "source_name": "Egmont Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Egmont Group intervenes at the World Bank/International Monetary Fund Spring Meetings in D.C.",
-      "url": "https://egmontgroup.org/news/egmont-group-intervenes-at-the-world-bank-international-monetary-fund-spring-meetings-in-d-c/",
-      "author": "",
-      "published": "2026-04-25T13:04:50",
-      "summary": "",
-      "score": 15,
       "doc_type": null,
       "action_class": "info",
       "status": "new",
@@ -7107,7 +6928,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la transparence des paiements et des responsabilités des acteurs dans la chaîne de paiement, éléments essentiels pour la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la transparence des paiements et les responsabilités des acteurs, éléments essentiels à la conformité anti-blanchiment."
     },
     {
       "hash": "5d36d60793aa",
@@ -7251,7 +7072,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bc088ef902a1",
@@ -7397,91 +7218,6 @@
       "ai_summary": "Cet article concerne le blanchiment d'argent, la corruption et la restitution d'actifs saisis dans une affaire de corruption commerciale."
     },
     {
-      "hash": "8e0cbd3ccbd9",
-      "source_name": "Interpol",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "INTERPOL Heads of NCBs convene to shape global policing future",
-      "url": "https://www.interpol.int/en/News-and-Events/News/2026/INTERPOL-Heads-of-NCBs-convene-to-shape-global-policing-future",
-      "author": "",
-      "published": "2026-04-25T13:04:51",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "42a316b3bba4",
-      "source_name": "Interpol",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Hope for Justice first in aid sector to implement INTERPOL safeguarding channel",
-      "url": "https://www.interpol.int/en/News-and-Events/News/2026/Hope-for-Justice-first-in-aid-sector-to-implement-INTERPOL-safeguarding-channel",
-      "author": "",
-      "published": "2026-04-25T13:04:51",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "bf9a7b731893",
-      "source_name": "Interpol",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Kenya launches INTERPOL policing course to enhance cross-border cooperation",
-      "url": "https://www.interpol.int/en/News-and-Events/News/2026/Kenya-launches-INTERPOL-policing-course-to-enhance-cross-border-cooperation",
-      "author": "",
-      "published": "2026-04-25T13:04:51",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "58e5fdaf6b83",
-      "source_name": "Interpol",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "INTERPOL Notices highlight growing threat of dual-use substances in South America",
-      "url": "https://www.interpol.int/en/News-and-Events/News/2026/INTERPOL-Notices-highlight-growing-threat-of-dual-use-substances-in-South-America",
-      "author": "",
-      "published": "2026-04-25T13:04:51",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "af7d1948f16e",
-      "source_name": "Interpol",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "New INTERPOL-Brazil agreement steps up the fight against organized crime in South America",
-      "url": "https://www.interpol.int/en/News-and-Events/News/2026/New-INTERPOL-Brazil-agreement-steps-up-the-fight-against-organized-crime-in-South-America",
-      "author": "",
-      "published": "2026-04-25T13:04:51",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "c31229260ceb",
       "source_name": "Interpol",
       "source_type": "scrape",
@@ -7530,7 +7266,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet appel d'offres pour un audit de sécurité IT concerne la conformité financière car il garantit la protection des données sensibles du Groupe Egmont."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c98ab0a98658",
@@ -7618,23 +7354,6 @@
       "ai_summary": "Le Wolfsberg Forum 2025 rassemble des experts mondiaux pour lutter contre la criminalité financière et améliorer la conformité."
     },
     {
-      "hash": "86342f6dceab",
-      "source_name": "US Treasury - Sanctions Press",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with Minister of Finance Ali bin Ahmed Al Kuwari of Qatar",
-      "url": "https://home.treasury.gov/news/press-releases/sb0463",
-      "author": "",
-      "published": "2026-04-25T13:04:48",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "ebf96fed2460",
       "source_name": "Egmont Group",
       "source_type": "scrape",
@@ -7649,7 +7368,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne le renforcement de la collaboration internationale entre unités de renseignement financier, essentiel pour améliorer la lutte contre le blanchiment et la conformité mondiale."
+      "ai_summary": "Cet article concerne le renforcement de la collaboration internationale en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "01e2237f91bc",
@@ -8210,24 +7929,6 @@
       "ai_summary": "FinCEN propose de rémunérer les lanceurs d'alerte pour signaler les violations de conformité financière."
     },
     {
-      "hash": "5c0841d27a97e52e",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "RTX monitor decamps to Winston &amp; Strawn",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/rtx-monitor-decamps-winston-strawn",
-      "author": "Gaspard Le Dem",
-      "published": "2026-04-24T19:36:34",
-      "summary": "Weeks after being appointed to oversee the US defence contractor, Anne Murray, a seasoned FCPA practitioner, has left McDermott along with longtime colleague Guy Singer.",
-      "score": 9,
-      "score_breakdown": "+3 Presse | +3 Géo Intl: fcpa | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "33272cd0ac2ff441",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -8459,7 +8160,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "40469a15fb8f6b7e",
@@ -8642,6 +8343,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions imposées par les États-Unis et de leurs suppressions."
     },
     {
+      "hash": "5c0841d27a97e52e",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "RTX monitor decamps to Winston &amp; Strawn",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/rtx-monitor-decamps-winston-strawn",
+      "author": "Gaspard Le Dem",
+      "published": "2026-04-24T19:36:34",
+      "summary": "Weeks after being appointed to oversee the US defence contractor, Anne Murray, a seasoned FCPA practitioner, has left McDermott along with longtime colleague Guy Singer.",
+      "score": 7,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: fcpa | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "c2c207530c55d58b",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -8784,24 +8503,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Le Trésor américain propose une règle pour mettre en œuvre les exigences du GENIUS Act afin de lutter contre le financement illicite."
-    },
-    {
-      "hash": "6138b30afc90",
-      "source_name": "Egmont Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "OECD Global Anti-Corruption and Integrity Forum 2026 | Paris",
-      "url": "https://egmontgroup.org/news/oecd-global-anti-corruption-and-integrity-forum-2026-paris/",
-      "author": "",
-      "published": "2026-03-27T00:00:00Z",
-      "summary": "Egmont Group participation at OECD Global Anti-Corruption and Integrity Forum 2026 in Paris.",
-      "score": 5,
-      "doc_type": "event",
-      "action_class": "corruption",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le forum traite de la lutte anticorruption et de l'intégrité, domaines clés de la conformité financière.",
-      "score_breakdown": "+5 Source Intl | ×1.0 (7d)"
     },
     {
       "hash": "ba642976f4a4bfd1",
@@ -8966,6 +8667,6 @@
       "ai_summary": "Un consultant pétrolier américain reconnaît sa culpabilité dans une affaire de corruption envers Pemex, illustrant la conformité anti-corruption."
     }
   ],
-  "last_update": "2026-04-25T19:23:40.776502+00:00",
+  "last_update": "2026-04-26T01:48:34.921933+00:00",
   "last_updated": "2026-04-25T18:21:36Z"
 }
