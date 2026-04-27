@@ -580,7 +580,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret transpose une directive européenne modifiant le cadre de surveillance bancaire et les obligations ESG, relevant directement de la conformité financière et réglementaire."
+      "ai_summary": "Ce décret transpose une directive UE modifiant les règles prudentielles bancaires concernant la surveillance, les sanctions et les risques ESG, relevant directement de la conformité financière."
     },
     {
       "hash": "4ba3ac6348b6cd64",
@@ -598,7 +598,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il régit l'accès au registre des bénéficiaires effectifs et la formation obligatoire des professionnels soumis à la lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il encadre l'accès au registre des bénéficiaires effectifs et impose la formation des professionnels en lutte anti-blanchiment et anti-terrorisme."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -616,7 +616,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret modifie les procédures de signalement des lanceurs d'alerte concernant les marchés financiers et la prévention du blanchiment de capitaux, relevant de la conformité financière."
+      "ai_summary": "Ce décret modifie les procédures de traitement des signalements des lanceurs d'alerte concernant les marchés financiers et la lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "2998804b861efb25",
@@ -832,7 +832,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des réformes réglementaires grecques en matière de sanctions, anti-corruption, lutte contre le blanchiment et gestion des risques."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des réformes grecques en matière de sanctions, anti-corruption, lutte contre le blanchiment et gouvernance d'entreprise."
     },
     {
       "hash": "4a43762375802e12",
@@ -1624,7 +1624,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il décrit une fraude massive impliquant une plateforme d'actifs numériques et le détournement de fonds clients."
+      "ai_summary": "Cet article concerne la conformité financière car il expose un cas de fraude massive impliquant le détournement de fonds clients et l'absence de contrôles de conformité adéquats."
     },
     {
       "hash": "30d4ed3b82c97d03",
@@ -1679,6 +1679,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cette règle proposée par FinCEN réforme la conformité AML/CFT des institutions financières face au blanchiment d'argent."
+    },
+    {
+      "hash": "ce3b6025c2971cca",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04Wm1jVGp6U0tqbmZpRFUzMVp5YzNTWnN1WmZhUVNXVDRjLXlVX2ZVT29CbGQyWnlDcEl0QUh0OXJMaVV3aERPdEx2cmtsZ0R1YmZBcmFDd2hHWkk1eGdoMUFBUTB3dw?oc=5",
+      "author": "",
+      "published": "2026-04-24T13:08:00",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
+      "score": 60,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "b94847c0a6ebbc14",
@@ -2307,7 +2325,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des priorités de régulation des autorités européennes incluant la finance durable et la résilience cyber."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des priorités de régulation des autorités de surveillance financière européennes en 2025."
     },
     {
       "hash": "21dba6fffc143344",
@@ -2418,24 +2436,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il mentionne AXA France IARD supervisée par l'ACPR pour ses obligations réglementaires."
     },
     {
-      "hash": "d7c1ad76ffe6203a",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "View PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FTm9jV2xLcTZNYWtGUHJMNldLNWgxSWtXLVg2THd3WC1Zd1luNENQNGxsY0JtdmEwMm5jWjRaR25VQ2pQcW9aOTRpSVBMQUZieDgzZVp1V3F5S3FueUhQMGlSbllkUQ?oc=5",
-      "author": "",
-      "published": "2026-04-19T19:21:51",
-      "summary": "View PDF&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "f0132251b3e088b2",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -2541,7 +2541,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions secondaires américaines contre l'Iran et les risques de non-conformité pour les institutions financières."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions secondaires imposées par les États-Unis sur les transactions liées au pétrole iranien."
     },
     {
       "hash": "44e241321079a3db",
@@ -2667,7 +2667,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des exigences de diversité dans les organes de direction des institutions financières, obligation de conformité réglementaire de l'EBA."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des exigences de gouvernance et de diversité que les autorités de régulation imposent aux institutions financières."
     },
     {
       "hash": "53fb15a63f6b46b8",
@@ -2810,7 +2810,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des contrôles sur le dispositif de lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article concerne le contrôle du dispositif de lutte contre le blanchiment de capitaux et le financement du terrorisme chez les prestataires de transmission de fonds."
     },
     {
       "hash": "c4d639d201aa",
@@ -2862,7 +2862,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "c90828c08f649803",
@@ -4565,7 +4565,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "668852348f684faa",
@@ -5055,23 +5055,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de fraude aux allocations COVID-19 et du blanchiment d'argent."
-    },
-    {
-      "hash": "eb61163ae8a4",
-      "source_name": "US Treasury - Sanctions Press",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Treasury Sanctions Exploit Broker Network for Theft and Sale of U.S. Government Cyber Tools",
-      "url": "https://home.treasury.gov/news/press-releases/sb0404",
-      "author": "",
-      "published": "2026-03-28",
-      "summary": "Treasury sanctions network involved in theft and sale of US government cyber tools",
-      "score": 30,
-      "doc_type": "press_release",
-      "action_class": "enforcement",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le Trésor américain sanctionne un réseau ayant volé et revendu des outils informatiques gouvernementaux, violation de conformité."
     },
     {
       "hash": "3416433e49198413",
@@ -5674,24 +5657,6 @@
       "ai_summary": "Le Wolfsberg Group élit une nouvelle co-présidente spécialisée en prévention de la criminalité financière, organisme clé de conformité bancaire."
     },
     {
-      "hash": "7766697a8ad2559c",
-      "source_name": "FCA - News & Enforcement",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Investment trust votes, conflicts of interest, and our role",
-      "url": "https://www.fca.org.uk/news/blogs/investment-trust-votes-conflicts-interest-and-our-role",
-      "author": "FCA",
-      "published": "2026-03-27T18:43:58.246345+00:00",
-      "summary": "On 3 March 2026, we said we’d bring forward our planned review of the UK Listing Rules for Investment entities, including how they apply to board independence and related party provisions.Since then, there has been substantial debate over our role in relation to investment trusts, including calls for us to ‘get to grips’ with voting rules ‘that allow a minority shareholder to repeatedly attack an investment trust’.Much of this debate suggests there are misunderstandings about how investment trus",
-      "score": 25,
-      "score_breakdown": "+10 mots forts: eba | +5 Source Intl | +10 Géo EU: eba | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La FCA expose son rôle réglementaire concernant les conflits d'intérêt et l'indépendance des conseils d'administration des fonds de placement."
-    },
-    {
       "hash": "ad777215c807be1c",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -5707,7 +5672,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d2229d7f39937b1c",
@@ -5725,7 +5690,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f1602f3c91113dcd",
@@ -6121,7 +6086,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3b313f3ccca1330a",
@@ -6387,7 +6352,7 @@
       },
       "doc_type": "RAPPORT",
       "action_class": "info",
-      "ai_summary": "Cet article concerne la conformité financière car il traite de DORA, de résilience cyber et de finance durable, piliers de la conformité réglementaire.",
+      "ai_summary": "Cet article concerne la conformité financière car il aborde la résilience cyber, la finance durable et DORA, régulations clés pour la conformité des autorités financières.",
       "status": "new",
       "early_brief": false
     },
@@ -6407,7 +6372,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "cebb91bc44ba632c",
@@ -6425,7 +6390,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2cb8eedef8c5",
@@ -7531,7 +7496,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "40469a15fb8f6b7e",
@@ -8020,6 +7985,6 @@
       "ai_summary": "Un consultant pétrolier américain reconnaît sa culpabilité dans une affaire de corruption envers Pemex, illustrant la conformité anti-corruption."
     }
   ],
-  "last_update": "2026-04-26T19:26:05.099663+00:00",
+  "last_update": "2026-04-27T01:52:34.123330+00:00",
   "last_updated": "2026-04-26T06:14:48Z"
 }
