@@ -2130,6 +2130,24 @@
       "ai_summary": "L'AMF et l'ACPR alertent sur des acteurs non autorisés proposant du Forex et crypto-dérivés, violation de la réglementation financière."
     },
     {
+      "hash": "b0cc56f40a83ecb4",
+      "source_name": "EBA - Email Alert",
+      "source_type": "email",
+      "category": "email",
+      "title": "The European Banking Authority (EBA) published today the 2026 update of the list of closely correlated currencies, which is used for the calculation of capital requirements for foreign exchange risk u",
+      "url": "",
+      "author": "no-reply@eba.europa.eu",
+      "published": "2026-04-28T17:16:25+00:00",
+      "summary": "The European Banking Authority (EBA) published today the 2026 update of the list of closely correlated currencies, which is used for the calculation of capital requirements for foreign exchange risk under the standardised approach. The update has been carried out in line with the methodology and procedure set out in the applicable Implementing Technical Standards (ITS). The revised list has been submitted to the European Commission for endorsement.",
+      "score": 57,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: risk, bank | +8 Email | +10 Géo EU: european commission, eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "45935f78726018ea",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -3366,6 +3384,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité en matière de protection des données personnelles et de RGPD, pas la conformité financière."
+    },
+    {
+      "hash": "1ce588995ec09123",
+      "source_name": "ESMA - Email Notification",
+      "source_type": "email",
+      "category": "email",
+      "title": "ESMA: Klaus Löber's Keynote Speech at the IDClear International Conference on Financial Market Infrastructure 2026, 28 April 2026",
+      "url": "https://www.esma.europa.eu/document/klaus-lobers-keynote-speech-idclear-international-conference-financial-market",
+      "author": "noreply@esma.europa.eu",
+      "published": "2026-04-28T16:04:32+00:00",
+      "summary": "ESMA notification: Klaus Löber's Keynote Speech at the IDClear International Conference on Financial Market Infrastructure 2026, 28 April 2026",
+      "score": 42,
+      "score_breakdown": "+10 mots forts: esma | +8 Email | +10 Géo EU: esma | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "758948412cbbc52d",
@@ -8589,6 +8625,6 @@
       "ai_summary": "Un consultant pétrolier américain reconnaît sa culpabilité dans une affaire de corruption envers Pemex, illustrant la conformité anti-corruption."
     }
   ],
-  "last_update": "2026-04-29T04:07:55.709969+00:00",
+  "last_update": "2026-04-29T06:07:50.092381+00:00",
   "last_updated": "2026-04-28T12:26:02.749564+00:00"
 }
