@@ -616,7 +616,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret transpose une directive européenne modifiant les règles de surveillance bancaire, sanctions et risques ESG, relevant directement de la conformité financière réglementaire."
+      "ai_summary": "Ce décret transpose une directive européenne modifiant le cadre de surveillance bancaire et les obligations en matière de risques ESG, relevant directement de la conformité financière."
     },
     {
       "hash": "4ba3ac6348b6cd64",
@@ -634,7 +634,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il impose aux professionnels assujettis une obligation de formation et un accès au registre des bénéficiaires effectifs pour lutter contre le blanchiment de capitaux."
+      "ai_summary": "Ce décret concerne la lutte contre le blanchiment de capitaux et le financement du terrorisme, notamment l'accès aux registres de bénéficiaires effectifs et la formation obligatoire des professionnels assujettis."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -652,7 +652,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret modifie les procédures de signalement des lanceurs d'alerte, notamment pour les services financiers, la prévention du blanchiment de capitaux et du financement du terrorisme."
+      "ai_summary": "Ce décret modifie les procédures de signalement des lanceurs d'alerte concernant les marchés financiers, le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "2998804b861efb25",
@@ -778,7 +778,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté définit les modalités techniques du fichier centralisé des comptes de paiement et dépôt géré par la Banque de France, relevant de la conformité réglementaire financière."
+      "ai_summary": "Cet arrêté définit les modalités techniques du fichier centralisé des comptes de paiement et de dépôt géré par la Banque de France."
     },
     {
       "hash": "f48deadc457d688b",
@@ -1228,7 +1228,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article définit le règlement intérieur de l'AMF régissant son organisation, fonctionnement et déontologie, relevant directement de la conformité financière."
+      "ai_summary": "Le règlement intérieur de l'AMF établit les règles d'organisation, de fonctionnement et de déontologie encadrant la conformité financière et la régulation des marchés."
     },
     {
       "hash": "0b46976789aff886",
@@ -1246,7 +1246,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "913696fc15056947",
@@ -1408,7 +1408,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal du terrorisme par une entreprise, violation majeure des règles de conformité et de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement du terrorisme, violation majeure des obligations de conformité et de lutte anti-blanchiment."
     },
     {
       "hash": "841b0409997c23a0",
@@ -2256,24 +2256,6 @@
       "ai_summary": "L'article concerne la simplification des normes de reporting prudentiel bancaire imposées par les autorités de supervision financière européennes."
     },
     {
-      "hash": "b02e26f2a16c",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Human rights in Iran: Council extends sanctions regime until April 2027",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/03/30/human-rights-in-iran-council-extends-sanctions-regime-until-april-2027/",
-      "author": "",
-      "published": "2026-03-30",
-      "summary": "Le Conseil de l'UE prolonge le régime de sanctions lié aux droits de l'homme en Iran jusqu'en avril 2027.",
-      "score": 54,
-      "doc_type": "decision",
-      "action_class": "sanction",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le régime de sanctions de l'UE contre l'Iran implique des obligations de conformité financière et de gel d'actifs.",
-      "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | +10 Géo EU: conseil de l'ue | ×1.2 (<3d)"
-    },
-    {
       "hash": "cb40952fb1fdfbf3",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -2326,6 +2308,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article analyse les défaillances de conformité AML des stablecoins et l'impact des contrôles insuffisants sur le risque de blanchiment."
+    },
+    {
+      "hash": "9d1777041489b2d1",
+      "source_name": "JORF - Sanctions",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 16 avril 2026 relatif aux modalités de délivrance des agréments et portant cahier des charges pour l'organisation des épreuves théoriques du permis de conduire",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053974673",
+      "author": "Ministère de l'intérieur",
+      "published": "2026-04-29T00:00:00",
+      "summary": "AnnexeArticle ANNEXE XIATTESTATION DE SUIVI DE FORMATION D'EXAMINATEUR DE L'ÉPREUVE THÉORIQUE DU PERMIS DE CONDUIREJe soussigné(e),[Nom, prénom],agissant en qualité de [fonction] au sein de [nom de l'organisme agréé], titulaire de l'agrément n° [numéro d'agrément], délivré le [date] pour organiser l'épreuve théorique du permis de conduire,Atteste que :[Nom, prénom de l'examinateur],né(e) le [date de naissance] à [lieu de naissance],a suivi la formation d'examinateur de l'épreuve théorique du per",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: agrément | +25 Source FR | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "249c3ab85eddddfd",
@@ -2415,7 +2415,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la mise à jour des exigences de capital pour le risque de change selon les normes prudentielles bancaires."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des exigences de capital pour le risque de change, élément clé de la réglementation prudentielle bancaire."
     },
     {
       "hash": "9dcb42df67fe4bc9",
@@ -2541,17 +2541,17 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il alerte sur des risques de fraude et d'usurpation d'identité visant les institutions de régulation financière."
+      "ai_summary": "Cet article concerne la lutte contre la fraude et l'usurpation d'identité, risques majeurs de conformité financière et de prévention des abus."
     },
     {
-      "hash": "580e237bb8656aa5",
+      "hash": "dcd496b50b7223b9",
       "source_name": "ACPR",
       "source_type": "rss",
       "category": "autorite_fr",
       "title": "View PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrWEdPZE1saEMwY2YyUVVKTE9GMkJIMTJmQnBDYlJEM0p6NWZqQk5wZWtqNWM2aWZabEZtN3pHVHpUX296SXZ0Z2tqUDJHTGhHWlZrQUVYVHl6ZzJuZi1MM1lYbzd0Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hTWk1WmFlWFRKT2Zwc0d4LXdhTVcwS2drTUNWTmRrTF9YTHpDdHNSbUpOYjdlaVJGNkJqeGhIVXBycHB4S09wZ1JTcU9pYVZrN1NxeFZ0TkozVHhJd09sa1VQSFNjQQ?oc=5",
       "author": "",
-      "published": "2026-04-23T23:04:40",
+      "published": "2026-04-24T11:18:35",
       "summary": "View PDF&nbsp;&nbsp;Banque de France",
       "score": 50,
       "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
@@ -2559,7 +2559,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5c62bc04081a4abf",
@@ -2667,7 +2667,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La France sanctionne MoneyGram pour manquements à ses obligations de lutte anti-blanchiment de capitaux."
     },
     {
       "hash": "f43cd9ec4b7bd472",
@@ -2829,7 +2829,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des exigences de diversité dans les organes de direction des établissements financiers de l'UE."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des exigences réglementaires de diversité dans les organes de direction des établissements de crédit."
     },
     {
       "hash": "53fb15a63f6b46b8",
@@ -2937,7 +2937,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de la conformité AML/CFT aux États-Unis et des réformes proposées par FinCEN pour renforcer les programmes de conformité financière."
     },
     {
       "hash": "bbccd8729ac267df",
@@ -3383,25 +3383,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Lafarge et ses dirigeants contestent leur condamnation pour versements à des groupes terroristes, violation majeure des règles de conformité financière et de sanctions internationales."
-    },
-    {
-      "hash": "0b5dd64c0375f2ab",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Du grain volé en Ukraine par la Russie et livré en Israël: Zelensky accuse les autorités israéliennes d'accepter dans ses ports des navires chargés de céréales volées",
-      "url": "https://www.bfmtv.com/economie/international/du-grain-vole-en-ukraine-par-la-russie-et-livre-en-israel-zelensky-accuse-les-autorites-israeliennes-d-accepter-dans-ses-ports-des-navires-charges-de-cereales-volees_AN-202604280447.html",
-      "author": "",
-      "published": "2026-04-28T10:01:34",
-      "summary": "Le président ukrainien Volodymyr Zelensky accuse la Russie d’organiser l’exportation de grain ukrainien volé, dénonce l’arrivée d’un navire en Israël, appelle à des sanctions et met en garde contre une atteinte aux relations bilatérales.",
-      "score": 42,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Lafarge et ses dirigeants font appel de leur condamnation pour financement du terrorisme, violation majeure de conformité financière et de lutte anti-blanchiment."
     },
     {
       "hash": "fe2ad140799025ce",
@@ -3653,7 +3635,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "91004de9a09ebf5d",
@@ -3705,7 +3687,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur l'évaluation du respect des normes anti-blanchiment et de lutte contre le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il évalue la conformité de la Serbie aux normes anti-blanchiment et anti-financement du terrorisme du FATF."
     },
     {
       "hash": "41edb5a3bb03306a",
@@ -3940,42 +3922,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La nomination du président de l'Autorité bancaire européenne relève de la conformité financière car l'EBA supervise la régulation bancaire en Europe."
-    },
-    {
-      "hash": "ddc7e957c8f12670",
-      "source_name": "JORF - Sanctions",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décision n° 2026-166 du 22 avril 2026 autorisant l'association Léonard de Vinci Média à utiliser une ressource radioélectrique pour l'édition d'un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre, à temps complet et en définition standard dans la zone de Monistrol-sur-Loire",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053970099",
-      "author": "Autorité de régulation de la communication audiovisuelle et numérique",
-      "published": "2026-04-28T00:00:00",
-      "summary": "Article 1L'association Léonard de Vinci Média est autorisée à utiliser les ressources radioélectriques définies en annexe 1 pour l'édition d'un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre, à temps complet et en définition standard dans la zone de Monistrol-sur-Loire.Le service est diffusé en définition standard au sens de l'arrêté du 24 décembre 2001 visé ci-dessus.Article 2La durée de l'autorisation est de dix ans à compter du 2 mai 2026.Article 3Le ti",
-      "score": 37,
-      "score_breakdown": "+25 Source FR | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "781c275c8826a368",
-      "source_name": "JORF - Sanctions",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décision n° 2026-167 du 22 avril 2026 autorisant la société N7 TV à utiliser une ressource radioélectrique pour l'édition d'un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre, à temps complet et en haute définition dans la zone de Nantes",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053970189",
-      "author": "Autorité de régulation de la communication audiovisuelle et numérique",
-      "published": "2026-04-28T00:00:00",
-      "summary": "Article 1La société N7 TV est autorisée à utiliser les ressources radioélectriques du réseau R1 de la télévision numérique terrestre énumérées dans la décision du 18 février 2026 visée ci-dessus pour l'édition d'un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre, à temps complet et en haute définition dans la zone de Nantes.Le service est diffusé en haute définition au sens de l'arrêté du 24 décembre 2001 visé ci-dessus.Article 2La durée de l'autorisation e",
-      "score": 37,
-      "score_breakdown": "+25 Source FR | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "75a46f280d0ae4e2",
@@ -4421,7 +4367,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4a74ab47c491",
@@ -4801,24 +4747,6 @@
       "ai_summary": "Cet article concerne la lutte contre la fraude cybernétique et le gel d'actifs illicites, relevant de la conformité financière."
     },
     {
-      "hash": "b49af88f2a494417",
-      "source_name": "FinCEN",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "FinCEN Issues Advisory on Health Care Fraud Schemes Targeting Medicare, Medicaid, and Other Federal and State Health Care Benefit Programs",
-      "url": "https://www.fincen.gov/news/news-releases/fincen-issues-advisory-health-care-fraud-schemes-targeting-medicare-medicaid-and",
-      "author": "",
-      "published": "2026-03-30T00:00:00",
-      "summary": "",
-      "score": 33,
-      "score_breakdown": "+20 mots critiques: fraud | +5 Source Intl | +3 Géo Intl: fincen | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "FinCEN alerte sur les fraudes santé aux programmes Medicare/Medicaid, relevant du blanchiment de capitaux et de la conformité financière."
-    },
-    {
       "hash": "5eb306af2e80be75",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -4994,7 +4922,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3bb8d76f8905dd85",
@@ -5012,7 +4940,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "668852348f684faa",
@@ -5049,6 +4977,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des risques de blanchiment via des transactions fictives détectées par l'OFAC."
+    },
+    {
+      "hash": "781c275c8826a368",
+      "source_name": "JORF - Sanctions",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décision n° 2026-167 du 22 avril 2026 autorisant la société N7 TV à utiliser une ressource radioélectrique pour l'édition d'un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre, à temps complet et en haute définition dans la zone de Nantes",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053970189",
+      "author": "Autorité de régulation de la communication audiovisuelle et numérique",
+      "published": "2026-04-28T00:00:00",
+      "summary": "Article 1La société N7 TV est autorisée à utiliser les ressources radioélectriques du réseau R1 de la télévision numérique terrestre énumérées dans la décision du 18 février 2026 visée ci-dessus pour l'édition d'un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre, à temps complet et en haute définition dans la zone de Nantes.Le service est diffusé en haute définition au sens de l'arrêté du 24 décembre 2001 visé ci-dessus.Article 2La durée de l'autorisation e",
+      "score": 30,
+      "score_breakdown": "+25 Source FR | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "ddc7e957c8f12670",
+      "source_name": "JORF - Sanctions",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décision n° 2026-166 du 22 avril 2026 autorisant l'association Léonard de Vinci Média à utiliser une ressource radioélectrique pour l'édition d'un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre, à temps complet et en définition standard dans la zone de Monistrol-sur-Loire",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053970099",
+      "author": "Autorité de régulation de la communication audiovisuelle et numérique",
+      "published": "2026-04-28T00:00:00",
+      "summary": "Article 1L'association Léonard de Vinci Média est autorisée à utiliser les ressources radioélectriques définies en annexe 1 pour l'édition d'un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre, à temps complet et en définition standard dans la zone de Monistrol-sur-Loire.Le service est diffusé en définition standard au sens de l'arrêté du 24 décembre 2001 visé ci-dessus.Article 2La durée de l'autorisation est de dix ans à compter du 2 mai 2026.Article 3Le ti",
+      "score": 30,
+      "score_breakdown": "+25 Source FR | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "1bd040e347fd9092",
@@ -5752,7 +5716,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La Banque mondiale recrute un expert en conformité pour diriger son unité anticorruption."
     },
     {
       "hash": "5c0b3302160bbf33",
@@ -6003,7 +5967,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car le reporting LCB-FT relève de la lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du reporting LCB-FT, obligation légale de lutte contre le blanchiment de capitaux."
     },
     {
       "hash": "35675412f6ca",
@@ -6300,24 +6264,6 @@
       "ai_summary": "Cet article concerne l'approbation d'une aide financière réglementée sous le régime SAFE, relevant de la conformité financière."
     },
     {
-      "hash": "c6c78e91228f",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Council greenlights common EU rules for insolvency proceedings 10:34 The new EU law streamlines insolvency proceedings, making it easier for investors to assess investment opportunities when considering insolvency rules. Council of the EU",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/03/30/council-greenlights-common-eu-rules-for-insolvency-proceedings/",
-      "author": "",
-      "published": "2026-03-30T00:00:00Z",
-      "summary": "Council greenlights common EU rules for insolvency proceedings 10:34 The new EU law streamlines insolvency proceedings, making it easier for investors to assess investment opportunities when considering insolvency rules. Council of the EU",
-      "score": 22,
-      "score_breakdown": null,
-      "doc_type": "guidance",
-      "action_class": "new_regulation",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les règles harmonisées d'insolvabilité renforcent la conformité réglementaire et facilitent l'évaluation des risques financiers."
-    },
-    {
       "hash": "6f6b3045033a0694",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -6427,7 +6373,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des pénalités fiscales pour manquement délibéré, relevant de la conformité réglementaire en matière fiscale."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des pénalités et majorations fiscales pour manquement délibéré ou mauvaise foi en matière de contributions et taxes."
     },
     {
       "hash": "47cf6211574a0606",
@@ -6548,7 +6494,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d2229d7f39937b1c",
@@ -6566,7 +6512,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "34fa35e2633ba175",
@@ -6692,7 +6638,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3b313f3ccca1330a",
@@ -6729,42 +6675,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La supervision intégrée des acteurs des marchés de capitaux renforce la conformité réglementaire et la détection des risques transfrontaliers."
-    },
-    {
-      "hash": "c993d0be9dc2",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Bosnia and Herzegovina: Council extends framework for restrictive measures until March 2027 14:43 The Council extended the framework for restrictive measures in view of the situation in Bosnia and Herzegovina for another year, until 31 March 2027. Council of the EU",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/03/30/bosnia-and-herzegovina-council-extends-framework-for-restrictive-measures-until-march-2027/",
-      "author": "",
-      "published": "2026-03-30T00:00:00Z",
-      "summary": "Bosnia and Herzegovina: Council extends framework for restrictive measures until March 2027 14:43 The Council extended the framework for restrictive measures in view of the situation in Bosnia and Herzegovina for another year, until 31 March 2027. Council of the EU",
-      "score": 17,
-      "score_breakdown": null,
-      "doc_type": "news",
-      "action_class": "amendment",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les mesures restrictives de l'UE contre la Bosnie-Herzégovine relèvent de la conformité financière et sanctions internationales."
-    },
-    {
-      "hash": "e013672a4067",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Council appoints François-Louis Michaud chair of the European Banking Authority 10:32 The Council appointed François-Louis Michaud as chairperson of the European banking authority (EBA). Mr Michaud will take up the role on 16 April 2026. His term of office will run for a five-year period and may be extended once. Council of the EU",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/03/30/council-appoints-francois-louis-michaud-chair-of-the-european-banking-authority/",
-      "author": "",
-      "published": "2026-03-30T00:00:00Z",
-      "summary": "Council appoints François-Louis Michaud chair of the European Banking Authority 10:32 The Council appointed François-Louis Michaud as chairperson of the European banking authority (EBA). Mr Michaud will take up the role on 16 April 2026. His term of office will run for a five-year period and may be extended once. Council of the EU",
-      "score": 17,
-      "score_breakdown": null,
-      "doc_type": "news",
-      "action_class": "amendment",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La nomination du président de l'Autorité bancaire européenne concerne la conformité financière car l'EBA définit les normes de régulation bancaire."
     },
     {
       "hash": "b753476f53c69187",
@@ -7155,7 +7065,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions OFAC relatives à l'Iran et des obligations de conformité que les entités doivent respecter."
     },
     {
       "hash": "c21c8c0ba8efbd74",
@@ -7173,7 +7083,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "56298afdb8d65830",
@@ -7316,23 +7226,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article traite de mesures de conformité pour prévenir les abus et fraudes dans les programmes de financement du développement communautaire."
-    },
-    {
-      "hash": "c07fede57fc8",
-      "source_name": "Egmont Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Egmont Group Funding",
-      "url": "https://egmontgroup.org/about/funding/",
-      "author": "",
-      "published": "2026-04-28T12:26:02.748515+00:00",
-      "summary": "Egmont Group Funding",
-      "score": 10,
-      "doc_type": "PUBLICATION",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c31229260ceb",
@@ -7958,23 +7851,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du retrait de sanctions OFAC contre la Russie et le narcotrafic."
     },
     {
-      "hash": "bf035410b964",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Issuance of Amended Russia-related General License; Publication of Amended Russia-related Frequently Asked Questions",
-      "url": "https://ofac.treasury.gov/recent-actions/20260330",
-      "author": "",
-      "published": "2026-03-30",
-      "summary": "Issuance of Amended Russia-related General License; Publication of Amended Russia-related Frequently Asked Questions",
-      "score": 10,
-      "doc_type": "enforcement",
-      "action_class": "new",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les licences générales modifiées relatives aux sanctions contre la Russie."
-    },
-    {
       "hash": "3c9da1e38ae1e5df",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -7993,24 +7869,6 @@
       "ai_summary": "L'article concerne la gestion prudentielle des tampons de capital bancaires et leur utilisation sous les cadres réglementaires et de résolution."
     },
     {
-      "hash": "f43c648b7cdf148b",
-      "source_name": "FinCEN",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "FinCEN Proposes Rule to Pay Whistleblowers",
-      "url": "https://www.fincen.gov/news/news-releases/fincen-proposes-rule-pay-whistleblowers",
-      "author": "",
-      "published": "2026-03-30T00:00:00",
-      "summary": "",
-      "score": 9,
-      "score_breakdown": "+5 Source Intl | +3 Géo Intl: fincen | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "FinCEN propose de rémunérer les lanceurs d'alerte pour signaler les violations de conformité financière."
-    },
-    {
       "hash": "a0df63a23903c08d",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -8026,7 +7884,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la fermeture d'enquêtes FCPA (loi anti-corruption) par la SEC."
     },
     {
       "hash": "851c270b8bfda560",
@@ -8206,7 +8064,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "40469a15fb8f6b7e",
@@ -8602,7 +8460,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de violations de règles anti-corruption affectant une entreprise internationale."
     },
     {
       "hash": "60e3448bd3d351d9",
@@ -8731,6 +8589,6 @@
       "ai_summary": "Un consultant pétrolier américain reconnaît sa culpabilité dans une affaire de corruption envers Pemex, illustrant la conformité anti-corruption."
     }
   ],
-  "last_update": "2026-04-28T20:00:01.855069+00:00",
+  "last_update": "2026-04-29T02:02:42.891277+00:00",
   "last_updated": "2026-04-28T12:26:02.749564+00:00"
 }
