@@ -616,7 +616,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret transpose une directive européenne modifiant le cadre de surveillance bancaire et les exigences prudentielles, concernant directement la conformité financière."
+      "ai_summary": "Ce décret transpose une directive UE modifiant les règles de surveillance bancaire, sanctions et risques ESG, directement pertinent pour la conformité financière et réglementaire."
     },
     {
       "hash": "4ba3ac6348b6cd64",
@@ -634,7 +634,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il encadre l'accès au registre des bénéficiaires effectifs et impose une formation aux professionnels soumis à la lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article impose aux professionnels assujettis de former leurs équipes sur la lutte contre le blanchiment de capitaux et le financement du terrorisme, renforçant ainsi la conformité AML/CFT."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -1285,6 +1285,42 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction pénale pour obstruction d'enquête de l'autorité de régulation des marchés."
     },
     {
+      "hash": "a2680bd0d1440c89",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 29 April, 2026",
+      "url": "https://www.eba.europa.eu/node/19610",
+      "author": "Anonymous",
+      "published": "2026-04-29T15:00:03",
+      "summary": "EBA E-mail alert 29 April, 2026\n\n  \n    Date\n          29/04/2026\n\n      \n\nAnonymous (not verified)\n\nWed, 04/29/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          The EBA streamlines its Guidelines on connected clients to align with new EU legislation\n          The EBA publishes its final Guidelines on supervisory independence\n      ",
+      "score": 75,
+      "score_breakdown": "+20 mots forts: aml, eba | +5 mots moyens: supervisory | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "L'EBA met à jour ses directives sur les clients connectés pour se conformer à la nouvelle législation UE."
+    },
+    {
+      "hash": "06d507b80da9b23e",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "The EBA publishes its final Guidelines on supervisory independence",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-final-guidelines-supervisory-independence",
+      "author": "jana.jaklic@eba.europa.eu",
+      "published": "2026-04-29T13:20:30",
+      "summary": "The European Banking Authority (EBA) today published its final Guidelines on Supervisory Independence under the Capital Requirements Directive (CRD). The Guidelines further clarify the arrangements that competent authorities should have in place to prevent and manage conflicts of interest involving both their staff and the members of their governance bodies. These arrangements include declarations of interest, limitations on trading of financial instruments and cooling-oof restrictions.",
+      "score": 75,
+      "score_breakdown": "+10 mots forts: eba | +15 mots moyens: directive, supervisory, bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": "GUIDELINES",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "5166008aeaa443b2",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -1300,7 +1336,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des directives de l'EBA sur les clients liés, essentielles pour la gestion des risques de crédit et la conformité réglementaire bancaire."
     },
     {
       "hash": "54a5c3911d713dfb",
@@ -1426,7 +1462,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes par une entreprise, violation majeure des règles de conformité et de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement du terrorisme, violation majeure des règles de lutte anti-blanchiment et de conformité réglementaire."
     },
     {
       "hash": "841b0409997c23a0",
@@ -1699,24 +1735,6 @@
       "ai_summary": "L'article concerne la conformité financière car il traite de poursuites pénales contre l'abus de marché et les réseaux d'initiés."
     },
     {
-      "hash": "99baf99865406ffb",
-      "source_name": "EBA - European Banking Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "EBA E-mail alert 30 March, 2026",
-      "url": "https://www.eba.europa.eu/node/19492",
-      "author": "Anonymous",
-      "published": "2026-03-30T15:00:03",
-      "summary": "EBA E-mail alert 30 March, 2026\n\n  \n    Date\n          30/03/2026\n\n      \n\nAnonymous (not verified)\n\nMon, 03/30/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          ​The EBA streamlines supervisory approvals for IRB model changes \n          François-Louis Michaud to take up his role as Chair of the European Banking Authority \n      ",
-      "score": 66,
-      "score_breakdown": "+20 mots forts: aml, eba | +10 mots moyens: supervisory, bank | +15 Source EU | +10 Géo EU: eba | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'EBA facilite les approbations de changements de modèles IRB, concernant la conformité réglementaire bancaire et les normes de risque."
-    },
-    {
       "hash": "d9c5ceb22e9d4f7c",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -1822,7 +1840,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de l'efficacité des programmes de conformité dans la santé, révélant que les défaillances systémiques dépassent les contrôles ponctuels."
     },
     {
       "hash": "59007199e4d75928",
@@ -1858,7 +1876,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b94847c0a6ebbc14",
@@ -2094,6 +2112,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il porte sur les exigences de reporting bancaire supervisées par l'EBA et la BCE."
     },
     {
+      "hash": "7a0309558a30eafc",
+      "source_name": "EBA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📢 #EBA streamlines its Guidelines on connected clients Following the application of Commission Delegated Regulation (EU) 2024/1728, the EBA has removed outdated sections of its #Guidelines to ensure clarity, consistency and alignment with EU law. 👉",
+      "url": "https://x.com/EBA_News/status/2049513011723768158",
+      "author": "@EBA_News",
+      "published": "2026-04-29T15:35:00",
+      "summary": "📢  #EBA streamlines its Guidelines on connected clientsFollowing the application of Commission Delegated Regulation (EU) 2024/1728, the EBA has removed outdated sections of its  #Guidelines to ensure clarity, consistency and alignment with EU law.👉  link.europa.eu/JGgMVb  — EU Banking Authority - EBA 🇪🇺 (@EBA_News) Apr 29, 2026",
+      "score": 60,
+      "score_breakdown": "+20 mots forts: aml, eba | +10 mots moyens: regulation, bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": "GUIDELINES",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "c2af327b18f689f0",
       "source_name": "EBA (X)",
       "source_type": "rss",
@@ -2256,24 +2292,6 @@
       "ai_summary": "Cet article concerne la conformité aux directives MiCA relatives aux transferts d'actifs cryptographiques."
     },
     {
-      "hash": "d2b1af64e5ad1808",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Compliance officer withdraws Ghana International Bank whistleblowing claim",
-      "url": "https://globalinvestigationsreview.com/article/compliance-officer-withdraws-ghana-international-bank-whistleblowing-claim",
-      "author": "Grace Propheta",
-      "published": "2026-03-30T13:53:29",
-      "summary": "A senior compliance officer who alleged that the London-headquartered trade finance bank fired him for raising anti-money laundering and due diligence concerns has withdrawn his claim against his former employer.",
-      "score": 57,
-      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: due diligence, compliance, anti-money | +5 mots moyens: bank | +3 Presse | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du retrait d'une plainte de lanceur d'alerte concernant des violations AML/KYC."
-    },
-    {
       "hash": "d300a51719e0ff91",
       "source_name": "CNIL",
       "source_type": "rss",
@@ -2379,7 +2397,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "249c3ab85eddddfd",
@@ -2452,6 +2470,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article concerne la conformité financière car l'EBA contrôle le respect des règles de rémunération des hauts dirigeants bancaires en Europe."
+    },
+    {
+      "hash": "f1f59d450d9bd1b3",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📊 New EBA Staff Paper - Systematic backtesting of probability of default models with regulatory data How reliable are banks’ inter...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7455247555061391360",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-04-29T13:32:09",
+      "summary": "📊 New EBA Staff Paper - Systematic backtesting of probability of default models with regulatory data\n\nHow reliable are banks’ internal credit risk models in practice?\n\nIn a new EBA Staff Paper, our researchers introduce a systematic, data‑driven framework to assess the performance of probability of default (PD) models, using proprietary EU regulatory data covering 2017–2024.\n\n🔍 What’s new\n- A scalable backtesting framework based on supervisory data\n- A generalised correction to the binomial test",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: eba | +15 mots moyens: risk, supervisory, bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "fc104e9106205969",
@@ -2832,24 +2868,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il décrit comment la Hongrie a coordonné le délisting de sociétés et banques sanctionnées."
     },
     {
-      "hash": "9bc385d99a6dcfed",
-      "source_name": "EBA - News",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "EBA Report shows persistent gender imbalance and pay gaps in EU banking leadership",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-report-shows-persistent-gender-imbalance-and-pay-gaps-eu-banking-leadership",
-      "author": "jana.jaklic@eba.europa.eu",
-      "published": "2026-04-23T09:00:00",
-      "summary": "The European Banking Authority (EBA) publishes today the results of its benchmarking analysis&nbsp;on diversity practices in the management bodies of more than 850 institutions credit institutions and investment firms across the European Union (EU). As of 31 December 2024, significant gender imbalances and pay gaps persisted, particularly at senior management level, despite some progress compared with the situation in 2021. The EBA calls on institutions to consider promoting a more balanced repr",
-      "score": 48,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +15 Source EU | +10 Géo EU: european union, eba | ×1.2 (<3d)",
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "53fb15a63f6b46b8",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -3060,6 +3078,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre le financement illicite et de la mise en œuvre des normes du GAFI."
+    },
+    {
+      "hash": "a5d2f550594d8003",
+      "source_name": "EBA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📊New EBA Staff Paper: How well do banks’ credit risk models perform? Using EU regulatory data (2017–2024), we develop a scalable framework to backtest PD models and assess their capital impact. 👉",
+      "url": "https://x.com/EBA_News/status/2049483379775607153",
+      "author": "@EBA_News",
+      "published": "2026-04-29T13:38:00",
+      "summary": "📊New EBA Staff Paper: How well do banks’ credit risk models perform?Using EU regulatory data (2017–2024), we develop a scalable framework to backtest PD models and assess their capital impact.👉 link.europa.eu/Jj8td4— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Apr 29, 2026",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: risk, bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "0dc9d89c14ebd647",
@@ -3278,24 +3314,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des arnaques crypto et de la protection des investisseurs contre les fraudes."
     },
     {
-      "hash": "e8a2c2dd728e2108",
-      "source_name": "EBA - Email Alert",
-      "source_type": "email",
-      "category": "email",
-      "title": "The European Banking Authority (EBA) is making the supervisory approval process for internal ratings-based (IRB) model changes more efficient.",
-      "url": "",
-      "author": "no-reply@eba.europa.eu",
-      "published": "2026-03-30T17:46:44+00:00",
-      "summary": "The European Banking Authority (EBA) is making the supervisory approval process for internal ratings-based (IRB) model changes more efficient.\nFrançois-Louis Michaud to take up his role as Chair of the European Banking Authority",
-      "score": 45,
-      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: supervisory, bank | +8 Email | +10 Géo EU: eba | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des modèles IRB et de leur supervision réglementaire par les autorités bancaires."
-    },
-    {
       "hash": "622cb69a12171305",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -3365,7 +3383,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "758948412cbbc52d",
@@ -3383,7 +3401,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes, violation majeure des régulations anti-blanchiment et sanctions financières."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de violations graves : financement du terrorisme et non-respect des sanctions internationales."
     },
     {
       "hash": "fe2ad140799025ce",
@@ -3618,6 +3636,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité professionnelle des pharmaciens et les sanctions disciplinaires prononcées par l'ordre."
+    },
+    {
+      "hash": "9bc385d99a6dcfed",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA Report shows persistent gender imbalance and pay gaps in EU banking leadership",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-report-shows-persistent-gender-imbalance-and-pay-gaps-eu-banking-leadership",
+      "author": "jana.jaklic@eba.europa.eu",
+      "published": "2026-04-23T09:00:00",
+      "summary": "The European Banking Authority (EBA) publishes today the results of its benchmarking analysis&nbsp;on diversity practices in the management bodies of more than 850 institutions credit institutions and investment firms across the European Union (EU). As of 31 December 2024, significant gender imbalances and pay gaps persisted, particularly at senior management level, despite some progress compared with the situation in 2021. The EBA calls on institutions to consider promoting a more balanced repr",
+      "score": 40,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +15 Source EU | +10 Géo EU: european union, eba | ×1.0 (7d)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "91004de9a09ebf5d",
@@ -4032,24 +4068,6 @@
       "ai_summary": "Les normes de reporting bancaire standardisées relèvent de la conformité financière réglementaire."
     },
     {
-      "hash": "4658c974e05663d7",
-      "source_name": "Money Laundering News",
-      "source_type": "press",
-      "category": "presse",
-      "title": "FinCEN Targets MBaer with Most Severe Section 311 Measure",
-      "url": "https://www.moneylaunderingnews.com/2026/03/fincen-targets-mbaer-with-most-severe-section-311-measure/",
-      "author": "Terence M. Grugan",
-      "published": "2026-03-30T15:36:39",
-      "summary": "MBaer Merchant Bank AG (“MBaer”) was recently designated a “primary money laundering concern” by the U.S. Department of the Treasury’s Financing Crimes Enforcement Network (“FinCEN”) pursuant to Section 311 of the PATRIOT Act. &#160; The Consequences FinCen detailed its allegations against MBaer on February 26, 2026, in its Notice of Proposed Rulemaking (“NPRM”) where it...",
-      "score": 37,
-      "score_breakdown": "+20 mots critiques: money laundering | +5 mots moyens: bank | +3 Presse | +3 Géo Intl: fincen | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "FinCEN désigne MBaer comme principal foyer de blanchiment d'argent, activant la mesure la plus stricte de conformité anti-blanchiment."
-    },
-    {
       "hash": "fe3dd2127fef4217",
       "source_name": "PNF (Parquet National Financier)",
       "source_type": "rss",
@@ -4156,60 +4174,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les programmes de conformité FCPA ignorent les nuances régionales de la corruption dans le Golfe, risquant de manquer les signes de fraude."
-    },
-    {
-      "hash": "511fbfe489a3adfd",
-      "source_name": "EBA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🔔 The #EBA updates its #RTS on #IRB model changes ✅ Fewer material changes ✅ Faster, more risk‑based supervision ✅ Less burden, same strong oversight Aligned with #CRR3 and developed in cooperation with the #ECB 👉",
-      "url": "https://x.com/EBA_News/status/2038644145028317384",
-      "author": "@EBA_News",
-      "published": "2026-03-30T15:46:00",
-      "summary": "🔔 The  #EBA updates its  #RTS on  #IRB model changes✅ Fewer material changes✅ Faster, more risk‑based supervision✅ Less burden, same strong oversightAligned with  #CRR3 and developed in cooperation with the  #ECB👉  link.europa.eu/ykRxHF— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Mar 30, 2026",
-      "score": 36,
-      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: risk, bank | +10 Géo EU: eba | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'EBA met à jour ses règles sur les modèles IRB pour simplifier la supervision bancaire tout en maintenant l'oversight réglementaire."
-    },
-    {
-      "hash": "daeaeed881f04db6",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🚀 A more efficient approach to EU banking supervision—just in time for Easter! The #EBA has published revised Regulatory Technical...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7444409408857509888",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-03-30T15:45:14",
-      "summary": "🚀 A more efficient approach to EU banking supervision—just in time for Easter!\n\nThe #EBA has published revised Regulatory Technical Standards (#RTS) on material changes for Internal Ratings-Based (#IRB) models, marking a major step toward more efficient, risk-focused supervision.\n\n🔍 What’s changing?\n✅ Fewer \"material\" changes = less red tape, faster approvals\n✅ Risk-based oversight—stronger where it matters, lighter where it doesn’t\n✅ Alignment with #CRR3 & developed in close coordination with t",
-      "score": 36,
-      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: risk, bank | +10 Géo EU: eba | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des normes techniques réglementaires de l'EBA sur les modèles IRB."
-    },
-    {
-      "hash": "239936b870cdfa9d",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📢 The EBA announces the appointment of its next Chair The European Banking Authority announces that François‑Louis Michaud will ta...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7444374241434570752",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-03-30T13:25:29",
-      "summary": "📢 The EBA announces the appointment of its next Chair\n\nThe European Banking Authority announces that François‑Louis Michaud will take up his role as Chair on 16 April 2026, following his formal appointment by the Council of the European Union.\n\nAs he prepares to assume this position at an important moment for the European financial system, François‑Louis Michaud has underlined his strong commitment to effective and consistent supervision and regulation across the EU, supporting a resilient, effi",
-      "score": 36,
-      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: regulation, bank | +10 Géo EU: european union, council of the eu, eba | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La nomination du président de l'EBA concerne la conformité car l'EBA régule et supervise la conformité bancaire en Europe."
     },
     {
       "hash": "ae315081b44c",
@@ -4381,6 +4345,24 @@
       "score_breakdown": "+20 mots critiques: fraude, fraud | +3 Presse | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "d6ee9bf583565ca9",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Malaysia fines Zurich Insurance over sanctions screening failures",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/malaysia-fines-zurich-insurance-over-sanctions-screening-failures",
+      "author": "Grace Propheta",
+      "published": "2026-04-29T08:35:33",
+      "summary": "",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
       "status": "new",
       "early_brief": false,
       "ai_summary": null
@@ -4728,42 +4710,6 @@
       "ai_summary": "Cet article concerne les normes de conformité AML/CFT/CPF au Nigeria et leur automatisation pour respecter les standards FATF."
     },
     {
-      "hash": "9aaad05f4ab8d68d",
-      "source_name": "EBA - Email Alert",
-      "source_type": "email",
-      "category": "email",
-      "title": "The Council today formally appointed François-Louis Michaud as chairperson of the EBA.",
-      "url": "",
-      "author": "no-reply@eba.europa.eu",
-      "published": "2026-03-30T17:46:44+00:00",
-      "summary": "The Council today formally appointed François-Louis Michaud as chairperson of the EBA.",
-      "score": 33,
-      "score_breakdown": "+10 mots forts: eba | +8 Email | +10 Géo EU: eba | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La nomination du président de l'Autorité bancaire européenne relève de la gouvernance de l'organisme de régulation financière."
-    },
-    {
-      "hash": "1a1677c4ef3ae204",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Apple subsidiary to pay £390k over UK sanctions breach",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/apple-subsidiary-pay-ps390k-over-uk-sanctions-breach",
-      "author": "Malavika Devaya",
-      "published": "2026-03-30T17:06:03",
-      "summary": "The US tech company’s Irish unit secured the first settlement under a UK agency’s new enforcement framework, for failing to cancel two payments to a designated person in 2022.",
-      "score": 33,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: payment | +3 Presse | ×1.2 (<3d)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Une filiale d'Apple a violé les sanctions britanniques en ne révoquant pas deux paiements à une personne désignée en 2022."
-    },
-    {
       "hash": "8f1e167222e7",
       "source_name": "Conseil de l'UE",
       "source_type": "scrape",
@@ -4849,7 +4795,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3bb8d76f8905dd85",
@@ -4867,7 +4813,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "668852348f684faa",
@@ -4921,7 +4867,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "781c275c8826a368",
@@ -4939,7 +4885,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1bd040e347fd9092",
@@ -4998,23 +4944,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les sanctions financières imposées par l'ONU qui nécessitent conformité bancaire et gel d'actifs."
-    },
-    {
-      "hash": "ebe894db0f74",
-      "source_name": "UN Security Council - Sanctions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Security Council 1591 Sanctions Committee Adds Four Entries to Its Sanctions List",
-      "url": "https://press.un.org/en/2026/sc16351",
-      "author": "",
-      "published": "2026-04-29T00:00:00Z",
-      "summary": "",
-      "score": 30,
-      "doc_type": "",
-      "action_class": "",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6f51b7654b9e",
@@ -5324,6 +5253,23 @@
       "ai_summary": "Cet article concerne les mesures italiennes de lutte contre le blanchiment de capitaux et le financement du terrorisme et de la prolifération."
     },
     {
+      "hash": "e8875262e4bc",
+      "source_name": "GAFI/FATF",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Italy's measures to counter money laundering, terrorist financing and proliferation financing",
+      "url": "https://www.fatf-gafi.org/en/publications/Mutualevaluations/mer-italy-2026.html",
+      "author": "",
+      "published": "2026-04-23T00:00:00+00:00",
+      "summary": "",
+      "score": 30,
+      "doc_type": "publication",
+      "action_class": "monitor",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article traite des mesures italiennes contre le blanchiment, le financement du terrorisme et la prolifération, enjeux clés de la conformité financière."
+    },
+    {
       "hash": "99a675a40724",
       "source_name": "OFAC - Recent Actions",
       "source_type": "scrape",
@@ -5375,6 +5321,23 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les mesures serbes contre le blanchiment d'argent, le financement du terrorisme et de la prolifération."
+    },
+    {
+      "hash": "7f4f5cd78ca5",
+      "source_name": "GAFI/FATF",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Serbia's measures to counter money laundering, terrorist financing and proliferation financing",
+      "url": "https://www.fatf-gafi.org/en/publications/Mutualevaluations/mer-serbia-2025.html",
+      "author": "",
+      "published": "2026-04-03T00:00:00+00:00",
+      "summary": "",
+      "score": 30,
+      "doc_type": "publication",
+      "action_class": "monitor",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article traite des mesures serbes de lutte contre le blanchiment de capitaux, le financement du terrorisme et de la prolifération, domaines clés de la conformité financière."
     },
     {
       "hash": "cb9d03ea5dc4",
@@ -6115,7 +6078,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "2db6c2a741ac",
@@ -6279,7 +6242,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des pénalités fiscales pour manquement délibéré, relevant de la réglementation des obligations déclaratives et du respect des normes fiscales."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des pénalités fiscales pour manquement délibéré ou mauvaise foi en matière de contributions et taxes."
     },
     {
       "hash": "47cf6211574a0606",
@@ -6417,7 +6380,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d2229d7f39937b1c",
@@ -6435,7 +6398,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "34fa35e2633ba175",
@@ -6454,23 +6417,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article concerne la conformité financière car il traite de la supervision des agences de notation de crédit par l'ESMA."
-    },
-    {
-      "hash": "b1622650ec0b8280",
-      "source_name": "ESMA (Email)",
-      "source_type": "email",
-      "category": "autorite_eu",
-      "title": "ESMA - Notifications: ESMA consults on guidelines on endorsement under the ESG Ratings Regulation",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-consults-guidelines-endorsement-under-esg-ratings-regulation",
-      "author": "noreply@esma.europa.eu",
-      "published": "2026-04-29T13:03:23+00:00",
-      "summary": "Please find below recently created content on ESMA's website: News ESMA consults on guidelines on endorsement under the ESG Ratings Regulation.",
-      "score": 20,
-      "doc_type": "CONSULTATION",
-      "action_class": "action",
-      "ai_summary": null,
-      "status": "new",
-      "early_brief": false
     },
     {
       "hash": "a16c3536260d8af4",
@@ -6578,7 +6524,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3b313f3ccca1330a",
@@ -6597,6 +6543,23 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la divulgation volontaire d'un schéma de corruption par une entreprise."
+    },
+    {
+      "hash": "c1f1a97aa0af",
+      "source_name": "CJUE",
+      "source_type": "scrape",
+      "category": "autorite_eu",
+      "title": "Judgment of the Court in Case C-679/24 UniCredit Bank and Momentum Credit",
+      "url": "https://curia.europa.eu/upload/docs/application/pdf/2026-03/cp260040en.pdf",
+      "author": "",
+      "published": "2026-04-29T18:21:16+00:00",
+      "summary": "",
+      "score": 17,
+      "doc_type": "publication",
+      "action_class": "monitor",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b753476f53c69187",
@@ -6829,23 +6792,6 @@
       "ai_summary": "Cet article traite de la conformité financière en définissant les rôles dans la transparence des paiements pour lutter contre le blanchiment."
     },
     {
-      "hash": "9ca189b36f8b",
-      "source_name": "Egmont Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Egmont Group intervenes at the World Bank/International Monetary Fund Spring Meetings in D.C.",
-      "url": "https://egmontgroup.org/news/egmont-group-intervenes-at-the-world-bank-international-monetary-fund-spring-meetings-in-d-c/",
-      "author": "",
-      "published": "2026-04-29T00:00:00Z",
-      "summary": "",
-      "score": 15,
-      "doc_type": "",
-      "action_class": "",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "b73135ce8d10",
       "source_name": "US Treasury - Sanctions Press",
       "source_type": "scrape",
@@ -7058,24 +7004,6 @@
       "ai_summary": "Cet article concerne les sanctions OFAC contre l'Iran et leur conformité aux obligations de lutte contre le financement du terrorisme."
     },
     {
-      "hash": "c21c8c0ba8efbd74",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "La Commission lance le « grand ménage de printemps » de la législation européenne",
-      "url": "https://www.lemonde.fr/economie/article/2026/04/28/la-commission-lance-le-grand-menage-de-printemps-de-la-legislation-europeenne_6683975_3234.html",
-      "author": "",
-      "published": "2026-04-28T17:11:41",
-      "summary": "La droite et l’extrême droite multiplient les appels à la dérégulation. A Berlin, le chancelier Friedrich Merz est particulièrement offensif.",
-      "score": 12,
-      "score_breakdown": "+5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "56298afdb8d65830",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7218,23 +7146,6 @@
       "ai_summary": "La gouvernance du Wolfsberg Group, qui établit les normes de conformité en matière de prévention de la criminalité financière."
     },
     {
-      "hash": "f4b16a1cf8ce",
-      "source_name": "Egmont Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Request for Proposals: Independent IT Security Audit for the Egmont Group Secretariat",
-      "url": "https://egmontgroup.org/news/request-for-proposals-independent-it-security-audit-for-the-egmont-group-secretariat/",
-      "author": "",
-      "published": "2026-04-29T00:00:00Z",
-      "summary": "",
-      "score": 10,
-      "doc_type": "",
-      "action_class": "",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "2515a0febbea",
       "source_name": "Egmont Group",
       "source_type": "scrape",
@@ -7249,7 +7160,7 @@
       "action_class": "",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de l'amélioration de l'efficacité des cellules de renseignement financier dans la récupération d'actifs, relevant de la conformité AML/CFT."
+      "ai_summary": "Cet article concerne l'efficacité des unités de renseignement financier dans le recouvrement d'actifs, aspect clé de la conformité financière et la lutte anti-blanchiment."
     },
     {
       "hash": "78fa68e747b3",
@@ -7266,24 +7177,24 @@
       "action_class": "",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre les crimes environnementaux par les unités de renseignement financier, relevant de la conformité AML/CFT et des obligations de signalement."
+      "ai_summary": "Cet article concerne la lutte contre la criminalité environnementale par les cellules de renseignement financier, relevant de la conformité AML/CFT."
     },
     {
-      "hash": "2e63dec42bc2",
-      "source_name": "GAFI/FATF",
+      "hash": "a90b025a52cb",
+      "source_name": "OFAC - Recent Actions",
       "source_type": "scrape",
       "category": "autorite_intl",
-      "title": "Mitigating Unintended Consequences",
-      "url": "https://www.fatf-gafi.org/en/publications/Financialinclusionandnpoissues/Unintended-consequences-project.html",
+      "title": "Issuance of Amended Russia-related General License and Frequently Asked Questions",
+      "url": "https://ofac.treasury.gov/recent-actions/20260429",
       "author": "",
-      "published": "2026-04-29T00:00:00Z",
+      "published": "2026-04-29T00:00:00+00:00",
       "summary": "",
       "score": 10,
-      "doc_type": "",
-      "action_class": "",
+      "doc_type": "publication",
+      "action_class": "monitor",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet article concerne la conformité financière car il traite des licences générales relatives aux sanctions contre la Russie par l'OFAC."
     },
     {
       "hash": "e94383a2fb7e",
@@ -7335,6 +7246,57 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les désignations de l'OFAC liées à l'Iran et les obligations de conformité en matière de lutte contre le terrorisme."
+    },
+    {
+      "hash": "da8d4d320f36",
+      "source_name": "UN Security Council - Sanctions",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Amid Tenuous Ceasefire, Soaring Humanitarian Needs, Security Council Hears Updates on Transitional Governance Structure, Reconstruction Efforts in Gaza",
+      "url": "https://press.un.org/en/2026/sc16350.doc.htm",
+      "author": "",
+      "published": "2026-04-28T00:00:00+00:00",
+      "summary": "",
+      "score": 10,
+      "doc_type": "publication",
+      "action_class": "monitor",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "760c490fcd59",
+      "source_name": "UN Security Council - Sanctions",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Immediately Restore Freedom of Navigation through Strait of Hormuz, Speakers Urge in Security Council Condemning Critical Waterway’s Use as ‘Bargaining Chip’",
+      "url": "https://press.un.org/en/2026/sc16349.doc.htm",
+      "author": "",
+      "published": "2026-04-27T00:00:00+00:00",
+      "summary": "",
+      "score": 10,
+      "doc_type": "publication",
+      "action_class": "monitor",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "18c2d4ac90da",
+      "source_name": "UN Security Council - Sanctions",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Safeguarding Waterways ‘Test’ of International Order, Secretary-General Tells Security Council, Urges Full Respect for International Law",
+      "url": "https://press.un.org/en/2026/sgsm23107.doc.htm",
+      "author": "",
+      "published": "2026-04-27T00:00:00+00:00",
+      "summary": "",
+      "score": 10,
+      "doc_type": "publication",
+      "action_class": "monitor",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c31229260ceb",
@@ -7696,6 +7658,40 @@
       "ai_summary": "Cet article concerne les sanctions OFAC relatives au terrorisme, aux stupéfiants et à la cybercriminalité, relevant de la conformité financière."
     },
     {
+      "hash": "48d04e77ab1a",
+      "source_name": "UN Security Council - Sanctions",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Elections ‘Only Credible Path’ Back to Constitutional Order in Haiti, Mission Chief Tells Security Council, as Gang Suppression Force Speeds Deployment",
+      "url": "https://press.un.org/en/2026/sc16348.doc.htm",
+      "author": "",
+      "published": "2026-04-23T00:00:00+00:00",
+      "summary": "",
+      "score": 10,
+      "doc_type": "publication",
+      "action_class": "monitor",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "197f75b982b9",
+      "source_name": "UN Security Council - Sanctions",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Syria Could Be Success Story World Needs, Security Council Hears as UN Officials Outline Strategies to Support Country’s Political, Economic Transition",
+      "url": "https://press.un.org/en/2026/sc16347.doc.htm",
+      "author": "",
+      "published": "2026-04-22T00:00:00+00:00",
+      "summary": "",
+      "score": 10,
+      "doc_type": "publication",
+      "action_class": "monitor",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
       "hash": "3925ec25d5f0",
       "source_name": "OFAC - Recent Actions",
       "source_type": "scrape",
@@ -7712,6 +7708,23 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les sanctions financières imposées par les États-Unis contre le terrorisme et la prolifération nucléaire."
+    },
+    {
+      "hash": "66d52db8707e",
+      "source_name": "GAFI/FATF",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Ministerial Declaration of the Financial Action Task Force - April 2026",
+      "url": "https://www.fatf-gafi.org/en/publications/Fatfgeneral/Ministerial-Declaration-2026.html",
+      "author": "",
+      "published": "2026-04-17T00:00:00+00:00",
+      "summary": "",
+      "score": 10,
+      "doc_type": "publication",
+      "action_class": "monitor",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la déclaration ministérielle du GAFI sur la lutte contre le blanchiment et le financement du terrorisme."
     },
     {
       "hash": "74f90a7d7d89",
@@ -8086,24 +8099,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de corruption internationale en vertu de la loi FCPA."
     },
     {
-      "hash": "6c8d8211cd9ae6bf",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "EU parliament greenlights anti-corruption directive",
-      "url": "https://globalinvestigationsreview.com/article/eu-parliament-greenlights-anti-corruption-directive",
-      "author": "Malavika Devaya",
-      "published": "2026-03-30T14:43:00",
-      "summary": "",
-      "score": 9,
-      "score_breakdown": "+5 mots moyens: directive | +3 Presse | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le Parlement européen approuve une directive anti-corruption qui renforce la conformité financière et la lutte contre les risques de fraude."
-    },
-    {
       "hash": "fd07e38b137a5d58",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -8137,7 +8132,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "40469a15fb8f6b7e",
@@ -8500,6 +8495,24 @@
       "ai_summary": "Cet article concerne la conformité financière relative aux sanctions contre le Venezuela imposées par les États-Unis."
     },
     {
+      "hash": "5db889015bd7271e",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Spanish court ends foreign bribery case against food company, execs",
+      "url": "https://globalinvestigationsreview.com/article/spanish-court-ends-foreign-bribery-case-against-food-company-execs",
+      "author": "Ana de Liz",
+      "published": "2026-04-29T12:22:49",
+      "summary": "The court ruled that there was “an excessive ‘demonisation’” of commissions that a Spanish consortium agreed to pay Angolan officials, at a time when the country had “just emerged from a civil war”.&nbsp;",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a5c800e7f30181f0",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -8642,365 +8655,8 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Un consultant pétrolier américain reconnaît sa culpabilité dans une affaire de corruption envers Pemex, illustrant la conformité anti-corruption."
-    },
-    {
-      "hash": "999ff405e881",
-      "source_name": "Wolfsberg Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "The Wolfsberg Group publishes its second Statement on Effective Monitoring for Suspicious Activity",
-      "url": "https://wolfsberg-group.org/news/the-wolfsberg-group-publishes-its-second-statement-on-effective-monitoring-for-suspicious-activity",
-      "author": "",
-      "published": "2026-04-29T18:21:16+00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "c6125a5ea6ef",
-      "source_name": "Wolfsberg Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "The Wolfsberg Group releases its Statement on the Risk-Based Approach",
-      "url": "https://wolfsberg-group.org/news/the-wolfsberg-group-releases-its-statement-on-the-risk-based-approach",
-      "author": "",
-      "published": "2026-04-29T18:21:16+00:00",
-      "summary": "",
-      "score": 15,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "c1f1a97aa0af",
-      "source_name": "CJUE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Judgment of the Court in Case C-679/24 UniCredit Bank and Momentum Credit",
-      "url": "https://curia.europa.eu/upload/docs/application/pdf/2026-03/cp260040en.pdf",
-      "author": "",
-      "published": "2026-04-29T18:21:16+00:00",
-      "summary": "",
-      "score": 17,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "89ab533112db",
-      "source_name": "DOJ - Criminal Division",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Coordinated Takedown of Scam Centers Leads to  at Least 276 Arrests; Alleged Managers and Recruiters Charged in San Diego",
-      "url": "https://www.justice.gov/opa/pr/coordinated-takedown-scam-centers-leads-least-276-arrests-alleged-managers-and-recruiters",
-      "author": "",
-      "published": "2026-04-29T00:00:00+00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "a90b025a52cb",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Issuance of Amended Russia-related General License and Frequently Asked Questions",
-      "url": "https://ofac.treasury.gov/recent-actions/20260429",
-      "author": "",
-      "published": "2026-04-29T00:00:00+00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "da8d4d320f36",
-      "source_name": "UN Security Council - Sanctions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Amid Tenuous Ceasefire, Soaring Humanitarian Needs, Security Council Hears Updates on Transitional Governance Structure, Reconstruction Efforts in Gaza",
-      "url": "https://press.un.org/en/2026/sc16350.doc.htm",
-      "author": "",
-      "published": "2026-04-28T00:00:00+00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "760c490fcd59",
-      "source_name": "UN Security Council - Sanctions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Immediately Restore Freedom of Navigation through Strait of Hormuz, Speakers Urge in Security Council Condemning Critical Waterway’s Use as ‘Bargaining Chip’",
-      "url": "https://press.un.org/en/2026/sc16349.doc.htm",
-      "author": "",
-      "published": "2026-04-27T00:00:00+00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "18c2d4ac90da",
-      "source_name": "UN Security Council - Sanctions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Safeguarding Waterways ‘Test’ of International Order, Secretary-General Tells Security Council, Urges Full Respect for International Law",
-      "url": "https://press.un.org/en/2026/sgsm23107.doc.htm",
-      "author": "",
-      "published": "2026-04-27T00:00:00+00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "48d04e77ab1a",
-      "source_name": "UN Security Council - Sanctions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Elections ‘Only Credible Path’ Back to Constitutional Order in Haiti, Mission Chief Tells Security Council, as Gang Suppression Force Speeds Deployment",
-      "url": "https://press.un.org/en/2026/sc16348.doc.htm",
-      "author": "",
-      "published": "2026-04-23T00:00:00+00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "e8875262e4bc",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Italy's measures to counter money laundering, terrorist financing and proliferation financing",
-      "url": "https://www.fatf-gafi.org/en/publications/Mutualevaluations/mer-italy-2026.html",
-      "author": "",
-      "published": "2026-04-23T00:00:00+00:00",
-      "summary": "",
-      "score": 30,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "2a19202f2f1b",
-      "source_name": "DOJ - Criminal Division",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "High-Ranking Member of Los Zetas Cartel Pleads Guilty to Federal Drug Trafficking Conspiracy",
-      "url": "https://www.justice.gov/opa/pr/high-ranking-member-los-zetas-cartel-pleads-guilty-federal-drug-trafficking-conspiracy",
-      "author": "",
-      "published": "2026-04-22T00:00:00+00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "197f75b982b9",
-      "source_name": "UN Security Council - Sanctions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Syria Could Be Success Story World Needs, Security Council Hears as UN Officials Outline Strategies to Support Country’s Political, Economic Transition",
-      "url": "https://press.un.org/en/2026/sc16347.doc.htm",
-      "author": "",
-      "published": "2026-04-22T00:00:00+00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "66d52db8707e",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Ministerial Declaration of the Financial Action Task Force - April 2026",
-      "url": "https://www.fatf-gafi.org/en/publications/Fatfgeneral/Ministerial-Declaration-2026.html",
-      "author": "",
-      "published": "2026-04-17T00:00:00+00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "7f4f5cd78ca5",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Serbia's measures to counter money laundering, terrorist financing and proliferation financing",
-      "url": "https://www.fatf-gafi.org/en/publications/Mutualevaluations/mer-serbia-2025.html",
-      "author": "",
-      "published": "2026-04-03T00:00:00+00:00",
-      "summary": "",
-      "score": 30,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "f492a8bcb7a6",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Montenegro's progress in strengthening measures to tackle money laundering and terrorist financing",
-      "url": "https://www.fatf-gafi.org/en/publications/Mutualevaluations/Montenegro-Fur-2025.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00+00:00",
-      "summary": "",
-      "score": 30,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "179925127a42",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Bulgaria's progress in strengthening measures to tackle money laundering and terrorist financing",
-      "url": "https://www.fatf-gafi.org/en/publications/Mutualevaluations/Bulgaria-Fur-2025.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00+00:00",
-      "summary": "",
-      "score": 30,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "314b5523a5ae",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Cyprus' progress in strengthening measures to tackle money laundering and terrorist financing",
-      "url": "https://www.fatf-gafi.org/en/publications/Mutualevaluations/Cyprus-Fur-2025.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00+00:00",
-      "summary": "",
-      "score": 30,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "687542a143e4",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Poland's progress in strengthening measures to tackle money laundering and terrorist financing",
-      "url": "https://www.fatf-gafi.org/en/publications/Mutualevaluations/Poland-Fur-2025.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00+00:00",
-      "summary": "",
-      "score": 30,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "423fe48ec5d7",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "North Macedonia's progress in strengthening measures to tackle money laundering and terrorist financing",
-      "url": "https://www.fatf-gafi.org/en/publications/Mutualevaluations/NorthMacedonia-Fur-2025.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00+00:00",
-      "summary": "",
-      "score": 30,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "26a29d66c31c",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Georgia's progress in strengthening measures to tackle money laundering and terrorist financing",
-      "url": "https://www.fatf-gafi.org/en/publications/Mutualevaluations/Georgia-Fur-2025.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00+00:00",
-      "summary": "",
-      "score": 30,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "62fca4665d1e",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Romania's progress in strengthening measures to tackle money laundering and terrorist financing",
-      "url": "https://www.fatf-gafi.org/en/publications/Mutualevaluations/Romania-Fur-2025.html",
-      "author": "",
-      "published": "2026-03-23T00:00:00+00:00",
-      "summary": "",
-      "score": 30,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
     }
   ],
-  "last_update": "2026-04-29T17:04:34.128174+00:00",
+  "last_update": "2026-04-29T19:10:19.175600+00:00",
   "last_updated": "2026-04-29T18:24:03.560297+00:00"
 }
