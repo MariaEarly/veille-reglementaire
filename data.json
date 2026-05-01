@@ -616,7 +616,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret transpose une directive européenne modifiant les règles prudentielles bancaires, notamment les pouvoirs de surveillance et les sanctions, relevant directement de la conformité financière et réglementaire."
+      "ai_summary": "Ce décret transpose une directive européenne modifiant les règles de surveillance bancaire, sanctions et risques ESG, relevant de la conformité financière et réglementaire."
     },
     {
       "hash": "4ba3ac6348b6cd64",
@@ -634,7 +634,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret concerne la conformité financière en imposant aux professionnels assujettis l'accès au registre des bénéficiaires effectifs et une formation obligatoire pour lutter contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article concerne l'accès au registre des bénéficiaires effectifs et la formation obligatoire des professionnels assujettis à la lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -652,7 +652,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret modifie les procédures de signalement des lanceurs d'alerte concernant les marchés financiers, le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Ce décret modifie les procédures de signalement des lanceurs d'alerte concernant les marchés financiers et la prévention du blanchiment de capitaux et du financement du terrorisme."
     },
     {
       "hash": "2998804b861efb25",
@@ -1048,7 +1048,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté approuve les conventions du Fonds de garantie pour la rénovation, encadrant les conditions d'accès des établissements de crédit à ce mécanisme de garantie financière."
+      "ai_summary": "Cet arrêté approuve les conventions du Fonds de garantie pour la rénovation, encadrant les conditions d'accès des établissements de crédit."
     },
     {
       "hash": "6d5b811e5809f4f6",
@@ -1426,7 +1426,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'évaluation mutuelle du FATF évalue la conformité de l'Autriche aux recommandations anti-blanchiment et financement du terrorisme."
     },
     {
       "hash": "123d06c5077f6a41",
@@ -1498,7 +1498,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal du terrorisme par une entreprise, violation majeure des obligations de conformité et de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes par une entreprise et ses dirigeants."
     },
     {
       "hash": "841b0409997c23a0",
@@ -1624,24 +1624,6 @@
       "ai_summary": "FinCEN encourage les institutions financières à intégrer l'IA et l'analyse blockchain dans leurs programmes de lutte contre le blanchiment."
     },
     {
-      "hash": "002e4d8ed1889ca6",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Additif à l'avis de vacance d'emplois de direction de la fonction publique hospitalière (emplois fonctionnels)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053982580",
-      "author": "Ministère de la santé, des familles, de l'autonomie et des personnes handicapées",
-      "published": "2026-04-30T00:00:00",
-      "summary": "Article L'avis de vacance d'emplois de direction de la fonction publique hospitalière (emplois fonctionnels) publié au Journal officiel de la République française le 24 avril 2026, texte n° 103 (NOR : SFHN2611262V), est modifié comme suit :Il convient d'ajouter les postes suivants :Groupe II. - Emploi de directeur ou directrice générale adjointe :- Centre hospitalier universitaire de Bordeaux (Gironde), un emploi de secrétaire général(e) (cf. annexe I).II. - Emploi de directeur ou directrice des",
-      "score": 67,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
-      "doc_type": "AVIS",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "3cd0a88bf0f55e36",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1747,7 +1729,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3c8def2191c6ed8b",
@@ -2449,6 +2431,24 @@
       "ai_summary": "Cet article concerne la conformité aux réglementations de protection des données (RGPD et RIA) que la CNIL accompagne auprès des organisations."
     },
     {
+      "hash": "002e4d8ed1889ca6",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Additif à l'avis de vacance d'emplois de direction de la fonction publique hospitalière (emplois fonctionnels)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053982580",
+      "author": "Ministère de la santé, des familles, de l'autonomie et des personnes handicapées",
+      "published": "2026-04-30T00:00:00",
+      "summary": "Article L'avis de vacance d'emplois de direction de la fonction publique hospitalière (emplois fonctionnels) publié au Journal officiel de la République française le 24 avril 2026, texte n° 103 (NOR : SFHN2611262V), est modifié comme suit :Il convient d'ajouter les postes suivants :Groupe II. - Emploi de directeur ou directrice générale adjointe :- Centre hospitalier universitaire de Bordeaux (Gironde), un emploi de secrétaire général(e) (cf. annexe I).II. - Emploi de directeur ou directrice des",
+      "score": 54,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
+      "doc_type": "AVIS",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "d1126c84f954e165",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -2482,7 +2482,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Le SFO utilise des avocats externes pour combler ses lacunes en ressources légales internes et améliorer sa conformité."
     },
     {
       "hash": "cb40952fb1fdfbf3",
@@ -2626,7 +2626,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Ces lignes directrices renforcent l'indépendance des superviseurs bancaires, élément clé de la conformité réglementaire et de la gouvernance financière en Europe."
     },
     {
       "hash": "f1f59d450d9bd1b3",
@@ -2773,22 +2773,22 @@
       "ai_summary": "Cet article concerne la lutte contre la fraude et l'usurpation d'identité, risques majeurs de conformité financière et de prévention des abus."
     },
     {
-      "hash": "3e8ac5252b0d496d",
+      "hash": "49f98f4ff765001c",
       "source_name": "ACPR",
       "source_type": "rss",
       "category": "autorite_fr",
-      "title": "View PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5aUJwN0RvdHp2QV9sOVBiVk15UkpMcXZrQmhIejgwWDFlMy1VZDBmSWwzajlXUjViSzdyTFRIUVF4cU1mZHo5U2ZseUdLY0JMZXZTQlA2R0dxTUJXcU9taHZJU21pQQ?oc=5",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vdzZkdUFXWGFEQ0Y5NnVLZVMwUjRDeUVlZndFdXluUXRfYmdVNlRIcTUwTHFxTHRYLVVhT3ZqQ0pVVjBKbnk4elJkUi1OUHg1TDNleUhZeUpzZ0VzeW8zcWlJbXl0QQ?oc=5",
       "author": "",
-      "published": "2026-04-24T10:37:50",
-      "summary": "View PDF&nbsp;&nbsp;Banque de France",
+      "published": "2026-04-26T22:16:57",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
       "score": 50,
       "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5c62bc04081a4abf",
@@ -3231,7 +3231,7 @@
       "score": 45,
       "doc_type": "GUIDELINES",
       "action_class": "action",
-      "ai_summary": "L'EBA met à jour ses lignes directrices sur les clients liés pour se conformer à la nouvelle législation européenne, impactant les exigences de conformité bancaire.",
+      "ai_summary": "Cet article concerne les directives de l'EBA sur l'identification des clients liés, alignées avec la nouvelle législation européenne applicable aux banques.",
       "status": "new",
       "early_brief": false
     },
@@ -3251,7 +3251,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c90828c08f649803",
@@ -3321,7 +3321,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les directives EBA sur l'indépendance de supervision renforcent la conformité financière par des garde-fous anti-conflits d'intérêts et restrictions commerciales harmonisées."
     },
     {
       "hash": "a5d2f550594d8003",
@@ -3591,7 +3591,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5eee0d08a0c71c1f",
@@ -3645,7 +3645,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de violations graves : financement du terrorisme, manquements aux obligations de conformité et de vigilance."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes par une entreprise, violation majeure des règles de conformité et de lutte contre le terrorisme."
     },
     {
       "hash": "fe2ad140799025ce",
@@ -3879,7 +3879,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA impose aux établissements bancaires le respect de règles de diversité dans les organes de direction."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "91004de9a09ebf5d",
@@ -3968,6 +3968,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cette nomination concerne la conformité financière car l'ACPR supervise la régulation bancaire et financière en France."
+    },
+    {
+      "hash": "fb4f160a3a85c753",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Judge slams Russian-born businessman’s bid to dismiss US case from abroad",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/judge-slams-russian-born-businessmans-bid-dismiss-us-case-abroad",
+      "author": "Estelle Atkinson",
+      "published": "2026-04-30T18:30:19",
+      "summary": "A US federal judge has rejected efforts by Swiss citizen Vladislav Osipov to have his Washington, DC sanctions-evasion case thrown out while he remains in Switzerland.",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: switzerland | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "4e199f2b256f58ae",
@@ -4183,7 +4201,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur le recrutement du directeur exécutif de l'Autorité bancaire européenne, clé de la supervision financière."
+      "ai_summary": "Cet article concerne le recrutement du directeur exécutif de l'Autorité bancaire européenne, responsable de la supervision financière et de la conformité bancaire en Europe."
     },
     {
       "hash": "d01c71ab07ca9a4c",
@@ -4625,7 +4643,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la fraude documentaire en assurance et des conséquences légales de fausses déclarations."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la fraude à l'assurance et de la déchéance de garantie pour fausse déclaration intentionnelle."
     },
     {
       "hash": "d6ee9bf583565ca9",
@@ -5055,7 +5073,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3bb8d76f8905dd85",
@@ -5073,7 +5091,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "668852348f684faa",
@@ -5112,24 +5130,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des risques de blanchiment via des transactions fictives détectées par l'OFAC."
     },
     {
-      "hash": "781c275c8826a368",
-      "source_name": "JORF - Sanctions",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décision n° 2026-167 du 22 avril 2026 autorisant la société N7 TV à utiliser une ressource radioélectrique pour l'édition d'un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre, à temps complet et en haute définition dans la zone de Nantes",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053970189",
-      "author": "Autorité de régulation de la communication audiovisuelle et numérique",
-      "published": "2026-04-28T00:00:00",
-      "summary": "Article 1La société N7 TV est autorisée à utiliser les ressources radioélectriques du réseau R1 de la télévision numérique terrestre énumérées dans la décision du 18 février 2026 visée ci-dessus pour l'édition d'un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre, à temps complet et en haute définition dans la zone de Nantes.Le service est diffusé en haute définition au sens de l'arrêté du 24 décembre 2001 visé ci-dessus.Article 2La durée de l'autorisation e",
-      "score": 30,
-      "score_breakdown": "+25 Source FR | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "ddc7e957c8f12670",
       "source_name": "JORF - Sanctions",
       "source_type": "rss",
@@ -5145,7 +5145,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5c9db458f6a4e816",
@@ -5199,7 +5199,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3725844fe0aa1491",
@@ -5324,24 +5324,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des modifications des listes de sanctions de l'ONU affectant les obligations de conformité et de reporting des institutions financières."
-    },
-    {
-      "hash": "f652ca9b71a5",
-      "source_name": "UN Security Council - Sanctions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Security Council 1591 Sanctions Committee Adds Four Entries to Its Sanctions List",
-      "url": "https://press.un.org/en",
-      "author": "",
-      "published": "2026-04-28T00:00:00+00:00",
-      "summary": "On 28 April 2026, the Security Council Committee established pursuant to resolution 1591 (2005) concerning the Sudan approved the addition of the entries specified below to its Sanctions List of individuals and entities subject to the measures.",
-      "score": 30,
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Les modifications de listes de sanctions de l'ONU concernent la conformité financière car elles imposent le gel d'actifs et restrictions commerciales."
     },
     {
       "hash": "2145e4a3c2c0",
@@ -5719,40 +5702,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les mesures de conformité financière serbes contre le blanchiment d'argent et le financement du terrorisme."
-    },
-    {
-      "hash": "cb9d03ea5dc4",
-      "source_name": "UN Security Council - Sanctions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Security Council Sanctions Committee Established Pursuant to Resolution 1988 (2011) Amends Three Entries on Its Sanctions List",
-      "url": "https://press.un.org/en/2026/sc16341.doc.htm",
-      "author": "",
-      "published": "2026-04-01T00:00:00Z",
-      "summary": "",
-      "score": 30,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les sanctions du Conseil de sécurité imposent des obligations de gel d'actifs et de conformité."
-    },
-    {
-      "hash": "70a84bb8fc5c",
-      "source_name": "US Treasury - Sanctions Press",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Treasury Targets Iran's Shadow Fleet, Networks Supplying Ballistic Missile and ACW Programs",
-      "url": "https://home.treasury.gov/news/press-releases/sb0405",
-      "author": "",
-      "published": "2026-04-01",
-      "summary": "OFAC sanctions targeting Iran ballistic missile and UAV procurement networks in multiple jurisdictions",
-      "score": 30,
-      "doc_type": "enforcement",
-      "action_class": "enforcement",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Conformité aux régulations de sanctions OFAC contre les réseaux d'approvisionnement iraniens en armes et technologies interdites."
     },
     {
       "hash": "3416433e49198413",
@@ -6220,6 +6169,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite du reporting LCB-FT, obligation légale de lutte contre le blanchiment de capitaux."
+    },
+    {
+      "hash": "781c275c8826a368",
+      "source_name": "JORF - Sanctions",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décision n° 2026-167 du 22 avril 2026 autorisant la société N7 TV à utiliser une ressource radioélectrique pour l'édition d'un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre, à temps complet et en haute définition dans la zone de Nantes",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053970189",
+      "author": "Autorité de régulation de la communication audiovisuelle et numérique",
+      "published": "2026-04-28T00:00:00",
+      "summary": "Article 1La société N7 TV est autorisée à utiliser les ressources radioélectriques du réseau R1 de la télévision numérique terrestre énumérées dans la décision du 18 février 2026 visée ci-dessus pour l'édition d'un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre, à temps complet et en haute définition dans la zone de Nantes.Le service est diffusé en haute définition au sens de l'arrêté du 24 décembre 2001 visé ci-dessus.Article 2La durée de l'autorisation e",
+      "score": 25,
+      "score_breakdown": "+25 Source FR | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "35675412f6ca",
@@ -6690,7 +6657,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d2229d7f39937b1c",
@@ -6708,7 +6675,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "34fa35e2633ba175",
@@ -6744,7 +6711,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne le renouvellement de la collecte d'informations sur l'enregistrement des entreprises de services monétaires selon les exigences de conformité FinCEN."
+      "ai_summary": "Cet article concerne le renouvellement de la collecte d'informations pour l'enregistrement des entreprises de services monétaires, relevant de la conformité financière FinCEN."
     },
     {
       "hash": "a16c3536260d8af4",
@@ -6852,7 +6819,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3b313f3ccca1330a",
@@ -7224,7 +7191,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La nouvelle législation sur la criminalité économique a transformé les obligations de conformité et les évaluations des risques des organisations."
     },
     {
       "hash": "190768747fc755d7",
@@ -8165,23 +8132,6 @@
       "ai_summary": "Cet article traite de la conformité financière car il concerne les règles de lutte contre le financement illicite imposées par la loi GENIUS."
     },
     {
-      "hash": "6e7381528aa1",
-      "source_name": "UN Security Council - Sanctions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "United Nations Mission in South Sudan Vital Yet Hampered under Strain of Budget Cuts, Security Council Speakers Stress, amid Support for Strong, Clear Mandate",
-      "url": "https://press.un.org/en/2026/sc16342.doc.htm",
-      "author": "",
-      "published": "2026-04-01T00:00:00Z",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite des impacts des réductions budgétaires sur les opérations de maintien de la paix, relevé de conformité financière."
-    },
-    {
       "hash": "3c9da1e38ae1e5df",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -8341,7 +8291,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "40469a15fb8f6b7e",
@@ -8413,7 +8363,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions financières imposées à la République Démocratique du Congo par l'OFAC, relevant de la conformité réglementaire."
     },
     {
       "hash": "a06234fdfad052e0",
@@ -8668,24 +8618,6 @@
       "ai_summary": "Le Trésor américain propose une règle pour mettre en œuvre les exigences du GENIUS Act afin de lutter contre le financement illicite."
     },
     {
-      "hash": "ba642976f4a4bfd1",
-      "source_name": "FinCEN",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Whistleblower Incentives and Protections",
-      "url": "https://www.fincen.gov/resources/statutes-regulations/federal-register-notices/whistleblower-incentives-and-protections",
-      "author": "",
-      "published": "2026-04-01T00:00:00",
-      "summary": "",
-      "score": 4,
-      "score_breakdown": "+5 Source Intl | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite des incitations et protections pour les lanceurs d'alerte, essentiels à la détection des infractions financières."
-    },
-    {
       "hash": "a5c800e7f30181f0",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -8737,7 +8669,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "90098d223279f76d",
@@ -8830,6 +8762,6 @@
       "ai_summary": "Un consultant pétrolier américain reconnaît sa culpabilité dans une affaire de corruption envers Pemex, illustrant la conformité anti-corruption."
     }
   ],
-  "last_update": "2026-04-30T19:55:11.296947+00:00",
+  "last_update": "2026-05-01T02:04:26.499833+00:00",
   "last_updated": "2026-04-30T11:04:55.830012+00:00"
 }
