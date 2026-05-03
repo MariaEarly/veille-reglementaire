@@ -634,7 +634,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article établit des obligations de formation et d'accès aux registres de bénéficiaires effectifs pour les professionnels soumis à la lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il régule l'accès aux données des bénéficiaires effectifs et la formation obligatoire des professionnels pour la lutte anti-blanchiment et anti-terrorisme."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -652,7 +652,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret concerne la conformité financière car il modifie les procédures de signalement des lanceurs d'alerte en matière de blanchiment de capitaux et financement du terrorisme."
+      "ai_summary": "Ce décret modifie les procédures de signalement des lanceurs d'alerte concernant les marchés financiers et la prévention du blanchiment de capitaux et du financement du terrorisme."
     },
     {
       "hash": "2998804b861efb25",
@@ -1516,7 +1516,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du plafonnement des paiements en espèces par l'UE pour lutter contre le blanchiment d'argent."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du plafonnement des paiements en espèces par l'UE pour lutter contre le blanchiment de capitaux."
     },
     {
       "hash": "4f36e4a51037369e",
@@ -1534,7 +1534,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes, violation majeure des règles de conformité et de lutte contre le blanchiment d'argent."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes par une entreprise, violation majeure des normes de conformité."
     },
     {
       "hash": "841b0409997c23a0",
@@ -2829,6 +2829,24 @@
       "ai_summary": "Cet article concerne la lutte contre la fraude et l'usurpation d'identité, risques majeurs de conformité financière et de prévention des abus."
     },
     {
+      "hash": "27a27183c8b81475",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "View PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkZnRPR1BzbjBZbWR0LVJ3R3JGT2o0cWFZZGpSdk5NV25EbUpWSkdqUHJObnNYbENnX21vOUQ2WTNVV1R4MGNyWDh0TnhzcTZwd3Vud0VKa3NldTJTbnBhOVJWOEI2UQ?oc=5",
+      "author": "",
+      "published": "2026-04-27T08:58:35",
+      "summary": "View PDF&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "7541bb103b84ac30",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -2844,7 +2862,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5c62bc04081a4abf",
@@ -3491,24 +3509,6 @@
       "ai_summary": "Cet article traite des sanctions américaines contre Thales pour non-respect d'un embargo, relevant directement de la conformité réglementaire."
     },
     {
-      "hash": "8cd797e53581ca5b",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, 6ème - 5ème chambres réunies, 30 avril 2026, 509749",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260430-509749",
-      "author": "6ème - 5ème chambres réunies",
-      "published": "2026-04-30T12:00:00",
-      "summary": "Vu les procédures suivantes :                  1° Sous le n° 509749, par un mémoire et un nouveau mémoire, enregistrés les 13 février et 10 mars 2026 au secrétariat du contentieux du Conseil d'Etat, la société Altaroc Partners demande au Conseil d'Etat, en application de l'article 23-5 de l'ordonnance n° 58-1067 du 7 novembre 1958 et à l'appui de sa requête tendant à l'annulation de la décision n° 9 du 15 septembre 2025 de la commission des sanctions de l'Autorité des marchés financiers en tant ",
-      "score": 48,
-      "score_breakdown": "+20 mots critiques: sanction | +20 Géo FR: france, autorité des marchés financiers | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "53fb15a63f6b46b8",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -3578,7 +3578,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0b238f8df9bea1e6",
@@ -3749,7 +3749,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "cb80b201fd28",
@@ -3870,7 +3870,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les directives de l'EBA renforcent la conformité en imposant des déclarations d'intérêts, des restrictions commerciales et des périodes de refroidissement harmonisées."
+      "ai_summary": "Les directives de l'EBA renforcent la conformité financière en imposant des déclarations d'intérêts strictes et des restrictions commerciales pour les superviseurs bancaires."
     },
     {
       "hash": "a5d2f550594d8003",
@@ -4753,6 +4753,41 @@
       "ai_summary": "Cet article concerne la surveillance et l'agrément des assureurs par l'autorité de régulation financière française."
     },
     {
+      "hash": "8cd797e53581ca5b",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, 6ème - 5ème chambres réunies, 30 avril 2026, 509749",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260430-509749",
+      "author": "6ème - 5ème chambres réunies",
+      "published": "2026-04-30T12:00:00",
+      "summary": "Vu les procédures suivantes :                  1° Sous le n° 509749, par un mémoire et un nouveau mémoire, enregistrés les 13 février et 10 mars 2026 au secrétariat du contentieux du Conseil d'Etat, la société Altaroc Partners demande au Conseil d'Etat, en application de l'article 23-5 de l'ordonnance n° 58-1067 du 7 novembre 1958 et à l'appui de sa requête tendant à l'annulation de la décision n° 9 du 15 septembre 2025 de la commission des sanctions de l'Autorité des marchés financiers en tant ",
+      "score": 40,
+      "score_breakdown": "+20 mots critiques: sanction | +20 Géo FR: france, autorité des marchés financiers | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "9468e42a607026d8",
+      "source_name": "EBA (Email)",
+      "source_type": "email",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 29 April, 2026",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-streamlines-its-guidelines-connected-clients-align-new-eu-legislation",
+      "author": "no-reply@eba.europa.eu",
+      "published": "2026-04-29T19:04:57Z",
+      "summary": "NEWS & PRESS THE EBA STREAMLINES ITS GUIDELINES ON CONNECTED CLIENTS TO ALIGN WITH NEW EU LEGISLATION. The European Banking Authority (EBA) has decided to partially delete sections of its Guidelines on connected clients, following the entry into force of new, directly applicable EU legislation. THE EBA PUBLISHES ITS FINAL GUIDELINES ON SUPERVISORY INDEPENDENCE. The European Banking Authority (EBA) today published its final Guidelines on Supervisory Independence under the Capital Requirements Dir",
+      "score": 40,
+      "doc_type": "GUIDELINES",
+      "action_class": "action",
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA actualise ses lignes directrices sur les clients liés suite à nouvelle législation européenne applicable.",
+      "status": "new",
+      "early_brief": false
+    },
+    {
       "hash": "8771b58e599900e3",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
@@ -4822,23 +4857,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne l'évaluation FATF des mesures italiennes contre le blanchiment, le financement du terrorisme et la prolifération."
-    },
-    {
-      "hash": "9468e42a607026d8",
-      "source_name": "EBA (Email)",
-      "source_type": "email",
-      "category": "autorite_eu",
-      "title": "EBA E-mail alert 29 April, 2026",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-streamlines-its-guidelines-connected-clients-align-new-eu-legislation",
-      "author": "no-reply@eba.europa.eu",
-      "published": "2026-04-29T19:04:57Z",
-      "summary": "NEWS & PRESS THE EBA STREAMLINES ITS GUIDELINES ON CONNECTED CLIENTS TO ALIGN WITH NEW EU LEGISLATION. The European Banking Authority (EBA) has decided to partially delete sections of its Guidelines on connected clients, following the entry into force of new, directly applicable EU legislation. THE EBA PUBLISHES ITS FINAL GUIDELINES ON SUPERVISORY INDEPENDENCE. The European Banking Authority (EBA) today published its final Guidelines on Supervisory Independence under the Capital Requirements Dir",
-      "score": 40,
-      "doc_type": "GUIDELINES",
-      "action_class": "action",
-      "ai_summary": null,
-      "status": "new",
-      "early_brief": false
     },
     {
       "hash": "4879b000edc2a551",
@@ -5270,7 +5288,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "61e12d7caf5c6043",
@@ -5342,7 +5360,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "ae315081b44c",
@@ -6252,7 +6270,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il documente les modifications des listes de sanctions de l'ONU qui imposent des obligations de gel d'actifs et de conformité aux institutions financières."
+      "ai_summary": "Cet article concerne les sanctions internationales, impliquant des obligations de conformité pour identifier et geler les actifs des personnes et entités listées."
     },
     {
       "hash": "2145e4a3c2c0",
@@ -6778,24 +6796,6 @@
       "ai_summary": "L'AMF aborde la conformité financière via les arnaques, l'IA, les finfluenceurs et la régulation des ETF dans les marchés financiers."
     },
     {
-      "hash": "ae9cc11447dd352e",
-      "source_name": "EBA - European Banking Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "EBA E-mail alert 3 April, 2026",
-      "url": "https://www.eba.europa.eu/node/19517",
-      "author": "Anonymous",
-      "published": "2026-04-03T15:00:03",
-      "summary": "EBA E-mail alert 3 April, 2026\n\n  \n    Date\n          03/04/2026\n\n      \n\nAnonymous (not verified)\n\nFri, 04/03/2026 - 17:00\n\n\n            \n\n      \n  \n    Final Q&amp;As\n          2025_7580 Reporting of unused prior permission amounts with no specification of subordination\n          2025_7614 Amount to be reported as MREL eligible amount and amount qualifying as Own Funds non-CET1 instruments, taking into account phase-out as applicable\n          2025_7630 Reporting Framework 4.2 - Z_09.02 - FMI ",
-      "score": 28,
-      "score_breakdown": "+10 mots forts: eba | +15 Source EU | +10 Géo EU: eba | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la déclaration réglementaire des montants de permission antérieure inutilisés."
-    },
-    {
       "hash": "f49e09489915bae9",
       "source_name": "Corporate Compliance Insights",
       "source_type": "press",
@@ -7062,7 +7062,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ddc7e957c8f12670",
@@ -7080,7 +7080,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "35675412f6ca",
@@ -7368,24 +7368,6 @@
       "ai_summary": "L'article explique le droit au compte, garantie d'accès aux services bancaires essentiels, relevant de la conformité réglementaire bancaire."
     },
     {
-      "hash": "5054d04ca12f6148",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, 5ème - 6ème chambres réunies, 30 avril 2026, 509660",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260430-509660",
-      "author": "5ème - 6ème chambres réunies",
-      "published": "2026-04-30T12:00:00",
-      "summary": "49-05 POLICE. - POLICES SPÉCIALES. - POLICE DES ACTIVITÉS PRIVÉES DE TRANSPORT DE FONDS – AUTORISATION DE PORT D’ARME – REFUS FONDÉ SUR DES... Vu la procédure suivante :                  M. A... B... a demandé au juge des référés du tribunal administratif de Grenoble de suspendre, sur le fondement de l'article L. 521-1 du code de justice administrative, l'exécution de l'arrêté du 25 septembre 2025 par lequel la préfète de l'Isère a refusé de renouveler son autorisation de port d'arme et d'enjoin",
-      "score": 24,
-      "score_breakdown": "+20 Géo FR: france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "3bb8d76f8905dd85",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -7401,7 +7383,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "29db0b16b6bf2f0f",
@@ -7476,6 +7458,24 @@
       "ai_summary": "Un consultant dénonce que Goldman Sachs l'a licencié pour refus de falsifier des documents de conformité concernant une vente controversée."
     },
     {
+      "hash": "5054d04ca12f6148",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, 5ème - 6ème chambres réunies, 30 avril 2026, 509660",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260430-509660",
+      "author": "5ème - 6ème chambres réunies",
+      "published": "2026-04-30T12:00:00",
+      "summary": "49-05 POLICE. - POLICES SPÉCIALES. - POLICE DES ACTIVITÉS PRIVÉES DE TRANSPORT DE FONDS – AUTORISATION DE PORT D’ARME – REFUS FONDÉ SUR DES... Vu la procédure suivante :                  M. A... B... a demandé au juge des référés du tribunal administratif de Grenoble de suspendre, sur le fondement de l'article L. 521-1 du code de justice administrative, l'exécution de l'arrêté du 25 septembre 2025 par lequel la préfète de l'Isère a refusé de renouveler son autorisation de port d'arme et d'enjoin",
+      "score": 20,
+      "score_breakdown": "+20 Géo FR: france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "143c973911018eb9",
       "source_name": "EBA (Email)",
       "source_type": "email",
@@ -7513,7 +7513,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de blanchiment d'argent, domaine clé de la lutte anti-blanchiment et du respect des normes de conformité."
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur une affaire de blanchiment d'argent jugée en appel administratif."
     },
     {
       "hash": "3cacf3406d5cc363",
@@ -7651,7 +7651,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d2229d7f39937b1c",
@@ -7669,7 +7669,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a16c3536260d8af4",
@@ -7940,7 +7940,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne le renouvellement du formulaire FinCEN 107 pour l'enregistrement des entreprises de services monétaires, un élément clé de la conformité anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du renouvellement de la réglementation sur l'enregistrement des entreprises de services monétaires et du formulaire FinCEN 107, éléments clés de la lutte contre le blanchiment d'argent."
     },
     {
       "hash": "24ca49abdd05",
@@ -8099,23 +8099,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les ministères s'engagent collectivement contre la finance illicite via le FATF pour combattre la criminalité financière."
-    },
-    {
-      "hash": "1ab36c9a58e7e329",
-      "source_name": "ESMA (Email)",
-      "source_type": "email",
-      "category": "autorite_eu",
-      "title": "ESMA consults on guidelines on endorsement under the ESG Ratings Regulation",
-      "url": "https://www.esma.europa.eu/press-news/esma-news/esma-consults-guidelines-endorsement-under-esg-ratings-regulation",
-      "author": "noreply@esma.europa.eu",
-      "published": "2026-04-29T13:03:23Z",
-      "summary": "Please find below recently created content on ESMA's website: News ESMA consults on guidelines on endorsement under the ESG Ratings Regulation : https://www.esma.europa.eu/press-news/esma-news/esma-consults-guidelines-endorsement-under-esg-ratings-regulation",
-      "score": 15,
-      "doc_type": "GUIDELINES",
-      "action_class": "action",
-      "ai_summary": null,
-      "status": "new",
-      "early_brief": false
     },
     {
       "hash": "0eb8d7dfbd94d97f",
@@ -9330,24 +9313,6 @@
       "ai_summary": "Séminaire médias sur la politique monétaire, la supervision bancaire et les paiements numériques organisé par la BCE."
     },
     {
-      "hash": "080b33a2131ad015",
-      "source_name": "Money Laundering News",
-      "source_type": "press",
-      "category": "presse",
-      "title": "FinCEN’s Residential Real Estate Rulemaking Vacated",
-      "url": "https://www.moneylaunderingnews.com/2026/04/fincens-residential-real-estate-rulemaking-vacated/",
-      "author": "Kaley Schafer",
-      "published": "2026-04-03T18:42:40",
-      "summary": "Recently, a federal judge in the Eastern District of Texas vacated FinCEN&#8217;s residential real estate rule (the &#8220;Rule&#8221;) finding that the agency exceeded its statutory authority under the Bank Secrecy Act (the “BSA”). Flowers Title Companies, LLC v. Bessent, Case No. 6:25-cv-127 (E.D. Tex. Mar. 19, 2026). Since finalization in 2024, the Rule has been...",
-      "score": 8,
-      "score_breakdown": "+5 mots moyens: bank | +3 Presse | +3 Géo Intl: fincen, bank secrecy act | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'annulation d'une règle FinCEN contre le blanchiment d'argent."
-    },
-    {
       "hash": "40abff33a682b36f",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -9543,7 +9508,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "93a068f7aa7b9f3f",
@@ -9762,7 +9727,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites pour corruption internationale impliquant un groupe commercial majeur."
     }
   ],
-  "last_update": "2026-05-03T17:17:03.316400+00:00",
+  "last_update": "2026-05-03T18:45:26.104279+00:00",
   "last_updated": "2026-05-01T17:04:30.996522+00:00",
   "last_fetch": "2026-05-01T06:09:38.848980+00:00"
 }
