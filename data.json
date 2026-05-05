@@ -634,7 +634,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article impose aux professionnels assujettis de former leurs personnels et d'accéder aux registres de bénéficiaires effectifs pour respecter les obligations de lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Ce décret concerne la conformité financière car il régit l'accès au registre des bénéficiaires effectifs et impose une formation obligatoire pour les professionnels soumis à la lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -1516,7 +1516,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du plafonnement des paiements en espèces par l'UE pour lutter contre le blanchiment d'argent."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du plafonnement des paiements en liquide par l'UE pour lutter contre le blanchiment d'argent."
     },
     {
       "hash": "4f36e4a51037369e",
@@ -1534,7 +1534,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal du terrorisme par une entreprise, violation majeure des obligations de conformité et de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes, violation majeure des règles de conformité et de lutte contre le financement du terrorisme."
     },
     {
       "hash": "841b0409997c23a0",
@@ -3488,7 +3488,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cette décision concerne la conformité financière car elle établit la délégation de compétences en matière de résolution et de contrôle prudentiel du secteur assurantiel par l'ACPR."
+      "ai_summary": "Cet article concerne la délégation de pouvoirs au sein de l'ACPR pour la résolution des assureurs en difficulté financière."
     },
     {
       "hash": "53fb15a63f6b46b8",
@@ -3560,7 +3560,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0b238f8df9bea1e6",
@@ -3716,24 +3716,6 @@
       "ai_summary": "Le FinCEN autorise des transactions pour la liquidation d'une banque mexicaine désignée comme risque majeur de blanchiment de capitaux."
     },
     {
-      "hash": "002e4d8ed1889ca6",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Additif à l'avis de vacance d'emplois de direction de la fonction publique hospitalière (emplois fonctionnels)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053982580",
-      "author": "Ministère de la santé, des familles, de l'autonomie et des personnes handicapées",
-      "published": "2026-04-30T00:00:00",
-      "summary": "Article L'avis de vacance d'emplois de direction de la fonction publique hospitalière (emplois fonctionnels) publié au Journal officiel de la République française le 24 avril 2026, texte n° 103 (NOR : SFHN2611262V), est modifié comme suit :Il convient d'ajouter les postes suivants :Groupe II. - Emploi de directeur ou directrice générale adjointe :- Centre hospitalier universitaire de Bordeaux (Gironde), un emploi de secrétaire général(e) (cf. annexe I).II. - Emploi de directeur ou directrice des",
-      "score": 45,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
-      "doc_type": "AVIS",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "cb80b201fd28",
       "source_name": "ACPR - Publications",
       "source_type": "scrape",
@@ -3852,7 +3834,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il aborde la lutte contre les arnaques aux investissements et la protection des investisseurs par l'AMF."
     },
     {
       "hash": "63de9e71da437064",
@@ -3870,7 +3852,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les directives de l'EBA renforcent la conformité financière en imposant des déclarations d'intérêts plus strictes et des restrictions commerciales harmonisées."
+      "ai_summary": "L'article concerne la conformité financière car il traite des règles de gouvernance, des conflits d'intérêts et des restrictions commerciales des superviseurs bancaires."
     },
     {
       "hash": "a5d2f550594d8003",
@@ -4785,7 +4767,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9468e42a607026d8",
@@ -4800,7 +4782,7 @@
       "score": 40,
       "doc_type": "GUIDELINES",
       "action_class": "action",
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA met à jour ses directives sur les clients liés pour se conformer à la nouvelle législation européenne applicable.",
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA modifie ses directives sur les clients liés pour s'aligner avec une nouvelle législation européenne applicable.",
       "status": "new",
       "early_brief": false
     },
@@ -5305,7 +5287,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "61e12d7caf5c6043",
@@ -5360,24 +5342,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'EBA simplifie les rapports prudentiels de l'UE pour les institutions financières, réduisant les données de 50%."
-    },
-    {
-      "hash": "9d1777041489b2d1",
-      "source_name": "JORF - Sanctions",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 16 avril 2026 relatif aux modalités de délivrance des agréments et portant cahier des charges pour l'organisation des épreuves théoriques du permis de conduire",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053974673",
-      "author": "Ministère de l'intérieur",
-      "published": "2026-04-29T00:00:00",
-      "summary": "AnnexeArticle ANNEXE XIATTESTATION DE SUIVI DE FORMATION D'EXAMINATEUR DE L'ÉPREUVE THÉORIQUE DU PERMIS DE CONDUIREJe soussigné(e),[Nom, prénom],agissant en qualité de [fonction] au sein de [nom de l'organisme agréé], titulaire de l'agrément n° [numéro d'agrément], délivré le [date] pour organiser l'épreuve théorique du permis de conduire,Atteste que :[Nom, prénom de l'examinateur],né(e) le [date de naissance] à [lieu de naissance],a suivi la formation d'examinateur de l'épreuve théorique du per",
-      "score": 35,
-      "score_breakdown": "+10 mots forts: agrément | +25 Source FR | ×1.0 (7d)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "ae315081b44c",
@@ -5568,6 +5532,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite des programmes de lutte contre le blanchiment d'argent et le financement du terrorisme, essentiels à la conformité financière."
+    },
+    {
+      "hash": "ef75bf8bc0541dbc",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Ex-Petrobras trader agrees to forfeit $2.3m from bribery scheme",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/ex-petrobras-trader-agrees-forfeit-23m-bribery-scheme",
+      "author": "Austin Cope",
+      "published": "2026-05-04T19:26:52",
+      "summary": "Rodrigo Berkowitz, known as “Batman” to his co-conspirators, pleaded guilty to money laundering seven years ago after receiving more than $1 million in bribes from two Connecticut-based oil traders.&nbsp;",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: money laundering | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "30b13aa17d8fc050",
@@ -6287,7 +6269,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il documente les modifications de listes de sanctions de l'ONU affectant les obligations de conformité et de gel d'actifs."
+      "ai_summary": "Cet article concerne les sanctions internationales imposées par l'ONU, relevant de la conformité réglementaire et des obligations de conformité financière en matière de lutte contre le financement du terrorisme."
     },
     {
       "hash": "2145e4a3c2c0",
@@ -7064,42 +7046,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du reporting LCB-FT, obligation légale de lutte contre le blanchiment de capitaux."
     },
     {
-      "hash": "781c275c8826a368",
-      "source_name": "JORF - Sanctions",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décision n° 2026-167 du 22 avril 2026 autorisant la société N7 TV à utiliser une ressource radioélectrique pour l'édition d'un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre, à temps complet et en haute définition dans la zone de Nantes",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053970189",
-      "author": "Autorité de régulation de la communication audiovisuelle et numérique",
-      "published": "2026-04-28T00:00:00",
-      "summary": "Article 1La société N7 TV est autorisée à utiliser les ressources radioélectriques du réseau R1 de la télévision numérique terrestre énumérées dans la décision du 18 février 2026 visée ci-dessus pour l'édition d'un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre, à temps complet et en haute définition dans la zone de Nantes.Le service est diffusé en haute définition au sens de l'arrêté du 24 décembre 2001 visé ci-dessus.Article 2La durée de l'autorisation e",
-      "score": 25,
-      "score_breakdown": "+25 Source FR | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "ddc7e957c8f12670",
-      "source_name": "JORF - Sanctions",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décision n° 2026-166 du 22 avril 2026 autorisant l'association Léonard de Vinci Média à utiliser une ressource radioélectrique pour l'édition d'un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre, à temps complet et en définition standard dans la zone de Monistrol-sur-Loire",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053970099",
-      "author": "Autorité de régulation de la communication audiovisuelle et numérique",
-      "published": "2026-04-28T00:00:00",
-      "summary": "Article 1L'association Léonard de Vinci Média est autorisée à utiliser les ressources radioélectriques définies en annexe 1 pour l'édition d'un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre, à temps complet et en définition standard dans la zone de Monistrol-sur-Loire.Le service est diffusé en définition standard au sens de l'arrêté du 24 décembre 2001 visé ci-dessus.Article 2La durée de l'autorisation est de dix ans à compter du 2 mai 2026.Article 3Le ti",
-      "score": 25,
-      "score_breakdown": "+25 Source FR | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "35675412f6ca",
       "source_name": "ACPR - Publications",
       "source_type": "scrape",
@@ -7400,7 +7346,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "29db0b16b6bf2f0f",
@@ -7454,7 +7400,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La résilience bancaire et la gestion des risques opérationnels relèvent de la supervision prudentielle et de la conformité financière."
     },
     {
       "hash": "6f6b3045033a0694",
@@ -7508,7 +7454,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "143c973911018eb9",
@@ -7686,7 +7632,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a16c3536260d8af4",
@@ -8115,7 +8061,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "01a18227f7a8fc04",
@@ -9363,7 +9309,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions financières imposées au Venezuela et les licences d'exception accordées par les autorités américaines."
     },
     {
       "hash": "40abff33a682b36f",
@@ -9561,7 +9507,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "93a068f7aa7b9f3f",
@@ -9780,7 +9726,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites pour corruption internationale impliquant un groupe commercial majeur."
     }
   ],
-  "last_update": "2026-05-04T19:59:47.331901+00:00",
+  "last_update": "2026-05-05T01:58:20.883751+00:00",
   "last_updated": "2026-05-01T17:04:30.996522+00:00",
   "last_fetch": "2026-05-01T06:09:38.848980+00:00"
 }
