@@ -634,7 +634,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il encadre l'accès au registre des bénéficiaires effectifs et impose une formation des professionnels en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article porte sur l'accès au registre des bénéficiaires effectifs et la formation obligatoire des professionnels en lutte contre le blanchiment de capitaux et le financement du terrorisme, donc il concerne directement la conformité financière."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -1516,7 +1516,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'UE impose un plafond de paiements en espèces pour lutter contre le blanchiment d'argent et la fraude."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du plafonnement des paiements en espèces imposé par l'UE pour lutter contre le blanchiment d'argent."
     },
     {
       "hash": "4f36e4a51037369e",
@@ -1534,7 +1534,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de violations graves des règles de lutte anti-blanchiment et de sanctions financières liées au financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement du terrorisme, violation majeure des règles de conformité et de lutte contre le blanchiment d'argent."
     },
     {
       "hash": "841b0409997c23a0",
@@ -2126,6 +2126,24 @@
       "ai_summary": "L'ACPR et Tracfin alertent sur les risques de blanchiment de capitaux liés aux pratiques d'utilisation d'IBAN virtuels en France."
     },
     {
+      "hash": "4d647284af1cc630",
+      "source_name": "Commission EU - Sanctions FAQ",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Movements of Russian diplomats",
+      "url": "https://finance.ec.europa.eu/publications/movements-russian-diplomats_en",
+      "author": "",
+      "published": "2026-05-05T12:10:57",
+      "summary": "FAQs on sanctions against Russia and Belarus, with focus on the following provision: Article&nbsp;5v and&nbsp;5w of Council Regulation (EU)&nbsp;No&nbsp;833/2014.",
+      "score": 60,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: regulation | +15 Source EU | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "570d23baaf119348",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -2595,6 +2613,24 @@
       "ai_summary": "Cet article analyse les défaillances de conformité AML des stablecoins et l'impact des contrôles insuffisants sur le risque de blanchiment."
     },
     {
+      "hash": "8f1d6348db5b825b",
+      "source_name": "Commission EU - Sanctions FAQ",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Consolidated version",
+      "url": "https://finance.ec.europa.eu/publications/consolidated-version_en",
+      "author": "",
+      "published": "2026-05-05T12:10:50",
+      "summary": "Consolidated version of the FAQs on sanctions against Russia and Belarus.",
+      "score": 52,
+      "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "249c3ab85eddddfd",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -2809,6 +2845,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car DORA impose aux institutions financières de renforcer leur résilience opérationnelle numérique."
+    },
+    {
+      "hash": "3c8b1d986a9dbc95",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56S1V6SXdIYXZ1OVJ2OU1NR0dvWVd4ejhMSjloOVA5SVVRc1c1cmdfVm9NUTB6ZkxGaUxSSE9HWjBRdWp0UGFWempLRVBDSVdhMVZHWF9FNWpuU0VVM1ZwXzlPUmJzdw?oc=5",
+      "author": "",
+      "published": "2026-04-28T20:47:42",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "207cc7e3f2ec",
@@ -3545,24 +3599,6 @@
       "ai_summary": "Cet article concerne la simplification de la conformité réglementaire bancaire via une réduction des obligations de reporting supervisé."
     },
     {
-      "hash": "a50213a84770ab6f",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "⏳ One week to go until Europe Day in Paris! 📅 Saturday, 9 May, the European Banking Authority will join the celebrations for #Euro...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7456266243566866433",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-05-02T09:00:03",
-      "summary": "⏳ One week to go until Europe Day in Paris!\n\n📅 Saturday, 9 May, the European Banking Authority will join the celebrations for #EuropeDay at Place de la République — and we’d love to see you there.\n\n📍 Where: Place de la République, Paris\n🕙 When: 10:00 – 18:00\n\nTogether with partners including the European Commission, European Parliament, ESMA, EUSPA and the Banque de France, we’ll be engaging with citizens to showcase how European institutions work every day to build a stronger, more sustainable ",
-      "score": 48,
-      "score_breakdown": "+10 mots forts: esma | +10 mots moyens: banque, bank | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "0b238f8df9bea1e6",
       "source_name": "AMF France (X)",
       "source_type": "rss",
@@ -3731,7 +3767,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "cb80b201fd28",
@@ -3870,7 +3906,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les lignes directrices de l'EBA renforcent la conformité financière via des mesures contre les conflits d'intérêts et les restrictions de trading des superviseurs."
+      "ai_summary": "Les directives de l'EBA renforcent la conformité financière par des mesures anti-conflits d'intérêts, déclarations obligatoires et restrictions commerciales harmonisées."
     },
     {
       "hash": "a5d2f550594d8003",
@@ -4194,7 +4230,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière des entreprises via l'Urssaf, notamment les modalités de paiement des cotisations patronales."
     },
     {
       "hash": "0d3de0bd910d027c",
@@ -4212,7 +4248,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'Urssaf propose des dispositifs d'étalement de paiement des cotisations patronales, relevant de la conformité fiscale et sociale des entreprises."
     },
     {
       "hash": "ee5f2d9ad181c7a8",
@@ -4821,7 +4857,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9468e42a607026d8",
@@ -4836,7 +4872,7 @@
       "score": 40,
       "doc_type": "GUIDELINES",
       "action_class": "action",
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA modifie ses directives sur les clients liés pour se conformer à la nouvelle législation européenne.",
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA met à jour ses directives sur les clients liés pour respecter la nouvelle législation européenne applicable.",
       "status": "new",
       "early_brief": false
     },
@@ -4912,6 +4948,24 @@
       "ai_summary": "Cet article concerne l'évaluation FATF des mesures italiennes contre le blanchiment, le financement du terrorisme et la prolifération."
     },
     {
+      "hash": "a50213a84770ab6f",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "⏳ One week to go until Europe Day in Paris! 📅 Saturday, 9 May, the European Banking Authority will join the celebrations for #Euro...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7456266243566866433",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-05-02T09:00:03",
+      "summary": "⏳ One week to go until Europe Day in Paris!\n\n📅 Saturday, 9 May, the European Banking Authority will join the celebrations for #EuropeDay at Place de la République — and we’d love to see you there.\n\n📍 Where: Place de la République, Paris\n🕙 When: 10:00 – 18:00\n\nTogether with partners including the European Commission, European Parliament, ESMA, EUSPA and the Banque de France, we’ll be engaging with citizens to showcase how European institutions work every day to build a stronger, more sustainable ",
+      "score": 40,
+      "score_breakdown": "+10 mots forts: esma | +10 mots moyens: banque, bank | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "4879b000edc2a551",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -4928,6 +4982,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cette nomination concerne la conformité financière car l'ACPR supervise la régulation bancaire et financière en France."
+    },
+    {
+      "hash": "08d796f78ed57826",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Il a beau partager des montages de lui en héros de l'Amérique sur le compte de la Maison Blanche, Trump est en chute libre dans l'opinion et dans toutes les catégories (coût de la vie, impôts, économie...)",
+      "url": "https://www.bfmtv.com/economie/international/il-a-beau-partager-des-montages-de-lui-en-heros-de-l-amerique-sur-le-compte-de-la-maison-blanche-trump-est-en-chute-libre-dans-l-opinion-et-dans-toutes-les-categories-cout-de-la-vie-impots-economie_AN-202605050573.html",
+      "author": "",
+      "published": "2026-05-05T12:59:32",
+      "summary": "Alerte sur les taux obligataires aux États-Unis. Sur fond de crise au Moyen-Orient qui s’intensifie, le taux à 10 ans a dépassé les 5%. Dans le même temps, Donald Trump semble s’enliser dans le détroit d’Ormuz, et sa cote de popularité recule dans les derniers sondages. Il est particulièrement sanctionné sur les questions économiques.",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: états-unis | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "36ff643b92f6853c",
@@ -5341,7 +5413,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "61e12d7caf5c6043",
@@ -5413,7 +5485,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ae315081b44c",
@@ -5621,7 +5693,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article concerne la conformité financière car il traite de la lutte contre la fraude sociale et fiscale, renforçant les contrôles et sanctions légales."
     },
     {
       "hash": "d42d7cf503bc8fed",
@@ -5639,7 +5711,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la fraude fiscale et sociale par l'échange de données entre organismes."
     },
     {
       "hash": "bbddd5d7eff9edc9",
@@ -5657,7 +5729,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de vigilance et de devoir de diligence que les banques doivent respecter."
     },
     {
       "hash": "ef75bf8bc0541dbc",
@@ -6395,7 +6467,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des modifications de listes de sanctions de l'ONU affectant les obligations de gel d'actifs et de conformité réglementaire internationales."
+      "ai_summary": "Cet article concerne la conformité financière car il rapporte les mises à jour des listes de sanctions de l'ONU, obligeant les institutions financières à vérifier la conformité de leurs clients."
     },
     {
       "hash": "2145e4a3c2c0",
@@ -7472,7 +7544,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "29db0b16b6bf2f0f",
@@ -7509,6 +7581,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne l'approbation d'une aide financière réglementée sous le régime SAFE, relevant de la conformité financière."
+    },
+    {
+      "hash": "544171196717713e",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Continuous learning makes our supervision more effective, write Supervisory Board member Sharon Donnery and Director Mario Quagliariello. We have an internal control function to carry out evaluations and reviews and help us learn from experience",
+      "url": "https://x.com/ecb/status/2051588230055608737",
+      "author": "@ecb",
+      "published": "2026-05-05T09:02:00",
+      "summary": "Continuous learning makes our supervision more effective, write Supervisory Board member Sharon Donnery and Director Mario Quagliariello.We have an internal control function to carry out evaluations and reviews and help us learn from experience https://t.co/lFzTdc3nMB — European Central Bank (@ecb) May 5, 2026",
+      "score": 22,
+      "score_breakdown": "+15 mots moyens: internal control, supervisory, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "ab97407a9ed7aa0a",
@@ -7580,7 +7670,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "143c973911018eb9",
@@ -7758,7 +7848,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a16c3536260d8af4",
@@ -8187,7 +8277,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "01a18227f7a8fc04",
@@ -9633,7 +9723,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "93a068f7aa7b9f3f",
@@ -9852,7 +9942,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites pour corruption internationale impliquant un groupe commercial majeur."
     }
   ],
-  "last_update": "2026-05-05T08:31:01.606587+00:00",
+  "last_update": "2026-05-05T13:14:04.716539+00:00",
   "last_updated": "2026-05-01T17:04:30.996522+00:00",
   "last_fetch": "2026-05-01T06:09:38.848980+00:00"
 }
