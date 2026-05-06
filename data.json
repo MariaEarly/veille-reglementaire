@@ -634,7 +634,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret concerne la conformité financière car il régit l'accès au registre des bénéficiaires effectifs et impose une formation obligatoire aux professionnels soumis à la lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Ce décret concerne la conformité financière car il renforce l'accès au registre des bénéficiaires effectifs et impose une formation des professionnels en lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -1516,7 +1516,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article traite du plafonnement des paiements en liquide par l'UE pour lutter contre le blanchiment d'argent, mesure de conformité anti-fraude financière."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du plafonnement des paiements en espèces par l'UE pour lutter contre le blanchiment d'argent et la fraude."
     },
     {
       "hash": "4f36e4a51037369e",
@@ -1534,7 +1534,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'ex-PDG de Lafarge conteste sa condamnation pour financement du terrorisme via versements à des groupes jihadistes, soulevant des enjeux de conformité et de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal du terrorisme par une entreprise, violation grave des obligations de conformité et de lutte anti-blanchiment."
     },
     {
       "hash": "841b0409997c23a0",
@@ -1639,7 +1639,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cette règle soumet les émetteurs de stablecoins à la loi bancaire américaine contre le blanchiment d'argent, renforçant la conformité financière."
     },
     {
       "hash": "f2c66e8e06c16cd6",
@@ -1676,6 +1676,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "FinCEN encourage les institutions financières à intégrer l'IA et l'analyse blockchain dans leurs programmes de lutte contre le blanchiment."
+    },
+    {
+      "hash": "0ea9e5fa1a63dcac",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 4 mai 2026 portant délégation de signature pour l'approbation des délibérations du conseil d'administration de la société par actions simplifiée Palais de Tokyo portant sur le budget initial et ses modifications",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054037350",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-05-06T00:00:00",
+      "summary": "Article 1M. Jean-Claude HULOT, contrôleur général économique et financier exerçant le contrôle économique et financier de l'Etat sur la société par actions simplifiée Palais de Tokyo, reçoit délégation pour approuver les délibérations du conseil d'administration de la société portant sur le budget initial et ses modifications.Article 2Le présent arrêté sera publié au Journal officiel de la République française.",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "3cd0a88bf0f55e36",
@@ -2375,7 +2393,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car ING Belgium a violé ses obligations de signalement des transactions suspectes en matière de lutte contre le blanchiment de capitaux."
     },
     {
       "hash": "9b81fe197d715267",
@@ -2881,24 +2899,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car DORA impose aux institutions financières de renforcer leur résilience opérationnelle numérique."
-    },
-    {
-      "hash": "3c8b1d986a9dbc95",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Vue PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56S1V6SXdIYXZ1OVJ2OU1NR0dvWVd4ejhMSjloOVA5SVVRc1c1cmdfVm9NUTB6ZkxGaUxSSE9HWjBRdWp0UGFWempLRVBDSVdhMVZHWF9FNWpuU0VVM1ZwXzlPUmJzdw?oc=5",
-      "author": "",
-      "published": "2026-04-28T20:47:42",
-      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "207cc7e3f2ec",
@@ -3578,7 +3578,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car l'ACPR supervise la conformité réglementaire et prudentielle des établissements financiers."
     },
     {
       "hash": "bc5a6ddd23eedd9c",
@@ -3821,7 +3821,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "cb80b201fd28",
@@ -3942,7 +3942,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de la simplification des obligations de reporting supervisory par l'EBA, enjeu majeur de conformité réglementaire bancaire."
     },
     {
       "hash": "9bd9a3bf10b98283",
@@ -4929,7 +4929,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9468e42a607026d8",
@@ -4944,7 +4944,7 @@
       "score": 40,
       "doc_type": "GUIDELINES",
       "action_class": "action",
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA met à jour ses lignes directrices sur les clients liés pour se conformer à la nouvelle législation européenne applicable aux banques.",
+      "ai_summary": "L'EBA met à jour ses directives sur les clients liés pour se conformer à la nouvelle législation UE directement applicable.",
       "status": "new",
       "early_brief": false
     },
@@ -5035,7 +5035,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4879b000edc2a551",
@@ -5054,24 +5054,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cette nomination concerne la conformité financière car l'ACPR supervise la régulation bancaire et financière en France."
-    },
-    {
-      "hash": "08d796f78ed57826",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Il a beau partager des montages de lui en héros de l'Amérique sur le compte de la Maison Blanche, Trump est en chute libre dans l'opinion et dans toutes les catégories (coût de la vie, impôts, économie...)",
-      "url": "https://www.bfmtv.com/economie/international/il-a-beau-partager-des-montages-de-lui-en-heros-de-l-amerique-sur-le-compte-de-la-maison-blanche-trump-est-en-chute-libre-dans-l-opinion-et-dans-toutes-les-categories-cout-de-la-vie-impots-economie_AN-202605050573.html",
-      "author": "",
-      "published": "2026-05-05T12:59:32",
-      "summary": "Alerte sur les taux obligataires aux États-Unis. Sur fond de crise au Moyen-Orient qui s’intensifie, le taux à 10 ans a dépassé les 5%. Dans le même temps, Donald Trump semble s’enliser dans le détroit d’Ormuz, et sa cote de popularité recule dans les derniers sondages. Il est particulièrement sanctionné sur les questions économiques.",
-      "score": 39,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: états-unis | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "36ff643b92f6853c",
@@ -5485,7 +5467,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "61e12d7caf5c6043",
@@ -5557,7 +5539,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ae315081b44c",
@@ -5765,7 +5747,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre les fraudes sociales et fiscales via un projet de loi."
     },
     {
       "hash": "27f3200041bb5e11",
@@ -5783,7 +5765,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Une entreprise danoise signale des violations potentielles des sanctions contre la Russie, relevant de la conformité aux régulations financières et commerciales."
     },
     {
       "hash": "9aa49e6baccd8cdf",
@@ -6575,7 +6557,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les sanctions des Nations Unies imposent des mesures de conformité financière aux entités listées, notamment gel des actifs et restrictions commerciales."
+      "ai_summary": "Cet article concerne la conformité financière car il documente les modifications des listes de sanctions de l'ONU affectant les obligations de gel d'actifs et de conformité réglementaire."
     },
     {
       "hash": "2145e4a3c2c0",
@@ -6936,7 +6918,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de la résilience du secteur de l'intermédiation financière non bancaire et des risques de conformité qu'il présente pour la stabilité financière."
     },
     {
       "hash": "3416433e49198413",
@@ -7670,7 +7652,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article concerne le recrutement d'un directeur exécutif à l'EBA, autorité de régulation bancaire européenne."
     },
     {
       "hash": "29db0b16b6bf2f0f",
@@ -7724,7 +7706,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il évoque l'apprentissage continu, le contrôle interne et l'évaluation pour améliorer la supervision financière."
+      "ai_summary": "L'article concerne la conformité financière car il traite de l'amélioration de la supervision et du contrôle interne par apprentissage continu."
     },
     {
       "hash": "ab97407a9ed7aa0a",
@@ -7796,7 +7778,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "143c973911018eb9",
@@ -8385,7 +8367,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d2229d7f39937b1c",
@@ -8403,7 +8385,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "01a18227f7a8fc04",
@@ -9420,6 +9402,24 @@
       "ai_summary": "L'article concerne la gestion prudentielle des tampons de capital bancaires et leur utilisation sous les cadres réglementaires et de résolution."
     },
     {
+      "hash": "402367e29f539e02",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Former Smartmatic exec accuses US of mishandling proffer amid FCPA probe",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/former-smartmatic-exec-accuses-us-of-mishandling-proffer-amid-fcpa-probe",
+      "author": "Estelle Atkinson",
+      "published": "2026-05-05T19:59:25",
+      "summary": "Prosecutors said the government didn’t create transcripts for a series of interviews with Jorge Vasquez that his lawyers argue could be critical to his defence against foreign bribery charges.",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: fcpa | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a943d58d62992c9b",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -9651,7 +9651,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c58eff72aa1ad8bd",
@@ -9867,7 +9867,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "93a068f7aa7b9f3f",
@@ -10086,7 +10086,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites pour corruption internationale impliquant un groupe commercial majeur."
     }
   ],
-  "last_update": "2026-05-05T19:56:41.234255+00:00",
+  "last_update": "2026-05-06T01:55:17.593636+00:00",
   "last_updated": "2026-05-01T17:04:30.996522+00:00",
   "last_fetch": "2026-05-01T06:09:38.848980+00:00"
 }
