@@ -634,7 +634,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret concerne la conformité financière car il renforce l'accès au registre des bénéficiaires effectifs et impose une formation des professionnels en lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article concerne l'accès au registre des bénéficiaires effectifs et la formation obligatoire des professionnels en lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -1015,6 +1015,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il analyse les cadres de lutte anti-blanchiment dans plusieurs juridictions majeures."
     },
     {
+      "hash": "c6ac558918e89581",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Délibération n° 2026-047 du 2 avril 2026 portant adoption d'une recommandation concernant l'évaluation de la solvabilité dans le cadre de l'octroi de crédit",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054042127",
+      "author": "Commission nationale de l'informatique et des libertés",
+      "published": "2026-05-07T00:00:00",
+      "summary": "Article Après avoir entendu le rapport de M. Philippe-Pierre Cabourdin, commissaire, et les observations de M. Damien Milic, commissaire du Gouvernement ;Formule les observations suivantes :1. L'octroi de crédit repose sur des traitements de données à caractère personnel de plus en plus complexes dans le but d'analyser le risque de défaillance de l'emprunteur. Ce sujet, qui concerne un grand nombre de Français, a un fort impact pour les personnes concernées ;2. Cette recommandation a pour object",
+      "score": 82,
+      "score_breakdown": "+10 mots moyens: risque, ppe | +25 Source FR | +20 Géo FR: français | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "c41a74d077c76b8b",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -1030,7 +1048,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité réglementaire en présentant les certifications professionnelles obligatoires imposées par l'AMF pour les acteurs de la finance durable."
+      "ai_summary": "Cet article traite de la conformité financière car il concerne les certifications professionnelles exigées par l'AMF pour exercer dans le secteur financier."
     },
     {
       "hash": "b648779c436c2e8d",
@@ -1552,7 +1570,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du plafonnement des paiements en espèces par l'UE pour lutter contre le blanchiment d'argent."
+      "ai_summary": "La conformité financière est concernée car cette mesure vise à lutter contre le blanchiment d'argent en limitant les paiements en espèces et en renforçant les contrôles financiers."
     },
     {
       "hash": "4f36e4a51037369e",
@@ -1570,7 +1588,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de violations graves : financement de groupes terroristes par une entreprise, représentant un risque de conformité majeur."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement du terrorisme, violation majeure des règles de conformité et de lutte contre le blanchiment d'argent."
     },
     {
       "hash": "841b0409997c23a0",
@@ -2230,7 +2248,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les mesures de gel d'actifs et d'interdiction de financement imposées par sanctions, relevant de la conformité réglementaire."
     },
     {
       "hash": "4d647284af1cc630",
@@ -2481,7 +2499,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du manquement d'ING à signaler des transactions suspectes, obligation clé de la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car ING Belgium a violé ses obligations de signalement des transactions suspectes en matière de lutte anti-blanchiment."
     },
     {
       "hash": "9b81fe197d715267",
@@ -3004,7 +3022,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "207cc7e3f2ec",
@@ -3132,6 +3150,24 @@
       "ai_summary": "Cet article définit les obligations de conformité AML/CFT et sanctions que doivent respecter les émetteurs de stablecoins autorisés."
     },
     {
+      "hash": "95da6ff6c0a6dee0",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "SEC commissioner: Agency still banking on whistleblowers",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/sec-commissioner-agency-still-banking-whistleblowers",
+      "author": "Estelle Atkinson",
+      "published": "2026-05-06T19:55:54",
+      "summary": "Commissioner Hester Peirce also told compliance professionals that how her agency previously approached the crypto industry shows why regulation by enforcement is a “bad approach”.&nbsp;",
+      "score": 49,
+      "score_breakdown": "+20 mots forts: compliance, crypto | +10 mots moyens: regulation, bank | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "5fab21cdc2f0daaa",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -3147,7 +3183,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'AMF met en place une éducation financière pour augmenter la participation des femmes en Bourse, relevant d'enjeux de conformité réglementaire et de responsabilité sociétale."
+      "ai_summary": "Cet article concerne la compliance car l'AMF, régulateur financier, met en place des mesures de protection et d'éducation des investisseurs, piliers de la conformité réglementaire."
     },
     {
       "hash": "26395e60e0dcd326",
@@ -3165,7 +3201,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne l'évaluation de la conformité aux normes FATF en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il analyse les résultats des évaluations FATF sur le respect des normes de lutte contre le blanchiment et le financement du terrorisme."
     },
     {
       "hash": "e07fe3fc372673d6",
@@ -3963,7 +3999,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "cb80b201fd28",
@@ -4084,7 +4120,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'AMF met en place un plan d'action pour l'égalité des femmes en investissement, relevant de ses obligations de conformité réglementaire."
     },
     {
       "hash": "ba2e555cf0df5378",
@@ -5089,7 +5125,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9468e42a607026d8",
@@ -5195,7 +5231,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4879b000edc2a551",
@@ -5663,7 +5699,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "61e12d7caf5c6043",
@@ -5890,24 +5926,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment d'argent, du financement du terrorisme et de la fraude numérique."
-    },
-    {
-      "hash": "695984467f9a8c6d",
-      "source_name": "FinCEN",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Anti-Money Laundering and Countering the Financing of Terrorism Programs",
-      "url": "https://www.fincen.gov/resources/statutes-regulations/federal-register-notices/anti-money-laundering",
-      "author": "",
-      "published": "2026-04-07T00:00:00",
-      "summary": "",
-      "score": 35,
-      "score_breakdown": "+20 mots critiques: money laundering | +10 mots forts: anti-money | +5 Source Intl | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite des programmes de lutte contre le blanchiment d'argent et le financement du terrorisme, essentiels à la conformité financière."
     },
     {
       "hash": "eb05fe9cb449c51f",
@@ -6651,23 +6669,6 @@
       "early_brief": false
     },
     {
-      "hash": "dddd1fcbd9c7",
-      "source_name": "UN Security Council - Sanctions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Security Council 1591 Sanctions Committee Adds Four Entries to Its Sanctions List",
-      "url": "https://press.un.org/en/2026/sc16351.doc.htm",
-      "author": "",
-      "published": "2026-05-06T17:05:40+00:00",
-      "summary": "",
-      "score": 30,
-      "doc_type": "AUTRE",
-      "action_class": "sanctions_update",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "33eea084282a",
       "source_name": "UN Security Council - Sanctions",
       "source_type": "scrape",
@@ -6822,7 +6823,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les sanctions de l'ONU imposent des obligations de conformité financière aux institutions pour identifier et geler les actifs des personnes sanctionnées."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des modifications de listes de sanctions de l'ONU affectant le respect des obligations de gel d'actifs."
     },
     {
       "hash": "2145e4a3c2c0",
@@ -7381,7 +7382,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la proposition de la SEC de rendre les rapports trimestriels optionnels pour les sociétés cotées en bourse."
     },
     {
       "hash": "f49e09489915bae9",
@@ -7953,7 +7954,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a213be790b68124b",
@@ -8097,7 +8098,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "143c973911018eb9",
@@ -8275,7 +8276,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne l'application de règles de conformité financière relatives à la manipulation de marchés et au délit d'initiés."
     },
     {
       "hash": "32f1cfb58e09e079",
@@ -8293,7 +8294,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a16c3536260d8af4",
@@ -8418,7 +8419,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'ACPR retire un agrément pour non-respect des obligations réglementaires, ce qui relève du contrôle prudentiel et de la conformité des intermédiaires financiers."
+      "ai_summary": "L'ACPR retire un agrément pour non-conformité aux normes prudentielles et réglementaires applicables aux intermédiaires financiers."
     },
     {
       "hash": "24e03de9b69d",
@@ -8561,7 +8562,7 @@
       "score": 15,
       "doc_type": "GUIDELINES",
       "action_class": "action",
-      "ai_summary": "Cet article concerne la conformité financière car il établit les attentes de supervision sur les contrôles internes et la gouvernance des administrateurs de référence, agences de notation et infrastructures de transparence du marché.",
+      "ai_summary": "Cet article concerne la conformité financière car il établit les attentes de supervision en matière de gouvernance et contrôles internes pour les administrateurs de benchmarks, agences de notation et infrastructures de transparence de marché.",
       "status": "new",
       "early_brief": false
     },
@@ -8623,23 +8624,6 @@
       "ai_summary": "Le rapport traite de conformité financière via DORA, la résilience cyber et la finance durable, thèmes clés de la régulation financière européenne.",
       "status": "new",
       "early_brief": false
-    },
-    {
-      "hash": "9ca189b36f8b",
-      "source_name": "Egmont Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Egmont Group intervenes at the World Bank/International Monetary Fund Spring Meetings in D.C.",
-      "url": "https://egmontgroup.org/news/egmont-group-intervenes-at-the-world-bank-international-monetary-fund-spring-meetings-in-d-c/",
-      "author": "",
-      "published": "2026-05-06T17:05:46+00:00",
-      "summary": "",
-      "score": 15,
-      "doc_type": "AUTRE",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "9666a3d493861924",
@@ -8815,7 +8799,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d2229d7f39937b1c",
@@ -8833,7 +8817,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "01a18227f7a8fc04",
@@ -8975,7 +8959,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article présente un tableau de bord sur la criminalité financière en Lettonie, relevant directement de la conformité financière et de la lutte anti-blanchiment."
+      "ai_summary": "Cet article présente un tableau de bord sur la criminalité financière en Lettonie, directement pertinent pour la conformité financière."
     },
     {
       "hash": "56298afdb8d65830",
@@ -9099,24 +9083,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les autorisations réglementaires relatives aux transactions avec le Venezuela, relevant de la conformité aux sanctions financières imposées par l'OFAC."
-    },
-    {
-      "hash": "2fbb34fbfd5c",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Issuance of Venezuela-related General License and Amended Frequently Asked Question",
-      "url": "https://ofac.treasury.gov/recent-actions/20260504",
-      "author": "",
-      "published": "2026-05-04T00:00:00+00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": "LICENCE",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet article concerne l'émission d'une licence générale relative au Venezuela par l'OFAC, autorité de conformité financière américaine."
     },
     {
       "hash": "d4e947c6c873",
@@ -9173,24 +9140,7 @@
       "action_class": "sanctions_update",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les mesures de conformité aux sanctions OFAC contre l'Iran et les obligations légales en matière de respect des restrictions financières."
-    },
-    {
-      "hash": "e58ba876e321",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Democratic Republic of the Congo-related Designation",
-      "url": "https://ofac.treasury.gov/recent-actions/20260430",
-      "author": "",
-      "published": "2026-04-30T00:00:00+00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": "DÉSIGNATION",
-      "action_class": "sanctions_update",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet article concerne les sanctions contre l'Iran et les mesures de conformité financière imposées par l'OFAC."
     },
     {
       "hash": "71b7ca6cc13b",
@@ -10151,24 +10101,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de corruption internationale en vertu de la loi FCPA."
     },
     {
-      "hash": "fd07e38b137a5d58",
-      "source_name": "FinCEN",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "FinCEN Proposes Rule to Fundamentally Reform Financial Institution Programs Designed to Fight Illicit Finance",
-      "url": "https://www.fincen.gov/news/news-releases/fincen-proposes-rule-fundamentally-reform-financial-institution-programs",
-      "author": "",
-      "published": "2026-04-07T00:00:00",
-      "summary": "",
-      "score": 8,
-      "score_breakdown": "+5 Source Intl | +3 Géo Intl: fincen | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "FinCEN propose une réforme des programmes de lutte contre le financement illicite, ce qui relève directement de la conformité financière."
-    },
-    {
       "hash": "40469a15fb8f6b7e",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -10418,7 +10350,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "93a068f7aa7b9f3f",
@@ -10619,7 +10551,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites pour corruption internationale impliquant un groupe commercial majeur."
     }
   ],
-  "last_update": "2026-05-06T20:07:51.633923+00:00",
+  "last_update": "2026-05-07T02:02:43.624546+00:00",
   "last_updated": "2026-05-06T17:05:47.060353+00:00",
   "last_fetch": "2026-05-06T17:01:06.121720+00:00"
 }
