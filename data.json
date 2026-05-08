@@ -634,7 +634,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article impose aux professionnels assujettis de se former et d'accéder au registre des bénéficiaires effectifs pour respecter les obligations de lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il impose aux professionnels assujettis de lutte anti-blanchiment l'accès au registre des bénéficiaires effectifs et une obligation de formation."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -1048,7 +1048,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cette recommandation concerne la conformité financière en établissant des critères d'évaluation de la solvabilité des emprunteurs lors de l'octroi de crédit."
+      "ai_summary": "Cette recommandation concerne la conformité financière en établissant des critères d'évaluation de la solvabilité pour l'octroi de crédit, garantissant une gestion responsable du risque."
     },
     {
       "hash": "c41a74d077c76b8b",
@@ -1300,7 +1300,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la fraude bancaire et du partage d'informations sur les comptes suspects entre institutions."
     },
     {
       "hash": "55eabb698c471d47",
@@ -1408,7 +1408,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur les normes réglementaires de l'EBA concernant l'assignation de pondérations de risque aux expositions de crédit spécialisé."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des normes réglementaires sur l'attribution des pondérations de risque aux expositions de financement spécialisé."
     },
     {
       "hash": "a2680bd0d1440c89",
@@ -1624,7 +1624,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cette mesure de plafonnement des paiements en espèces relève de la conformité financière car elle vise à lutter contre le blanchiment de capitaux et à renforcer la traçabilité des transactions."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du plafonnement des paiements en espèces par l'UE pour lutter contre le blanchiment d'argent et la fraude."
     },
     {
       "hash": "4f36e4a51037369e",
@@ -1642,7 +1642,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement de groupes terroristes par une entreprise, violation majeure des obligations de conformité anti-blanchiment et sanctions."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'un cas de violation majeure : financement du terrorisme par une entreprise, matière clé de la conformité."
     },
     {
       "hash": "841b0409997c23a0",
@@ -1909,7 +1909,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA émet des directives sur la définition du défaut et des règles techniques de régulation bancaire."
+      "ai_summary": "L'EBA amende ses lignes directrices sur la définition du défaut de paiement, concernant la conformité réglementaire bancaire."
     },
     {
       "hash": "3d4a454a2ddd2a0c",
@@ -3204,24 +3204,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la confiscation d'un bien acquis par des produits de fraude et de corruption."
     },
     {
-      "hash": "47b16c68c3e2687f",
-      "source_name": "FinCEN",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Permitted Payment Stablecoin Issuer Anti-Money Laundering/Countering the Financing of Terrorism Program and Sanctions Compliance Program Requirements",
-      "url": "https://www.fincen.gov/resources/statutes-regulations/federal-register-notices/permitted-payment-stablecoin-issuer-anti",
-      "author": "",
-      "published": "2026-04-08T00:00:00",
-      "summary": "",
-      "score": 50,
-      "score_breakdown": "+20 mots critiques: sanction, money laundering | +20 mots forts: compliance, anti-money | +5 mots moyens: payment | +5 Source Intl | ×1.0 (7d)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article définit les obligations de conformité AML/CFT et sanctions que doivent respecter les émetteurs de stablecoins autorisés."
-    },
-    {
       "hash": "c3eb754afaed72df",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -3237,7 +3219,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'AMF valide l'OPA de Kretinsky sur Fnac Darty, confirmant la conformité réglementaire de cette opération de contrôle d'entreprise."
     },
     {
       "hash": "95da6ff6c0a6dee0",
@@ -3954,7 +3936,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'utilisation des sanctions et des pouvoirs de sanctions secondaires par le Trésor américain."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions contre le financement du terrorisme et des outils de conformité utilisés par le Trésor américain."
     },
     {
       "hash": "d3acfd606ee5c039",
@@ -5303,7 +5285,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "36ff643b92f6853c",
@@ -5555,7 +5537,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites pénales pour trafic d'influence et abus de confiance menées par le PNF."
     },
     {
       "hash": "65ca4856d384d535",
@@ -5573,7 +5555,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les solutions numériques pour assurer la conformité réglementaire grâce aux données."
     },
     {
       "hash": "b66f7c8749a5bc20",
@@ -5771,7 +5753,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "61e12d7caf5c6043",
@@ -6931,7 +6913,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il documente les modifications de la liste de sanctions de l'ONU, essentielles pour le respect des obligations de conformité réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des listes de sanctions de l'ONU affectant les obligations de conformité des entités financières."
     },
     {
       "hash": "2145e4a3c2c0",
@@ -7292,7 +7274,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il annonce une conférence ESMA traitant de la supervision réglementaire et de l'intégration des marchés financiers."
+      "ai_summary": "Cet article concerne la conformité financière car il annonce une conférence ESMA abordant la supervision réglementaire, l'intégration des marchés et la protection des investisseurs."
     },
     {
       "hash": "ff27fb0d7144571a",
@@ -7709,24 +7691,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des frais légaux, des enquêtes de fraude et de la responsabilité d'un enquêteur."
     },
     {
-      "hash": "3ffbc2df09914ccb",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "DOJ’s new fraud division to cannibalise healthcare, market integrity units",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/dojs-new-fraud-division-cannibalise-healthcare-market-integrity-units",
-      "author": "Estelle Atkinson,Mark Taylor,Gaspard Le Dem",
-      "published": "2026-04-07T20:04:23",
-      "summary": "The crippling of the Fraud Section to populate a controversial new division has caused \"huge concern\" among prosecutors, but a DOJ spokesperson said \"only those committing fraud\" should be feeling anxious.",
-      "score": 26,
-      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: doj | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la réorganisation du DOJ et ses impacts sur les enquêtes de fraude dans la santé et les marchés financiers."
-    },
-    {
       "hash": "9a5aa01e7399",
       "source_name": "ACPR - Communiqués",
       "source_type": "scrape",
@@ -8045,6 +8009,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article concerne le recrutement d'un directeur exécutif à l'EBA, autorité de régulation bancaire européenne."
+    },
+    {
+      "hash": "be66a052da11d3dc",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "New criminal division chief: Early communication with DOJ “critical”",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/new-criminal-division-chief-early-communication-doj-critical",
+      "author": "Estelle Atkinson",
+      "published": "2026-05-07T20:21:21",
+      "summary": "In his first public remarks since taking the reins, Tysen Duva told a room of compliance professionals that a possible violation by “a few bad apples” shouldn’t mean a company’s downfall.",
+      "score": 24,
+      "score_breakdown": "+10 mots forts: compliance | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "a213be790b68124b",
@@ -8387,7 +8369,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a16c3536260d8af4",
@@ -8478,6 +8460,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des tendances futures de la compliance et du rôle de l'IA dans son optimisation."
+    },
+    {
+      "hash": "42470b295b0efc8d",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "SEC asks to summon Adani co-defendant",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/sec-asks-summon-adani-co-defendant",
+      "author": "Austin Cope",
+      "published": "2026-05-07T19:23:21",
+      "summary": "Cyril Cabanes, a former board member of a power company allegedly involved in a bribery scheme involving Indian billionaire Gautam Adani, has not made any motions or appearances in the case since FCPA charges were filed against him in late 2024.",
+      "score": 16,
+      "score_breakdown": "+5 mots moyens: ppe | +3 Presse | +3 Géo Intl: fcpa | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "b753476f53c69187",
@@ -8676,7 +8676,7 @@
       "score": 15,
       "doc_type": "GUIDELINES",
       "action_class": "action",
-      "ai_summary": "Cet article concerne la conformité financière car il établit les attentes de supervision en matière de gouvernance et de contrôles internes pour les administrateurs de benchmarks, agences de notation et infrastructures.",
+      "ai_summary": "Cet article concerne la conformité financière car il établit des lignes directrices sur les contrôles internes et la gouvernance pour les administrateurs de benchmarks, agences de notation et infrastructures de transparence des marchés.",
       "status": "new",
       "early_brief": false
     },
@@ -8760,7 +8760,7 @@
       "action_class": "",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions contre des réseaux bancaires clandestins iraniens contrevenant à la réglementation."
+      "ai_summary": "Cet article concerne les sanctions contre les réseaux bancaires clandestins iraniens, directement liés aux obligations de conformité en matière de lutte anti-blanchiment et de gel d'actifs."
     },
     {
       "hash": "9666a3d493861924",
@@ -8954,7 +8954,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d2229d7f39937b1c",
@@ -8972,7 +8972,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "01a18227f7a8fc04",
@@ -10006,40 +10006,6 @@
       "ai_summary": "Cet article concerne la récupération d'actifs issus de la criminalité, un élément clé de la lutte anti-blanchiment."
     },
     {
-      "hash": "bd88b5743054",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Issuance of Amended Russia-related General License and Frequently Asked Questions; Publication of Spanish Translations of Venezuela-related General Licenses and Frequently Asked Questions",
-      "url": "https://ofac.treasury.gov/recent-actions/20260408",
-      "author": "",
-      "published": "2026-04-08",
-      "summary": "Issuance of Amended Russia-related General License and Frequently Asked Questions; Publication of Spanish Translations of Venezuela-related General Licenses and Frequently Asked Questions",
-      "score": 10,
-      "doc_type": "enforcement",
-      "action_class": "new",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des licences générales de l'OFAC relatives aux sanctions contre la Russie et le Venezuela."
-    },
-    {
-      "hash": "f4bbc0bdf987",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Treasury Proposes Rule to Implement the GENIUS Act's Requirements to Counter Illicit Finance",
-      "url": "https://ofac.treasury.gov/recent-actions/20260408_33",
-      "author": "",
-      "published": "2026-04-08",
-      "summary": "Treasury Proposes Rule to Implement the GENIUS Act's Requirements to Counter Illicit Finance",
-      "score": 10,
-      "doc_type": "regulation",
-      "action_class": "new",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il concerne les règles de lutte contre le financement illicite imposées par la loi GENIUS."
-    },
-    {
       "hash": "3c9da1e38ae1e5df",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -10289,7 +10255,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions financières et les listes de restrictions imposées par les États-Unis contre l'Iran et Cuba."
     },
     {
       "hash": "e874e6530cff49e3",
@@ -10523,7 +10489,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "93a068f7aa7b9f3f",
@@ -10724,7 +10690,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites pour corruption internationale impliquant un groupe commercial majeur."
     }
   ],
-  "last_update": "2026-05-07T19:58:13.687264+00:00",
+  "last_update": "2026-05-08T02:05:53.441708+00:00",
   "last_updated": "2026-05-07T12:46:32+00:00",
   "last_fetch": "2026-05-07T12:46:32+00:00"
 }
