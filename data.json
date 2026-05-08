@@ -7608,6 +7608,31 @@
       "ai_summary": "L'article concerne la conformité financière car il traite des nouvelles directives de l'EBA limitant les expositions aux entités de shadow banking."
     },
     {
+      "hash": "c67d524c9ef8a17a",
+      "source_name": "EBA (Email)",
+      "source_type": "email",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 7 May, 2026",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-guidelines-definition-default",
+      "author": "no-reply@eba.europa.eu",
+      "published": "2026-05-07T18:30:29Z",
+      "summary": "NEWS & PRESS THE EBA AMENDS GUIDELINES ON THE DEFINITION OF DEFAULT Press Release The European Banking Authority (EBA) published today its final Report amending the Guidelines on the application of the definition of default. The Report introduces targeted amendments to better reflect specific aspects of non recourse factoring. It also confirms that the 1% threshold applied to reductions in net present value loss (NPV threshold) in debt restructuring remains appropriate for prudential default rec",
+      "score": 30,
+      "score_breakdown": {
+        "supervisory": 5,
+        "prudenti": 5,
+        "guidelines": 5,
+        "consultation": 5,
+        "regulation": 5,
+        "source_eba": 5
+      },
+      "doc_type": "GUIDELINES",
+      "action_class": "action",
+      "ai_summary": null,
+      "status": "new",
+      "early_brief": false
+    },
+    {
       "hash": "5cc0b588b54bdf2e",
       "source_name": "Cass. - Fraude",
       "source_type": "rss",
@@ -8160,6 +8185,28 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'EBA met à jour ses directives sur les expositions aux entités de shadow banking pour renforcer la conformité prudentielle."
+    },
+    {
+      "hash": "f5d138008a09d799",
+      "source_name": "EBA (Email)",
+      "source_type": "email",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 8 May, 2026",
+      "url": "https://www.eba.europa.eu/single-rule-book-qa/qna/view/publicId/2024_7084",
+      "author": "no-reply@eba.europa.eu",
+      "published": "2026-05-08T15:21:22Z",
+      "summary": "FINAL Q&AS QUESTION ID: 2024_7084 Topic Scope and definitions (MiCAR) Subject matter Qualification of crypto-asset service in case of exchange of electronic money tokens for other crypto-assets Should the service consisting in exchanging electronic money tokens for other crypto-assets be qualified as exchange of crypto-assets for crypto assets or as exchange of funds for crypto assets? QUESTION ID: 2024_7166 Topic Authorisation of issuers of ARTs and EMTs (MiCAR) Subject matter Publication of wh",
+      "score": 25,
+      "score_breakdown": {
+        "crypto": 10,
+        "mica": 10,
+        "source_eba": 5
+      },
+      "doc_type": "Q&A",
+      "action_class": "action",
+      "ai_summary": null,
+      "status": "new",
+      "early_brief": false
     },
     {
       "hash": "3bb8d76f8905dd85",
@@ -10931,7 +10978,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites pour corruption internationale impliquant un groupe commercial majeur."
     }
   ],
-  "last_update": "2026-05-08T14:20:48.690874+00:00",
+  "last_update": "2026-05-08T17:08:36.677179+00:00",
   "last_updated": "2026-05-08T07:25:13.731502+00:00",
   "last_fetch": "2026-05-08T07:25:13.731502+00:00"
 }
