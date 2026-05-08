@@ -634,7 +634,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne l'accès au registre des bénéficiaires effectifs et la formation obligatoire des professionnels en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il régule l'accès au registre des bénéficiaires effectifs et impose une formation obligatoire aux professionnels assujettis à la lutte contre le blanchiment de capitaux."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -979,6 +979,24 @@
       "ai_summary": "Cet arrêté fixe le montant de la contribution financière que les gestionnaires de crédits doivent verser aux autorités de contrôle financier."
     },
     {
+      "hash": "e93ce4ea89fd8062",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Implementing effective monitorships in multilateral development bank enforcement actions",
+      "url": "https://globalinvestigationsreview.com/guide/the-guide-monitorships/fifth-edition/article/implementing-effective-monitorships-in-multilateral-development-bank-enforcement-actions",
+      "author": "Michael A DeBernardis,Jiaxing Hao",
+      "published": "2026-05-08T07:00:00",
+      "summary": "Monitorships are reshaping how multilateral development banks enforce integrity standards, using independent experts to test whether sanctioned companies have strengthened their compliance programmes. Through document reviews, site visits and detailed assessments, monitors help drive real improvements while determining eligibility for release from debarment. Case studies such as SNC‑Lavalin and Al...",
+      "score": 87,
+      "score_breakdown": "+20 mots critiques: sanction | +20 mots forts: compliance, eba | +5 mots moyens: bank | +3 Presse | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "53e4f3879b49378e",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -1048,7 +1066,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cette délibération concerne la conformité financière car elle établit une recommandation sur l'évaluation de la solvabilité des emprunteurs lors de l'octroi de crédit."
+      "ai_summary": "Cette délibération concerne la conformité financière car elle recommande des pratiques d'évaluation de solvabilité dans l'octroi de crédit."
     },
     {
       "hash": "c41a74d077c76b8b",
@@ -1408,7 +1426,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des normes réglementaires de pondération des risques applicables aux expositions de crédit spécialisé."
+      "ai_summary": "L'EBA propose des amendements aux normes techniques de régulation concernant l'attribution de pondérations de risque aux expositions de crédit spécialisé, relevant de la conformité prudentielle bancaire."
     },
     {
       "hash": "a2680bd0d1440c89",
@@ -1624,7 +1642,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre le blanchiment d'argent par le plafonnement des paiements en espèces imposé par l'UE à partir de 2027."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du plafonnement des paiements en espèces par l'UE pour lutter contre le blanchiment d'argent et la fraude."
     },
     {
       "hash": "4f36e4a51037369e",
@@ -1642,7 +1660,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal du terrorisme par une entreprise, violation majeure des règles de conformité et de lutte contre le blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal du terrorisme par une entreprise, violation majeure des obligations de conformité et de lutte anti-blanchiment."
     },
     {
       "hash": "841b0409997c23a0",
@@ -3219,7 +3237,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article traite de l'éducation financière et de l'inclusion des femmes dans l'investissement, missions relevant de la conformité réglementaire de l'AMF."
     },
     {
       "hash": "c3eb754afaed72df",
@@ -3939,6 +3957,42 @@
       "ai_summary": "L'AMF met en garde contre les risques de manipulation de cours, relevant de la surveillance de la conformité financière et de l'intégrité des marchés."
     },
     {
+      "hash": "71822062c23e262d",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Data analytics and technology in modern compliance programmes",
+      "url": "https://globalinvestigationsreview.com/guide/the-guide-monitorships/fifth-edition/article/data-analytics-and-technology-in-modern-compliance-programmes",
+      "author": "Samantha Hsu,Aeriel Houston,Daniel Roseberry",
+      "published": "2026-05-08T07:00:00",
+      "summary": "Regulators are no longer just asking whether companies have a compliance programme, but also whether it’s powered by data. From DOJ enforcement trends and penalty reductions to AI governance and the monitor’s perspective, understanding how data analytics fits into corporate compliance has become essential for any organisation operating in today’s regulatory environment.",
+      "score": 46,
+      "score_breakdown": "+10 mots forts: compliance | +3 Presse | +15 IA×Finance: ai governance+compliance | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "8d1b0b86f2653b03",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Financial services industry monitorships and their impact on cryptocurrency",
+      "url": "https://globalinvestigationsreview.com/guide/the-guide-monitorships/fifth-edition/article/financial-services-industry-monitorships-and-their-impact-cryptocurrency",
+      "author": "Brian Mich,Martina Rozumberkova,Salman Raza,Mierka Willis",
+      "published": "2026-05-08T07:00:00",
+      "summary": "Independent oversight is a significant instrument in addressing compliance failures in financial services businesses. For banks and financial institutions, the US enforcement landscape shows a meaningful reduction in the frequency of corporate monitorships, replaced by greater reliance on existing banking regulators, reflecting the DOJ’s preference for self‑reporting, certifications and targeted o...",
+      "score": 46,
+      "score_breakdown": "+20 mots forts: compliance, crypto | +5 mots moyens: bank | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "bcda5708efb03cec",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -4143,6 +4197,24 @@
       "ai_summary": "Cet article concerne la conformité financière car l'ACPR alerte sur les fraudes affectant les produits et services financiers réglementés."
     },
     {
+      "hash": "2eaef893c3cc9348",
+      "source_name": "Parlement EU - ECON",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "REPORT on the proposal for a regulation of the European Parliament and of the Council amending Regulation (EU) No 575/2013 on prudential requirements for credit institutions as regards requirements for securitisation exposures - A10-0137/2026",
+      "url": "https://www.europarl.europa.eu/doceo/document/A-10-2026-0137_EN.html",
+      "author": "",
+      "published": "2026-05-08T12:34:29",
+      "summary": "REPORT on the proposal for a regulation of the European Parliament and of the Council amending Regulation (EU) No 575/2013 on prudential requirements for credit institutions as regards requirements for securitisation exposuresCommittee on Economic and Monetary AffairsRalf Seekatz Source : © European Union, 2026 - EP",
+      "score": 45,
+      "score_breakdown": "+5 mots moyens: regulation | +15 Source EU | +10 Géo EU: european union, european parliament | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "c90828c08f649803",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -4193,6 +4265,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre le financement illicite et de la mise en œuvre des normes du GAFI."
+    },
+    {
+      "hash": "253e4a45ad04b560",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📢 The EBA updates Guidelines on the definition of default The European Banking Authority has published targeted amendments to its...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7458438677002682368",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-05-08T08:52:32",
+      "summary": "📢 The EBA updates Guidelines on the definition of default\n\nThe European Banking Authority has published targeted amendments to its Guidelines, aligning them with CRR 3 and refining the treatment of non‑recourse factoring.\n\n🔍 What’s new?\n\n- Past‑due threshold at invoice level extended from 30 to 90 days, reducing the risk of misclassification and better reflecting banks’ operational practices\n\n- ✅1% NPV loss threshold for debt restructuring confirmed, ensuring consistency and risk sensitivity\n\n⚖️",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: risk, bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": "GUIDELINES",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "10465b9c445aa3e1",
@@ -5303,7 +5393,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "36ff643b92f6853c",
@@ -5612,6 +5702,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions financières contre le Venezuela et des licences d'exemption."
     },
     {
+      "hash": "2761e4bb4a8c59aa",
+      "source_name": "EBA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📢 The #EBA updates its #Guidelines on the definition of default 🔍 Non‑recourse factoring: Past‑due threshold extended 30 → 90 days ✅ 1% #NPV threshold for restructuring confirmed ⚖️ Fully aligned with #CRR3 🔗",
+      "url": "https://x.com/EBA_News/status/2052673587044032827",
+      "author": "@EBA_News",
+      "published": "2026-05-08T08:54:00",
+      "summary": "📢 The  #EBA updates its  #Guidelines on the definition of default🔍 Non‑recourse factoring:Past‑due threshold extended 30 → 90 days✅ 1%  #NPV threshold for restructuring confirmed⚖️ Fully aligned with  #CRR3🔗  link.europa.eu/3GCmw6— EU Banking Authority - EBA 🇪🇺 (@EBA_News) May 8, 2026",
+      "score": 37,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": "GUIDELINES",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "fc421ca3aeec324e",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -5754,24 +5862,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la divulgation des rémunérations élevées exigée par la réglementation financière EU."
-    },
-    {
-      "hash": "5cc0b588b54bdf2e",
-      "source_name": "Cass. - Fraude",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de DOUAI, 2ème chambre, 24 avril 2026, 25DA00811",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEDOUAI-20260424-25DA00811",
-      "author": "2ème chambre",
-      "published": "2026-04-24T12:00:00",
-      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           Mme B... A... a demandé au tribunal administratif de Rouen d'annuler la décision du 24 novembre 2023 de la section disciplinaire du conseil académique de l'université Le Havre Normandie lui infligeant une sanction de blâme et prononçant la nullité de l'épreuve intitulée \" informatique et document \".           Par un jugement no 2400278 du 25 mars 2025, le tribunal administratif de Rouen a rejeté sa demande.       ",
-      "score": 36,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "61e12d7caf5c6043",
@@ -6574,22 +6664,40 @@
       "ai_summary": "Cet article concerne les règles de conformité dans les marchés publics et leur respect par l'administration."
     },
     {
-      "hash": "668852348f684faa",
-      "source_name": "Cass. - Fraude",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour de cassation, Chambre criminelle, 08 avril 2026, C2600373",
-      "url": "http://juricaf.org/arret/FRANCE-COURDECASSATION-20260408-C2600373",
-      "author": "Chambre criminelle",
-      "published": "2026-04-08T12:00:00",
-      "summary": "FRAUDES ET FALSIFICATIONS  L'expertise contradictoire prévue aux articles L. 512-40 et suivants du code de la consommation ne s'impose que... LA COUR DE CASSATION, CHAMBRE CRIMINELLE, a rendu l'arrêt suivant :    N° V 25-86.736 FS-B    N° 00373      GM  8 AVRIL 2026      REJET      M. BONNAL président,              R É P U B L I Q U E F R A N Ç A I S E _ AU NOM DU PEUPLE FRANÇAIS _ ARRÊT DE LA COUR DE CASSATION, CHAMBRE CRIMINELLE,   DU 8 AVRIL 2026        La société 1 a formé un pourvoi contre ",
-      "score": 32,
-      "score_breakdown": "+20 mots critiques: fraude, fraud | +20 Géo FR: france, français | ×0.8 (14d)",
+      "hash": "516a10ed81248209",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Understanding UK monitorships: from Standard Bank to Entain and beyond",
+      "url": "https://globalinvestigationsreview.com/guide/the-guide-monitorships/fifth-edition/article/understanding-uk-monitorships-standard-bank-entain-and-beyond",
+      "author": "Daniel Hudson",
+      "published": "2026-05-08T07:00:00",
+      "summary": "Corporate monitorships are becoming an increasingly significant tool in the United Kingdom’s corporate crime landscape, driving deep compliance reform and shaping high‑stakes DPA settlements. From early civil recovery cases to their role in DPAs, monitors now play a pivotal role in how prosecutors assess cooperation, culture and accountability. Nevertheless, prosecutorial guidance and judicial com...",
+      "score": 31,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: bank | +3 Presse | +3 Géo Intl: united kingdom | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les fraudes et falsifications en matière de consommation, relevant de la conformité réglementaire et de la lutte anti-fraude."
+      "ai_summary": null
+    },
+    {
+      "hash": "76d3de428fbb3fb0",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "The future of FCPA oversight: updated guidelines and potential shift away from corporate monitors",
+      "url": "https://globalinvestigationsreview.com/guide/the-guide-monitorships/fifth-edition/article/the-future-of-fcpa-oversight-updated-guidelines-and-potential-shift-away-corporate-monitors",
+      "author": "Miranda Hooker,Annie E Railton,Lee Isaac Usiskin",
+      "published": "2026-05-08T07:00:00",
+      "summary": "FCPA enforcement is being reshaped by shifting DOJ priorities, a retreat from monitorships and a sharper focus on national security, cartels and high‑risk jurisdictions. Amid evolving global anti‑corruption regimes, companies face rising complexity in compliance expectations.",
+      "score": 31,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: risk | +3 Presse | +3 Géo Intl: doj, fcpa | ×1.5 (<24h)",
+      "doc_type": "GUIDELINES",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "22fa04439104d9af",
@@ -6716,6 +6824,31 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car le code des douanes encadre les déclarations et contrôles des flux financiers internationaux."
+    },
+    {
+      "hash": "4dac211ff170a0c8",
+      "source_name": "EBA (Email)",
+      "source_type": "email",
+      "category": "autorite_eu",
+      "title": "EBA amends Guidelines on the definition of default + Consultation on RTS specialised lending exposures",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-guidelines-definition-default",
+      "author": "no-reply@eba.europa.eu",
+      "published": "2026-05-07T18:30:29Z",
+      "summary": "NEWS & PRESS THE EBA AMENDS GUIDELINES ON THE DEFINITION OF DEFAULT Press Release The European Banking Authority (EBA) published today its final Report amending the Guidelines on the application of the definition of default. The Report introduces targeted amendments to better reflect specific aspects of non recourse factoring. It also confirms that the 1% threshold applied to reductions in net present value loss (NPV threshold) in debt restructuring remains appropriate for prudential default rec",
+      "score": 30,
+      "score_breakdown": {
+        "supervisory": 5,
+        "prudenti": 5,
+        "guidelines": 5,
+        "consultation": 5,
+        "regulation": 5,
+        "_source_bonus": 5
+      },
+      "doc_type": "GUIDELINES",
+      "action_class": "action",
+      "ai_summary": "Cet article concerne la conformité financière car il traite des directives de l'EBA sur la définition du défaut, essentiel pour la gestion des risques de crédit.",
+      "status": "new",
+      "early_brief": false
     },
     {
       "hash": "39ef0032e0b19291",
@@ -7292,7 +7425,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il annonce une conférence ESMA abordant la supervision des marchés, l'intégration du marché et les réformes réglementaires."
+      "ai_summary": "Cette conférence ESMA aborde la supervision des marchés financiers, la réforme prudentielle et la protection des investisseurs, sujets centraux de la conformité."
     },
     {
       "hash": "ff27fb0d7144571a",
@@ -7475,29 +7608,40 @@
       "ai_summary": "L'article concerne la conformité financière car il traite des nouvelles directives de l'EBA limitant les expositions aux entités de shadow banking."
     },
     {
-      "hash": "4dac211ff170a0c8",
-      "source_name": "EBA (Email)",
-      "source_type": "email",
-      "category": "autorite_eu",
-      "title": "EBA amends Guidelines on the definition of default + Consultation on RTS specialised lending exposures",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-guidelines-definition-default",
-      "author": "no-reply@eba.europa.eu",
-      "published": "2026-05-07T18:30:29Z",
-      "summary": "NEWS & PRESS THE EBA AMENDS GUIDELINES ON THE DEFINITION OF DEFAULT Press Release The European Banking Authority (EBA) published today its final Report amending the Guidelines on the application of the definition of default. The Report introduces targeted amendments to better reflect specific aspects of non recourse factoring. It also confirms that the 1% threshold applied to reductions in net present value loss (NPV threshold) in debt restructuring remains appropriate for prudential default rec",
-      "score": 30,
-      "score_breakdown": {
-        "supervisory": 5,
-        "prudenti": 5,
-        "guidelines": 5,
-        "consultation": 5,
-        "regulation": 5,
-        "_source_bonus": 5
-      },
-      "doc_type": "GUIDELINES",
-      "action_class": "action",
-      "ai_summary": null,
+      "hash": "5cc0b588b54bdf2e",
+      "source_name": "Cass. - Fraude",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de DOUAI, 2ème chambre, 24 avril 2026, 25DA00811",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEDOUAI-20260424-25DA00811",
+      "author": "2ème chambre",
+      "published": "2026-04-24T12:00:00",
+      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           Mme B... A... a demandé au tribunal administratif de Rouen d'annuler la décision du 24 novembre 2023 de la section disciplinaire du conseil académique de l'université Le Havre Normandie lui infligeant une sanction de blâme et prononçant la nullité de l'épreuve intitulée \" informatique et document \".           Par un jugement no 2400278 du 25 mars 2025, le tribunal administratif de Rouen a rejeté sa demande.       ",
+      "score": 27,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +20 Géo FR: france | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
       "status": "new",
-      "early_brief": false
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "8dcb27302128416b",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Understanding and validating systems, processes and controls relevant to remediation",
+      "url": "https://globalinvestigationsreview.com/guide/the-guide-monitorships/fifth-edition/article/understanding-and-validating-systems-processes-and-controls-relevant-remediation",
+      "author": "Steve Spiegelhalter,Paul Fitzsimmons,Cameron Radis,Rachel Blumenthal",
+      "published": "2026-05-08T07:00:00",
+      "summary": "When regulators impose a monitor, forensic professionals get to work immediately. From mapping legal entities and assessing data systems to designing risk-based samples and testing remediated controls, forensic experts underpin every stage of the monitorship, using corporate data to evaluate whether compliance reforms are working in practice.",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: risk | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "1c1d77b2efe558f1",
@@ -8018,24 +8162,6 @@
       "ai_summary": "L'EBA met à jour ses directives sur les expositions aux entités de shadow banking pour renforcer la conformité prudentielle."
     },
     {
-      "hash": "3a10e498bcde55cc",
-      "source_name": "Banque de France (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "➡️ \"Le droit au compte n'est pas ouvert à tout le monde !\" ➡️ \"Sans lettre de refus de ma banque, je ne peux pas bénéficier du droit au compte.\" ➡️ \"Si je suis interdit bancaire, je n'ai pas droit au droit au compte !\" Toutes ces affirmations sont fausses ! Retrouvez dès maintenant certaines idées reçues sur le droit au compte, et rendez-vous sur notre site internet pour trouver des réponses à vos questions 👉",
-      "url": "https://x.com/banquedefrance/status/2041797027357426078",
-      "author": "@banquedefrance",
-      "published": "2026-04-08T08:35:00",
-      "summary": "➡️ \"Le droit au compte n'est pas ouvert à tout le monde !\"➡️ \"Sans lettre de refus de ma banque, je ne peux pas bénéficier du droit au compte.\"➡️ \"Si je suis interdit bancaire, je n'ai pas droit au droit au compte !\"Toutes ces affirmations sont fausses ! Retrouvez dès maintenant certaines idées reçues sur le droit au compte, et rendez-vous sur notre site internet pour trouver des réponses à vos questions 👉  banque-france.fr/fr Video  — Banque de France (@banquedefrance) Apr 8, 2026",
-      "score": 25,
-      "score_breakdown": "+5 mots moyens: banque | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'article explique le droit au compte, garantie d'accès aux services bancaires essentiels, relevant de la conformité réglementaire bancaire."
-    },
-    {
       "hash": "3bb8d76f8905dd85",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -8052,6 +8178,60 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article concerne le recrutement d'un directeur exécutif à l'EBA, autorité de régulation bancaire européenne."
+    },
+    {
+      "hash": "ecd2e2f26a617e16",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Introduction: the evolution of corporate monitorships",
+      "url": "https://globalinvestigationsreview.com/guide/the-guide-monitorships/fifth-edition/article/introduction-the-evolution-of-corporate-monitorships",
+      "author": "Michael W Ross,Anthony S Barkow",
+      "published": "2026-05-08T07:00:00",
+      "summary": "Corporate monitorships have become a defining feature of modern corporate enforcement, shaped by shifting DOJ policies, high‑profile cases and expanding regulatory expectations. From their common‑law origins to their role in deterrence, reform and cross‑border compliance, monitors now sit at the centre of how governments respond to corporate misconduct.",
+      "score": 24,
+      "score_breakdown": "+10 mots forts: compliance | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "057c2a5c78c3e5d1",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Legal challenges for monitorships in Switzerland and practical lessons to be learnt",
+      "url": "https://globalinvestigationsreview.com/guide/the-guide-monitorships/fifth-edition/article/legal-challenges-monitorships-in-switzerland-and-practical-lessons-be-learnt",
+      "author": "Eric Stupp,Saverio Lembo,Joel Fischer,Abdul Carrupt",
+      "published": "2026-05-08T07:00:00",
+      "summary": "Foreign‑imposed compliance monitorships are increasingly shaping the expectations placed on companies operating in or through Switzerland, exposing gaps in Switzerland’s ability to tackle cross‑border corporate crime. Foreign monitors continue to operate on Swiss soil despite significant legal hurdles. With political momentum building following the acceptance of a parliamentary postulate in June 2...",
+      "score": 24,
+      "score_breakdown": "+10 mots forts: compliance | +3 Presse | +3 Géo Intl: switzerland | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "a0e755e775ef949c",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Fixing a broken corporate culture: how monitors help assess, remediate and transform organisations",
+      "url": "https://globalinvestigationsreview.com/guide/the-guide-monitorships/fifth-edition/article/fixing-broken-corporate-culture-how-monitors-help-assess-remediate-and-transform-organisations",
+      "author": "Neil M Barofsky,Matthew D Cipolla,Erin R Schrantz",
+      "published": "2026-05-08T07:00:00",
+      "summary": "A monitorship can uncover whether misconduct reflects deeper cultural weaknesses and guide the overhaul needed to prevent future misconduct. By scrutinising leadership tone, testing the reality of compliance frameworks, reshaping incentives and leveraging data, an effective monitor can spark lasting behavioural change.",
+      "score": 24,
+      "score_breakdown": "+10 mots forts: compliance | +3 Presse | +3 Géo Intl: sfo | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "be66a052da11d3dc",
@@ -8379,6 +8559,42 @@
       "ai_summary": "Le Wolfsberg Group fournit des recommandations de conformité aux banques pour gérer les risques financiers liés aux émetteurs de stablecoins."
     },
     {
+      "hash": "f4033c994b41155c",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Navigating the challenges that arise for union monitors",
+      "url": "https://globalinvestigationsreview.com/guide/the-guide-monitorships/fifth-edition/article/navigating-the-challenges-arise-union-monitors",
+      "author": "Glen G McGorty,Lisa Umans",
+      "published": "2026-05-08T07:00:00",
+      "summary": "Union monitorships remain a powerful tool against organised crime’s grip on unions, blending investigative authority with the delicate task of safeguarding democratic processes. From supervising historic election reforms to balancing transparency with confidentiality, these monitors navigate intense internal politics while building lasting compliance structures that prepare unions for life after o...",
+      "score": 19,
+      "score_breakdown": "+10 mots forts: compliance | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "504c4cc14e59f3a7",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "When enforcement agencies should decide to appoint a monitor",
+      "url": "https://globalinvestigationsreview.com/guide/the-guide-monitorships/fifth-edition/article/when-enforcement-agencies-should-decide-appoint-monitor",
+      "author": "Bart M Schwartz,Ian Pillinger",
+      "published": "2026-05-08T07:00:00",
+      "summary": "Monitors are becoming an essential tool for regulators tackling corporate misconduct, compliance failures and complex enforcement actions. Evolving policy guidance, new selection standards and shifting enforcement priorities are redefining when a monitor is imposed and what effective, independent oversight now requires.",
+      "score": 19,
+      "score_breakdown": "+10 mots forts: compliance | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "4a8d83a3eade8b6a",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -8412,7 +8628,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a16c3536260d8af4",
@@ -8487,24 +8703,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction douanière suspendue conditionnée à des mesures de conformité."
     },
     {
-      "hash": "eee0083a7128a8cf",
-      "source_name": "ComplyAdvantage",
-      "source_type": "press",
-      "category": "presse",
-      "title": "The Future of Compliance North America",
-      "url": "https://complyadvantage.com/insights/the-future-of-compliance-north-america/",
-      "author": "Marc Koskela",
-      "published": "2026-04-08T10:57:33",
-      "summary": "Turn compliance into a competitive advantage. Join senior leaders on May 13 for a closed-door virtual summit on AI, efficiency, and the future of compliance.\nThe post The Future of Compliance North America appeared first on ComplyAdvantage.",
-      "score": 18,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des tendances futures de la compliance et du rôle de l'IA dans son optimisation."
-    },
-    {
       "hash": "42470b295b0efc8d",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -8520,7 +8718,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les violations de la loi anticorruption (FCPA) et les obligations de conformité en matière de lutte contre la corruption dans les transactions internationales."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de violations présumées de la loi FCPA (corruption transfrontalière) impliquant un cadre dirigeant."
     },
     {
       "hash": "b753476f53c69187",
@@ -8719,7 +8917,7 @@
       "score": 15,
       "doc_type": "GUIDELINES",
       "action_class": "action",
-      "ai_summary": "Cet article concerne les contrôles internes et la gouvernance des administrateurs de benchmarks, agences de notation et infrastructures de transparence du marché.",
+      "ai_summary": "Les lignes directrices d'ESMA établissent des normes de conformité sur la gouvernance et les contrôles internes pour les prestataires financiers clés.",
       "status": "new",
       "early_brief": false
     },
@@ -8997,7 +9195,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d2229d7f39937b1c",
@@ -9015,7 +9213,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "01a18227f7a8fc04",
@@ -10532,25 +10730,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "0048570b4b219023",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "Coming up at 16:30 CET/10:30 am ET: Supervisory Board Chair Claudia Buch takes part in a fireside chat organised by the @IIF in Washington, DC. Follow the event live  pic.",
-      "url": "https://x.com/ecb/status/2045146662360785029",
-      "author": "@ecb",
-      "published": "2026-04-17T14:25:00",
-      "summary": "Coming up at 16:30 CET/10:30 am ET: Supervisory Board Chair Claudia Buch takes part in a fireside chat organised by the @IIF in Washington, DC.Follow the event live https://t.co/CjGrOprTXf pic.twitter.com/46HifAdWrG— European Central Bank (@ecb) April 17, 2026",
-      "score": 6,
-      "score_breakdown": "+10 mots moyens: supervisory, bank | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet article concerne les mesures de sanctions financières internationales imposées par les États-Unis en matière de conformité réglementaire."
     },
     {
       "hash": "93a068f7aa7b9f3f",
@@ -10607,22 +10787,22 @@
       "ai_summary": "La FCPA s'applique équitablement aux entreprises américaines et étrangères, garantissant la conformité anticorruption internationale."
     },
     {
-      "hash": "4000a79f6ff9d423",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Treasury Proposes Rule to Implement the GENIUS Act's Requirements to Counter Illicit Finance | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260408_33",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-04-08T12:00:00",
+      "hash": "7d10705904e7cbd9",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Ex-SriLankan Airlines CEO found dead amidst bribery probe: reports",
+      "url": "https://globalinvestigationsreview.com/article/ex-srilankan-airlines-ceo-dead-under-suspicious-circumstances-amidst-bribery-probe",
+      "author": "Grace Propheta",
+      "published": "2026-05-08T10:22:59",
       "summary": "",
-      "score": 5,
-      "score_breakdown": "+5 Source Intl | ×1.0 (7d)",
-      "doc_type": null,
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Le Trésor américain propose une règle pour mettre en œuvre les exigences du GENIUS Act afin de lutter contre le financement illicite."
+      "ai_summary": null
     },
     {
       "hash": "05c44a655a87a76e",
@@ -10751,7 +10931,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites pour corruption internationale impliquant un groupe commercial majeur."
     }
   ],
-  "last_update": "2026-05-08T08:05:13.615361+00:00",
+  "last_update": "2026-05-08T13:09:50.885581+00:00",
   "last_updated": "2026-05-08T07:25:13.731502+00:00",
   "last_fetch": "2026-05-08T07:25:13.731502+00:00"
 }
