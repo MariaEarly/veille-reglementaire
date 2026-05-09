@@ -634,7 +634,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il impose aux professionnels assujettis de garantir l'accès aux registres des bénéficiaires effectifs et la formation obligatoire en lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne l'accès au registre des bénéficiaires effectifs et la formation obligatoire des professionnels pour la lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -976,7 +976,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les monitorships contrôlent l'amélioration des programmes de conformité des entreprises sanctionnées par les banques multilatérales de développement."
+      "ai_summary": "Cet article traite de la conformité financière car il explique comment les moniteurs indépendants vérifient que les entreprises sanctionnées renforcent leurs programmes de conformité."
     },
     {
       "hash": "53e4f3879b49378e",
@@ -1624,7 +1624,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du plafonnement des paiements en espèces par l'UE pour lutter contre le blanchiment d'argent."
+      "ai_summary": "Cette mesure concerne la conformité financière car elle vise à lutter contre le blanchiment d'argent en limitant les transactions en espèces."
     },
     {
       "hash": "4f36e4a51037369e",
@@ -1642,7 +1642,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes par une entreprise, violation majeure des règles de conformité et de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de terrorisme par une entreprise, violation majeure des obligations de conformité et de lutte anti-blanchiment."
     },
     {
       "hash": "841b0409997c23a0",
@@ -2592,24 +2592,6 @@
       "ai_summary": "L'AMF et l'ACPR alertent sur des acteurs non autorisés proposant du Forex et crypto-dérivés, violation de la réglementation financière."
     },
     {
-      "hash": "bf9cbf8e21629ee9",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "BFM Crypto, les Pros : La corrélation BTC-Tech, nouveau moteur du Nasdaq – 08/05",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-pros-des-cryptos/bfm-crypto-les-pros-la-correlation-btc-tech-nouveau-moteur-du-nasdaq-08-05_EN-202605080538.html",
-      "author": "",
-      "published": "2026-05-08T13:47:29",
-      "summary": "Ce vendredi 8 mai, les niveaux techniques à surveiller sur le bitcoin, la corrélation entre le BTC et la Tech comme nouveau moteur du Nasdaq, Strategy voulant vendre des BTC pour rassurer la bourse, le bitcoin bientôt au bilan de Morgan Stanley, le record des actifs réels dans la tokenisation, Circle décrochant l'agrément MiCA pour ses stablecoins, la question du plafonnement des paiements en espèces des entreprises dès 2027, le Maroc levant le tabou crypto, la mutation obligatoire du modèle des",
-      "score": 57,
-      "score_breakdown": "+20 mots forts: mica, crypto, agrément | +5 mots moyens: paiement | +3 Presse | +10 Géo EU: mica | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
-    },
-    {
       "hash": "fbb71849bc3bd6ea",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -2986,7 +2968,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'EBA consulte sur des amendements aux règles techniques prudentielles pour les expositions spécialisées, alignant la conformité réglementaire bancaire."
+      "ai_summary": "L'EBA consulte sur des amendements aux critères de classification des prêts spécialisés pour renforcer la conformité réglementaire prudentielle."
     },
     {
       "hash": "247ba71a9cc9a385",
@@ -3131,6 +3113,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car DORA impose aux institutions financières de renforcer leur résilience opérationnelle numérique."
+    },
+    {
+      "hash": "8a3c3aa03adf08c2",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pMWpkMFBrUmJJTTNyNzRUbS1nTmNibzVoaDNlUW9MQnRnZ1J3Uld1STVQZzZjZ2ZUenBYLTZiX2k4cUdoOUFrbVpablNPSGVjX0ExOGVPUlpTb3VHUlBHTlNBdDBuZw?oc=5",
+      "author": "",
+      "published": "2026-05-04T23:32:16",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "207cc7e3f2ec",
@@ -4008,7 +4008,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des risques de réduction des rapports SEC affectant la surveillance de la fraude et de la corruption."
     },
     {
       "hash": "27af3c50f7829f13",
@@ -4372,7 +4372,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur les directives de l'EBA relatives à la définition du défaut de paiement, un enjeu clé de conformité réglementaire bancaire."
+      "ai_summary": "L'EBA actualise ses directives sur la définition du défaut de paiement pour se conformer à la réglementation CRR 3."
     },
     {
       "hash": "10465b9c445aa3e1",
@@ -5501,7 +5501,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "36ff643b92f6853c",
@@ -6198,6 +6198,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment d'argent, du financement du terrorisme et de la fraude numérique."
     },
     {
+      "hash": "12d2e17aa13d1a9f",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Former PNF head: anti-corruption task force “an indirect answer” to FCPA pause",
+      "url": "https://globalinvestigationsreview.com/article/former-pnf-head-anti-corruption-task-force-indirect-answer-fcpa-pause",
+      "author": "Grace Propheta",
+      "published": "2026-05-08T21:07:00",
+      "summary": "Jean-François Bohnert sat down with GIR after finishing his term as France’s top financial prosecutor to discuss cross-border collaboration and the human impact of corruption.",
+      "score": 34,
+      "score_breakdown": "+3 Presse | +20 Géo FR: france, pnf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "d42b96295a0b9410",
       "source_name": "Corporate Compliance Insights",
       "source_type": "press",
@@ -6214,24 +6232,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la gestion des risques tiers dans le secteur pharmaceutique, un enjeu clé de conformité réglementaire."
-    },
-    {
-      "hash": "12d2e17aa13d1a9f",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Former PNF head: anti-corruption task force “an indirect answer” to FCPA pause",
-      "url": "https://globalinvestigationsreview.com/article/former-pnf-head-anti-corruption-task-force-indirect-answer-fcpa-pause",
-      "author": "Grace Propheta",
-      "published": "2026-05-08T13:07:00",
-      "summary": "Jean-François Bohnert sat down with GIR after finishing his term as France’s top financial prosecutor to discuss cross-border collaboration and the human impact of corruption.",
-      "score": 34,
-      "score_breakdown": "+3 Presse | +20 Géo FR: france, pnf | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "eb05fe9cb449c51f",
@@ -6805,7 +6805,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière en analysant les monitorships britanniques comme outil de réforme de la conformité dans les enquêtes criminelles."
+      "ai_summary": "Cet article concerne la conformité financière car les monitorships imposent des réformes de conformité profondes dans les entreprises pour respecter les accords de poursuites différées."
     },
     {
       "hash": "76d3de428fbb3fb0",
@@ -6823,7 +6823,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité FCPA, des changements dans la surveillance des entreprises et de l'évolution des attentes en matière de conformité anticorruption."
+      "ai_summary": "Cet article traite de la conformité FCPA, des changements dans l'application réglementaire et des obligations de conformité anticorruption pour les entreprises."
     },
     {
       "hash": "22fa04439104d9af",
@@ -7774,7 +7774,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2c2151a1e546a7a2",
@@ -7792,7 +7792,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêt de la Cour de cassation concerne le blanchiment de capitaux, infraction relevant de la conformité financière et de la lutte contre les flux illicites."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8dcb27302128416b",
@@ -8233,7 +8233,7 @@
       },
       "doc_type": "Q&A",
       "action_class": "action",
-      "ai_summary": "Cet article concerne la qualification réglementaire des services d'échange de jetons de monnaie électronique en vertu de MiCAR, relevant de la conformité financière.",
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la qualification réglementaire des services de crypto-actifs selon MiCAR.",
       "status": "new",
       "early_brief": false
     },
@@ -8368,7 +8368,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les monitorships corporatifs relèvent de la conformité financière car ils constituent un mécanisme de contrôle externe imposé pour assurer le respect des normes de conformité et de régulation."
+      "ai_summary": "Cet article concerne la conformité financière car les monitorships corporatifs sont des mécanismes de surveillance de la conformité réglementaire et de lutte contre la fraude."
     },
     {
       "hash": "057c2a5c78c3e5d1",
@@ -8732,6 +8732,24 @@
       "ai_summary": "Le Wolfsberg Group fournit des recommandations de conformité aux banques pour gérer les risques financiers liés aux émetteurs de stablecoins."
     },
     {
+      "hash": "bb51366983be0599",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "La maison mère de Truth Social, le réseau de Donald Trump, subit des pertes colossales, plombée par les cryptomonnaies",
+      "url": "https://www.lemonde.fr/economie/article/2026/05/09/la-maison-mere-de-truth-social-le-reseau-de-donald-trump-subit-des-pertes-colossales-plombee-par-les-cryptomonnaies_6687302_3234.html",
+      "author": "",
+      "published": "2026-05-09T05:59:28",
+      "summary": "Trump Media & Technology Group a publié vendredi une perte nette de plus de 400 millions de dollars au premier trimestre. Ses comptes ont pâti de la dégringolade des devises numériques, dans lesquelles la société avait massivement investi.",
+      "score": 19,
+      "score_breakdown": "+10 mots forts: crypto | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "504c4cc14e59f3a7",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -8765,7 +8783,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "4a8d83a3eade8b6a",
@@ -8801,7 +8819,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a16c3536260d8af4",
@@ -8891,7 +8909,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de violations de la loi FCPA (Foreign Corrupt Practices Act) impliquant des accusations de corruption internationale."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de violations de la loi anticorruption (FCPA) impliquant des cadres d'entreprise."
     },
     {
       "hash": "b753476f53c69187",
@@ -9368,7 +9386,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "01a18227f7a8fc04",
@@ -10633,7 +10651,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de conformité financière car il concerne les sanctions OFAC liées à la non-prolifération et l'Iran."
     },
     {
       "hash": "e4df40887d3af5c0",
@@ -10651,7 +10669,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions financières contre le terrorisme et le narcotrafic, domaines clés de la conformité OFAC."
     },
     {
       "hash": "647a6463743cec90",
@@ -10957,7 +10975,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7db753e60572e3f1",
@@ -10975,7 +10993,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "05c44a655a87a76e",
@@ -11086,7 +11104,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la protection des lanceurs d'alerte, élément clé de la conformité réglementaire."
     }
   ],
-  "last_update": "2026-05-09T04:02:01.852939+00:00",
+  "last_update": "2026-05-09T07:44:37.749116+00:00",
   "last_updated": "2026-05-08T07:25:13.731502+00:00",
   "last_fetch": "2026-05-08T07:25:13.731502+00:00"
 }
