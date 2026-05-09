@@ -634,7 +634,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il régit l'accès au registre des bénéficiaires effectifs et impose une formation obligatoire en matière de lutte anti-blanchiment de capitaux et financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il impose aux professionnels assujettis de garantir l'accès aux registres des bénéficiaires effectifs et la formation obligatoire en lutte anti-blanchiment."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -853,24 +853,6 @@
       "ai_summary": "Cet article concerne l'harmonisation des rapports de conformité aux normes SEPA par les autorités nationales compétentes."
     },
     {
-      "hash": "c68ef462100c2285",
-      "source_name": "JORF - Blanchiment",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Ordonnance n° 2026-255 du 8 avril 2026 relative à la transposition de la directive (UE) 2024/1619 du Parlement européen et du Conseil du 31 mai 2024 modifiant la directive 2013/36/UE en ce qui concerne les pouvoirs de surveillance, les sanctions, les succursales de pays tiers et les risques environnementaux, sociaux et de gouvernance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053777259",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-04-09T00:00:00",
-      "summary": "Titre IER : DISPOSITIONS MODIFIANT LE CODE MONÉTAIRE ET FINANCIERArticle 1Les dispositions des livres III, V et VI du code monétaire et financier sont modifiées conformément aux dispositions des articles 2 à 78.Chapitre Ier : Dispositions modifiant le livre VArticle 2A l'article L. 511-10 :1° Le I est complété par cinq alinéas ainsi rédigés :« Par dérogation au premier alinéa, un établissement de crédit établi dans un Etat qui n'est ni membre de l'Union européenne ni partie à l'accord sur l'Espa",
-      "score": 95,
-      "score_breakdown": "+20 mots critiques: sanction | +20 mots forts: code monétaire, établissement de crédit | +10 mots moyens: risque, directive | +25 Source FR | +20 Géo FR: code monétaire | ×1.0 (7d)",
-      "doc_type": "ORDONNANCE",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cette ordonnance transpose une directive UE modifiant la régulation bancaire, incluant les pouvoirs de surveillance, sanctions et risques ESG."
-    },
-    {
       "hash": "ddffc090a2d9cc04",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -994,7 +976,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il explique comment les moniteurs indépendants vérifient que les entreprises sanctionnées respectent les normes d'intégrité et renforcent leurs programmes de conformité."
+      "ai_summary": "Cet article concerne la conformité financière car les monitorships contrôlent l'amélioration des programmes de conformité des entreprises sanctionnées par les banques multilatérales de développement."
     },
     {
       "hash": "53e4f3879b49378e",
@@ -1660,7 +1642,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes, violation majeure des obligations de conformité et de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes par une entreprise, violation majeure des règles de conformité et de lutte anti-blanchiment."
     },
     {
       "hash": "841b0409997c23a0",
@@ -2625,7 +2607,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "fbb71849bc3bd6ea",
@@ -3004,7 +2986,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'EBA consulte sur des amendements aux règles techniques prudentielles pour les expositions spécialisées, alignant la conformité réglementaire bancaire."
     },
     {
       "hash": "247ba71a9cc9a385",
@@ -3273,7 +3255,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de la conformité aux sanctions et des risques de violation involontaire quand les clients mentent sur le contenu des colis."
     },
     {
       "hash": "488f8ccb9c994c0c",
@@ -4011,6 +3993,24 @@
       "ai_summary": "L'AMF met en garde contre les risques de manipulation de cours, relevant de la surveillance de la conformité financière et de l'intégrité des marchés."
     },
     {
+      "hash": "c2532b424aeb9dbd",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Cutting SEC reports ‘risks blinding investors, watchdogs’ to corruption",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/cutting-sec-reports-risks-blinding-investors-watchdogs-corruption",
+      "author": "Austin Cope",
+      "published": "2026-05-08T20:25:08",
+      "summary": "Allowing public companies to opt out of quarterly reports would limit information that investors and enforcers rely on to act on fraud and corruption, lawyers told GIR. “When people know less, they can do less,” a former DOJ attorney told GIR.",
+      "score": 46,
+      "score_breakdown": "+20 mots critiques: fraud | +5 mots moyens: risk | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "27af3c50f7829f13",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -4026,7 +4026,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des litiges relatifs aux sanctions financières imposées par l'OFAC."
     },
     {
       "hash": "71822062c23e262d",
@@ -4044,7 +4044,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les outils data analytics optimisent les programmes de conformité en détectant les risques, satisfaisant les exigences réglementaires et réduisant les pénalités."
+      "ai_summary": "Cet article traite de l'intégration des données et technologies dans les programmes de conformité moderne."
     },
     {
       "hash": "8d1b0b86f2653b03",
@@ -4354,7 +4354,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'EBA consulte sur les règles techniques de prêts spécialisés pour améliorer la sensibilité aux risques conforme à CRR3."
     },
     {
       "hash": "253e4a45ad04b560",
@@ -4372,7 +4372,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les amendements de l'EBA sur la définition du défaut de paiement concernent directement la conformité réglementaire bancaire et le respect des normes prudentielles."
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur les directives de l'EBA relatives à la définition du défaut de paiement, un enjeu clé de conformité réglementaire bancaire."
     },
     {
       "hash": "10465b9c445aa3e1",
@@ -4750,7 +4750,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de la diligence raisonnable sur les bénéficiaires effectifs, essentielle à la conformité financière et anti-blanchiment."
     },
     {
       "hash": "583a6d370fa796d7",
@@ -5501,7 +5501,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "36ff643b92f6853c",
@@ -5825,7 +5825,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'EBA met à jour ses directives sur la définition du défaut de paiement, impactant les seuils de non-conformité et la classification des crédits douteux."
+      "ai_summary": "L'EBA met à jour ses directives sur la définition du défaut de paiement, impactant les seuils de non-conformité et la gestion des risques de crédit."
     },
     {
       "hash": "fc421ca3aeec324e",
@@ -6213,7 +6213,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la gestion des risques tiers dans le secteur pharmaceutique, un enjeu clé de conformité réglementaire."
     },
     {
       "hash": "12d2e17aa13d1a9f",
@@ -6231,7 +6231,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "eb05fe9cb449c51f",
@@ -6805,7 +6805,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite des monitorships en conformité financière, outils clés pour superviser les réformes de conformité dans les règlements pénaux britanniques."
+      "ai_summary": "Cet article traite de la conformité financière en analysant les monitorships britanniques comme outil de réforme de la conformité dans les enquêtes criminelles."
     },
     {
       "hash": "76d3de428fbb3fb0",
@@ -6823,7 +6823,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité FCPA, des changements de priorités du DOJ et des impacts sur les obligations de conformité anticorruption des entreprises."
+      "ai_summary": "Cet article traite de la conformité FCPA, des changements dans la surveillance des entreprises et de l'évolution des attentes en matière de conformité anticorruption."
     },
     {
       "hash": "22fa04439104d9af",
@@ -6972,7 +6972,7 @@
       },
       "doc_type": "GUIDELINES",
       "action_class": "action",
-      "ai_summary": "Cet article concerne la conformité financière car il traite des lignes directrices de l'EBA sur la définition du défaut de paiement, normes essentielles pour la conformité prudentielle bancaire.",
+      "ai_summary": "Cet article concerne la conformité financière car il traite des amendements réglementaires de l'EBA sur la définition du défaut de paiement.",
       "status": "new",
       "early_brief": false
     },
@@ -7774,7 +7774,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "2c2151a1e546a7a2",
@@ -7792,7 +7792,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet arrêt de la Cour de cassation concerne le blanchiment de capitaux, infraction relevant de la conformité financière et de la lutte contre les flux illicites."
     },
     {
       "hash": "8dcb27302128416b",
@@ -8233,7 +8233,7 @@
       },
       "doc_type": "Q&A",
       "action_class": "action",
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la qualification réglementaire des services de change de jetons de monnaie électronique selon MiCAR.",
+      "ai_summary": "Cet article concerne la qualification réglementaire des services d'échange de jetons de monnaie électronique en vertu de MiCAR, relevant de la conformité financière.",
       "status": "new",
       "early_brief": false
     },
@@ -8368,7 +8368,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière via les moniteurs d'entreprise, mécanismes clés de l'application de la réglementation et de la conformité en matière de gouvernance."
+      "ai_summary": "Les monitorships corporatifs relèvent de la conformité financière car ils constituent un mécanisme de contrôle externe imposé pour assurer le respect des normes de conformité et de régulation."
     },
     {
       "hash": "057c2a5c78c3e5d1",
@@ -8732,24 +8732,6 @@
       "ai_summary": "Le Wolfsberg Group fournit des recommandations de conformité aux banques pour gérer les risques financiers liés aux émetteurs de stablecoins."
     },
     {
-      "hash": "f4033c994b41155c",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Navigating the challenges that arise for union monitors",
-      "url": "https://globalinvestigationsreview.com/guide/the-guide-monitorships/fifth-edition/article/navigating-the-challenges-arise-union-monitors",
-      "author": "Glen G McGorty,Lisa Umans",
-      "published": "2026-05-08T07:00:00",
-      "summary": "Union monitorships remain a powerful tool against organised crime’s grip on unions, blending investigative authority with the delicate task of safeguarding democratic processes. From supervising historic election reforms to balancing transparency with confidentiality, these monitors navigate intense internal politics while building lasting compliance structures that prepare unions for life after o...",
-      "score": 19,
-      "score_breakdown": "+10 mots forts: compliance | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "504c4cc14e59f3a7",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -8765,7 +8747,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la nomination de moniteurs par les agences de régulation pour superviser la conformité et contrôler les entreprises en cas de manquements."
+      "ai_summary": "Cet article concerne la nomination de moniteurs par les autorités de régulation pour superviser la conformité des entreprises face aux violations."
+    },
+    {
+      "hash": "f4033c994b41155c",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Navigating the challenges that arise for union monitors",
+      "url": "https://globalinvestigationsreview.com/guide/the-guide-monitorships/fifth-edition/article/navigating-the-challenges-arise-union-monitors",
+      "author": "Glen G McGorty,Lisa Umans",
+      "published": "2026-05-08T07:00:00",
+      "summary": "Union monitorships remain a powerful tool against organised crime’s grip on unions, blending investigative authority with the delicate task of safeguarding democratic processes. From supervising historic election reforms to balancing transparency with confidentiality, these monitors navigate intense internal politics while building lasting compliance structures that prepare unions for life after o...",
+      "score": 19,
+      "score_breakdown": "+10 mots forts: compliance | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "4a8d83a3eade8b6a",
@@ -8801,7 +8801,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a16c3536260d8af4",
@@ -8891,7 +8891,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de violations présumées de la loi FCPA (Foreign Corrupt Practices Act) impliquant des accusations de corruption."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de violations de la loi FCPA (Foreign Corrupt Practices Act) impliquant des accusations de corruption internationale."
     },
     {
       "hash": "b753476f53c69187",
@@ -9368,7 +9368,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "01a18227f7a8fc04",
@@ -9583,24 +9583,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article traite de la régulation de la finance numérique en Europe et du rôle des autorités publiques dans la conformité des marchés financiers."
-    },
-    {
-      "hash": "6a9b0ea200ad8cb5",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Dropped Fifa charges don’t apply to forfeitures, Concacaf says",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/dropped-fifa-charges-dont-apply-forfeitures-concacaf-says",
-      "author": "Austin Cope",
-      "published": "2026-04-08T19:15:38",
-      "summary": "One of the football organisation’s six continental confederations that received victim payouts following convictions in the sprawling commercial bribery case argued that it is still entitled to forfeited assets even though the DOJ dropped the case.&nbsp;",
-      "score": 11,
-      "score_breakdown": "+5 mots moyens: ppe | +3 Presse | +3 Géo Intl: doj | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne le blanchiment d'argent, la corruption et la restitution d'actifs saisis dans une affaire de corruption commerciale."
     },
     {
       "hash": "44e45bc18cd1",
@@ -10636,6 +10618,42 @@
       "ai_summary": "Séminaire médias sur la politique monétaire, la supervision bancaire et les paiements numériques organisé par la BCE."
     },
     {
+      "hash": "f5190c70e19e333f",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Non-Proliferation and Iran-related Designations and Designations Updates | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260508_33",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-05-08T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "e4df40887d3af5c0",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Counter Terrorism and Counter Narcotics Designation Update, Russia-related Designation Removal | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260508",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-05-08T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "647a6463743cec90",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -10924,24 +10942,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'allégations de corruption étrangère contre Smartmatic, violant les lois anti-corruption."
     },
     {
-      "hash": "1f3cf1bbc6346e54",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "FCPA equally hard on US, foreign companies, review finds",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/fcpa-equally-hard-us-foreign-companies-review-finds",
-      "author": "Estelle Atkinson",
-      "published": "2026-04-08T20:32:59",
-      "summary": "A new article argues that the FCPA pause was a “bolt from the blue” following years of criticism that the law was more heavily wielded against foreign companies.&nbsp;",
-      "score": 6,
-      "score_breakdown": "+3 Presse | +3 Géo Intl: fcpa | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La FCPA s'applique équitablement aux entreprises américaines et étrangères, garantissant la conformité anticorruption internationale."
-    },
-    {
       "hash": "0bc6608e24219954",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -10957,14 +10957,14 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
-      "hash": "7d10705904e7cbd9",
+      "hash": "7db753e60572e3f1",
       "source_name": "Global Investigations Review",
       "source_type": "press",
       "category": "presse",
-      "title": "Ex-SriLankan Airlines CEO found dead amidst bribery probe: reports",
+      "title": "Ex-SriLankan Airlines CEO found dead amid bribery probe: reports",
       "url": "https://globalinvestigationsreview.com/article/ex-srilankan-airlines-ceo-dead-under-suspicious-circumstances-amidst-bribery-probe",
       "author": "Grace Propheta",
       "published": "2026-05-08T10:22:59",
@@ -10975,7 +10975,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "05c44a655a87a76e",
@@ -11084,27 +11084,9 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la protection des lanceurs d'alerte, élément clé de la conformité réglementaire."
-    },
-    {
-      "hash": "a8a1517cee86f601",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Adanis to request dismissal of SEC bribery case",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/adanis-request-dismissal-of-sec-bribery-case",
-      "author": "Austin Cope",
-      "published": "2026-04-08T20:05:22",
-      "summary": "Lawyers for Indian billionaire Gautam Adani and his nephew Sagar surfaced in January, more than a year after the pair was charged in a sprawling foreign bribery scheme involving the Adani Group’s green energy arm.&nbsp;",
-      "score": 3,
-      "score_breakdown": "+3 Presse | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites pour corruption internationale impliquant un groupe commercial majeur."
     }
   ],
-  "last_update": "2026-05-08T19:51:04.487118+00:00",
+  "last_update": "2026-05-09T01:59:25.115599+00:00",
   "last_updated": "2026-05-08T07:25:13.731502+00:00",
   "last_fetch": "2026-05-08T07:25:13.731502+00:00"
 }
