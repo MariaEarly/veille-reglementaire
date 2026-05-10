@@ -634,7 +634,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière en imposant aux professionnels assujettis un accès au registre des bénéficiaires effectifs et une formation obligatoire pour la lutte anti-blanchiment."
+      "ai_summary": "Ce décret concerne la conformité financière en renforçant l'accès au registre des bénéficiaires effectifs et la formation obligatoire contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -976,7 +976,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la surveillance de la conformité par les banques multilatérales de développement sur les entreprises sanctionnées."
+      "ai_summary": "Cet article traite de la conformité financière car il explique comment les moniteurs indépendants évaluent et renforcent les programmes de conformité des entreprises sanctionnées."
     },
     {
       "hash": "53e4f3879b49378e",
@@ -1642,7 +1642,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes par une entreprise, violation majeure des règles de conformité et de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement du terrorisme, violation majeure des règles de conformité et de lutte anti-blanchiment."
     },
     {
       "hash": "841b0409997c23a0",
@@ -1784,6 +1784,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "FinCEN encourage les institutions financières à intégrer l'IA et l'analyse blockchain dans leurs programmes de lutte contre le blanchiment."
+    },
+    {
+      "hash": "442ca4b9caf35f2f",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 3 mars 2026 portant approbation des modifications de la convention constitutive du groupement d'intérêt public dénommé « Centre de recherche du château de Versailles »",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054050711",
+      "author": "Ministère de la culture",
+      "published": "2026-05-10T00:00:00",
+      "summary": "Article 1L'avenant n° 4 à la convention constitutive du groupement d'intérêt public « Centre de recherches du château de Versailles », adopté par délibération de l'assemblée générale du groupement en date du 7 mars 2025, est approuvé. Des extraits de la convention constitutive modifiée sont annexés au présent arrêté.Article 2Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXEVERSION CONSOLIDÉE DE LA CONVENTION CONSTITUTIVE DU GROUPEMENT D'INTÉRÊT PUB",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "142412ad807a0374",
@@ -3130,7 +3148,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "207cc7e3f2ec",
@@ -6123,7 +6141,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il aborde la lutte anti-corruption et l'application de la loi FCPA."
     },
     {
       "hash": "d42b96295a0b9410",
@@ -6715,7 +6733,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "516a10ed81248209",
@@ -7630,7 +7648,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8dcb27302128416b",
@@ -8206,7 +8224,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les monitorships corporatifs sont des dispositifs de surveillance imposés pour assurer la conformité réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des monitorships corporatifs, outils de surveillance et de conformité réglementaire imposés par les autorités."
     },
     {
       "hash": "057c2a5c78c3e5d1",
@@ -8297,24 +8315,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet outil aide à identifier les cabinets et avocats spécialisés en FCPA, essentiels pour la conformité anticorruption."
-    },
-    {
-      "hash": "3c6c3b862748",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "SAFE: final green light for financial assistance to Czechia and France 11:56 The Council adopted implementing decisions making the financial assistance under the SAFE regulation available to Czechia and France. Council of the EU",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/04/10/safe-final-green-light-for-financial-assistance-to-czechia-and-france/",
-      "author": "",
-      "published": "2026-04-10T00:00:00Z",
-      "summary": "SAFE: final green light for financial assistance to Czechia and France 11:56 The Council adopted implementing decisions making the financial assistance under the SAFE regulation available to Czechia and France. Council of the EU",
-      "score": 22,
-      "score_breakdown": null,
-      "doc_type": "guidance",
-      "action_class": "new_regulation",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne l'approbation d'une aide financière réglementée sous le régime SAFE, relevant de la conformité financière."
     },
     {
       "hash": "544171196717713e",
@@ -8585,7 +8585,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Trump Media & Technology Group doit justifier ses investissements en cryptomonnaies et déclarer ses pertes significatives aux autorités de régulation financière."
+      "ai_summary": "Cette affaire concerne la conformité financière car elle révèle des risques de gestion d'actifs cryptographiques et de reporting financier fiable pour les investisseurs."
     },
     {
       "hash": "504c4cc14e59f3a7",
@@ -8729,7 +8729,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b753476f53c69187",
@@ -9206,7 +9206,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3330637cdfca5d87",
@@ -9242,7 +9242,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "01a18227f7a8fc04",
@@ -10780,24 +10780,6 @@
       "ai_summary": "Cet article concerne l'adaptation des politiques de conformité aux nouveaux modes numériques d'émission et de négociation d'actifs financiers."
     },
     {
-      "hash": "e41c2747f82a2874",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Filipino official’s potential extradition looms over Smartmatic bribery case",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/filipino-officials-potential-extradition-looms-over-smartmatic-bribery-case",
-      "author": "Estelle Atkinson",
-      "published": "2026-04-09T20:11:26",
-      "summary": "Should Juan Andres Doñato Bautista appear in US court, his testimony could have sweeping implications for Smartmatic as the voting machine company fights foreign bribery allegations, lawyers told GIR.",
-      "score": 6,
-      "score_breakdown": "+5 mots moyens: ppe | +3 Presse | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'allégations de corruption étrangère contre Smartmatic, violant les lois anti-corruption."
-    },
-    {
       "hash": "05c44a655a87a76e",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -10867,7 +10849,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7db753e60572e3f1",
@@ -10885,7 +10867,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "5db889015bd7271e",
@@ -10942,7 +10924,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la protection des lanceurs d'alerte, élément clé de la conformité réglementaire."
     }
   ],
-  "last_update": "2026-05-09T19:38:57.039949+00:00",
+  "last_update": "2026-05-10T01:58:39.976120+00:00",
   "last_updated": "2026-05-08T07:25:13.731502+00:00",
   "last_fetch": "2026-05-08T07:25:13.731502+00:00"
 }
