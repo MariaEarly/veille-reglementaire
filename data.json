@@ -634,7 +634,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il régule l'accès au registre des bénéficiaires effectifs et impose une formation obligatoire pour la lutte anti-blanchiment de capitaux et anti-terrorisme."
+      "ai_summary": "Cet article concerne l'accès au registre des bénéficiaires effectifs et la formation obligatoire des professionnels dans le cadre de la lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -761,6 +761,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des exigences de lutte contre le blanchiment de capitaux et le financement du terrorisme."
+    },
+    {
+      "hash": "25afb4872d9c1aaa",
+      "source_name": "PNF (Parquet National Financier)",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "🌍 Les 5 et 6 mai, le PNF était à Londres pour…",
+      "url": "https://social.numerique.gouv.fr/@pnf/116554973330915775",
+      "author": "",
+      "published": "2026-05-11T08:22:32",
+      "summary": "🌍 Les 5 et 6 mai, le PNF était à Londres pour une conférence internationale sur la criminalité économique, aux côtés du Serious Fraud Office (UK) et du Bundesanwaltschaft (CH).Une centaine de magistrats et enquêteurs de 15 pays réunis pour échanger sur : la saisie des avoirs criminels, le big data et la coopération judiciaire internationale. 🏛️⚖️",
+      "score": 97,
+      "score_breakdown": "+20 mots critiques: fraud | +25 Source FR | +20 Géo FR: pnf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la criminalité économique et la saisie des avoirs criminels."
     },
     {
       "hash": "0ea5b7b83e711e80",
@@ -958,7 +976,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière en expliquant comment les banques multilatérales de développement utilisent des moniteurs indépendants pour vérifier que les entreprises sanctionnées respectent les normes d'intégrité et renforcent leurs programmes de conformité."
+      "ai_summary": "Cet article concerne les monitorships dans l'application des normes d'intégrité par les banques de développement multilatérales pour vérifier la conformité des entreprises sanctionnées."
     },
     {
       "hash": "53e4f3879b49378e",
@@ -1357,6 +1375,24 @@
       "ai_summary": "Cet article concerne la lutte contre la corruption et les atteintes à la probité financière, enquête du PNF."
     },
     {
+      "hash": "a7a4339b2e564d9d",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "AMLA holds public hearing to consult on Draft RTS for Home-Host Supervisory Cooperation",
+      "url": "https://www.amla.europa.eu/amla-holds-public-hearing-consult-draft-rts-home-host-supervisory-cooperation_en",
+      "author": "",
+      "published": "2026-05-11T08:02:24",
+      "summary": "AMLA is consulting on proposed draft Regulatory Technical Standards (RTS), which set out a simple, proportionate and efficient framework for cooperation between home and host supervisors of cross-border groups of obliged entities.&nbsp;&nbsp;",
+      "score": 75,
+      "score_breakdown": "+20 mots forts: aml, amla | +5 mots moyens: supervisory | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "57f10a3293a6ca31",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -1606,7 +1642,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite du financement illégal du terrorisme par une entreprise, violation majeure des normes de conformité et de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes par une entreprise, violation majeure des règles de lutte anti-blanchiment et sanctions financières."
     },
     {
       "hash": "841b0409997c23a0",
@@ -1660,7 +1696,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite de la mise en conformité réglementaire de l'ACPR aux normes de l'ABE sur le risque climatique et environnemental."
+      "ai_summary": "L'ACPR se conforme aux directives de l'ABE sur l'analyse de scénarios environnementaux, relevant de la conformité réglementaire bancaire."
     },
     {
       "hash": "1ed727973582",
@@ -2752,7 +2788,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "557ea42365d984df",
@@ -6607,7 +6643,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "516a10ed81248209",
@@ -7486,7 +7522,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8dcb27302128416b",
@@ -8044,7 +8080,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière en analysant l'évolution des monitorships d'entreprise, des outils de surveillance et de conformité réglementaire clés."
+      "ai_summary": "Cet article concerne la conformité financière en expliquant le rôle des moniteurs corporatifs dans l'application des règles de conformité et de lutte contre les violations réglementaires."
     },
     {
       "hash": "057c2a5c78c3e5d1",
@@ -8531,7 +8567,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b753476f53c69187",
@@ -8975,6 +9011,24 @@
       "ai_summary": "Cet article traite des juridictions à haut risque de blanchiment, relevant de la conformité anti-blanchiment et AML."
     },
     {
+      "hash": "87bc89af3578e0bc",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Completing the banking union will make European banks more competitive, Supervisory Board member Sharon Donnery tells Expansión. Harmonised EU rules would allow banks to scale up across borders, creating a more integrated market. Read the interview",
+      "url": "https://x.com/ecb/status/2053747038597075379",
+      "author": "@ecb",
+      "published": "2026-05-11T08:00:00",
+      "summary": "Completing the banking union will make European banks more competitive, Supervisory Board member Sharon Donnery tells Expansión.  Harmonised EU rules would allow banks to scale up across borders, creating a more integrated market.  Read the interview https://t.co/lbbpiFJ12g — European Central Bank (@ecb) May 11, 2026",
+      "score": 15,
+      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "06c4b634f71e88da",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -9008,7 +9062,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3330637cdfca5d87",
@@ -9044,7 +9098,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "01a18227f7a8fc04",
@@ -10651,7 +10705,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7db753e60572e3f1",
@@ -10669,7 +10723,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5db889015bd7271e",
@@ -10726,7 +10780,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la protection des lanceurs d'alerte, élément clé de la conformité réglementaire."
     }
   ],
-  "last_update": "2026-05-11T04:41:49.858841+00:00",
+  "last_update": "2026-05-11T08:59:54.282164+00:00",
   "last_updated": "2026-05-08T07:25:13.731502+00:00",
   "last_fetch": "2026-05-08T07:25:13.731502+00:00"
 }
