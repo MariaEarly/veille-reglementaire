@@ -634,7 +634,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il régit l'accès au registre des bénéficiaires effectifs et impose une formation obligatoire aux professionnels assujettis à la lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il régule l'accès au registre des bénéficiaires effectifs et impose une formation obligatoire pour la lutte anti-blanchiment de capitaux et anti-terrorisme."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -958,7 +958,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la surveillance de la conformité par des experts indépendants mandatés par les banques de développement pour vérifier le respect des normes d'intégrité."
+      "ai_summary": "Cet article concerne la conformité financière en expliquant comment les banques multilatérales de développement utilisent des moniteurs indépendants pour vérifier que les entreprises sanctionnées respectent les normes d'intégrité et renforcent leurs programmes de conformité."
     },
     {
       "hash": "53e4f3879b49378e",
@@ -1606,7 +1606,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes, violation majeure des règles de conformité et de lutte anti-blanchiment."
+      "ai_summary": "L'article concerne la conformité financière car il traite du financement illégal du terrorisme par une entreprise, violation majeure des normes de conformité et de lutte anti-blanchiment."
     },
     {
       "hash": "841b0409997c23a0",
@@ -1660,7 +1660,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article concerne la conformité financière car il traite de la mise en conformité réglementaire de l'ACPR aux normes de l'ABE sur le risque climatique et environnemental."
     },
     {
       "hash": "1ed727973582",
@@ -1766,24 +1766,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "FinCEN encourage les institutions financières à intégrer l'IA et l'analyse blockchain dans leurs programmes de lutte contre le blanchiment."
-    },
-    {
-      "hash": "442ca4b9caf35f2f",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 3 mars 2026 portant approbation des modifications de la convention constitutive du groupement d'intérêt public dénommé « Centre de recherche du château de Versailles »",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054050711",
-      "author": "Ministère de la culture",
-      "published": "2026-05-10T00:00:00",
-      "summary": "Article 1L'avenant n° 4 à la convention constitutive du groupement d'intérêt public « Centre de recherches du château de Versailles », adopté par délibération de l'assemblée générale du groupement en date du 7 mars 2025, est approuvé. Des extraits de la convention constitutive modifiée sont annexés au présent arrêté.Article 2Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXEVERSION CONSOLIDÉE DE LA CONVENTION CONSTITUTIVE DU GROUPEMENT D'INTÉRÊT PUB",
-      "score": 67,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "142412ad807a0374",
@@ -2753,6 +2735,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la fiscalité des cryptomonnaies et de la déclaration des portefeuilles numériques."
+    },
+    {
+      "hash": "442ca4b9caf35f2f",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 3 mars 2026 portant approbation des modifications de la convention constitutive du groupement d'intérêt public dénommé « Centre de recherche du château de Versailles »",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054050711",
+      "author": "Ministère de la culture",
+      "published": "2026-05-10T00:00:00",
+      "summary": "Article 1L'avenant n° 4 à la convention constitutive du groupement d'intérêt public « Centre de recherches du château de Versailles », adopté par délibération de l'assemblée générale du groupement en date du 7 mars 2025, est approuvé. Des extraits de la convention constitutive modifiée sont annexés au présent arrêté.Article 2Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXEVERSION CONSOLIDÉE DE LA CONVENTION CONSTITUTIVE DU GROUPEMENT D'INTÉRÊT PUB",
+      "score": 54,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "557ea42365d984df",
@@ -6607,7 +6607,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "516a10ed81248209",
@@ -6752,24 +6752,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des risques de blanchiment via des transactions fictives détectées par l'OFAC."
-    },
-    {
-      "hash": "1bd040e347fd9092",
-      "source_name": "JORF - Blanchiment",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Ordonnance n° 2026-265 du 8 avril 2026 portant partie législative du code des douanes",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053791010",
-      "author": "Ministère de l'action et des comptes publics",
-      "published": "2026-04-11T00:00:00",
-      "summary": "Article 1Les dispositions annexées à la présente ordonnance constituent la partie législative du code des douanes.Article 2Les dispositions de la partie législative du code des douanes qui mentionnent, sans les reproduire, des dispositions d'autres codes ou textes législatifs sont modifiées de plein droit par l'effet des modifications ultérieures de ces dispositions.Article 3Les références à des dispositions abrogées par les articles 4 et 6 de la présente ordonnance sont remplacées par des référ",
-      "score": 30,
-      "score_breakdown": "+25 Source FR | ×1.2 (<3d)",
-      "doc_type": "ORDONNANCE",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car le code des douanes encadre les déclarations et contrôles des flux financiers internationaux."
     },
     {
       "hash": "4dac211ff170a0c8",
@@ -7504,7 +7486,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8dcb27302128416b",
@@ -8062,7 +8044,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les monitorships corporatifs sont des mécanismes de surveillance réglementaire essentiels pour assurer la conformité et la prévention des violations."
+      "ai_summary": "Cet article traite de la conformité financière en analysant l'évolution des monitorships d'entreprise, des outils de surveillance et de conformité réglementaire clés."
     },
     {
       "hash": "057c2a5c78c3e5d1",
@@ -8207,24 +8189,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il analyse les règles de capital bancaire de l'UE et leur conception réglementaire post-crise."
-    },
-    {
-      "hash": "ffde73cc6c09fc1d",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Fired Goldman consultant alleges bank pushed him to falsify records",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/fired-goldman-consultant-alleges-bank-pushed-him-falsify-records",
-      "author": "Austin Cope",
-      "published": "2026-04-10T19:18:57",
-      "summary": "In a retaliation lawsuit, Andrew Delaney says Goldman terminated him for refusing to alter compliance records about a controversial 2006 sale as it faced increased scrutiny amid the global 1MDB corruption scandal.",
-      "score": 21,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: bank | +3 Presse | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Un consultant dénonce que Goldman Sachs l'a licencié pour refus de falsifier des documents de conformité concernant une vente controversée."
     },
     {
       "hash": "68a0902b64998b9b",
@@ -8567,7 +8531,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b753476f53c69187",
@@ -9044,7 +9008,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3330637cdfca5d87",
@@ -9080,7 +9044,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "01a18227f7a8fc04",
@@ -10111,7 +10075,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il aborde la supervision bancaire et les paiements numériques."
     },
     {
       "hash": "402367e29f539e02",
@@ -10687,7 +10651,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7db753e60572e3f1",
@@ -10705,7 +10669,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5db889015bd7271e",
@@ -10762,7 +10726,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la protection des lanceurs d'alerte, élément clé de la conformité réglementaire."
     }
   ],
-  "last_update": "2026-05-10T19:38:48.937037+00:00",
+  "last_update": "2026-05-11T02:09:01.156317+00:00",
   "last_updated": "2026-05-08T07:25:13.731502+00:00",
   "last_fetch": "2026-05-08T07:25:13.731502+00:00"
 }
