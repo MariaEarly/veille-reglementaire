@@ -634,7 +634,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article impose aux professionnels assujettis de lutte anti-blanchiment l'accès au registre des bénéficiaires effectifs et une obligation de formation."
+      "ai_summary": "Cet article régit l'accès au registre des bénéficiaires effectifs et la formation obligatoire des professionnels en lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -1642,7 +1642,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal du terrorisme par une entreprise, violation majeure des obligations de conformité et de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes par une entreprise, violation majeure des obligations de conformité et de lutte contre le financement du terrorisme."
     },
     {
       "hash": "841b0409997c23a0",
@@ -1928,6 +1928,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La CJIP est un mécanisme de conformité financière permettant aux entreprises de se mettre en règle avec la justice pénale économique."
+    },
+    {
+      "hash": "d0d882872eca5f43",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "AMLA Chair Bruna Szego addresses European Police Congress in Berlin",
+      "url": "https://www.amla.europa.eu/news-media/news-articles/amla-chair-bruna-szego-addresses-european-police-congress-berlin_en",
+      "author": "",
+      "published": "2026-05-12T08:08:08",
+      "summary": "AMLA Chair Bruna Szego delivered a keynote address at the European Police Congress in Berlin on 6 May 2025, outlining AMLA's role in fostering European-level financial intelligence to support law enforcement.",
+      "score": 67,
+      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "ed6502a27d55cb15",
@@ -2825,24 +2843,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la fiscalité des cryptomonnaies et de la déclaration des portefeuilles numériques."
-    },
-    {
-      "hash": "442ca4b9caf35f2f",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 3 mars 2026 portant approbation des modifications de la convention constitutive du groupement d'intérêt public dénommé « Centre de recherche du château de Versailles »",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054050711",
-      "author": "Ministère de la culture",
-      "published": "2026-05-10T00:00:00",
-      "summary": "Article 1L'avenant n° 4 à la convention constitutive du groupement d'intérêt public « Centre de recherches du château de Versailles », adopté par délibération de l'assemblée générale du groupement en date du 7 mars 2025, est approuvé. Des extraits de la convention constitutive modifiée sont annexés au présent arrêté.Article 2Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXEVERSION CONSOLIDÉE DE LA CONVENTION CONSTITUTIVE DU GROUPEMENT D'INTÉRÊT PUB",
-      "score": 54,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b541b90c8814e548",
@@ -4354,7 +4354,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "dc6db4a25a192748",
@@ -5381,24 +5381,6 @@
       "ai_summary": "Cet article concerne la supervision prudentielle d'une entité financière par l'autorité de régulation française."
     },
     {
-      "hash": "b49fb3c3490c027f",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "CARRAIG INSURANCE DAC - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vcHhwTnVUeUJ6cXNna0RJSTZsbERmZ3B5clRhcHJqdGVTZVRLYVhTUEQySnpOWEktd244ZlR4Sml1YTBhVDB2WWo4bTE5Y1F0N0RxYTZHeUw?oc=5",
-      "author": "",
-      "published": "2026-04-12T08:04:05",
-      "summary": "CARRAIG INSURANCE DAC&nbsp;&nbsp;Banque de France",
-      "score": 40,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la surveillance et l'agrément des assureurs par l'autorité de régulation financière française."
-    },
-    {
       "hash": "b832c040b288b5ab",
       "source_name": "ESMA (Email)",
       "source_type": "email",
@@ -6159,7 +6141,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La BCB interdit l'utilisation de cryptomonnaies pour le règlement des transactions transfrontalières, imposant une conformité réglementaire stricte aux prestataires de change électronique."
+      "ai_summary": "La Banque centrale brésilienne interdit aux fournisseurs de change et virements l'utilisation de cryptomonnaies pour les règlements transfrontaliers, renforçant la conformité réglementaire."
     },
     {
       "hash": "12d2e17aa13d1a9f",
@@ -6769,7 +6751,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "06202f3e50c4e7bd",
@@ -6787,7 +6769,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment d'argent via des cryptomonnaies, violation majeure des normes AML/KYC."
     },
     {
       "hash": "516a10ed81248209",
@@ -7701,7 +7683,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8dcb27302128416b",
@@ -9173,7 +9155,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "01a18227f7a8fc04",
@@ -9227,7 +9209,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3e031334cec7",
@@ -9297,7 +9279,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte anti-blanchiment et contre le financement d'activités illégales liées aux trafics."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte anti-blanchiment et contre le financement du trafic humain supervisée par FinCEN."
     },
     {
       "hash": "32d9c2798dffb99b",
@@ -10837,7 +10819,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7db753e60572e3f1",
@@ -10855,7 +10837,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "5db889015bd7271e",
@@ -10912,7 +10894,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la protection des lanceurs d'alerte, élément clé de la conformité réglementaire."
     }
   ],
-  "last_update": "2026-05-12T04:12:33.248253+00:00",
+  "last_update": "2026-05-12T08:28:58.083271+00:00",
   "last_updated": "2026-05-11T12:09:10.288196+00:00",
   "last_fetch": "2026-05-08T07:25:13.731502+00:00"
 }
