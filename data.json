@@ -634,7 +634,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article régit l'accès au registre des bénéficiaires effectifs et la formation obligatoire des professionnels en lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il régit l'accès au registre des bénéficiaires effectifs et impose une formation des professionnels en lutte contre le blanchiment de capitaux."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -1642,7 +1642,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes par une entreprise, violation majeure des obligations de conformité et de lutte contre le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes par une entreprise, une violation grave des obligations de conformité et de lutte contre le financement du terrorisme."
     },
     {
       "hash": "841b0409997c23a0",
@@ -1804,24 +1804,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'évolution de la lutte anti-blanchiment face à l'IA et des défis de conformité."
     },
     {
-      "hash": "d6db5323a132ac1e",
-      "source_name": "FinCEN (via Fintech Brainfood)",
-      "source_type": "email",
-      "category": "email",
-      "title": "FinCEN Proposed Rulemaking: ML, GenAI and Blockchain Analytics in AML Programs",
-      "url": "https://www.fincen.gov/system/files/2026-04/Program-NPRM.pdf",
-      "author": "sytaylor@mail.beehiiv.com",
-      "published": "2026-04-12T13:03:34+00:00",
-      "summary": "FinCEN published a notice of proposed rulemaking encouraging financial institutions to adopt machine learning, GenAI, and blockchain analytics in their AML programs. FIs won't incur additional risk solely for using these tools, and innovation in AML programs can weigh in the bank's favor during enforcement reviews.",
-      "score": 69,
-      "score_breakdown": "+10 mots forts: aml | +10 mots moyens: risk, bank | +8 Email | +15 IA×Finance: machine learning+aml | +3 Géo Intl: fincen | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "FinCEN encourage les institutions financières à intégrer l'IA et l'analyse blockchain dans leurs programmes de lutte contre le blanchiment."
-    },
-    {
       "hash": "142412ad807a0374",
       "source_name": "CNIL",
       "source_type": "rss",
@@ -1930,6 +1912,24 @@
       "ai_summary": "La CJIP est un mécanisme de conformité financière permettant aux entreprises de se mettre en règle avec la justice pénale économique."
     },
     {
+      "hash": "f7db70fc5c868582",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "AMLA Chair Bruna Szego speaks at ACAMS Germany 10th Anniversary event in Berlin",
+      "url": "https://www.amla.europa.eu/news-media/news-articles/amla-chair-bruna-szego-speaks-acams-germany-10th-anniversary-event-berlin_en",
+      "author": "",
+      "published": "2026-05-12T11:39:32",
+      "summary": "AMLA Chair Bruna Szego delivered a keynote address at the ACAMS Germany 10th Anniversary event, hosted at the Italian Embassy in Berlin on 6 May 2025.",
+      "score": 67,
+      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla, germany | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "d0d882872eca5f43",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -1945,7 +1945,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il aborde le rôle de l'AMLA dans le renseignement financier et la lutte anti-blanchiment."
     },
     {
       "hash": "ed6502a27d55cb15",
@@ -2845,6 +2845,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la fiscalité des cryptomonnaies et de la déclaration des portefeuilles numériques."
     },
     {
+      "hash": "442ca4b9caf35f2f",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 3 mars 2026 portant approbation des modifications de la convention constitutive du groupement d'intérêt public dénommé « Centre de recherche du château de Versailles »",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054050711",
+      "author": "Ministère de la culture",
+      "published": "2026-05-10T00:00:00",
+      "summary": "Article 1L'avenant n° 4 à la convention constitutive du groupement d'intérêt public « Centre de recherches du château de Versailles », adopté par délibération de l'assemblée générale du groupement en date du 7 mars 2025, est approuvé. Des extraits de la convention constitutive modifiée sont annexés au présent arrêté.Article 2Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXEVERSION CONSOLIDÉE DE LA CONVENTION CONSTITUTIVE DU GROUPEMENT D'INTÉRÊT PUB",
+      "score": 54,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "b541b90c8814e548",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -2935,22 +2953,40 @@
       "ai_summary": "L'ESMA couvre la conformité financière via les coûts des produits de placement, les risques de vulnérabilité et les sanctions réglementaires."
     },
     {
-      "hash": "31dec206585b9524",
-      "source_name": "Fintech Brainfood",
-      "source_type": "email",
-      "category": "email",
-      "title": "Poor AML Will Ruin Stablecoins — Fintech Brainfood",
-      "url": "https://www.fintechbrainfood.com/p/poor-aml-will-ruin-stablecoins",
-      "author": "sytaylor@mail.beehiiv.com",
-      "published": "2026-04-12T13:03:34+00:00",
-      "summary": "Deep analysis of AML compliance failures in stablecoins. The Drift Protocol hack ($285M, DPRK-linked) exploited slow Circle USDC freeze response (6 hours, 100+ transactions, $232M bridged). ZachXBT documented $420M in Circle compliance failures. Stablecoins now account for 84% of illicit transaction volume. FinCEN published proposed rulemaking encouraging ML/GenAI in AML programs. Argues for real-time compliance, trust networks, and protocol-level AML primitives instead of copy-pasting TradFi ap",
-      "score": 54,
-      "score_breakdown": "+20 mots forts: aml, compliance | +5 mots moyens: fintech | +8 Email | +3 Géo Intl: fincen | ×1.5 (<24h)",
+      "hash": "a42f030642bf5166",
+      "source_name": "CSSF Luxembourg (AML/CFT)",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "List of members of the Expert Working Group Specialised PFS regarding AML/CFT (Updated)",
+      "url": "https://www.cssf.lu/en/Document/list-of-members-of-the-expert-working-group-specialised-pfs-regarding-aml-cft/",
+      "author": "",
+      "published": "2026-05-12T00:00:00",
+      "summary": "",
+      "score": 52,
+      "score_breakdown": "+20 mots forts: aml, cft | +15 Source EU | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article analyse les défaillances de conformité AML des stablecoins et l'impact des contrôles insuffisants sur le risque de blanchiment."
+      "ai_summary": null
+    },
+    {
+      "hash": "d3762da8538175fd",
+      "source_name": "CSSF Luxembourg (AML/CFT)",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Terms of reference of the public-private partnership PFS SP related to AML/CFT (only in French) (Updated)",
+      "url": "https://www.cssf.lu/en/Document/terms-of-reference-of-the-public-private-partnership-pfs-sp-related-to-aml-cft/",
+      "author": "",
+      "published": "2026-05-12T00:00:00",
+      "summary": "",
+      "score": 52,
+      "score_breakdown": "+20 mots forts: aml, cft | +15 Source EU | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "8f1d6348db5b825b",
@@ -3041,6 +3077,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article concerne la conformité financière car l'EBA contrôle le respect des règles de rémunération des hauts dirigeants bancaires en Europe."
+    },
+    {
+      "hash": "fa31e537ed8b57de",
+      "source_name": "BIS - Speeches",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Mary-Elizabeth McMunn: Capital, competition, and complexity - regulatory perspectives on the regulatory debate",
+      "url": "https://www.bis.org/review/r260512d.htm",
+      "author": "Mary-Elizabeth McMunn",
+      "published": "2026-05-12T12:24:00",
+      "summary": "Remarks by Ms Mary-Elizabeth McMunn, Deputy Governor of the Central Bank of Ireland, at the Banking & Payments Federation Ireland (BPFI), Dublin, 7 May 2026.",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: payment, bank | +5 Source Intl | +10 Géo EU: eba, ireland | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il traite des perspectives réglementaires sur les débats de régulation bancaire et financière."
     },
     {
       "hash": "0fe88e8761cfc485",
@@ -4354,7 +4408,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "dc6db4a25a192748",
@@ -5363,24 +5417,6 @@
       "ai_summary": "La publication de l'EBA sur la simplification du reporting SEPA concerne la conformité réglementaire bancaire."
     },
     {
-      "hash": "2daf5e3b66d48677",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "RAIFFEISEN VIE - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCaEdESUl0UUQzanhrY2pacFlYZHRzSzgxVkxhRk1waE9ISEtuX0V0bU9yVzZLUUhkWHZ0ZHVYS2E2UDdzbE5CRmNiRDUyU3Nyd1hDZG4tS3g?oc=5",
-      "author": "",
-      "published": "2026-04-12T13:06:33",
-      "summary": "RAIFFEISEN VIE&nbsp;&nbsp;Banque de France",
-      "score": 40,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la supervision prudentielle d'une entité financière par l'autorité de régulation française."
-    },
-    {
       "hash": "b832c040b288b5ab",
       "source_name": "ESMA (Email)",
       "source_type": "email",
@@ -5774,6 +5810,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions financières contre le Venezuela et des licences d'exemption."
     },
     {
+      "hash": "5054076eb8d78708",
+      "source_name": "ESMA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "💡 #Prospectus requirements clarified ahead of the #ListingAct timeline. 🧭 Our statement provides guidance on how issuers, advisers, and national competent authorities can navigate the period before the amended Delegated Regulation becomes applicable.",
+      "url": "https://x.com/ESMAComms/status/2054118844357120306",
+      "author": "@ESMAComms",
+      "published": "2026-05-12T08:37:00",
+      "summary": "💡  #Prospectus requirements clarified ahead of the  #ListingAct timeline.🧭 Our statement provides guidance on how issuers, advisers, and national competent authorities can navigate the period before the amended Delegated Regulation becomes applicable. link.europa.eu/9FcxnK— ESMA - EU Securities Markets Regulator 🇪🇺 (@ESMAComms) May 12, 2026",
+      "score": 37,
+      "score_breakdown": "+10 mots forts: esma | +5 mots moyens: regulation | +10 Géo EU: esma | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "2761e4bb4a8c59aa",
       "source_name": "EBA (X)",
       "source_type": "rss",
@@ -6141,7 +6195,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La Banque centrale brésilienne interdit aux fournisseurs de change et virements l'utilisation de cryptomonnaies pour les règlements transfrontaliers, renforçant la conformité réglementaire."
+      "ai_summary": "La Banque centrale du Brésil impose une conformité réglementaire stricte en interdisant les cryptomonnaies pour le règlement des transactions transfrontalières."
     },
     {
       "hash": "12d2e17aa13d1a9f",
@@ -6751,7 +6805,43 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "7057f839d1ee9593",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Navigating Self-Reporting Under the DOJ’s New Corporate Enforcement Policy",
+      "url": "https://www.corporatecomplianceinsights.com/navigating-self-reporting-under-new-cep/",
+      "author": "Bernadette C. Sargeant, Reginald L. Harris and Alexandra P. Stanley",
+      "published": "2026-05-12T11:02:50",
+      "summary": "The first under the new policy shows what companies stand to gain and what they need to have in place before problem surfaces\nThe post Navigating Self-Reporting Under the DOJ’s New Corporate Enforcement Policy appeared first on Corporate Compliance Insights.",
+      "score": 31,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "b5ccdf4a2773c86f",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Need for Speed: What DOJ’s New Approach to the CEP Means for Internal Investigations",
+      "url": "https://www.corporatecomplianceinsights.com/need-speed-what-doj-new-approach-internal-investigations/",
+      "author": "Paul Cadwallader",
+      "published": "2026-05-12T11:00:26",
+      "summary": "Companies will increasingly be judged on whether they could have found problems sooner\nThe post Need for Speed: What DOJ’s New Approach to the CEP Means for Internal Investigations appeared first on Corporate Compliance Insights.",
+      "score": 31,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "06202f3e50c4e7bd",
@@ -7683,7 +7773,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8dcb27302128416b",
@@ -7864,24 +7954,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Des fonctionnaires ougandais ont fourni de faux certificats pour contourner les embargos d'armes, violant la conformité réglementaire internationale."
-    },
-    {
-      "hash": "2a8b24c568cd8942",
-      "source_name": "ZachXBT (via Fintech Brainfood)",
-      "source_type": "email",
-      "category": "email",
-      "title": "The Circle USDC Files: $420M in Alleged Compliance Failures — ZachXBT Investigation",
-      "url": "https://x.com/zachxbt/status/2040055757211885953",
-      "author": "sytaylor@mail.beehiiv.com",
-      "published": "2026-04-12T13:03:34+00:00",
-      "summary": "ZachXBT documented $420 million in alleged Circle compliance failures across 15 cases since 2022, where the US-regulated stablecoin issuer was slow to act or didn't act at all on illicit funds. Includes the Drift hack where $232M in stolen USDC transited Circle's own bridge for 6 hours with zero intervention.",
-      "score": 27,
-      "score_breakdown": "+10 mots forts: compliance | +8 Email | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les manquements présumés de Circle aux obligations de conformité financière et de lutte contre le blanchiment d'argent."
     },
     {
       "hash": "9a5aa01e7399",
@@ -9086,6 +9158,24 @@
       "ai_summary": "Cet article concerne la transparence des paiements et les responsabilités des acteurs, éléments essentiels à la conformité anti-blanchiment."
     },
     {
+      "hash": "435b582f3987a51d",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Completing the banking union and deeper capital markets are key to unlocking Europe’s growth potential, says Supervisory Board Vice-Chair Frank Elderson. European banks need a truly integrated market to support investment, innovation and growth at scale",
+      "url": "https://x.com/ecb/status/2054149947646202000",
+      "author": "@ecb",
+      "published": "2026-05-12T10:41:00",
+      "summary": "Completing the banking union and deeper capital markets are key to unlocking Europe’s growth potential, says Supervisory Board Vice-Chair Frank Elderson. European banks need a truly integrated market to support investment, innovation and growth at scale https://t.co/TZ1xDb597U — European Central Bank (@ecb) May 12, 2026",
+      "score": 15,
+      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "87bc89af3578e0bc",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -9155,7 +9245,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "01a18227f7a8fc04",
@@ -9209,7 +9299,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3e031334cec7",
@@ -9279,7 +9369,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte anti-blanchiment et contre le financement du trafic humain supervisée par FinCEN."
+      "ai_summary": "Cet article concerne la lutte contre le blanchiment d'argent lié à la traite humaine lors de la Coupe du Monde 2026."
     },
     {
       "hash": "32d9c2798dffb99b",
@@ -10819,7 +10909,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7db753e60572e3f1",
@@ -10837,7 +10927,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "5db889015bd7271e",
@@ -10894,7 +10984,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la protection des lanceurs d'alerte, élément clé de la conformité réglementaire."
     }
   ],
-  "last_update": "2026-05-12T09:16:41.103819+00:00",
+  "last_update": "2026-05-12T13:55:59.725416+00:00",
   "last_updated": "2026-05-11T12:09:10.288196+00:00",
   "last_fetch": "2026-05-08T07:25:13.731502+00:00"
 }
