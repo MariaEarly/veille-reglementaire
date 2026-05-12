@@ -565,6 +565,24 @@
   ],
   "items": [
     {
+      "hash": "acde8a947fd69388",
+      "source_name": "DG Trésor",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Lancement du fichier national des comptes signalés pour risque de fraude : un nouveau rempart contre la fraude aux virements",
+      "url": "https://www.tresor.economie.gouv.fr/Articles/2026/05/11/lancement-du-fichier-national-des-comptes-signales-pour-risque-de-fraude-un-nouveau-rempart-contre-la-fraude-aux-virements",
+      "author": "",
+      "published": "2026-05-11T22:00:00",
+      "summary": "Depuis le 7 mai 2026, le fichier national des comptes signalés pour risque de fraude (FNC-RF) est opérationnel. Géré par la Banque de France, ce nouveau dispositif permet aux établissements bancaires de partager leurs signalements sur les IBAN identifiés comme suspects, renforçant ainsi la capacité collective du secteur à prévenir la fraude aux virements. La Direction générale du Trésor a piloté l'ensemble du cadre législatif et réglementaire ayant rendu possible ce lancement.",
+      "score": 100,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +10 mots moyens: risque, banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il décrit un dispositif de détection et prévention de la fraude bancaire."
+    },
+    {
       "hash": "c6459661fb333c7d",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -634,7 +652,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il régit l'accès au registre des bénéficiaires effectifs et impose une formation des professionnels en lutte contre le blanchiment de capitaux."
+      "ai_summary": "Cet article concerne l'accès au registre des bénéficiaires effectifs et la formation obligatoire des professionnels en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -1285,6 +1303,24 @@
       "ai_summary": "Cet arrêté régit les obligations de conformité en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
+      "hash": "edf9505e74c41c7a",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "The EBA issues an opinion about an Austrian macroprudential measure",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-issues-opinion-about-austrian-macroprudential-measure",
+      "author": "jana.jaklic@eba.europa.eu",
+      "published": "2026-05-12T12:43:32",
+      "summary": "The European Banking Authority (EBA) provided its opinion to the European Commission about the intention by the Austrian Financial Market Authority (FMA) to increase the level of an existing sectoral systemic risk buffer to address risks in the Austrian commercial real estate market. This measure would result in the sum of the other systemically important institutions (O-SII) buffer rate and the combined systemic risk buffer rate exceeding 5% for the targeted exposures of a subset of banks. The ",
+      "score": 82,
+      "score_breakdown": "+20 mots forts: mica, eba | +10 mots moyens: risk, bank | +15 Source EU | +10 Géo EU: european commission, eba, austria | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "7b7b96fb2ac2ea70",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -1642,7 +1678,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes par une entreprise, une violation grave des obligations de conformité et de lutte contre le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de sanctions pour financement du terrorisme, violation majeure des obligations de conformité et de lutte anti-blanchiment."
     },
     {
       "hash": "841b0409997c23a0",
@@ -1912,6 +1948,24 @@
       "ai_summary": "La CJIP est un mécanisme de conformité financière permettant aux entreprises de se mettre en règle avec la justice pénale économique."
     },
     {
+      "hash": "a574fb32ef53bed4",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "AMLA takes next step toward 2027 selection of entities for direct supervision",
+      "url": "https://www.amla.europa.eu/amla-takes-next-step-toward-2027-selection-entities-direct-supervision_en",
+      "author": "",
+      "published": "2026-05-12T16:19:50",
+      "summary": "AMLA has published a reporting package for the identification of provisionally eligible obliged entities, a key preparatory step toward the first selection cycle for entities that will come under AMLA’s direct supervision from 2028.",
+      "score": 67,
+      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "f7db70fc5c868582",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -1927,7 +1981,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la lutte anti-blanchiment de capitaux et la conformité réglementaire en matière de prévention du financement illicite."
     },
     {
       "hash": "d0d882872eca5f43",
@@ -2413,6 +2467,24 @@
       "ai_summary": "L'ACPR et Tracfin alertent sur les risques de blanchiment de capitaux liés aux pratiques d'utilisation d'IBAN virtuels en France."
     },
     {
+      "hash": "7c176bb5416e6eee",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 12 May, 2026",
+      "url": "https://www.eba.europa.eu/node/19674",
+      "author": "Anonymous",
+      "published": "2026-05-12T15:00:02",
+      "summary": "EBA E-mail alert 12 May, 2026\n\n  \n    Date\n          12/05/2026\n\n      \n\nAnonymous (not verified)\n\nTue, 05/12/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          European Commission launches call for candidates for the ESAs’ Board of Appeal\n          The EBA issues an opinion about an Austrian macroprudential measure\n      ",
+      "score": 60,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: ppe | +15 Source EU | +10 Géo EU: european commission, eba, austria | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "L'EBA annonce un appel à candidatures pour le Conseil d'appel des autorités de surveillance, relevant de la gouvernance réglementaire bancaire."
+    },
+    {
       "hash": "aadb47e58f7e25a2",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -2860,7 +2932,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b541b90c8814e548",
@@ -2968,7 +3040,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il liste les membres d'un groupe d'experts spécialisé en lutte anti-blanchiment et contre le financement du terrorisme."
     },
     {
       "hash": "d3762da8538175fd",
@@ -2986,7 +3058,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des termes de référence d'un partenariat public-privé relatif à la lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "8f1d6348db5b825b",
@@ -3311,24 +3383,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la simplification du reporting prudentiel des banques."
-    },
-    {
-      "hash": "f19d117936b4eb5e",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "SEB TRYGG LIFE (IRELAND) ASSURANCE COMPANY - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zd19FMWloMEp5d1Q4d3RoTjJvLW1KTE1ydFNkWmRWX0U2Z2FNbFZBSV9zaHV5X292WTFZU0VWZFk2bHBpQjhjMEt1TlpaQ2RuNHhVZWdmcTg?oc=5",
-      "author": "",
-      "published": "2026-04-12T17:45:58",
-      "summary": "SEB TRYGG LIFE (IRELAND) ASSURANCE COMPANY&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une compagnie d'assurance-vie soumise au contrôle de l'ACPR."
     },
     {
       "hash": "4861d61bd3f3",
@@ -4408,7 +4462,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "dc6db4a25a192748",
@@ -4823,6 +4877,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les sanctions économiques contre Cuba, domaine clé de la conformité financière et de la lutte contre le blanchiment."
+    },
+    {
+      "hash": "646a8cae2e0ae451",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "British American Tobacco sanctions charges dropped as DPA expires",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/british-american-tobacco-sanctions-charges-dropped-dpa-expires",
+      "author": "Sam Fry",
+      "published": "2026-05-12T14:51:03",
+      "summary": "The US has ended a criminal case against British American Tobacco for secretly profiting from the sale of cigarettes in North Korea, three years after the company paid over $600 million for breaching US sanctions against the isolated dictatorship.",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "0b1d8507235f6807",
@@ -5825,7 +5897,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il clarifie les obligations de prospectus réglementaires avant l'application de la nouvelle réglementation européenne."
     },
     {
       "hash": "2761e4bb4a8c59aa",
@@ -6195,7 +6267,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La Banque centrale du Brésil impose une conformité réglementaire stricte en interdisant les cryptomonnaies pour le règlement des transactions transfrontalières."
+      "ai_summary": "Conformité réglementaire des prestataires de change électronique qui doivent cesser d'utiliser crypto et stablecoins pour les règlements transfrontaliers."
     },
     {
       "hash": "12d2e17aa13d1a9f",
@@ -6805,7 +6877,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7057f839d1ee9593",
@@ -6823,7 +6895,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de l'auto-déclaration des entreprises aux autorités fédérales américaines pour bénéficier de réductions pénales."
     },
     {
       "hash": "b5ccdf4a2773c86f",
@@ -6841,7 +6913,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article traite de la rapidité des enquêtes internes et de l'évaluation de la conformité par le DOJ selon ses nouveaux critères."
     },
     {
       "hash": "06202f3e50c4e7bd",
@@ -7773,7 +7845,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8dcb27302128416b",
@@ -9173,7 +9245,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne l'intégration bancaire européenne et la supervision financière pour soutenir la croissance économique."
     },
     {
       "hash": "87bc89af3578e0bc",
@@ -9245,7 +9317,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "01a18227f7a8fc04",
@@ -9299,7 +9371,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3e031334cec7",
@@ -10909,7 +10981,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7db753e60572e3f1",
@@ -10927,7 +10999,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5db889015bd7271e",
@@ -10984,7 +11056,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la protection des lanceurs d'alerte, élément clé de la conformité réglementaire."
     }
   ],
-  "last_update": "2026-05-12T15:18:22.311268+00:00",
+  "last_update": "2026-05-12T19:29:28.224756+00:00",
   "last_updated": "2026-05-11T12:09:10.288196+00:00",
   "last_fetch": "2026-05-08T07:25:13.731502+00:00"
 }
