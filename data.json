@@ -652,7 +652,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne l'accès au registre des bénéficiaires effectifs et la formation obligatoire des professionnels en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article impose aux professionnels assujettis de former leur personnel et d'accéder aux registres de bénéficiaires effectifs pour assurer la conformité en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -1015,24 +1015,6 @@
       "ai_summary": "Cet article concerne la conformité financière car l'ACPR et l'AMF alertent sur des acteurs non autorisés ou frauduleux."
     },
     {
-      "hash": "513a92f91add152c",
-      "source_name": "Parlement EU - ECON",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Briefing - International comparison of Anti-Money Laundering frameworks - PE 779.866 - Committee on Economic and Monetary Affairs",
-      "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2026/779866/ECTI_BRI(2026)779866_EN.pdf",
-      "author": "",
-      "published": "2026-04-12T22:00:00",
-      "summary": "This briefing provides a comparative analysis of anti-money laundering (AML) frameworks in five major financial jurisdictions: the European Union, the United States, the United Kingdom, Japan and Singapore. Although these jurisdictions broadly follow international standards developed by the Financial Action Task Force (FATF), their institutional architectures and supervisory approaches differ significantly. The analysis examines several key dimensions of AML governance framework, including the l",
-      "score": 84,
-      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, fatf, anti-money | +5 mots moyens: supervisory | +15 Source EU | +10 Géo EU: european union | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il analyse les cadres de lutte anti-blanchiment dans plusieurs juridictions majeures."
-    },
-    {
       "hash": "2b6f6ea7084aedfd",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -1318,7 +1300,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur une mesure macroprudentielle de buffer de risque systémique."
     },
     {
       "hash": "7b7b96fb2ac2ea70",
@@ -1678,7 +1660,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de sanctions pour financement du terrorisme, violation majeure des obligations de conformité et de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal du terrorisme par une entreprise, violation majeure des obligations de conformité et de lutte contre le blanchiment d'argent."
     },
     {
       "hash": "841b0409997c23a0",
@@ -1963,7 +1945,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne l'identification des entités soumises à la supervision directe de l'AMLA, aspect clé de la conformité en lutte anti-blanchiment."
     },
     {
       "hash": "f7db70fc5c868582",
@@ -2413,58 +2395,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les défaillances d'entreprises en France selon la Banque de France, relevant de la conformité financière et du risque crédit."
-    },
-    {
-      "hash": "3311762cf84e",
-      "source_name": "ACPR - Communiqués",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "Publication du rapport « Panorama et analyse des services d'IBAN virtuels offerts en France » - L'ACPR et Tracfin alertent sur certaines pratiques d'utilisation d'IBAN virtuels présentant des risques élevés en matière de blanchiment de capitaux",
-      "url": "https://www.acpr.banque-france.fr/fr/communiques-de-presse/publication-du-rapport-panorama-et-analyse-des-services-diban-virtuels-offerts-en-france-lacpr-et",
-      "author": "",
-      "published": "2026-04-13T00:00:00Z",
-      "summary": "L'ACPR et Tracfin publient un rapport conjoint sur les services d'IBAN virtuels en France, alertant sur les risques élevés de blanchiment de capitaux liés à certaines pratiques d'utilisation de ces services.",
-      "score": 60,
-      "doc_type": "rapport",
-      "action_class": "alerte",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des risques de blanchiment de capitaux liés aux IBAN virtuels."
-    },
-    {
-      "hash": "d500457177d2",
-      "source_name": "ACPR - Communiqués",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "Publication du rapport « Panorama et analyse des services d'IBAN virtuels offerts en France » - L'ACPR et Tracfin alertent sur certaines pratiques d'utilisation d'IBAN virtuels présentant des risques élevés en matière de blanchiment de capitaux",
-      "url": "https://acpr.banque-france.fr/fr/communiques-de-presse",
-      "author": "",
-      "published": "2026-04-13T00:00:00+00:00",
-      "summary": "Publication du rapport « Panorama et analyse des services d'IBAN virtuels offerts en France » - L'ACPR et Tracfin alertent sur certaines pratiques d'utilisation d'IBAN virtuels présentant des risques ",
-      "score": 60,
-      "doc_type": "RAPPORT",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite des risques de blanchiment de capitaux liés aux IBAN virtuels et des alertes réglementaires."
-    },
-    {
-      "hash": "8113439c915f",
-      "source_name": "ACPR - Communiqués",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "Publication du rapport « Panorama et analyse des services d’IBAN virtuels offerts en France » - L’ACPR et Tracfin alertent sur certaines pratiques d’utilisation d’IBAN virtuels présentant des risques élevés en matière de blanchiment de capitaux",
-      "url": "https://acpr.banque-france.fr/fr/communiques-de-presse/publication-du-rapport-panorama-et-analyse-des-services-diban-virtuels-offerts-en-france-lacpr-et",
-      "author": "",
-      "published": "2026-04-13T00:00:00",
-      "summary": "Publication du rapport « Panorama et analyse des services d’IBAN virtuels offerts en France » - L’ACPR et Tracfin alertent sur certaines pratiques d’utilisation d’IBAN virtuels présentant des risques élevés en matière de blanchiment de capitaux",
-      "score": 60,
-      "score_breakdown": "+20 mots forts: blanchiment | +20 mots élevés: acpr, tracfin | +5 mots moyens: risque | +15 bonus source",
-      "doc_type": "scraped",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'ACPR et Tracfin alertent sur les risques de blanchiment de capitaux liés aux pratiques d'utilisation d'IBAN virtuels en France."
     },
     {
       "hash": "7c176bb5416e6eee",
@@ -2917,24 +2847,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la fiscalité des cryptomonnaies et de la déclaration des portefeuilles numériques."
     },
     {
-      "hash": "442ca4b9caf35f2f",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 3 mars 2026 portant approbation des modifications de la convention constitutive du groupement d'intérêt public dénommé « Centre de recherche du château de Versailles »",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054050711",
-      "author": "Ministère de la culture",
-      "published": "2026-05-10T00:00:00",
-      "summary": "Article 1L'avenant n° 4 à la convention constitutive du groupement d'intérêt public « Centre de recherches du château de Versailles », adopté par délibération de l'assemblée générale du groupement en date du 7 mars 2025, est approuvé. Des extraits de la convention constitutive modifiée sont annexés au présent arrêté.Article 2Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXEVERSION CONSOLIDÉE DE LA CONVENTION CONSTITUTIVE DU GROUPEMENT D'INTÉRÊT PUB",
-      "score": 54,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "b541b90c8814e548",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -3040,7 +2952,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il liste les membres d'un groupe d'experts spécialisé en lutte anti-blanchiment et contre le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte anti-blanchiment et contre le financement du terrorisme."
     },
     {
       "hash": "d3762da8538175fd",
@@ -3058,7 +2970,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des termes de référence d'un partenariat public-privé relatif à la lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du cadre de référence d'un partenariat public-privé relatif à la lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "8f1d6348db5b825b",
@@ -4344,6 +4256,24 @@
       "ai_summary": "Le FinCEN autorise des transactions pour la liquidation d'une banque mexicaine désignée comme risque majeur de blanchiment de capitaux."
     },
     {
+      "hash": "442ca4b9caf35f2f",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 3 mars 2026 portant approbation des modifications de la convention constitutive du groupement d'intérêt public dénommé « Centre de recherche du château de Versailles »",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054050711",
+      "author": "Ministère de la culture",
+      "published": "2026-05-10T00:00:00",
+      "summary": "Article 1L'avenant n° 4 à la convention constitutive du groupement d'intérêt public « Centre de recherches du château de Versailles », adopté par délibération de l'assemblée générale du groupement en date du 7 mars 2025, est approuvé. Des extraits de la convention constitutive modifiée sont annexés au présent arrêté.Article 2Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXEVERSION CONSOLIDÉE DE LA CONVENTION CONSTITUTIVE DU GROUPEMENT D'INTÉRÊT PUB",
+      "score": 45,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "cb80b201fd28",
       "source_name": "ACPR - Publications",
       "source_type": "scrape",
@@ -4445,24 +4375,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre le financement illicite et de la mise en œuvre des normes du GAFI."
-    },
-    {
-      "hash": "ae88a9b0c7926905",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "✨ Europe Day in Paris: bringing the EU closer to citizens This Saturday, Europe Day at Place de la République was a powerful remin...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7459605387651067904",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-05-11T14:08:37",
-      "summary": "✨ Europe Day in Paris: bringing the EU closer to citizens\n\nThis Saturday, Europe Day at Place de la République was a powerful reminder of what the European project stands for — unity, openness and shared purpose.\n\nThe event provided a great opportunity for the European Banking Authority to connect directly with citizens. Visitors of all ages stopped by our stand to learn more about EBA’s mission, areas of expertise and career opportunities, with many enthusiastically taking part in our quiz 👀\n\n🤝",
-      "score": 45,
-      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: bank, ppe | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "dc6db4a25a192748",
@@ -4879,6 +4791,24 @@
       "ai_summary": "Cet article concerne les sanctions économiques contre Cuba, domaine clé de la conformité financière et de la lutte contre le blanchiment."
     },
     {
+      "hash": "0d428b5a717ec9fd",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Guyana seizes guns from opposition leader as US extradition stalls",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/guyana-seizes-guns-opposition-leader-us-extradition-stalls",
+      "author": "Estelle Atkinson",
+      "published": "2026-05-12T20:26:15",
+      "summary": "Azruddin Mohamed and his father are appealing to the Caribbean Court of Justice to halt their extradition to the US over an alleged $50 million fraud, bribery and money‑laundering scheme tied to gold shipments.",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: fraud | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "646a8cae2e0ae451",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -4894,7 +4824,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du respect des sanctions commerciales internationales et de leurs violations par une entreprise."
     },
     {
       "hash": "0b1d8507235f6807",
@@ -5897,7 +5827,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il clarifie les obligations de prospectus réglementaires avant l'application de la nouvelle réglementation européenne."
+      "ai_summary": "Cet article concerne les exigences de prospectus et la conformité réglementaire des émetteurs avant l'application de la nouvelle loi sur les cotations."
     },
     {
       "hash": "2761e4bb4a8c59aa",
@@ -6078,6 +6008,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la prescription fiscale et des délais de reprise en matière d'impôts."
+    },
+    {
+      "hash": "ae88a9b0c7926905",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "✨ Europe Day in Paris: bringing the EU closer to citizens This Saturday, Europe Day at Place de la République was a powerful remin...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7459605387651067904",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-05-11T14:08:37",
+      "summary": "✨ Europe Day in Paris: bringing the EU closer to citizens\n\nThis Saturday, Europe Day at Place de la République was a powerful reminder of what the European project stands for — unity, openness and shared purpose.\n\nThe event provided a great opportunity for the European Banking Authority to connect directly with citizens. Visitors of all ages stopped by our stand to learn more about EBA’s mission, areas of expertise and career opportunities, with many enthusiastically taking part in our quiz 👀\n\n🤝",
+      "score": 36,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: bank, ppe | +10 Géo EU: eba | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "5f661cc552352cad",
@@ -6267,7 +6215,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Conformité réglementaire des prestataires de change électronique qui doivent cesser d'utiliser crypto et stablecoins pour les règlements transfrontaliers."
+      "ai_summary": "La BCB interdit l'usage de cryptomonnaies pour le règlement des transactions transfrontalières, imposant une conformité réglementaire stricte aux prestataires de change électronique."
     },
     {
       "hash": "12d2e17aa13d1a9f",
@@ -6877,7 +6825,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7057f839d1ee9593",
@@ -7845,7 +7793,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8dcb27302128416b",
@@ -8269,7 +8217,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet article concerne la protection des consommateurs contre la fraude, un aspect de la conformité réglementaire et de la gestion des risques financiers."
     },
     {
       "hash": "a830a7e03c31",
@@ -8959,23 +8907,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la préparation du secteur financier aux risques de sécurité cryptographique futurs."
     },
     {
-      "hash": "1a9f4e725c6b",
-      "source_name": "ACPR - Communiqués",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "Publication du rapport « Panorama et analyse des services d'IBAN virtuels offerts en France »",
-      "url": "https://acpr.banque-france.fr/fr/communiques-de-presse/publication-du-rapport-panorama-et-analyse-des-services-diban-virtuels-offerts-en-france-lacpr-et",
-      "author": "",
-      "published": "2026-04-13T00:00:00Z",
-      "summary": "ACPR - Communiqués: Publication du rapport « Panorama et analyse des services d'IBAN virtuels offerts en France »",
-      "score": 15,
-      "doc_type": "guidance",
-      "action_class": "review",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'ACPR analyse les services d'IBAN virtuels pour évaluer leur conformité réglementaire en France."
-    },
-    {
       "hash": "96295b3cf889b12b",
       "source_name": "ESMA (Email)",
       "source_type": "email",
@@ -9317,7 +9248,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "01a18227f7a8fc04",
@@ -9371,7 +9302,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3e031334cec7",
@@ -10981,7 +10912,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7db753e60572e3f1",
@@ -10999,7 +10930,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5db889015bd7271e",
@@ -11056,7 +10987,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la protection des lanceurs d'alerte, élément clé de la conformité réglementaire."
     }
   ],
-  "last_update": "2026-05-12T20:12:58.688676+00:00",
+  "last_update": "2026-05-13T02:10:27.480586+00:00",
   "last_updated": "2026-05-11T12:09:10.288196+00:00",
   "last_fetch": "2026-05-08T07:25:13.731502+00:00"
 }
