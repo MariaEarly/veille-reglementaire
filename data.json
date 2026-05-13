@@ -652,7 +652,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article impose aux professionnels assujettis de former leur personnel et d'accéder aux registres de bénéficiaires effectifs pour assurer la conformité en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article impose aux professionnels soumis à la lutte contre le blanchiment de capitaux d'accéder au registre des bénéficiaires effectifs et de suivre une formation obligatoire."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -1393,6 +1393,24 @@
       "ai_summary": "Cet article concerne la lutte contre la corruption et les atteintes à la probité financière, enquête du PNF."
     },
     {
+      "hash": "db9a96237a076c87",
+      "source_name": "CSSF Luxembourg (AML/CFT)",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "AMLA holds a public hearing to consult on the draft Regulatory Technical Standards (RTS) for Home-Host Supervisory Cooperation",
+      "url": "https://www.cssf.lu/en/Document/amla-holds-a-public-hearing-to-consult-on-the-draft-regulatory-technical-standards-rts-for-home-host-supervisory-cooperation/",
+      "author": "",
+      "published": "2026-05-13T05:38:55",
+      "summary": "",
+      "score": 75,
+      "score_breakdown": "+20 mots forts: aml, amla | +5 mots moyens: supervisory | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a7a4339b2e564d9d",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -1660,7 +1678,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal du terrorisme par une entreprise, violation majeure des obligations de conformité et de lutte contre le blanchiment d'argent."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal du terrorisme par une entreprise, violation majeure des obligations de conformité et de lutte contre le blanchiment."
     },
     {
       "hash": "841b0409997c23a0",
@@ -1734,6 +1752,50 @@
       "ai_summary": "Cet article concerne la lutte contre la fraude et l'usurpation d'identité, risques majeurs de conformité pour les institutions financières."
     },
     {
+      "hash": "a5b267587d52",
+      "source_name": "GAFI/FATF",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Singapore's measures to counter money laundering, terrorist financing and proliferation financing",
+      "url": "https://www.fatf-gafi.org/en/publications.html#singapore-mer-2026",
+      "author": "",
+      "published": "2026-05-06T00:00:00Z",
+      "summary": "FATF/APG mutual evaluation of Singapore's AML/CFT/CPF measures (on-site July 2025).",
+      "score": 70,
+      "score_breakdown": {
+        "critical": 40,
+        "high": 20,
+        "category": 10
+      },
+      "doc_type": "",
+      "action_class": "",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne l'évaluation de la conformité de Singapour aux normes internationales de lutte contre le blanchiment et le financement du terrorisme."
+    },
+    {
+      "hash": "63e2dd89dc63",
+      "source_name": "GAFI/FATF",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Austria's measures to counter money laundering, terrorist financing and proliferation financing",
+      "url": "https://www.fatf-gafi.org/en/publications.html#austria-mer-2026",
+      "author": "",
+      "published": "2026-04-30T00:00:00Z",
+      "summary": "FATF mutual evaluation of Austria's AML/CFT/CPF measures (on-site June-July 2025).",
+      "score": 70,
+      "score_breakdown": {
+        "critical": 40,
+        "high": 20,
+        "category": 10
+      },
+      "doc_type": "",
+      "action_class": "",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne l'évaluation de la conformité de l'Autriche en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme."
+    },
+    {
       "hash": "bcb846ebe3ce",
       "source_name": "GAFI/FATF",
       "source_type": "scrape",
@@ -1749,6 +1811,28 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne l'évaluation de la conformité de l'Autriche aux normes anti-blanchiment, anti-terrorisme et anti-prolifération du FATF."
+    },
+    {
+      "hash": "63e34645374c",
+      "source_name": "GAFI/FATF",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Italy's measures to counter money laundering, terrorist financing and proliferation financing",
+      "url": "https://www.fatf-gafi.org/en/publications.html#italy-mer-2026",
+      "author": "",
+      "published": "2026-04-23T00:00:00Z",
+      "summary": "FATF mutual evaluation of Italy's AML/CFT/CPF measures (on-site June-July 2025).",
+      "score": 70,
+      "score_breakdown": {
+        "critical": 40,
+        "high": 20,
+        "category": 10
+      },
+      "doc_type": "",
+      "action_class": "",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne l'évaluation de la conformité de l'Italie aux normes internationales de lutte contre le blanchiment et le financement du terrorisme."
     },
     {
       "hash": "8d54864124e8",
@@ -2919,24 +3003,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la convergence des régimes anti-corruption, AML et sanctions dans les pays du Golfe."
     },
     {
-      "hash": "ceb2bf85f488ab93",
-      "source_name": "ESMA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📨 #ESMA's newsletter is out →  ⛵️ Retail investor journey 📊 Trends, risks and vulnerabilities report 💶 Costs and performance of EU retail investment products ❓ Q&As 👩‍⚖️ Sanctions for REGIS-TR 🍃 Opinion on ESRS 🗓️ Open consultations & upcoming events",
-      "url": "https://x.com/ESMAComms/status/2043603460260552725",
-      "author": "@ESMAComms",
-      "published": "2026-04-13T08:13:00",
-      "summary": "📨  #ESMA's newsletter is out →  link.europa.eu/3p9pC4⛵️ Retail investor journey📊 Trends, risks and vulnerabilities report💶 Costs and performance of EU retail investment products❓ Q&amp;As👩‍⚖️ Sanctions for REGIS-TR🍃 Opinion on ESRS🗓️ Open consultations & upcoming events— ESMA - EU Securities Markets Regulator 🇪🇺 (@ESMAComms) Apr 13, 2026",
-      "score": 54,
-      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: esma | +5 mots moyens: risk | +10 Géo EU: esma | ×1.2 (<3d)",
-      "doc_type": "CONSULTATION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'ESMA couvre la conformité financière via les coûts des produits de placement, les risques de vulnérabilité et les sanctions réglementaires."
-    },
-    {
       "hash": "a42f030642bf5166",
       "source_name": "CSSF Luxembourg (AML/CFT)",
       "source_type": "rss",
@@ -2970,7 +3036,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du cadre de référence d'un partenariat public-privé relatif à la lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des normes de lutte contre le blanchiment d'argent et le financement du terrorisme."
     },
     {
       "hash": "8f1d6348db5b825b",
@@ -3295,6 +3361,40 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la simplification du reporting prudentiel des banques."
+    },
+    {
+      "hash": "857b802f402c",
+      "source_name": "GAFI/FATF",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Singapore's measures to counter money laundering, terrorist financing and proliferation financing",
+      "url": "https://www.fatf-gafi.org/en/publications/Mutualevaluations/singapore-mer-2026.html",
+      "author": "",
+      "published": "2026-05-06T00:00:00",
+      "summary": "FATF-APG mutual evaluation of Singapore's AML/CFT/CPF measures and FATF Recommendations compliance.",
+      "score": 50,
+      "doc_type": "publication",
+      "action_class": "etude",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne l'évaluation de la conformité de Singapour aux recommandations du GAFI en matière de lutte contre le blanchiment de capitaux, le financement du terrorisme et la prolifération."
+    },
+    {
+      "hash": "fdd1c939b753",
+      "source_name": "GAFI/FATF",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Austria's measures to counter money laundering, terrorist financing and proliferation financing",
+      "url": "https://www.fatf-gafi.org/en/publications/Mutualevaluations/austria-mer-2026.html",
+      "author": "",
+      "published": "2026-04-30T00:00:00",
+      "summary": "FATF mutual evaluation of Austria's AML/CFT/CPF measures, on-site visit June-July 2025.",
+      "score": 50,
+      "doc_type": "publication",
+      "action_class": "etude",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne l'évaluation de conformité AML/CFT/CPF de l'Autriche par le GAFI."
     },
     {
       "hash": "4861d61bd3f3",
@@ -4271,7 +4371,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "cb80b201fd28",
@@ -4341,6 +4441,29 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les exigences prudentielles et de conformité des institutions de crédit concernant les expositions de titrisation."
+    },
+    {
+      "hash": "37116192f4d9",
+      "source_name": "GAFI/FATF",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Ministerial Declaration of the Financial Action Task Force - April 2026",
+      "url": "https://www.fatf-gafi.org/en/publications.html#fatf-ministerial-april-2026",
+      "author": "",
+      "published": "2026-04-17T00:00:00Z",
+      "summary": "FATF Ministerial Declaration: focus on fraud + strengthening risk-based implementation of FATF Standards.",
+      "score": 45,
+      "score_breakdown": {
+        "critical": 20,
+        "high": 10,
+        "medium": 5,
+        "category": 10
+      },
+      "doc_type": "",
+      "action_class": "",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la lutte anti-fraude et l'application des normes FATF pour renforcer la conformité financière internationale."
     },
     {
       "hash": "d49f3d2ab6d8",
@@ -4806,7 +4929,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de fraude, corruption et blanchiment de capitaux liés à des expéditions d'or."
     },
     {
       "hash": "646a8cae2e0ae451",
@@ -4824,7 +4947,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du respect des sanctions commerciales internationales et de leurs violations par une entreprise."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du respect des sanctions internationales et de la responsabilité pénale des entreprises."
     },
     {
       "hash": "0b1d8507235f6807",
@@ -5827,7 +5950,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les exigences de prospectus et la conformité réglementaire des émetteurs avant l'application de la nouvelle loi sur les cotations."
+      "ai_summary": "Cet article concerne les exigences de prospectus et la conformité réglementaire des émetteurs avant l'application du Règlement délégué modifié."
     },
     {
       "hash": "2761e4bb4a8c59aa",
@@ -6025,7 +6148,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5f661cc552352cad",
@@ -6215,7 +6338,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La BCB interdit l'usage de cryptomonnaies pour le règlement des transactions transfrontalières, imposant une conformité réglementaire stricte aux prestataires de change électronique."
+      "ai_summary": "La BCB interdit aux prestataires de change électronique l'utilisation de cryptomonnaies pour les règlements transfrontaliers, renforçant la conformité réglementaire du secteur financier brésilien."
     },
     {
       "hash": "12d2e17aa13d1a9f",
@@ -6825,7 +6948,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7057f839d1ee9593",
@@ -7150,6 +7273,45 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions imposées par le Trésor américain contre les réseaux d'approvisionnement."
+    },
+    {
+      "hash": "4264be6b365a",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Counter Terrorism and Iran-related Designations; Cuba Designation and Designations Updates; Issuance of Cuba-related General License and Frequently Asked Questions",
+      "url": "https://ofac.treasury.gov/recent-actions/20260507",
+      "author": "",
+      "published": "2026-05-07T08:00:00",
+      "summary": "OFAC counter-terrorism and Iran designations; Cuba-related sanction updates; new Cuba-related General License and FAQ.",
+      "score": 30,
+      "score_breakdown": [
+        "+20 critical:sanction",
+        "+10 source:autorite_intl"
+      ],
+      "doc_type": "SANCTION",
+      "action_class": "INFO",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne directement la conformité financière car il traite des sanctions OFAC qui imposent des obligations de conformité strictes aux entités financières."
+    },
+    {
+      "hash": "0ff0e024f6e3",
+      "source_name": "DOJ - Criminal Division",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Federal Jury Convicts Virgina Man on Charges Relating to the Deletion of U.S. Government Databases",
+      "url": "https://www.justice.gov/opa/pr/federal-jury-convicts-virgina-man-charges-relating-deletion-us-government-databases",
+      "author": "",
+      "published": "2026-05-07T00:00:00",
+      "summary": "A federal jury convicted Sohaib Akhter on charges of conspiracy to commit computer fraud, password trafficking, and firearm possession.",
+      "score": 30,
+      "score_breakdown": "+20 critique: fraud | +10 src:autorite_intl",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "33eea084282a",
@@ -7793,6 +7955,42 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "884ba99df7acbe73",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "E-commerce: \"Les jouets et sur la cosmétique sont parmi les non-conformités les plus fréquentes\", affirme le directeur général des Douanes",
+      "url": "https://www.bfmtv.com/economie/video-e-commerce-les-jouets-et-sur-la-cosmetique-sont-parmi-les-non-conformites-les-plus-frequentes-affirme-le-directeur-general-des-douanes_VN-202605130339.html",
+      "author": "",
+      "published": "2026-05-13T08:00:50",
+      "summary": "Florian Colas, directeur général des Douanes et droits indirects est auditionné sur la taxation des petits colis, à l'Assemblée nationale, ce mercredi 13 mai.",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: conformité | +5 mots moyens: audit | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "78400b49c6146b5e",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "E-commerce: \"Des taux de non-conformité de l'ordre de 75%\" lors d'opérations ciblées, déclare Florian Colas",
+      "url": "https://www.bfmtv.com/economie/video-e-commerce-des-taux-de-non-conformite-de-l-ordre-de-75-lors-d-operations-ciblees-declare-florian-colas_VN-202605130334.html",
+      "author": "",
+      "published": "2026-05-13T07:59:24",
+      "summary": "Florian Colas, Directeur général des Douanes et droits indirects est auditionné sur la taxation des petits colis, à l'Assemblée nationale, ce mercredi 13 mai.",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: conformité | +5 mots moyens: audit | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
       "ai_summary": null
     },
     {
@@ -8146,6 +8344,27 @@
       "ai_summary": "L'article traite de la conformité des pratiques bancaires et d'assurance en matière de traitement des réclamations clients."
     },
     {
+      "hash": "b7e58c485cad",
+      "source_name": "ACPR - Communiqués",
+      "source_type": "scrape",
+      "category": "autorite_fr",
+      "title": "Réclamations : l'ACPR constate des progrès mais alerte sur certaines pratiques encore insuffisantes dans la banque et l'assurance",
+      "url": "https://acpr.banque-france.fr/fr/communiques-de-presse/reclamations-lacpr-constate-des-progres-mais-alerte-sur-certaines-pratiques-encore-insuffisantes",
+      "author": "",
+      "published": "2026-04-16T08:00:00",
+      "summary": "L'ACPR constate des progrès dans le traitement des réclamations mais alerte sur certaines pratiques encore insuffisantes dans la banque et l'assurance.",
+      "score": 25,
+      "score_breakdown": [
+        "+10 high:acpr",
+        "+15 source:autorite_fr"
+      ],
+      "doc_type": "ACTUALITÉ",
+      "action_class": "INFO",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "L'ACPR évalue la conformité des pratiques de traitement des réclamations dans le secteur bancaire et assurantiel."
+    },
+    {
       "hash": "9bc967a49cb3",
       "source_name": "ACPR - Communiqués",
       "source_type": "scrape",
@@ -8202,6 +8421,24 @@
       "early_brief": false
     },
     {
+      "hash": "e5c526f473ea3094",
+      "source_name": "Cass. - Bancaire",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de NANCY, 1ère chambre, 07 mai 2026, 24NC02977",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDENANCY-20260507-24NC02977",
+      "author": "1ère chambre",
+      "published": "2026-05-07T12:00:00",
+      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           M. C... B... a demandé au tribunal administratif de Nancy d'annuler la décision implicite de rejet née du silence gardé par le préfet de Meurthe-et-Moselle sur sa demande de titre de séjour présentée le 14 septembre 2022, d'enjoindre à la préfète de Meurthe-et-Moselle de lui délivrer un titre de séjour avec autorisation de travail, subsidiairement de réexaminer sa situation et de lui délivrer dans l'attente une au",
+      "score": 25,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "7f413bf479db6710",
       "source_name": "BIS - Speeches",
       "source_type": "rss",
@@ -8217,7 +8454,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la protection des consommateurs contre la fraude, un aspect de la conformité réglementaire et de la gestion des risques financiers."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a830a7e03c31",
@@ -8907,6 +9144,23 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la préparation du secteur financier aux risques de sécurité cryptographique futurs."
     },
     {
+      "hash": "25d52b2e23cd3d1a",
+      "source_name": "EBA (Email)",
+      "source_type": "email",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 12 May, 2026",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-issues-opinion-about-austrian-macroprudential-measure",
+      "author": "no-reply@eba.europa.eu",
+      "published": "2026-05-12T17:35:23+00:00",
+      "summary": "NEWS & PRESS. European Commission launches call for candidates for the ESAs' Board of Appeal. News. The European Commission has launched a call for expression of interest for the appointment of members to the Board of Appeal of the three European Supervisory Authorities (EBA, EIOPA and ESMA). THE EBA ISSUES AN OPINION ABOUT AN AUSTRIAN MACROPRUDENTIAL MEASURE. Press Release. The European Banking Authority (EBA) provided its opinion to the European Commission about the intention by the Austrian F",
+      "score": 15,
+      "doc_type": "OPINION",
+      "action_class": "info",
+      "ai_summary": "Cet article concerne la gouvernance des autorités de supervision financière européennes et leur conformité institutionnelle.",
+      "status": "new",
+      "early_brief": false
+    },
+    {
       "hash": "96295b3cf889b12b",
       "source_name": "ESMA (Email)",
       "source_type": "email",
@@ -9248,7 +9502,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "01a18227f7a8fc04",
@@ -9267,23 +9521,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les ministères s'engagent collectivement contre la finance illicite via le FATF pour combattre la criminalité financière."
-    },
-    {
-      "hash": "25d52b2e23cd3d1a",
-      "source_name": "EBA (Email)",
-      "source_type": "email",
-      "category": "autorite_eu",
-      "title": "EBA E-mail alert 12 May, 2026",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-issues-opinion-about-austrian-macroprudential-measure",
-      "author": "no-reply@eba.europa.eu",
-      "published": "2026-05-12T17:35:23+00:00",
-      "summary": "NEWS & PRESS. European Commission launches call for candidates for the ESAs' Board of Appeal. News. The European Commission has launched a call for expression of interest for the appointment of members to the Board of Appeal of the three European Supervisory Authorities (EBA, EIOPA and ESMA). THE EBA ISSUES AN OPINION ABOUT AN AUSTRIAN MACROPRUDENTIAL MEASURE. Press Release. The European Banking Authority (EBA) provided its opinion to the European Commission about the intention by the Austrian F",
-      "score": 15,
-      "doc_type": "OPINION",
-      "action_class": "info",
-      "ai_summary": null,
-      "status": "new",
-      "early_brief": false
     },
     {
       "hash": "0eb8d7dfbd94d97f",
@@ -9319,7 +9556,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3e031334cec7",
@@ -9552,6 +9789,26 @@
       "ai_summary": "L'article traite de la conformité financière car l'Egmont Group regroupe les unités de renseignement financier mondiales."
     },
     {
+      "hash": "c393f1aaeeca",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Counter Terrorism and Counter Narcotics Designation Update, Russia-related Designation Removal",
+      "url": "https://ofac.treasury.gov/recent-actions/20260508",
+      "author": "",
+      "published": "2026-05-08T08:00:00",
+      "summary": "OFAC counter-terrorism and counter-narcotics designation update; Russia-related designation removal.",
+      "score": 10,
+      "score_breakdown": [
+        "+10 source:autorite_intl"
+      ],
+      "doc_type": "SANCTION",
+      "action_class": "INFO",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions OFAC contre le terrorisme et le trafic de drogue."
+    },
+    {
       "hash": "ccbd8c781a6f",
       "source_name": "US Treasury - Sanctions Press",
       "source_type": "scrape",
@@ -9593,6 +9850,43 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du gel d'actifs imposé par les sanctions du Conseil de sécurité de l'ONU contre la Libye."
     },
     {
+      "hash": "260ac4b36aa2",
+      "source_name": "Interpol",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Global crackdown on illicit pharmaceuticals sees USD 15.5 million in seizures",
+      "url": "https://www.interpol.int/en/News-and-Events/News/2026/Global-crackdown-on-illicit-pharmaceuticals",
+      "author": "",
+      "published": "2026-05-07T08:00:00",
+      "summary": "Interpol-coordinated operation against illicit pharmaceuticals with USD 15.5 million in seizures — pharmaceutical crime and financial flows.",
+      "score": 10,
+      "score_breakdown": [
+        "+10 source:autorite_intl"
+      ],
+      "doc_type": "ACTUALITÉ",
+      "action_class": "INFO",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cette opération internationale contre les médicaments illicites révèle les flux financiers criminels du secteur pharmaceutique illégal."
+    },
+    {
+      "hash": "281242723d24",
+      "source_name": "US Treasury - Sanctions Press",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "U.S. Department of the Treasury Hosts Convening with State Insurance Commissioners on Private Credit and the Insurance Sector",
+      "url": "https://home.treasury.gov/news/press-releases/sb0493",
+      "author": "",
+      "published": "2026-05-07T00:00:00+00:00",
+      "summary": "",
+      "score": 10,
+      "doc_type": "",
+      "action_class": "",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
       "hash": "44e45bc18cd1",
       "source_name": "Egmont Group",
       "source_type": "scrape",
@@ -9625,6 +9919,26 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne l'émission d'une licence générale relative au Venezuela par l'OFAC, autorité de conformité financière américaine."
+    },
+    {
+      "hash": "2fbb34fbfd5c",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Issuance of Venezuela-related General License and Amended Frequently Asked Question",
+      "url": "https://ofac.treasury.gov/recent-actions/20260504",
+      "author": "",
+      "published": "2026-05-04T08:00:00",
+      "summary": "OFAC issuance of Venezuela-related General License and amended FAQ.",
+      "score": 10,
+      "score_breakdown": [
+        "+10 source:autorite_intl"
+      ],
+      "doc_type": "ACTUALITÉ",
+      "action_class": "INFO",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne les mesures de conformité aux sanctions financières imposées par les États-Unis contre le Venezuela."
     },
     {
       "hash": "d4e947c6c873",
@@ -9682,6 +9996,26 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les sanctions contre l'Iran et les mesures de conformité financière imposées par l'OFAC."
+    },
+    {
+      "hash": "e58ba876e321",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Democratic Republic of the Congo-related Designation",
+      "url": "https://ofac.treasury.gov/recent-actions/20260430",
+      "author": "",
+      "published": "2026-04-30T08:00:00",
+      "summary": "OFAC Democratic Republic of the Congo-related designation.",
+      "score": 10,
+      "score_breakdown": [
+        "+10 source:autorite_intl"
+      ],
+      "doc_type": "SANCTION",
+      "action_class": "INFO",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cette action OFAC concerne les sanctions financières et la conformité aux listes de désignation relatives à la RDC."
     },
     {
       "hash": "71b7ca6cc13b",
@@ -10284,6 +10618,26 @@
       "ai_summary": "Cet article concerne les sanctions contre le Nicaragua et les licences générales délivrées par l'OFAC pour les opérations autorisées."
     },
     {
+      "hash": "815b8c57ff64",
+      "source_name": "Wolfsberg Group",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Wolfsberg Group Announces New Co-Chair and Management Committee Member",
+      "url": "https://wolfsberg-group.org/news/wolfsberg-group-announces-new-co-chair-and-management-committee-member",
+      "author": "",
+      "published": "2026-04-15T08:00:00",
+      "summary": "Appointment of Stevenson Munro as Co-chair of the Wolfsberg Group and of Rachel Sloan as member of the Management Committee.",
+      "score": 10,
+      "score_breakdown": [
+        "+10 source:autorite_intl"
+      ],
+      "doc_type": "ACTUALITÉ",
+      "action_class": "INFO",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Le Wolfsberg Group est une organisation clé en matière de conformité financière et de lutte contre le blanchiment d'argent."
+    },
+    {
       "hash": "513e1031a29c",
       "source_name": "OFAC - Recent Actions",
       "source_type": "scrape",
@@ -10842,24 +11196,6 @@
       "ai_summary": "Cet article concerne les mesures de sanctions financières internationales imposées par les États-Unis en matière de conformité réglementaire."
     },
     {
-      "hash": "93a068f7aa7b9f3f",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "Our latest #MacroprudentialBulletin shows how new, digital ways of issuing and trading financial assets could make EU capital markets more efficient and accessible. It also explains how policies need to adapt to keep markets safe and resilient  pic.",
-      "url": "https://x.com/ecb/status/2043600703017378194",
-      "author": "@ecb",
-      "published": "2026-04-13T08:02:00",
-      "summary": "Our latest #MacroprudentialBulletin shows how new, digital ways of issuing and trading financial assets could make EU capital markets more efficient and accessible. It also explains how policies need to adapt to keep markets safe and resilient https://t.co/8TiAnFrXh0 pic.twitter.com/XJ3iuU8URv— European Central Bank (@ecb) April 13, 2026",
-      "score": 6,
-      "score_breakdown": "+5 mots moyens: bank | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne l'adaptation des politiques de conformité aux nouveaux modes numériques d'émission et de négociation d'actifs financiers."
-    },
-    {
       "hash": "05c44a655a87a76e",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -10929,7 +11265,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7db753e60572e3f1",
@@ -10947,7 +11283,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5db889015bd7271e",
@@ -10984,521 +11320,9 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de corruption et de pratiques malhonnêtes dans l'industrie pétrolière nigériane."
-    },
-    {
-      "hash": "fa86ed10c9b9e96e",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "South Africa introduces bill to fix whistleblower protection “shortcomings”",
-      "url": "https://globalinvestigationsreview.com/article/south-africa-introduces-bill-fix-whistleblower-protection-shortcomings",
-      "author": "Ana de Liz",
-      "published": "2026-04-13T08:28:26",
-      "summary": "",
-      "score": 3,
-      "score_breakdown": "+3 Presse | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la protection des lanceurs d'alerte, élément clé de la conformité réglementaire."
-    },
-    {
-      "hash": "a5b267587d52",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Singapore's measures to counter money laundering, terrorist financing and proliferation financing",
-      "url": "https://www.fatf-gafi.org/en/publications.html#singapore-mer-2026",
-      "author": "",
-      "published": "2026-05-06T00:00:00Z",
-      "summary": "FATF/APG mutual evaluation of Singapore's AML/CFT/CPF measures (on-site July 2025).",
-      "score": 70,
-      "score_breakdown": {
-        "critical": 40,
-        "high": 20,
-        "category": 10
-      },
-      "doc_type": "",
-      "action_class": "",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "63e2dd89dc63",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Austria's measures to counter money laundering, terrorist financing and proliferation financing",
-      "url": "https://www.fatf-gafi.org/en/publications.html#austria-mer-2026",
-      "author": "",
-      "published": "2026-04-30T00:00:00Z",
-      "summary": "FATF mutual evaluation of Austria's AML/CFT/CPF measures (on-site June-July 2025).",
-      "score": 70,
-      "score_breakdown": {
-        "critical": 40,
-        "high": 20,
-        "category": 10
-      },
-      "doc_type": "",
-      "action_class": "",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "63e34645374c",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Italy's measures to counter money laundering, terrorist financing and proliferation financing",
-      "url": "https://www.fatf-gafi.org/en/publications.html#italy-mer-2026",
-      "author": "",
-      "published": "2026-04-23T00:00:00Z",
-      "summary": "FATF mutual evaluation of Italy's AML/CFT/CPF measures (on-site June-July 2025).",
-      "score": 70,
-      "score_breakdown": {
-        "critical": 40,
-        "high": 20,
-        "category": 10
-      },
-      "doc_type": "",
-      "action_class": "",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "a613d11e76bd",
-      "source_name": "ACPR - Communiqués",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "Publication du rapport « Panorama et analyse des services d'IBAN virtuels offerts en France » - L'ACPR et Tracfin alertent sur certaines pratiques d'utilisation d'IBAN virtuels présentant des risques élevés en matière de blanchiment de capitaux",
-      "url": "https://acpr.banque-france.fr/fr/communiques-de-presse/publication-du-rapport-panorama-et-analyse-des-services-diban-virtuels-offerts-en-france-lacpr-et",
-      "author": "",
-      "published": "2026-04-13T08:00:00",
-      "summary": "L'ACPR et Tracfin publient un rapport sur les IBAN virtuels et alertent sur des pratiques présentant des risques élevés de blanchiment de capitaux.",
-      "score": 60,
-      "score_breakdown": [
-        "+20 critical:blanchiment",
-        "+10 high:acpr",
-        "+10 high:tracfin",
-        "+5 medium:risque",
-        "+15 source:autorite_fr"
-      ],
-      "doc_type": "RAPPORT",
-      "action_class": "INFO",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "857b802f402c",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Singapore's measures to counter money laundering, terrorist financing and proliferation financing",
-      "url": "https://www.fatf-gafi.org/en/publications/Mutualevaluations/singapore-mer-2026.html",
-      "author": "",
-      "published": "2026-05-06T00:00:00",
-      "summary": "FATF-APG mutual evaluation of Singapore's AML/CFT/CPF measures and FATF Recommendations compliance.",
-      "score": 50,
-      "doc_type": "publication",
-      "action_class": "etude",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "fdd1c939b753",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Austria's measures to counter money laundering, terrorist financing and proliferation financing",
-      "url": "https://www.fatf-gafi.org/en/publications/Mutualevaluations/austria-mer-2026.html",
-      "author": "",
-      "published": "2026-04-30T00:00:00",
-      "summary": "FATF mutual evaluation of Austria's AML/CFT/CPF measures, on-site visit June-July 2025.",
-      "score": 50,
-      "doc_type": "publication",
-      "action_class": "etude",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "eefe850adf1d",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Serbia's measures to counter money laundering, terrorist financing and proliferation financing",
-      "url": "https://www.fatf-gafi.org/en/publications/Mutualevaluations/serbia-mer-2026.html",
-      "author": "",
-      "published": "2026-04-03T00:00:00",
-      "summary": "FATF mutual evaluation report of Serbia's AML/CFT/CPF effectiveness.",
-      "score": 50,
-      "doc_type": "publication",
-      "action_class": "etude",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "37116192f4d9",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Ministerial Declaration of the Financial Action Task Force - April 2026",
-      "url": "https://www.fatf-gafi.org/en/publications.html#fatf-ministerial-april-2026",
-      "author": "",
-      "published": "2026-04-17T00:00:00Z",
-      "summary": "FATF Ministerial Declaration: focus on fraud + strengthening risk-based implementation of FATF Standards.",
-      "score": 45,
-      "score_breakdown": {
-        "critical": 20,
-        "high": 10,
-        "medium": 5,
-        "category": 10
-      },
-      "doc_type": "",
-      "action_class": "",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "37bd31de6af0",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Cyber-Enabled Fraud - Digitalisation and Money Laundering, Terrorist Financing and Proliferation Financing Risks",
-      "url": "https://www.fatf-gafi.org/en/publications/Methodsandtrends/cyber-enabled-fraud.html",
-      "author": "",
-      "published": "2026-02-24T00:00:00",
-      "summary": "FATF report on cyber-enabled fraud as a widespread profit-motivated crime generating large illicit proceeds via victim exploitation.",
-      "score": 45,
-      "doc_type": "publication",
-      "action_class": "etude",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "c6125a5ea6ef",
-      "source_name": "Wolfsberg Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "The Wolfsberg Group releases its Statement on the Risk-Based Approach",
-      "url": "https://wolfsberg-group.org/news/the-wolfsberg-group-releases-its-statement-on-the-risk-based-approach",
-      "author": "",
-      "published": "2025-10-01T00:00:00",
-      "summary": "Wolfsberg Group renews commitment to risk-based approach in AML/CFT; pledge to update 2006 RBA guidance.",
-      "score": 35,
-      "doc_type": "guidance",
-      "action_class": "etude",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "4264be6b365a",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Counter Terrorism and Iran-related Designations; Cuba Designation and Designations Updates; Issuance of Cuba-related General License and Frequently Asked Questions",
-      "url": "https://ofac.treasury.gov/recent-actions/20260507",
-      "author": "",
-      "published": "2026-05-07T08:00:00",
-      "summary": "OFAC counter-terrorism and Iran designations; Cuba-related sanction updates; new Cuba-related General License and FAQ.",
-      "score": 30,
-      "score_breakdown": [
-        "+20 critical:sanction",
-        "+10 source:autorite_intl"
-      ],
-      "doc_type": "SANCTION",
-      "action_class": "INFO",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "0ff0e024f6e3",
-      "source_name": "DOJ - Criminal Division",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Federal Jury Convicts Virgina Man on Charges Relating to the Deletion of U.S. Government Databases",
-      "url": "https://www.justice.gov/opa/pr/federal-jury-convicts-virgina-man-charges-relating-deletion-us-government-databases",
-      "author": "",
-      "published": "2026-05-07T00:00:00",
-      "summary": "A federal jury convicted Sohaib Akhter on charges of conspiracy to commit computer fraud, password trafficking, and firearm possession.",
-      "score": 30,
-      "score_breakdown": "+20 critique: fraud | +10 src:autorite_intl",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "71f6b42eaea1",
-      "source_name": "Interpol",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "45,000 malicious IP addresses taken down in international cyber operation",
-      "url": "https://www.interpol.int/en/News-and-Events/News/2026/45-000-malicious-IP-addresses-taken-down-in-international-cyber-operation",
-      "author": "",
-      "published": "2026-03-13T00:00:00",
-      "summary": "International cyber operation takes down 45,000 malicious IP addresses linked to financial fraud.",
-      "score": 30,
-      "doc_type": "press_release",
-      "action_class": "operation",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "b7e58c485cad",
-      "source_name": "ACPR - Communiqués",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "Réclamations : l'ACPR constate des progrès mais alerte sur certaines pratiques encore insuffisantes dans la banque et l'assurance",
-      "url": "https://acpr.banque-france.fr/fr/communiques-de-presse/reclamations-lacpr-constate-des-progres-mais-alerte-sur-certaines-pratiques-encore-insuffisantes",
-      "author": "",
-      "published": "2026-04-16T08:00:00",
-      "summary": "L'ACPR constate des progrès dans le traitement des réclamations mais alerte sur certaines pratiques encore insuffisantes dans la banque et l'assurance.",
-      "score": 25,
-      "score_breakdown": [
-        "+10 high:acpr",
-        "+15 source:autorite_fr"
-      ],
-      "doc_type": "ACTUALITÉ",
-      "action_class": "INFO",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "66f8fd05aa41",
-      "source_name": "ACPR - Publications",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "N° 179 : L'assurance-vie en 2025",
-      "url": "https://acpr.banque-france.fr/fr/publications-et-statistiques/publications/ndeg-179-lassurance-vie-en-2025",
-      "author": "",
-      "published": "2026-03-26T00:00:00",
-      "summary": "Analyse et synthèse de l'assurance-vie en 2025 par l'ACPR.",
-      "score": 25,
-      "doc_type": "publication",
-      "action_class": "etude",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "b01784535111",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Targeted report on Stablecoins and Unhosted Wallets - Peer-to-Peer Transactions",
-      "url": "https://www.fatf-gafi.org/en/publications/Digitalisation/targeted-report-stablecoins-unhosted-wallets.html",
-      "author": "",
-      "published": "2026-03-03T00:00:00",
-      "summary": "FATF report highlights illicit finance risks linked to misuse of stablecoins through peer-to-peer (P2P) transactions via unhosted wallets, with recommended actions.",
-      "score": 25,
-      "doc_type": "publication",
-      "action_class": "etude",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "cde99d482202",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "High-Risk Jurisdictions subject to a Call for Action - 13 February 2026",
-      "url": "https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/call-for-action-february-2026.html",
-      "author": "",
-      "published": "2026-02-13T00:00:00",
-      "summary": "FATF black list update - high-risk jurisdictions subject to call for action.",
-      "score": 25,
-      "doc_type": "publication",
-      "action_class": "etude",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "999ff405e881",
-      "source_name": "Wolfsberg Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "The Wolfsberg Group publishes its second Statement on Effective Monitoring for Suspicious Activity",
-      "url": "https://wolfsberg-group.org/news/the-wolfsberg-group-publishes-its-second-statement-on-effective-monitoring-for-suspicious-activity",
-      "author": "",
-      "published": "2025-11-01T00:00:00",
-      "summary": "Second Wolfsberg statement on effective monitoring for suspicious activity - innovation in AML transaction monitoring.",
-      "score": 20,
-      "doc_type": "guidance",
-      "action_class": "etude",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "e98ff95d4340",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Jurisdictions under Increased Monitoring - 13 February 2026",
-      "url": "https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-february-2026.html",
-      "author": "",
-      "published": "2026-02-13T00:00:00",
-      "summary": "FATF grey list update - jurisdictions under increased monitoring.",
-      "score": 20,
-      "doc_type": "publication",
-      "action_class": "etude",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "c393f1aaeeca",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Counter Terrorism and Counter Narcotics Designation Update, Russia-related Designation Removal",
-      "url": "https://ofac.treasury.gov/recent-actions/20260508",
-      "author": "",
-      "published": "2026-05-08T08:00:00",
-      "summary": "OFAC counter-terrorism and counter-narcotics designation update; Russia-related designation removal.",
-      "score": 10,
-      "score_breakdown": [
-        "+10 source:autorite_intl"
-      ],
-      "doc_type": "SANCTION",
-      "action_class": "INFO",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "260ac4b36aa2",
-      "source_name": "Interpol",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Global crackdown on illicit pharmaceuticals sees USD 15.5 million in seizures",
-      "url": "https://www.interpol.int/en/News-and-Events/News/2026/Global-crackdown-on-illicit-pharmaceuticals",
-      "author": "",
-      "published": "2026-05-07T08:00:00",
-      "summary": "Interpol-coordinated operation against illicit pharmaceuticals with USD 15.5 million in seizures — pharmaceutical crime and financial flows.",
-      "score": 10,
-      "score_breakdown": [
-        "+10 source:autorite_intl"
-      ],
-      "doc_type": "ACTUALITÉ",
-      "action_class": "INFO",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "281242723d24",
-      "source_name": "US Treasury - Sanctions Press",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "U.S. Department of the Treasury Hosts Convening with State Insurance Commissioners on Private Credit and the Insurance Sector",
-      "url": "https://home.treasury.gov/news/press-releases/sb0493",
-      "author": "",
-      "published": "2026-05-07T00:00:00+00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": "",
-      "action_class": "",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "2fbb34fbfd5c",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Issuance of Venezuela-related General License and Amended Frequently Asked Question",
-      "url": "https://ofac.treasury.gov/recent-actions/20260504",
-      "author": "",
-      "published": "2026-05-04T08:00:00",
-      "summary": "OFAC issuance of Venezuela-related General License and amended FAQ.",
-      "score": 10,
-      "score_breakdown": [
-        "+10 source:autorite_intl"
-      ],
-      "doc_type": "ACTUALITÉ",
-      "action_class": "INFO",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "e58ba876e321",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Democratic Republic of the Congo-related Designation",
-      "url": "https://ofac.treasury.gov/recent-actions/20260430",
-      "author": "",
-      "published": "2026-04-30T08:00:00",
-      "summary": "OFAC Democratic Republic of the Congo-related designation.",
-      "score": 10,
-      "score_breakdown": [
-        "+10 source:autorite_intl"
-      ],
-      "doc_type": "SANCTION",
-      "action_class": "INFO",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "815b8c57ff64",
-      "source_name": "Wolfsberg Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Wolfsberg Group Announces New Co-Chair and Management Committee Member",
-      "url": "https://wolfsberg-group.org/news/wolfsberg-group-announces-new-co-chair-and-management-committee-member",
-      "author": "",
-      "published": "2026-04-15T08:00:00",
-      "summary": "Appointment of Stevenson Munro as Co-chair of the Wolfsberg Group and of Rachel Sloan as member of the Management Committee.",
-      "score": 10,
-      "score_breakdown": [
-        "+10 source:autorite_intl"
-      ],
-      "doc_type": "ACTUALITÉ",
-      "action_class": "INFO",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "368ef38a4230",
-      "source_name": "DOJ - Criminal Division",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Member of Prolific Russian Ransomware Group Sentenced to Prison",
-      "url": "https://www.justice.gov/opa/pr/member-prolific-russian-ransomware-group-sentenced-prison",
-      "author": "",
-      "published": "2026-05-04T00:00:00",
-      "summary": "A Latvian national sentenced to 102 months in prison for role in a Russian ransomware organization.",
-      "score": 10,
-      "doc_type": "press_release",
-      "action_class": "enforcement",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
     }
   ],
-  "last_update": "2026-05-13T05:03:48.853228+00:00",
+  "last_update": "2026-05-13T08:35:20.963477+00:00",
   "last_updated": "2026-05-13T06:09:50.658136Z",
   "last_fetch": "2026-05-08T07:25:13.731502+00:00"
 }
