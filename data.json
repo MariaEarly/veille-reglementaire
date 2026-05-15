@@ -652,7 +652,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne l'accès au registre des bénéficiaires effectifs et la formation obligatoire des professionnels en lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Ce décret concerne l'accès au registre des bénéficiaires effectifs et la formation obligatoire des professionnels assujettis à la lutte contre le blanchiment et le financement du terrorisme."
     },
     {
       "hash": "d0bcb84dd6a4823f",
@@ -1624,7 +1624,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement de groupes terroristes, violation majeure des obligations de conformité et de lutte contre le blanchiment d'argent."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement du terrorisme, violation majeure des règles de conformité et de lutte contre le blanchiment d'argent."
     },
     {
       "hash": "841b0409997c23a0",
@@ -2011,7 +2011,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des normes techniques pour la coopération entre les unités de renseignement financier dans la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de normes techniques pour la coopération entre unités de renseignement financier dans la lutte anti-blanchiment."
     },
     {
       "hash": "a574fb32ef53bed4",
@@ -2371,6 +2371,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite des défaillances systémiques des programmes de conformité dans le secteur santé face aux réclamations frauduleuses."
+    },
+    {
+      "hash": "0accdb5cb6e739ed",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90QnJSanV1MlN1bWxEUURxZzhfVnBHdVRKQkJKeEJ2V3h3VUZSTzNMOENPY0JobkV0c1hfNWVyNklJWkVXSUxTQ2xTOEhWU2kwdExJRkZaY1RxZXAxZHNGaElMSEFVUQ?oc=5",
+      "author": "",
+      "published": "2026-05-13T06:34:14",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
+      "score": 60,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "b94847c0a6ebbc14",
@@ -4002,24 +4020,6 @@
       "ai_summary": "L'article traite de la régulation et de la conformité du secteur crypto en France face aux risques de fraude envers les investisseurs."
     },
     {
-      "hash": "ac76ea91598a7ee5",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "US fines Thales over alleged compliance with anti-Israel embargo",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/us-fines-thales-over-alleged-compliance-anti-israel-embargo",
-      "author": "Sam Fry",
-      "published": "2026-04-15T08:24:46",
-      "summary": "",
-      "score": 49,
-      "score_breakdown": "+20 mots critiques: embargo | +10 mots forts: compliance | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite des sanctions américaines contre Thales pour non-respect d'un embargo, relevant directement de la conformité réglementaire."
-    },
-    {
       "hash": "2142907aec52d13a",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -4035,7 +4035,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière en imposant aux sociétés de financement l'analyse de scénarios environnementaux selon les directives de l'EBA."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des orientations réglementaires de l'EBA sur l'analyse environnementale, obligation de conformité pour les établissements financiers."
     },
     {
       "hash": "7eacb69014e007f4",
@@ -4314,7 +4314,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "cb80b201fd28",
@@ -5496,7 +5496,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'évaluation des mesures anti-blanchiment, anti-terrorisme et anti-prolifération de Singapour."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'évaluation des mesures de lutte contre le blanchiment de capitaux, le financement du terrorisme et la prolifération."
     },
     {
       "hash": "a76da50e5fa9",
@@ -5513,7 +5513,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il évalue les mesures autrichiennes contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car le GAFI évalue les mesures anti-blanchiment, anti-terrorisme et anti-prolifération de l'Autriche."
     },
     {
       "hash": "0c2c57a4d937",
@@ -5547,7 +5547,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur l'évaluation des mesures anti-blanchiment de capitaux et de financement du terrorisme en Italie."
+      "ai_summary": "Cet article concerne la conformité financière car il évalue les mesures italiennes de lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "36ff643b92f6853c",
@@ -6055,7 +6055,7 @@
     },
     {
       "hash": "44fb88d94a37852a",
-      "source_name": "Conseil d'État (JURICAF)",
+      "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
       "category": "jurisprudence",
       "title": "France, Conseil d'État, 9ème - 10ème chambres réunies, 12 mai 2026, 500706",
@@ -6069,7 +6069,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "d0cacca3d549eeb3",
+      "source_name": "Cass. - Blanchiment",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour de cassation, Chambre criminelle - formation restreinte hors rnsm/na, 06 mai 2026, 25-80.787",
+      "url": "http://juricaf.org/arret/FRANCE-COURDECASSATION-20260506-2580787",
+      "author": "Chambre criminelle - formation restreinte hors rnsm/na",
+      "published": "2026-05-06T12:00:00",
+      "summary": "N° D 25-80.787 F-D    N° 00566      MB25  6 MAI 2026      IRRECEVABILITE      M. BONNAL président,                  R É P U B L I Q U E F R A N Ç A I S E _ AU NOM DU PEUPLE FRANÇAIS _ ARRÊT DE LA COUR DE CASSATION, CHAMBRE CRIMINELLE,   DU 6 MAI 2026        La société 1, partie intervenante, a formé un pourvoi contre l'arrêt de la chambre de l'instruction de la cour d'appel de Paris, 2e section, en date du 14 janvier 2025, qui, dans l'information suivie des chefs, notamment, de fraude fiscale, a",
+      "score": 36,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +5 mots moyens: ppe | +20 Géo FR: france, français | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "5f661cc552352cad",
@@ -6904,7 +6922,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "08023b9111a50cea",
@@ -7123,22 +7141,22 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des risques de blanchiment via des transactions fictives détectées par l'OFAC."
     },
     {
-      "hash": "ed0765846c34e5b5",
+      "hash": "09ff82b8f1644453",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
       "category": "jurisprudence",
-      "title": "France, Conseil d'État, 4ème chambre, 12 mai 2026, 512303",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260512-512303",
-      "author": "4ème chambre",
-      "published": "2026-05-12T12:00:00",
-      "summary": "Vu la procédure suivante :                  La société Faites vous-mêmes, d'une part, et les sociétés Saintongeaise du Bricolage, Pascor, Barley, Naoussa, Lynet et Stephe, d'autre part, ont demandé à la cour administrative d'appel de Bordeaux d'annuler pour excès de pouvoir l'arrêté du 24 avril 2023 par lequel le maire de Saint-Georges-des-Coteaux Charente-Maritime a accordé à la société L'Immobilière Leroy Merlin France un permis de construire valant autorisation d'exploitation commerciale pour",
+      "title": "France, Conseil d'État, 4ème - 1ère chambres réunies, 13 mai 2026, 496752",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260513-496752",
+      "author": "4ème - 1ère chambres réunies",
+      "published": "2026-05-13T12:00:00",
+      "summary": "14-02-01-05-02 COMMERCE, INDUSTRIE, INTERVENTION ÉCONOMIQUE DE LA PUISSANCE PUBLIQUE. - RÉGLEMENTATION DES ACTIVITÉS ÉCONOMIQUES. - ACTIVITÉS... Vu la procédure suivante :                  La société Longévité a demandé à la cour administrative d'appel de Paris d'annuler pour excès de pouvoir l'arrêté du 21 septembre 2021 par lequel le maire de Clichy-sous-Bois Seine-Saint-Denis a refusé de lui accorder un permis de construire valant autorisation d'exploitation commerciale pour étendre de 5 331 ",
       "score": 30,
       "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4dac211ff170a0c8",
@@ -7836,7 +7854,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ae88a9b0c7926905",
@@ -7854,7 +7872,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a48f1280c246d904",
@@ -7980,7 +7998,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "513d55650520afb1",
@@ -7998,7 +8016,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "884ba99df7acbe73",
@@ -8106,7 +8124,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il présente une formation sur la diligence raisonnable en matière de sanctions pour les PME."
     },
     {
       "hash": "9124068d4893d233",
@@ -8525,6 +8543,24 @@
       "ai_summary": "Le Wolfsberg Group élit une nouvelle co-présidente spécialisée en prévention de la criminalité financière, organisme clé de conformité bancaire."
     },
     {
+      "hash": "99ceae3aacd71006",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, 6ème chambre, 13 mai 2026, 501381",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260513-501381",
+      "author": "6ème chambre",
+      "published": "2026-05-13T12:00:00",
+      "summary": "Vu la procédure suivante :                  L'association Les Amis de la Terre - Groupe du Gers, l'association Sauvegarde Berrac, M. E... D..., Mme Q...-K..., M. M... K..., M. F... H..., M. O... B..., M. A... N..., Mme L... P..., M. G... J... et Mme I... C... ont demandé au tribunal administratif de Pau d'annuler l'arrêté du préfet du Gers du 31 mars 2023 portant autorisation environnementale au titre de l'article R. 181-41 du code de l'environnement concernant l'aménagement du parc photovoltaïq",
+      "score": 24,
+      "score_breakdown": "+20 Géo FR: france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "3bb8d76f8905dd85",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -8773,7 +8809,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "68a0902b64998b9b",
@@ -9598,7 +9634,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "01a18227f7a8fc04",
@@ -9652,7 +9688,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a9a8b34f8eba",
@@ -9686,7 +9722,7 @@
       "action_class": "sanctions_update",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les mesures restrictives (sanctions) imposent des obligations de gel d'actifs et de conformité aux entités financières."
+      "ai_summary": "Cet article concerne les sanctions financières de l'UE contre les acteurs menaçant l'Ukraine, relevant de la conformité réglementaire."
     },
     {
       "hash": "a10fb2f2ead5",
@@ -9738,23 +9774,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions et mesures restrictives que les institutions financières doivent respecter."
-    },
-    {
-      "hash": "b8939fd6ebc4",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures directed against certain persons and entities in view of the situation in Iran (European Union)",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/11/statement-by-the-high-representative-on-behalf-of-the-european-union-on-the-alignment-of-certain-countries-concerning-restrictive-measures-directed-against-certain-persons-and-entities-in-view-of-the-situation-in-iran/",
-      "author": "",
-      "published": "2026-05-11T00:00:00+00:00",
-      "summary": "Alignement de pays tiers sur les mesures restrictives de l’UE visant des personnes et entités au regard de la situation en Iran.",
-      "score": 12,
-      "doc_type": "SANCTION",
-      "action_class": "sanctions_update",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "066e2b6414ec",
@@ -9948,7 +9967,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne les sanctions OFAC contre des acteurs facilitant le commerce de pétrole iranien, relevant directement de la conformité financière et des restrictions commerciales."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions OFAC contre des entités facilitant le commerce de pétrole iranien illégal."
     },
     {
       "hash": "c11bf5c77baa",
@@ -10817,26 +10836,6 @@
       "ai_summary": "Cet article concerne les sanctions contre le Nicaragua et les licences générales délivrées par l'OFAC pour les opérations autorisées."
     },
     {
-      "hash": "815b8c57ff64",
-      "source_name": "Wolfsberg Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Wolfsberg Group Announces New Co-Chair and Management Committee Member",
-      "url": "https://wolfsberg-group.org/news/wolfsberg-group-announces-new-co-chair-and-management-committee-member",
-      "author": "",
-      "published": "2026-04-15T08:00:00",
-      "summary": "Appointment of Stevenson Munro as Co-chair of the Wolfsberg Group and of Rachel Sloan as member of the Management Committee.",
-      "score": 10,
-      "score_breakdown": [
-        "+10 source:autorite_intl"
-      ],
-      "doc_type": "ACTUALITÉ",
-      "action_class": "INFO",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le Wolfsberg Group est une organisation clé en matière de conformité financière et de lutte contre le blanchiment d'argent."
-    },
-    {
       "hash": "2898691743a83517",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -10870,7 +10869,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la violation de la loi FCPA (Foreign Corrupt Practices Act) dans l'affaire 1MDB."
     },
     {
       "hash": "ab5a34f696d42964",
@@ -10888,7 +10887,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation de la loi FCPA impliquant un directeur financier et des pots-de-vin en Amérique latine."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation de la loi FCPA (pots-de-vin internationaux) commise par un directeur financier."
     },
     {
       "hash": "402367e29f539e02",
@@ -11410,7 +11409,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7db753e60572e3f1",
@@ -11428,7 +11427,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5db889015bd7271e",
@@ -11449,7 +11448,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites en corruption internationale et de versements illégaux à des agents publics."
     }
   ],
-  "last_update": "2026-05-15T04:33:35.567899+00:00",
+  "last_update": "2026-05-15T08:39:53.591330+00:00",
   "last_updated": "2026-05-14T18:15:54.084079+00:00",
   "last_fetch": "2026-05-14T18:15:54.084079+00:00"
 }
