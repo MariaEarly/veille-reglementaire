@@ -1159,24 +1159,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'un accord réglementaire encadrant la cotation croisée de titres entre deux juridictions."
     },
     {
-      "hash": "9288b3a46813cc04",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 15 avril 2026 portant application des articles L. 562-2 et suivants du code monétaire et financier",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053907114",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-04-17T00:00:00",
-      "summary": "Article Par arrêté du ministre de l'intérieur et du ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique en date du 15 avril 2026, vu le code monétaire et financier, notamment ses articles L. 562-2 et suivants, les fonds et ressources économiques qui appartiennent à, sont possédés, détenus ou contrôlés par l'association « Sciences & Education », créée le 27 juillet 2018 et déclarée le 1er août 2018 à la préfecture des Hauts-de-Seine (92), sous le numé",
-      "score": 82,
-      "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: code monétaire | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet arrêté régit les obligations de conformité en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme."
-    },
-    {
       "hash": "edf9505e74c41c7a",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -1229,6 +1211,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la fraude bancaire et des mesures de contrôle des comptes suspects."
+    },
+    {
+      "hash": "9e4f90a0f458d62a",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OMFBOUExhSTNBMFNQSjFJWmZJbjFIXzNuVXJvV1hNT20weVp4cElnRXhjMFMtNXlEZmNIU2xLNUs1UUQtSEIyTGpDdFBfcFQ1eTh6Wldvb0JIUHdaWEhwc0dfR3Zxdw?oc=5",
+      "author": "",
+      "published": "2026-05-16T06:15:50",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
+      "score": 75,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "f6625443a2832ead",
@@ -1516,7 +1516,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de violations graves incluant le financement du terrorisme, un risque majeur en matière de conformité et de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement du terrorisme, violation majeure des règles de conformité et de lutte anti-blanchiment."
     },
     {
       "hash": "841b0409997c23a0",
@@ -2244,7 +2244,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b94847c0a6ebbc14",
@@ -2513,7 +2513,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la mise en place de systèmes IA conformes aux régulations et de la surveillance des risques de conformité liés à l'IA."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la mise en conformité des systèmes IA avec les régulations financières et de l'oversight réglementaire."
     },
     {
       "hash": "a074575a1b62f51b",
@@ -2695,23 +2695,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de blanchiment d'argent et de responsabilité d'un PDG."
-    },
-    {
-      "hash": "9781e77be1f0",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Ministerial Declaration of the Financial Action Task Force - April 2026",
-      "url": "https://www.fatf-gafi.org/en/publications/ministerial-declaration-of-the-financial-action-task-force-april-2026.html",
-      "author": "",
-      "published": "2026-04-17T00:00:00+00:00",
-      "summary": "FATF Ministerial Declaration: ministers commit to tackling illicit finance, fraud, and risk-based AML implementation.",
-      "score": 55,
-      "doc_type": "article",
-      "action_class": "alerte",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les engagements des ministres sur la lutte contre le financement illicite et la conformité AML."
     },
     {
       "hash": "b541b90c8814e548",
@@ -3957,7 +3940,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des orientations réglementaires obligatoires sur l'analyse des risques environnementaux pour les sociétés de financement."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des orientations réglementaires de l'EBA sur l'analyse des risques environnementaux pour les sociétés de financement."
     },
     {
       "hash": "7eacb69014e007f4",
@@ -4288,80 +4271,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les exigences prudentielles et de conformité des institutions de crédit concernant les expositions de titrisation."
-    },
-    {
-      "hash": "37116192f4d9",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Ministerial Declaration of the Financial Action Task Force - April 2026",
-      "url": "https://www.fatf-gafi.org/en/publications.html#fatf-ministerial-april-2026",
-      "author": "",
-      "published": "2026-04-17T00:00:00Z",
-      "summary": "FATF Ministerial Declaration: focus on fraud + strengthening risk-based implementation of FATF Standards.",
-      "score": 45,
-      "score_breakdown": {
-        "critical": 20,
-        "high": 10,
-        "medium": 5,
-        "category": 10
-      },
-      "doc_type": "",
-      "action_class": "",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte anti-fraude et l'application des normes FATF pour renforcer la conformité financière internationale."
-    },
-    {
-      "hash": "d49f3d2ab6d8",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Ministerial Declaration of the Financial Action Task Force - April 2026",
-      "url": "https://www.fatf-gafi.org/en/publications.html",
-      "author": "",
-      "published": "2026-04-17T00:00:00+00:00",
-      "summary": "Ministers from across the globe have today reiterated their commitment to tackling illicit finance through multilateral coordinated action under the Financial Action Task Force (FATF), agreeing to focus in particular efforts on the growing threat of fraud and strengthening an effective risk-based im",
-      "score": 45,
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les engagements du GAFI pour lutter contre le financement illicite et la fraude par des actions coordonnées."
-    },
-    {
-      "hash": "9bb4df7dcef7",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Ministerial Declaration of the Financial Action Task Force - April 2026",
-      "url": "https://www.fatf-gafi.org/en/publications/Fatfgeneral/ministerial-declaration-april-2026.html",
-      "author": "",
-      "published": "2026-04-17T00:00:00+00:00",
-      "summary": "Ministers reiterate commitment to tackling illicit finance through multilateral coordinated action under the FATF, focusing on fraud and risk-based implementation of FATF Standards.",
-      "score": 45,
-      "doc_type": "PUBLICATION",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre le financement illicite et de la mise en œuvre des normes du GAFI."
-    },
-    {
-      "hash": "1bc40f7b1783",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Ministerial Declaration of the Financial Action Task Force - April 2026",
-      "url": "https://www.fatf-gafi.org/en/publications/Fatfgeneral/Ministerial-declaration-april-2026.html",
-      "author": "",
-      "published": "2026-04-17T00:00:00+00:00",
-      "summary": "FATF Ministerial Declaration April 2026 - global commitment to tackle illicit finance, with focus on fraud and risk-based implementation of FATF Standards.",
-      "score": 45,
-      "doc_type": "AUTRE",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'engagement mondial contre le blanchiment et la fraude."
     },
     {
       "hash": "dc6db4a25a192748",
@@ -6651,24 +6560,6 @@
       "ai_summary": "Cet article concerne les sanctions restrictives de l'UE contre l'Ukraine, relevant de la conformité en matière de sanctions internationales."
     },
     {
-      "hash": "3c72e2c03436",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Statement by the HR on behalf of the EU on the alignment of certain countries concerning restrictive measures in view of the situation in Belarus and the involvement of Belarus in the Russian aggression against Ukraine - Decision CFSP/2026/503",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/13/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-in-view-of-the-situation-in-belarus-and-the-involvement-of-belarus-in-the-russian-aggression-against-ukraine-decision-cfsp2026503/",
-      "author": "",
-      "published": "2026-05-13T00:00:00+00:00",
-      "summary": "Statement by the HR on behalf of the EU on the alignment of certain countries concerning restrictive measures in view of the situation in Belarus and the involvement of Belarus in the Russian aggression against Ukraine - Decision CFSP/2026/503",
-      "score": 32,
-      "score_breakdown": null,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "8f1e167222e7",
       "source_name": "Conseil de l'UE",
       "source_type": "scrape",
@@ -6988,7 +6879,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du refus d'agrément ministériel, relevant du contrôle réglementaire des entités financières."
     },
     {
       "hash": "4dac211ff170a0c8",
@@ -7688,24 +7579,6 @@
       "ai_summary": "Le ministère de la Justice finance la lutte contre la fraude, relevant de la conformité financière et de la prévention des risques de compliance."
     },
     {
-      "hash": "9e51f43e70352c0d",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "Mario Draghi exemplifies true European statesmanship: answering the call when it mattered most and helping Europe emerge stronger. President Christine @Lagarde congratulates him on receiving the Charlemagne Prize",
-      "url": "https://x.com/ecb/status/2054651590917701752",
-      "author": "@ecb",
-      "published": "2026-05-13T19:54:00",
-      "summary": "Mario Draghi exemplifies true European statesmanship: answering the call when it mattered most and helping Europe emerge stronger.President Christine @Lagarde congratulates him on receiving the Charlemagne Prize https://t.co/uQxcHBsDhq — European Central Bank (@ecb) May 13, 2026",
-      "score": 30,
-      "score_breakdown": "+10 mots forts: esma | +5 mots moyens: bank | +10 Géo EU: esma | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "ae88a9b0c7926905",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -7721,7 +7594,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a48f1280c246d904",
@@ -8233,7 +8106,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "59998b4f1a0ddae8",
@@ -8354,6 +8227,24 @@
       "ai_summary": "Le Wolfsberg Group élit une nouvelle co-présidente spécialisée en prévention de la criminalité financière, organisme clé de conformité bancaire."
     },
     {
+      "hash": "9e51f43e70352c0d",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Mario Draghi exemplifies true European statesmanship: answering the call when it mattered most and helping Europe emerge stronger. President Christine @Lagarde congratulates him on receiving the Charlemagne Prize",
+      "url": "https://x.com/ecb/status/2054651590917701752",
+      "author": "@ecb",
+      "published": "2026-05-13T19:54:00",
+      "summary": "Mario Draghi exemplifies true European statesmanship: answering the call when it mattered most and helping Europe emerge stronger.President Christine @Lagarde congratulates him on receiving the Charlemagne Prize https://t.co/uQxcHBsDhq — European Central Bank (@ecb) May 13, 2026",
+      "score": 25,
+      "score_breakdown": "+10 mots forts: esma | +5 mots moyens: bank | +10 Géo EU: esma | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "6ccca19c9b259178",
       "source_name": "Cass. - Bancaire",
       "source_type": "rss",
@@ -8369,7 +8260,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3bb8d76f8905dd85",
@@ -8495,7 +8386,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "29db0b16b6bf2f0f",
@@ -8621,7 +8512,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "99ceae3aacd71006",
@@ -8639,7 +8530,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "be47d5842976144c",
@@ -8674,7 +8565,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e5c526f473ea3094",
@@ -8692,7 +8583,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "68a0902b64998b9b",
@@ -8983,24 +8874,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de violations de la loi anticorruption (FCPA) impliquant des cadres d'entreprise."
-    },
-    {
-      "hash": "b753476f53c69187",
-      "source_name": "Money Laundering News",
-      "source_type": "press",
-      "category": "presse",
-      "title": "FinCEN Proposes Rule to Increase Whistleblower Incentives",
-      "url": "https://www.moneylaunderingnews.com/2026/04/fincen-proposes-rule-to-increase-whistleblower-incentives/",
-      "author": "Kelly M. McGlynn",
-      "published": "2026-04-16T21:31:50",
-      "summary": "FinCEN has published a Notice of Proposed Rulemaking&#160;(“NPRM”) that would formalize and expand its whistleblower program, offering potentially substantial financial payouts to whistleblowers reporting certain financial crimes. According to FinCEN’s announcement, this initiative is designed to incentivize and protect individuals who report violations of major financial crime laws—specifically, the Bank Secrecy Act (“BSA”), the International...",
-      "score": 16,
-      "score_breakdown": "+5 mots moyens: bank | +3 Presse | +3 Géo Intl: fincen, bank secrecy act | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des incitations aux lanceurs d'alerte pour signaler les crimes financiers."
     },
     {
       "hash": "8727501f693a",
@@ -9500,7 +9373,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "01a18227f7a8fc04",
@@ -10650,75 +10523,6 @@
       "ai_summary": "Cet article concerne les sanctions financières imposées par les États-Unis contre le terrorisme et la prolifération nucléaire."
     },
     {
-      "hash": "66d52db8707e",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Ministerial Declaration of the Financial Action Task Force - April 2026",
-      "url": "https://www.fatf-gafi.org/en/publications/Fatfgeneral/Ministerial-Declaration-2026.html",
-      "author": "",
-      "published": "2026-04-17T00:00:00+00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la déclaration ministérielle du GAFI sur la lutte contre le blanchiment et le financement du terrorisme."
-    },
-    {
-      "hash": "74f90a7d7d89",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Counter Terrorism Designations; Sudan Designations",
-      "url": "https://ofac.treasury.gov/recent-actions/20260417",
-      "author": "",
-      "published": "2026-04-17T00:00:00",
-      "summary": "Counter Terrorism Designations; Sudan Designations",
-      "score": 10,
-      "score_breakdown": "+10 bonus source",
-      "doc_type": "scraped",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les désignations de contre-terrorisme au Soudan par l'OFAC, relevant de la conformité réglementaire et des sanctions financières."
-    },
-    {
-      "hash": "abc1a7f9f347",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Issuance of Russia-related General License",
-      "url": "https://ofac.treasury.gov/recent-actions/20260417_33",
-      "author": "",
-      "published": "2026-04-17T00:00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les mesures de conformité aux sanctions américaines imposées à la Russie par l'OFAC."
-    },
-    {
-      "hash": "1ce124a99c52",
-      "source_name": "GAFI/FATF",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Ministerial Declaration of the Financial Action Task Force - April 2026",
-      "url": "https://www.fatf-gafi.org/content/fatf-gafi/en/publications/Fatfgeneral/Ministerial-Declaration-2026.html",
-      "author": "",
-      "published": "2026-04-17T00:00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les orientations du GAFI sur la lutte contre le blanchiment de capitaux et le financement du terrorisme."
-    },
-    {
       "hash": "f4033c994b41155c",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -10734,7 +10538,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "2898691743a83517",
@@ -11310,7 +11114,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les accusations de corruption contre un ancien dirigeant, relevant de la conformité anti-corruption et des risques de fraude organisationnelle."
     },
     {
       "hash": "7db753e60572e3f1",
@@ -11328,10 +11132,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     }
   ],
-  "last_update": "2026-05-16T19:37:25.816751+00:00",
+  "last_update": "2026-05-17T02:04:44.621392+00:00",
   "last_updated": "2026-05-16T06:08:32.010772+00:00",
   "last_fetch": "2026-05-16T06:08:32.010772+00:00"
 }
