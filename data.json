@@ -1213,24 +1213,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la fraude bancaire et des mesures de contrôle des comptes suspects."
     },
     {
-      "hash": "9e4f90a0f458d62a",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Vue PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OMFBOUExhSTNBMFNQSjFJWmZJbjFIXzNuVXJvV1hNT20weVp4cElnRXhjMFMtNXlEZmNIU2xLNUs1UUQtSEIyTGpDdFBfcFQ1eTh6Wldvb0JIUHdaWEhwc0dfR3Zxdw?oc=5",
-      "author": "",
-      "published": "2026-05-16T06:15:50",
-      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
-      "score": 75,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "f6625443a2832ead",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1516,7 +1498,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes par une entreprise, violation majeure des obligations de conformité et de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes par une entreprise, violation majeure des règles anti-blanchiment et de conformité."
     },
     {
       "hash": "841b0409997c23a0",
@@ -2495,7 +2477,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la conformité réglementaire liée aux systèmes d'IA et de leur supervision par les responsables compliance."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la mise en place de systèmes de surveillance de l'IA et du respect des réglementations futures."
     },
     {
       "hash": "a074575a1b62f51b",
@@ -3055,6 +3037,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les risques géopolitiques impactent la gestion des risques des banques européennes, relevant de la conformité réglementaire bancaire."
+    },
+    {
+      "hash": "772e407ab9988a32",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sbzJRa2FqYnQ2TVpXeTQ0SnhrNndiUVVsX0hvdGg5THF5R3hVYUpQQUdOemowNU5nWVNfQ2dEMXpkQWNGS3pTcTZZdGhzVjZhNk9lYTJMc0lGVWdqaDN2c1JmWEUtQQ?oc=5",
+      "author": "",
+      "published": "2026-05-13T07:27:49",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "207cc7e3f2ec",
@@ -3922,7 +3922,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des orientations réglementaires de l'EBA sur l'analyse de scénarios environnementaux applicables aux sociétés de financement."
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur les orientations de l'EBA relatives aux scénarios environnementaux que les établissements financiers doivent respecter."
     },
     {
       "hash": "7eacb69014e007f4",
@@ -6398,42 +6398,6 @@
       "ai_summary": "Cet article traite des changements réglementaires de la SEC concernant la divulgation des risques financiers."
     },
     {
-      "hash": "ae5a50347bc3e41b",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "German prosecutors carry out cum-ex fraud-linked searches",
-      "url": "https://globalinvestigationsreview.com/article/german-prosecutors-carry-out-cum-ex-fraud-linked-searches",
-      "author": "Malavika Devaya",
-      "published": "2026-04-17T12:15:55",
-      "summary": "",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les poursuites contre la fraude cum-ex en Allemagne relèvent de la conformité financière car elles visent à combattre la fraude fiscale organisée."
-    },
-    {
-      "hash": "991cb93f5961d870",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Pour lutter contre le travail au noir, la Cour des comptes préconise de limiter la sous-traitance dans le secteur de la construction",
-      "url": "https://www.lemonde.fr/politique/article/2026/04/17/pour-lutter-contre-le-travail-au-noir-la-cour-des-comptes-preconise-de-limiter-la-sous-traitance-dans-le-secteur-de-la-construction_6680841_823448.html",
-      "author": "",
-      "published": "2026-04-17T09:35:29",
-      "summary": "Dans une « communication », les magistrats de la rue Cambon énoncent 11 propositions pour améliorer la lutte contre la fraude aux cotisations. Le manque à gagner pour les régimes sociaux est très significatif : au-delà de 8,5 milliards d’euros.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: fraude, fraud | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La limitation de la sous-traitance vise à réduire la fraude aux cotisations sociales, enjeu majeur de conformité financière et fiscale."
-    },
-    {
       "hash": "0d5e2080e9a6",
       "source_name": "Conseil de l'UE",
       "source_type": "scrape",
@@ -6843,7 +6807,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4dac211ff170a0c8",
@@ -7558,7 +7522,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a48f1280c246d904",
@@ -8052,7 +8016,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "59998b4f1a0ddae8",
@@ -8188,7 +8152,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7d521292e9f1be2f",
@@ -8206,7 +8170,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "6ccca19c9b259178",
@@ -8224,7 +8188,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ecd2e2f26a617e16",
@@ -8332,7 +8296,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "29db0b16b6bf2f0f",
@@ -8476,7 +8440,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "be47d5842976144c",
@@ -8511,7 +8475,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e5c526f473ea3094",
@@ -8529,7 +8493,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "68a0902b64998b9b",
@@ -9319,7 +9283,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "01a18227f7a8fc04",
@@ -10484,7 +10448,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "2898691743a83517",
@@ -10901,42 +10865,6 @@
       "ai_summary": "Cet article concerne les désignations de sanctions relatives au terrorisme et à la non-prolifération, des mesures clés de conformité financière."
     },
     {
-      "hash": "a45b1f65a47a2e9e",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Counter Terrorism Designations; Sudan Designations | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260417",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-04-17T12:00:00",
-      "summary": "",
-      "score": 7,
-      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions financières contre le Soudan et la désignation d'entités terroristes par l'OFAC."
-    },
-    {
-      "hash": "eed9befb2b64a63f",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Issuance of Russia-related General License | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260417_33",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-04-17T12:00:00",
-      "summary": "",
-      "score": 7,
-      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions financières imposées à la Russie et les autorisations d'exemption accordées par l'OFAC."
-    },
-    {
       "hash": "dd650d175407d4c8",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -11060,7 +10988,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7db753e60572e3f1",
@@ -11078,10 +11006,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il évoque des accusations de corruption envers un dirigeant, relevant du domaine de la lutte anti-corruption."
+      "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-05-17T08:35:52.616765+00:00",
+  "last_update": "2026-05-17T12:57:52.846541+00:00",
   "last_updated": "2026-05-16T06:08:32.010772+00:00",
   "last_fetch": "2026-05-16T06:08:32.010772+00:00"
 }
