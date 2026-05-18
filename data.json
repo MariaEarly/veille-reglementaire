@@ -565,6 +565,24 @@
   ],
   "items": [
     {
+      "hash": "60eefd640d38b729",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "France FinTech, l’ACPR et l’AMF lancent l’appel à candidatures pour participer à la 6ème édition des French FinTech Weeks - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEhNWXVqODlsNHVlSzdKdXYxdmc4YXdXcDJSamVJTkFWZ1hvZHVQU1BmUV83TWpEdzRJa0dQS21RbGdxaWdZZVdWUnpCejllaXlGZjJKa01tLWJ4Z1dTTVQxbTN1a2NSeUtreHVKSV9pMHp0WVphTFc2dFpqUGE3R28weGFYMHpPampHQXJlelJxUDA2SGROLXJIQUxsUWt3T2RHZ3VDR2VuYmlQUVA3QmV6RWlENzVfWm1sNnY4NlVySzQwNkd2dEdoQUhsZDdXN0JrR19jc1VJWWM?oc=5",
+      "author": "",
+      "published": "2026-05-18T09:29:47",
+      "summary": "France FinTech, l’ACPR et l’AMF lancent l’appel à candidatures pour participer à la 6ème édition des French FinTech Weeks&nbsp;&nbsp;Banque de France",
+      "score": 100,
+      "score_breakdown": "+20 mots forts: acpr, amf | +15 mots moyens: fintech, banque, ppe | +25 Source FR | +20 Géo FR: france, acpr, amf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "acde8a947fd69388",
       "source_name": "DG Trésor",
       "source_type": "rss",
@@ -1498,7 +1516,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de sanctions pénales pour financement du terrorisme, violation majeure des obligations de conformité et de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes par une entreprise, une violation majeure des règles de conformité."
     },
     {
       "hash": "841b0409997c23a0",
@@ -2157,24 +2175,6 @@
       "ai_summary": "Cet article traite des défaillances systémiques des programmes de conformité dans le secteur santé face aux réclamations frauduleuses."
     },
     {
-      "hash": "73640abd84f39906",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "View PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56WE5GR2syNHh6aExQRDFrYVdfRVRCTmkybG90ZEFDUlAzSk9oS3J2N3cyWktYQV9OdnoxYmctSDhRZGNwU2ZrRkNDN2szdWpUWFFwT3dwbmVPSTlMY0g3VFl6aElVQQ?oc=5",
-      "author": "",
-      "published": "2026-05-15T21:36:28",
-      "summary": "View PDF&nbsp;&nbsp;Banque de France",
-      "score": 60,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "b94847c0a6ebbc14",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -2406,6 +2406,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'AMF et l'ACPR alertent sur des acteurs non autorisés proposant du Forex et crypto-dérivés, violation de la réglementation financière."
+    },
+    {
+      "hash": "7c3d98763c0d214e",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "« La France a six mois pour ne pas rater la prochaine vague industrielle de l’IA agentique »",
+      "url": "https://www.lemonde.fr/idees/article/2026/05/18/la-france-a-six-mois-pour-ne-pas-rater-la-prochaine-vague-industrielle-de-l-ia-agentique_6690864_3232.html",
+      "author": "",
+      "published": "2026-05-18T08:30:03",
+      "summary": "Les transactions opérées en ligne par des agents IA explosent, et elles sont le plus souvent réglées en stablecoins. En maintenant une règle d’impôts inadaptée de l’avis même de la Cour des comptes, la France risque de rester à l’écart de cette révolution financière et des recettes fiscales qu’elle peut précisément générer, estiment, dans une tribune au « Monde », trois acteurs français des cryptomonnaies.",
+      "score": 57,
+      "score_breakdown": "+10 mots forts: crypto | +5 mots moyens: risque | +3 Presse | +20 Géo FR: france, français | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "259598a56404b95b",
@@ -3000,7 +3018,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "207cc7e3f2ec",
@@ -3832,7 +3850,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des orientations de l'EBA sur l'analyse de risques environnementaux, obligation réglementaire pour les sociétés de financement."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des orientations réglementaires de l'EBA sur l'analyse environnementale, obligation de conformité pour les sociétés de financement."
     },
     {
       "hash": "7eacb69014e007f4",
@@ -5363,24 +5381,6 @@
       "ai_summary": "La réduction des effectifs de l'IRS augmente les risques de fraude fiscale et réduit la conformité fiscale des contribuables américains."
     },
     {
-      "hash": "b6555e91e6ee9da0",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Les États-Unis prolongent la suspension de la plupart des sanctions contre le pétrole russe mais les transactions avec l'Iran restent interdites",
-      "url": "https://www.bfmtv.com/economie/international/les-etats-unis-prolongent-la-suspension-de-la-plupart-des-sanctions-contre-le-petrole-russe-mais-les-transactions-avec-l-iran-restent-interdites_AD-202604180131.html",
-      "author": "",
-      "published": "2026-04-18T07:18:42",
-      "summary": "La suspension de la majorité des sanctions contre l'industrie pétrolière russe a été prolongée par les États-Unis alors que les cours fluctuent fortement ces derniers jours en raison de la guerre au Moyen-Orient.",
-      "score": 39,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: états-unis | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les États-Unis prolongent les sanctions contre le pétrole russe, relevant de la conformité aux régimes de sanctions internationales."
-    },
-    {
       "hash": "114b0214b9b5a8c0",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -6699,7 +6699,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4dac211ff170a0c8",
@@ -7414,7 +7414,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "a48f1280c246d904",
@@ -7908,7 +7908,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "59998b4f1a0ddae8",
@@ -8044,7 +8044,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7d521292e9f1be2f",
@@ -8062,7 +8062,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6ccca19c9b259178",
@@ -8080,7 +8080,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ecd2e2f26a617e16",
@@ -8188,7 +8188,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "29db0b16b6bf2f0f",
@@ -8332,7 +8332,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "be47d5842976144c",
@@ -8367,7 +8367,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e5c526f473ea3094",
@@ -8385,7 +8385,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "68a0902b64998b9b",
@@ -9175,7 +9175,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0eb8d7dfbd94d97f",
@@ -10322,7 +10322,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2898691743a83517",
@@ -10862,7 +10862,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7db753e60572e3f1",
@@ -10880,10 +10880,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     }
   ],
-  "last_update": "2026-05-18T04:49:03.235896+00:00",
+  "last_update": "2026-05-18T09:41:28.280693+00:00",
   "last_updated": "2026-05-16T06:08:32.010772+00:00",
   "last_fetch": "2026-05-16T06:08:32.010772+00:00"
 }
