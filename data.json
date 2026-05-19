@@ -886,7 +886,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Société Générale sanctionnée pour avoir privilégié ses intérêts financiers au détriment de ses clients, violant obligations d'information et de conseil."
     },
     {
       "hash": "e93ce4ea89fd8062",
@@ -1249,6 +1249,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la fraude bancaire et des mesures de contrôle des comptes suspects."
     },
     {
+      "hash": "ee0572045a15f503",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 11 mai 2026 portant homologation d'une modification du règlement général de l'Autorité des marchés financiers",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054110592",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-05-19T00:00:00",
+      "summary": "Article 1La modification du règlement général de l'Autorité des marchés financiers, dont le texte est annexé au présent arrêté, est homologuée.Article 2Le présent arrêté et son annexe seront publiés au Journal officiel de la République française.AnnexeArticle ANNEXEMODIFICATION DU LIVRE II DU RÈGLEMENT GÉNÉRAL DE L'AUTORITÉ DES MARCHÉS FINANCIERSAprès l'article 222-9, il est inséré un article 222-9-1 ainsi rédigé :« Art. 222-9-1. - Conformément aux articles L. 22-10-10-1, L. 22-10-20-1 et à l'av",
+      "score": 75,
+      "score_breakdown": "+5 mots moyens: règlement | +25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "f6625443a2832ead",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1516,7 +1534,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes, violation majeure des obligations de conformité AML/KYC."
+      "ai_summary": "L'article concerne la conformité financière car il traite d'une violation majeure de la conformité réglementaire : le financement du terrorisme par une grande entreprise."
     },
     {
       "hash": "841b0409997c23a0",
@@ -1726,6 +1744,24 @@
       "ai_summary": "Cette règle soumet les émetteurs de stablecoins à la loi bancaire américaine contre le blanchiment d'argent, renforçant la conformité financière."
     },
     {
+      "hash": "ef5217fba5b8c89d",
+      "source_name": "CNIL",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Rapport annuel : le bilan et les actions marquantes de la CNIL en 2025",
+      "url": "https://www.cnil.fr/fr/rapport-annuel-2025",
+      "author": "CNIL",
+      "published": "2026-05-18T12:00:00",
+      "summary": "Accompagnement des professionnels, contrôle de leurs pratiques, sensibilisation du public, mais aussi régulation de l’IA, cybersécurité et coopération européenne… la CNIL fait le bilan d’une année 2025 intense, au service de la protection des données personnelles et de la vie privée de tous.",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: cnil | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "La CNIL assure la conformité des organisations aux règles de protection des données personnelles et de cybersécurité, éléments clés de la conformité financière."
+    },
+    {
       "hash": "142412ad807a0374",
       "source_name": "CNIL",
       "source_type": "rss",
@@ -1760,24 +1796,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet arrêté concerne la conformité financière en déléguant l'approbation des budgets du Palais de Tokyo à un contrôleur financier de l'État."
-    },
-    {
-      "hash": "3cd0a88bf0f55e36",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 13 avril 2026 fixant le terme de la période de reconduction unilatérale de tous les avenants financiers pour les structures de l'insertion par l'activité économique, les entreprises adaptées et les entreprises adaptées de travail temporaire",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053911035",
-      "author": "Ministère du travail et des solidarités",
-      "published": "2026-04-19T00:00:00",
-      "summary": "Article 1Au deuxième alinéa de l'article 1er de l'arrêté du 26 janvier 2024 susvisé, l'année : « 2024 » est remplacée par l'année : « 2025 » et l'année : « 2025 » est remplacée par l'année : « 2026 ».Article 2Le présent arrêté sera publié au Journal officiel de la République française.",
-      "score": 67,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet arrêté prolonge jusqu'en 2026 la période de reconduction automatique des avenants financiers pour les structures d'insertion."
     },
     {
       "hash": "2f215b4af1d2f569",
@@ -2047,7 +2065,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d3f0bc851b3f2926",
@@ -2083,24 +2101,6 @@
       "ai_summary": "Cet article concerne la conformité aux directives MiCA sur la démarchage inversé des autorités nationales compétentes.",
       "status": "new",
       "early_brief": false
-    },
-    {
-      "hash": "a382b546da232bfa",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "BFM Crypto, le Club : 22 mai, qu'est-ce que le Bitcoin Pizza Day ? – 18/05",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/bfm-crypto-le-club-22-mai-qu-est-ce-que-le-bitcoin-pizza-day-18-05_EN-202605180578.html",
-      "author": "",
-      "published": "2026-05-18T13:40:06",
-      "summary": "Ce lundi 18 mai, le jour symbolique du 22 mai avec le Bitcoin Pizza Day, la question du bitcoin en tant qu'un actif en pleine mutation et à un million de dollars d'ici cinq ans, des millions de bitcoin perdus dans de vieux portefeuilles, l'adoption massive des marchés prédictifs aux USA, le Clarity Act voté par le Sénat américain, ainsi que l'obtention de l'agrément MiCA en France pour Coinhouse, ont été abordés par Antoine Andreani, analyste en chef chez XTB France, Pauline Armandet, journalist",
-      "score": 64,
-      "score_breakdown": "+20 mots forts: mica, crypto, agrément | +3 Presse | +20 Géo FR: france | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "28867d7feb39da76",
@@ -2423,7 +2423,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Société générale sanctionnée pour non-respect de ses obligations de transparence et d'information envers la clientèle."
     },
     {
       "hash": "7c3d98763c0d214e",
@@ -3021,6 +3021,42 @@
       "ai_summary": "Les risques géopolitiques impactent la gestion des risques des banques européennes, relevant de la conformité réglementaire bancaire."
     },
     {
+      "hash": "9b250ddf51f15f88",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "View PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01OVlxSXJ5dVZhajB1UWw3UGdyZFB6U09kUlNEWGJteWdGNFh4dHYycmZxMGdqNDBYbW5sSzZjVDN3NURnZERybDdjOVE3SmQtN3pGVEhaQUpWRVdvcUhqZTlWTHBHUQ?oc=5",
+      "author": "",
+      "published": "2026-05-15T22:35:34",
+      "summary": "View PDF&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "697d012e2e67ae22",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "AUBEANE MUTUELLE DE FRANCE - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GSmNVY3E2bkV1MENBdHluRmJwQVRuVno2T0l5Q0o0a0g5ZUpfQkJPQlpsYktaM2plQ19fQWM2MExhbmVrOVZFSzVtZGpEd3h5WkRJUkFERUY?oc=5",
+      "author": "",
+      "published": "2026-05-15T22:16:17",
+      "summary": "AUBEANE MUTUELLE DE FRANCE&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "5ba3be9ba10a32a2",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -3036,7 +3072,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "207cc7e3f2ec",
@@ -3868,7 +3904,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des orientations de l'EBA sur l'analyse de scénarios environnementaux, obligatoires pour les sociétés de financement."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des orientations réglementaires de l'EBA sur l'analyse environnementale, obligation de conformité pour les sociétés de financement."
     },
     {
       "hash": "7eacb69014e007f4",
@@ -3922,7 +3958,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b5f72f55705e6bbf",
@@ -5255,6 +5291,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des mesures de lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
+      "hash": "15380e150af5f78c",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Adani flagship to pay $275m over alleged breaches of Iran sanctions",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/adani-flagship-pay-275m-over-alleged-breaches-of-iran-sanctions",
+      "author": "Estelle Atkinson",
+      "published": "2026-05-18T20:30:31",
+      "summary": "The settlement was announced on the same day that the DOJ moved to drop a fraud and foreign bribery case against Gautam Adani, his nephew and other executives.&nbsp;",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: sanction, fraud | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "4d795311d0167caf",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -5270,7 +5324,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'OFAC sanctionne le service de renseignement cubain en gelant ses avoirs et interdisant les transactions financières avec les entités et responsables listés."
     },
     {
       "hash": "36ff643b92f6853c",
@@ -5558,7 +5612,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5054076eb8d78708",
@@ -5945,7 +5999,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les sanctions financières sur le pétrole russe relèvent de la conformité réglementaire et du respect des régimes de sanctions internationales imposés par les autorités américaines."
     },
     {
       "hash": "06bcfef0d163beff",
@@ -6789,7 +6843,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "922fe4ecf6976ae6",
@@ -6825,7 +6879,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4dac211ff170a0c8",
@@ -6934,7 +6988,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car le FATF est l'organisme international de référence pour la lutte contre le blanchiment et le financement du terrorisme."
+      "ai_summary": "Le discours porte sur la lutte contre le blanchiment de capitaux et le financement du terrorisme, piliers de la conformité financière internationale."
     },
     {
       "hash": "5d84948a3158",
@@ -8188,7 +8242,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6ccca19c9b259178",
@@ -8206,7 +8260,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ae88a9b0c7926905",
@@ -8224,7 +8278,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ecd2e2f26a617e16",
@@ -8332,7 +8386,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "29db0b16b6bf2f0f",
@@ -8476,7 +8530,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "99ceae3aacd71006",
@@ -8494,7 +8548,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "be47d5842976144c",
@@ -8529,7 +8583,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e5c526f473ea3094",
@@ -8547,7 +8601,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "68a0902b64998b9b",
@@ -9229,7 +9283,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'unification bancaire européenne et de la modernisation de la supervision financière."
     },
     {
       "hash": "0f6df5df6dc65107",
@@ -9355,7 +9409,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0eb8d7dfbd94d97f",
@@ -10502,7 +10556,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "2898691743a83517",
@@ -10808,7 +10862,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions économiques et gels d'actifs imposés par les États-Unis à Cuba, relevant de la conformité réglementaire internationale."
     },
     {
       "hash": "4085c4f2ed3d175c",
@@ -11078,7 +11132,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7db753e60572e3f1",
@@ -11096,10 +11150,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-05-18T20:09:53.812546+00:00",
+  "last_update": "2026-05-19T02:16:11.167388+00:00",
   "last_updated": "2026-05-16T06:08:32.010772+00:00",
   "last_fetch": "2026-05-16T06:08:32.010772+00:00"
 }
