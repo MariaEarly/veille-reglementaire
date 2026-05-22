@@ -1318,7 +1318,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des normes techniques réglementaires de lutte contre le blanchiment de capitaux au niveau des groupes."
     },
     {
       "hash": "db9a96237a076c87",
@@ -1570,7 +1570,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les entreprises mondiales risquent de perdre accès aux banques américaines si elles violent les sanctions contre Cuba."
     },
     {
       "hash": "0ffc68576e0ab261",
@@ -1606,7 +1606,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite du financement illégal du terrorisme par une entreprise, violation majeure des obligations de conformité et de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement du terrorisme, violation majeure des obligations de conformité réglementaire et de lutte contre le blanchiment de capitaux."
     },
     {
       "hash": "841b0409997c23a0",
@@ -1831,7 +1831,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "93690b51d0de76a8",
@@ -1904,6 +1904,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet arrêté concerne la conformité financière en déléguant l'approbation des budgets du Palais de Tokyo à un contrôleur financier de l'État."
+    },
+    {
+      "hash": "9dc28d8be03cb7e1",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "AMLA hosts webinar on identification of entities eligible for direct supervision",
+      "url": "https://www.amla.europa.eu/amla-hosts-webinar-identification-entities-eligible-direct-supervision_en",
+      "author": "",
+      "published": "2026-05-22T16:07:17",
+      "summary": "AMLA will hold a webinar on 10 June 2026, from 10:00 to 12:00 CEST, to guide participants through the recently published reporting package for the identification of obliged entities eligible for direct supervision.",
+      "score": 67,
+      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "690df583cdca6288",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 22 May, 2026",
+      "url": "https://www.eba.europa.eu/node/19696",
+      "author": "Anonymous",
+      "published": "2026-05-22T15:00:03",
+      "summary": "EBA E-mail alert 22 May, 2026\n\n  \n    Date\n          22/05/2026\n\n      \n\nAnonymous (not verified)\n\nFri, 05/22/2026 - 17:00\n\n\n            \n\n      \n  \n    Final Q&amp;As\n          2024_7078 Issuers of EMTs and scope of application AML requirements\n          2024_7172 Lightning Network (LN) Transactions and whether they fall within the scope of the TFR  and Travel Rule Guidelines. \n      ",
+      "score": 67,
+      "score_breakdown": "+20 mots forts: aml, eba | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2f215b4af1d2f569",
@@ -2334,7 +2370,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions contre la Russie et la Biélorussie, relevant de la conformité réglementaire et des obligations de respect des sanctions internationales."
     },
     {
       "hash": "90438ff1eb6834fc",
@@ -2352,7 +2388,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité aux sanctions financières contre la Russie et la Biélorussie."
     },
     {
       "hash": "7c176bb5416e6eee",
@@ -2459,7 +2495,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car le Board of Appeal des ESAs supervise le respect des régulations bancaires, d'assurance et de marchés financiers."
     },
     {
       "hash": "7a0309558a30eafc",
@@ -2892,7 +2928,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bd688ade818b8692",
@@ -3183,24 +3219,6 @@
       "ai_summary": "Cet article explique le rôle de la Cellule de Renseignement Financier dans la détection des flux financiers suspects, élément clé de la conformité."
     },
     {
-      "hash": "8bd0426c4715fdc6",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "View PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFM0daRVhTbEpXUC1zRVhPZS03S1hnYmJaZjZPSU5UNF9nbzItUGhXcmFpZW5ZUi1NSjh1Sk1oN0pwSXc3ZE1FUFRnSy1icnR0OC1fVWhwUmxhX1BEbHZ0dXlITndvQQ?oc=5",
-      "author": "",
-      "published": "2026-05-15T22:34:04",
-      "summary": "View PDF&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "697d012e2e67ae22",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -3425,6 +3443,24 @@
       "ai_summary": "Cet article concerne l'évaluation de la conformité de l'Italie aux normes FATF en matière de lutte anti-blanchiment et de financement du terrorisme."
     },
     {
+      "hash": "99d225a320db5304",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Interdictions de voyager dans l'UE, gel des avoirs... Bruxelles ouvre la voie à des sanctions contre les \"personnes\" ou \"entités\" qui bloquent le détroit d'Ormuz",
+      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/interdictions-de-voyager-dans-l-ue-gel-des-avoirs-bruxelles-ouvre-la-voie-a-des-sanctions-contre-les-personnes-ou-entites-qui-bloquent-le-detroit-d-ormuz_AD-202605220740.html",
+      "author": "",
+      "published": "2026-05-22T16:24:24",
+      "summary": "L'Union européenne a acté ce vendredi l'extension de ses sanctions contre l'Iran pour cibler les responsables du blocage du détroit d'Ormuz. Alors que cette route maritime hautement stratégique pour le transit des hydrocarbures mondiaux est verrouillée depuis fin février, Bruxelles menace désormais de gel d'avoirs et d'interdictions de voyager toute personne ou entité entravant la liberté de navigation.",
+      "score": 49,
+      "score_breakdown": "+20 mots critiques: sanction, gel des avoirs | +3 Presse | +10 Géo EU: union européenne | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "3cf89316af1e9ce8",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -3440,7 +3476,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du Clarity Act et de la révision du cadre réglementaire MiCA, deux éléments clés de la régulation des cryptomonnaies."
     },
     {
       "hash": "7798e979de5bf763",
@@ -3458,7 +3494,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du respect des sanctions internationales contre la Russie imposées par l'UE."
     },
     {
       "hash": "625bf8ec5ad8835a",
@@ -4085,7 +4121,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des orientations réglementaires de l'EBA sur l'analyse environnementale, obligatoires pour les sociétés de financement."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de directives prudentielles obligatoires relatives aux risques environnementaux pour les sociétés de financement."
     },
     {
       "hash": "7eacb69014e007f4",
@@ -4415,7 +4451,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès public aux informations sur les bénéficiaires effectifs des mandats fiduciaires, obligation clé de la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès aux informations sur les bénéficiaires réels des trusts, obligation clé anti-blanchiment."
     },
     {
       "hash": "2eaef893c3cc9348",
@@ -4722,24 +4758,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les sanctions financières de l'UE contre la Russie, incluant des mesures sur le secteur financier et les cryptomonnaies."
-    },
-    {
-      "hash": "0ae85db84e65da53",
-      "source_name": "AMF France (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "[#Médiation] Arbitrage : les ordres successifs, lorsqu’ils forment une opération globale, sont interdépendants. Un professionnel ne peut l’ignorer dès lors que le client l’a clairement exprimé. Le décryptage de Rémi Bouchez ➡️",
-      "url": "https://x.com/AMF_actu/status/2046974704326422757",
-      "author": "@AMF_actu",
-      "published": "2026-04-22T15:29:00",
-      "summary": "[ #Médiation] Arbitrage : les ordres successifs, lorsqu’ils forment une opération globale, sont interdépendants. Un professionnel ne peut l’ignorer dès lors que le client l’a clairement exprimé.Le décryptage de Rémi Bouchez ➡️  cutt.ly/JtJIm13G— AMF (@AMF_actu) Apr 22, 2026",
-      "score": 45,
-      "score_breakdown": "+10 mots forts: amf | +20 Géo FR: amf | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite du devoir d'information des professionnels financiers sur les ordres interdépendants, relevant de la conformité réglementaire."
     },
     {
       "hash": "ffcf49beac0de7f6",
@@ -5778,6 +5796,24 @@
       "ai_summary": "Cet article concerne les sanctions internationales liées à la Cour pénale internationale et leur conformité réglementaire."
     },
     {
+      "hash": "e7f79e42244f2c1b",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Teamwork in action! Today, the #EBA Chair, François‑Louis Michaud was joined by Christine Lagarde, Aurore Lalucq, Petra Hielkema,...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7463606901432373248",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-05-22T15:09:12",
+      "summary": "Teamwork in action! \n\nToday, the #EBA Chair, François‑Louis Michaud was joined by Christine Lagarde, Aurore Lalucq, Petra Hielkema, Pierre Gramegna at the informal ECOFIN meeting in Nicosia, Cyprus, contributing to a discussion on the growing role of stablecoins. 💰 \n\nEU ministers and central bank governors explored how Europe can support the development and global competitiveness of euro‑denominated stablecoins. 💶\n \nDuring the session, François‑Louis highlighted the EBA’s key role in this evolvi",
+      "score": 37,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "f722f979adc30fbc",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -5973,7 +6009,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les obligations de conformité administrative et réglementaire d'une institution financière face aux autorités publiques françaises."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d0cacca3d549eeb3",
@@ -6165,6 +6201,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des menaces de fraude financière mondiale sophistiquée."
+    },
+    {
+      "hash": "c44e8b4aa74f9ac9",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Telekom Malaysia’s “freebie” declination came from victim status, lawyers say",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/telekom-malaysias-freebie-declination-came-victim-status-lawyers-say",
+      "author": "Austin Cope",
+      "published": "2026-05-22T15:32:18",
+      "summary": "The first public declination issued by the Manhattan US attorney’s office was on the surface an easy call, former federal prosecutors told GIR, since the company was a victim of the alleged fraud scheme and self-reported it under the office’s new incentives.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "e7e4201cacf1b74d",
@@ -6581,24 +6635,6 @@
       "ai_summary": "Les sanctions financières sur le pétrole russe relèvent de la conformité réglementaire et du respect des obligations de sanctions internationales."
     },
     {
-      "hash": "4f613ba549cf11f6",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Lafarge judgment an example of a maturing French legal system",
-      "url": "https://globalinvestigationsreview.com/article/lafarge-judgment-example-of-maturing-french-legal-system",
-      "author": "Ana de Liz",
-      "published": "2026-04-22T15:10:14",
-      "summary": "Local lawyers told GIR they believe the French company’s recent conviction for terrorist financing and sanctions breaches prompts new considerations for settlements – at home and abroad.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La condamnation de Lafarge pour financement du terrorisme et violations de sanctions illustre l'évolution de la conformité financière en France."
-    },
-    {
       "hash": "7d26db93e2d2",
       "source_name": "Conseil de l'UE",
       "source_type": "scrape",
@@ -6990,7 +7026,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "922fe4ecf6976ae6",
@@ -7817,6 +7853,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du renouvellement et de la modification des mesures restrictives de l'UE contre la Syrie."
     },
     {
+      "hash": "53ae1efeb50a277f",
+      "source_name": "Money Laundering News",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Executive Order Signals Federal Shift on Fintech Regulation",
+      "url": "https://www.moneylaunderingnews.com/2026/05/executive-order-signals-federal-shift-on-fintech-regulation/",
+      "author": "Kelly A. Lenahan-Pfahlert",
+      "published": "2026-05-22T16:51:41",
+      "summary": "President Trump issued Executive Order 14181 (the “Order”) on May 19, 2026 titled Integrating Financial Technology Innovation into Regulatory Frameworks. The Order directs federal financial regulators to review and update regulations, guidance, and supervisory practices to support financial technology innovation and reduce barriers to entry for non‑bank fintech firms. It follows earlier actions establishing federal...",
+      "score": 27,
+      "score_breakdown": "+15 mots moyens: regulation, supervisory, fintech | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "97fee5ef205e1a0c",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -8049,24 +8103,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article concerne la conformité financière car il rapporte les nominations de responsables légaux et de conformité chez Walmart et PayPal."
-    },
-    {
-      "hash": "d5a9df43472de476",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Listen: New economic crime legislation “fundamentally” changed compliance",
-      "url": "https://globalinvestigationsreview.com/article/new-economic-crime-legislation-has-fundamentally-changed-compliance",
-      "author": "Ana de Liz,Lily Squires",
-      "published": "2026-04-22T14:41:37",
-      "summary": "Stale risk assessments, senior manager ambiguity, and a lack of official guidance are among the increasing issues organisations have to deal with. Subscribers can listen to the full conversation between compliance and financial crime professionals from GIR’s recent London conference.",
-      "score": 27,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: risk | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite des nouvelles législations sur la criminalité économique et de leurs impacts sur la conformité des organisations."
     },
     {
       "hash": "9a5aa01e7399",
@@ -8390,7 +8426,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière via le contrôle fiscal de revenus et bénéfices d'une société, relevant du droit fiscal et de la régularité des impôts."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'un litige fiscal impliquant l'impôt sur le revenu et les obligations déclaratives des entreprises."
     },
     {
       "hash": "5cec2cb4362b7c12",
@@ -8426,7 +8462,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ecd2e2f26a617e16",
@@ -8534,7 +8570,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "29db0b16b6bf2f0f",
@@ -8570,7 +8606,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La première licence VASP pour installations de valeur stockée aux EAU renforce la conformité réglementaire des cryptomonnaies et les paiements gouvernementaux autorisés."
+      "ai_summary": "La conformité financière est concernée : cette licence VASP pour services de monnaie stockée renforce la régulation des actifs numériques et la gestion des paiements gouvernementaux."
     },
     {
       "hash": "fb3cdd8b266d15e2",
@@ -8859,7 +8895,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6e46cfd926972bea",
@@ -9003,7 +9039,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8226ed514ef7ddc2",
@@ -9180,7 +9216,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e5c526f473ea3094",
@@ -9198,7 +9234,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "fe1d1b8a03c42058",
@@ -9612,24 +9648,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Discussion sur l'intégration du secteur bancaire et la compétitivité économique de l'UE avec les autorités de supervision."
-    },
-    {
-      "hash": "0eb8d7dfbd94d97f",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "New economic crime legislation “fundamentally” changed compliance",
-      "url": "https://globalinvestigationsreview.com/news-and-features/in-house/2020/article/new-economic-crime-legislation-has-fundamentally-changed-compliance",
-      "author": "Ana de Liz,Lily Squires",
-      "published": "2026-04-22T14:41:37",
-      "summary": "Stale risk assessments, senior manager ambiguity, and a lack of official guidance are among the increasing issues organisations have to deal with. Subscribers can listen to the full conversation between compliance and financial crime professionals from GIR’s recent London conference.",
-      "score": 14,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: risk | +3 Presse | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les nouvelles lois sur la criminalité économique modifient les exigences de conformité et les évaluations des risques des organisations."
     },
     {
       "hash": "a9a8b34f8eba",
@@ -10708,6 +10726,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il aborde la supervision bancaire et les paiements numériques."
     },
     {
+      "hash": "13e339b5bc545069",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Ex-prosecutor: DOJ wants to “make an example” of cartel-linked companies",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/ex-prosecutor-doj-wants-make-example-of-cartel-linked-companies",
+      "author": "Estelle Atkinson",
+      "published": "2026-05-22T14:25:54",
+      "summary": "Ryan Rohlfsen, who recently jumped to Latham &amp; Watkins, said the stage is set for officials to define FCPA enforcement under Trump’s second administration.",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: doj, fcpa | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "8d63372bea7ea236",
       "source_name": "Money Laundering News",
       "source_type": "press",
@@ -11191,7 +11227,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "91ea1a345da0315e",
@@ -11311,13 +11347,13 @@
       "author": "Grace Propheta",
       "published": "2026-05-08T11:13:45",
       "summary": "",
-      "score": 2,
-      "score_breakdown": "+3 Presse | ×0.8 (14d)",
+      "score": 1,
+      "score_breakdown": "+3 Presse | ×0.6 (>14d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7db753e60572e3f1",
@@ -11329,16 +11365,16 @@
       "author": "Grace Propheta",
       "published": "2026-05-08T10:22:59",
       "summary": "",
-      "score": 2,
-      "score_breakdown": "+3 Presse | ×0.8 (14d)",
+      "score": 1,
+      "score_breakdown": "+3 Presse | ×0.6 (>14d)",
       "doc_type": "RAPPORT",
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     }
   ],
-  "last_update": "2026-05-22T15:28:47.364342+00:00",
+  "last_update": "2026-05-22T19:24:56.143092+00:00",
   "last_updated": "2026-05-21T07:11:19.993663Z",
   "last_fetch": "2026-05-21T07:11:19.993663Z"
 }
