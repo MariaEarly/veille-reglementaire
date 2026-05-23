@@ -961,24 +961,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il fixe les obligations légales de versement de la Caisse des dépôts à l'État."
     },
     {
-      "hash": "5183582fa28981d7",
-      "source_name": "JORF - Bancaire",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Délibération n° 2026-050 du 19 mars 2026 portant homologation d'une méthodologie de référence relative aux traitements de données à caractère personnel mis en œuvre dans le cadre des recherches dans le domaine de la santé nécessitant le recueil du consentement de la personne concernée en vue de la participation à la recherche (MR-001) et abrogeant la délibération n° 2018-153",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054125924",
-      "author": "Commission nationale de l'informatique et des libertés",
-      "published": "2026-05-23T00:00:00",
-      "summary": "Article Après avoir entendu le rapport de Mme Marie Zins et M. Fabien Tarissan, commissaires, et les observations de M. Damien Milic, commissaire du Gouvernement,Formule les observations suivantes :Certains traitements de données à caractère personnel dans le domaine de la santé sont soumis à un régime de formalités préalables auprès de la CNIL. Ces formalités prennent la forme, par principe, d'une déclaration de conformité à un référentiel homologué par la CNIL ou, par exception, d'une demande ",
-      "score": 82,
-      "score_breakdown": "+10 mots forts: conformité | +25 Source FR | +20 Géo FR: cnil | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "dc0fa8bd5a8cdc66",
       "source_name": "JORF - Bancaire",
       "source_type": "rss",
@@ -994,7 +976,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "5183582fa28981d7",
+      "source_name": "JORF - Bancaire",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Délibération n° 2026-050 du 19 mars 2026 portant homologation d'une méthodologie de référence relative aux traitements de données à caractère personnel mis en œuvre dans le cadre des recherches dans le domaine de la santé nécessitant le recueil du consentement de la personne concernée en vue de la participation à la recherche (MR-001) et abrogeant la délibération n° 2018-153",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054125924",
+      "author": "Commission nationale de l'informatique et des libertés",
+      "published": "2026-05-23T00:00:00",
+      "summary": "Article Après avoir entendu le rapport de Mme Marie Zins et M. Fabien Tarissan, commissaires, et les observations de M. Damien Milic, commissaire du Gouvernement,Formule les observations suivantes :Certains traitements de données à caractère personnel dans le domaine de la santé sont soumis à un régime de formalités préalables auprès de la CNIL. Ces formalités prennent la forme, par principe, d'une déclaration de conformité à un référentiel homologué par la CNIL ou, par exception, d'une demande ",
+      "score": 82,
+      "score_breakdown": "+10 mots forts: conformité | +25 Source FR | +20 Géo FR: cnil | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "b290cbf880c9cbca",
@@ -1012,7 +1012,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c6ac558918e89581",
@@ -1624,7 +1624,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement du terrorisme, une violation majeure des obligations de conformité et de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal du terrorisme par une entreprise, une violation majeure des règles de conformité et de lutte anti-blanchiment."
     },
     {
       "hash": "841b0409997c23a0",
@@ -2101,42 +2101,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des exigences de capital pour le risque de change réglementées par l'EBA."
     },
     {
-      "hash": "9f9b0bfefcd0a266",
-      "source_name": "Commission EU - Press",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Questions and Answers on the 20th package of sanctions against Russia",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_876",
-      "author": "",
-      "published": "2026-04-23T15:29:24",
-      "summary": "European Commission Questions and answers Brussels, 23 Apr 2026 LISTINGS\nWho have you targeted?\nThe 20th package of EU sanctions adds 120 listings of individuals (37) and entities (83) to the list of natural and legal person...",
-      "score": 67,
-      "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | +10 Géo EU: european commission | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions contre la Russie et les obligations de conformité en matière de gel d'actifs et de lutte contre le financement."
-    },
-    {
-      "hash": "792abb21ba948dac",
-      "source_name": "EBA - European Banking Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "EBA E-mail alert 23 April, 2026",
-      "url": "https://www.eba.europa.eu/node/19593",
-      "author": "Anonymous",
-      "published": "2026-04-23T15:00:03",
-      "summary": "EBA E-mail alert 23 April, 2026\n\n  \n    Date\n          23/04/2026\n\n      \n\nAnonymous (not verified)\n\nThu, 04/23/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          EBA Report shows persistent gender imbalance and pay gaps in EU banking leadership\n          The EBA responds to the Commission’s proposed changes to its draft technical standards on operational risk\n      ",
-      "score": 67,
-      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: risk, bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA surveille la conformité des banques aux règles de gouvernance et de diversité."
-    },
-    {
       "hash": "d3f0bc851b3f2926",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -2402,7 +2366,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il annonce le recrutement pour le Conseil d'appel des autorités de supervision financière européennes (EBA, EIOPA, ESMA)."
+      "ai_summary": "Cet article concerne la conformité financière car le Board of Appeal des autorités de supervision européennes (#EBA, #EIOPA, #ESMA) joue un rôle clé dans l'application de la réglementation financière."
     },
     {
       "hash": "7a0309558a30eafc",
@@ -2727,7 +2691,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b541b90c8814e548",
@@ -2982,24 +2946,6 @@
       "ai_summary": "Cet article concerne la conformité financière car l'EBA définit les priorités réglementaires incluant la résilience cyber et la finance durable."
     },
     {
-      "hash": "9ba702b181cd2a21",
-      "source_name": "Commission EU - DG FISMA",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "EU adopts 20th package of sanctions against Russia",
-      "url": "https://finance.ec.europa.eu/news/eu-adopts-20th-package-sanctions-against-russia-2026-04-23_en",
-      "author": "",
-      "published": "2026-04-23T15:28:56",
-      "summary": "The Commission welcomes the Council's adoption of&nbsp;the&nbsp;20th&nbsp;Russia sanctions package, that puts further pressure on Russia to engage in negotiations and do so on&nbsp;terms&nbsp;acceptable for&nbsp;Ukraine.",
-      "score": 52,
-      "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions financières imposées à la Russie par l'UE, relevant de la conformité en matière de sanctions internationales."
-    },
-    {
       "hash": "fa31e537ed8b57de",
       "source_name": "BIS - Speeches",
       "source_type": "rss",
@@ -3106,24 +3052,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des priorités de régulation des autorités de surveillance financière européennes en 2025."
-    },
-    {
-      "hash": "21dba6fffc143344",
-      "source_name": "Commission EU Finance (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "RT by @EU_Finance: The 20th package of sanctions against Russia targets an additional 120 individuals and entities, and bans: 🚫 access to EU ports for 46 more vessels from Russia's shadow fleet 🚫 transactions with 20 banks 🚫 transactions in the RUBx crypto-currency 🔗  pic.",
-      "url": "https://x.com/EUCouncil/status/2047323875180990907",
-      "author": "@EUCouncil",
-      "published": "2026-04-23T14:37:00",
-      "summary": "The 20th package of sanctions against Russia targets an additional 120 individuals and entities, and bans:🚫 access to EU ports for 46 more vessels from Russia's shadow fleet🚫 transactions with 20 banks🚫 transactions in the RUBx crypto-currency🔗https://t.co/97K6Qxs0u4 pic.twitter.com/3ap43NqVEJ— EU Council (@EUCouncil) April 23, 2026",
-      "score": 52,
-      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: crypto | +5 mots moyens: bank | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les sanctions de l'UE imposent des restrictions sur les transactions bancaires et crypto-monnaies, relevant de la conformité réglementaire financière."
     },
     {
       "hash": "697d012e2e67ae22",
@@ -3349,7 +3277,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'adoption du Clarity Act, de la révision du cadre réglementaire MiCA et de la régulation des cryptomonnaies."
+      "ai_summary": "Cet article concerne la conformité financière car il aborde l'adoption du Clarity Act et la révision du cadre réglementaire MiCA, deux éléments clés de la régulation des cryptomonnaies."
     },
     {
       "hash": "7798e979de5bf763",
@@ -4203,40 +4131,6 @@
       "ai_summary": "L'article traite du contrôle de la conformité LCB-FT des acteurs de transmission de fonds, relevant de la compliance financière."
     },
     {
-      "hash": "c4d639d201aa",
-      "source_name": "ACPR - Publications",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "Bilan des actions de contrôle portant sur le dispositif LCB-FT des acteurs de la transmission de fonds Études et recherches - Études et bilans des actions de contrôle Lutte anti-blanchiment Contrôle 9 Décembre 2025",
-      "url": "https://acpr.banque-france.fr/fr/publications-et-statistiques/publications/bilan-des-actions-de-controle-portant-sur-le-dispositif-lcb-ft-des-acteurs-de-la-transmission-de",
-      "author": "",
-      "published": "2026-04-23T13:42:50.265587Z",
-      "summary": "",
-      "score": 45,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il rapporte les contrôles LCB-FT sur les prestataires de transmission de fonds."
-    },
-    {
-      "hash": "55e6a7171a50",
-      "source_name": "ACPR - Communiqués",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "Escroqueries : l’ACPR met en garde le public contre les propositions frauduleuses de crédits, de livrets d’épargne, de services de paiement et d’assurances",
-      "url": "https://acpr.banque-france.fr/fr/communiques-de-presse/escroqueries-lacpr-met-en-garde-le-public-contre-les-propositions-frauduleuses-de-credits-de-livrets-22",
-      "author": "",
-      "published": "2026-04-23T13:42:49.555441Z",
-      "summary": "",
-      "score": 45,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'ACPR alerte sur les fraudes affectant les produits et services financiers réglementés."
-    },
-    {
       "hash": "b3f2521a57d4d2c4",
       "source_name": "CJUE - Cour de Justice UE",
       "source_type": "rss",
@@ -4252,7 +4146,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès public aux informations sur les bénéficiaires réels des mandats de confiance en vertu des règles anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès à l'information sur les bénéficiaires réels des trusts, obligation clé de la lutte anti-blanchiment."
     },
     {
       "hash": "2eaef893c3cc9348",
@@ -4543,24 +4437,6 @@
       "ai_summary": "L'évaluation mutuelle du GAFI examine la conformité de l'Italie aux recommandations de lutte contre le blanchiment et le financement du terrorisme."
     },
     {
-      "hash": "31c7c9787ebee8be",
-      "source_name": "Commission EU Finance (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "RT by @EU_Finance: #Russia’s war of aggression against #Ukraine: @EUCouncil agrees 20th package of individual & economic #sanctions targeting energy revenues, military, finance & trade + crypto. 46 vessels & 120 persons/entities will also be targeted  🇺🇦",
-      "url": "https://x.com/EUCouncilPress/status/2047312873513202011",
-      "author": "@EUCouncilPress",
-      "published": "2026-04-23T13:53:00",
-      "summary": "#Russia’s war of aggression against #Ukraine: @EUCouncil agrees 20th package of individual & economic #sanctions targeting energy revenues, military, finance & trade + crypto. 46 vessels & 120 persons/entities will also be targetedhttps://t.co/3cg1aaEeYX#StandWithUkraine 🇺🇦— EU Council Press (@EUCouncilPress) April 23, 2026",
-      "score": 45,
-      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: crypto | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions financières de l'UE contre la Russie, incluant des mesures sur le secteur financier et les cryptomonnaies."
-    },
-    {
       "hash": "ffcf49beac0de7f6",
       "source_name": "DG Trésor",
       "source_type": "rss",
@@ -4594,7 +4470,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4351c50ff1eb6eb9",
@@ -5380,7 +5256,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté définit les pouvoirs de signature pour les actes relatifs à la commande publique, aspect clé de la conformité financière et de la gouvernance."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "114b0214b9b5a8c0",
@@ -5706,57 +5582,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il porte sur la lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
-      "hash": "34b039de5d07",
-      "source_name": "ACPR - Publications",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "Replay du webinaire lutte contre le blanchiment et le financement du terrorisme Supports d'évènements - Réunions de Place Lutte anti-blanchiment 2 Mars 2026",
-      "url": "https://acpr.banque-france.fr/fr/publications-et-statistiques/publications/replay-du-webinaire-lutte-contre-le-blanchiment-et-le-financement-du-terrorisme",
-      "author": "",
-      "published": "2026-04-23T13:42:50.265155Z",
-      "summary": "",
-      "score": 35,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment et du financement du terrorisme, enjeux clés de la lutte anti-blanchiment."
-    },
-    {
-      "hash": "656f71e3bb18",
-      "source_name": "ACPR - Communiqués",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "L'AMF et l'ACPR mettent en garde le public contre plusieurs acteurs proposant en France des investissements sur le marché des devises non régulé (Forex) et sur des produits dérivés sur crypto-actifs, sans y être autorisés",
-      "url": "https://acpr.banque-france.fr/fr/communiques-de-presse/lamf-et-lacpr-mettent-en-garde-le-public-contre-plusieurs-acteurs-proposant-en-france-des",
-      "author": "",
-      "published": "2026-04-23T13:42:49.555506Z",
-      "summary": "",
-      "score": 35,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'article traite de la conformité financière car il alerte sur des acteurs non autorisés proposant du Forex et des produits dérivés sur crypto-actifs."
-    },
-    {
-      "hash": "4f21fd3fa8cf",
-      "source_name": "ACPR - Communiqués",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "L'ACPR et l'AMF mettent en garde le public contre plusieurs acteurs",
-      "url": "https://acpr.banque-france.fr/fr/communiques-de-presse/lacpr-et-lamf-mettent-en-garde-le-public-contre-plusieurs-acteurs",
-      "author": "",
-      "published": "2026-04-23T13:42:49.554859Z",
-      "summary": "",
-      "score": 35,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'ACPR et l'AMF alertent sur des acteurs non autorisés, relevant de leur mission de surveillance et de conformité financière."
-    },
-    {
       "hash": "f16b99be5465",
       "source_name": "Interpol",
       "source_type": "scrape",
@@ -5877,7 +5702,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les mesures légales contre les vols agricoles, pas la conformité financière des entreprises.\n\nHors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "c44e8b4aa74f9ac9",
@@ -6579,7 +6404,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "58381a9a1a13c826",
@@ -6597,7 +6422,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une décision administrative visant une institution bancaire majeure."
     },
     {
       "hash": "922fe4ecf6976ae6",
@@ -7163,108 +6988,6 @@
       "ai_summary": "Les sanctions contre l'Iran imposées par l'OFAC relèvent de la conformité financière pour la lutte contre le financement du terrorisme."
     },
     {
-      "hash": "fd918ae033d9",
-      "source_name": "US Treasury - Sanctions Press",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Treasury Sanctions Cambodian Senator Kok An and Scam Center Network Defrauding Americans",
-      "url": "https://home.treasury.gov/news/press-releases/sb0469",
-      "author": "",
-      "published": "2026-04-23T18:13:15.588288+00:00",
-      "summary": "",
-      "score": 30,
-      "doc_type": "press_release",
-      "action_class": "informational",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions financières contre un réseau de fraude, relevant de la conformité réglementaire et de la lutte anti-blanchiment."
-    },
-    {
-      "hash": "ea4c8b734f09",
-      "source_name": "US Treasury - Sanctions Press",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Treasury Sanctions Global Illicit Drug Supply Chain Supporting the Sinaloa Cartel",
-      "url": "https://home.treasury.gov/news/press-releases/sb0468",
-      "author": "",
-      "published": "2026-04-23T18:13:15.588278+00:00",
-      "summary": "",
-      "score": 30,
-      "doc_type": "press_release",
-      "action_class": "informational",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions contre le financement du trafic de drogue, relevant de la conformité AML/CFT."
-    },
-    {
-      "hash": "95235dcdecbb",
-      "source_name": "DOJ - Criminal Division",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Michigan Gang Member Pleads Guilty to RICO Conspiracy for Drug Trafficking and Over $500,000 in Fraud",
-      "url": "https://www.justice.gov/opa/pr/michigan-gang-member-pleads-guilty-rico-conspiracy-drug-trafficking-and-over-500000-fraud",
-      "author": "",
-      "published": "2026-04-23T13:42:52.298599Z",
-      "summary": "",
-      "score": 30,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de fraude financière et du blanchiment d'argent associé au trafic de drogue."
-    },
-    {
-      "hash": "bba24c0573d7",
-      "source_name": "DOJ - Criminal Division",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "New Jersey Man Pleads Guilty to Scheme Designed to Obtain Fraudulent Visas to Bring Aliens to the U.S. for Unlawful Fundraising",
-      "url": "https://www.justice.gov/opa/pr/new-jersey-man-pleads-guilty-scheme-designed-obtain-fraudulent-visas-bring-aliens-us",
-      "author": "",
-      "published": "2026-04-23T13:42:52.298492Z",
-      "summary": "",
-      "score": 30,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la fraude documentaire et le financement illicite liés à l'immigration, relevant de la conformité anti-blanchiment."
-    },
-    {
-      "hash": "bb6fe5426f5d",
-      "source_name": "DOJ - Criminal Division",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Justice Department Announces New Funding Opportunity to Prosecute Fraud, Drug Trafficking, and Other Crimes",
-      "url": "https://www.justice.gov/opa/pr/justice-department-announces-new-funding-opportunity-prosecute-fraud-drug-trafficking-and",
-      "author": "",
-      "published": "2026-04-23T13:42:52.298111Z",
-      "summary": "",
-      "score": 30,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne le financement des poursuites contre la fraude, relevant directement de la conformité financière et de la lutte anti-fraude."
-    },
-    {
-      "hash": "b38e2cfef6ee",
-      "source_name": "DOJ - Criminal Division",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Justice Department Seeks to Forfeit Beverly Hills Mansion Purchased with Proceeds of Scheme to Defraud U.S. Military and Bribe an Iraqi Official",
-      "url": "https://www.justice.gov/opa/pr/justice-department-seeks-forfeit-beverly-hills-mansion-purchased-proceeds-scheme-defraud-us",
-      "author": "",
-      "published": "2026-04-23T13:42:52.298003Z",
-      "summary": "",
-      "score": 30,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre le blanchiment d'argent et la corruption."
-    },
-    {
       "hash": "18255ce504fabc44",
       "source_name": "ESMA (X)",
       "source_type": "rss",
@@ -7658,125 +7381,6 @@
       "ai_summary": "L'ACPR clarifie ses attentes de supervision envers les établissements de paiement et monnaie électronique pour assurer leur conformité réglementaire."
     },
     {
-      "hash": "ea6478d1b4eb",
-      "source_name": "ACPR - Publications",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "Réunion de place sur les attendus et points d’attention de l’ACPR en matière de supervision des établissements de paiement et de monnaie électronique Supports d'évènements - Réunions de Place Contrôle 24 Novembre 2025",
-      "url": "https://acpr.banque-france.fr/fr/publications-et-statistiques/publications/reunion-de-place-sur-les-attendus-et-points-dattention-de-lacpr-en-matiere-de-supervision-des",
-      "author": "",
-      "published": "2026-04-23T13:42:50.265754Z",
-      "summary": "",
-      "score": 25,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'ACPR supervise les établissements de paiement et de monnaie électronique."
-    },
-    {
-      "hash": "0ad149d9604e",
-      "source_name": "ACPR - Publications",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "Conférence de l'ACPR du 25 novembre 2025 Supports d'évènements - Conférences de l'ACPR Conférence ACPR Contrôle 25 Novembre 2025",
-      "url": "https://acpr.banque-france.fr/fr/publications-et-statistiques/publications/conference-de-lacpr-du-25-novembre-2025",
-      "author": "",
-      "published": "2026-04-23T13:42:50.265674Z",
-      "summary": "",
-      "score": 25,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'ACPR organise des conférences sur le contrôle et la supervision prudentielle."
-    },
-    {
-      "hash": "9226bb5bcc29",
-      "source_name": "ACPR - Publications",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "Matinée de la protection des clientèles des banques et des assurances du 31 mars 2026 Supports d'évènements - Conférences de l'ACPR Conférence ACPR Protection clientèles 31 Mars 2026",
-      "url": "https://acpr.banque-france.fr/fr/publications-et-statistiques/publications/matinee-de-la-protection-des-clienteles-des-banques-et-des-assurances-du-31-mars-2026",
-      "author": "",
-      "published": "2026-04-23T13:42:50.264997Z",
-      "summary": "",
-      "score": 25,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet événement concerne la protection des clientèles bancaires et d'assurance, pilier majeur de la conformité financière."
-    },
-    {
-      "hash": "728d41f3198e",
-      "source_name": "ACPR - Communiqués",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "L’ACPR met en garde la Caisse Régionale de Crédit Agricole Mutuel Charente-Maritime Deux-Sèvres contre la poursuite de ses pratiques de gouvernance et de commercialisation d’offres groupées de services",
-      "url": "https://acpr.banque-france.fr/fr/communiques-de-presse/lacpr-met-en-garde-la-caisse-regionale-de-credit-agricole-mutuel-charente-maritime-deux-sevres",
-      "author": "",
-      "published": "2026-04-23T13:42:49.555253Z",
-      "summary": "",
-      "score": 25,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'ACPR sanctionne la Caisse Régionale pour défaillances en gouvernance et commercialisation, relevant de la conformité réglementaire bancaire."
-    },
-    {
-      "hash": "490955724205",
-      "source_name": "ACPR - Communiqués",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "Nominations : Emmanuelle Assouan est nommée secrétaire générale de l’ACPR et Xavier Debrun est nommé chef-économiste de la Banque de France",
-      "url": "https://acpr.banque-france.fr/fr/communiques-de-presse/nominations-emmanuelle-assouan-est-nommee-secretaire-generale-de-lacpr-et-xavier-debrun-est-nomme-0",
-      "author": "",
-      "published": "2026-04-23T13:42:49.555190Z",
-      "summary": "",
-      "score": 25,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Ces nominations à des postes de direction à l'ACPR et la Banque de France renforcent la gouvernance des autorités de régulation financière."
-    },
-    {
-      "hash": "c60d6a965be2",
-      "source_name": "ACPR - Communiqués",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "L’ACPR met en demeure la Mutuelle JUST de corriger les manquements de son dispositif de règlement des prestations à ses adhérents",
-      "url": "https://acpr.banque-france.fr/fr/communiques-de-presse/lacpr-met-en-demeure-la-mutuelle-just-de-corriger-les-manquements-de-son-dispositif-de-reglement-des",
-      "author": "",
-      "published": "2026-04-23T13:42:49.555122Z",
-      "summary": "",
-      "score": 25,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'ACPR sanctionne une mutuelle pour manquements dans son dispositif de règlement des prestations, relevant de la conformité réglementaire."
-    },
-    {
-      "hash": "4cc06a7837d2",
-      "source_name": "ACPR - Communiqués",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "Réclamations : l’ACPR constate des progrès mais alerte sur certaines pratiques encore insuffisantes dans la banque et l’assurance",
-      "url": "https://acpr.banque-france.fr/fr/communiques-de-presse/reclamations-lacpr-constate-des-progres-mais-alerte-sur-certaines-pratiques-encore-insuffisantes",
-      "author": "",
-      "published": "2026-04-23T13:42:49.554939Z",
-      "summary": "",
-      "score": 25,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'article traite de la conformité des pratiques bancaires et d'assurance en matière de traitement des réclamations clients."
-    },
-    {
       "hash": "09ff82b8f1644453",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
@@ -7964,7 +7568,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ecd2e2f26a617e16",
@@ -8072,7 +7676,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "29db0b16b6bf2f0f",
@@ -8216,7 +7820,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "be47d5842976144c",
@@ -8365,23 +7969,6 @@
       "ai_summary": "Cet article concerne les recommandations du GAFI sur la lutte anti-blanchiment et anti-terrorisme, essentielles à la conformité financière."
     },
     {
-      "hash": "b499d378998f",
-      "source_name": "Wolfsberg Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "The Wolfsberg Group issues guidance on the provision of banking services to stablecoin issuers Banks continue to be pulled in every direction on how to manage the financial crime risks associated with",
-      "url": "https://wolfsberg-group.org/news/guidance-on-the-provision-of-banking-services-to-fiat-backed-stablecoin-issuers",
-      "author": "",
-      "published": "2026-04-23T18:13:15.589167+00:00",
-      "summary": "",
-      "score": 20,
-      "doc_type": "news",
-      "action_class": "informational",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le Wolfsberg Group fournit des recommandations de conformité aux banques pour gérer les risques financiers liés aux émetteurs de stablecoins."
-    },
-    {
       "hash": "9e51f43e70352c0d",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -8397,7 +7984,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6e46cfd926972bea",
@@ -8611,40 +8198,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la solvabilité et de la rentabilité des assureurs, qui relèvent de la conformité réglementaire financière."
-    },
-    {
-      "hash": "660020234cf7",
-      "source_name": "ACPR - Communiqués",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "L’Autorité de contrôle prudentiel et de résolution présente son programme de travail pour l’année 2026",
-      "url": "https://acpr.banque-france.fr/fr/communiques-de-presse/lautorite-de-controle-prudentiel-et-de-resolution-presente-son-programme-de-travail-pour-lannee-2026",
-      "author": "",
-      "published": "2026-04-23T13:42:49.555379Z",
-      "summary": "",
-      "score": 15,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'ACPR définit ses priorités de supervision bancaire et assurantielle pour 2026, relevant directement de la conformité et du contrôle prudentiel."
-    },
-    {
-      "hash": "756a00565fae",
-      "source_name": "ACPR - Communiqués",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "Déclaration relative à l’avancement d’une feuille de route coordonnée pour la transition vers la cryptographie post quantique dans le secteur financier",
-      "url": "https://acpr.banque-france.fr/fr/communiques-de-presse/declaration-relative-lavancement-dune-feuille-de-route-coordonnee-pour-la-transition-vers-la-0",
-      "author": "",
-      "published": "2026-04-23T13:42:49.555319Z",
-      "summary": "",
-      "score": 15,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la préparation du secteur financier aux risques de sécurité cryptographique futurs."
     },
     {
       "hash": "25d52b2e23cd3d1a",
@@ -9986,159 +9539,6 @@
       "ai_summary": "Cette initiative renforce la conformité financière en imposant une transparence accrue sur les financements via le formulaire 990."
     },
     {
-      "hash": "b0eca6ac3ecc",
-      "source_name": "Wolfsberg Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "The Wolfsberg Group elects a new Co-chair Emma Molvidson, the Global Head of Financial Crime Prevention for UBS, has been elected as the new Co-Chair of the Wolfsberg Group, effective from January 1,",
-      "url": "https://wolfsberg-group.org/news/the-wolfsberg-group-elects-a-new-co-chair",
-      "author": "",
-      "published": "2026-04-23T18:13:15.589274+00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": "news",
-      "action_class": "informational",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La Wolfsberg Group, référence en conformité bancaire, élit Emma Molvidson pour diriger sa lutte antiblanchiment."
-    },
-    {
-      "hash": "e0d4517c4766",
-      "source_name": "Wolfsberg Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Wolfsberg Group Announces New Co-Chair and Management Committee Member Appointment of Stevenson Munro as Co-chair of the Wolfsberg Group and of Rachel Sloan as member of the Management Committee.",
-      "url": "https://wolfsberg-group.org/news/wolfsberg-group-announces-new-co-chair-and-management-committee-member",
-      "author": "",
-      "published": "2026-04-23T18:13:15.589146+00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": "news",
-      "action_class": "informational",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les changements de gouvernance du Wolfsberg Group mais n'aborde pas directement la conformité financière."
-    },
-    {
-      "hash": "a02a294a6d6f",
-      "source_name": "US Treasury - Sanctions Press",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with Minister of Finance and National Economy Shaikh Salman bin Khalifa Al-Khalifa of Bahrain",
-      "url": "https://home.treasury.gov/news/press-releases/sb0460",
-      "author": "",
-      "published": "2026-04-23T18:13:15.588450+00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": "press_release",
-      "action_class": "informational",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les relations financières internationales et la coordination des politiques économiques entre les États-Unis et Bahreïn."
-    },
-    {
-      "hash": "2f016f87d7be",
-      "source_name": "Egmont Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "FIC Workshop in Bangkok Unites FIUs and Customs Authorities Across Asia-Pacific and Eurasia to Strengthen Joint Action Against Financial Crime",
-      "url": "https://egmontgroup.org/events/fic-workshop-in-bangkok-unites-fius-and-customs-authorities-across-asia-pacific-and-eurasia-to-strengthen-joint-action-against-financial-crime/",
-      "author": "",
-      "published": "2026-04-23T13:42:56.086568Z",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet atelier renforce la coopération entre unités de renseignement financier et douanes contre la criminalité financière et le blanchiment."
-    },
-    {
-      "hash": "893f38aae16b",
-      "source_name": "Egmont Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Regional Workshop in Riyadh Advances FIU, Law Enforcement, and Prosecutor Collaboration Across MENA",
-      "url": "https://egmontgroup.org/events/regional-workshop-in-riyadh-advances-fiu-law-enforcement-and-prosecutor-collaboration-across-mena/",
-      "author": "",
-      "published": "2026-04-23T13:42:56.086177Z",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la collaboration entre les unités de renseignement financier et les autorités pour renforcer la lutte contre le blanchiment."
-    },
-    {
-      "hash": "3bd682de0627",
-      "source_name": "US Treasury - Sanctions Press",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Economic Fury Targets Iran-Backed Iraqi Militia Commanders",
-      "url": "https://home.treasury.gov/news/press-releases/sb0458",
-      "author": "",
-      "published": "2026-04-23T13:42:54.188712Z",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions financières imposées par les États-Unis contre des chefs de milices irakiennes soutenues par l'Iran."
-    },
-    {
-      "hash": "7f17f0830d10",
-      "source_name": "US Treasury - Sanctions Press",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Economic Fury Targets Iranian Missile and UAV Procurement Networks",
-      "url": "https://home.treasury.gov/news/press-releases/sb0465",
-      "author": "",
-      "published": "2026-04-23T13:42:54.188579Z",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions financières contre les réseaux d'approvisionnement iraniens en missiles et drones."
-    },
-    {
-      "hash": "320fd40e2b9d",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Enforcement Actions",
-      "url": "https://ofac.treasury.gov/recent-actions/enforcement-actions",
-      "author": "",
-      "published": "2026-04-23T13:42:52.517584Z",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les actions d'application de la conformité financière en matière de sanctions internationales."
-    },
-    {
-      "hash": "65f8a4a3ea46",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Russia-related Designation Removal",
-      "url": "https://ofac.treasury.gov/recent-actions/20260403",
-      "author": "",
-      "published": "2026-04-23T13:42:52.517557Z",
-      "summary": "",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la levée de sanctions OFAC envers des entités russes, relevant directement de la conformité financière et réglementaire."
-    },
-    {
       "hash": "2898691743a83517",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -10676,7 +10076,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "74824b3e1227c94b",
@@ -10784,7 +10184,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7db753e60572e3f1",
@@ -10805,7 +10205,7 @@
       "ai_summary": "Cet article concerne un décès lors d'une enquête de corruption, pertinent pour la conformité anti-fraude et les risques de gouvernance d'entreprise."
     }
   ],
-  "last_update": "2026-05-23T14:07:21.158451+00:00",
+  "last_update": "2026-05-23T18:57:26.290925+00:00",
   "last_updated": "2026-05-21T07:11:19.993663Z",
   "last_fetch": "2026-05-21T07:11:19.993663Z"
 }
