@@ -727,24 +727,6 @@
       "ai_summary": "Ce décret modifie les procédures de signalement des lanceurs d'alerte concernant les marchés financiers et la lutte anti-blanchiment de capitaux."
     },
     {
-      "hash": "2998804b861efb25",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "L’ACPR sensibilise l’écosystème à se préparer à la cryptographie post-quantique - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY1U1TEZ6TVpjSDdEWThOTFVLUmhuSHE0Ulc2dFpTdklPbDBkQk9yS3RYRkpnbzIyTzhHeVB3VzVNSWgySVpsaGx3djU5dnJOMnpab09jNGFvY1gtTFZtZEs2QjBlU29pa2pPbXU4QThPRHk4NHlQWlE5VUJnSUJmUE0waDFENGdXZy1aWTJJbC1UWXd5T2VmYmxUWmdvRmdiVzhqLU5VZzh0MXhwOEpjcDFTZ3FOYWwz?oc=5",
-      "author": "",
-      "published": "2026-04-23T08:39:14",
-      "summary": "L’ACPR sensibilise l’écosystème à se préparer à la cryptographie post-quantique&nbsp;&nbsp;Banque de France",
-      "score": 100,
-      "score_breakdown": "+20 mots forts: acpr, crypto | +5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, acpr, banque de france | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'ACPR sensibilise les acteurs financiers aux risques de sécurité liés à la transition vers la cryptographie post-quantique."
-    },
-    {
       "hash": "d39b5f746c9485f9",
       "source_name": "EBA (Email)",
       "source_type": "email",
@@ -758,7 +740,7 @@
       "score_breakdown": "+40 mots critiques: money laundering, aml | +20 mots forts: mica, kyc | +10 mots moyens: guidelines, directive | +15 Source EU (EBA) | x1.5 (<24h)",
       "doc_type": "GUIDELINES",
       "action_class": "info",
-      "ai_summary": "Cet article traite de la conformité AML/CFT des émetteurs de tokens de monnaie électronique sous MiCAR, relevant de la conformité financière réglementaire.",
+      "ai_summary": "Cet article concerne les exigences de conformité AML/CFT applicables aux EMIs émettant des tokens selon MiCAR.",
       "status": "new",
       "early_brief": false
     },
@@ -976,7 +958,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il fixe les obligations légales de versement de la Caisse des dépôts à l'État."
     },
     {
       "hash": "5183582fa28981d7",
@@ -994,7 +976,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "dc0fa8bd5a8cdc66",
@@ -1012,7 +994,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b290cbf880c9cbca",
@@ -1030,7 +1012,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c6ac558918e89581",
@@ -1501,24 +1483,6 @@
       "ai_summary": "La digitalisation, la cybersécurité et la finance durable sont des priorités de conformité financière des autorités supervisoires européennes."
     },
     {
-      "hash": "d02dba1fabe00d4f",
-      "source_name": "EBA - News",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "The EBA responds to the Commission’s proposed changes to its draft technical standards on operational risk",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-responds-commissions-proposed-changes-its-draft-technical-standards-operational-risk",
-      "author": "jana.jaklic@eba.europa.eu",
-      "published": "2026-04-23T10:59:17",
-      "summary": "The European Banking Authority (EBA) has today published an Opinion on the European Commission’s proposed amendments to the final draft Regulatory Technical Standards (RTS)[1],[2] specifying operational risk requirements under the Capital Requirements Regulation (CRR). It considers that two amendments proposed by the Commission could affect the consistency, transparency and supervisory effectiveness of capital requirements for operational risk.",
-      "score": 75,
-      "score_breakdown": "+10 mots forts: eba | +15 mots moyens: risk, regulation, supervisory | +15 Source EU | +10 Géo EU: european commission, eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des normes techniques réglementaires sur le risque opérationnel applicables aux banques."
-    },
-    {
       "hash": "8a7f3912d3e57f45",
       "source_name": "AMF France (X)",
       "source_type": "rss",
@@ -1660,7 +1624,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement du terrorisme, violation majeure des obligations de conformité et de lutte anti-blanchiment des entreprises."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement du terrorisme, une violation majeure des obligations de conformité et de lutte anti-blanchiment."
     },
     {
       "hash": "841b0409997c23a0",
@@ -1919,24 +1883,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne l'identification des entités assujetties à la supervision directe de l'AMLA pour la conformité AML."
-    },
-    {
-      "hash": "690df583cdca6288",
-      "source_name": "EBA - European Banking Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "EBA E-mail alert 22 May, 2026",
-      "url": "https://www.eba.europa.eu/node/19696",
-      "author": "Anonymous",
-      "published": "2026-05-22T15:00:03",
-      "summary": "EBA E-mail alert 22 May, 2026\n\n  \n    Date\n          22/05/2026\n\n      \n\nAnonymous (not verified)\n\nFri, 05/22/2026 - 17:00\n\n\n            \n\n      \n  \n    Final Q&amp;As\n          2024_7078 Issuers of EMTs and scope of application AML requirements\n          2024_7172 Lightning Network (LN) Transactions and whether they fall within the scope of the TFR  and Travel Rule Guidelines. \n      ",
-      "score": 67,
-      "score_breakdown": "+20 mots forts: aml, eba | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2f215b4af1d2f569",
@@ -2456,7 +2402,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur le recrutement pour le Board of Appeal des autorités de supervision financière européennes (#EBA, #EIOPA, #ESMA)."
+      "ai_summary": "Cet article concerne la conformité financière car il annonce le recrutement pour le Conseil d'appel des autorités de supervision financière européennes (EBA, EIOPA, ESMA)."
     },
     {
       "hash": "7a0309558a30eafc",
@@ -2781,7 +2727,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b541b90c8814e548",
@@ -3403,7 +3349,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'adoption du Clarity Act et de la révision du cadre réglementaire MiCA applicables aux cryptomonnaies."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'adoption du Clarity Act, de la révision du cadre réglementaire MiCA et de la régulation des cryptomonnaies."
     },
     {
       "hash": "7798e979de5bf763",
@@ -4306,7 +4252,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès public aux informations sur les bénéficiaires réels des fiducies, obligation clé de la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès public aux informations sur les bénéficiaires réels des mandats de confiance en vertu des règles anti-blanchiment."
     },
     {
       "hash": "2eaef893c3cc9348",
@@ -4648,7 +4594,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4351c50ff1eb6eb9",
@@ -5189,42 +5135,6 @@
       "ai_summary": "L'État sanctionne Refashion pour non-respect de ses obligations légales de gestion des déchets textiles, constituant un manquement réglementaire."
     },
     {
-      "hash": "a0339beacc97ee41",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Vue PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93d3c3NVF4YVBMR1l0M2hhLXlqMUVQZXJSNWloRGFpRE9JeDdoV0RtLVAyU1Y2dUVOWFRYU01qMndNSDZlZlptY0tTSjBySmpVMTRGcldlbHFCVmw3U2ZQMTF4V0UtUQ?oc=5",
-      "author": "",
-      "published": "2026-05-16T01:48:35",
-      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
-      "score": 40,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "c733489f600c5c68",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "STELLANTIS LIFE INSURANCE LIMITED - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxSkFkQmFaeE85MmpFRXh6Y19ZQVN0ZGQzeGlEWlJ6OTQ0WEhHd014eGxhajRLY3lEa2JyNlBjdHhNdEY2dlZWMWkySC0wX1UwM1VfVHZKbXo?oc=5",
-      "author": "",
-      "published": "2026-05-15T18:10:57",
-      "summary": "STELLANTIS LIFE INSURANCE LIMITED&nbsp;&nbsp;Banque de France",
-      "score": 40,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "b832c040b288b5ab",
       "source_name": "ESMA (Email)",
       "source_type": "email",
@@ -5275,24 +5185,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité professionnelle des pharmaciens et les sanctions disciplinaires prononcées par l'ordre."
-    },
-    {
-      "hash": "9bc385d99a6dcfed",
-      "source_name": "EBA - News",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "EBA Report shows persistent gender imbalance and pay gaps in EU banking leadership",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-report-shows-persistent-gender-imbalance-and-pay-gaps-eu-banking-leadership",
-      "author": "jana.jaklic@eba.europa.eu",
-      "published": "2026-04-23T09:00:00",
-      "summary": "The European Banking Authority (EBA) publishes today the results of its benchmarking analysis&nbsp;on diversity practices in the management bodies of more than 850 institutions credit institutions and investment firms across the European Union (EU). As of 31 December 2024, significant gender imbalances and pay gaps persisted, particularly at senior management level, despite some progress compared with the situation in 2021. The EBA calls on institutions to consider promoting a more balanced repr",
-      "score": 40,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +15 Source EU | +10 Géo EU: european union, eba | ×1.0 (7d)",
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA impose aux banques des règles de diversité et de gouvernance dans leurs organes de direction."
     },
     {
       "hash": "c38d27c4e6b1",
@@ -5455,24 +5347,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'un cas de contournement des sanctions américaines."
     },
     {
-      "hash": "4e199f2b256f58ae",
-      "source_name": "ComplyAdvantage",
-      "source_type": "press",
-      "category": "presse",
-      "title": "HitPay successfully keeps its compliance team lean while managing significant growth",
-      "url": "https://complyadvantage.com/customer-stories/hitpay-keeps-compliance-team-lean-while-managing-significant-growth/",
-      "author": "Sarah Cameron",
-      "published": "2026-04-23T09:50:14",
-      "summary": "HitPay, a rapidly expanding payment service provider (PSP) headquartered in Singapore, is revolutionizing how over 20,000 merchants conduct business across Southeast Asia. Specializing in local payment methods and facilitating cross-border transactions across 12 Asia-Pacific markets, HitPay’s ambitious growth trajectory necessitated [&#8230;]\nThe post HitPay successfully keeps its compliance team lean while managing significant growth appeared first on ComplyAdvantage.",
-      "score": 39,
-      "score_breakdown": "+10 mots forts: compliance | +10 mots moyens: payment, ppe | +3 Presse | +3 Géo Intl: singapore | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "HitPay optimise sa conformité financière en maintenant une équipe allégée malgré sa croissance rapide en tant que prestataire de services de paiement."
-    },
-    {
       "hash": "da82a8a0b1b03995",
       "source_name": "ESMA (Email)",
       "source_type": "email",
@@ -5506,7 +5380,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet arrêté définit les pouvoirs de signature pour les actes relatifs à la commande publique, aspect clé de la conformité financière et de la gouvernance."
     },
     {
       "hash": "114b0214b9b5a8c0",
@@ -5797,42 +5671,6 @@
       "ai_summary": "L'article traite de la participation de l'Autorité bancaire européenne à un forum sur l'innovation bancaire et la surveillance des marchés numériques."
     },
     {
-      "hash": "5fcf212e48cb0eea",
-      "source_name": "EBA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📊New EBA data shows gender imbalance and pay gaps persist in EU banking leadership -Nearly half of institutions report no women among executive directors -Women are just 12% of CEOs across the EU Gender balance is also linked to stronger performance. 🔗",
-      "url": "https://x.com/EBA_News/status/2047254215848792300",
-      "author": "@EBA_News",
-      "published": "2026-04-23T10:00:00",
-      "summary": "📊New EBA data shows gender imbalance and pay gaps persist in EU banking leadership-Nearly half of institutions report no women among executive directors-Women are just 12% of CEOs across the EUGender balance is also linked to stronger performance.🔗 link.europa.eu/fqJMvt— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Apr 23, 2026",
-      "score": 37,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les inégalités de genre dans le leadership bancaire relèvent de la conformité réglementaire européenne en matière de gouvernance et de diversité."
-    },
-    {
-      "hash": "f624c7303c4f0af3",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📊 New EBA data on gender diversity in EU banking leadership The European Banking Authority has just published its latest benchmark...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7453019148529557504",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-04-23T09:57:15",
-      "summary": "📊 New EBA data on gender diversity in EU banking leadership\n\nThe European Banking Authority has just published its latest benchmarking analysis on diversity practices in EU credit institutions and investment firms — and the findings are clear: progress has been made, but key challenges remain, particularly at senior management level.\n\n⚖️ Gender imbalance and pay gaps persist, despite improvements compared to 2021.\n\nKey findings👇\n👩💼 Leadership representation\n • Nearly half of institutions report ",
-      "score": 37,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article porte sur la diversité de genre dans le leadership bancaire de l'UE, relevant de la conformité réglementaire."
-    },
-    {
       "hash": "d0cacca3d549eeb3",
       "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
@@ -6039,7 +5877,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les mesures légales contre les vols agricoles, pas la conformité financière des entreprises.\n\nHors périmètre compliance."
     },
     {
       "hash": "c44e8b4aa74f9ac9",
@@ -6420,24 +6258,6 @@
       "ai_summary": "Les sanctions financières contre la Russie relèvent de la conformité aux régimes de sanctions internationaux."
     },
     {
-      "hash": "3d28ef3877d854f5",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "La récession en Russie, les sanctions occidentales les plus sévères de l'Histoire et la guerre n'y font rien: les milliardaires russes n'ont jamais été aussi riches (ils pèsent désormais près de 600 milliards d'euros)",
-      "url": "https://www.bfmtv.com/economie/international/la-recession-en-russie-les-sanctions-occidentales-les-plus-severes-de-l-histoire-et-la-guerre-n-y-font-rien-les-milliardaires-russes-n-ont-jamais-ete-aussi-riches-ils-pesent-desormais-pres-de-600-milliards-d-euros_AN-202604230427.html",
-      "author": "",
-      "published": "2026-04-23T10:35:57",
-      "summary": "Malgré la guerre, les sanctions et la récession, la fortune des milliardaires russes a augmenté grâce à la hausse des prix des matières premières, à la réorientation des exportations vers l’Asie, au rachat d’actifs occidentaux à bas coût et à une économie de guerre profitant surtout à une élite déjà très puissante.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'article traite de la richesse des oligarques russes malgré les sanctions, soulevant des enjeux de conformité financière, AML et gel d'actifs."
-    },
-    {
       "hash": "7d26db93e2d2",
       "source_name": "Conseil de l'UE",
       "source_type": "scrape",
@@ -6759,7 +6579,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "58381a9a1a13c826",
@@ -6777,7 +6597,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "922fe4ecf6976ae6",
@@ -7445,24 +7265,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre le blanchiment d'argent et la corruption."
     },
     {
-      "hash": "d17971bce828",
-      "source_name": "DOJ - Criminal Division",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Scam Center Strike Force Takes Major Actions Against Southeast Asian Scam Centers Targeting Americans",
-      "url": "https://www.justice.gov/opa/pr/scam-center-strike-force-takes-major-actions-against-southeast-asian-scam-centers-targeting",
-      "author": "",
-      "published": "2026-04-23T12:00:00",
-      "summary": "The Department of Justice, through U.S. Attorney Jeanine Ferris Pirro and Assistant Attorney General A. Tysen Duva of the Criminal Division, together with its partners, today announced a series of coordinated actions by the Scam Center Strike Force against Southeast Asian criminal organizations operating scam centers that have defrauded Americans of billions of dollars.",
-      "score": 30,
-      "score_breakdown": "+20 mots forts: fraude, fraud | +10 bonus source",
-      "doc_type": "scraped",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre la fraude financière et le blanchiment d'argent par les centres d'arnaque en Asie du Sud-Est."
-    },
-    {
       "hash": "18255ce504fabc44",
       "source_name": "ESMA (X)",
       "source_type": "rss",
@@ -8126,7 +7928,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'un litige fiscal portant sur l'impôt sur le revenu et les obligations déclaratives des entreprises."
+      "ai_summary": "Cet arrêt concerne la conformité fiscale et la lutte contre le blanchiment de capitaux dans le secteur cinématographique."
     },
     {
       "hash": "5cec2cb4362b7c12",
@@ -8162,7 +7964,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ecd2e2f26a617e16",
@@ -8270,7 +8072,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "29db0b16b6bf2f0f",
@@ -8414,7 +8216,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "be47d5842976144c",
@@ -8475,24 +8277,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des priorités de régulation 2025 incluant la cybersécurité et la finance durable.",
       "status": "new",
       "early_brief": false
-    },
-    {
-      "hash": "c76a9272085b1871",
-      "source_name": "Cass. - Blanchiment",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de LYON, 5ème chambre, 23 avril 2026, 25LY00111",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDELYON-20260423-25LY00111",
-      "author": "5ème chambre",
-      "published": "2026-04-23T12:00:00",
-      "summary": "Vu la procédure suivante :         Par une requête et des mémoires enregistrés les 17 janvier, 12 novembre et 4 décembre 2025, la société C.E.P.E. Les Grands Communaux, représentée par Me Gauthier cabinet Lacourte Raquin Tatar, demande à la cour :           1° d'annuler l'arrêté du 19 novembre 2024 par lequel le préfet de la Côte-d'Or a rejeté sa demande d'autorisation environnementale pour l'exploitation d'un parc éolien sur le territoire des communes d'Antheuil et de Saint-Jean-de-Bœuf ;      ",
-      "score": 20,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur une affaire de blanchiment d'argent jugée en appel administratif."
     },
     {
       "hash": "7fab4252b16e",
@@ -8613,7 +8397,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6e46cfd926972bea",
@@ -10388,7 +10172,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'application de la FCPA contre les sociétés liées aux cartels."
     },
     {
       "hash": "8d63372bea7ea236",
@@ -10859,24 +10643,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du départ d'une spécialiste FCPA vers un nouveau cabinet."
     },
     {
-      "hash": "125da12f98a79bcb",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "International Criminal Court-related Designation Removal | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260520_33",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-05-20T12:00:00",
-      "summary": "",
-      "score": 6,
-      "score_breakdown": "+5 Source Intl | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
-    },
-    {
       "hash": "91ea1a345da0315e",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -10893,6 +10659,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les mesures de sanctions financières internationales imposées par les États-Unis en matière de conformité réglementaire."
+    },
+    {
+      "hash": "125da12f98a79bcb",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "International Criminal Court-related Designation Removal | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260520_33",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-05-20T12:00:00",
+      "summary": "",
+      "score": 5,
+      "score_breakdown": "+5 Source Intl | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "74824b3e1227c94b",
@@ -10967,24 +10751,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de violations de règles anti-corruption affectant une entreprise internationale."
     },
     {
-      "hash": "7494cb35c369d9b7",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Counter Terrorism, Counter Narcotics, and Cyber-related Designations; Issuance of Cyber-related General License | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260423",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-04-23T12:00:00",
-      "summary": "",
-      "score": 3,
-      "score_breakdown": "+5 Source Intl | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
       "hash": "5db889015bd7271e",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -11018,7 +10784,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7db753e60572e3f1",
@@ -11036,10 +10802,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne un décès lors d'une enquête de corruption, pertinent pour la conformité anti-fraude et les risques de gouvernance d'entreprise."
     }
   ],
-  "last_update": "2026-05-23T08:33:41.895012+00:00",
+  "last_update": "2026-05-23T13:01:50.994095+00:00",
   "last_updated": "2026-05-21T07:11:19.993663Z",
   "last_fetch": "2026-05-21T07:11:19.993663Z"
 }
