@@ -763,6 +763,24 @@
       "ai_summary": "Cet article traite de l'application des règles anti-blanchiment de l'UE au secteur du football à partir de 2029, relevant de la conformité financière."
     },
     {
+      "hash": "d39b5f746c9485f9",
+      "source_name": "EBA (Email)",
+      "source_type": "email",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 22 May, 2026",
+      "url": "https://www.eba.europa.eu/single-rule-book-qa/qna/view/publicId/2024_7078",
+      "author": "no-reply@eba.europa.eu",
+      "published": "2026-05-22T16:00:10Z",
+      "summary": "Final Q&As. Question ID 2024_7078 - Topic: Other MiCAR topics. Subject matter: Issuers of EMTs and scope of application AML requirements. To what extent should electronic money institutions (EMIs) that issue e-money tokens (EMTs) under MiCAR comply with anti-money laundering and terrorist financing obligations under Directive 2015/849/EU (AMLD5)? Should holders of EMTs be considered clients of the EMI so that KYC requirements apply on an ongoing basis? Question ID 2024_7172 - Subject matter: Lig",
+      "score": 100,
+      "score_breakdown": "+40 mots critiques: money laundering, aml | +20 mots forts: mica, kyc | +10 mots moyens: guidelines, directive | +15 Source EU (EBA) | x1.5 (<24h)",
+      "doc_type": "GUIDELINES",
+      "action_class": "info",
+      "ai_summary": null,
+      "status": "new",
+      "early_brief": false
+    },
+    {
       "hash": "9aed84ba008460c4",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -3160,6 +3178,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article explique le rôle de la Cellule de Renseignement Financier dans la détection des flux financiers suspects, élément clé de la conformité."
+    },
+    {
+      "hash": "de2a92dc679d69cb",
+      "source_name": "ESMA (Email)",
+      "source_type": "email",
+      "category": "autorite_eu",
+      "title": "ESMA - Notifications",
+      "url": "https://www.esma.europa.eu/document/compliance-table-guidelines-enforcement-sustainability-information",
+      "author": "noreply@esma.europa.eu",
+      "published": "2026-05-22T14:04:49Z",
+      "summary": "Please find below recently updated content on ESMA's website: Library Document. Compliance table on the Guidelines on Enforcement of Sustainability Information.",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: enforcement | +10 mots moyens: compliance, guidelines | +15 Source EU (ESMA) | x1.5 (<24h)",
+      "doc_type": "GUIDELINES",
+      "action_class": "info",
+      "ai_summary": null,
+      "status": "new",
+      "early_brief": false
+    },
+    {
+      "hash": "6768508f5d5ac8b7",
+      "source_name": "ESMA (Email)",
+      "source_type": "email",
+      "category": "autorite_eu",
+      "title": "ESMA - Notifications",
+      "url": "https://www.esma.europa.eu/document/compliance-table-guidelines-criteria-assessment-knowledge-and-competence-under-mica",
+      "author": "noreply@esma.europa.eu",
+      "published": "2026-05-22T16:04:12Z",
+      "summary": "Please find below recently created content on ESMA's website: Library Document. Compliance table on the Guidelines for the criteria on the assessment of knowledge and competence under MiCA.",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: mica | +10 mots moyens: compliance, guidelines | +15 Source EU (ESMA) | x1.5 (<24h)",
+      "doc_type": "GUIDELINES",
+      "action_class": "info",
+      "ai_summary": null,
+      "status": "new",
+      "early_brief": false
     },
     {
       "hash": "697d012e2e67ae22",
@@ -11147,7 +11201,7 @@
       "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-05-23T04:13:18.513139+00:00",
+  "last_update": "2026-05-23T05:00:01.956516+00:00",
   "last_updated": "2026-05-21T07:11:19.993663Z",
   "last_fetch": "2026-05-21T07:11:19.993663Z"
 }
