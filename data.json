@@ -1444,7 +1444,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de terrorisme par une entreprise, violation majeure des obligations de conformité et de lutte contre le blanchiment."
+      "ai_summary": "L'article concerne le financement du terrorisme, violation majeure des obligations de conformité financière et de lutte contre le blanchiment d'argent."
     },
     {
       "hash": "dae28164bded11c9",
@@ -1577,6 +1577,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cette règle soumet les émetteurs de stablecoins à la loi bancaire américaine contre le blanchiment d'argent, renforçant la conformité financière."
+    },
+    {
+      "hash": "0b68c8e99dab81dd",
+      "source_name": "Ministère de la Justice (CJIP)",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Création d’une procédure de plaider-coupable criminel : la chancellerie organise une audience fictive",
+      "url": "https://www.justice.gouv.fr/actualites/espace-presse/creation-dune-procedure-plaider-coupable-criminel-chancellerie-organise-audience-0",
+      "author": "ROMAN Julien",
+      "published": "2026-05-26T08:18:03",
+      "summary": "Création d’une procédure de plaider-coupable criminel : la chancellerie organise une audience fictive\nROMAN Julien\nmar 26/05/2026 - 10:18\n\n2 minutes\n\n            Aujourd’hui près de 6 000 affaires criminelles sont en attente de jugement. Certaines victimes doivent attendre jusqu’à huit ans avant qu’un procès criminel ne se tienne. Ces délais retardent la reconstruction des victimes et décrédibilisent la sanction pénale. \n\n            \n\n  \n\n\n  \n        C’est pourquoi Gérald DARMANIN, garde des Sc",
+      "score": 67,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "bbb464eea879c501",
@@ -1903,40 +1921,22 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des exigences de capital pour le risque de change réglementées par l'EBA."
     },
     {
-      "hash": "dc0fa8bd5a8cdc66",
-      "source_name": "JORF - Bancaire",
+      "hash": "bc7b29dee9671ed6",
+      "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Délibération n° 2026-051 du 19 mars 2026 portant homologation d'une méthodologie de référence relative aux traitements de données à caractère personnel mis en œuvre dans le cadre des recherches dans le domaine de la santé et ne nécessitant pas le recueil du consentement de la personne concernée en vue de la participation à la recherche (MR-003) et abrogeant la délibération n° 2018-154",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054125946",
-      "author": "Commission nationale de l'informatique et des libertés",
-      "published": "2026-05-23T00:00:00",
-      "summary": "Article Après avoir entendu le rapport de Mme Marie Zins et M. Fabien Tarissan, commissaires, et les observations de M. Damien Milic, commissaire du Gouvernement,Formule les observations suivantes :Certains traitements de données à caractère personnel dans le domaine de la santé sont soumis à un régime de formalités préalables auprès de la CNIL. Ces formalités prennent la forme, par principe, d'une déclaration de conformité à un référentiel homologué par la CNIL ou, par exception, d'une demande ",
-      "score": 66,
-      "score_breakdown": "+10 mots forts: conformité | +25 Source FR | +20 Géo FR: cnil | ×1.2 (<3d)",
+      "category": "social",
+      "title": "👏 Great to see the success of this training on “Regulating and supervising AI in finance” led by the EU Supervisory Digital Financ...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7464967070942695425",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-05-26T09:14:02",
+      "summary": "👏 Great to see the success of this training on “Regulating and supervising AI in finance” led by the EU Supervisory Digital Finance Academy.\n\nOur colleague Alain Otaegui Chapartegui contributed with a dedicated session on implementing the AI Act in the banking sector, highlighting:\n🔹 The key pillars of the AI Act and what they mean for financial institutions\n🔹 The main supervisory challenges in its implementation\n🔹 EBA’s ongoing work to promote supervisory convergence and cooperation across the ",
+      "score": 67,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: supervisory, bank | +15 IA×Finance: ai act+banking | +10 Géo EU: eba | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "5183582fa28981d7",
-      "source_name": "JORF - Bancaire",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Délibération n° 2026-050 du 19 mars 2026 portant homologation d'une méthodologie de référence relative aux traitements de données à caractère personnel mis en œuvre dans le cadre des recherches dans le domaine de la santé nécessitant le recueil du consentement de la personne concernée en vue de la participation à la recherche (MR-001) et abrogeant la délibération n° 2018-153",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054125924",
-      "author": "Commission nationale de l'informatique et des libertés",
-      "published": "2026-05-23T00:00:00",
-      "summary": "Article Après avoir entendu le rapport de Mme Marie Zins et M. Fabien Tarissan, commissaires, et les observations de M. Damien Milic, commissaire du Gouvernement,Formule les observations suivantes :Certains traitements de données à caractère personnel dans le domaine de la santé sont soumis à un régime de formalités préalables auprès de la CNIL. Ces formalités prennent la forme, par principe, d'une déclaration de conformité à un référentiel homologué par la CNIL ou, par exception, d'une demande ",
-      "score": 66,
-      "score_breakdown": "+10 mots forts: conformité | +25 Source FR | +20 Géo FR: cnil | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6c0133e35a3dbcdf",
@@ -2475,6 +2475,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la mise à jour des exigences de capital pour le risque de change bancaire."
+    },
+    {
+      "hash": "5183582fa28981d7",
+      "source_name": "JORF - Bancaire",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Délibération n° 2026-050 du 19 mars 2026 portant homologation d'une méthodologie de référence relative aux traitements de données à caractère personnel mis en œuvre dans le cadre des recherches dans le domaine de la santé nécessitant le recueil du consentement de la personne concernée en vue de la participation à la recherche (MR-001) et abrogeant la délibération n° 2018-153",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054125924",
+      "author": "Commission nationale de l'informatique et des libertés",
+      "published": "2026-05-23T00:00:00",
+      "summary": "Article Après avoir entendu le rapport de Mme Marie Zins et M. Fabien Tarissan, commissaires, et les observations de M. Damien Milic, commissaire du Gouvernement,Formule les observations suivantes :Certains traitements de données à caractère personnel dans le domaine de la santé sont soumis à un régime de formalités préalables auprès de la CNIL. Ces formalités prennent la forme, par principe, d'une déclaration de conformité à un référentiel homologué par la CNIL ou, par exception, d'une demande ",
+      "score": 55,
+      "score_breakdown": "+10 mots forts: conformité | +25 Source FR | +20 Géo FR: cnil | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "dc0fa8bd5a8cdc66",
+      "source_name": "JORF - Bancaire",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Délibération n° 2026-051 du 19 mars 2026 portant homologation d'une méthodologie de référence relative aux traitements de données à caractère personnel mis en œuvre dans le cadre des recherches dans le domaine de la santé et ne nécessitant pas le recueil du consentement de la personne concernée en vue de la participation à la recherche (MR-003) et abrogeant la délibération n° 2018-154",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054125946",
+      "author": "Commission nationale de l'informatique et des libertés",
+      "published": "2026-05-23T00:00:00",
+      "summary": "Article Après avoir entendu le rapport de Mme Marie Zins et M. Fabien Tarissan, commissaires, et les observations de M. Damien Milic, commissaire du Gouvernement,Formule les observations suivantes :Certains traitements de données à caractère personnel dans le domaine de la santé sont soumis à un régime de formalités préalables auprès de la CNIL. Ces formalités prennent la forme, par principe, d'une déclaration de conformité à un référentiel homologué par la CNIL ou, par exception, d'une demande ",
+      "score": 55,
+      "score_breakdown": "+10 mots forts: conformité | +25 Source FR | +20 Géo FR: cnil | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "186e20f378eb",
@@ -3858,7 +3894,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "614236935889",
@@ -3894,7 +3930,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès public aux informations sur les bénéficiaires réels, élément clé de la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès public aux informations sur les bénéficiaires réels des fiducies, obligation clé de lutte anti-blanchiment."
     },
     {
       "hash": "2eaef893c3cc9348",
@@ -4791,24 +4827,6 @@
       "ai_summary": "Cet article concerne la conformité financière car le GAFI évalue les mesures anti-blanchiment, anti-terrorisme et anti-prolifération de l'Autriche."
     },
     {
-      "hash": "e5045f712e75158c",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Rechercher | Autorité de contrôle prudentiel et de résolution - ACPR | Autorité de contrôle prudentiel et de résolution",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeGEtODZnU2tHQ0hKaUxxYlFUdGlPRVRIbzhhNXVjWUk4dHZWdFFCY1NSU3JYU3J1VmtMbi0tRW0wRG5UVEJMOS16VWwteUZxS2VvWFQ0UVdmczBMVkJoUGdieUt1TmpkM2w3bGJUc3k2alNnUlc1UkRVd0tnTmo2bUNUYTZ5QWVFMXAtT3htc3FEcEhmakctMmpCdHVGa3N4LVBXNVA3dG1kR2dzSzlNTU5rc1YtTkN3OG9tS1hORGJTU0l5b0ZMci04YmNZamc0YU9XTENRaWxLUQ?oc=5",
-      "author": "",
-      "published": "2026-04-26T04:54:05",
-      "summary": "Rechercher | Autorité de contrôle prudentiel et de résolution&nbsp;&nbsp;ACPR | Autorité de contrôle prudentiel et de résolution",
-      "score": 39,
-      "score_breakdown": "+20 mots forts: acpr, contrôle prudentiel | +25 Source FR | +20 Géo FR: acpr | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'article concerne le moteur de recherche de l'ACPR, autorité de régulation bancaire et d'assurance en charge de la conformité prudentielle."
-    },
-    {
       "hash": "3e1152ce8f0cc50a",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -4824,7 +4842,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f0d752be142ac046",
@@ -5274,7 +5292,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f16b99be5465",
@@ -5380,7 +5398,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3e492d75ff4157fb",
@@ -5399,24 +5417,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il évoque l'usurpation d'identité de navires pour contourner les sanctions internationales."
-    },
-    {
-      "hash": "24b4ced61a3a0f07",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "La mise en œuvre du « RSA rénové » entraîne des durcissements pour ses bénéficiaires et d’importantes disparités entre départements",
-      "url": "https://www.lemonde.fr/societe/article/2026/05/25/la-mise-en-uvre-du-rsa-renove-entraine-des-durcissements-pour-ses-beneficiaires-et-d-importantes-disparites-entre-departements_6693596_3224.html",
-      "author": "",
-      "published": "2026-05-25T04:00:29",
-      "summary": "Près d’un an après la parution d’un décret réformant le revenu de solidarité active, des témoignages recueillis montrent un renforcement des attentes et des sanctions à l’égard des allocataires dans certains départements.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "78e35eba423f4e8e",
@@ -5905,6 +5905,24 @@
       "ai_summary": "Cet article concerne les sanctions restrictives de l'UE contre l'Ukraine, relevant de la conformité en matière de sanctions internationales."
     },
     {
+      "hash": "6ccb65c7131f",
+      "source_name": "Conseil de l'UE",
+      "source_type": "scrape",
+      "category": "autorite_eu",
+      "title": "Ukrainian children unlawfully deported and forcibly transferred to Russia: EU sanctions 16 individuals and seven entities",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/11/ukrainian-children-unlawfully-deported-and-forcibly-transferred-to-russia-eu-sanctions-16-individuals-and-seven-entities/",
+      "author": "",
+      "published": "2026-05-11T00:00:00+00:00",
+      "summary": "The Council adopted restrictive measures against an additional 16 individuals and seven entities responsible for the systematic unlawful deportation and forcible transfer of Ukrainian children to the Russian Federation and within temporarily occupied territories of Ukraine. Listed persons and entities are subject to an asset freeze and travel ban under the EU framework targeting actions undermining Ukraine's territorial integrity.",
+      "score": 32,
+      "score_breakdown": null,
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
       "hash": "08023b9111a50cea",
       "source_name": "Corporate Compliance Insights",
       "source_type": "press",
@@ -6101,24 +6119,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les autorités financières (FCA) appliquent la conformité réglementaire en réprimant les activités de trading crypto illégales non autorisées."
-    },
-    {
-      "hash": "fc4f2fc88686ece5",
-      "source_name": "JORF - Blanchiment",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 21 mai 2026 portant délégation de signature (direction des affaires juridiques)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054125329",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-05-23T00:00:00",
-      "summary": "Article 1Dans la limite des attributions de la sous-direction du droit de la commande publique, délégation est donnée à l'effet de signer, au nom du ministre chargé de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique, tous actes, arrêtés, décisions ou conventions à l'exclusion des décrets, à :Mme Aude Lambotin, cheffe du bureau du conseil aux acheteurs, pour les affaires relatives au conseil aux acheteurs publics et à la diffusion de l'information relative à ",
-      "score": 30,
-      "score_breakdown": "+25 Source FR | ×1.2 (<3d)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "58381a9a1a13c826",
@@ -6955,6 +6955,24 @@
       "ai_summary": "L'article concerne la conformité financière car il rapporte les nominations de responsables légaux et de conformité chez Walmart et PayPal."
     },
     {
+      "hash": "fc4f2fc88686ece5",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 21 mai 2026 portant délégation de signature (direction des affaires juridiques)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054125329",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-05-23T00:00:00",
+      "summary": "Article 1Dans la limite des attributions de la sous-direction du droit de la commande publique, délégation est donnée à l'effet de signer, au nom du ministre chargé de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique, tous actes, arrêtés, décisions ou conventions à l'exclusion des décrets, à :Mme Aude Lambotin, cheffe du bureau du conseil aux acheteurs, pour les affaires relatives au conseil aux acheteurs publics et à la diffusion de l'information relative à ",
+      "score": 25,
+      "score_breakdown": "+25 Source FR | ×1.0 (7d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "7b2d123eb18cef01",
       "source_name": "JORF - Sanctions",
       "source_type": "rss",
@@ -6970,7 +6988,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "9a5aa01e7399",
@@ -7233,7 +7251,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "29db0b16b6bf2f0f",
@@ -7377,7 +7395,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "be47d5842976144c",
@@ -7502,7 +7520,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6e46cfd926972bea",
@@ -7646,7 +7664,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8226ed514ef7ddc2",
@@ -9297,7 +9315,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "74824b3e1227c94b",
@@ -9405,7 +9423,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7db753e60572e3f1",
@@ -9424,27 +9442,9 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne un décès lors d'une enquête de corruption, pertinent pour la conformité anti-fraude et les risques de gouvernance d'entreprise."
-    },
-    {
-      "hash": "6ccb65c7131f",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Ukrainian children unlawfully deported and forcibly transferred to Russia: EU sanctions 16 individuals and seven entities",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/11/ukrainian-children-unlawfully-deported-and-forcibly-transferred-to-russia-eu-sanctions-16-individuals-and-seven-entities/",
-      "author": "",
-      "published": "2026-05-11T00:00:00+00:00",
-      "summary": "The Council adopted restrictive measures against an additional 16 individuals and seven entities responsible for the systematic unlawful deportation and forcible transfer of Ukrainian children to the Russian Federation and within temporarily occupied territories of Ukraine. Listed persons and entities are subject to an asset freeze and travel ban under the EU framework targeting actions undermining Ukraine's territorial integrity.",
-      "score": 32,
-      "score_breakdown": null,
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
     }
   ],
-  "last_update": "2026-05-26T04:40:22.949018+00:00",
+  "last_update": "2026-05-26T09:37:04.551657+00:00",
   "last_updated": "2026-05-26T08:30:47.714795+00:00",
   "last_fetch": "2026-05-23T19:01:19.700241+00:00"
 }
