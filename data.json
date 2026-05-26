@@ -565,23 +565,6 @@
   ],
   "items": [
     {
-      "hash": "693475bd184c",
-      "source_name": "DOJ - Criminal Division",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Members of Transnational Money Laundering Organization Charged with Laundering Cartel Funds",
-      "url": "https://www.justice.gov/opa/pr/members-transnational-money-laundering-organization-charged-laundering-cartel-funds",
-      "author": "",
-      "published": "2026-05-22T08:52:54+00:00",
-      "summary": "An indictment unsealed in the Eastern District of Virginia charges Ruhuan Zhen and Hongce Wu, both Chinese nationals, with conspiracy to commit money laundering on behalf of transnational criminal organizations including the Sinaloa Cartel and CJNG. The conspiracy used mirror transfers, foreign bank accounts, encrypted communications, a serial-number verification system, and trade-based money laundering to launder narcotics proceeds (cocaine, fentanyl) across the US, Mexico, Latin America, China and elsewhere. Each defendant faces a maximum 20 years in prison. Prosecuted by DOJ Criminal Division's Money Laundering, Narcotics and Forfeiture Section (MNF).",
-      "score": 30,
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
       "hash": "067f26f73ba10b64",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -1410,6 +1393,24 @@
       "ai_summary": "L'évaluation mutuelle du FATF de l'Autriche évalue la conformité aux recommandations anti-blanchiment et contre le financement du terrorisme."
     },
     {
+      "hash": "8ebc9e084552a2b5",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "BFM Crypto, le Club : \"Le futur de la Bourse sera sur la blockchain\" – 26/05",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/bfm-crypto-le-club-le-futur-de-la-bourse-sera-sur-la-blockchain-26-05_EN-202605260582.html",
+      "author": "",
+      "published": "2026-05-26T13:39:47",
+      "summary": "Mardi 26 mai, les informations à savoir sur la déclaration fiscale, les cas de violence sur fond de crypto depuis le début de l'année, le futur des banques et de la bourse sur la blockchain, l'obtention de l'agrément MiCA de Qwarks en France, ainsi que la hausse du nombre de  cryptos dans les patrimoines, ont été abordés par Stéphanie Nemarq-Attias, fondatrice du cabinet Qomit, Maxime Heuze, journaliste La Tribune, Marc Lécorché, président de Qwarks, et Marc-Antoine Caen Poletti, journaliste che",
+      "score": 72,
+      "score_breakdown": "+20 mots forts: mica, crypto, agrément | +5 mots moyens: banque | +3 Presse | +20 Géo FR: france | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "4fbbe64042e7982d",
       "source_name": "Corporate Compliance Insights",
       "source_type": "press",
@@ -1461,7 +1462,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne le financement du terrorisme, violation majeure des obligations de conformité financière et de lutte contre le blanchiment d'argent."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes par une entreprise, violation majeure des règles de lutte contre le blanchiment et les sanctions financières."
     },
     {
       "hash": "dae28164bded11c9",
@@ -1596,6 +1597,24 @@
       "ai_summary": "Cette règle soumet les émetteurs de stablecoins à la loi bancaire américaine contre le blanchiment d'argent, renforçant la conformité financière."
     },
     {
+      "hash": "6a6e826b649c5ad1",
+      "source_name": "PNF (Parquet National Financier)",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Lors du déplacement du garde des Sceaux Gerald Darmanin en Algérie ce…",
+      "url": "https://social.numerique.gouv.fr/@pnf/116640697458238932",
+      "author": "",
+      "published": "2026-05-26T11:43:18",
+      "summary": "Lors du déplacement du garde des Sceaux Gerald Darmanin en Algérie ce lundi 18 mai, le procureur national financier Pascal Prache était présent dans la délégation française.A cette occasion, des échanges particulièrement fructueux ont eu lieu avec les autorités judiciaires algériennes, notamment sur la question de l’exécution des décisions de confiscation de biens mal acquis. Ces échanges permettent également un renforcement de la coopération pénale entre les deux pays.",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
       "hash": "0b68c8e99dab81dd",
       "source_name": "Ministère de la Justice (CJIP)",
       "source_type": "rss",
@@ -1611,7 +1630,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bbb464eea879c501",
@@ -1953,7 +1972,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision et régulation de l'IA dans le secteur financier, notamment la mise en œuvre de la loi IA dans les banques."
     },
     {
       "hash": "6c0133e35a3dbcdf",
@@ -2026,6 +2045,24 @@
       "ai_summary": "Cet article concerne la conformité financière car le forum traite de la lutte contre la criminalité financière et de la conformité réglementaire."
     },
     {
+      "hash": "0ce638e5c9a4988e",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Plus de 6 semaines après leur incarcération, les ex-dirigeants de Lafarge condamnés pour financement du terrorisme sont remis en liberté sous contrôle judiciaire",
+      "url": "https://www.bfmtv.com/economie/entreprises/plus-de-6-semaines-apres-leur-incarceration-les-ex-dirigeants-de-lafarge-condamnes-pour-financement-du-terrorisme-sont-remis-en-liberte-sous-controle-judiciaire_AD-202605260516.html",
+      "author": "",
+      "published": "2026-05-26T11:52:05",
+      "summary": "Le cimentier français Lafarge et huit anciens responsables ont été reconnus coupables en avril de financement du terrorisme pour avoir payé des groupes terroristes afin qu'ils laissent fonctionner une de leur usine en Syrie, alors ravagée par une guerre civile.",
+      "score": 64,
+      "score_breakdown": "+20 mots critiques: financement du terrorisme | +3 Presse | +20 Géo FR: français | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a070010eb649c4a3",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -2078,6 +2115,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite des défaillances systémiques des programmes de conformité dans le secteur santé face aux réclamations frauduleuses."
+    },
+    {
+      "hash": "252ec67c613cec8b",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hZ0hCTTd4T3ZVdEVqU1FvRFB4MGlzcDA0NDc0Ymx1SXQtTmNtUVBBOHl2d3k2ODVVbDhCYk9QRk1sY1JjS19LS1lpR0xLcUFIejNfSHdvM1JUb292aGdTdnBZZHdTQQ?oc=5",
+      "author": "",
+      "published": "2026-05-24T17:57:56",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
+      "score": 60,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "5caa7f5f80dabd03",
@@ -2509,7 +2564,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "dc0fa8bd5a8cdc66",
@@ -2527,7 +2582,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "186e20f378eb",
@@ -3911,7 +3966,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "614236935889",
@@ -3947,7 +4002,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès public aux informations sur les bénéficiaires réels des fiducies, obligation clé de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès à l'information sur les bénéficiaires réels des trusts, élément clé de la lutte anti-blanchiment."
     },
     {
       "hash": "2eaef893c3cc9348",
@@ -4844,24 +4899,6 @@
       "ai_summary": "Cet article concerne la conformité financière car le GAFI évalue les mesures anti-blanchiment, anti-terrorisme et anti-prolifération de l'Autriche."
     },
     {
-      "hash": "3e1152ce8f0cc50a",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Trump voulait lourdement sanctionner le Mexique avec des droits de douane de 25%: pourtant un an après, le pays annonce le plus gros excédent commercial de son Histoire à 4,5 milliards de dollars",
-      "url": "https://www.bfmtv.com/economie/international/trump-voulait-lourdement-sanctionner-le-mexique-avec-des-droits-de-douane-de-25-pourtant-un-an-apres-le-pays-annonce-le-plus-gros-excedent-commercial-de-son-histoire-a-4-5-milliards-de-dollars_AV-202605250631.html",
-      "author": "",
-      "published": "2026-05-25T15:54:59",
-      "summary": "Le Mexique a exporté pour 72 milliards de dollars depuis le début de l'année, un chiffre en hausse de 32,6% sur un an. Le pays a même battu son record d'exportations, grâce à ses bonnes relations commerciales avec les États-Unis.",
-      "score": 39,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: états-unis | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "f0d752be142ac046",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -5309,7 +5346,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f16b99be5465",
@@ -5398,24 +5435,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les risques de sanctions liées aux raffineries chinoises, relevant de la conformité réglementaire."
-    },
-    {
-      "hash": "b1d44e487e04e226",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Une crise sanitaire inédite se dresse devant Cuba",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/video-une-crise-sanitaire-inedite-se-dresse-devant-cuba_VN-202605250732.html",
-      "author": "",
-      "published": "2026-05-25T17:31:24",
-      "summary": "L'embargo pétrolier autour de Cuba dure depuis des mois, et l'île semble être à bout de souffle. Donald Trump, bien qu'enlisé au Moyen-Orient avec la guerre en Iran, est toujours aussi menaçant et ne cesse de mettre la pression sur Cuba. Dans sa chronique internationale, Mathieu Jolivet revient sur la situation à laquelle doivent faire face ses habitants, confrontés à des dangers sanitaires qui deviennent problématiques.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: embargo | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3e492d75ff4157fb",
@@ -5922,24 +5941,6 @@
       "ai_summary": "Cet article concerne les sanctions restrictives de l'UE contre l'Ukraine, relevant de la conformité en matière de sanctions internationales."
     },
     {
-      "hash": "6ccb65c7131f",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Ukrainian children unlawfully deported and forcibly transferred to Russia: EU sanctions 16 individuals and seven entities",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/11/ukrainian-children-unlawfully-deported-and-forcibly-transferred-to-russia-eu-sanctions-16-individuals-and-seven-entities/",
-      "author": "",
-      "published": "2026-05-11T00:00:00+00:00",
-      "summary": "The Council adopted restrictive measures against an additional 16 individuals and seven entities responsible for the systematic unlawful deportation and forcible transfer of Ukrainian children to the Russian Federation and within temporarily occupied territories of Ukraine. Listed persons and entities are subject to an asset freeze and travel ban under the EU framework targeting actions undermining Ukraine's territorial integrity.",
-      "score": 32,
-      "score_breakdown": null,
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "08023b9111a50cea",
       "source_name": "Corporate Compliance Insights",
       "source_type": "press",
@@ -6240,6 +6241,41 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cette décision concerne l'autorisation d'émission d'obligations par assemblée générale des obligataires selon le code de commerce."
+    },
+    {
+      "hash": "ba15eb2bd8c7bee6",
+      "source_name": "BIS - Working Papers",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Disciplining digital risk: evidence from cyber stress tests",
+      "url": "https://www.bis.org/publ/work1351.htm",
+      "author": "Alberto Partida",
+      "published": "2026-05-26T12:00:00",
+      "summary": "by Nordine Abidi, Leonardo Gambacorta, Christoffer Kok, Leonardo Madio, Ixart Miquel-Flores, Alberto PartidaInvestment in cybersecurity in an interconnected banking system has public-good properties: positive externalities can generate systemic underinvestment. Using confidential supervisory data from the European Central Bank, we first identify \"laggard\" European banks that underinvest relative to their cyber-risk profiles, and then examine how supervisory scrutiny affects their incentives to i",
+      "score": 30,
+      "score_breakdown": "+15 mots moyens: risk, supervisory, bank | +5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il traite des tests de stress cybernétique et de la supervision bancaire pour prévenir les risques systémiques."
+    },
+    {
+      "hash": "693475bd184c",
+      "source_name": "DOJ - Criminal Division",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Members of Transnational Money Laundering Organization Charged with Laundering Cartel Funds",
+      "url": "https://www.justice.gov/opa/pr/members-transnational-money-laundering-organization-charged-laundering-cartel-funds",
+      "author": "",
+      "published": "2026-05-22T08:52:54+00:00",
+      "summary": "An indictment unsealed in the Eastern District of Virginia charges Ruhuan Zhen and Hongce Wu, both Chinese nationals, with conspiracy to commit money laundering on behalf of transnational criminal organizations including the Sinaloa Cartel and CJNG. The conspiracy used mirror transfers, foreign bank accounts, encrypted communications, a serial-number verification system, and trade-based money laundering to launder narcotics proceeds (cocaine, fentanyl) across the US, Mexico, Latin America, China and elsewhere. Each defendant faces a maximum 20 years in prison. Prosecuted by DOJ Criminal Division's Money Laundering, Narcotics and Forfeiture Section (MNF).",
+      "score": 30,
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne le blanchiment d'argent transnational lié aux cartels, un enjeu majeur de conformité financière et de lutte anti-blanchiment."
     },
     {
       "hash": "3cd3be18018d",
@@ -6987,7 +7023,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7b2d123eb18cef01",
@@ -7005,7 +7041,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9a5aa01e7399",
@@ -7268,7 +7304,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "29db0b16b6bf2f0f",
@@ -7412,7 +7448,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "be47d5842976144c",
@@ -7537,7 +7573,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6e46cfd926972bea",
@@ -7681,7 +7717,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "8226ed514ef7ddc2",
@@ -9332,7 +9368,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "74824b3e1227c94b",
@@ -9440,7 +9476,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article relève de la conformité financière car il traite de corruption et de détournement de fonds dans une entreprise d'État, domaines clés de la lutte anti-fraude."
     },
     {
       "hash": "7db753e60572e3f1",
@@ -9461,7 +9497,7 @@
       "ai_summary": "Cet article concerne un décès lors d'une enquête de corruption, pertinent pour la conformité anti-fraude et les risques de gouvernance d'entreprise."
     }
   ],
-  "last_update": "2026-05-26T10:32:05.245405+00:00",
+  "last_update": "2026-05-26T14:45:27.150469+00:00",
   "last_updated": "2026-05-26T08:30:47.714795+00:00",
   "last_fetch": "2026-05-23T19:01:19.700241+00:00"
 }
