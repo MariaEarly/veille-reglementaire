@@ -1444,7 +1444,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal du terrorisme par une entreprise, violation majeure des normes de conformité et de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de terrorisme par une entreprise, violation majeure des obligations de conformité et de lutte contre le blanchiment."
     },
     {
       "hash": "dae28164bded11c9",
@@ -1918,7 +1918,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5183582fa28981d7",
@@ -1936,7 +1936,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6c0133e35a3dbcdf",
@@ -2239,7 +2239,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde la réglementation MiCA sur les cryptoactifs et les risques de stabilité financière liés aux stablecoins."
+      "ai_summary": "Les stablecoins et la réglementation MiCA relèvent directement de la conformité financière et des crypto-actifs."
     },
     {
       "hash": "3784e8b44510d6e7",
@@ -3858,7 +3858,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "614236935889",
@@ -3894,7 +3894,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès public aux informations sur les bénéficiaires réels des mandats fiduciaires, obligation clé de la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès public aux informations sur les bénéficiaires réels, élément clé de la lutte anti-blanchiment."
     },
     {
       "hash": "2eaef893c3cc9348",
@@ -4809,6 +4809,24 @@
       "ai_summary": "L'article concerne le moteur de recherche de l'ACPR, autorité de régulation bancaire et d'assurance en charge de la conformité prudentielle."
     },
     {
+      "hash": "3e1152ce8f0cc50a",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Trump voulait lourdement sanctionner le Mexique avec des droits de douane de 25%: pourtant un an après, le pays annonce le plus gros excédent commercial de son Histoire à 4,5 milliards de dollars",
+      "url": "https://www.bfmtv.com/economie/international/trump-voulait-lourdement-sanctionner-le-mexique-avec-des-droits-de-douane-de-25-pourtant-un-an-apres-le-pays-annonce-le-plus-gros-excedent-commercial-de-son-histoire-a-4-5-milliards-de-dollars_AV-202605250631.html",
+      "author": "",
+      "published": "2026-05-25T15:54:59",
+      "summary": "Le Mexique a exporté pour 72 milliards de dollars depuis le début de l'année, un chiffre en hausse de 32,6% sur un an. Le pays a même battu son record d'exportations, grâce à ses bonnes relations commerciales avec les États-Unis.",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: états-unis | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "f0d752be142ac046",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -5256,7 +5274,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f16b99be5465",
@@ -5347,6 +5365,24 @@
       "ai_summary": "Cet article concerne les risques de sanctions liées aux raffineries chinoises, relevant de la conformité réglementaire."
     },
     {
+      "hash": "b1d44e487e04e226",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Une crise sanitaire inédite se dresse devant Cuba",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/video-une-crise-sanitaire-inedite-se-dresse-devant-cuba_VN-202605250732.html",
+      "author": "",
+      "published": "2026-05-25T17:31:24",
+      "summary": "L'embargo pétrolier autour de Cuba dure depuis des mois, et l'île semble être à bout de souffle. Donald Trump, bien qu'enlisé au Moyen-Orient avec la guerre en Iran, est toujours aussi menaçant et ne cesse de mettre la pression sur Cuba. Dans sa chronique internationale, Mathieu Jolivet revient sur la situation à laquelle doivent faire face ses habitants, confrontés à des dangers sanitaires qui deviennent problématiques.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: embargo | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "3e492d75ff4157fb",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -5380,7 +5416,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "78e35eba423f4e8e",
@@ -6082,7 +6118,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "58381a9a1a13c826",
@@ -6934,7 +6970,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9a5aa01e7399",
@@ -7197,7 +7233,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "29db0b16b6bf2f0f",
@@ -7341,7 +7377,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "be47d5842976144c",
@@ -7466,7 +7502,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6e46cfd926972bea",
@@ -7610,7 +7646,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8226ed514ef7ddc2",
@@ -9261,7 +9297,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "74824b3e1227c94b",
@@ -9369,7 +9405,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7db753e60572e3f1",
@@ -9390,7 +9426,7 @@
       "ai_summary": "Cet article concerne un décès lors d'une enquête de corruption, pertinent pour la conformité anti-fraude et les risques de gouvernance d'entreprise."
     }
   ],
-  "last_update": "2026-05-25T20:07:04.931189+00:00",
+  "last_update": "2026-05-26T02:12:59.530554+00:00",
   "last_updated": "2026-05-23T19:01:19.700241+00:00",
   "last_fetch": "2026-05-23T19:01:19.700241+00:00"
 }
