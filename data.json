@@ -1156,7 +1156,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre le financement du terrorisme, un domaine clé de la conformité AML/CFT."
     },
     {
       "hash": "32297d423e938fe8",
@@ -1480,7 +1480,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de violations graves : financement du terrorisme, blanchiment de capitaux et défaillances des contrôles de conformité d'une grande entreprise."
+      "ai_summary": "L'article traite de la conformité financière car il concerne le non-respect des sanctions financières internationales et des obligations de lutte contre le financement du terrorisme."
     },
     {
       "hash": "dae28164bded11c9",
@@ -1499,23 +1499,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'ACPR se conforme aux directives de l'ABE sur l'analyse de scénarios environnementaux, relevant de la conformité réglementaire bancaire."
-    },
-    {
-      "hash": "1ed727973582",
-      "source_name": "ACPR - Communiqués",
-      "source_type": "scrape",
-      "category": "autorite_fr",
-      "title": "La Banque de France et l'ACPR mettent en garde le public contre un risque de fraude avec usurpation de leur identité et de celle de leurs dirigeants",
-      "url": "https://acpr.banque-france.fr/fr/communiques-de-presse/la-banque-de-france-et-lacpr-mettent-en-garde-le-public-contre-un-risque-de-fraude-avec-usurpation",
-      "author": "",
-      "published": "2026-04-27T00:00:00+00:00",
-      "summary": "La Banque de France et l'ACPR mettent en garde le public contre un risque de fraude avec usurpation de leur identité et de celle de leurs dirigeants",
-      "score": 70,
-      "doc_type": "AUTRE",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre la fraude et l'usurpation d'identité, risques majeurs de conformité pour les institutions financières."
     },
     {
       "hash": "a5b267587d52",
@@ -1630,7 +1613,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "0b68c8e99dab81dd",
+      "source_name": "Ministère de la Justice (CJIP)",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Création d’une procédure de plaider-coupable criminel : la chancellerie organise une audience fictive",
+      "url": "https://www.justice.gouv.fr/actualites/espace-presse/creation-dune-procedure-plaider-coupable-criminel-chancellerie-organise-audience-0",
+      "author": "ROMAN Julien",
+      "published": "2026-05-26T08:18:03",
+      "summary": "Création d’une procédure de plaider-coupable criminel : la chancellerie organise une audience fictive\nROMAN Julien\nmar 26/05/2026 - 10:18\n\n2 minutes\n\n            Aujourd’hui près de 6 000 affaires criminelles sont en attente de jugement. Certaines victimes doivent attendre jusqu’à huit ans avant qu’un procès criminel ne se tienne. Ces délais retardent la reconstruction des victimes et décrédibilisent la sanction pénale. \n\n            \n\n  \n\n\n  \n        C’est pourquoi Gérald DARMANIN, garde des Sc",
+      "score": 67,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "bbb464eea879c501",
@@ -1972,7 +1973,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision de l'IA en finance et de l'implémentation de l'AI Act dans le secteur bancaire."
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur la formation à la régulation et supervision de l'IA dans le secteur bancaire."
     },
     {
       "hash": "6c0133e35a3dbcdf",
@@ -2060,7 +2061,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il illustre les risques de sanctions pénales liées au non-respect des obligations de lutte contre le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de violations graves des règles anti-blanchiment et de sanctions financières internationales."
     },
     {
       "hash": "a070010eb649c4a3",
@@ -2115,24 +2116,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite des défaillances systémiques des programmes de conformité dans le secteur santé face aux réclamations frauduleuses."
-    },
-    {
-      "hash": "252ec67c613cec8b",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Vue PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hZ0hCTTd4T3ZVdEVqU1FvRFB4MGlzcDA0NDc0Ymx1SXQtTmNtUVBBOHl2d3k2ODVVbDhCYk9QRk1sY1JjS19LS1lpR0xLcUFIejNfSHdvM1JUb292aGdTdnBZZHdTQQ?oc=5",
-      "author": "",
-      "published": "2026-05-24T17:57:56",
-      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
-      "score": 60,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5caa7f5f80dabd03",
@@ -2564,7 +2547,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "dc0fa8bd5a8cdc66",
@@ -2582,7 +2565,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "186e20f378eb",
@@ -3132,7 +3115,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'enquêtes pénales sur une fraude aux aides agricoles européennes."
     },
     {
       "hash": "cdb14ce4ec0826b7",
@@ -3150,7 +3133,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La Finlande poursuit une entreprise pour violation des sanctions contre la Russie via des déclarations fausses et des réseaux commerciaux opaques."
     },
     {
       "hash": "20e5a563fbc03102",
@@ -3168,7 +3151,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "99d225a320db5304",
@@ -4020,7 +4003,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "614236935889",
@@ -4056,7 +4039,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès à l'information sur les bénéficiaires réels des trusts, requirement clé de la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès public aux informations sur les bénéficiaires réels des trusts, obligation clé de la lutte anti-blanchiment."
     },
     {
       "hash": "2eaef893c3cc9348",
@@ -5418,7 +5401,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f16b99be5465",
@@ -5524,7 +5507,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions commerciales et leur contournement par Huawei, relevant de la conformité réglementaire et des risques de non-respect des embargos."
     },
     {
       "hash": "3e492d75ff4157fb",
@@ -7113,7 +7096,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7b2d123eb18cef01",
@@ -7131,7 +7114,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9a5aa01e7399",
@@ -7394,7 +7377,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "29db0b16b6bf2f0f",
@@ -7466,7 +7449,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les banques européennes adaptent leurs politiques pour gérer les risques climatiques et environnementaux, enjeu clé de conformité réglementaire."
     },
     {
       "hash": "5eed379c8bd452da",
@@ -7663,7 +7646,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6e46cfd926972bea",
@@ -7807,7 +7790,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8226ed514ef7ddc2",
@@ -8393,23 +8376,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les sanctions restrictives de l'UE contre la Russie, relevant de la conformité aux régimes de sanctions internationales."
-    },
-    {
-      "hash": "3e031334cec7",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Myanmar: EU restrictive measures extended until April 2027",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/04/27/myanmar-eu-restrictive-measures-extended-until-april-2027/",
-      "author": "",
-      "published": "2026-04-27T00:00:00+00:00",
-      "summary": "EU extends restrictive measures against Myanmar until April 2027.",
-      "score": 12,
-      "doc_type": "PUBLICATION",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les mesures restrictives de l'UE envers la Birmanie, relevant de la conformité sanctions et export control."
     },
     {
       "hash": "1e683f2aa9bb22ee",
@@ -9458,7 +9424,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "74824b3e1227c94b",
@@ -9551,24 +9517,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites en corruption internationale et de versements illégaux à des agents publics."
     },
     {
-      "hash": "0bc6608e24219954",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "China charges former head of state-owned airline with bribery",
-      "url": "https://globalinvestigationsreview.com/article/china-charges-former-head-of-state-owned-airline-bribery",
-      "author": "Grace Propheta",
-      "published": "2026-05-08T11:13:45",
-      "summary": "",
-      "score": 1,
-      "score_breakdown": "+3 Presse | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "7db753e60572e3f1",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -9587,7 +9535,7 @@
       "ai_summary": "Cet article concerne un décès lors d'une enquête de corruption, pertinent pour la conformité anti-fraude et les risques de gouvernance d'entreprise."
     }
   ],
-  "last_update": "2026-05-26T20:28:35.756242+00:00",
+  "last_update": "2026-05-27T02:33:31.487334+00:00",
   "last_updated": "2026-05-26T08:30:47.714795+00:00",
   "last_fetch": "2026-05-23T19:01:19.700241+00:00"
 }
