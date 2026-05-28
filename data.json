@@ -565,6 +565,24 @@
   ],
   "items": [
     {
+      "hash": "c48b923b703a2c1f",
+      "source_name": "CNIL",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Données de santé : sanction de 5 millions d’euros à l’encontre de la société IQVIA",
+      "url": "https://www.cnil.fr/fr/donnees-sante-sanction-5-millions-iqvia",
+      "author": "CNIL",
+      "published": "2026-05-28T12:00:00",
+      "summary": "Le 26 mai 2026, la société IQVIA OPERATIONS FRANCE a été sanctionnée d’une amende de 5&amp;nbsp;millions d’euros, notamment pour non-respect des garanties visant à limiter les risques pour les personnes dans le cadre de la gestion d’entrepôts de données de santé.",
+      "score": 100,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: risque | +25 Source FR | +20 Géo FR: france | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "La CNIL sanctionne IQVIA pour défaut de conformité dans la gestion des données de santé, relevant de la conformité réglementaire."
+    },
+    {
       "hash": "067f26f73ba10b64",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -1066,7 +1084,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet accord de coopération financière entre la France et le Monténégro concerne la conformité dans les relations financières internationales et les engagements budgétaires transfrontaliers."
     },
     {
       "hash": "3cb6c2f243259bd7",
@@ -1390,7 +1408,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement illégal de groupes terroristes par une entreprise et ses dirigeants, violation majeure des règles de conformité."
+      "ai_summary": "L'ex-PDG de Lafarge conteste sa condamnation pour financement du terrorisme via des versements à des groupes jihadistes, violation majeure de conformité financière et sanctions internationales."
     },
     {
       "hash": "dae28164bded11c9",
@@ -1523,7 +1541,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7017aea2788b466f",
@@ -1541,7 +1559,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Ce décret concerne la conformité financière car il règlemente la fin de délégation d'un procureur financier aux chambres régionales des comptes."
     },
     {
       "hash": "9976b98d01363488",
@@ -1559,7 +1577,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Ce décret désigne un procureur financier responsable du contrôle de conformité des finances publiques auprès d'une chambre régionale des comptes."
     },
     {
       "hash": "8339cbd6b8b60f19",
@@ -1577,25 +1595,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "6a6e826b649c5ad1",
-      "source_name": "PNF (Parquet National Financier)",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Lors du déplacement du garde des Sceaux Gerald Darmanin en Algérie ce…",
-      "url": "https://social.numerique.gouv.fr/@pnf/116640697458238932",
-      "author": "",
-      "published": "2026-05-26T11:43:18",
-      "summary": "Lors du déplacement du garde des Sceaux Gerald Darmanin en Algérie ce lundi 18 mai, le procureur national financier Pascal Prache était présent dans la délégation française.A cette occasion, des échanges particulièrement fructueux ont eu lieu avec les autorités judiciaires algériennes, notamment sur la question de l’exécution des décisions de confiscation de biens mal acquis. Ces échanges permettent également un renforcement de la coopération pénale entre les deux pays.",
-      "score": 67,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet arrêté délègue le pouvoir de prononcer des sanctions disciplinaires aux agents des douanes, relevant de la conformité réglementaire et de la gouvernance administrative."
     },
     {
       "hash": "bbb464eea879c501",
@@ -1904,24 +1904,6 @@
       "ai_summary": "Cet article concerne la coordination des sanctions de l'UE, un élément clé de la conformité financière internationale."
     },
     {
-      "hash": "f73ab843afe98e3f",
-      "source_name": "EBA - News",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "The EBA updates list of correlated currencies",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-updates-list-correlated-currencies-4",
-      "author": "jana.jaklic@eba.europa.eu",
-      "published": "2026-04-28T08:12:42",
-      "summary": "The European Banking Authority (EBA) published today the 2026 update of the list of closely correlated currencies, which is used for the calculation of capital requirements for foreign exchange risk under the standardised approach. The update has been carried out in line with the methodology and procedure set out in the applicable Implementing Technical Standards (ITS). The revised list has been submitted to the European Commission for endorsement.",
-      "score": 67,
-      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: risk, bank | +15 Source EU | +10 Géo EU: european commission, eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des exigences de capital pour le risque de change réglementées par l'EBA."
-    },
-    {
       "hash": "bc7b29dee9671ed6",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -2025,7 +2007,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'un manquement grave aux obligations de conformité anti-blanchiment et de lutte contre le financement du terrorisme d'une grande entreprise."
+      "ai_summary": "Cet article concerne la compliance car il illustre un cas majeur de violation de conformité en matière de sanctions financières et de lutte contre le financement du terrorisme."
     },
     {
       "hash": "a070010eb649c4a3",
@@ -2258,7 +2240,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite des défaillances de gouvernance d'entreprise ayant conduit à des fraudes massives, directement liées à la conformité financière et au contrôle interne."
+      "ai_summary": "Cet article concerne la conformité financière car il analyse les défaillances de gouvernance d'entreprise ayant conduit à des fraudes massives."
     },
     {
       "hash": "93194b629c4ed9b2",
@@ -2514,24 +2496,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la mise à jour des exigences de capital pour le risque de change bancaire."
     },
     {
-      "hash": "5183582fa28981d7",
-      "source_name": "JORF - Bancaire",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Délibération n° 2026-050 du 19 mars 2026 portant homologation d'une méthodologie de référence relative aux traitements de données à caractère personnel mis en œuvre dans le cadre des recherches dans le domaine de la santé nécessitant le recueil du consentement de la personne concernée en vue de la participation à la recherche (MR-001) et abrogeant la délibération n° 2018-153",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054125924",
-      "author": "Commission nationale de l'informatique et des libertés",
-      "published": "2026-05-23T00:00:00",
-      "summary": "Article Après avoir entendu le rapport de Mme Marie Zins et M. Fabien Tarissan, commissaires, et les observations de M. Damien Milic, commissaire du Gouvernement,Formule les observations suivantes :Certains traitements de données à caractère personnel dans le domaine de la santé sont soumis à un régime de formalités préalables auprès de la CNIL. Ces formalités prennent la forme, par principe, d'une déclaration de conformité à un référentiel homologué par la CNIL ou, par exception, d'une demande ",
-      "score": 55,
-      "score_breakdown": "+10 mots forts: conformité | +25 Source FR | +20 Géo FR: cnil | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "dc0fa8bd5a8cdc66",
       "source_name": "JORF - Bancaire",
       "source_type": "rss",
@@ -2547,7 +2511,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "5183582fa28981d7",
+      "source_name": "JORF - Bancaire",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Délibération n° 2026-050 du 19 mars 2026 portant homologation d'une méthodologie de référence relative aux traitements de données à caractère personnel mis en œuvre dans le cadre des recherches dans le domaine de la santé nécessitant le recueil du consentement de la personne concernée en vue de la participation à la recherche (MR-001) et abrogeant la délibération n° 2018-153",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054125924",
+      "author": "Commission nationale de l'informatique et des libertés",
+      "published": "2026-05-23T00:00:00",
+      "summary": "Article Après avoir entendu le rapport de Mme Marie Zins et M. Fabien Tarissan, commissaires, et les observations de M. Damien Milic, commissaire du Gouvernement,Formule les observations suivantes :Certains traitements de données à caractère personnel dans le domaine de la santé sont soumis à un régime de formalités préalables auprès de la CNIL. Ces formalités prennent la forme, par principe, d'une déclaration de conformité à un référentiel homologué par la CNIL ou, par exception, d'une demande ",
+      "score": 55,
+      "score_breakdown": "+10 mots forts: conformité | +25 Source FR | +20 Géo FR: cnil | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "186e20f378eb",
@@ -2568,6 +2550,24 @@
       "ai_summary": "L'article concerne la lutte contre le financement du terrorisme et de la criminalité organisée, domaines clés de la conformité financière."
     },
     {
+      "hash": "6a6e826b649c5ad1",
+      "source_name": "PNF (Parquet National Financier)",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Lors du déplacement du garde des Sceaux Gerald Darmanin en Algérie ce…",
+      "url": "https://social.numerique.gouv.fr/@pnf/116640697458238932",
+      "author": "",
+      "published": "2026-05-26T11:43:18",
+      "summary": "Lors du déplacement du garde des Sceaux Gerald Darmanin en Algérie ce lundi 18 mai, le procureur national financier Pascal Prache était présent dans la délégation française.A cette occasion, des échanges particulièrement fructueux ont eu lieu avec les autorités judiciaires algériennes, notamment sur la question de l’exécution des décisions de confiscation de biens mal acquis. Ces échanges permettent également un renforcement de la coopération pénale entre les deux pays.",
+      "score": 54,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "0b68c8e99dab81dd",
       "source_name": "Ministère de la Justice (CJIP)",
       "source_type": "rss",
@@ -2583,7 +2583,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b541b90c8814e548",
@@ -3133,7 +3133,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e49f6821fd9d1d3f",
@@ -3781,24 +3781,6 @@
       "ai_summary": "Cet article concerne la conformité financière car le FATF évalue la lutte anti-blanchiment et anti-financement du terrorisme en Italie."
     },
     {
-      "hash": "3f64bfb203bf37ef",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "France fines MoneyGram $1.5m over AML failings",
-      "url": "https://globalinvestigationsreview.com/article/france-fines-moneygram-15m-over-aml-failings",
-      "author": "Grace Propheta",
-      "published": "2026-04-28T09:34:23",
-      "summary": "",
-      "score": 49,
-      "score_breakdown": "+10 mots forts: aml | +3 Presse | +20 Géo FR: france | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La France sanctionne MoneyGram pour manquements à ses obligations de lutte anti-blanchiment de capitaux."
-    },
-    {
       "hash": "2142907aec52d13a",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -4039,7 +4021,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "614236935889",
@@ -4075,7 +4057,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès public aux informations sur les bénéficiaires réels des mandats fiduciaires, obligation clé de la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès à l'information sur les bénéficiaires réels des mandats fiduciaires, élément clé de la lutte anti-blanchiment."
     },
     {
       "hash": "2eaef893c3cc9348",
@@ -4112,6 +4094,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la supervision et régulation du secteur financier face à l'IA, enjeux majeurs de la conformité financière."
+    },
+    {
+      "hash": "21edecd960b9ba77",
+      "source_name": "ESMA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "This could be your next DLT chapter! 🧊 Join #ESMAteam as the distributed ledger technology policy & convergence officer! #ESMAjobs - provide technical expertise on #DigitalFinance & innovation - contribute to work on MiCA, DLT Pilot Regime, and more",
+      "url": "https://x.com/ESMAComms/status/2059922219279458762",
+      "author": "@ESMAComms",
+      "published": "2026-05-28T08:58:00",
+      "summary": "This could be your next DLT chapter!🧊 Join  #ESMAteam as the distributed ledger technology policy & convergence officer!  #ESMAjobs- provide technical expertise on  #DigitalFinance & innovation- contribute to work on MiCA, DLT Pilot Regime, and more shorturl.at/kMU5y— ESMA - EU Securities Markets Regulator 🇪🇺 (@ESMAComms) May 28, 2026",
+      "score": 45,
+      "score_breakdown": "+20 mots forts: mica, esma | +10 Géo EU: esma, mica | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "456eb9c6c0e489ea",
@@ -4951,7 +4951,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f0d752be142ac046",
@@ -5508,7 +5508,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité réglementaire et commerciale des eaux minérales, notamment l'autorisation et la transparence des processus de filtration autorisés."
+      "ai_summary": "Cet article concerne la conformité réglementaire des eaux minérales et le respect des normes de classification de produits naturels."
     },
     {
       "hash": "131b0033ab29a2b4",
@@ -7045,25 +7045,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "7b2d123eb18cef01",
-      "source_name": "JORF - Sanctions",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décision n° 2026-229 du 13 mai 2026 autorisant la société Télé Paese à utiliser une ressource radioélectrique pour l'édition d'un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre, à temps complet et en haute définition dans les zones de L'Ile-Rousse, Calvi, Calenzana et Corte",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054117954",
-      "author": "Autorité de régulation de la communication audiovisuelle et numérique",
-      "published": "2026-05-21T00:00:00",
-      "summary": "Article 1La société Télé Paese est autorisée à utiliser les ressources radioélectriques définies à l'annexe 1 pour l'édition d'un service de télévision à vocation locale diffusé en clair par voie hertzienne terrestre, à temps complet et en haute définition dans les zones de L'Ile-Rousse, Calvi, Calenzana et Corte.Le service est diffusé en haute définition au sens de l'arrêté du 24 décembre 2001 visé ci-dessus.Article 2La durée de l'autorisation est de dix ans à compter du 24 mai 2026.Article 3Le",
-      "score": 25,
-      "score_breakdown": "+25 Source FR | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet arrêté encadre la signature de documents juridiques en matière de commande publique, domaine relevant de la conformité financière et des contrôles internes."
     },
     {
       "hash": "9a5aa01e7399",
@@ -7326,7 +7308,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "29db0b16b6bf2f0f",
@@ -7703,7 +7685,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8226ed514ef7ddc2",
@@ -7774,7 +7756,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "25d52b2e23cd3d1a",
@@ -8080,7 +8062,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0f6df5df6dc65107",
@@ -8905,7 +8887,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de manquements graves à l'éthique et aux règles de conformité dans les enquêtes financières internationales."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "13e339b5bc545069",
@@ -9157,7 +9139,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions financières contre l'Iran et le contrôle du terrorisme, domaines clés de la conformité réglementaire OFAC."
     },
     {
       "hash": "9cc26cc703da65c0",
@@ -9175,7 +9157,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions financières imposées par les États-Unis contre des entités liées à la Cour pénale internationale."
     },
     {
       "hash": "e966f292ad3888b3",
@@ -9391,7 +9373,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la suppression de désignations liées à la Cour pénale internationale par l'OFAC, relevant des sanctions et conformité réglementaire."
     },
     {
       "hash": "29f0b0cd57cd45bc",
@@ -9409,7 +9391,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la récupération d'actifs obtenus via le blanchiment d'argent provenant d'un scandale de corruption."
     },
     {
       "hash": "ece2fee006fef4c8",
@@ -9427,7 +9409,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "74824b3e1227c94b",
@@ -9538,7 +9520,7 @@
       "ai_summary": "Cet article concerne un décès lors d'une enquête de corruption, pertinent pour la conformité anti-fraude et les risques de gouvernance d'entreprise."
     }
   ],
-  "last_update": "2026-05-28T04:48:17.145601+00:00",
+  "last_update": "2026-05-28T09:46:37.176840+00:00",
   "last_updated": "2026-05-26T08:30:47.714795+00:00",
   "last_fetch": "2026-05-23T19:01:19.700241+00:00"
 }
