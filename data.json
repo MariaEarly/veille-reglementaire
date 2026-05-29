@@ -1156,7 +1156,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet accord de coopération financière entre la France et le Monténégro relève de la conformité financière en matière de gouvernance des flux financiers internationaux."
+      "ai_summary": "Cet accord de coopération financière entre la France et le Monténégro concerne la conformité via les obligations de transparence et de gouvernance financière internationale."
     },
     {
       "hash": "3cb6c2f243259bd7",
@@ -1426,7 +1426,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il illustre l'application de mesures antiblanchiment contre des actifs dissimulés appartenant à des oligarques russes sanctionnés."
+      "ai_summary": "La saisie valide la lutte contre le blanchiment d'argent et la dissimulation d'actifs d'oligarques russes, renforçant la conformité antiblanchiment."
     },
     {
       "hash": "8ebc9e084552a2b5",
@@ -1598,6 +1598,24 @@
       "ai_summary": "Cette règle soumet les émetteurs de stablecoins à la loi bancaire américaine contre le blanchiment d'argent, renforçant la conformité financière."
     },
     {
+      "hash": "99e0a253a3f03448",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 24 avril 2026 relatif à l'abandon partiel d'une aide au soutien de la trésorerie consentie à la société LS INDUSTRIE",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054149116",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-05-29T00:00:00",
+      "summary": "Article 1Une remise de deux millions neuf cent mille (2 900 000) euros en principal est accordée à la société LS INDUSTRIE sur le remboursement du prêt n° DOS0179338 d'un montant de quatre millions (4 000 000) euros octroyé au titre de l'aide au soutien de sa trésorerie, imputée sur le compte de concours financiers « Prêts et avances à des particuliers ou à des organismes privés ».Article 2Le présent arrêté sera publié au Journal officiel de la République française.",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "7017aea2788b466f",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1650,24 +1668,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet arrêté concerne la conformité financière car il organise les pouvoirs de sanction en matière douanière et droits indirects."
-    },
-    {
-      "hash": "f82d15aeacab63b5",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décret n° 2026-407 du 27 mai 2026 portant publication de l'accord entre le Gouvernement de la République française et le Gouvernement de la République de Chypre sur la coopération lors des opérations d'évacuation à partir de la région du Moyen-Orient via le territoire de la République de Chypre dans le cadre d'une situation de crise, signé à Paris le 9 septembre 2022 (1)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054144066",
-      "author": "Ministère de l'Europe et des affaires étrangères",
-      "published": "2026-05-28T00:00:00",
-      "summary": "Article 1L'accord entre le Gouvernement de la République française et le Gouvernement de la République de Chypre sur la coopération lors des opérations d'évacuation à partir de la région du Moyen-Orient via le territoire de la République de Chypre dans le cadre d'une situation de crise, signé à Paris le 9 septembre 2022, sera publié au Journal officiel de la République française.Article 2Le Premier ministre et le ministre de l'Europe et des affaires étrangères sont chargés, chacun en ce qui le c",
-      "score": 67,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
-      "doc_type": "DÉCRET",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bbb464eea879c501",
@@ -2097,7 +2097,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de violations graves des règles de lutte contre le financement du terrorisme et de conformité normative."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de violations graves de la conformité en matière de lutte contre le financement du terrorisme et de sanctions internationales."
     },
     {
       "hash": "a070010eb649c4a3",
@@ -2601,7 +2601,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5183582fa28981d7",
@@ -2619,7 +2619,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "186e20f378eb",
@@ -2638,6 +2638,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article concerne la lutte contre le financement du terrorisme et de la criminalité organisée, domaines clés de la conformité financière."
+    },
+    {
+      "hash": "f82d15aeacab63b5",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décret n° 2026-407 du 27 mai 2026 portant publication de l'accord entre le Gouvernement de la République française et le Gouvernement de la République de Chypre sur la coopération lors des opérations d'évacuation à partir de la région du Moyen-Orient via le territoire de la République de Chypre dans le cadre d'une situation de crise, signé à Paris le 9 septembre 2022 (1)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054144066",
+      "author": "Ministère de l'Europe et des affaires étrangères",
+      "published": "2026-05-28T00:00:00",
+      "summary": "Article 1L'accord entre le Gouvernement de la République française et le Gouvernement de la République de Chypre sur la coopération lors des opérations d'évacuation à partir de la région du Moyen-Orient via le territoire de la République de Chypre dans le cadre d'une situation de crise, signé à Paris le 9 septembre 2022, sera publié au Journal officiel de la République française.Article 2Le Premier ministre et le ministre de l'Europe et des affaires étrangères sont chargés, chacun en ce qui le c",
+      "score": 54,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
+      "doc_type": "DÉCRET",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "6a6e826b649c5ad1",
@@ -2709,7 +2727,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de délit d'initié, de fraude et de blanchiment d'argent."
     },
     {
       "hash": "e42c8e3d01b65fc3",
@@ -4039,7 +4057,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "614236935889",
@@ -4075,7 +4093,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès public aux informations sur les bénéficiaires réels des fiducies, obligation clé en matière de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès public aux informations sur les bénéficiaires réels des mandats fiduciaires, essentiel à la lutte anti-blanchiment."
     },
     {
       "hash": "2eaef893c3cc9348",
@@ -4969,7 +4987,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "20e5a563fbc03102",
@@ -4987,7 +5005,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f0d752be142ac046",
@@ -5510,6 +5528,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des mesures anti-blanchiment et de lutte contre le financement du terrorisme."
+    },
+    {
+      "hash": "37e2bcf26abcf79a",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Bavaria wants better incentives for corporate cooperation in Germany",
+      "url": "https://globalinvestigationsreview.com/article/bavaria-wants-better-incentives-corporate-cooperation-in-germany",
+      "author": "Ana de Liz",
+      "published": "2026-05-28T14:48:07",
+      "summary": "The Bavarian Ministry of Justice wants to amend a bill that would introduce corporate penalty calculation guidelines for German prosecutors following a roundtable with stakeholders including senior compliance officers at BMW and Siemens.",
+      "score": 34,
+      "score_breakdown": "+10 mots forts: compliance | +3 Presse | +10 Géo EU: germany | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "0d8acd3782346a19",
@@ -6657,40 +6693,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de crimes financiers (fraude et extorsion) via des attaques de rançongiciels."
     },
     {
-      "hash": "f8e97ad9302e",
-      "source_name": "UN Security Council - Sanctions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Security Council Sanctions Committee Established Pursuant to Resolution 1988 (2011) Amends 17 Names on Its Sanctions List",
-      "url": "https://press.un.org/en/2026/sc16352",
-      "author": "",
-      "published": "2026-04-29T00:00:00Z",
-      "summary": "",
-      "score": 30,
-      "doc_type": "",
-      "action_class": "",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions financières imposées par l'ONU qui nécessitent conformité bancaire et gel d'actifs."
-    },
-    {
-      "hash": "3ba9102dd2dd",
-      "source_name": "DOJ - Criminal Division",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Coordinated Takedown of Scam Centers Leads to at Least 276 Arrests; Alleged Managers and Recruiters Charged in San Diego",
-      "url": "https://www.justice.gov/criminal/press-releases",
-      "author": "",
-      "published": "2026-04-29T00:00:00+00:00",
-      "summary": "Unprecedented cooperation between the FBI, Dubai Police Department, and Chinese Ministry of Public Security has resulted in the arrest of at least 276 individuals and the dismantlement of at least nine scam centers used for cryptocurrency investment fraud schemes.",
-      "score": 30,
-      "doc_type": "AUTRE",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de fraudes aux cryptomonnaies et de lutte contre le blanchiment d'argent."
-    },
-    {
       "hash": "3409f6073ceaa9f8",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -6706,7 +6708,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'évolution de la reporting réglementaire bancaire supervisée par l'EBA."
     },
     {
       "hash": "5c20cf2e0c92b3d9",
@@ -6832,7 +6834,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde la commercialisation de produits cryptomonnaies et les obligations de transparence tarifaire et informationnelle des prestataires."
+      "ai_summary": "Les cryptomonnaies et leurs modes de conservation soulèvent des enjeux de conformité réglementaire, de gestion des risques financiers et de protection des consommateurs dans un cadre légal à surveiller."
     },
     {
       "hash": "e8dd087852ab6b9b",
@@ -6850,7 +6852,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Norion Bank a été sanctionnée pour défaillances en matière de lutte contre le blanchiment d'argent, domaine clé de la conformité financière."
     },
     {
       "hash": "a5cf79bb6bd8402d",
@@ -7066,7 +7068,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté établit une délégation de signature pour les actes relatifs à la commande publique, domaine soumis à des règles de conformité financière et de contrôle."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "09ff82b8f1644453",
@@ -7312,7 +7314,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "29db0b16b6bf2f0f",
@@ -7532,23 +7534,6 @@
       "ai_summary": "Le Wolfsberg Group émet des directives sur les services bancaires aux émetteurs de stablecoins, encadrant les risques de conformité."
     },
     {
-      "hash": "ba771a20260f",
-      "source_name": "Egmont Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "FATF, Egmont Group, INTERPOL and UNODC call for stronger co-operation between countries as they launch handbook to fight ML",
-      "url": "https://egmontgroup.org/news/fatf-egmont-group-interpol-and-unodc-call-for-stronger-co-operation-between-countries-as-they-launch-handbook-to-fight-money-laundering/",
-      "author": "",
-      "published": "2026-04-29T00:00:00Z",
-      "summary": "",
-      "score": 20,
-      "doc_type": "",
-      "action_class": "",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre le blanchiment de capitaux et appelle à une meilleure coopération entre pays."
-    },
-    {
       "hash": "6e46cfd926972bea",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -7672,7 +7657,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8226ed514ef7ddc2",
@@ -7743,7 +7728,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "25d52b2e23cd3d1a",
@@ -8049,7 +8034,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0f6df5df6dc65107",
@@ -8315,6 +8300,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il porte sur les sanctions contre l'Iran et les directives de l'OFAC."
     },
     {
+      "hash": "58d2fef7d6b77edf",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "SEC gag rule repeal may heighten corporate risk as settlements grow more detailed, lawyers say",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/sec-gag-rule-repeal-may-heighten-corporate-risk-settlements-grow-more-detailed-lawyers-say",
+      "author": "Dan Novak",
+      "published": "2026-05-28T17:58:23",
+      "summary": "The agency could seek to beef up settlement findings to strengthen the public record, leaving companies vulnerable to more investigations or shareholder lawsuits, particularly in cross-border corruption cases, said Neil Smith of K&amp;L Gates.",
+      "score": 12,
+      "score_breakdown": "+5 mots moyens: risk | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "6ffc20f5c236257b",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -8330,7 +8333,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il analyse les signalements internes et externes d'irrégularités dans les banques, éléments clés des dispositifs de conformité."
     },
     {
       "hash": "d671d770e44f8c76",
@@ -8756,57 +8759,6 @@
       "ai_summary": "La gouvernance du Wolfsberg Group, qui établit les normes de conformité en matière de prévention de la criminalité financière."
     },
     {
-      "hash": "2515a0febbea",
-      "source_name": "Egmont Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Increasing FIU Effectiveness in the Asset Recovery Process: Phase II",
-      "url": "https://egmontgroup.org/news/increasing-fiu-effectiveness-in-the-asset-recovery-process-phase-ii/",
-      "author": "",
-      "published": "2026-04-29T00:00:00Z",
-      "summary": "",
-      "score": 10,
-      "doc_type": "",
-      "action_class": "",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite de l'efficacité des cellules FIU dans la récupération d'actifs, relevant de la conformité anti-blanchiment."
-    },
-    {
-      "hash": "78fa68e747b3",
-      "source_name": "Egmont Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "The Role of FIUs in Fighting Environmental Crimes",
-      "url": "https://egmontgroup.org/news/the-role-of-fius-in-fighting-environmental-crimes/",
-      "author": "",
-      "published": "2026-04-29T00:00:00Z",
-      "summary": "",
-      "score": 10,
-      "doc_type": "",
-      "action_class": "",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre la criminalité environnementale par les cellules de renseignement financier, relevant de la conformité AML/CFT."
-    },
-    {
-      "hash": "a90b025a52cb",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Issuance of Amended Russia-related General License and Frequently Asked Questions",
-      "url": "https://ofac.treasury.gov/recent-actions/20260429",
-      "author": "",
-      "published": "2026-04-29T00:00:00+00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": "publication",
-      "action_class": "monitor",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des licences générales relatives aux sanctions contre la Russie par l'OFAC."
-    },
-    {
       "hash": "2898691743a83517",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -9056,7 +9008,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions financières imposées par les États-Unis à l'Iran et la Russie, relevant de la conformité réglementaire en matière de lutte contre le financement illicite."
     },
     {
       "hash": "2981fb90ee3b7253",
@@ -9326,7 +9278,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "29f0b0cd57cd45bc",
@@ -9345,24 +9297,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite du recouvrement d'actifs acquis avec des fonds provenant d'un détournement de corruption."
-    },
-    {
-      "hash": "ece2fee006fef4c8",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "US judge signs off on Fifa bribery dismissal",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/us-judge-signs-fifa-bribery-dismissal",
-      "author": "Austin Cope",
-      "published": "2026-05-27T19:51:55",
-      "summary": "“As a practical matter, I have very limited authority in terms of denying a motion to dismiss,” US District Judge Pamela Chen said in a ruling from the bench.",
-      "score": 4,
-      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "74824b3e1227c94b",
@@ -9419,6 +9353,24 @@
       "ai_summary": "Le départ d'un vétéran de l'application réglementaire à la SEC concerne indirectement la conformité financière par ses responsabilités."
     },
     {
+      "hash": "ece2fee006fef4c8",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "US judge signs off on Fifa bribery dismissal",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/us-judge-signs-fifa-bribery-dismissal",
+      "author": "Austin Cope",
+      "published": "2026-05-27T19:51:55",
+      "summary": "“As a practical matter, I have very limited authority in terms of denying a motion to dismiss,” US District Judge Pamela Chen said in a ruling from the bench.",
+      "score": 3,
+      "score_breakdown": "+3 Presse | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "5db889015bd7271e",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -9455,7 +9407,7 @@
       "ai_summary": "Cet article concerne un décès lors d'une enquête de corruption, pertinent pour la conformité anti-fraude et les risques de gouvernance d'entreprise."
     }
   ],
-  "last_update": "2026-05-28T20:40:45.027661+00:00",
+  "last_update": "2026-05-29T02:11:19.309412+00:00",
   "last_updated": "2026-05-26T08:30:47.714795+00:00",
   "last_fetch": "2026-05-23T19:01:19.700241+00:00"
 }
