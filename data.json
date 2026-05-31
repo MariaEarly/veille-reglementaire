@@ -868,7 +868,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Ce décret concerne la conformité financière car il régit le transfert de propriété et le nantissement d'actifs numériques, matières relevant de la réglementation prudentielle et du droit des valeurs mobilières."
     },
     {
       "hash": "824c0ad86db65b86",
@@ -886,7 +886,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet arrêté applique la lutte contre le financement du terrorisme et le blanchiment d'argent via des mesures de gel des fonds."
     },
     {
       "hash": "862e2df6c03891c9",
@@ -1898,7 +1898,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6c0133e35a3dbcdf",
@@ -1986,7 +1986,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la compliance car il traite de violations graves de conformité : financement du terrorisme, violations des sanctions internationales et défaillances des contrôles internes."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de violations graves des règles de lutte contre le financement du terrorisme et de sanctions internationales."
     },
     {
       "hash": "a070010eb649c4a3",
@@ -2453,7 +2453,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des nouvelles directives fédérales sur l'anti-blanchiment de capitaux, l'identification des clients et le contrôle des risques."
+      "ai_summary": "Cet article concerne la conformité financière car il aborde les changements réglementaires en matière de lutte anti-blanchiment et d'identification client."
     },
     {
       "hash": "c3bfff48489663fb",
@@ -3241,7 +3241,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "614236935889",
@@ -3277,7 +3277,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès aux informations sur les bénéficiaires réels des trusts, élément clé de la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès aux informations sur les bénéficiaires effectifs des fiducies, élément clé de la lutte anti-blanchiment."
     },
     {
       "hash": "2eaef893c3cc9348",
@@ -4970,6 +4970,42 @@
       "ai_summary": "Cet article concerne la conformité financière car il présente un tableau de bord de lutte contre la criminalité financière à Singapour."
     },
     {
+      "hash": "7d93eb8d67a14388",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, 6ème chambre jugeant seule, 29 mai 2026, 496047",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260529-496047",
+      "author": "6ème chambre jugeant seule",
+      "published": "2026-05-29T12:00:00",
+      "summary": "Vu la procédure suivante :                  Les communes de Briffons et de Saint-Germain-près-Herment et la région Auvergne-Rhône-Alpes ont demandé à la cour administrative d'appel de Lyon d'annuler l'arrêté du 16 janvier 2023 par lequel le préfet du Puy-de-Dôme a délivré à la société CPENR de Lastic une autorisation d'exploiter une installation terrestre de production d'électricité à partir de l'énergie mécanique du vent comprenant quatre aérogénérateurs et deux postes de livraison sur le terri",
+      "score": 30,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "f76516c7d24f973a",
+      "source_name": "Cass. - Blanchiment",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour Administrative d'Appel de Nancy, 1ère chambre - formation à 3, 28 mai 2026, 22NC02290",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDENANCY-20260528-22NC02290",
+      "author": "1ère chambre - formation à 3",
+      "published": "2026-05-28T12:00:00",
+      "summary": "Vu la procédure suivante :           Par une requête et des mémoires, enregistrés le 2 septembre 2022, le 6 juin 2023 et le 31 mai 2024 la société Centrale éolienne la Gohélière, représentées par Me Elfassi, demande à la cour dans le dernier état de ses écritures :           1° d'annuler l'arrêté du préfet des Ardennes du 4 juillet 2022 refusant de lui accorder une autorisation environnementale pour exploiter un parc éolien de cinq aérogénérateurs et deux postes de livraison sur le territoire de",
+      "score": 30,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "58381a9a1a13c826",
       "source_name": "Cass. - Fraude",
       "source_type": "rss",
@@ -5319,27 +5355,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment d'argent et de la lutte contre la criminalité financière organisée."
-    },
-    {
-      "hash": "dc92cfa084c1",
-      "source_name": "US Treasury - Sanctions Press",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Treasury Sanctions Former Democratic Republic of the Congo President for Ties to Armed Conflict",
-      "url": "https://home.treasury.gov/news/press-releases/sb0480",
-      "author": "",
-      "published": "2026-05-01T06:06:12.686051+00:00",
-      "summary": "Treasury Sanctions Former Democratic Republic of the Congo President for Ties to Armed Conflict",
-      "score": 30,
-      "score_breakdown": {
-        "critical:sanction": 20,
-        "source:autorite_intl": 10
-      },
-      "doc_type": "press_release",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les sanctions du Trésor américain contre d'anciens dirigeants constituent une mesure de conformité aux régimes de sanctions internationales."
     },
     {
       "hash": "3409f6073ceaa9f8",
@@ -5759,67 +5774,22 @@
       "early_brief": false
     },
     {
-      "hash": "a830a7e03c31",
-      "source_name": "Wolfsberg Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "The Wolfsberg Group elects a new Co-chairEmma Molvidson, the Global Head of Financial Crime Prevention for UBS, has been elected as the new Co-Chair of the Wolfsberg Group, effective from January 1, 2025. Emma became the Global Head of Financial Crime Prevention at UBS in April 2023. She has held a variety of senior management roles at UBS over the past 14 years in Group Legal, the Investment Bank as well as leading Compliance & Investigations.",
-      "url": "https://wolfsberg-group.org/news/the-wolfsberg-group-elects-a-new-co-chair",
-      "author": "",
-      "published": "2026-05-01T06:05:18.385747+00:00",
-      "summary": "The Wolfsberg Group elects a new Co-chairEmma Molvidson, the Global Head of Financial Crime Prevention for UBS, has been elected as the new Co-Chair of the Wolfsberg Group, effective from January 1, 2025. Emma became the Global Head of Financial Crime Prevention at UBS in April 2023. She has held a variety of senior management roles at UBS over the past 14 years in Group Legal, the Investment Bank as well as leading Compliance & Investigations.",
-      "score": 25,
-      "score_breakdown": {
-        "high:compliance": 10,
-        "medium:bank": 5,
-        "source:autorite_intl": 10
-      },
-      "doc_type": "article",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Emma Molvidson, experte en prévention de la criminalité financière, est élue Co-présidente du groupe Wolfsberg en 2025."
-    },
-    {
-      "hash": "6668348cdb7f",
-      "source_name": "Wolfsberg Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "The Wolfsberg Group issues guidance on the provision of banking services to stablecoin issuersBanks continue to be pulled in every direction on how to manage the financial crime risks associated with digital assets. When it comes to stablecoins, the advent of regulation in critical jurisdictions across the world to normalise their use has created the expectation that the path will improve for stablecoin issuers as they seek access to traditional banking. \nToday the Wolfsberg Group addresses that tension directly with our Guidance on the Provision of Banking Services to Fiat-backed Stablecoin Issuers.",
-      "url": "https://wolfsberg-group.org/news/guidance-on-the-provision-of-banking-services-to-fiat-backed-stablecoin-issuers",
-      "author": "",
-      "published": "2026-05-01T06:05:18.385677+00:00",
-      "summary": "The Wolfsberg Group issues guidance on the provision of banking services to stablecoin issuersBanks continue to be pulled in every direction on how to manage the financial crime risks associated with digital assets. When it comes to stablecoins, the advent of regulation in critical jurisdictions across the world to normalise their use has created the expectation that the path will improve for stablecoin issuers as they seek access to traditional banking. \nToday the Wolfsberg Group addresses that",
-      "score": 25,
-      "score_breakdown": {
-        "medium:risk": 5,
-        "medium:regulation": 5,
-        "medium:bank": 5,
-        "source:autorite_intl": 10
-      },
-      "doc_type": "article",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le Wolfsberg Group émet des recommandations sur les services bancaires aux émetteurs de stablecoins pour gérer les risques de criminalité financière."
-    },
-    {
-      "hash": "a76e031f7616d059",
+      "hash": "401501eebca2646c",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
       "category": "jurisprudence",
-      "title": "France, Conseil d'État, 4ème chambre jugeant seule, 28 mai 2026, 512467",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260528-512467",
-      "author": "4ème chambre jugeant seule",
-      "published": "2026-05-28T12:00:00",
-      "summary": "Vu la procédure suivante :                  Le directeur de l'agence régionale de santé de Provence-Alpes-Côte d'Azur a saisi, en application de l'article L. 4113-14 du code de la santé publique, la chambre disciplinaire de première instance de Provence-Alpes-Côte d'Azur-Corse de l'ordre des chirurgiens-dentistes de griefs faits à Mme A... B.... Par une décision du 29 novembre 2021, la chambre disciplinaire de première instance a interdit à Mme B... d'exercer la profession de chirurgien-dentiste",
+      "title": "France, Conseil d'État, 6ème et 5ème chambres réunies, 29 mai 2026, 500309",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260529-500309",
+      "author": "6ème et 5ème chambres réunies",
+      "published": "2026-05-29T12:00:00",
+      "summary": "La société CHEDD a demandé au tribunal administratif de Pau d'annuler pour excès de pouvoir le troisième alinéa de l'article 2 de l'arrêté du 17 janvier 2020 complémentaire à l'arrêté préfectoral du 11 février 1988 portant autorisation d'exploitation de la chute hydraulique de la centrale de Dognen située sur le gave d'Oloron, par lequel le préfet des Pyrénées-Atlantiques a précisé que le débit maximal dérivé au seuil de la prise d'eau, fixé à 19,5 mètres cubes par seconde m3/s, devait permettre",
       "score": 24,
       "score_breakdown": "+20 Géo FR: france | ×1.2 (<3d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "44fb88d94a37852a",
@@ -5963,7 +5933,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "29db0b16b6bf2f0f",
@@ -6306,7 +6276,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8226ed514ef7ddc2",
@@ -6610,7 +6580,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0f6df5df6dc65107",
@@ -7204,46 +7174,6 @@
       "ai_summary": "Cet article concerne les mesures de conformité aux sanctions financières imposées par les États-Unis contre le Venezuela."
     },
     {
-      "hash": "d4e947c6c873",
-      "source_name": "Wolfsberg Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "2025 Wolfsberg Forum: From strategic alignment to operational gainsThe 25th anniversary Wolfsberg Forum concluded on Friday, May 23, bringing together a select group of 100 leaders from around the world dedicated to disrupting financial crime. The Wolfsberg delegates were joined by public, private and civil society experts from Asia, Africa, the Middle East, Europe and the Americas to focus on resolving the core issues that continue to challenge the financial crime community.",
-      "url": "https://wolfsberg-group.org/news/2025-wolfsberg-forum-from-strategic-alignment-to-operational-gains",
-      "author": "",
-      "published": "2026-05-01T06:05:18.385734+00:00",
-      "summary": "2025 Wolfsberg Forum: From strategic alignment to operational gainsThe 25th anniversary Wolfsberg Forum concluded on Friday, May 23, bringing together a select group of 100 leaders from around the world dedicated to disrupting financial crime. The Wolfsberg delegates were joined by public, private and civil society experts from Asia, Africa, the Middle East, Europe and the Americas to focus on resolving the core issues that continue to challenge the financial crime community.",
-      "score": 10,
-      "score_breakdown": {
-        "source:autorite_intl": 10
-      },
-      "doc_type": "article",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le forum aborde la lutte contre la criminalité financière et l'alignement stratégique, éléments clés de la conformité bancaire et réglementaire."
-    },
-    {
-      "hash": "190de5914d65",
-      "source_name": "Wolfsberg Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "The Wolfsberg Group Celebrates its 25th Anniversary and Welcomes New Management Committee MembersThe Wolfsberg Group is proud to celebrate its 25th anniversary as a leading voice in the global fight against financial crime. The Group convened recently at Wolfsberg, where the organisation was founded, to reflect on the advances made by the Group in the fight against financial crime and the challenges to come.",
-      "url": "https://wolfsberg-group.org/news/the-wolfsberg-group-celebrates-its-25th-anniversary-and-welcomes-new-management-committee-members",
-      "author": "",
-      "published": "2026-05-01T06:05:18.385720+00:00",
-      "summary": "The Wolfsberg Group Celebrates its 25th Anniversary and Welcomes New Management Committee MembersThe Wolfsberg Group is proud to celebrate its 25th anniversary as a leading voice in the global fight against financial crime. The Group convened recently at Wolfsberg, where the organisation was founded, to reflect on the advances made by the Group in the fight against financial crime and the challenges to come.",
-      "score": 10,
-      "score_breakdown": {
-        "source:autorite_intl": 10
-      },
-      "doc_type": "article",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le Wolfsberg Group célèbre ses 25 ans de lutte contre la criminalité financière et accueille de nouveaux membres au comité de direction."
-    },
-    {
       "hash": "2898691743a83517",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -7781,7 +7711,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "533694a26b8fe5df",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Pierre Larrouturou, économiste : « Reconstruire une plus grande justice sociale est le seul moyen pour éviter à nos sociétés d’aller de crise en crise, jusqu’à un possible effondrement »",
+      "url": "https://www.lemonde.fr/idees/article/2026/05/31/pierre-larrouturou-economiste-reconstruire-une-plus-grande-justice-sociale-est-le-seul-moyen-pour-eviter-a-nos-societes-d-aller-de-crise-en-crise-jusqu-a-un-possible-effondrement_6695544_3232.html",
+      "author": "",
+      "published": "2026-05-31T04:30:07",
+      "summary": "Depuis la dérégulation des années 1980, le maintien de la croissance s’est fait par la dette, explique l’économiste dans une tribune au « Monde ». Afin d’éviter que cette fuite en avant ne mène au pire, il soutient la nécessité de faire de l’Europe sociale une réalité, en inventant un impôt européen sur les sociétés et en relançant des négociations sur le temps de travail.",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "29f0b0cd57cd45bc",
@@ -7892,7 +7840,7 @@
       "ai_summary": "Cet article concerne un décès lors d'une enquête de corruption, pertinent pour la conformité anti-fraude et les risques de gouvernance d'entreprise."
     }
   ],
-  "last_update": "2026-05-31T04:57:43.160143+00:00",
+  "last_update": "2026-05-31T08:37:29.724117+00:00",
   "last_updated": "2026-05-26T08:30:47.714795+00:00",
   "last_fetch": "2026-05-23T19:01:19.700241+00:00"
 }
