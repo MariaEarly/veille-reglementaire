@@ -565,6 +565,23 @@
   ],
   "items": [
     {
+      "hash": "84be0d99c075",
+      "source_name": "Conseil de l'UE",
+      "source_type": "scrape",
+      "category": "autorite_eu",
+      "title": "Human rights violations in Russia: EU restrictive measures extended until May 2027",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/26/human-rights-violations-in-russia-eu-restrictive-measures-extended-until-may-2027/",
+      "author": "",
+      "published": "2026-05-26T00:00:00+00:00",
+      "summary": "Le Conseil de l'UE a prolongé d'un an, jusqu'au 28 mai 2027, le cadre de mesures restrictives (gel des avoirs et interdiction d'entrée) ciblant les responsables de violations graves des droits humains en Russie. Le régime de sanctions s'applique actuellement à 72 individus et 1 entité, notamment des juges, procureurs, hauts fonctionnaires pénitentiaires et le Service pénitentiaire fédéral de la Fédération de Russie.",
+      "score": 32,
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "79fc0d1b9ea409d6",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -7764,6 +7781,6 @@
     }
   ],
   "last_update": "2026-06-01T12:14:47.317411+00:00",
-  "last_updated": "2026-06-01T06:08:14.384678+00:00",
+  "last_updated": "2026-06-01T15:49:09.978782+00:00",
   "last_fetch": "2026-05-23T19:01:19.700241+00:00"
 }
