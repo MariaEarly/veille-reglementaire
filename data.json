@@ -565,23 +565,6 @@
   ],
   "items": [
     {
-      "hash": "84be0d99c075",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Human rights violations in Russia: EU restrictive measures extended until May 2027",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/26/human-rights-violations-in-russia-eu-restrictive-measures-extended-until-may-2027/",
-      "author": "",
-      "published": "2026-05-26T00:00:00+00:00",
-      "summary": "Le Conseil de l'UE a prolongé d'un an, jusqu'au 28 mai 2027, le cadre de mesures restrictives (gel des avoirs et interdiction d'entrée) ciblant les responsables de violations graves des droits humains en Russie. Le régime de sanctions s'applique actuellement à 72 individus et 1 entité, notamment des juges, procureurs, hauts fonctionnaires pénitentiaires et le Service pénitentiaire fédéral de la Fédération de Russie.",
-      "score": 32,
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
       "hash": "79fc0d1b9ea409d6",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -762,6 +745,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la criminalité économique et la saisie des avoirs criminels."
     },
     {
+      "hash": "7bf95b604086eebc",
+      "source_name": "CSSF Luxembourg (AML/CFT)",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Identification of obliged entities that will be eligible for direct supervision by the European Authority for anti-money laundering and countering the financing of terrorism (AMLA)",
+      "url": "https://www.cssf.lu/en/2026/06/identification-of-obliged-entities-that-will-be-eligible-for-direct-supervision-by-the-european-authority-for-anti-money-laundering-and-countering-the-financing-of-terrorism-amla/",
+      "author": "",
+      "published": "2026-06-01T14:04:50",
+      "summary": "Preparation of the new data collection exercice for the purpose of the direct supervision by AMLA – AMLA webinar of 10 June 2026 from 10 am – 12 pm CEST",
+      "score": 97,
+      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, anti-money, amla | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "c2f720004c9ec97a",
       "source_name": "Tracfin (LinkedIn)",
       "source_type": "rss",
@@ -778,6 +779,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La déclaration de soupçon est un élément clé de la lutte contre le blanchiment de capitaux et le financement du terrorisme."
+    },
+    {
+      "hash": "6ce35480e4347748",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Belgium prosecutors investigate Wise’s AML compliance",
+      "url": "https://globalinvestigationsreview.com/article/belgium-prosecutors-investigate-wises-aml-compliance",
+      "author": "Sam Fry",
+      "published": "2026-06-01T12:12:22",
+      "summary": "The Belgian prosecutor’s office said it began investigating in 2025 after the payment company’s accounts appeared in hundreds of overseas evidence-gathering requests detailing more than half a billion euros of suspicious transactions.",
+      "score": 94,
+      "score_breakdown": "+20 mots critiques: suspicious transaction | +20 mots forts: aml, compliance | +10 mots moyens: payment, ppe | +3 Presse | +10 Géo EU: belgium | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "50bd5b02fdf6b073",
@@ -885,7 +904,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il établit les obligations de reporting auprès de l'AMF relatives aux règles de parité dans les organes de gouvernance."
     },
     {
       "hash": "aa22ca50681535f3",
@@ -903,7 +922,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La coopération entre Tracfin et l'ANRF marocaine renforce la lutte contre le blanchiment et le financement du terrorisme."
     },
     {
       "hash": "a01c4d1ad84dc606",
@@ -921,7 +940,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'AMF encadre la déclaration obligatoire de données de parité par les sociétés cotées, relevant de la conformité réglementaire en matière de gouvernance."
+      "ai_summary": "L'AMF encadre la divulgation obligatoire des données de parité dans les organes de gouvernance des sociétés cotées, relevant de la conformité réglementaire."
     },
     {
       "hash": "9677eec1da38c1c9",
@@ -939,7 +958,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il régit le transfert de propriété et le nantissement d'actifs numériques selon le code monétaire et financier."
+      "ai_summary": "Cet article concerne la conformité financière car il régit le transfert de propriété et le nantissement d'actifs numériques selon le code monétaire et financier français."
     },
     {
       "hash": "824c0ad86db65b86",
@@ -1210,6 +1229,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la fraude bancaire et des mesures de contrôle des comptes suspects."
+    },
+    {
+      "hash": "00c5065c5a9f4195",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tZDN4dmkxWXFxZEtGdzlidTNSZHpvaEpCZldlMHdJSy1HNGZtdW1oTkJRN1lJX1F1b1RiSVZMd1JUbEFzNFlrNzRERmdReEhKdHpPV3pSM0NuVEF5TmxiTDd3R3BRQQ?oc=5",
+      "author": "",
+      "published": "2026-06-01T07:56:25",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
+      "score": 75,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "ed7df66dbe1a2edf",
@@ -1951,7 +1988,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6c0133e35a3dbcdf",
@@ -2039,7 +2076,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement du terrorisme, violation majeure des règles de conformité et des sanctions internationales."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de violations graves de règles anti-blanchiment et de sanctions financières contre le financement du terrorisme."
     },
     {
       "hash": "a070010eb649c4a3",
@@ -2506,7 +2543,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les directives fédérales sur l'identification des clients, la lutte contre le blanchiment d'argent et les risques de conformité bancaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des nouvelles directives du gouvernement fédéral sur l'AML, l'identification client et la gestion des risques pour les institutions financières."
     },
     {
       "hash": "c3bfff48489663fb",
@@ -2865,6 +2902,24 @@
       "ai_summary": "Cet article concerne les mesures de Singapour contre le blanchiment d'argent, le financement du terrorisme et la prolifération, évaluées par le FATF."
     },
     {
+      "hash": "10ec61a38e2fc8a0",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "L’entreprise de transfert d’argent Wise visée par une enquête pour blanchiment en Belgique",
+      "url": "https://www.lemonde.fr/international/article/2026/06/01/l-entreprise-de-transfert-d-argent-wise-visee-par-une-enquete-pour-blanchiment-en-belgique_6695974_3210.html",
+      "author": "",
+      "published": "2026-06-01T13:47:49",
+      "summary": "En milieu de journée, lundi, l’action de l’entreprise britannique avait plongé de presque 15 % à la Bourse de Londres, après la confirmation d’une enquête en cours par la justice belge. Wise « prend extrêmement au sérieux » la lutte contre la criminalité financière, a réagi l’entreprise.",
+      "score": 49,
+      "score_breakdown": "+20 mots critiques: blanchiment | +3 Presse | +10 Géo EU: belgique | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "d52dbb1e9e53f7ef",
       "source_name": "Fintech Business Weekly",
       "source_type": "email",
@@ -2880,7 +2935,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'approbation réglementaire d'une charte bancaire par l'OCC, un enjeu de conformité prudentielle majeur."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'approbation réglementaire d'une charte bancaire et de la supervision des institutions financières."
     },
     {
       "hash": "e4e4476af167b602",
@@ -3294,7 +3349,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "614236935889",
@@ -3330,7 +3385,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès public aux informations sur les bénéficiaires réels des mandats de confiance, conformément aux règles anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès aux informations sur les bénéficiaires réels des trusts, élément clé de la lutte anti-blanchiment."
     },
     {
       "hash": "2eaef893c3cc9348",
@@ -3853,24 +3908,6 @@
       "ai_summary": "Washington sanctionne le service de renseignement cubain et des officiels, gels d'avoirs et interdictions commerciales imposées par l'OFAC."
     },
     {
-      "hash": "36ff643b92f6853c",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "\"Ni reconnues, ni mises en oeuvre, ni respectées\": la Chine ignore les sanctions américaines contre ses raffineries accusées d'acheter du pétrole iranien",
-      "url": "https://www.bfmtv.com/economie/international/ni-reconnues-ni-mises-en-oeuvre-ni-respectees-la-chine-ignore-les-sanctions-americaines-contre-ses-raffineries-accusees-d-acheter-du-petrole-iranien_AV-202605020260.html",
-      "author": "",
-      "published": "2026-05-02T15:14:17",
-      "summary": "Les autorités chinoises annoncent qu'elles ne reconnaissent pas les sanctions lancées par les États-Unis contre des entreprises soupçonnées d'importer du pétrole en provenance d'Iran. ",
-      "score": 39,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: états-unis | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La Chine viole les sanctions américaines contre l'Iran en ignorant les restrictions sur l'importation de pétrole iranien par ses raffineries."
-    },
-    {
       "hash": "da82a8a0b1b03995",
       "source_name": "ESMA (Email)",
       "source_type": "email",
@@ -4249,6 +4286,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des mesures anti-blanchiment et de lutte contre le financement du terrorisme."
     },
     {
+      "hash": "6516323762d84e24",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Conflict Check: Slaughter and May’s work for Ultra Electronics",
+      "url": "https://globalinvestigationsreview.com/article/conflict-check-slaughter-and-mays-work-ultra-electronics",
+      "author": "Sam Fry",
+      "published": "2026-06-01T13:52:03",
+      "summary": "For just the second time, a company’s decision to change lawyers during a Serious Fraud Office investigation has been highlighted in the statement of facts attached to a corporate resolution. GIR dug into the historic relationship between Ultra Electronics and its long-time lawyers.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "7323d7022ec7894d",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -4264,7 +4319,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la prévention des fraudes bancaires, un enjeu majeur de la lutte anti-fraude."
     },
     {
       "hash": "123c837746b33322",
@@ -4717,6 +4772,23 @@
       "ai_summary": "Cet article concerne les litiges de fraude impliquant une banque, relevant de la conformité financière et de la lutte anti-fraude."
     },
     {
+      "hash": "84be0d99c075",
+      "source_name": "Conseil de l'UE",
+      "source_type": "scrape",
+      "category": "autorite_eu",
+      "title": "Human rights violations in Russia: EU restrictive measures extended until May 2027",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/26/human-rights-violations-in-russia-eu-restrictive-measures-extended-until-may-2027/",
+      "author": "",
+      "published": "2026-05-26T00:00:00+00:00",
+      "summary": "Le Conseil de l'UE a prolongé d'un an, jusqu'au 28 mai 2027, le cadre de mesures restrictives (gel des avoirs et interdiction d'entrée) ciblant les responsables de violations graves des droits humains en Russie. Le régime de sanctions s'applique actuellement à 72 individus et 1 entité, notamment des juges, procureurs, hauts fonctionnaires pénitentiaires et le Service pénitentiaire fédéral de la Fédération de Russie.",
+      "score": 32,
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
       "hash": "fb7653c245c7",
       "source_name": "Conseil de l'UE",
       "source_type": "scrape",
@@ -4984,7 +5056,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "58381a9a1a13c826",
@@ -5105,7 +5177,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la modernisation des listes de sanctions OFAC, élément clé du respect des obligations de conformité sanctions."
+      "ai_summary": "L'article concerne la modernisation des listes de sanctions OFAC, directement pertinente à la conformité financière et aux obligations de lutte anti-blanchiment."
     },
     {
       "hash": "5171bc4aa96b",
@@ -5122,7 +5194,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Le DOJ a saisi des actifs (appartement de luxe) issus d'un détournement de fonds souverains malaisiens, relevant de la conformité en lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du recouvrement d'actifs issus d'un blanchiment d'argent international impliquant un détournement de fonds publics."
     },
     {
       "hash": "ba15eb2bd8c7bee6",
@@ -5243,7 +5315,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment d'argent international via le système bancaire américain lié à la corruption."
+      "ai_summary": "Article relevant pour la conformité : blanchiment de capitaux international impliquant des contrats alimentaires vénézuéliens et des ventes pétrolières illégales via le système bancaire américain."
     },
     {
       "hash": "8615fef0944d",
@@ -5798,7 +5870,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "09ff82b8f1644453",
@@ -5873,7 +5945,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "44fb88d94a37852a",
@@ -6216,7 +6288,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les produits dérivés de cryptomonnaies relèvent de la conformité financière car ils exigent une classification réglementaire et un respect des normes de protection des investisseurs."
     },
     {
       "hash": "6e46cfd926972bea",
@@ -6342,7 +6414,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8226ed514ef7ddc2",
@@ -6646,7 +6718,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0f6df5df6dc65107",
@@ -6874,6 +6946,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les sanctions restrictives de l'UE contre la Russie, relevant de la conformité aux régimes de sanctions internationales."
+    },
+    {
+      "hash": "eb01f73b693e1ddd",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Publication of Introduction to OFAC Guide | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260601",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-06-01T12:00:00",
+      "summary": "",
+      "score": 12,
+      "score_breakdown": "+5 Source Intl | +3 Géo Intl: ofac | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "1e683f2aa9bb22ee",
@@ -7687,7 +7777,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "29f0b0cd57cd45bc",
@@ -7780,7 +7870,7 @@
       "ai_summary": "Cet article concerne un décès lors d'une enquête de corruption, pertinent pour la conformité anti-fraude et les risques de gouvernance d'entreprise."
     }
   ],
-  "last_update": "2026-06-01T12:14:47.317411+00:00",
+  "last_update": "2026-06-01T17:18:27.873707+00:00",
   "last_updated": "2026-06-01T15:49:09.978782+00:00",
   "last_fetch": "2026-05-23T19:01:19.700241+00:00"
 }
