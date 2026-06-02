@@ -760,7 +760,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne l'identification des entités soumises à la supervision directe de l'AMLA pour la lutte contre le blanchiment et le financement du terrorisme."
+      "ai_summary": "Cet article concerne l'identification des entités soumises à la supervision directe de l'AMLA en matière de lutte contre le blanchiment de capitaux."
     },
     {
       "hash": "c2f720004c9ec97a",
@@ -904,7 +904,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il impose aux entreprises de transmettre à l'AMF des rapports sur le respect des règles de parité femme-homme, obligation de gouvernance et de reporting réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il définit les obligations de transmission à l'AMF des données sur la parité femmes-hommes dans les organes de gouvernance des entreprises cotées."
     },
     {
       "hash": "aa22ca50681535f3",
@@ -958,7 +958,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret concerne la conformité financière car il établit le cadre légal du transfert de propriété et du nantissement d'actifs numériques dans le code monétaire et financier."
+      "ai_summary": "Cet article concerne la conformité financière car il établit le cadre réglementaire du transfert de propriété et du nantissement d'actifs numériques."
     },
     {
       "hash": "824c0ad86db65b86",
@@ -1303,6 +1303,24 @@
       "ai_summary": "Cet arrêté homologue une modification du règlement de l'AMF concernant la conformité et la régulation des marchés financiers français."
     },
     {
+      "hash": "665974bd746ca646",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "​The EBA updates list of other systemically important institutions",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-updates-list-other-systemically-important-institutions-2",
+      "author": "Jana Jaklic",
+      "published": "2026-06-02T08:58:15",
+      "summary": "​The European Banking Authority (EBA) today updated the list of other systemically important institutions (O-SIIs) in the EU, based on notifications received from national authorities during 2025. The publication aims to increase transparency and provides a consistent overview of institutions identified as systemically important across Member States.",
+      "score": 75,
+      "score_breakdown": "+20 mots forts: mica, eba | +5 mots moyens: bank | +15 Source EU | +10 Géo EU: eba, member state, mica | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a4abd3f9a6c53011",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -1481,24 +1499,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les entreprises mondiales risquent de perdre accès aux banques américaines si elles violent les sanctions contre Cuba."
-    },
-    {
-      "hash": "0ffc68576e0ab261",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "On ne pourra plus payer tout ce qu'on veut en liquide: l'UE va plafonner le montant des paiements en espèces en 2027 (mais les Français ne seront pas touchés)",
-      "url": "https://www.bfmtv.com/economie/on-ne-pourra-plus-payer-tout-ce-qu-on-veut-en-liquide-l-ue-va-plafonner-le-montant-des-paiements-en-especes-en-2027-mais-les-francais-ne-seront-pas-touches_AN-202605030118.html",
-      "author": "",
-      "published": "2026-05-03T07:04:11",
-      "summary": "À partir de 2027, l’Union européenne plafonnera les paiements en espèces à 10.000 euros chez les professionnels pour lutter contre le blanchiment, avec des contrôles renforcés dès 3.000 euros, tout en laissant aux pays comme la France, déjà plus stricte (1.000 euros), la possibilité de conserver leurs propres limites.",
-      "score": 72,
-      "score_breakdown": "+20 mots critiques: blanchiment | +5 mots moyens: paiement | +3 Presse | +20 Géo FR: france, français | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cette mesure concerne la conformité financière car elle vise à lutter contre le blanchiment d'argent en limitant les transactions en espèces."
     },
     {
       "hash": "dae28164bded11c9",
@@ -2453,7 +2453,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "186e20f378eb",
@@ -2525,7 +2525,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les nouvelles directives fédérales sur l'identification client et la gestion des risques de blanchiment de capitaux pour les institutions financières."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de nouvelles directives gouvernementales sur l'AML, l'identification client et les obligations réglementaires des institutions financières."
     },
     {
       "hash": "c3bfff48489663fb",
@@ -3331,7 +3331,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "614236935889",
@@ -3944,6 +3944,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites pénales pour trafic d'influence et abus de confiance menées par le PNF."
     },
     {
+      "hash": "9ca747bd7e90",
+      "source_name": "Conseil de l'UE",
+      "source_type": "scrape",
+      "category": "autorite_eu",
+      "title": "Extremist Israeli settlers: EU lists four entities and three individuals",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/28/extremist-israeli-settlers-eu-lists-four-entities-and-three-individuals/",
+      "author": "",
+      "published": "2026-05-28T00:00:00+00:00",
+      "summary": "The Council adopted additional restrictive measures against four entities and three individuals under the EU's Global Human Rights Sanctions Regime, targeting extremist Israeli settlers and organisations supporting them, responsible for serious and systematic human rights abuses against Palestinians in the West Bank. An asset freeze applies, including the Nachala Settlement Movement and its director Daniella Weiss, and the Amana cooperative. With today's listings, the EU Global Human Rights Sanctions Regime now applies to 136 natural and legal persons and 41 entities.",
+      "score": 37,
+      "score_breakdown": null,
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car l'UE impose des sanctions financières contre des entités et individus listés."
+    },
+    {
       "hash": "01574bcc231061d1",
       "source_name": "ESMA (Email)",
       "source_type": "email",
@@ -4229,7 +4247,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Un employé bancaire a plaidé coupable à des accusations de fraude liée aux prêts, illustrant les risques de conformité interne et de contrôle des accès aux données sensibles."
+      "ai_summary": "Cet article concerne la conformité financière car il expose des violations graves : fraude interne, blanchiment, détournement de données clients et corruption d'employés bancaires."
     },
     {
       "hash": "f16b99be5465",
@@ -4301,7 +4319,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7323d7022ec7894d",
@@ -4772,6 +4790,24 @@
       "ai_summary": "Cet article concerne les litiges de fraude impliquant une banque, relevant de la conformité financière et de la lutte anti-fraude."
     },
     {
+      "hash": "84be0d99c075",
+      "source_name": "Conseil de l'UE",
+      "source_type": "scrape",
+      "category": "autorite_eu",
+      "title": "Human rights violations in Russia: EU restrictive measures extended until May 2027",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/26/human-rights-violations-in-russia-eu-restrictive-measures-extended-until-may-2027/",
+      "author": "",
+      "published": "2026-05-26T00:00:00+00:00",
+      "summary": "The Council renewed the EU's restrictive measures against serious human rights violations and abuses in Russia for one more year, until 28 May 2027. The measures consist of an asset freeze, a ban on making funds available to the listed individuals and entities, and a travel ban. The regime currently applies to 30 individuals and 2 entities responsible for serious human rights violations in Russia.",
+      "score": 32,
+      "score_breakdown": null,
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
       "hash": "fb7653c245c7",
       "source_name": "Conseil de l'UE",
       "source_type": "scrape",
@@ -5142,7 +5178,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la modernisation des listes de sanctions OFAC, essentielles au respect des obligations de conformité sanctions."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la modernisation des listes de sanctions OFAC, essentielles pour la conformité réglementaire."
     },
     {
       "hash": "5171bc4aa96b",
@@ -5212,7 +5248,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il illustre les sanctions pénales contre le blanchiment d'argent, violation majeure de la réglementation AML/CFT."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de blanchiment d'argent, infraction majeure du respect des normes anti-blanchiment et KYC."
     },
     {
       "hash": "693475bd184c",
@@ -5298,7 +5334,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment d'argent international via des banques américaines impliquant des contrats corrompus et des ventes pétrolières illégales vénézuéliennes."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment d'argent international et de la détection de fraude financière via le système bancaire américain."
     },
     {
       "hash": "8615fef0944d",
@@ -5853,7 +5889,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f76516c7d24f973a",
@@ -5871,7 +5907,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "09ff82b8f1644453",
@@ -6198,7 +6234,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "be47d5842976144c",
@@ -6415,7 +6451,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8226ed514ef7ddc2",
@@ -6719,7 +6755,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0f6df5df6dc65107",
@@ -7778,7 +7814,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "29f0b0cd57cd45bc",
@@ -7869,45 +7905,9 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne un décès lors d'une enquête de corruption, pertinent pour la conformité anti-fraude et les risques de gouvernance d'entreprise."
-    },
-    {
-      "hash": "9ca747bd7e90",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Extremist Israeli settlers: EU lists four entities and three individuals",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/28/extremist-israeli-settlers-eu-lists-four-entities-and-three-individuals/",
-      "author": "",
-      "published": "2026-05-28T00:00:00+00:00",
-      "summary": "The Council adopted additional restrictive measures against four entities and three individuals under the EU's Global Human Rights Sanctions Regime, targeting extremist Israeli settlers and organisations supporting them, responsible for serious and systematic human rights abuses against Palestinians in the West Bank. An asset freeze applies, including the Nachala Settlement Movement and its director Daniella Weiss, and the Amana cooperative. With today's listings, the EU Global Human Rights Sanctions Regime now applies to 136 natural and legal persons and 41 entities.",
-      "score": 37,
-      "score_breakdown": null,
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "84be0d99c075",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Human rights violations in Russia: EU restrictive measures extended until May 2027",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/26/human-rights-violations-in-russia-eu-restrictive-measures-extended-until-may-2027/",
-      "author": "",
-      "published": "2026-05-26T00:00:00+00:00",
-      "summary": "The Council renewed the EU's restrictive measures against serious human rights violations and abuses in Russia for one more year, until 28 May 2027. The measures consist of an asset freeze, a ban on making funds available to the listed individuals and entities, and a travel ban. The regime currently applies to 30 individuals and 2 entities responsible for serious human rights violations in Russia.",
-      "score": 32,
-      "score_breakdown": null,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
     }
   ],
-  "last_update": "2026-06-02T05:08:07.267688+00:00",
+  "last_update": "2026-06-02T10:04:40.872101+00:00",
   "last_updated": "2026-06-01T20:18:03.038237+00:00",
   "last_fetch": "2026-05-23T19:01:19.700241+00:00"
 }
