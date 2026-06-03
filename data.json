@@ -922,7 +922,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il régule la transmission obligatoire aux autorités de données relatives à la parité femmes-hommes dans les organes de gouvernance des sociétés cotées."
+      "ai_summary": "Cet article concerne la conformité financière car il impose aux entreprises de transmettre à l'AMF des données sur le respect des règles de parité femmes-hommes dans les organes de gouvernance."
     },
     {
       "hash": "aa22ca50681535f3",
@@ -1610,7 +1610,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "99e0a253a3f03448",
@@ -1790,7 +1790,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il rapporte un rapport des autorités européennes sur les incidents informatiques majeurs (DORA), relevant de la conformité réglementaire bancaire."
+      "ai_summary": "Les autorités bancaires publient un rapport sur les incidents informatiques majeurs relevant de la conformité réglementaire DORA."
     },
     {
       "hash": "66fafccc863e0d69",
@@ -1808,7 +1808,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des directives sur la surveillance continue des relations commerciales pour prévenir le blanchiment d'argent."
     },
     {
       "hash": "d2a860561cf48803",
@@ -2112,7 +2112,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction pécuniaire imposée à une entreprise pour non-respect des réglementations applicables."
+      "ai_summary": "Cet article concerne la conformité financière car Shein fait l'objet d'une amende de 22 millions d'euros pour violations réglementaires."
     },
     {
       "hash": "bd511220bfeca7c4",
@@ -2130,7 +2130,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "0ce638e5c9a4988e",
@@ -2363,7 +2363,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité DORA en montrant que les incidents informatiques transfrontaliers représentent un tiers des cas majeurs."
     },
     {
       "hash": "0589470d253b2b4b",
@@ -2453,7 +2453,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article explique comment renforcer la conformité aux sanctions et les processus disciplinaires des banques de développement."
     },
     {
       "hash": "d5b0d2ef646cad0c",
@@ -2651,7 +2651,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "186e20f378eb",
@@ -2723,7 +2723,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "FTI Consulting a violé les sanctions OFAC en effectuant des paiements indirects à la banque russe VTB, ce qui constitue une infraction majeure de conformité réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du non-respect des sanctions OFAC par FTI Consulting lors de paiements à VTB Bank."
     },
     {
       "hash": "a59555a2fb6802d5",
@@ -2741,7 +2741,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des nouvelles directives fédérales sur la lutte anti-blanchiment (AML) et l'identification de la clientèle."
+      "ai_summary": "Cet article concerne les changements réglementaires en matière de lutte anti-blanchiment, identification des clients et gestion des risques de conformité financière."
     },
     {
       "hash": "c3bfff48489663fb",
@@ -3011,7 +3011,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la réglementation prudentielle des banques systémiquement importantes et de leurs exigences de fonds propres."
+      "ai_summary": "L'EBA publie une liste actualisée des banques systémiquement importantes de l'UE pour 2025, relevant de la conformité réglementaire bancaire."
     },
     {
       "hash": "0fe88e8761cfc485",
@@ -3442,6 +3442,24 @@
       "ai_summary": "Cet article concerne la conformité financière en analysant l'efficacité des systèmes de lutte anti-blanchiment dans sept pays selon les normes FATF."
     },
     {
+      "hash": "697b11b22b82690f",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "FCA warns football clubs of money laundering risk from unregulated sponsors",
+      "url": "https://globalinvestigationsreview.com/article/fca-warns-football-clubs-of-money-laundering-risk-unregulated-sponsors",
+      "author": "Sam Fry",
+      "published": "2026-06-03T12:49:59",
+      "summary": "GIR found at least five Premier League clubs entered into sponsorship deals with financial services companies not registered with the FCA in the most recent season.",
+      "score": 46,
+      "score_breakdown": "+20 mots critiques: money laundering | +5 mots moyens: risk | +3 Presse | +3 Géo Intl: fca | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "387a0742468a061d",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3457,7 +3475,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'un responsable superviseur d'OFAC et FinCEN, agences clés de la conformité réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'un responsable supervisant l'OFAC et FinCEN, agences clés de la conformité financière internationale."
     },
     {
       "hash": "b5f72f55705e6bbf",
@@ -3601,7 +3619,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les risques macroprudentiels liés à l'IA, relevant de la surveillance financière et de la stabilité du système bancaire par la BCE."
     },
     {
       "hash": "b3f2521a57d4d2c4",
@@ -4320,7 +4338,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la résilience opérationnelle numérique des établissements financiers sous le régime DORA."
     },
     {
       "hash": "e33cc1b80ce6380b",
@@ -4572,7 +4590,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de sanctions internationales imposant aux entreprises étrangères le respect de restrictions commerciales avec Cuba."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions imposées par les États-Unis qui obligent les entreprises à respecter les restrictions commerciales avec Cuba."
     },
     {
       "hash": "57e652e81a89d398",
@@ -5007,24 +5025,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de vigilance et de devoir de diligence que les banques doivent respecter."
     },
     {
-      "hash": "ef75bf8bc0541dbc",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Ex-Petrobras trader agrees to forfeit $2.3m from bribery scheme",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/ex-petrobras-trader-agrees-forfeit-23m-bribery-scheme",
-      "author": "Austin Cope",
-      "published": "2026-05-04T19:26:52",
-      "summary": "Rodrigo Berkowitz, known as “Batman” to his co-conspirators, pleaded guilty to money laundering seven years ago after receiving more than $1 million in bribes from two Connecticut-based oil traders.&nbsp;",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: money laundering | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de blanchiment d'argent et de corruption impliquant un trader."
-    },
-    {
       "hash": "c7cb7b7963878257",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -5075,7 +5075,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les sanctions UE impliquent gel des avoirs et conformité financière pour les entreprises et institutions traitant avec les entités et personnes sanctionnées listées."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du gel des avoirs et des sanctions financières imposées par l'UE à des personnes et entités russes."
     },
     {
       "hash": "fb7653c245c7",
@@ -5342,7 +5342,7 @@
       "score": 30,
       "doc_type": "ALERTE",
       "action_class": "info",
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la mise à jour réglementaire des institutions systémiquement importantes par l'autorité bancaire européenne.",
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA met à jour la liste des institutions systémiquement importantes, information essentielle pour les obligations de conformité bancaire.",
       "status": "new",
       "early_brief": false
     },
@@ -5621,7 +5621,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment d'argent international, de fraude et de violations des sanctions financières."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de blanchiment d'argent international impliquant des violations de sanctions américaines."
     },
     {
       "hash": "8615fef0944d",
@@ -5924,7 +5924,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b474006d3fee4e14",
@@ -6176,7 +6176,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f76516c7d24f973a",
@@ -6194,7 +6194,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "09ff82b8f1644453",
@@ -6449,7 +6449,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde la gestion des risques liés à l'IA et aux menaces cybernétiques dans le secteur bancaire européen."
+      "ai_summary": "Cet article concerne la conformité financière car il aborde la gestion des risques liés à l'IA et aux menaces cybernétiques dans le secteur bancaire."
     },
     {
       "hash": "1151296e992adf1c",
@@ -6539,7 +6539,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "be47d5842976144c",
@@ -6756,7 +6756,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "8226ed514ef7ddc2",
@@ -7078,7 +7078,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0f6df5df6dc65107",
@@ -8102,24 +8102,6 @@
       "ai_summary": "Cet article concerne les mesures de sanctions financières internationales imposées par les États-Unis en matière de conformité réglementaire."
     },
     {
-      "hash": "125da12f98a79bcb",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "International Criminal Court-related Designation Removal | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260520_33",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-05-20T12:00:00",
-      "summary": "",
-      "score": 4,
-      "score_breakdown": "+5 Source Intl | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "c19bdb8c2a7f5bd0",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -8192,6 +8174,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une enquête sur la corruption dans une opération de renflouement d'entreprise."
     },
     {
+      "hash": "125da12f98a79bcb",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "International Criminal Court-related Designation Removal | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260520_33",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-05-20T12:00:00",
+      "summary": "",
+      "score": 3,
+      "score_breakdown": "+5 Source Intl | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "ece2fee006fef4c8",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -8228,7 +8228,7 @@
       "ai_summary": "Cet article concerne un décès lors d'une enquête de corruption, pertinent pour la conformité anti-fraude et les risques de gouvernance d'entreprise."
     }
   ],
-  "last_update": "2026-06-03T17:24:16.443912+00:00",
+  "last_update": "2026-06-03T20:48:45.615676+00:00",
   "last_updated": "2026-06-01T20:18:03.038237+00:00",
   "last_fetch": "2026-05-23T19:01:19.700241+00:00"
 }
