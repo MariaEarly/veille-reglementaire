@@ -565,6 +565,24 @@
   ],
   "items": [
     {
+      "hash": "f26499c1d231d816",
+      "source_name": "AMF - Actualités",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Résilience cyber : l'AMF appelle les acteurs financiers à renforcer leurs dispositifs face à l’évolution rapide des menaces liées à l’intelligence artificielle",
+      "url": "https://www.amf-france.org/fr/actualites-publications/actualites/resilience-cyber-lamf-appelle-les-acteurs-financiers-renforcer-leurs-dispositifs-face-levolution#xts=607212&xtor=RSS-3&type=RSS",
+      "author": "",
+      "published": "2026-06-03T07:04:06",
+      "summary": "Actualité                  Innovation              Crypto-actifs              Intelligence artificielle                    Résilience cyber : l&#039;AMF appelle les acteurs financiers à renforcer leurs dispositifs face à l’évolution rapide des menaces liées à l’intelligence artificielle",
+      "score": 100,
+      "score_breakdown": "+20 mots forts: amf, crypto | +5 mots moyens: ppe | +25 Source FR | +15 IA×Finance: intelligence artificielle+amf | +20 Géo FR: amf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "L'AMF impose aux acteurs financiers de renforcer leur cybersécurité face aux risques de l'IA, relevant de la conformité réglementaire."
+    },
+    {
       "hash": "79fc0d1b9ea409d6",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -904,7 +922,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il régit la transmission obligatoire des données de parité aux organes de gouvernance auprès de l'AMF."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la transmission obligatoire à l'AMF de données de gouvernance relative à la parité femmes-hommes."
     },
     {
       "hash": "aa22ca50681535f3",
@@ -1610,7 +1628,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "99e0a253a3f03448",
@@ -2079,6 +2097,24 @@
       "ai_summary": "Cet article concerne la conformité financière car le forum traite de la lutte contre la criminalité financière et de la conformité réglementaire."
     },
     {
+      "hash": "88ffbd3d734a769b",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Shein à nouveau condamné par la répression des fraudes, à hauteur de 22 millions d’euros",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/03/shein-a-nouveau-condamne-par-la-repression-des-fraudes-a-hauteur-de-22-millions-d-euros_6696560_3234.html",
+      "author": "",
+      "published": "2026-06-03T08:00:29",
+      "summary": "La DGCCRF, le gendarme de la concurrence, sanctionne pour la deuxième fois la plateforme chinoise que 25 millions de personnes consultent chaque mois en France. La société a annoncé contester la décision.",
+      "score": 64,
+      "score_breakdown": "+20 mots critiques: sanction, fraude, fraud | +3 Presse | +20 Géo FR: france, dgccrf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "4f9f0d81f47b64ce",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -2094,7 +2130,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0ce638e5c9a4988e",
@@ -2149,24 +2185,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la conformité aux sanctions OFAC et des obligations de compliance dans le secteur énergétique vénézuélien."
-    },
-    {
-      "hash": "8d0cc7aac6eb3623",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Vue PDF - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00d0V4UDhvUnBHeDA3U2FTZk43aGFXOUxrcXJJMTZBdzdOejNIWUhQc0ZTZVd0ZEhHUzJxWnFkekpMeTRHR09QWHR5aWluVmUxSm0wb2F3R19jWmNpVXQ2aGpGWmxGQQ?oc=5",
-      "author": "",
-      "published": "2026-06-01T11:00:07",
-      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
-      "score": 60,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "da4fead212178481",
@@ -2597,7 +2615,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "186e20f378eb",
@@ -2669,7 +2687,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "FTI Consulting a violé les sanctions OFAC en effectuant des paiements indirects à VTB Bank, démontrant l'importance de la conformité aux régulations sanctions."
+      "ai_summary": "Cet article concerne la conformité financière car il décrit une sanction OFAC pour violations des régimes de sanctions internationales concernant les paiements à une banque russe sanctionnée."
     },
     {
       "hash": "a59555a2fb6802d5",
@@ -2687,7 +2705,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des nouvelles directives fédérales sur l'AML, l'identification des clients et la gestion des risques financiers."
+      "ai_summary": "Cet article concerne les nouvelles directives fédérales sur l'identification des clients, la lutte anti-blanchiment et la gestion des risques financiers."
     },
     {
       "hash": "c3bfff48489663fb",
@@ -2922,6 +2940,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des perspectives réglementaires sur les débats de régulation bancaire et financière."
+    },
+    {
+      "hash": "d4e5dae6f04c8580",
+      "source_name": "EBA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📢 #EBA updates EU list of systemically important banks 172 O‑SIIs identified for 2025 — stable vs 2024. • Buffers: 0.25%–3% • National authorities lead assessments • Greater transparency on key institutions 🔗 Learn more:",
+      "url": "https://x.com/EBA_News/status/2062108523538833851",
+      "author": "@EBA_News",
+      "published": "2026-06-03T09:45:00",
+      "summary": "📢  #EBA updates EU list of systemically important banks172 O‑SIIs identified for 2025 — stable vs 2024.• Buffers: 0.25%–3%• National authorities lead assessments• Greater transparency on key institutions🔗 Learn more:  link.europa.eu/mTfhjg  — EU Banking Authority - EBA 🇪🇺 (@EBA_News) Jun 3, 2026",
+      "score": 52,
+      "score_breakdown": "+20 mots forts: mica, eba | +5 mots moyens: bank | +10 Géo EU: eba, mica | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "7eda68bfacd263a1",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📢 The EBA updates EU list of systemically important banks for 2025 The European Banking Authority has published its latest list of...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7467873425290608640",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-06-03T09:42:51",
+      "summary": "📢 The EBA updates EU list of systemically important banks for 2025\n\nThe European Banking Authority has published its latest list of Other Systemically Important Institutions (O‑SIIs) — identifying 172 banks across the EU, broadly stable compared to 2024.\n\n🔎 What’s new?\n • Buffer rates range from 0.25% to 3%\n • National authorities remain responsible for identification\n • Enhanced disclosure of systemic scores and capital buffers\n\n💡 This update reinforces transparency and provides a clearer, EU-w",
+      "score": 52,
+      "score_breakdown": "+20 mots forts: mica, eba | +5 mots moyens: bank | +10 Géo EU: eba, mica | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "0fe88e8761cfc485",
@@ -3385,7 +3439,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la nomination d'un responsable supervisant OFAC et FinCEN, agences clés de la conformité financière."
     },
     {
       "hash": "b5f72f55705e6bbf",
@@ -3817,7 +3871,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur la gestion réglementée des risques dans les contrats d'assurance-vie en euros."
     },
     {
       "hash": "ffcf49beac0de7f6",
@@ -3962,23 +4016,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'Urssaf propose des dispositifs d'étalement de paiement des cotisations patronales, relevant de la conformité fiscale et sociale des entreprises."
-    },
-    {
-      "hash": "b832c040b288b5ab",
-      "source_name": "ESMA (Email)",
-      "source_type": "email",
-      "category": "autorite_eu",
-      "title": "ESMA - Notifications",
-      "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
-      "author": "noreply@esma.europa.eu",
-      "published": "2026-05-04T10:03:31+00:00",
-      "summary": "Please find below recently created content on ESMA's website: ESMA page Markets in Crypto-Assets Regulation (MiCA) : https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica Edit your newsletter subscription: https://www.esma.europa.eu/form/newsletter?token=_P41J22VMdPS2gPR6URbbu1J_tSa4hHmFcC2gOKUVSw",
-      "score": 40,
-      "doc_type": "NOTIFICATION",
-      "action_class": "action",
-      "ai_summary": "Cet article concerne la conformité financière car il traite de MiCA, la régulation européenne des crypto-actifs.",
-      "status": "new",
-      "early_brief": false
     },
     {
       "hash": "c38d27c4e6b1",
@@ -4484,6 +4521,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des mesures anti-blanchiment et de lutte contre le financement du terrorisme."
     },
     {
+      "hash": "2dc1855e8aaf5ab7",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "C'est le plus grand opérateur hôtelier international de l'île: le groupe espagnol Meliá cesse ses activités à Cuba face à la pression de Washington",
+      "url": "https://www.bfmtv.com/economie/entreprises/c-est-le-plus-grand-operateur-hotelier-international-de-l-ile-le-groupe-espagnol-melia-cesse-ses-activites-a-cuba-face-a-la-pression-de-washington_AD-202606030427.html",
+      "author": "",
+      "published": "2026-06-03T09:29:10",
+      "summary": "Le 1er mai, Donald Trump a signé un décret présidentiel imposant un nouveau paquet de sanctions qui menacent notamment les activités d'entreprises étrangères collaborant avec l'Etat cubain.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "57e652e81a89d398",
       "source_name": "Corporate Compliance Insights",
       "source_type": "press",
@@ -4499,7 +4554,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite des risques liés aux tiers dans un contexte de volatilité et fragmentation, pertinent pour la gestion des risques en conformité financière."
+      "ai_summary": "Cet article traite de la gestion des risques tiers dans un contexte de volatilité, sujet clé de la conformité financière."
     },
     {
       "hash": "7323d7022ec7894d",
@@ -5222,6 +5277,23 @@
       "ai_summary": "Cet article concerne la conformité financière car il présente un tableau de bord de lutte contre la criminalité financière à Singapour."
     },
     {
+      "hash": "39d191e935e91176",
+      "source_name": "EBA (Email)",
+      "source_type": "email",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 2 June, 2026",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-updates-list-other-systemically-important-institutions-2",
+      "author": "no-reply@eba.europa.eu",
+      "published": "2026-06-02T15:37:26Z",
+      "summary": "NEWS & PRESS THE EBA UPDATES LIST OF OTHER SYSTEMICALLY IMPORTANT INSTITUTIONS Press Release The European Banking Authority (EBA) today updated the list of other systemically important institutions (O-SIIs) in the EU, based on notifications received from national authorities during 2025. The publication aims to increase transparency and provides a consistent overview of institutions identified as systemically important across Member States. THE EBA AND THE NEW YORK STATE DEPARTMENT OF FINANCIAL ",
+      "score": 30,
+      "doc_type": "ALERTE",
+      "action_class": "info",
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA met à jour la liste des institutions systémiquement importantes, obligatoire pour la supervision bancaire.",
+      "status": "new",
+      "early_brief": false
+    },
+    {
       "hash": "58381a9a1a13c826",
       "source_name": "Cass. - Fraude",
       "source_type": "rss",
@@ -5340,7 +5412,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la mise à jour des listes de sanctions OFAC, élément critique pour la conformité sanctions."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la modernisation des listes de sanctions OFAC, un élément crucial pour la mise en conformité aux régulations de lutte anti-blanchiment."
     },
     {
       "hash": "5171bc4aa96b",
@@ -5496,7 +5568,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment d'argent international, de la violation de sanctions et de la fraude dans les contrats publics."
+      "ai_summary": "Alex Saab est poursuivi pour blanchiment d'argent international impliquant la corruption de contrats alimentaires vénézuéliens et de ventes pétrolières illégales via des banques américaines."
     },
     {
       "hash": "8615fef0944d",
@@ -5766,23 +5838,6 @@
       "ai_summary": "Cet article traite de la résilience du secteur de l'intermédiation financière non bancaire et de sa supervision pour éviter les risques systémiques."
     },
     {
-      "hash": "39d191e935e91176",
-      "source_name": "EBA (Email)",
-      "source_type": "email",
-      "category": "autorite_eu",
-      "title": "EBA E-mail alert 2 June, 2026",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-updates-list-other-systemically-important-institutions-2",
-      "author": "no-reply@eba.europa.eu",
-      "published": "2026-06-02T15:37:26Z",
-      "summary": "NEWS & PRESS THE EBA UPDATES LIST OF OTHER SYSTEMICALLY IMPORTANT INSTITUTIONS Press Release The European Banking Authority (EBA) today updated the list of other systemically important institutions (O-SIIs) in the EU, based on notifications received from national authorities during 2025. The publication aims to increase transparency and provides a consistent overview of institutions identified as systemically important across Member States. THE EBA AND THE NEW YORK STATE DEPARTMENT OF FINANCIAL ",
-      "score": 30,
-      "doc_type": "ALERTE",
-      "action_class": "info",
-      "ai_summary": null,
-      "status": "new",
-      "early_brief": false
-    },
-    {
       "hash": "90fbbc3f1dcb7f8a",
       "source_name": "Council of the EU",
       "source_type": "email",
@@ -5816,7 +5871,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b474006d3fee4e14",
@@ -6068,7 +6123,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f76516c7d24f973a",
@@ -6086,7 +6141,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "09ff82b8f1644453",
@@ -6326,6 +6381,24 @@
       "ai_summary": "Cet article concerne la supervision prudentielle et la conformité réglementaire des institutions financières."
     },
     {
+      "hash": "db3587010a47ddfd",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Watch live at 9:15 CET: Supervisory Board Vice-Chair Frank Elderson speaks to @CNBC about the outlook for euro area banks in a highly uncertain environment, and why continued action is necessary to manage the risks posed by AI and cyber threats.",
+      "url": "https://x.com/ecb/status/2062069773861589015",
+      "author": "@ecb",
+      "published": "2026-06-03T07:12:00",
+      "summary": "Watch live at 9:15 CET: Supervisory Board Vice-Chair Frank Elderson speaks to  @CNBC about the outlook for euro area banks in a highly uncertain environment, and why continued action is necessary to manage the risks posed by AI and cyber threats. youtube.com/watch?v=AE_dVxxF…— European Central Bank (@ecb) Jun 3, 2026",
+      "score": 22,
+      "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "1151296e992adf1c",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -6424,14 +6497,14 @@
       "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260529-500309",
       "author": "6ème et 5ème chambres réunies",
       "published": "2026-05-29T12:00:00",
-      "summary": "La société CHEDD a demandé au tribunal administratif de Pau d'annuler pour excès de pouvoir le troisième alinéa de l'article 2 de l'arrêté du 17 janvier 2020 complémentaire à l'arrêté préfectoral du 11 février 1988 portant autorisation d'exploitation de la chute hydraulique de la centrale de Dognen située sur le gave d'Oloron, par lequel le préfet des Pyrénées-Atlantiques a précisé que le débit maximal dérivé au seuil de la prise d'eau, fixé à 19,5 mètres cubes par seconde m3/s, devait permettre",
+      "summary": "27-02-05 EAUX. - OUVRAGES. - MESURES PRISES POUR ASSURER LE LIBRE ÉCOULEMENT DES EAUX. - INSTALLATION HYDRAULIQUE – 1 PUISSANCE MAXIMALE... La société CHEDD a demandé au tribunal administratif de Pau d'annuler pour excès de pouvoir le troisième alinéa de l'article 2 de l'arrêté du 17 janvier 2020 complémentaire à l'arrêté préfectoral du 11 février 1988 portant autorisation d'exploitation de la chute hydraulique de la centrale de Dognen située sur le gave d'Oloron, par lequel le préfet des Pyréné",
       "score": 20,
       "score_breakdown": "+20 Géo FR: france | ×1.0 (7d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "be47d5842976144c",
@@ -6648,7 +6721,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "8226ed514ef7ddc2",
@@ -6883,6 +6956,24 @@
       "ai_summary": "Cet article concerne la lutte contre le blanchiment d'argent et le financement du terrorisme au niveau international."
     },
     {
+      "hash": "39121c05c2fc2c81",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Europe’s banks need to be operationally resilient to stay strong and competitive in the age of AI, says Supervisory Board Vice-Chair Frank Elderson. Banks therefore need to prepare more quickly, more effectively and more consistently across the sector",
+      "url": "https://x.com/ecb/status/2062111550480003336",
+      "author": "@ecb",
+      "published": "2026-06-03T09:58:00",
+      "summary": "Europe’s banks need to be operationally resilient to stay strong and competitive in the age of AI, says Supervisory Board Vice-Chair Frank Elderson. Banks therefore need to prepare more quickly, more effectively and more consistently across the sector  bankingsupervision.europa.eu…— European Central Bank (@ecb) Jun 3, 2026",
+      "score": 15,
+      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "74dc84fa2b749f3a",
       "source_name": "Commission EU Finance (X)",
       "source_type": "rss",
@@ -6952,7 +7043,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0f6df5df6dc65107",
@@ -7526,26 +7617,6 @@
       "ai_summary": "Cet article concerne l'émission d'une licence générale relative au Venezuela par l'OFAC, autorité de conformité financière américaine."
     },
     {
-      "hash": "2fbb34fbfd5c",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Issuance of Venezuela-related General License and Amended Frequently Asked Question",
-      "url": "https://ofac.treasury.gov/recent-actions/20260504",
-      "author": "",
-      "published": "2026-05-04T08:00:00",
-      "summary": "OFAC issuance of Venezuela-related General License and amended FAQ.",
-      "score": 10,
-      "score_breakdown": [
-        "+10 source:autorite_intl"
-      ],
-      "doc_type": "ACTUALITÉ",
-      "action_class": "INFO",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les mesures de conformité aux sanctions financières imposées par les États-Unis contre le Venezuela."
-    },
-    {
       "hash": "2898691743a83517",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -8029,7 +8100,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c19bdb8c2a7f5bd0",
@@ -8065,7 +8136,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "29f0b0cd57cd45bc",
@@ -8158,7 +8229,7 @@
       "ai_summary": "Cet article concerne un décès lors d'une enquête de corruption, pertinent pour la conformité anti-fraude et les risques de gouvernance d'entreprise."
     }
   ],
-  "last_update": "2026-06-03T05:23:43.743385+00:00",
+  "last_update": "2026-06-03T10:44:07.000495+00:00",
   "last_updated": "2026-06-01T20:18:03.038237+00:00",
   "last_fetch": "2026-05-23T19:01:19.700241+00:00"
 }
