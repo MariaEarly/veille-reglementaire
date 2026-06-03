@@ -904,7 +904,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il régit la transmission obligatoire à l'AMF des informations sur le respect de la parité femmes-hommes."
+      "ai_summary": "Cet article concerne la conformité financière car il régit la transmission obligatoire des données de parité aux organes de gouvernance auprès de l'AMF."
     },
     {
       "hash": "aa22ca50681535f3",
@@ -1156,7 +1156,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet accord renforce la coopération entre régulateurs pour superviser les activités transfrontalières de stablecoins et assurer la conformité réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision réglementaire des stablecoins internationaux entre autorités."
     },
     {
       "hash": "edf9505e74c41c7a",
@@ -1593,6 +1593,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cette règle soumet les émetteurs de stablecoins à la loi bancaire américaine contre le blanchiment d'argent, renforçant la conformité financière."
+    },
+    {
+      "hash": "6d4b5e16b4c7ae87",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 2 juin 2026 modifiant l'arrêté du 25 juillet 2022 portant création d'une commission consultative paritaire compétente à l'égard des agents contractuels des services du Premier ministre",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054179493",
+      "author": "Premier ministre",
+      "published": "2026-06-03T00:00:00",
+      "summary": "Article 1Les cinq premiers alinéas de l'article 2 de l'arrêté du 25 juillet 2022 susvisé sont remplacés par les dispositions suivantes :« La commission paritaire comprend quatre représentants titulaires de l'administration dont : « - le directeur des services administratif et financier ou son représentant, président ; « - trois autres membres, désignés sur proposition du président. »Article 2Le présent arrêté sera publié au Journal officiel de la République française.",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "99e0a253a3f03448",
@@ -2061,6 +2079,24 @@
       "ai_summary": "Cet article concerne la conformité financière car le forum traite de la lutte contre la criminalité financière et de la conformité réglementaire."
     },
     {
+      "hash": "4f9f0d81f47b64ce",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Polémique autour de Xenia Fedorova, chroniqueuse pro-Kremlin : des eurodéputés réclament des sanctions européennes",
+      "url": "https://www.lemonde.fr/politique/article/2026/06/02/polemique-autour-de-xenia-fedorova-chroniqueuse-pro-kremlin-des-eurodeputes-reclament-des-sanctions-europeennes_6696450_823448.html",
+      "author": "",
+      "published": "2026-06-02T21:46:18",
+      "summary": "La chroniqueuse des médias Bolloré, ancienne patronne de la chaîne russe RT en France, est accusée de relayer des narratifs pro-Kremlin à l’antenne.",
+      "score": 64,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +20 Géo FR: france | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "0ce638e5c9a4988e",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -2130,7 +2166,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "da4fead212178481",
@@ -2309,7 +2345,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'accord entre l'EBA et la NYDFS renforce la supervision des stablecoins transfrontaliers, améliorant la conformité réglementaire et la coordination en crise."
+      "ai_summary": "L'accord entre l'EBA et la NYDFS renforce la conformité aux règles MiCA sur les stablecoins transfrontaliers avec un cadre de supervision harmonisé."
     },
     {
       "hash": "6d03a7d43bcbfd03",
@@ -2561,7 +2597,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "186e20f378eb",
@@ -2633,7 +2669,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "FTI Consulting a violé les sanctions OFAC en effectuant des paiements indirects à VTB Bank, démontrant l'importance de la conformité aux régulations sanctions."
     },
     {
       "hash": "a59555a2fb6802d5",
@@ -2651,7 +2687,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des évolutions réglementaires en matière de lutte contre le blanchiment d'argent et d'identification de la clientèle."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des nouvelles directives fédérales sur l'AML, l'identification des clients et la gestion des risques financiers."
     },
     {
       "hash": "c3bfff48489663fb",
@@ -3334,6 +3370,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des orientations de l'EBA sur l'analyse environnementale pour les sociétés de financement."
     },
     {
+      "hash": "387a0742468a061d",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Treasury official tapped as OECD ambassador after reported White House clash",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/treasury-official-tapped-oecd-ambassador-after-reported-white-house-clash",
+      "author": "Estelle Atkinson",
+      "published": "2026-06-02T18:52:41",
+      "summary": "John Hurley, who oversees OFAC and FinCEN as Treasury's undersecretary for terrorism and financial intelligence, was picked for the OECD role after reports that he sparred with the White House over anti-fraud efforts in Minnesota.",
+      "score": 46,
+      "score_breakdown": "+20 mots critiques: fraud | +5 mots moyens: ppe | +3 Presse | +3 Géo Intl: ofac, fincen | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "b5f72f55705e6bbf",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3440,24 +3494,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les sanctions financières et le contrôle des flux d'argent liés au terrorisme et aux cartels."
-    },
-    {
-      "hash": "f82d15aeacab63b5",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décret n° 2026-407 du 27 mai 2026 portant publication de l'accord entre le Gouvernement de la République française et le Gouvernement de la République de Chypre sur la coopération lors des opérations d'évacuation à partir de la région du Moyen-Orient via le territoire de la République de Chypre dans le cadre d'une situation de crise, signé à Paris le 9 septembre 2022 (1)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054144066",
-      "author": "Ministère de l'Europe et des affaires étrangères",
-      "published": "2026-05-28T00:00:00",
-      "summary": "Article 1L'accord entre le Gouvernement de la République française et le Gouvernement de la République de Chypre sur la coopération lors des opérations d'évacuation à partir de la région du Moyen-Orient via le territoire de la République de Chypre dans le cadre d'une situation de crise, signé à Paris le 9 septembre 2022, sera publié au Journal officiel de la République française.Article 2Le Premier ministre et le ministre de l'Europe et des affaires étrangères sont chargés, chacun en ce qui le c",
-      "score": 45,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
-      "doc_type": "DÉCRET",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "614236935889",
@@ -3764,6 +3800,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article concerne la conformité financière car il aborde les arnaques aux investissements et la supervision de marché par l'AMF."
+    },
+    {
+      "hash": "03bded1dfac57763",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "N° 50 : Mutualisation intercohortes des risques dans les contrats d’assurance-vie en euros en France - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQZHB3MGkyMUp0c0NzWlFVR3JaYzJHZUF2VXczQVVZTlByT09JZ1VodFBrallkUVJVNEh0UkVpTlJvYkpLNlNTQjV0cklJNU9zbTlVeXd3bk11c2FOQTB2NlAzd3JmOUk2dHB4NjBfM3lLVVhXUFA5YjRXTmswaDRyTm56M0pXaVZIbDNaNkdoRWJ2MzR3OUoxQ3BZeExuT3VzU3p2S1BuMnJDc0pnSzhvdzkyTzF6dnlEM2lkeWlJWXJ6TWtJSF80Vkh0cVh3dG9acVBHWGFqd2NrVTR2UWlhU2ltN3VsdlhIMVJvcnRmaGlpd2hxTFBSZVEtbmp4WEZubmZ2OQ?oc=5",
+      "author": "",
+      "published": "2026-05-22T10:13:01",
+      "summary": "N° 50 : Mutualisation intercohortes des risques dans les contrats d’assurance-vie en euros en France&nbsp;&nbsp;Banque de France",
+      "score": 44,
+      "score_breakdown": "+10 mots moyens: risque, banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "ffcf49beac0de7f6",
@@ -4445,7 +4499,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite des risques liés aux tiers dans un contexte de volatilité et fragmentation, pertinent pour la gestion des risques en conformité financière."
     },
     {
       "hash": "7323d7022ec7894d",
@@ -5286,7 +5340,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la modernisation des listes de sanctions OFAC, outil clé de la conformité sanctions des institutions financières."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la mise à jour des listes de sanctions OFAC, élément critique pour la conformité sanctions."
     },
     {
       "hash": "5171bc4aa96b",
@@ -5442,7 +5496,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment d'argent international, de la fraude bancaire et du non-respect des sanctions américaines."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment d'argent international, de la violation de sanctions et de la fraude dans les contrats publics."
     },
     {
       "hash": "8615fef0944d",
@@ -5604,24 +5658,6 @@
       "ai_summary": "Les sanctions de l'ONU contre des entités visées peuvent impliquer des obligations de conformité financière pour les institutions."
     },
     {
-      "hash": "368ef38a4230",
-      "source_name": "DOJ - Criminal Division",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Member of Prolific Russian Ransomware Group Sentenced to Prison",
-      "url": "https://www.justice.gov/opa/pr/member-prolific-russian-ransomware-group-sentenced-prison",
-      "author": "",
-      "published": "2026-05-04T00:00:00+00:00",
-      "summary": "Deniss Zolotarjovs, a Latvian national, was sentenced to 102 months in prison for his role in a major Russian ransomware organization (linked to Conti, Karakurt, Royal, TommyLeaks and Akira) that stole data from over 54 companies and extorted hundreds of millions of dollars, including leveraging stolen pediatric health records. He pleaded guilty to conspiring to commit money laundering and wire fraud.",
-      "score": 30,
-      "score_breakdown": "+20 critique: money laundering | +10 source",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment d'argent et de la lutte contre la criminalité financière organisée."
-    },
-    {
       "hash": "3409f6073ceaa9f8",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -5763,7 +5799,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b474006d3fee4e14",
@@ -6015,7 +6051,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f76516c7d24f973a",
@@ -6033,7 +6069,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "09ff82b8f1644453",
@@ -6126,7 +6162,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La Suisse conteste une décision annulant l'amende infligée à l'ancien responsable compliance de Credit Suisse."
     },
     {
       "hash": "5cec2cb4362b7c12",
@@ -6378,7 +6414,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "be47d5842976144c",
@@ -6595,7 +6631,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "8226ed514ef7ddc2",
@@ -6899,7 +6935,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0f6df5df6dc65107",
@@ -7688,7 +7724,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière en matière de sanctions internationales contre l'Iran et la RDC."
     },
     {
       "hash": "b55f52cec1ab74d7",
@@ -7976,7 +8012,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c19bdb8c2a7f5bd0",
@@ -7994,7 +8030,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une enquête sur corruption présumée dans un contrat pétrolier impliquant Gunvor."
     },
     {
       "hash": "9c68609e54f6d4c8",
@@ -8012,7 +8048,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "29f0b0cd57cd45bc",
@@ -8105,7 +8141,7 @@
       "ai_summary": "Cet article concerne un décès lors d'une enquête de corruption, pertinent pour la conformité anti-fraude et les risques de gouvernance d'entreprise."
     }
   ],
-  "last_update": "2026-06-02T21:28:02.955692+00:00",
+  "last_update": "2026-06-03T02:48:51.535347+00:00",
   "last_updated": "2026-06-01T20:18:03.038237+00:00",
   "last_fetch": "2026-05-23T19:01:19.700241+00:00"
 }
