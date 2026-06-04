@@ -922,7 +922,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il impose aux entreprises de transmettre à l'AMF des données sur le respect des règles de parité femmes-hommes dans les organes de gouvernance."
+      "ai_summary": "Cet article concerne la conformité financière car il régit la transmission obligatoire à l'AMF de données sur la parité femmes-hommes dans les organes de gouvernance."
     },
     {
       "hash": "aa22ca50681535f3",
@@ -1595,24 +1595,6 @@
       "ai_summary": "Cette règle soumet les émetteurs de stablecoins à la loi bancaire américaine contre le blanchiment d'argent, renforçant la conformité financière."
     },
     {
-      "hash": "6d4b5e16b4c7ae87",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 2 juin 2026 modifiant l'arrêté du 25 juillet 2022 portant création d'une commission consultative paritaire compétente à l'égard des agents contractuels des services du Premier ministre",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054179493",
-      "author": "Premier ministre",
-      "published": "2026-06-03T00:00:00",
-      "summary": "Article 1Les cinq premiers alinéas de l'article 2 de l'arrêté du 25 juillet 2022 susvisé sont remplacés par les dispositions suivantes :« La commission paritaire comprend quatre représentants titulaires de l'administration dont : « - le directeur des services administratif et financier ou son représentant, président ; « - trois autres membres, désignés sur proposition du président. »Article 2Le présent arrêté sera publié au Journal officiel de la République française.",
-      "score": 67,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "99e0a253a3f03448",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1808,7 +1790,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des directives sur la surveillance continue des relations commerciales pour prévenir le blanchiment d'argent."
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur les directives de surveillance continue des relations commerciales pour la lutte anti-blanchiment."
     },
     {
       "hash": "d2a860561cf48803",
@@ -2113,24 +2095,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car Shein fait l'objet d'une amende de 22 millions d'euros pour violations réglementaires."
-    },
-    {
-      "hash": "bd511220bfeca7c4",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Xenia Fedorova : des eurodéputés réclament des sanctions européennes contre la chroniqueuse russe, accusée de recourir à la « désinformation coordonnée »",
-      "url": "https://www.lemonde.fr/politique/article/2026/06/02/polemique-autour-de-xenia-fedorova-chroniqueuse-pro-kremlin-des-eurodeputes-reclament-des-sanctions-europeennes_6696450_823448.html",
-      "author": "",
-      "published": "2026-06-02T21:46:16",
-      "summary": "La chroniqueuse des médias Bolloré, ancienne patronne de la branche française de la chaîne russe RT France, est accusée de recourir à la « désinformation coordonnée et à la manipulation de l’information ».",
-      "score": 64,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +20 Géo FR: france, français, française | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "0ce638e5c9a4988e",
@@ -2651,7 +2615,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "186e20f378eb",
@@ -2670,6 +2634,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article concerne la lutte contre le financement du terrorisme et de la criminalité organisée, domaines clés de la conformité financière."
+    },
+    {
+      "hash": "6d4b5e16b4c7ae87",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 2 juin 2026 modifiant l'arrêté du 25 juillet 2022 portant création d'une commission consultative paritaire compétente à l'égard des agents contractuels des services du Premier ministre",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054179493",
+      "author": "Premier ministre",
+      "published": "2026-06-03T00:00:00",
+      "summary": "Article 1Les cinq premiers alinéas de l'article 2 de l'arrêté du 25 juillet 2022 susvisé sont remplacés par les dispositions suivantes :« La commission paritaire comprend quatre représentants titulaires de l'administration dont : « - le directeur des services administratif et financier ou son représentant, président ; « - trois autres membres, désignés sur proposition du président. »Article 2Le présent arrêté sera publié au Journal officiel de la République française.",
+      "score": 54,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "6a6e826b649c5ad1",
@@ -2741,7 +2723,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les changements réglementaires en matière de lutte anti-blanchiment, identification des clients et gestion des risques de conformité financière."
+      "ai_summary": "Cet article concerne les nouvelles directives fédérales sur l'identification client, la lutte anti-blanchiment et l'évaluation des risques pour les institutions financières."
     },
     {
       "hash": "c3bfff48489663fb",
@@ -3030,6 +3012,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'EBA consulte sur des amendements aux critères de classification des prêts spécialisés pour renforcer la conformité réglementaire prudentielle."
+    },
+    {
+      "hash": "bd511220bfeca7c4",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Xenia Fedorova : des eurodéputés réclament des sanctions européennes contre la chroniqueuse russe, accusée de recourir à la « désinformation coordonnée »",
+      "url": "https://www.lemonde.fr/politique/article/2026/06/02/polemique-autour-de-xenia-fedorova-chroniqueuse-pro-kremlin-des-eurodeputes-reclament-des-sanctions-europeennes_6696450_823448.html",
+      "author": "",
+      "published": "2026-06-02T21:46:16",
+      "summary": "La chroniqueuse des médias Bolloré, ancienne patronne de la branche française de la chaîne russe RT France, est accusée de recourir à la « désinformation coordonnée et à la manipulation de l’information ».",
+      "score": 51,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +20 Géo FR: france, français, française | ×1.2 (<3d)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "697d012e2e67ae22",
@@ -3457,7 +3457,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La FCA met en garde contre le risque de blanchiment d'argent via des sponsors non réglementés."
     },
     {
       "hash": "387a0742468a061d",
@@ -3475,7 +3475,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'un responsable supervisant l'OFAC et FinCEN, agences clés de la conformité financière internationale."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'un responsable supervisant OFAC et FinCEN, agences cruciales pour la lutte antifraude et la conformité."
     },
     {
       "hash": "b5f72f55705e6bbf",
@@ -3619,7 +3619,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les risques macroprudentiels liés à l'IA, relevant de la surveillance financière et de la stabilité du système bancaire par la BCE."
+      "ai_summary": "Cet article concerne les risques macroprudentiels liés à l'IA, relevant de la conformité financière et de la surveillance bancaire."
     },
     {
       "hash": "b3f2521a57d4d2c4",
@@ -3944,6 +3944,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "FinCEN alerte sur le blanchiment d'argent par la Garde révolutionnaire iranienne, relevant de la conformité financière anti-blanchiment."
+    },
+    {
+      "hash": "c220bd9256dcb4a4",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "\"Une stratégie d'asphyxie contre le peuple cubain\": il ne sera plus possible de payer par cartes Visa et Mastercard à Cuba en raison des sanctions américaines",
+      "url": "https://www.bfmtv.com/economie/international/une-strategie-d-asphyxie-contre-le-peuple-cubain-il-ne-sera-plus-possible-de-payer-par-cartes-visa-et-mastercard-a-cuba-en-raison-des-sanctions-americaines_AD-202606030891.html",
+      "author": "",
+      "published": "2026-06-03T18:38:55",
+      "summary": "Le 1er mai, Donald Trump a signé un décret présidentiel imposant un nouveau paquet de sanctions qui menacent notamment les activités d'entreprises étrangères collaborant avec l'Etat cubain. La Banque centrale de Cuba estime que cette décision \"fait partie de la stratégie d'asphyxie contre le peuple cubain\". ",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: banque | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "0d428b5a717ec9fd",
@@ -4338,7 +4356,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la résilience opérationnelle numérique des établissements financiers sous le régime DORA."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des incidents ICT déclarés sous DORA, régulation EU sur la résilience opérationnelle des entités financières."
     },
     {
       "hash": "e33cc1b80ce6380b",
@@ -4590,7 +4608,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions imposées par les États-Unis qui obligent les entreprises à respecter les restrictions commerciales avec Cuba."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions imposées par Washington qui obligent les entreprises à cesser leurs activités pour respecter les réglementations de conformité internationale."
     },
     {
       "hash": "57e652e81a89d398",
@@ -5075,7 +5093,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du gel des avoirs et des sanctions financières imposées par l'UE à des personnes et entités russes."
+      "ai_summary": "Les sanctions UE incluent le gel des avoirs et interdictions de voyager, relevant de la conformité financière et des obligations de lutte contre le blanchiment."
     },
     {
       "hash": "fb7653c245c7",
@@ -5342,7 +5360,7 @@
       "score": 30,
       "doc_type": "ALERTE",
       "action_class": "info",
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA met à jour la liste des institutions systémiquement importantes, information essentielle pour les obligations de conformité bancaire.",
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA met à jour la liste des institutions systémiquement importantes, élément clé de la supervision prudentielle bancaire.",
       "status": "new",
       "early_brief": false
     },
@@ -5621,7 +5639,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de blanchiment d'argent international impliquant des violations de sanctions américaines."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment d'argent international via des banques américaines liées à la corruption et aux sanctions."
     },
     {
       "hash": "8615fef0944d",
@@ -5924,7 +5942,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b474006d3fee4e14",
@@ -6176,7 +6194,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f76516c7d24f973a",
@@ -6194,7 +6212,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "09ff82b8f1644453",
@@ -6539,7 +6557,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "be47d5842976144c",
@@ -6756,7 +6774,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8226ed514ef7ddc2",
@@ -7078,7 +7096,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0f6df5df6dc65107",
@@ -7635,23 +7653,6 @@
       "ai_summary": "Cet article concerne la lutte contre la criminalité financière par la coopération et la confiance entre institutions."
     },
     {
-      "hash": "5e20e1e57261",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Issuance of Venezuela-related General License",
-      "url": "https://ofac.treasury.gov/recent-actions/20260505",
-      "author": "",
-      "published": "2026-05-05T00:00:00+00:00",
-      "summary": "",
-      "score": 10,
-      "doc_type": "LICENCE",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne l'émission d'une licence générale relative au Venezuela par l'OFAC, autorité de conformité financière américaine."
-    },
-    {
       "hash": "2898691743a83517",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -8189,7 +8190,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ece2fee006fef4c8",
@@ -8228,7 +8229,7 @@
       "ai_summary": "Cet article concerne un décès lors d'une enquête de corruption, pertinent pour la conformité anti-fraude et les risques de gouvernance d'entreprise."
     }
   ],
-  "last_update": "2026-06-03T21:33:45.131545+00:00",
+  "last_update": "2026-06-04T02:43:52.429929+00:00",
   "last_updated": "2026-06-01T20:18:03.038237+00:00",
   "last_fetch": "2026-05-23T19:01:19.700241+00:00"
 }
