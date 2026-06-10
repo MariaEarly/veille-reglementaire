@@ -799,24 +799,6 @@
       "ai_summary": "Cet article concerne la lutte contre le financement du terrorisme, un pilier majeur de la conformité financière et de la prévention du blanchiment."
     },
     {
-      "hash": "25afb4872d9c1aaa",
-      "source_name": "PNF (Parquet National Financier)",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "🌍 Les 5 et 6 mai, le PNF était à Londres pour…",
-      "url": "https://social.numerique.gouv.fr/@pnf/116554973330915775",
-      "author": "",
-      "published": "2026-05-11T08:22:32",
-      "summary": "🌍 Les 5 et 6 mai, le PNF était à Londres pour une conférence internationale sur la criminalité économique, aux côtés du Serious Fraud Office (UK) et du Bundesanwaltschaft (CH).Une centaine de magistrats et enquêteurs de 15 pays réunis pour échanger sur : la saisie des avoirs criminels, le big data et la coopération judiciaire internationale. 🏛️⚖️",
-      "score": 97,
-      "score_breakdown": "+20 mots critiques: fraud | +25 Source FR | +20 Géo FR: pnf | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la criminalité économique et la saisie des avoirs criminels."
-    },
-    {
       "hash": "47c92308f3d4aa54",
       "source_name": "CSSF Luxembourg (AML/CFT)",
       "source_type": "rss",
@@ -869,6 +851,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La déclaration de soupçon est un élément clé de la lutte contre le blanchiment de capitaux et le financement du terrorisme."
+    },
+    {
+      "hash": "686ae817a1e40fad",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "CB et Feedzai : l’intelligence artificielle comme rempart contre la fraude financière",
+      "url": "https://www.bfmtv.com/economie/professionnels/focus-entreprises/cb-et-feedzai-l-intelligence-artificielle-comme-rempart-contre-la-fraude-financiere_AB-202606100014.html",
+      "author": "",
+      "published": "2026-06-10T07:18:10",
+      "summary": "Alors que les arnaques par manipulation explosent en France, le réseau de paiement CB et Feedzai, acteur spécialisé dans la détection et la prévention de la criminalité financière en temps réel, s’emploient à protéger les consommateurs d’une menace de plus en plus sophistiquée. Une démarche stratégique à l’heure où la maîtrise des infrastructures de paiement et la confiance des consommateurs deviennent des enjeux majeurs de souveraineté française, et plus largement européenne.",
+      "score": 94,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +5 mots moyens: paiement | +3 Presse | +15 IA×Finance: intelligence artificielle+paiement | +20 Géo FR: france, français, française | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "6ce35480e4347748",
@@ -1555,24 +1555,6 @@
       "ai_summary": "L'article concerne la conformité financière car il traite des normes techniques de coopération de surveillance entre autorités de conformité."
     },
     {
-      "hash": "a7a4339b2e564d9d",
-      "source_name": "AMLA - Anti-Money Laundering Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "AMLA holds public hearing to consult on Draft RTS for Home-Host Supervisory Cooperation",
-      "url": "https://www.amla.europa.eu/amla-holds-public-hearing-consult-draft-rts-home-host-supervisory-cooperation_en",
-      "author": "",
-      "published": "2026-05-11T08:02:24",
-      "summary": "AMLA is consulting on proposed draft Regulatory Technical Standards (RTS), which set out a simple, proportionate and efficient framework for cooperation between home and host supervisors of cross-border groups of obliged entities.&nbsp;&nbsp;",
-      "score": 75,
-      "score_breakdown": "+20 mots forts: aml, amla | +5 mots moyens: supervisory | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'article concerne la coopération de conformité entre superviseurs pour les groupes transfrontaliers de lutte contre le blanchiment de capitaux."
-    },
-    {
       "hash": "8a7f3912d3e57f45",
       "source_name": "AMF France (X)",
       "source_type": "rss",
@@ -1642,7 +1624,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions imposées par le Royaume-Uni et la France à des entités liées à Israël, relevant des obligations de conformité internationale."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions et restrictions imposées par des États aux entreprises et personnalités pour des activités non conformes aux normes internationales."
     },
     {
       "hash": "86e0083bdcb592ab",
@@ -1715,6 +1697,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Block conteste l'évaluation du DOJ dans une enquête anti-blanchiment et enregistre une perte de 240 millions de dollars."
+    },
+    {
+      "hash": "b2eb209c961a7279",
+      "source_name": "AMF - Actualités",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Séance publique de la commission des sanctions - 11 décembre 2026",
+      "url": "https://www.amf-france.org/fr/sanctions-transactions/seances-de-la-commission-des-sanctions/seance-publique-de-la-commission-des-sanctions-11-decembre-2026#xts=607212&xtor=RSS-3&type=RSS",
+      "author": "",
+      "published": "2026-06-10T07:58:05",
+      "summary": "Evénement                  Sanctions &amp; transactions",
+      "score": 67,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne les sanctions financières prononcées par la Commission des sanctions de l'AMF pour non-conformité réglementaire."
     },
     {
       "hash": "44b6a214d2d25b66",
@@ -1912,7 +1912,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "52c0656de3320b64",
@@ -2253,7 +2253,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il expose des pratiques frauduleuses : factures inexactes et prix non justifiés, violations de transparence tarifaire et obligations comptables."
+      "ai_summary": "Les contrôles révèlent des pratiques frauduleuses (factures inexactes, prix abusifs) nécessitant une conformité financière stricte dans le secteur automobile."
     },
     {
       "hash": "88ffbd3d734a769b",
@@ -2558,7 +2558,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Le blanchiment d'argent chinois via des réseaux fragmentés expose les institutions financières américaines à des risques accrus de non-conformité."
     },
     {
       "hash": "ee495bf3985209a3",
@@ -3047,6 +3047,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des perspectives réglementaires sur les débats de régulation bancaire et financière."
     },
     {
+      "hash": "5254da8e7841c5f7",
+      "source_name": "ESMA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "ICT risk in the EU financial sector is increasingly borderless and interconnected. 🔐 🌐 The first ESAs report on #DORA major ICT-related incidents analyses thousands of reported incidents →",
+      "url": "https://x.com/ESMAComms/status/2064619473772888273",
+      "author": "@ESMAComms",
+      "published": "2026-06-10T08:03:00",
+      "summary": "ICT risk in the EU financial sector is increasingly borderless and interconnected. 🔐🌐 The first ESAs report on  #DORA major ICT-related incidents analyses thousands of reported incidents →  link.europa.eu/9kQ8Tv— ESMA - EU Securities Markets Regulator 🇪🇺 (@ESMAComms) Jun 10, 2026",
+      "score": 52,
+      "score_breakdown": "+20 mots forts: dora, esma | +5 mots moyens: risk | +10 Géo EU: esma, dora | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "4dc7aa6d68b3a9ee",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -3169,7 +3187,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte anti-blanchiment et de l'échange sécurisé d'informations entre unités de renseignement financier."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du leadership en matière de lutte anti-blanchiment et d'échange sécurisé d'informations entre unités de renseignement financier."
     },
     {
       "hash": "60839d5e2243721b",
@@ -3187,7 +3205,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du plafonnement des prix imposé par sanctions internationales, une mesure de contrôle financier et commercial."
+      "ai_summary": "L'UE maintient un plafond de prix sur le pétrole russe pour limiter ses revenus, mesure de conformité aux sanctions internationales contre la Russie."
     },
     {
       "hash": "dca1fc4b0269984a",
@@ -3586,6 +3604,24 @@
       "ai_summary": "La simplification de Pillar 3 par l'EBA réduit les obligations de conformité financière et de publication pour les petites banques."
     },
     {
+      "hash": "d6eb03bb49b4ef34",
+      "source_name": "Commission EU Finance (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "RT by @EU_Finance: RT by @EU_Finance: Today, we are putting forward a 21st package of sanctions, focusing on the sectors that hit the hardest: 🔸Energy 🔸Financial services and crypto 🔸Trade We are also banning the entry of former Russian combatants into the EU. We stand with Ukraine, now, and for however long it takes.",
+      "url": "https://x.com/EU_Commission/status/2064310863368978734",
+      "author": "@EU_Commission",
+      "published": "2026-06-09T11:37:00",
+      "summary": "Today, we are putting forward a 21st package of sanctions, focusing on the sectors that hit the hardest:🔸Energy🔸Financial services and crypto🔸TradeWe are also banning the entry of former Russian combatants into the EU.We stand with Ukraine, now, and for however long it takes.— @EU_Commission Jun 9, 2026",
+      "score": 45,
+      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: crypto | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "43f727777033466f",
       "source_name": "ESMA (X)",
       "source_type": "rss",
@@ -3655,7 +3691,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1e667855adc003c8",
@@ -3998,24 +4034,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite du respect des sanctions internationales et de la responsabilité pénale des entreprises."
-    },
-    {
-      "hash": "153380b97c73bc49",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, 4ème chambre, 04 juin 2026, 500292",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260604-500292",
-      "author": "4ème chambre",
-      "published": "2026-06-04T12:00:00",
-      "summary": "Vu la procédure suivante :                  Le président du Conseil national de l'ordre des vétérinaires a porté plainte contre la société Adomvet, M. C... B..., M. D... A... et Mme F... E... devant la chambre régionale de discipline de première instance d'Auvergne-Rhône-Alpes de l'ordre des vétérinaires. Par une décision du 20 avril 2023, la chambre régionale de discipline de première instance leur a infligé la sanction de l'avertissement.                   Par une décision du 5 novembre 2024, ",
-      "score": 40,
-      "score_breakdown": "+20 mots critiques: sanction | +20 Géo FR: france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a41957ae2741c390",
@@ -5250,7 +5268,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "39d191e935e91176",
@@ -6265,6 +6283,24 @@
       "ai_summary": "Cet article concerne la lutte contre le blanchiment d'argent et la fraude financière impliquant des populations non autorisées à travailler."
     },
     {
+      "hash": "3f8e74b38d2264c9",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Cryptomonnaies : des cours percutés par le contexte géopolitique et l’essor de l’IA",
+      "url": "https://www.lemonde.fr/argent/article/2026/06/10/cryptomonnaies-des-cours-percutes-par-le-contexte-geopolitique-et-l-essor-de-l-ia_6700399_1657007.html",
+      "author": "",
+      "published": "2026-06-10T04:00:24",
+      "summary": "Le bitcoin et d’autres cryptoactifs ont perdu plus de 30 % de leur valeur depuis le début de l’année, et les conditions d’un éventuel rebond ne sont pas là.",
+      "score": 19,
+      "score_breakdown": "+10 mots forts: crypto | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "7c74ebe87a1306a3",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -6280,7 +6316,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité aux régulations européennes, notamment le Digital Markets Act imposant l'interopérabilité et l'équité concurrentielle aux grandes plateformes technologiques."
+      "ai_summary": "Cet article traite de la conformité réglementaire des grandes plateformes avec les exigences légales de l'Union européenne en matière de concurrence et d'interopérabilité."
     },
     {
       "hash": "308068d36debc336",
@@ -6406,7 +6442,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8226ed514ef7ddc2",
@@ -6567,7 +6603,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0f6df5df6dc65107",
@@ -6622,24 +6658,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne l'intégration bancaire européenne et la supervision financière pour soutenir la croissance économique."
-    },
-    {
-      "hash": "87bc89af3578e0bc",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "Completing the banking union will make European banks more competitive, Supervisory Board member Sharon Donnery tells Expansión. Harmonised EU rules would allow banks to scale up across borders, creating a more integrated market. Read the interview",
-      "url": "https://x.com/ecb/status/2053747038597075379",
-      "author": "@ecb",
-      "published": "2026-05-11T08:00:00",
-      "summary": "Completing the banking union will make European banks more competitive, Supervisory Board member Sharon Donnery tells Expansión.  Harmonised EU rules would allow banks to scale up across borders, creating a more integrated market.  Read the interview https://t.co/lbbpiFJ12g — European Central Bank (@ecb) May 11, 2026",
-      "score": 15,
-      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'union bancaire harmonise les règles de conformité financière et de supervision pour renforcer la compétitivité des banques européennes."
     },
     {
       "hash": "a9a8b34f8eba",
@@ -6780,7 +6798,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "9fca0daf2e14ffa3",
@@ -6798,7 +6816,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a5f6d25036e0",
@@ -6886,7 +6904,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'application de la FCPA contre la corruption et des risques de dénonciation pour les entreprises mexicaines."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'application de la loi FCPA contre la corruption et des risques de dénonciation pour les entreprises mexicaines."
     },
     {
       "hash": "00c988dbbf2fd008",
@@ -7390,7 +7408,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ece2fee006fef4c8",
@@ -7411,7 +7429,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-10T04:55:19.329263+00:00",
+  "last_update": "2026-06-10T09:41:25.847529+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
