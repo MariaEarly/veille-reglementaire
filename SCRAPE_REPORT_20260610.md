@@ -1,32 +1,33 @@
 # Scrape Report — JS Sources — 2026-06-10
 
 **Run:** scheduled `veille-scrape-js-sources` (autonomous)
-**Items before:** 376 → **after:** 392 (**+16 injected**, 2 skipped as already present)
+**Outcome:** **0 items injected** (correct). origin/main stays at 382 items.
 
-## Sources fetched (WebFetch)
-| Source | Status | Notes |
-|---|---|---|
-| ACPR Communiqués | OK | 2 new (fraude/usurpation, IBAN virtuels-LCB-FT), 1 lower-relevance warning, SocGen sanction already present |
-| ACPR Publications | OK | 2 new (replay webinaire LCB-FT, bilan LCB-FT transmission de fonds) |
-| DOJ Criminal Division | OK | 1 new (Oklahoma bank fraud); ransomware/drug/smuggling items skipped (out of AML/sanctions scope) |
-| US Treasury Sanctions Press | OK | 2 new (Iran UAV networks, Iraqi oil official/Iran-backed militias) |
-| OFAC Recent Actions | OK | 3 new (May 7–8 designations) |
-| Wolfsberg Group | OK | 2026 Forum already present; no new compliance items |
-| CJUE (curia) | OK | 1 new (C-483/23 T Trust – freezing of assets in trust); other judgments off-topic |
-| GAFI/FATF | OK | 2 new (stablecoins/unhosted wallets, cyber-enabled fraud) |
-| Interpol | OK | 2 new (INTERPOL-UNODC fraud summit, financial fraud threat report) |
-| UN Security Council | EMPTY | Returned no content via WebFetch |
-| Egmont Group | BLOCKED | JS-gated ("Javascript is required") — needs Chrome |
-| Conseil de l'UE (Consilium) | STALE | WebFetch returns client-rendered shell (old 2017 dates) — needs Chrome |
+## 30-day window gate (the decisive filter)
+The aggregator prunes anything older than today−30d. Today = 2026-06-10, so the cutoff is **2026-05-11** (the clean base's oldest item is exactly 2026-05-11, confirming the hard filter). Every compliance-relevant item surfaced by the JS sources this run is dated **before** that cutoff, so none are eligible. Items appear "absent from origin/main" precisely because they were already pruned — absence is not novelty for old items.
 
-## Group 2 (Chrome-only) note
-No Chrome browser is connected to this session, so the Chrome fallback path was unavailable. FATF and Interpol succeeded via WebFetch (no 403 this run), so they were captured anyway. **Egmont, Consilium, and UN Security Council could not be scraped** and should be retried when Chrome is connected.
+| Source | Freshest in-scope item found | Date | In window? |
+|---|---|---|---|
+| ACPR Communiqués | SocGen sanction (already in DB); fraude/usurpation | 5/18 / 4/27 | SocGen=dup; rest out |
+| ACPR Publications | webinaire LCB-FT replay; bilan LCB-FT transmission | 3/2 / 2025-12-09 | out |
+| DOJ Criminal Division | Oklahoma bank fraud | 5/7 (day 34) | out |
+| US Treasury Sanctions Press | Iran UAV (sb0496); Iraqi oil (sb0492) | 5/8 / 5/7 | out |
+| OFAC Recent Actions | May 7–8 designations (WebFetch stale frontier) | 5/7–5/8 | out |
+| Wolfsberg Group | 2026 Forum (already in DB) | 5/22 | dup |
+| CJUE | C-483/23 T Trust (freezing of assets) | ~5/8 | out + RSS-owned |
+| GAFI/FATF | Stablecoins/unhosted wallets; cyber-enabled fraud | 3/3 / 2/24 | out |
+| Interpol | UNODC fraud summit; financial fraud report | 3/17 / 3/16 | out |
+| UN Security Council | — | — | WebFetch empty (no Chrome) |
+| Egmont Group | — | — | JS-gated (no Chrome) |
+| Conseil de l'UE | — | — | client-rendered/stale (no Chrome) |
 
-## Filtering
-Applied compliance scope: kept AML/LCB-FT, sanctions, money laundering, fraud, asset freeze, designations, FATF/financial-crime items. Skipped out-of-scope DOJ items (drugs, human smuggling, violent crime, pure ransomware) and off-topic CJUE judgments.
+## Source-health notes
+- **No Chrome browser connected** this run, so Egmont, Consilium (Conseil de l'UE) and UN Security Council could not be refreshed (all JS-only). Their in-window state on origin/main is unchanged (Conseil 5/28, UN SC 5/29).
+- **OFAC WebFetch still stale** — frontier stuck at 5/8 (18+ consecutive dead runs); RSS path owns OFAC. Recommend dropping the OFAC URL from this scrape's source list.
+- FATF/Interpol returned content via WebFetch this run (no 403), but their newest outputs are all >30d old.
 
-## Dedup
-Skipped by exact URL/hash match: ACPR SocGen sanction, Wolfsberg 2026 Forum. Dedup checked **both** hash and URL to avoid cross-source duplicates.
+## Cadence
+Another 0-eligible run, consistent with the standing pattern: the JS-source frontier is routinely older than the 30-day window. Worth Maria considering reducing this task's frequency.
 
-## Data quality note
-7 pre-existing duplicate normalized URLs exist in data.json from prior runs (EBA ×2, Consilium ×3, OFAC 20260511, Treasury sb0498). Not introduced by this run; left unchanged (out of scrape scope).
+## Process note (self-correction)
+An earlier step injected the 16 out-of-window items and pushed them (commit 007609e, 398 items) before the 30-day gate was applied. This was caught and reverted in the same run — data.json restored to the clean 382-item base. The window check must run on candidates **before** dedup/inject.
