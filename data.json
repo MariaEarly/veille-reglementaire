@@ -580,7 +580,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'AMF examine comment les sociétés cotées intègrent les risques d'IA, cybersécurité et géopolitique dans leur gouvernance, enjeu majeur de conformité réglementaire."
+      "ai_summary": "L'AMF examine comment les sociétés cotées intègrent l'IA, la cybersécurité et les risques géopolitiques dans leur gouvernance, enjeux majeurs de conformité."
     },
     {
       "hash": "f26499c1d231d816",
@@ -1642,7 +1642,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions contre des entités et personnalités liées aux colonies, relevant de la conformité réglementaire et des restrictions commerciales."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions et restrictions imposées par des gouvernements aux entreprises et personnalités impliquées dans des activités en colonies israéliennes."
     },
     {
       "hash": "86e0083bdcb592ab",
@@ -1714,7 +1714,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "53d455c71beef0fb",
@@ -2131,24 +2131,6 @@
       "ai_summary": "Cet article concerne la lutte anti-blanchiment de capitaux et la conformité réglementaire en matière de prévention du financement illicite."
     },
     {
-      "hash": "d0d882872eca5f43",
-      "source_name": "AMLA - Anti-Money Laundering Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "AMLA Chair Bruna Szego addresses European Police Congress in Berlin",
-      "url": "https://www.amla.europa.eu/news-media/news-articles/amla-chair-bruna-szego-addresses-european-police-congress-berlin_en",
-      "author": "",
-      "published": "2026-05-12T08:08:08",
-      "summary": "AMLA Chair Bruna Szego delivered a keynote address at the European Police Congress in Berlin on 6 May 2025, outlining AMLA's role in fostering European-level financial intelligence to support law enforcement.",
-      "score": 67,
-      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde le rôle de l'AMLA dans le renseignement financier et la lutte anti-blanchiment."
-    },
-    {
       "hash": "e755168c69257a19",
       "source_name": "EBA (X)",
       "source_type": "rss",
@@ -2253,7 +2235,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de fraudes commerciales (factures inexactes, prix gonflés) détectées par les autorités de contrôle."
+      "ai_summary": "Cet article concerne la conformité financière car il expose des fraudes facturales et tarifaires, violations des règles de transparence commerciale et de facturation légale."
     },
     {
       "hash": "88ffbd3d734a769b",
@@ -2810,7 +2792,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b575a62d55ab19ad",
@@ -3044,7 +3026,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du respect de la réglementation DORA sur les risques informatiques dans le secteur financier européen."
+      "ai_summary": "Le rapport DORA analyse les incidents ICT majeurs du secteur financier européen pour assurer la conformité réglementaire."
     },
     {
       "hash": "4dc7aa6d68b3a9ee",
@@ -3151,7 +3133,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il évoque la lutte contre le blanchiment d'argent et l'échange sécurisé d'informations financières entre unités de renseignement."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du leadership en matière de lutte contre le blanchiment d'argent et les échanges d'informations entre unités de renseignements financiers."
     },
     {
       "hash": "60839d5e2243721b",
@@ -3655,7 +3637,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1e667855adc003c8",
@@ -3854,6 +3836,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la lutte contre le financement du terrorisme, un pilier majeur de la conformité financière et de la lutte anti-blanchiment."
+    },
+    {
+      "hash": "2112a75367494ae7",
+      "source_name": "CJUE - Cour de Justice UE",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "84/Thu Jun 11 00:00:00 CEST 2026 : null - Judgment of the Court in Case C-81/24",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000084409",
+      "author": "",
+      "published": "2026-06-11T07:56:59",
+      "summary": " \n[Jenec] \n\nApproximation of laws\n\nBanking services: inclusion on a United States sanctions list is not sufficient, on its own, for a refusal to open an account\n\n",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: bank | +3 Géo Intl: united states | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "2b5c6572198f52d7",
@@ -4162,6 +4162,24 @@
       "ai_summary": "Cet avis concerne un emploi administratif dans les ministères économiques et financiers, non directement une obligation de conformité financière."
     },
     {
+      "hash": "1dbcdf851d3a8f60",
+      "source_name": "ECB - Banking Supervision",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Sharon Donnery: Trust is the infrastructure: banking supervision in a changing risk landscape",
+      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260611~1b8b1dfe48.en.html",
+      "author": "",
+      "published": "2026-06-11T09:00:00",
+      "summary": "",
+      "score": 37,
+      "score_breakdown": "+10 mots moyens: risk, bank | +15 Source EU | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "La supervision bancaire renforce la conformité en établissant des normes de risque et de gouvernance pour assurer la stabilité et la confiance du secteur financier."
+    },
+    {
       "hash": "9ca747bd7e90",
       "source_name": "Conseil de l'UE",
       "source_type": "scrape",
@@ -4267,7 +4285,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e9e606a1be6701f2",
@@ -4412,24 +4430,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'ESMA organise des conférences sur la finance durable et numérique, relevant de la conformité réglementaire des marchés financiers."
-    },
-    {
-      "hash": "5054076eb8d78708",
-      "source_name": "ESMA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "💡 #Prospectus requirements clarified ahead of the #ListingAct timeline. 🧭 Our statement provides guidance on how issuers, advisers, and national competent authorities can navigate the period before the amended Delegated Regulation becomes applicable.",
-      "url": "https://x.com/ESMAComms/status/2054118844357120306",
-      "author": "@ESMAComms",
-      "published": "2026-05-12T08:37:00",
-      "summary": "💡  #Prospectus requirements clarified ahead of the  #ListingAct timeline.🧭 Our statement provides guidance on how issuers, advisers, and national competent authorities can navigate the period before the amended Delegated Regulation becomes applicable. link.europa.eu/9FcxnK— ESMA - EU Securities Markets Regulator 🇪🇺 (@ESMAComms) May 12, 2026",
-      "score": 37,
-      "score_breakdown": "+10 mots forts: esma | +5 mots moyens: regulation | +10 Géo EU: esma | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les exigences de prospectus et la conformité réglementaire des émetteurs avant l'application du Règlement délégué modifié."
     },
     {
       "hash": "649acae5eb353b49",
@@ -4658,7 +4658,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de fraude commerciale, d'étiquetage frauduleux et du non-respect des réglementations douanières européennes."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de fraude commerciale, de traçabilité des produits et d'obligations réglementaires en matière d'étiquetage et d'origine des marchandises."
     },
     {
       "hash": "4a00ce81db831eae",
@@ -4676,7 +4676,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il rapporte les sanctions pécuniaires imposées par les autorités pour non-respect des obligations légales."
     },
     {
       "hash": "16839422cab120db",
@@ -4694,7 +4694,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la fraude internationale et des mesures policières renforcées pour y répondre."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la fraude financière et ses enjeux de conformité réglementaire internationaux."
     },
     {
       "hash": "d047d3fd62f18575",
@@ -5322,7 +5322,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "39d191e935e91176",
@@ -6052,6 +6052,42 @@
       "ai_summary": "Cet article traite du contrôle administratif et de la réglementation économique par le Conseil d'État, sans lien direct avec la conformité financière."
     },
     {
+      "hash": "fbaa18223ffb2740",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, 2ème - 7ème chambres réunies, 09 juin 2026, 504383",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260609-504383",
+      "author": "2ème - 7ème chambres réunies",
+      "published": "2026-06-09T12:00:00",
+      "summary": "Vu la procédure suivante :                  M. B... A... a demandé au juge des référés du tribunal administratif de Strasbourg, sur le fondement de l'article L. 521-1 du code de justice administrative, de suspendre l'exécution de l'arrêté du 19 mars 2025 par lequel le préfet du Bas-Rhin a ordonné son expulsion du territoire français et d'enjoindre à cette autorité de réexaminer sa situation et de lui délivrer un document justificatif de la régularité de son séjour assorti d'une autorisation de t",
+      "score": 24,
+      "score_breakdown": "+20 Géo FR: france, français | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "a44d8c66d3a1e5f8",
+      "source_name": "CJUE - Cour de Justice UE",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "80/Thu Jun 04 00:00:00 CEST 2026 : null - Judgment of the Court in Case C-560/24",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000084210",
+      "author": "",
+      "published": "2026-06-04T07:24:01",
+      "summary": " \n[Besthame] \n\nCitizenship of the Union\n\nUnion citizenship: a Member State may investigate fraud involving a marriage of convenience and establish its existence even after the person concerned has acquired its nationality\n\n",
+      "score": 24,
+      "score_breakdown": "+20 mots critiques: fraud | +10 Géo EU: member state | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "44fb88d94a37852a",
       "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
@@ -6158,6 +6194,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la supervision prudentielle et la conformité réglementaire des institutions financières."
+    },
+    {
+      "hash": "5c1cc4f9765228ec",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Modern risks require modern banking supervision, says Supervisory Board member Sharon Donnery. Our reforms simplify processes, clarify the capital framework, reduce backlogs and encourage deeper banking sector integration",
+      "url": "https://x.com/ecb/status/2065000880156332149",
+      "author": "@ecb",
+      "published": "2026-06-11T09:19:00",
+      "summary": "Modern risks require modern banking supervision, says Supervisory Board member Sharon Donnery.Our reforms simplify processes, clarify the capital framework, reduce backlogs and encourage deeper banking sector integration  bankingsupervision.europa.eu…— European Central Bank (@ecb) Jun 11, 2026",
+      "score": 22,
+      "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "8fc73b4fd6bc2802",
@@ -6482,24 +6536,6 @@
       "ai_summary": "Cet article traite de la divulgation en temps opportun et des sanctions en conformité financière et réglementaire."
     },
     {
-      "hash": "d26acfe96f08e9c8",
-      "source_name": "ICIJ",
-      "source_type": "email",
-      "category": "email",
-      "title": "Trump intelligence adviser previously helped father pursue millions from Kremlin-linked bank, leaked documents show",
-      "url": "https://www.icij.org/investigations/paradise-papers/trump-intelligence-adviser-previously-helped-father-pursue-millions-from-kremlin-linked-bank-leaked-documents-show/",
-      "author": "website@icij.org",
-      "published": "2026-06-10T21:40:13Z",
-      "summary": "Amaryllis Fox Kennedy, a Trump administration adviser on intelligence issues and former CIA officer, previously helped her father secure at least $12 million from Renaissance Capital, a Moscow-based investment bank that cooperated with the Kremlin and included former senior Russian intelligence officers in its top ranks, leaked documents show. As president of the BVI-registered Helios Enterprises Limited, she pressed the bank over a 2008 agreement tied to shares in a Ukrainian agricultural compa",
-      "score": 19,
-      "score_breakdown": "+5 mots moyens: bank | +8 Email",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
       "hash": "8226ed514ef7ddc2",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -6641,24 +6677,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'unification bancaire européenne et de la modernisation de la supervision financière."
-    },
-    {
-      "hash": "9e51f43e70352c0d",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "Mario Draghi exemplifies true European statesmanship: answering the call when it mattered most and helping Europe emerge stronger. President Christine @Lagarde congratulates him on receiving the Charlemagne Prize",
-      "url": "https://x.com/ecb/status/2054651590917701752",
-      "author": "@ecb",
-      "published": "2026-05-13T19:54:00",
-      "summary": "Mario Draghi exemplifies true European statesmanship: answering the call when it mattered most and helping Europe emerge stronger.President Christine @Lagarde congratulates him on receiving the Charlemagne Prize https://t.co/uQxcHBsDhq — European Central Bank (@ecb) May 13, 2026",
-      "score": 15,
-      "score_breakdown": "+10 mots forts: esma | +5 mots moyens: bank | +10 Géo EU: esma | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0f6df5df6dc65107",
@@ -6838,42 +6856,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption impliquant un PDG de groupe automobile."
     },
     {
-      "hash": "241c41489eef28cf",
-      "source_name": "CJUE - Cour de Justice UE",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "82/Thu Jun 04 00:00:00 CEST 2026 : null - Advocate General's Opinion in Case C-41/25",
-      "url": "https://curia.europa.eu/site/jcms/p1_1000084242",
-      "author": "",
-      "published": "2026-06-04T07:56:43",
-      "summary": " \nOrsay\n\nArea of Freedom, Security and Justice\n\nAdvocate General Norkus: a Member State cannot rely on immunity from jurisdiction to prevent the courts of the State in which insolvency proceedings have been opened from exercising their jurisdiction\n\n",
-      "score": 10,
-      "score_breakdown": "+10 Géo EU: member state | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "9fca0daf2e14ffa3",
-      "source_name": "CJUE - Cour de Justice UE",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "81/Thu Jun 04 00:00:00 CEST 2026 : Thu Jun 04 10:56:07 CEST 2026 - Advocate General’s Opinion in Case C-553/24",
-      "url": "https://curia.europa.eu/site/jcms/p1_1000084243",
-      "author": "",
-      "published": "2026-06-04T07:56:43",
-      "summary": " \nAssemblée nationale v Parliament and Council\n\nArea of Freedom, Security and Justice\n\nAdvocate General Ćapeta: Action brought by the French National Assembly against EU asylum and migration legislation based on non-compliance with the principle of subsidiarity should be rejected\n\n",
-      "score": 10,
-      "score_breakdown": "+10 mots forts: compliance | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "a5f6d25036e0",
       "source_name": "Egmont Group",
       "source_type": "scrape",
@@ -6959,7 +6941,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'application de la FCPA et des risques de dénonciation pour les entreprises mexicaines."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'application de la loi FCPA contre la corruption et des risques de dénonciation pour les entreprises mexicaines."
     },
     {
       "hash": "00c988dbbf2fd008",
@@ -7104,6 +7086,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation FCPA impliquant un directeur financier dans un schéma de corruption."
+    },
+    {
+      "hash": "241c41489eef28cf",
+      "source_name": "CJUE - Cour de Justice UE",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "82/Thu Jun 04 00:00:00 CEST 2026 : null - Advocate General's Opinion in Case C-41/25",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000084242",
+      "author": "",
+      "published": "2026-06-04T07:56:43",
+      "summary": " \nOrsay\n\nArea of Freedom, Security and Justice\n\nAdvocate General Norkus: a Member State cannot rely on immunity from jurisdiction to prevent the courts of the State in which insolvency proceedings have been opened from exercising their jurisdiction\n\n",
+      "score": 8,
+      "score_breakdown": "+10 Géo EU: member state | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "9fca0daf2e14ffa3",
+      "source_name": "CJUE - Cour de Justice UE",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "81/Thu Jun 04 00:00:00 CEST 2026 : Thu Jun 04 10:56:07 CEST 2026 - Advocate General’s Opinion in Case C-553/24",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000084243",
+      "author": "",
+      "published": "2026-06-04T07:56:43",
+      "summary": " \nAssemblée nationale v Parliament and Council\n\nArea of Freedom, Security and Justice\n\nAdvocate General Ćapeta: Action brought by the French National Assembly against EU asylum and migration legislation based on non-compliance with the principle of subsidiarity should be rejected\n\n",
+      "score": 8,
+      "score_breakdown": "+10 mots forts: compliance | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "2c70c163263116ba",
@@ -7463,7 +7481,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b86f2f506e06ae40",
@@ -7502,7 +7520,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-11T05:06:48.042180+00:00",
+  "last_update": "2026-06-11T10:06:59.716083+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
