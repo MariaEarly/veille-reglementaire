@@ -1372,7 +1372,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "af3803fb43d2ca1f",
@@ -1624,7 +1624,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions commerciales et des restrictions imposées par des États aux entreprises et personnalités impliquées dans les colonies israéliennes."
+      "ai_summary": "Cet article concerne les sanctions et restrictions commerciales imposées par des États contre des entités liées aux colonies israéliennes."
     },
     {
       "hash": "86e0083bdcb592ab",
@@ -2023,24 +2023,6 @@
       "ai_summary": "Cet article concerne l'identification des entités assujetties à la supervision directe de l'AMLA pour la conformité AML."
     },
     {
-      "hash": "2f215b4af1d2f569",
-      "source_name": "AMLA - Anti-Money Laundering Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "AMLA Hosts its First Conference",
-      "url": "https://www.amla.europa.eu/amla-hosts-its-first-conference_en",
-      "author": "",
-      "published": "2026-05-13T17:17:46",
-      "summary": "AMLA’s will host its first conference, Building Trust, Enhancing Integrity: A New Chapter in the EU’s Fight Against Financial Crime, on 9 June 2026 at the Alte Oper in Frankfurt am Main, Germany.",
-      "score": 67,
-      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla, germany | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'AMLA organise une conférence dédiée à la lutte contre la criminalité financière."
-    },
-    {
       "hash": "e755168c69257a19",
       "source_name": "EBA (X)",
       "source_type": "rss",
@@ -2163,7 +2145,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des fraudes facturées (factures insuffisamment détaillées, prix gonflés) et du contrôle réglementaire de la DGCCRF."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de fraudes commerciales (factures incomplètes, prix gonflés) détectées lors de contrôles réglementaires."
     },
     {
       "hash": "88ffbd3d734a769b",
@@ -2254,6 +2236,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la conformité aux sanctions OFAC et des obligations de compliance dans le secteur énergétique vénézuélien."
+    },
+    {
+      "hash": "3cbc9e74b67feae6",
+      "source_name": "Commission EU - Press",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Commission approves Holcim's acquisition of Xella, subject to conditions",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1338",
+      "author": "",
+      "published": "2026-06-11T22:00:00",
+      "summary": "European Commission Press release Brussels, 12 Jun 2026 The European Commission has approved, under the EU Merger Regulation, the proposed acquisition of Xella international S.A. ('Xella') by Holcim Ltd ('Holcim'). The approval is conditional upon full compliance with the commitment offered by Holcim, which entails the full divestment of Holcim's AAC blocks plant in Adjud, Romania.",
+      "score": 60,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: regulation | +15 Source EU | +10 Géo EU: european commission | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "7d9db9f14a49225a",
@@ -2468,7 +2468,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "K2 Integrity acquiert RiskFront AI pour automatiser la conformité aux réglementations de lutte contre la criminalité financière et la gestion des risques."
+      "ai_summary": "K2 Integrity acquiert RiskFront AI pour automatiser la conformité aux normes de lutte contre la criminalité financière."
     },
     {
       "hash": "aba53acf8b737496",
@@ -2720,7 +2720,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6a6e826b649c5ad1",
@@ -2829,6 +2829,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la diligence raisonnable et de la lutte contre le blanchiment d'argent."
+    },
+    {
+      "hash": "dfdb6ee6d6ebc402",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 12 June, 2026",
+      "url": "https://www.eba.europa.eu/node/19744",
+      "author": "Anonymous",
+      "published": "2026-06-12T15:00:02",
+      "summary": "EBA E-mail alert 12 June, 2026\n\n  \n    Date\n          12/06/2026\n\n      \n\nAnonymous (not verified)\n\nFri, 06/12/2026 - 17:00\n\n\n            \n\n      \n  \n    Final Q&amp;As\n          2025_7602 Obstacle assessment of a mandatory client segment selection screen in a redirection journey\n          2025_7606 Clarification of the scope of the term \"authentication procedures\" in the context of the RTS and the EBA Opinion on obstacles\n          2025_7607 Definition of \"equivalent authentication procedure\" f",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: eba | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il traite des Q&As de l'EBA sur l'évaluation d'obstacles dans les parcours de redirection bancaire."
     },
     {
       "hash": "6768508f5d5ac8b7",
@@ -3280,6 +3298,24 @@
       "ai_summary": "Deutsche Bank a violé les sanctions contre la Russie en facilitant des paiements non autorisés, ce qui constitue une non-conformité réglementaire."
     },
     {
+      "hash": "f306364f19bd6aa4",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, 4ème - 1ère chambres réunies, 10 juin 2026, 501372",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260610-501372",
+      "author": "4ème - 1ère chambres réunies",
+      "published": "2026-06-10T12:00:00",
+      "summary": "Vu la procédure suivante :                La présidente de l'université Paris Cité a porté plainte contre M. A... B... devant la section disciplinaire du conseil académique de cet établissement. Par une décision du 23 juin 2021, la section disciplinaire du conseil académique a infligé à M. B... la sanction de la révocation et décidé que cette sanction serait immédiatement exécutoire.                   Par une décision du 11 décembre 2024, le Conseil national de l'enseignement supérieur et de la ",
+      "score": 48,
+      "score_breakdown": "+20 mots critiques: sanction | +20 Géo FR: france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "437a188baf1e0b2a",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
@@ -3295,7 +3331,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "4d7608535df20ec9",
@@ -3439,7 +3475,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d4305eee243760ce",
@@ -3928,6 +3964,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de sanctions internationales affectant les opérations bancaires et les paiements à Cuba."
     },
     {
+      "hash": "d25df8d26caef49e",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "US lawmakers probe DOJ on move to drop Adani case",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/us-lawmakers-probe-doj-move-drop-adani-case",
+      "author": "Gaspard Le Dem",
+      "published": "2026-06-12T16:14:20",
+      "summary": "A pair of Democratic senators has asked for details on the DOJ’s decision to abandon a fraud and bribery case against India’s Gautam Adani, calling the business tycoon’s reported proposal to invest billions in the US economy “an egregious quid-pro-quo”.",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a41957ae2741c390",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -4216,6 +4270,24 @@
       "ai_summary": "Cet article concerne les sanctions internationales liées à la Cour pénale internationale et leur conformité réglementaire."
     },
     {
+      "hash": "aa2da268929ea454",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🌍 The EBA at Global ABS 2026 We are proud to spotlight colleagues Eirini Kanoni and Roberta De Filippis for representing the Europ...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7471209295595028481",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-06-12T14:38:24",
+      "summary": "🌍 The EBA at Global ABS 2026\n\nWe are proud to spotlight colleagues Eirini Kanoni and Roberta De Filippis for representing the European Banking Authority at this year’s Global ABS 2026, hosted by FT Live & AFME (Association for Financial Markets in Europe)👏\n\n🔷 Eirini Kanoni | Policy Expert (PRSP)\n 🎤 Panel: “Capital Without Borders: European Competitiveness in the World”\n Eirini shared perspectives on the EBA’s work and EU reforms—highlighting a positive overall direction\n\n 💡 Key takeaway: global ",
+      "score": 37,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "e9e606a1be6701f2",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -4375,7 +4447,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne l'identification des entités soumises à la supervision directe de l'AMLA en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car l'AMLA sélectionne les entités soumises à sa supervision directe pour renforcer la lutte anti-blanchiment."
     },
     {
       "hash": "f34dec3f6a83243f",
@@ -4393,7 +4465,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "649acae5eb353b49",
@@ -4604,7 +4676,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de la tokenisation des actions et de la conformité réglementaire des actifs numériques en bourse."
     },
     {
       "hash": "93c9501e39c46aee",
@@ -4622,7 +4694,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du rôle des responsables GRC lors des diligences raisonnables dans les transactions."
     },
     {
       "hash": "2622bb4f9c2cdc27",
@@ -5178,7 +5250,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "39d191e935e91176",
@@ -5544,7 +5616,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f6843e89fe618cfc",
@@ -5688,7 +5760,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision et de l'engagement de l'autorité anti-blanchiment avec le secteur privé."
     },
     {
       "hash": "8a731ba36f98c00f",
@@ -5994,7 +6066,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "06821502bf2c8ea2",
@@ -6281,7 +6353,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7c74ebe87a1306a3",
@@ -6639,7 +6711,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la gestion par KPMG d'allégations de lanceurs d'alerte, un élément clé de la conformité."
     },
     {
       "hash": "fa8475b029d47f06",
@@ -6804,24 +6876,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la violation de la loi FCPA (Foreign Corrupt Practices Act) dans l'affaire 1MDB."
     },
     {
-      "hash": "ab5a34f696d42964",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Former Stericycle finance director to plead guilty to FCPA scheme",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/former-stericycle-finance-director-plead-guilty-fcpa-scheme",
-      "author": "Austin Cope",
-      "published": "2026-05-13T18:41:58",
-      "summary": "Abraham Cigarroa Cervantes, who served as the waste management company’s finance director, is set for a change-of-plea hearing on 21 May after his co-conspirator pleaded guilty and the company entered into a DPA for a Latin American bribery scheme.&nbsp;",
-      "score": 9,
-      "score_breakdown": "+3 Presse | +3 Géo Intl: fcpa | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation FCPA impliquant un directeur financier dans un schéma de corruption."
-    },
-    {
       "hash": "241c41489eef28cf",
       "source_name": "CJUE - Cour de Justice UE",
       "source_type": "rss",
@@ -6837,7 +6891,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "9fca0daf2e14ffa3",
@@ -6855,7 +6909,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5fd505b95b07c8d5",
@@ -7107,7 +7161,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La Norvège publie des directives sur le calcul des amendes pour corruption étrangère afin d'encourager l'autoconfession et la conformité."
     },
     {
       "hash": "f7d89337486be907",
@@ -7125,7 +7179,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'effondrement des architectures anti-corruption au Mexique et de la conformité institutionnelle."
     },
     {
       "hash": "9fac664e61627af6",
@@ -7269,7 +7323,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b86f2f506e06ae40",
@@ -7308,7 +7362,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-12T15:44:57.355041+00:00",
+  "last_update": "2026-06-12T19:53:51.023113+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
