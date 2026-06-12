@@ -745,24 +745,6 @@
       "ai_summary": "L'AMF retire l'agrément de Xerys Invest pour non-conformité aux règles de gestion de portefeuille et de régulation financière."
     },
     {
-      "hash": "9aed84ba008460c4",
-      "source_name": "AMF - Actualités",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Outil de gestion de la liquidité : l'AMF a l’intention d’appliquer les orientations de l'ESMA",
-      "url": "https://www.amf-france.org/fr/actualites-publications/actualites/outil-de-gestion-de-la-liquidite-lamf-lintention-dappliquer-les-orientations-de-lesma#xts=607212&xtor=RSS-3&type=RSS",
-      "author": "",
-      "published": "2026-05-13T10:27:35",
-      "summary": "Actualité                  Gestion d&#039;actifs              MIF              OPCVM              Evolution réglementation                    Outil de gestion de la liquidité : l&#039;AMF a l’intention d’appliquer les orientations de l&#039;ESMA",
-      "score": 97,
-      "score_breakdown": "+20 mots forts: amf, esma | +25 Source FR | +20 Géo FR: amf | ×1.5 (<24h)",
-      "doc_type": "GUIDELINES",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'AMF applique les directives ESMA sur les outils de gestion de liquidité, renforçant la conformité réglementaire des gestionnaires d'actifs."
-    },
-    {
       "hash": "47c92308f3d4aa54",
       "source_name": "CSSF Luxembourg (AML/CFT)",
       "source_type": "rss",
@@ -1390,7 +1372,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "af3803fb43d2ca1f",
@@ -1642,7 +1624,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions et restrictions imposées par des États à des entités et personnes impliquées dans les colonies israéliennes."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions commerciales et des restrictions imposées par des États aux entreprises et personnalités impliquées dans les colonies israéliennes."
     },
     {
       "hash": "86e0083bdcb592ab",
@@ -2181,7 +2163,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de fraudes commerciales, facturations frauduleuses et non-conformités réglementaires détectées lors de contrôles officiels."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des fraudes facturées (factures insuffisamment détaillées, prix gonflés) et du contrôle réglementaire de la DGCCRF."
     },
     {
       "hash": "88ffbd3d734a769b",
@@ -2486,7 +2468,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "K2 Integrity acquiert RiskFront AI pour automatiser la conformité aux réglementations de lutte contre la criminalité financière et la gestion des risques."
     },
     {
       "hash": "aba53acf8b737496",
@@ -2738,7 +2720,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6a6e826b649c5ad1",
@@ -2757,24 +2739,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Le procureur national financier français en Algérie discute de coopération judiciaire en matière financière."
-    },
-    {
-      "hash": "fb7b7f7e81fd43a4",
-      "source_name": "Commission EU - Press",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Statement by President von der Leyen on the 21st sanctions package against Russia",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1314",
-      "author": "",
-      "published": "2026-06-09T09:32:06",
-      "summary": "European Commission Statement Brussels, 09 Jun 2026 Almost every day now, we wake up to the same kind of news. Another major Russian strike on Ukrainian cities, targeting civilians blindly. We also wake up to the...",
-      "score": 54,
-      "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | +10 Géo EU: european commission | ×1.2 (<3d)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b575a62d55ab19ad",
@@ -2865,24 +2829,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la diligence raisonnable et de la lutte contre le blanchiment d'argent."
-    },
-    {
-      "hash": "7817306560fb30d3",
-      "source_name": "Money Laundering News",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Scam Center Strike Force Targets Southeast Asian Scam Centers",
-      "url": "https://www.moneylaunderingnews.com/2026/05/scam-center-strike-force-targets-southeast-asian-scam-centers/",
-      "author": "Emily Friedman",
-      "published": "2026-05-13T13:47:35",
-      "summary": "On April 23, 2026, the Department of Justice announced charges against two Chinese Nationals, Huang Xing Shan and Jiang Wen Jie, for wire fraud, the seizure of $700 million in Cryptocurrency and the seizure of a Telegram Channel and 503 websites as part of the Department’s effort to combat foreign fraud schemes that target American...",
-      "score": 54,
-      "score_breakdown": "+20 mots critiques: fraud | +10 mots forts: crypto | +3 Presse | +3 Géo Intl: department of justice | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre la fraude financière, le blanchiment d'argent et la saisie de cryptomonnaies par les autorités."
     },
     {
       "hash": "6768508f5d5ac8b7",
@@ -3349,7 +3295,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "4d7608535df20ec9",
@@ -3478,6 +3424,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il rapporte une sanction de l'ACPR pour manquements réglementaires d'un intermédiaire d'assurance."
     },
     {
+      "hash": "fb7b7f7e81fd43a4",
+      "source_name": "Commission EU - Press",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Statement by President von der Leyen on the 21st sanctions package against Russia",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1314",
+      "author": "",
+      "published": "2026-06-09T09:32:06",
+      "summary": "European Commission Statement Brussels, 09 Jun 2026 Almost every day now, we wake up to the same kind of news. Another major Russian strike on Ukrainian cities, targeting civilians blindly. We also wake up to the...",
+      "score": 45,
+      "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | +10 Géo EU: european commission | ×1.0 (7d)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "d4305eee243760ce",
       "source_name": "Parlement EU - ECON",
       "source_type": "rss",
@@ -3547,7 +3511,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA impose aux banques des tests de résistance pour vérifier leur solidité."
     },
     {
       "hash": "908ee84ee5d419bb",
@@ -3638,24 +3602,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'EBA recrute des experts en analyse économique pour évaluer les risques de crédit et interconnexions financières."
-    },
-    {
-      "hash": "f34dec3f6a83243f",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📢 New career opportunity at the EBA, and just in time for summer The European Banking Authority is looking to establish a talent p...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7468646041563877376",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-06-05T12:52:57",
-      "summary": "📢 New career opportunity at the EBA, and just in time for summer\n\nThe European Banking Authority is looking to establish a talent pool for Policy Experts to join its Economics Analysis and Impact Assessment Unit within the Economic and Risk Analysis Department in 📍 Paris, France\n\nThis role is a great fit for professionals with experience in credit risk, financial interconnections, data analysis and econometric tools, who want to contribute to EU financial regulation.\n\nYou could join a multicultu",
-      "score": 45,
-      "score_breakdown": "+10 mots forts: eba | +15 mots moyens: risk, regulation, bank | +20 Géo FR: france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1e667855adc003c8",
@@ -3871,7 +3817,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations légales des banques concernant les sanctions internationales et l'ouverture de comptes."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales et de leurs obligations dans les services bancaires."
     },
     {
       "hash": "2b5c6572198f52d7",
@@ -4429,7 +4375,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne l'identification des entités soumises à la supervision directe de l'AMLA, un aspect clé de la conformité en matière de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne l'identification des entités soumises à la supervision directe de l'AMLA en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme."
+    },
+    {
+      "hash": "f34dec3f6a83243f",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📢 New career opportunity at the EBA, and just in time for summer The European Banking Authority is looking to establish a talent p...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7468646041563877376",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-06-05T12:52:57",
+      "summary": "📢 New career opportunity at the EBA, and just in time for summer\n\nThe European Banking Authority is looking to establish a talent pool for Policy Experts to join its Economics Analysis and Impact Assessment Unit within the Economic and Risk Analysis Department in 📍 Paris, France\n\nThis role is a great fit for professionals with experience in credit risk, financial interconnections, data analysis and econometric tools, who want to contribute to EU financial regulation.\n\nYou could join a multicultu",
+      "score": 36,
+      "score_breakdown": "+10 mots forts: eba | +15 mots moyens: risk, regulation, bank | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "649acae5eb353b49",
@@ -4623,6 +4587,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il porte sur la fraude aux investissements et les escroqueries financières en ligne."
+    },
+    {
+      "hash": "aac8e4d0b6981c8f",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "BFM Crypto, les Pros : SpaceX en bourse, une menace pour les cryptos ? – 12/06",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-pros-des-cryptos/bfm-crypto-les-pros-space-x-en-bourse-une-menace-pour-les-cryptos-12-06_EN-202606120604.html",
+      "author": "",
+      "published": "2026-06-12T13:39:18",
+      "summary": "Ce vendredi 12 juin, les niveaux techniques à surveiller sur le marché des cryptos, l'introduction de SpaceX en bourse en tant qu'éventuelle menace pour les cryptos avec des actions bientôt tokenisées, les grands comptes institutionnels profitant de la chute des cours pour accumuler des cryptos, la possible adoption du Clarity Act en juillet, l'Union européenne souhaitant prioriser les RWA face à la DeFi, la sécurité des wallets menacée par l'arrivée de l'IA Mythos, ainsi que la question du risq",
+      "score": 34,
+      "score_breakdown": "+10 mots forts: crypto | +3 Presse | +10 Géo EU: union européenne | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "93c9501e39c46aee",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Deal Scrutiny is Changing the Role of GRC Leaders",
+      "url": "https://www.corporatecomplianceinsights.com/deal-scrutiny-changing-role-security-grc-leaders/",
+      "author": "Matt Hillary",
+      "published": "2026-06-12T11:00:31",
+      "summary": "The expectations placed on cybersecurity and risk change quickly once diligence begins\nThe post Deal Scrutiny is Changing the Role of GRC Leaders appeared first on Corporate Compliance Insights.",
+      "score": 34,
+      "score_breakdown": "+10 mots forts: compliance | +10 mots moyens: risk, ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "2622bb4f9c2cdc27",
@@ -5039,24 +5039,6 @@
       "ai_summary": "L'article concerne les pénalités judiciaires pour entreprises et l'introduction de lignes directrices de conformité légale en Allemagne."
     },
     {
-      "hash": "0ad15072483b7e25",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "MPF seeks penalty of $6m for VW’s Brazil business over dieselgate-related fraud&nbsp;",
-      "url": "https://globalinvestigationsreview.com/article/mpf-seeks-penalty-of-6m-vws-brazil-business-over-dieselgate-related-fraud",
-      "author": "",
-      "published": "2026-05-13T10:58:53",
-      "summary": "",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le MPF poursuit Volkswagen Brésil pour fraude dieselgate, réclamant 6M$ de pénalité pour non-conformité réglementaire."
-    },
-    {
       "hash": "c7cb7b7963878257",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -5196,7 +5178,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "39d191e935e91176",
@@ -5544,7 +5526,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les nouvelles directives de l'ESMA sur la communication post-négociation assurent la conformité réglementaire lors de la transition vers un cycle T+1."
     },
     {
       "hash": "e709ad8be440b312",
@@ -5562,7 +5544,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f6843e89fe618cfc",
@@ -5689,6 +5671,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite du renouvellement et de la modification des mesures restrictives de l'UE contre la Syrie."
+    },
+    {
+      "hash": "b236874d23edc930",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "AMLA Executive Board Member Rikke-Louise Petersen interviewed by ACAMS moneylaundering.com",
+      "url": "https://www.amla.europa.eu/news-media/news-articles/amla-executive-board-member-rikke-louise-petersen-interviewed-acams-moneylaunderingcom_en",
+      "author": "",
+      "published": "2026-05-26T18:30:00",
+      "summary": "AMLA Executive Board Member Rikke-Louise Petersen spoke to Koos Couvée, Europe Editor at ACAMS moneylaundering.com, about AMLA's approach to supervision and engagement with the private sector.",
+      "score": 27,
+      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "8a731ba36f98c00f",
@@ -5979,24 +5979,6 @@
       "ai_summary": "Cour administrative statuant sur l'annulation d'un arrêté concernant une société éolienne, sans lien apparent avec la conformité financière."
     },
     {
-      "hash": "09ff82b8f1644453",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, 4ème - 1ère chambres réunies, 13 mai 2026, 496752",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260513-496752",
-      "author": "4ème - 1ère chambres réunies",
-      "published": "2026-05-13T12:00:00",
-      "summary": "14-02-01-05-02 COMMERCE, INDUSTRIE, INTERVENTION ÉCONOMIQUE DE LA PUISSANCE PUBLIQUE. - RÉGLEMENTATION DES ACTIVITÉS ÉCONOMIQUES. - ACTIVITÉS... Vu la procédure suivante :                  La société Longévité a demandé à la cour administrative d'appel de Paris d'annuler pour excès de pouvoir l'arrêté du 21 septembre 2021 par lequel le maire de Clichy-sous-Bois Seine-Saint-Denis a refusé de lui accorder un permis de construire valant autorisation d'exploitation commerciale pour étendre de 5 331 ",
-      "score": 25,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite du contrôle administratif et de la réglementation économique par le Conseil d'État, sans lien direct avec la conformité financière."
-    },
-    {
       "hash": "a44d8c66d3a1e5f8",
       "source_name": "CJUE - Cour de Justice UE",
       "source_type": "rss",
@@ -6012,7 +5994,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "06821502bf2c8ea2",
@@ -6085,24 +6067,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cette licence VASP concerne la conformité financière car elle régule les prestataires de services d'actifs numériques et leurs activités de paiement."
-    },
-    {
-      "hash": "fb3cdd8b266d15e2",
-      "source_name": "BIS - Speeches",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Sam Woods: Clinical supervision",
-      "url": "https://www.bis.org/review/r260513b.htm",
-      "author": "Sam Woods",
-      "published": "2026-05-13T12:15:00",
-      "summary": "Text of The Henry Thornton Lecture by Mr Sam Woods, Deputy Governor for Prudential Regulation of the Bank of England and Chief Executive of the Prudential Regulation Authority (PRA), at Bayes Business School, London, 12 May 2026.",
-      "score": 22,
-      "score_breakdown": "+10 mots moyens: regulation, bank | +5 Source Intl | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la supervision prudentielle et la conformité réglementaire des institutions financières."
     },
     {
       "hash": "5c1cc4f9765228ec",
@@ -6302,6 +6266,24 @@
       "ai_summary": "Cet article concerne la lutte contre le blanchiment d'argent et la fraude financière impliquant des populations non autorisées à travailler."
     },
     {
+      "hash": "6fb4897ef13a2f5f",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "SpaceX : une menace pour les cryptos",
+      "url": "https://www.bfmtv.com/economie/video-space-x-une-menace-pour-les-cryptos_VN-202606120595.html",
+      "author": "",
+      "published": "2026-06-12T13:16:42",
+      "summary": "\"Il y a clairement un effet d'éviction\" explique Stanislas Barthélémi, Président de l'ADAN. ",
+      "score": 19,
+      "score_breakdown": "+10 mots forts: crypto | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "7c74ebe87a1306a3",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -6410,24 +6392,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la déclaration de revenus en crypto et de la protection des données fiscales."
     },
     {
-      "hash": "bbeb6ce5969fb23e",
-      "source_name": "Corporate Compliance Insights",
-      "source_type": "press",
-      "category": "presse",
-      "title": "What the Enforcement Record Says About ‘Timely’ Disclosure",
-      "url": "https://www.corporatecomplianceinsights.com/what-enforcement-record-says-about-timely-disclosure/",
-      "author": "Jennifer L. Gaskin",
-      "published": "2026-05-13T11:00:30",
-      "summary": "Of the nine enforcement cases CCI examined where companies received credit for timely disclosure, only two included a measurable time window. In several others, the timeliness clock had effectively run out before the company acted — a whistleblower, a press report or a parallel investigation had already answered the question. CCI editorial director Jennifer Gaskin examines what the enforcement record actually says about one of corporate compliance's most consequential — and least defined — oblig",
-      "score": 19,
-      "score_breakdown": "+10 mots forts: compliance | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite de la divulgation en temps opportun et des sanctions en conformité financière et réglementaire."
-    },
-    {
       "hash": "8226ed514ef7ddc2",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -6534,24 +6498,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'unification bancaire européenne et de la modernisation de la supervision financière."
-    },
-    {
-      "hash": "0f6df5df6dc65107",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "Protecting banks’ resilience is central for us, Supervisory Board Chair Claudia Buch tells @PerspektivenWP. We are simplifying processes without lowering our supervisory standards – resilience and growth are not in conflict",
-      "url": "https://x.com/ecb/status/2054568869767901229",
-      "author": "@ecb",
-      "published": "2026-05-13T14:26:00",
-      "summary": "Protecting banks’ resilience is central for us, Supervisory Board Chair Claudia Buch tells @PerspektivenWP. We are simplifying processes without lowering our supervisory standards – resilience and growth are not in conflict https://t.co/VuDz8HOY3r — European Central Bank (@ecb) May 13, 2026",
-      "score": 15,
-      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La conformité bancaire concerne la résilience des banques et les normes de supervision maintenues par les autorités."
     },
     {
       "hash": "eb01f73b693e1ddd",
@@ -6678,6 +6624,24 @@
       "ai_summary": "Le forum Wolfsberg 2025 aborde l'alignement stratégique et les gains opérationnels en matière de conformité financière et lutte anti-blanchiment."
     },
     {
+      "hash": "b4565289f6c22eb7",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Counsel Watch: the law firms at the centre of KPMG Australia’s whistleblower crisis",
+      "url": "https://globalinvestigationsreview.com/article/counsel-watch-the-law-firms-the-centre-of-kpmg-australias-whistleblower-crisis",
+      "author": "Malavika Devaya",
+      "published": "2026-06-12T10:20:00",
+      "summary": "In the latest Counsel Watch, the firms involved in KPMG’s response to a whistleblower’s allegations in Australia, and the lawyers whom Russians are turning to for help in designation challenges in the UK, US and Australia.",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: australia | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "fa8475b029d47f06",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -6711,7 +6675,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde l'application de la loi FCPA contre la corruption et les risques de dénonciation pour les entreprises mexicaines."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'application de la FCPA et des risques de dénonciation pour les entreprises mexicaines."
     },
     {
       "hash": "00c988dbbf2fd008",
@@ -6873,7 +6837,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9fca0daf2e14ffa3",
@@ -6891,7 +6855,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5fd505b95b07c8d5",
@@ -7128,6 +7092,42 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et de violations de règles éthiques."
     },
     {
+      "hash": "6d21d1ea3165c2fa",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Norway publishes guidance on corporate penalties in foreign bribery cases",
+      "url": "https://globalinvestigationsreview.com/article/norway-publishes-guidance-corporate-penalties-in-foreign-bribery-cases",
+      "author": "Malavika Devaya",
+      "published": "2026-06-12T11:10:43",
+      "summary": "Norwegian prosecutors hope new guidelines on how they will calculate corporate fines in overseas corruption cases will result in more self-reports and cooperation.",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "f7d89337486be907",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "A former Mexican Supreme Court Justice on surviving the fall of anti-corruption architectures&nbsp;",
+      "url": "https://globalinvestigationsreview.com/article/former-mexican-supreme-court-justice-surviving-the-fall-of-anti-corruption-architectures",
+      "author": "",
+      "published": "2026-06-12T09:32:20",
+      "summary": "GIR is proud to publish the transcript of former Mexican Supreme Court justice Alfredo Gutiérrez Ortíz Mena’s keynote speech at Latin Lawyer &amp; GIR Live: Anti-Corruption &amp; Investigations Mexico, on the institutions the country built, the enforcers who paused their actions, and the citizens who did not.&nbsp;",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "9fac664e61627af6",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7269,7 +7269,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b86f2f506e06ae40",
@@ -7308,7 +7308,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-12T10:46:15.788206+00:00",
+  "last_update": "2026-06-12T14:35:51.388101+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
