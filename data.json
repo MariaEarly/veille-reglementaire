@@ -1570,7 +1570,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la fraude aux paiements en Europe, un enjeu majeur de conformité financière et de gestion des risques pour les institutions bancaires."
     },
     {
       "hash": "8a7f3912d3e57f45",
@@ -2163,7 +2163,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il expose des pratiques frauduleuses (factures incomplètes, prix gonflés) détectées dans le secteur automobile, relevant de la régulation et du respect des normes commerciales."
+      "ai_summary": "Cet article concerne la conformité financière car il révèle des pratiques frauduleuses (factures inexactes, prix gonflés) détectées lors de contrôles réglementaires de conformité."
     },
     {
       "hash": "88ffbd3d734a769b",
@@ -2271,7 +2271,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision réglementaire d'une compagnie d'assurance par l'autorité compétente."
     },
     {
       "hash": "4633fa5febe6f8ba",
@@ -2289,7 +2289,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3cbc9e74b67feae6",
@@ -2756,7 +2756,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6a6e826b649c5ad1",
@@ -2792,7 +2792,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'un litige fiscal impliquant une société et des questions d'abus de droit et fraude à la loi en matière d'impôts."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire d'abus de droit et fraude fiscale impliquant une société en matière d'impôts."
     },
     {
       "hash": "b575a62d55ab19ad",
@@ -3385,7 +3385,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4d7608535df20ec9",
@@ -3529,7 +3529,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d4305eee243760ce",
@@ -3889,7 +3889,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ffcf49beac0de7f6",
@@ -4034,24 +4034,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de sanctions internationales affectant les opérations bancaires et les paiements à Cuba."
-    },
-    {
-      "hash": "d25df8d26caef49e",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "US lawmakers probe DOJ on move to drop Adani case",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/us-lawmakers-probe-doj-move-drop-adani-case",
-      "author": "Gaspard Le Dem",
-      "published": "2026-06-12T16:14:20",
-      "summary": "A pair of Democratic senators has asked for details on the DOJ’s decision to abandon a fraud and bribery case against India’s Gautam Adani, calling the business tycoon’s reported proposal to invest billions in the US economy “an egregious quid-pro-quo”.",
-      "score": 39,
-      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a41957ae2741c390",
@@ -4501,7 +4483,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "649acae5eb353b49",
@@ -5235,6 +5217,24 @@
       "ai_summary": "Cet article concerne les sanctions financières de l'UE contre l'ancien régime al-Assad en Syrie et le delisting d'entités."
     },
     {
+      "hash": "d25df8d26caef49e",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "US lawmakers probe DOJ on move to drop Adani case",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/us-lawmakers-probe-doj-move-drop-adani-case",
+      "author": "Gaspard Le Dem",
+      "published": "2026-06-12T16:14:20",
+      "summary": "A pair of Democratic senators has asked for details on the DOJ’s decision to abandon a fraud and bribery case against India’s Gautam Adani, calling the business tycoon’s reported proposal to invest billions in the US economy “an egregious quid-pro-quo”.",
+      "score": 31,
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: doj | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "b464928f436cc93b",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -5250,7 +5250,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e9344c0958e2d89a",
@@ -5268,7 +5268,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "39d191e935e91176",
@@ -5584,23 +5584,6 @@
       "ai_summary": "Cet article concerne la coopération entre unités de renseignement financier pour lutter contre le blanchiment et le financement du terrorisme."
     },
     {
-      "hash": "ffccf442c855",
-      "source_name": "DOJ - Criminal Division",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "High-Ranking CJNG Leader Charged with Federal Drug Trafficking Conspiracy, Firearm Offenses, and Money Laundering Conspiracy",
-      "url": "https://www.justice.gov/opa/pr/high-ranking-cjng-leader-charged-federal-drug-trafficking-conspiracy-firearm-offenses-and",
-      "author": "",
-      "published": "2026-05-14T13:42:42-04:00",
-      "summary": "A federal grand jury in the District of Columbia returned a superseding indictment against Audias Flores Silva (\"Jardinero\"), a high-ranking CJNG leader, adding methamphetamine trafficking and money laundering conspiracy charges. Prosecuted by the Criminal Division's Money Laundering, Narcotics and Forfeiture Section (MNF).",
-      "score": 30,
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de blanchiment d'argent impliquant un chef du cartel CJNG."
-    },
-    {
       "hash": "84a7424cb7aebece",
       "source_name": "ESMA (X)",
       "source_type": "rss",
@@ -5634,7 +5617,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f6843e89fe618cfc",
@@ -6711,7 +6694,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'application de la loi FCPA contre la corruption et des risques de dénonciation pour les entreprises mexicaines."
+      "ai_summary": "Cet article concerne la conformité financière car il aborde l'application de la FCPA et les risques de dénonciation pour les entreprises mexicaines."
     },
     {
       "hash": "00c988dbbf2fd008",
@@ -6855,7 +6838,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "9fca0daf2e14ffa3",
@@ -6873,7 +6856,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5fd505b95b07c8d5",
@@ -7143,7 +7126,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'effondrement des architectures anti-corruption au Mexique et de la conformité institutionnelle."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'effondrement des architectures anti-corruption au Mexique et de leurs impacts institutionnels."
     },
     {
       "hash": "9fac664e61627af6",
@@ -7287,7 +7270,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b86f2f506e06ae40",
@@ -7326,7 +7309,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-13T14:35:04.628175+00:00",
+  "last_update": "2026-06-13T19:08:58.246494+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
