@@ -940,7 +940,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet arrêté concerne la lutte anti-blanchiment et contre le financement du terrorisme via la gestion des fonds et ressources économiques."
     },
     {
       "hash": "6fca3bd860a6c21a",
@@ -2145,7 +2145,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il révèle des défaillances dans la facturation et la transparence tarifaire des établissements automobiles contrôlés."
+      "ai_summary": "Cet article concerne la conformité financière car il révèle des pratiques frauduleuses (factures incomplètes, tarifs majorés) dans le secteur automobile, domaines clés de la conformité."
     },
     {
       "hash": "88ffbd3d734a769b",
@@ -2253,7 +2253,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3cbc9e74b67feae6",
@@ -2738,7 +2738,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6a6e826b649c5ad1",
@@ -2757,6 +2757,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Le procureur national financier français en Algérie discute de coopération judiciaire en matière financière."
+    },
+    {
+      "hash": "bf0bf3f48ad12955",
+      "source_name": "Cass. - Fraude",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de TOULOUSE, 1ère chambre, 11 juin 2026, 24TL01418",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDETOULOUSE-20260611-24TL01418",
+      "author": "1ère chambre",
+      "published": "2026-06-11T12:00:00",
+      "summary": "19-01-03-03 Contributions et taxes. - Généralités. - Règles générales d'établissement de l'impôt. - Abus de droit et fraude à la loi.... Vu la procédure suivante :           Procédure contentieuse antérieure :           La société Mark Holding a demandé au tribunal administratif de Nîmes de prononcer la décharge des cotisations supplémentaires d'impôt sur les sociétés, de la cotisation sur la valeur ajoutée des entreprises et de la taxe sur les salaires auxquelles elle a été assujettie au titre ",
+      "score": 54,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "b575a62d55ab19ad",
@@ -3027,6 +3045,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'EBA publie une liste actualisée des banques systémiquement importantes de l'UE pour 2025, relevant de la conformité réglementaire bancaire."
+    },
+    {
+      "hash": "92b541c59a9caf26",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "AXA FRANCE VIE - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GQnZvakZ3alRCaDJtVXVJam8tQzcwWkRNOWtoZTBEd3VDU0JMUFRxRU9Fd1NfeHptWU9nSThKdHFRVFlzMm91SUxITWhjbmlpZkdwRFlDWlY?oc=5",
+      "author": "",
+      "published": "2026-06-08T17:08:04",
+      "summary": "AXA FRANCE VIE&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "697d012e2e67ae22",
@@ -3316,40 +3352,22 @@
       "ai_summary": "Deutsche Bank a violé les sanctions contre la Russie en facilitant des paiements non autorisés, ce qui constitue une non-conformité réglementaire."
     },
     {
-      "hash": "f306364f19bd6aa4",
+      "hash": "9a730c62203dfb85",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
       "category": "jurisprudence",
-      "title": "France, Conseil d'État, 4ème - 1ère chambres réunies, 10 juin 2026, 501372",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260610-501372",
-      "author": "4ème - 1ère chambres réunies",
-      "published": "2026-06-10T12:00:00",
-      "summary": "Vu la procédure suivante :                La présidente de l'université Paris Cité a porté plainte contre M. A... B... devant la section disciplinaire du conseil académique de cet établissement. Par une décision du 23 juin 2021, la section disciplinaire du conseil académique a infligé à M. B... la sanction de la révocation et décidé que cette sanction serait immédiatement exécutoire.                   Par une décision du 11 décembre 2024, le Conseil national de l'enseignement supérieur et de la ",
+      "title": "France, Conseil d'État, 5ème - 6ème chambres réunies, 11 juin 2026, 500722",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260611-500722",
+      "author": "5ème - 6ème chambres réunies",
+      "published": "2026-06-11T12:00:00",
+      "summary": "Vu la procédure suivante :                  Par une requête sommaire, un mémoire complémentaire, un mémoire en réplique et deux nouveaux mémoires, enregistrés les 20 janvier, 18 avril et 12 septembre 2025 et les 5 février et 2 mars 2026 au secrétariat du contentieux du Conseil d'Etat, la société Betclic Enterprises Limited demande au Conseil d'Etat :                  1° à titre principal, d'annuler la décision n° 2024/023 du 14 novembre 2024 par laquelle la commission des sanctions de l'Autorité",
       "score": 48,
       "score_breakdown": "+20 mots critiques: sanction | +20 Géo FR: france | ×1.2 (<3d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "437a188baf1e0b2a",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, 3ème chambre, 10 juin 2026, 510258",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260610-510258",
-      "author": "3ème chambre",
-      "published": "2026-06-10T12:00:00",
-      "summary": "Vu la procédure suivante :                   M. A... B... a demandé au juge des référés du tribunal administratif de Versailles de suspendre, sur le fondement de l'article L. 521-1 du code de justice administrative, l'exécution de l'arrêté du 14 août 2025 par lequel la directrice générale des finances publiques a prononcé à son encontre la sanction de révocation. Par une ordonnance no 2512798 du 17 novembre 2025, le juge des référés de ce tribunal administratif a suspendu l'exécution de cet arrê",
-      "score": 48,
-      "score_breakdown": "+20 mots critiques: sanction | +20 Géo FR: france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4d7608535df20ec9",
@@ -3493,7 +3511,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d4305eee243760ce",
@@ -3853,7 +3871,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ffcf49beac0de7f6",
@@ -4015,7 +4033,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a41957ae2741c390",
@@ -4465,7 +4483,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'AMLA sélectionne les entités soumises à sa supervision directe pour lutter contre le blanchiment d'argent."
+      "ai_summary": "Cet article concerne l'identification des entités soumises à la supervision directe de l'AMLA pour la lutte anti-blanchiment de capitaux."
     },
     {
       "hash": "f34dec3f6a83243f",
@@ -4483,7 +4501,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "649acae5eb353b49",
@@ -5144,7 +5162,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la lutte contre la fraude financière par le partage d'informations entre institutions, un enjeu clé de conformité réglementaire."
     },
     {
       "hash": "c7cb7b7963878257",
@@ -5282,6 +5300,24 @@
       "summary": "Contact presse&nbsp;&nbsp;Banque de France",
       "score": 30,
       "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "e9344c0958e2d89a",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de BORDEAUX, 1ère chambre, 11 juin 2026, 24BX00068",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEBORDEAUX-20260611-24BX00068",
+      "author": "1ère chambre",
+      "published": "2026-06-11T12:00:00",
+      "summary": "Vu les procédures suivantes :         I. Par une requête et un mémoire enregistrés les 11 janvier 2024 et 24 février 2025, la commune de Séméac, représentée par Me Soulié, demande à la cour :         1° d'annuler l'arrêté du 13 novembre 2023 portant refus de permis de construire valant autorisation d'exploitation commerciale demandé par la SNC ADIC ;         2° d'annuler l'arrêté rectificatif du 10 janvier 2024 ;         3° d'enjoindre à la commune de se prononcer à nouveau sur le projet, après ",
+      "score": 30,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
@@ -5652,7 +5688,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f6843e89fe618cfc",
@@ -6909,7 +6945,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "9fca0daf2e14ffa3",
@@ -6927,7 +6963,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5fd505b95b07c8d5",
@@ -7197,7 +7233,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde l'effondrement des architectures anti-corruption au Mexique et leurs impacts institutionnels."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'effondrement des architectures anticorruption au Mexique et de leurs implications institutionnelles."
     },
     {
       "hash": "9fac664e61627af6",
@@ -7341,7 +7377,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "b86f2f506e06ae40",
@@ -7380,7 +7416,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-13T04:57:24.567382+00:00",
+  "last_update": "2026-06-13T08:47:49.597164+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
