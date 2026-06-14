@@ -940,7 +940,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3634634cb2a48644",
@@ -1588,7 +1588,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la fraude aux paiements en Europe, un enjeu clé de conformité réglementaire pour les banques."
+      "ai_summary": "Cet article concerne la fraude aux paiements en Europe selon le rapport 2025 de la BCE et de l'EBA, un enjeu majeur de conformité financière."
     },
     {
       "hash": "8a7f3912d3e57f45",
@@ -2181,7 +2181,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des fraudes facturales et des pratiques déloyales (facturation insuffisante, prix gonflés) détectées par les autorités."
+      "ai_summary": "Cet article concerne la conformité financière car il révèle des pratiques frauduleuses : factures inexactes et prix gonflés dans les établissements automobiles."
     },
     {
       "hash": "88ffbd3d734a769b",
@@ -2307,7 +2307,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3cbc9e74b67feae6",
@@ -2777,6 +2777,42 @@
       "ai_summary": "Le procureur national financier français en Algérie discute de coopération judiciaire en matière financière."
     },
     {
+      "hash": "400178a05052722e",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, 9ème - 10ème chambres réunies, 12 juin 2026, 501828",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260612-501828",
+      "author": "9ème - 10ème chambres réunies",
+      "published": "2026-06-12T12:00:00",
+      "summary": "Vu la procédure suivante :                  Par un mémoire, enregistré le 16 mars 2026 au secrétariat du contentieux du Conseil d'Etat, la société Danske Commodities demande au Conseil d'Etat, en application de l'article 23-5 de l'ordonnance n° 58-1067 du 7 novembre 1958 et à l'appui de sa requête tendant à l'annulation de la décision de sanction n° 08-40-23 rendue à son encontre le 20 janvier 2025 par le comité de règlement des différends et des sanctions de la Commission de régulation de l'éne",
+      "score": 54,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: règlement | +20 Géo FR: france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "d73bd54a12648d2f",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de NANTES, 4ème chambre, 12 juin 2026, 25NT00813",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDENANTES-20260612-25NT00813",
+      "author": "4ème chambre",
+      "published": "2026-06-12T12:00:00",
+      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           M. A... B... a demandé au tribunal administratif de Caen d'annuler la décision implicite par laquelle la directrice interrégionale des services pénitentiaires du Grand-Ouest a rejeté son recours administratif préalable contre la sanction disciplinaire de placement en cellule disciplinaire durant trente jours, infligée le 30 mai 2022 par le président de la commission de discipline du centre pénitentiaire d'Alençon ",
+      "score": 54,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "bf0bf3f48ad12955",
       "source_name": "Cass. - Fraude",
       "source_type": "rss",
@@ -2792,7 +2828,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'un litige fiscal impliquant des questions d'abus de droit et de fraude à la loi en matière d'impôts."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de fraude fiscale et d'abus de droit en matière d'impôts."
     },
     {
       "hash": "b575a62d55ab19ad",
@@ -3370,22 +3406,22 @@
       "ai_summary": "Deutsche Bank a violé les sanctions contre la Russie en facilitant des paiements non autorisés, ce qui constitue une non-conformité réglementaire."
     },
     {
-      "hash": "9a730c62203dfb85",
-      "source_name": "Conseil d'État (JURICAF)",
+      "hash": "e2defc9b28a831c3",
+      "source_name": "Cass. - Fraude",
       "source_type": "rss",
       "category": "jurisprudence",
-      "title": "France, Conseil d'État, 5ème - 6ème chambres réunies, 11 juin 2026, 500722",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260611-500722",
+      "title": "France, Conseil d'État, 5ème - 6ème chambres réunies, 11 juin 2026, 506101",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260611-506101",
       "author": "5ème - 6ème chambres réunies",
       "published": "2026-06-11T12:00:00",
-      "summary": "Vu la procédure suivante :                  Par une requête sommaire, un mémoire complémentaire, un mémoire en réplique et deux nouveaux mémoires, enregistrés les 20 janvier, 18 avril et 12 septembre 2025 et les 5 février et 2 mars 2026 au secrétariat du contentieux du Conseil d'Etat, la société Betclic Enterprises Limited demande au Conseil d'Etat :                  1° à titre principal, d'annuler la décision n° 2024/023 du 14 novembre 2024 par laquelle la commission des sanctions de l'Autorité",
+      "summary": "54-07-01-04-03 PROCÉDURE. - POUVOIRS ET DEVOIRS DU JUGE. - QUESTIONS GÉNÉRALES. - MOYENS. - MOYENS INOPÉRANTS. - SANCTION PRONONCÃ©E PAR LA... Vu la procédure suivante :                  La directrice de la caisse primaire d'assurance maladie de l'Artois a formé une plainte, enregistrée le 9 janvier 2023 à la section des assurances sociales du conseil régional de l'ordre des pharmaciens des Hauts-de-France, dirigée contre M. E... A..., pharmacien à Eleu-dit-Leauwette Pas-de-Calais, pour des fait",
       "score": 48,
       "score_breakdown": "+20 mots critiques: sanction | +20 Géo FR: france | ×1.2 (<3d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4d7608535df20ec9",
@@ -3511,7 +3547,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "614236935889",
@@ -3547,7 +3583,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d4305eee243760ce",
@@ -4483,7 +4519,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "649acae5eb353b49",
@@ -5108,7 +5144,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4dcfa886357a4ced",
@@ -5250,7 +5286,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une enquête sur l'abandon d'accusations de fraude et corruption contre un homme d'affaires, soulevant des enjeux de conformité réglementaire et d'intégrité."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b464928f436cc93b",
@@ -5268,25 +5304,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
-      "hash": "e9344c0958e2d89a",
+      "hash": "517a1ab6fbf545e1",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
       "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de BORDEAUX, 1ère chambre, 11 juin 2026, 24BX00068",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEBORDEAUX-20260611-24BX00068",
-      "author": "1ère chambre",
-      "published": "2026-06-11T12:00:00",
-      "summary": "Vu les procédures suivantes :         I. Par une requête et un mémoire enregistrés les 11 janvier 2024 et 24 février 2025, la commune de Séméac, représentée par Me Soulié, demande à la cour :         1° d'annuler l'arrêté du 13 novembre 2023 portant refus de permis de construire valant autorisation d'exploitation commerciale demandé par la SNC ADIC ;         2° d'annuler l'arrêté rectificatif du 10 janvier 2024 ;         3° d'enjoindre à la commune de se prononcer à nouveau sur le projet, après ",
+      "title": "France, Cour administrative d'appel de MARSEILLE, 5ème chambre, 12 juin 2026, 25MA01759",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEMARSEILLE-20260612-25MA01759",
+      "author": "5ème chambre",
+      "published": "2026-06-12T12:00:00",
+      "summary": "66-07-01 Travail et emploi. - Licenciements. - Autorisation administrative - Salariés protégés. ... Vu la procédure suivante :           Procédure contentieuse antérieure :           Mme B... F... a demandé au tribunal administratif de Marseille d'annuler la décision du 4 mai 2022 par laquelle l'inspecteur du travail a accordé à la société Distribution Casino France l'autorisation de procéder à son licenciement pour motif disciplinaire.            Par un jugement n° 2205396 du 28 avril 2025, le ",
       "score": 30,
       "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "39d191e935e91176",
@@ -6049,7 +6085,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a44d8c66d3a1e5f8",
@@ -6751,42 +6787,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de corruption, de pots-de-vin et de régulation des marchés financiers internationaux."
     },
     {
-      "hash": "241c41489eef28cf",
-      "source_name": "CJUE - Cour de Justice UE",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "82/Thu Jun 04 00:00:00 CEST 2026 : null - Advocate General's Opinion in Case C-41/25",
-      "url": "https://curia.europa.eu/site/jcms/p1_1000084242",
-      "author": "",
-      "published": "2026-06-04T07:56:43",
-      "summary": " \nOrsay\n\nArea of Freedom, Security and Justice\n\nAdvocate General Norkus: a Member State cannot rely on immunity from jurisdiction to prevent the courts of the State in which insolvency proceedings have been opened from exercising their jurisdiction\n\n",
-      "score": 8,
-      "score_breakdown": "+10 Géo EU: member state | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "9fca0daf2e14ffa3",
-      "source_name": "CJUE - Cour de Justice UE",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "81/Thu Jun 04 00:00:00 CEST 2026 : Thu Jun 04 10:56:07 CEST 2026 - Advocate General’s Opinion in Case C-553/24",
-      "url": "https://curia.europa.eu/site/jcms/p1_1000084243",
-      "author": "",
-      "published": "2026-06-04T07:56:43",
-      "summary": " \nAssemblée nationale v Parliament and Council\n\nArea of Freedom, Security and Justice\n\nAdvocate General Ćapeta: Action brought by the French National Assembly against EU asylum and migration legislation based on non-compliance with the principle of subsidiarity should be rejected\n\n",
-      "score": 8,
-      "score_breakdown": "+10 mots forts: compliance | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "5fd505b95b07c8d5",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -7054,7 +7054,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'effondrement des architectures anti-corruption au Mexique et de leurs implications institutionnelles et réglementaires."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'effondrement des architectures anti-corruption au Mexique et de la gouvernance institutionnelle."
     },
     {
       "hash": "9fac664e61627af6",
@@ -7198,7 +7198,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b86f2f506e06ae40",
@@ -7237,7 +7237,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-14T05:14:21.836304+00:00",
+  "last_update": "2026-06-14T09:20:03.605709+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
