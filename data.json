@@ -580,7 +580,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il synthétise les contrôles LCB-FT de l'AMF et les manquements identifiés chez les acteurs supervisés."
+      "ai_summary": "Cet article concerne la conformité financière car il synthétise les contrôles AMF sur la lutte anti-blanchiment et le financement du terrorisme."
     },
     {
       "hash": "772b3e910dcf061c",
@@ -994,7 +994,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il précise les modalités d'enregistrement auprès de l'AMF pour les gestionnaires de fonds d'investissement alternatifs."
     },
     {
       "hash": "3634634cb2a48644",
@@ -1624,7 +1624,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'un signalement Tracfin concernant des transactions suspectes et des montages complexes."
     },
     {
       "hash": "9b952a83b6dd6985",
@@ -1769,6 +1769,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les entreprises mondiales risquent de perdre accès aux banques américaines si elles violent les sanctions contre Cuba."
+    },
+    {
+      "hash": "9513d265c66180ee",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "People News: Trump picks Sullivan &amp; Cromwell partner as chief Manhattan prosecutor",
+      "url": "https://globalinvestigationsreview.com/article/people-news-trump-picks-sullivan-cromwell-partner-top-manhattan-prosecutor",
+      "author": "Grace Propheta",
+      "published": "2026-06-15T11:40:07",
+      "summary": "In the latest People News roundup, US President Donald Trump has announced he will appoint a former CFTC enforcement director as the lead prosecutor for the Southern District of New York, and Canada’s anti-money laundering agency has a new interim chief executive.",
+      "score": 69,
+      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: cft, anti-money | +3 Presse | +3 Géo Intl: canada | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "53d455c71beef0fb",
@@ -2164,7 +2182,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a4ec293f59d19e59",
@@ -2235,7 +2253,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La DGCCRF enquête sur les pratiques tarifaires potentiellement abusives et pourrait sanctionner les fournisseurs, ce qui relève de la conformité commerciale et réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de pratiques commerciales abusives et de potentielles fraudes aux prix que la DGCCRF compte sanctionner."
     },
     {
       "hash": "9fa6cdbfccd79dce",
@@ -2418,22 +2436,22 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision réglementaire d'une compagnie d'assurance par l'autorité compétente."
     },
     {
-      "hash": "f8e7a166e4ea4fbb",
-      "source_name": "ACPR",
+      "hash": "b64b62a72479804f",
+      "source_name": "Commission EU - Sanctions FAQ",
       "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "MUTUELLE DU PERSONNEL DE LA BANQUE POPULAIRE DU SUD - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wdHB1MlJDNFF6RFo0VElCUHVuQlIzMnJVN1M0Z1dWeHBHc0VwcG9GQ0lZaUpPLWFTa0ktbTZvNlVzWGZmZDBSWTh6cnFYWmRMeE9IREt1eG8?oc=5",
+      "category": "autorite_eu",
+      "title": "Import ban on refined products obtained from Russian crude oil",
+      "url": "https://finance.ec.europa.eu/publications/import-ban-refined-products-obtained-russian-crude-oil_en",
       "author": "",
-      "published": "2026-06-12T09:21:31",
-      "summary": "MUTUELLE DU PERSONNEL DE LA BANQUE POPULAIRE DU SUD&nbsp;&nbsp;Banque de France",
+      "published": "2026-06-15T16:13:19",
+      "summary": "FAQs on sanctions against Russia and Belarus, with focus on the following provisions: Article 3ma of Council Regulation (EU) No 833/2014.",
       "score": 60,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: regulation | +15 Source EU | ×1.5 (<24h)",
       "doc_type": null,
-      "action_class": "info",
+      "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3cbc9e74b67feae6",
@@ -2882,7 +2900,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d73bd54a12648d2f",
@@ -2900,7 +2918,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bf0bf3f48ad12955",
@@ -3206,7 +3224,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "92b541c59a9caf26",
@@ -3242,6 +3260,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la lutte anti-blanchiment de capitaux et l'échange sécurisé d'informations financières."
+    },
+    {
+      "hash": "77ff3a10a3b3830a",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Second Circuit denies SBF appeal, maintains $11bn forfeiture order",
+      "url": "https://globalinvestigationsreview.com/article/second-circuit-denies-sbf-appeal-maintains-11bn-forfeiture-order",
+      "author": "Alyssa Aquino",
+      "published": "2026-06-15T09:00:00",
+      "summary": "The court was unanimous in upholding the judgment against Bankman-Fried, emphasising the “overwhelming evidence” that he perpetrated a large-scale fraud on FTX customers.&nbsp;&nbsp;",
+      "score": 49,
+      "score_breakdown": "+20 mots critiques: fraud | +10 mots moyens: bank, ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "ab4d56c16f32b694",
@@ -3637,7 +3673,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d4305eee243760ce",
@@ -3692,6 +3728,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la supervision et régulation du secteur financier face à l'IA, enjeux majeurs de la conformité financière."
+    },
+    {
+      "hash": "08aab6b699d57b94",
+      "source_name": "AMF France (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "[#Médiation] PEA-PME : pour que des actions d’une société soient éligibles certaines conditions doivent être respectées. Le critère de la taille maximum de la société s’apprécie uniquement au moment de l’acquisition des actions. Le décryptage du médiateur➡️",
+      "url": "https://x.com/AMF_actu/status/2066540099102196073",
+      "author": "@AMF_actu",
+      "published": "2026-06-15T15:15:00",
+      "summary": "[ #Médiation] PEA-PME : pour que des actions d’une société soient éligibles certaines conditions doivent être respectées. Le critère de la taille maximum de la société s’apprécie uniquement au moment de l’acquisition des actions.Le décryptage du médiateur➡️ cutt.ly/qt91NFJP— AMF (@AMF_actu) Jun 15, 2026",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: amf | +20 Géo FR: amf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "bdcae807e0f9b61f",
@@ -4573,7 +4627,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "649acae5eb353b49",
@@ -5180,7 +5234,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4dcfa886357a4ced",
@@ -5307,24 +5361,6 @@
       "ai_summary": "Cet article concerne les sanctions financières de l'UE contre l'ancien régime al-Assad en Syrie et le delisting d'entités."
     },
     {
-      "hash": "d25df8d26caef49e",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "US lawmakers probe DOJ on move to drop Adani case",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/us-lawmakers-probe-doj-move-drop-adani-case",
-      "author": "Gaspard Le Dem",
-      "published": "2026-06-12T16:14:20",
-      "summary": "A pair of Democratic senators has asked for details on the DOJ’s decision to abandon a fraud and bribery case against India’s Gautam Adani, calling the business tycoon’s reported proposal to invest billions in the US economy “an egregious quid-pro-quo”.",
-      "score": 31,
-      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: doj | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "b464928f436cc93b",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -5340,7 +5376,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "517a1ab6fbf545e1",
@@ -5358,7 +5394,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "39d191e935e91176",
@@ -6034,6 +6070,24 @@
       "ai_summary": "Cet article concerne comment l'IA peut améliorer l'efficacité des processus de conformité financière et réglementaire."
     },
     {
+      "hash": "d25df8d26caef49e",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "US lawmakers probe DOJ on move to drop Adani case",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/us-lawmakers-probe-doj-move-drop-adani-case",
+      "author": "Gaspard Le Dem",
+      "published": "2026-06-12T16:14:20",
+      "summary": "A pair of Democratic senators has asked for details on the DOJ’s decision to abandon a fraud and bribery case against India’s Gautam Adani, calling the business tycoon’s reported proposal to invest billions in the US economy “an egregious quid-pro-quo”.",
+      "score": 26,
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: doj | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "fc4f2fc88686ece5",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -6085,7 +6139,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a44d8c66d3a1e5f8",
@@ -6766,7 +6820,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "9fca0daf2e14ffa3",
@@ -6784,7 +6838,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5fd505b95b07c8d5",
@@ -7021,6 +7075,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et de violations de règles éthiques."
     },
     {
+      "hash": "821b1cc621089180",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "CNews mise en demeure par l’Arcom de « respecter l’exigence d’expression pluraliste des courants de pensée et d’opinion »",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/15/cnews-mise-en-demeure-par-l-arcom-de-respecter-l-exigence-d-expression-pluraliste-des-courants-de-pensee-et-d-opinion_6703218_3234.html",
+      "author": "",
+      "published": "2026-06-15T14:30:02",
+      "summary": "L’Autorité de régulation de la communication audiovisuelle et numérique a usé, pour la première fois, de sa délibération sur le pluralisme en date de juillet 2024, consécutive à la décision du Conseil d’Etat, qui avait fait suite à une première interpellation de Reporters sans frontières.",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "6d21d1ea3165c2fa",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7198,7 +7270,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b86f2f506e06ae40",
@@ -7237,7 +7309,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-15T12:47:07.768042+00:00",
+  "last_update": "2026-06-15T16:57:54.946645+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
