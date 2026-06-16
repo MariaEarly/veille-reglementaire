@@ -778,7 +778,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article autorise l'approbation de conventions franco-finlandaise et franco-suédoise visant à éliminer la double imposition et prévenir l'évasion fiscale."
+      "ai_summary": "Cet article concerne les conventions fiscales franco-finlandaise et franco-suédoise visant à éliminer la double imposition et prévenir l'évasion fiscale."
     },
     {
       "hash": "4de3405ad6545d8d",
@@ -922,7 +922,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la réglementation des technologies utilisées pour sélectionner les clients en respect de la législation bancaire et financière."
     },
     {
       "hash": "2b245970c47536d4",
@@ -959,6 +959,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'ACPR publie son rapport annuel 2025 couvrant la supervision bancaire et l'conformité réglementaire."
+    },
+    {
+      "hash": "0545ae7b7eea12bd",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "The EBA publishes its 2025 Annual Report outlining key achievements",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-2025-annual-report-outlining-key-achievements",
+      "author": "Jana Jaklic",
+      "published": "2026-06-16T14:10:28",
+      "summary": "The European Banking Authority (EBA) today published its 2025 Annual Report, outlining its main achievements and activities in delivering on its mandates under its Work Programme. In 2025, the EBA focused on streamlining and improving the efficiency of the EU regulatory framework while expanding its supervisory role, particularly under the Digital Operational Resilience Act (DORA) and Markets in Crypto-Assets Regulation (MiCA).",
+      "score": 90,
+      "score_breakdown": "+20 mots forts: aml, mica, dora | +15 mots moyens: regulation, supervisory, bank | +15 Source EU | +10 Géo EU: eba, dora, mica | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "19a24d6d0b0c180a",
@@ -1807,6 +1825,24 @@
       "ai_summary": "Les entreprises mondiales risquent de perdre accès aux banques américaines si elles violent les sanctions contre Cuba."
     },
     {
+      "hash": "3d5333195bc0bf6b",
+      "source_name": "Money Laundering News",
+      "source_type": "press",
+      "category": "presse",
+      "title": "FinCEN Alert: AML Compliance Implications of IRGC Sanctions Evasion and Illicit Finance",
+      "url": "https://www.moneylaunderingnews.com/2026/06/fincen-alert-aml-compliance-implications-of-irgc-sanctions-evasion-and-illicit-finance/",
+      "author": "Travis Watson",
+      "published": "2026-06-16T14:33:48",
+      "summary": "In May, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) issued Alert FIN-2026-Alert002, warning financial institutions about the use of front companies, financial facilitators, and digital asset infrastructure by Iran’s Islamic Revolutionary Guard Corps (IRGC) to evade sanctions and launder proceeds. The Alert represents an escalation in U.S. government guidance concerning Iranian...",
+      "score": 69,
+      "score_breakdown": "+20 mots critiques: sanction | +20 mots forts: aml, compliance | +3 Presse | +3 Géo Intl: fincen | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "9513d265c66180ee",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -2041,6 +2077,24 @@
       "ai_summary": "La CNIL régule la protection des données et la cybersécurité, éléments clés de la conformité financière et de la gestion des risques."
     },
     {
+      "hash": "bd65728bd227da8b",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Webinar materials now available: identifying obliged entities eligible for direct supervision",
+      "url": "https://www.amla.europa.eu/webinar-materials-now-available-identifying-obliged-entities-eligible-direct-supervision_en",
+      "author": "",
+      "published": "2026-06-16T13:57:46",
+      "summary": "AMLA is today publishing the full set of materials from its webinar on the identification of obliged entities eligible for direct supervision, held on 10 June.",
+      "score": 67,
+      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "ba2ef4bac1939030",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -2218,7 +2272,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a4ec293f59d19e59",
@@ -2289,7 +2343,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de pratiques commerciales déloyales et de contrôles réglementaires contre les abus de prix."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de pratiques commerciales abusives et de contrôle réglementaire des prix."
     },
     {
       "hash": "9fa6cdbfccd79dce",
@@ -2472,6 +2526,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision réglementaire d'une compagnie d'assurance par l'autorité compétente."
     },
     {
+      "hash": "ebaa4986dd7ec6e1",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 16 June, 2026",
+      "url": "https://www.eba.europa.eu/node/19749",
+      "author": "Anonymous",
+      "published": "2026-06-16T15:00:02",
+      "summary": "EBA E-mail alert 16 June, 2026\n\n  \n    Date\n          16/06/2026\n\n      \n\nAnonymous (not verified)\n\nTue, 06/16/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          The EBA proposes simplifications to the EU bank capital framework in a holistic manner to strengthen its efficiency \n          The EBA publishes its 2025 Annual Report outlining key achievements\n      ",
+      "score": 60,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA propose des simplifications au cadre réglementaire des exigences de capital bancaire."
+    },
+    {
       "hash": "9b340bae12ac5373",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -2487,7 +2559,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'EBA propose des simplifications du cadre de capital bancaire pour améliorer l'efficacité réglementaire et réduire la charge de conformité des banques."
     },
     {
       "hash": "b64b62a72479804f",
@@ -3242,7 +3314,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "92b541c59a9caf26",
@@ -3655,7 +3727,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "614236935889",
@@ -3691,7 +3763,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d73bd54a12648d2f",
@@ -3709,7 +3781,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d4305eee243760ce",
@@ -3781,7 +3853,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la coopération institutionnelle entre l'EBA et la banque centrale du Monténégro pour l'intégration réglementaire européenne."
     },
     {
       "hash": "08aab6b699d57b94",
@@ -4126,6 +4198,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales et de leurs obligations dans les services bancaires."
     },
     {
+      "hash": "2903732f90ecd4fe",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "NCA seeks funds from German entrepreneur, banking group",
+      "url": "https://globalinvestigationsreview.com/article/nca-seeks-funds-german-entrepreneur-banking-group",
+      "author": "Sam Fry",
+      "published": "2026-06-16T11:42:31",
+      "summary": "A German businessman previously accused of fraud by the SEC and under investigation by prosecutors in Frankfurt is facing a proceeds of crime lawsuit in the UK.",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: fraud | +5 mots moyens: bank | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "2b5c6572198f52d7",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -4414,6 +4504,24 @@
       "ai_summary": "L'article concerne l'utilisation de l'IA pour renforcer la régulation financière par les autorités publiques indépendantes."
     },
     {
+      "hash": "9b0c211448356ae5",
+      "source_name": "Parlement EU - ECON",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Briefing - Stability and Growth Pact: 2025 implementation and additional flexibility for energy - PE 784.047 - Committee on Economic and Monetary Affairs",
+      "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2026/784047/ECTI_BRI(2026)784047_EN.pdf",
+      "author": "",
+      "published": "2026-06-15T22:00:00",
+      "summary": "On 3 June 2026, the Commission published the European Semester Spring Package, including the first assessment of compliance with the net expenditure paths under the reformed Stability and Growth Pact. This briefing provides an overview of the main fiscal elements of the package. It examines the proposed extension of the national escape clause to energy-related expenditure, the Commission’s assessment of compliance for 2025 and 2026, and the progress made on reforms and investments underpinning e",
+      "score": 37,
+      "score_breakdown": "+10 mots forts: compliance | +15 Source EU | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "1dbcdf851d3a8f60",
       "source_name": "ECB - Banking Supervision",
       "source_type": "rss",
@@ -4504,6 +4612,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il porte sur le cadre réglementaire européen régissant les crypto-actifs."
     },
     {
+      "hash": "64cce53fe40cbf9f",
+      "source_name": "BIS - Working Papers",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Bond yield responses to macro news: the role of macro forecast disagreement and monetary policy uncertainty",
+      "url": "https://www.bis.org/publ/work1361.htm",
+      "author": "Dora Xia",
+      "published": "2026-06-16T11:27:00",
+      "summary": "by Peter Hördahl, Burçin K&#305;sac&#305;ko&#287;lu, Dora XiaBond yields react to macroeconomic surprises, but the magnitude of this responsiveness depends on macroeconomic forecast disagreement and monetary policy uncertainty. Using intraday responses of US Treasury futures to surprises in macroeconomic data releases, we find that greater forecast disagreement about an economic indicator prior to its release dampens the yield curve response, while higher monetary policy uncertainty amplifies it",
+      "score": 37,
+      "score_breakdown": "+10 mots forts: dora | +5 Source Intl | +10 Géo EU: dora | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il analyse comment l'incertitude de politique monétaire et les divergences de prévisions affectent les rendements obligataires, éléments critiques pour la gestion des risques et la conformité réglementaire des institutions financières."
+    },
+    {
       "hash": "11a26be0b9b277a9",
       "source_name": "EBA (X)",
       "source_type": "rss",
@@ -4519,7 +4645,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article traite de la simplification du cadre prudentiel bancaire de l'UE, directement pertinent pour la conformité réglementaire financière."
     },
     {
       "hash": "aa2da268929ea454",
@@ -4699,7 +4825,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a574fb32ef53bed4",
@@ -4735,7 +4861,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "649acae5eb353b49",
@@ -4929,6 +5055,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il porte sur la fraude aux investissements et les escroqueries financières en ligne."
+    },
+    {
+      "hash": "9e849172b419aac9",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Maintenant que les cours ont baissé, que \"le pétrole coule à flot\", Trump prêt à sanctionner à nouveau le pétrole russe",
+      "url": "https://www.bfmtv.com/economie/entreprises/energie/maintenant-que-les-cours-ont-baisse-que-le-petrole-coule-a-flot-trump-pret-a-sanctionner-a-nouveau-le-petrole-russe_AD-202606160688.html",
+      "author": "",
+      "published": "2026-06-16T14:10:44",
+      "summary": "Les Etats-Unis ont suspendu certaines sanctions pesant sur le pétrole russe depuis le début de la guerre en Ukraine, afin de contrer la flambée des cours du brut occasionnée par le conflit contre l'Iran. ",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "aac8e4d0b6981c8f",
@@ -5451,6 +5595,24 @@
       "ai_summary": "Cet article concerne les sanctions financières de l'UE contre l'ancien régime al-Assad en Syrie et le delisting d'entités."
     },
     {
+      "hash": "24330548fd25c2aa",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "The Feds Are Telling You How to Mitigate FCA Liability; Have You Paid Attention?",
+      "url": "https://www.corporatecomplianceinsights.com/feds-telling-how-mitigate-fca-liability/",
+      "author": "Veronica Nannis",
+      "published": "2026-06-16T11:00:28",
+      "summary": "Both DOJ and OIG have issued compliance guidance in recent years\nThe post The Feds Are Telling You How to Mitigate FCA Liability; Have You Paid Attention? appeared first on Corporate Compliance Insights.",
+      "score": 31,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | +3 Géo Intl: doj, fca | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "b464928f436cc93b",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -5466,7 +5628,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "39d191e935e91176",
@@ -5887,7 +6049,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8f1d6348db5b825b",
@@ -6175,7 +6337,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il examine une décision de justice relative à des accusations de fraude et de corruption contre un homme d'affaires."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "fc4f2fc88686ece5",
@@ -6211,7 +6373,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f76516c7d24f973a",
@@ -6247,7 +6409,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "a44d8c66d3a1e5f8",
@@ -6609,6 +6771,24 @@
       "ai_summary": "Les réformes de la Bank Secrecy Act concernent directement la conformité financière et les obligations de lutte contre le blanchiment."
     },
     {
+      "hash": "6bb4549cf356d27a",
+      "source_name": "BIS - Speeches",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Michael Theurer: Competitiveness of the German banking sector",
+      "url": "https://www.bis.org/review/r260609e.htm",
+      "author": "Michael Theurer",
+      "published": "2026-06-16T07:25:00",
+      "summary": "Speech by Mr Michael Theurer, Member of the Executive Board of the Deutsche Bundesbank, at the Bundesbank-Symposium \"Banking supervision in dialogue\", Frankfurt am Main, 7 May 2026.",
+      "score": 15,
+      "score_breakdown": "+5 mots moyens: bank | +5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
       "hash": "39121c05c2fc2c81",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -6787,6 +6967,24 @@
       "ai_summary": "Cet article concerne la lutte contre le blanchiment et le financement du terrorisme par les unités de renseignement financier."
     },
     {
+      "hash": "2c9966819df18ef7",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Australian Ministry of Finance to investigate KPMG&nbsp;amid whistleblowing allegations fall-out&nbsp;",
+      "url": "https://globalinvestigationsreview.com/article/australian-ministry-of-finance-investigate-kpmg-amid-whistleblowing-allegations-fall-out",
+      "author": "Ana de Liz",
+      "published": "2026-06-16T09:50:42",
+      "summary": "",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: australia | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "b4565289f6c22eb7",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -6928,14 +7126,14 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
-      "hash": "9fca0daf2e14ffa3",
+      "hash": "45d8ef05317935e1",
       "source_name": "CJUE - Cour de Justice UE",
       "source_type": "rss",
       "category": "jurisprudence",
-      "title": "81/Thu Jun 04 00:00:00 CEST 2026 : Thu Jun 04 10:56:07 CEST 2026 - Advocate General’s Opinion in Case C-553/24",
+      "title": "81/Thu Jun 04 00:00:00 CEST 2026 : Thu Jun 04 10:56:00 CEST 2026 - Advocate General’s Opinion in Case C-553/24",
       "url": "https://curia.europa.eu/site/jcms/p1_1000084243",
       "author": "",
       "published": "2026-06-04T07:56:43",
@@ -6946,7 +7144,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5fd505b95b07c8d5",
@@ -7183,24 +7381,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et de violations de règles éthiques."
     },
     {
-      "hash": "821b1cc621089180",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "CNews mise en demeure par l’Arcom de « respecter l’exigence d’expression pluraliste des courants de pensée et d’opinion »",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/15/cnews-mise-en-demeure-par-l-arcom-de-respecter-l-exigence-d-expression-pluraliste-des-courants-de-pensee-et-d-opinion_6703218_3234.html",
-      "author": "",
-      "published": "2026-06-15T14:30:02",
-      "summary": "L’Autorité de régulation de la communication audiovisuelle et numérique a usé, pour la première fois, de sa délibération sur le pluralisme en date de juillet 2024, consécutive à la décision du Conseil d’Etat, qui avait fait suite à une première interpellation de Reporters sans frontières.",
-      "score": 4,
-      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "6d21d1ea3165c2fa",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7378,7 +7558,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b86f2f506e06ae40",
@@ -7417,7 +7597,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-16T11:39:14.244341+00:00",
+  "last_update": "2026-06-16T16:24:52.370049+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
