@@ -565,6 +565,24 @@
   ],
   "items": [
     {
+      "hash": "f73777bd27026926",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "L'ACPR, la Banque de France et l'AMF publient un rapport méthodologique sur leur premier test de résistance portant sur l’ensemble du système financier (« system-wide stress test ») | Autorité de contrôle prudentiel et de résolution - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeFB4SWpWY0taRE5uRXgzQXpuV0xsWm1KeUlUUmtBTk5ZSWw4T3lvSzFad3VNaWJuZW4yQ1B6TC11dVRSN0p3Yy1VXzlvSnNkaVZLd1FGbnQ4YU92VWNsM05MZ3FmYlQzcWM2R285T19JYUV6T0U2WVB1ZEJmUV80MWN4SG5WMFRkcUJOZ1d5VlI4ak9VNWMyZ2lWSHpjYlAydjVOTEpjZVpxQzI2WHdTRnBQNzNkMXY0YUlHRHA4RXNha0tIaUxGZURNOVQ3Zk01ZUVNYVpaMno2ZGk5Zmw5cFVR?oc=5",
+      "author": "",
+      "published": "2026-06-17T09:13:00",
+      "summary": "L'ACPR, la Banque de France et l'AMF publient un rapport méthodologique sur leur premier test de résistance portant sur l’ensemble du système financier (« system-wide stress test ») | Autorité de contrôle prudentiel et de résolution&nbsp;&nbsp;Banque de France",
+      "score": 100,
+      "score_breakdown": "+20 mots forts: acpr, amf, contrôle prudentiel | +5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, acpr, amf | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "155402fbc2aded81",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -1048,7 +1066,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté définit les mesures de gel des avoirs et contrôle des flux financiers relatifs à la lutte contre le financement du terrorisme et de la prolifération."
+      "ai_summary": "Cet arrêté applique les dispositions du code monétaire et financier relatives à la lutte contre le financement du terrorisme et du blanchiment d'argent."
     },
     {
       "hash": "6ad8a782d62d270a",
@@ -1858,7 +1876,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations AML/CFT face aux risques de contournement de sanctions et de blanchiment par des entités iraniennes."
+      "ai_summary": "Cet article traite de la conformité AML/LCB-FT en alertant sur les risques de blanchiment via des structures liées aux sanctions iraniennes."
     },
     {
       "hash": "9513d265c66180ee",
@@ -2075,24 +2093,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Sanction de l'AMF contre deux personnes pour violations de la réglementation financière et des obligations de conformité."
-    },
-    {
-      "hash": "ef5217fba5b8c89d",
-      "source_name": "CNIL",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Rapport annuel : le bilan et les actions marquantes de la CNIL en 2025",
-      "url": "https://www.cnil.fr/fr/rapport-annuel-2025",
-      "author": "CNIL",
-      "published": "2026-05-18T12:00:00",
-      "summary": "Accompagnement des professionnels, contrôle de leurs pratiques, sensibilisation du public, mais aussi régulation de l’IA, cybersécurité et coopération européenne… la CNIL fait le bilan d’une année 2025 intense, au service de la protection des données personnelles et de la vie privée de tous.",
-      "score": 67,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: cnil | ×1.5 (<24h)",
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La CNIL régule la protection des données et la cybersécurité, éléments clés de la conformité financière et de la gestion des risques."
     },
     {
       "hash": "bd65728bd227da8b",
@@ -2972,7 +2972,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "186e20f378eb",
@@ -3314,7 +3314,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4633fa5febe6f8ba",
@@ -3332,7 +3332,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "92b541c59a9caf26",
@@ -3745,7 +3745,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d73bd54a12648d2f",
@@ -3763,7 +3763,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d4305eee243760ce",
@@ -4612,6 +4612,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il porte sur le cadre réglementaire européen régissant les crypto-actifs."
     },
     {
+      "hash": "14bb60ec87460ecd",
+      "source_name": "BIS - Working Papers",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Embracing carbon uncertainty in portfolio construction",
+      "url": "https://www.bis.org/publ/work1362.htm",
+      "author": "Omar Zulaica",
+      "published": "2026-06-17T11:27:00",
+      "summary": "by Dora Xia, Omar ZulaicaWe propose a framework for constructing fixed-income portfolios of sovereign bonds that integrates financial and environmental considerations. Central to our approach is the introduction of carbon returns, a concept analogous to financial returns, modeled as random variables to capture the inherent uncertainty of future carbon emissions.",
+      "score": 37,
+      "score_breakdown": "+10 mots forts: dora | +5 Source Intl | +10 Géo EU: dora | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il aborde l'intégration des risques environnementaux dans la gestion de portefeuille obligataire, relevant de la conformité ESG et réglementaire."
+    },
+    {
       "hash": "64cce53fe40cbf9f",
       "source_name": "BIS - Working Papers",
       "source_type": "rss",
@@ -4627,7 +4645,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les rendements obligataires et l'incertitude monétaire relèvent de la gestion des risques financiers mais ne constituent pas une obligation de conformité réglementaire directe."
+      "ai_summary": "Les rendements obligataires réagissent aux surprises macro et à l'incertitude monétaire, ce qui impacte la gestion des risques de conformité financière."
     },
     {
       "hash": "11a26be0b9b277a9",
@@ -4792,24 +4810,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il aborde les responsabilités légales et pénales des institutions bancaires lors de fusions."
     },
     {
-      "hash": "caf0723cecaa4b77",
-      "source_name": "ESMA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🗓️ Plenty happening this week, with the #ESMA conference in the spotlight. ⭐️ #ESMA15years conference →  🎙️ Digital Money Summit →  🎙️Sustainable Finance Conference →  ⏰ Hearing →",
-      "url": "https://x.com/ESMAComms/status/2056360999381356572",
-      "author": "@ESMAComms",
-      "published": "2026-05-18T13:07:00",
-      "summary": "🗓️ Plenty happening this week, with the  #ESMA conference in the spotlight.⭐️  #ESMA15years conference →  link.europa.eu/mbDTXd🎙️ Digital Money Summit →  shorturl.at/50FKn🎙️Sustainable Finance Conference →  shorturl.at/aRcAW⏰ Hearing →  link.europa.eu/VjgMJq— ESMA - EU Securities Markets Regulator 🇪🇺 (@ESMAComms) May 18, 2026",
-      "score": 37,
-      "score_breakdown": "+10 mots forts: esma | +5 mots moyens: ppe | +10 Géo EU: esma | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'ESMA organise des conférences sur la finance durable et numérique, relevant de la conformité réglementaire des marchés financiers."
-    },
-    {
       "hash": "a574fb32ef53bed4",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -4843,7 +4843,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article annonce une opportunité de recrutement à l'EBA et ne concerne pas directement la conformité financière."
     },
     {
       "hash": "649acae5eb353b49",
@@ -5004,23 +5004,6 @@
       "hash": "c63f4b48161f"
     },
     {
-      "source_name": "DOJ - Criminal Division",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "California Man Sentenced to 15 Years in Prison for Money Laundering, False Testimony",
-      "url": "https://www.justice.gov/opa/pr/california-man-sentenced-15-years-prison-money-laundering-false-testimony",
-      "author": "",
-      "published": "2026-05-18T13:52:28",
-      "summary": "Mohammed Zohair Adi (US/Syria dual citizen) sentenced to 15 years for leading a money laundering conspiracy that laundered millions for a marijuana drug trafficking organization via a web of corporations and bank accounts (structured to avoid CTR reporting). Prosecuted by Criminal Division MNF Section + USAO S.D. Ala.",
-      "score": 35,
-      "doc_type": "COMMUNIQUE",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le blanchiment d'argent et les structures de dissimulation de transactions relèvent directement de la conformité financière.",
-      "hash": "0472bf3589f5"
-    },
-    {
       "hash": "9e849172b419aac9",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -5036,7 +5019,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions contre le pétrole russe, obligeant les institutions à respecter les restrictions commerciales et les obligations de conformité réglementaire."
+      "ai_summary": "Les sanctions pétrolières contre la Russie relèvent de la conformité financière car elles imposent des obligations de respect des régimes restrictifs et de contrôle des flux financiers."
     },
     {
       "hash": "cb3e5368f6b41a29",
@@ -5592,7 +5575,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "39d191e935e91176",
@@ -5855,24 +5838,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre le financement du terrorisme et de l'application des sanctions."
     },
     {
-      "hash": "a31014e979b96d92",
-      "source_name": "BIS - Speeches",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Ayman M Al-Sayari: Speech - Financial Action Task Force (FATF) Ministerial Meeting",
-      "url": "https://www.bis.org/review/r260518k.htm",
-      "author": "Ayman M Al-Sayari",
-      "published": "2026-05-18T11:46:00",
-      "summary": "Speech by His Excellency Mr Ayman Al-Sayari, Governor of the Saudi Central Bank, at the Financial Action Task Force (FATF) Ministerial Meeting during the International Monetary Fund and World Bank Group Spring Meetings, Washington DC, 17 April 2026.",
-      "score": 30,
-      "score_breakdown": "+10 mots forts: fatf | +5 mots moyens: bank | +5 Source Intl | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le discours porte sur la lutte contre le blanchiment de capitaux et le financement du terrorisme, piliers de la conformité financière internationale."
-    },
-    {
       "hash": "84a7424cb7aebece",
       "source_name": "ESMA (X)",
       "source_type": "rss",
@@ -5963,24 +5928,6 @@
       "ai_summary": "La conférence ESMA aborde la supervision des marchés de capitaux européens, relevant directement de la conformité réglementaire financière."
     },
     {
-      "hash": "46d7fb8d7ee74358",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "⏳Last call to apply! The deadline to apply for the Executive Director position at the European Banking Authority is today",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7462121919325220864",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-05-18T12:48:25",
-      "summary": "⏳Last call to apply!\n\nThe deadline to apply for the Executive Director position at the European Banking Authority is today - only a few hours remain. \n\n📌You can apply through the EBA Careers section: https://lnkd.in/eDpe4ERZ",
-      "score": 30,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne le recrutement d'un directeur général à l'Autorité bancaire européenne, autorité de régulation financière clé."
-    },
-    {
       "hash": "c8767087130af186",
       "source_name": "JORF - Lois",
       "source_type": "rss",
@@ -5996,7 +5943,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8f1d6348db5b825b",
@@ -6233,24 +6180,6 @@
       "ai_summary": "Cet ordre exécutif oriente la régulation fédérale du fintech pour équilibrer innovation et conformité financière."
     },
     {
-      "hash": "97fee5ef205e1a0c",
-      "source_name": "ComplyAdvantage",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Amplifying human ingenuity with the power of AI",
-      "url": "https://complyadvantage.com/insights/the-future-of-compliance-europe/",
-      "author": "Marc Koskela",
-      "published": "2026-05-18T14:44:10",
-      "summary": "Turn compliance into a competitive advantage. Join senior leaders on June 17th for a closed-door virtual summit on AI, efficiency, and the future of compliance.\nThe post Amplifying human ingenuity with the power of AI appeared first on ComplyAdvantage.",
-      "score": 27,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne comment l'IA peut améliorer l'efficacité des processus de conformité financière et réglementaire."
-    },
-    {
       "hash": "d25df8d26caef49e",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -6266,7 +6195,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "fc4f2fc88686ece5",
@@ -6302,7 +6231,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f76516c7d24f973a",
@@ -6321,24 +6250,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cour administrative statuant sur l'annulation d'un arrêté concernant une société éolienne, sans lien apparent avec la conformité financière."
-    },
-    {
-      "hash": "e709ad8be440b312",
-      "source_name": "EBA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📢 EU Careers Alert: the EBA is looking for an HR Development Assistant in Paris Perfect for HR/L&D professionals with skills in: ✔️ Stakeholder engagement ✔️ Data & reporting ✔️ People development 🗓️ Deadline: 9 July 2026 🔗",
-      "url": "https://x.com/EBA_News/status/2064712097246650409",
-      "author": "@EBA_News",
-      "published": "2026-06-10T14:11:00",
-      "summary": "📢 EU Careers Alert: the EBA is looking for an HR Development Assistant in ParisPerfect for HR/L&amp;D professionals with skills in: ✔️ Stakeholder engagement✔️ Data & reporting✔️ People development🗓️ Deadline: 9 July 2026🔗  link.europa.eu/tffcmh— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Jun 10, 2026",
-      "score": 25,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.0 (7d)",
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a44d8c66d3a1e5f8",
@@ -6538,6 +6449,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la criminalité financière via la collaboration public-privé."
     },
     {
+      "hash": "e709ad8be440b312",
+      "source_name": "EBA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📢 EU Careers Alert: the EBA is looking for an HR Development Assistant in Paris Perfect for HR/L&D professionals with skills in: ✔️ Stakeholder engagement ✔️ Data & reporting ✔️ People development 🗓️ Deadline: 9 July 2026 🔗",
+      "url": "https://x.com/EBA_News/status/2064712097246650409",
+      "author": "@EBA_News",
+      "published": "2026-06-10T14:11:00",
+      "summary": "📢 EU Careers Alert: the EBA is looking for an HR Development Assistant in ParisPerfect for HR/L&amp;D professionals with skills in: ✔️ Stakeholder engagement✔️ Data & reporting✔️ People development🗓️ Deadline: 9 July 2026🔗  link.europa.eu/tffcmh— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Jun 10, 2026",
+      "score": 20,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×0.8 (14d)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "c497e586fa2f5e26",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -6679,7 +6608,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8226ed514ef7ddc2",
@@ -7040,42 +6969,6 @@
       "ai_summary": "La SEC clôt une enquête FCPA contre Methode Electronics, concernant la conformité des lois anticorruption."
     },
     {
-      "hash": "241c41489eef28cf",
-      "source_name": "CJUE - Cour de Justice UE",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "82/Thu Jun 04 00:00:00 CEST 2026 : null - Advocate General's Opinion in Case C-41/25",
-      "url": "https://curia.europa.eu/site/jcms/p1_1000084242",
-      "author": "",
-      "published": "2026-06-04T07:56:43",
-      "summary": " \nOrsay\n\nArea of Freedom, Security and Justice\n\nAdvocate General Norkus: a Member State cannot rely on immunity from jurisdiction to prevent the courts of the State in which insolvency proceedings have been opened from exercising their jurisdiction\n\n",
-      "score": 8,
-      "score_breakdown": "+10 Géo EU: member state | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "45d8ef05317935e1",
-      "source_name": "CJUE - Cour de Justice UE",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "81/Thu Jun 04 00:00:00 CEST 2026 : Thu Jun 04 10:56:00 CEST 2026 - Advocate General’s Opinion in Case C-553/24",
-      "url": "https://curia.europa.eu/site/jcms/p1_1000084243",
-      "author": "",
-      "published": "2026-06-04T07:56:43",
-      "summary": " \nAssemblée nationale v Parliament and Council\n\nArea of Freedom, Security and Justice\n\nAdvocate General Ćapeta: Action brought by the French National Assembly against EU asylum and migration legislation based on non-compliance with the principle of subsidiarity should be rejected\n\n",
-      "score": 8,
-      "score_breakdown": "+10 mots forts: compliance | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "5fd505b95b07c8d5",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -7256,42 +7149,6 @@
       "ai_summary": "Cet article concerne les sanctions financières imposées par les États-Unis contre les entités impliquées dans le narcotrafic et le terrorisme."
     },
     {
-      "hash": "271e99ace0f24f0d",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Settlement Agreement between the U.S. Department of the Treasury's Office of Foreign Assets Control and Adani Enterprises Limited | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260518",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-05-18T12:00:00",
-      "summary": "",
-      "score": 7,
-      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité aux sanctions financières internationales et le respect des réglementations OFAC."
-    },
-    {
-      "hash": "72c697e150fc00f7",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Cuba Designations and Designations Updates | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260518_33",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-05-18T12:00:00",
-      "summary": "",
-      "score": 7,
-      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite des sanctions contre Cuba et des mises à jour de désignations, relevant de la conformité aux réglementations OFAC."
-    },
-    {
       "hash": "76db9030cb1a4dbd",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7325,7 +7182,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la politique d'application de la loi concernant les pénalités corporatives dans les cas de corruption transnationale."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des amendes corporatives en cas de corruption étrangère et des attentes légales des entreprises."
     },
     {
       "hash": "6d21d1ea3165c2fa",
@@ -7505,7 +7362,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b86f2f506e06ae40",
@@ -7544,7 +7401,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-17T11:19:57.524333+00:00",
+  "last_update": "2026-06-17T14:51:34.789836+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
