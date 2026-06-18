@@ -796,7 +796,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet arrêté concerne la conformité financière car il impose aux établissements de contrôler que les clients ne détiennent qu'un seul produit d'épargne réglementée par catégorie."
     },
     {
       "hash": "9a07a710f3fe79f1",
@@ -1030,7 +1030,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte anti-blanchiment, un enjeu majeur de compliance bancaire et réglementaire."
     },
     {
       "hash": "7436b21dd14af51c",
@@ -1084,7 +1084,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet arrêté applique la lutte contre le blanchiment de capitaux et le financement du terrorisme en vertu du code monétaire et financier."
     },
     {
       "hash": "75cf3c608a64c5ea",
@@ -1102,7 +1102,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté régit l'application des dispositions relatives au gel des avoirs et aux sanctions financières en matière de lutte contre le terrorisme et la criminalité."
+      "ai_summary": "Cet arrêté régit le gel des actifs et les sanctions financières selon le code monétaire et financier, relevant directement de la conformité."
     },
     {
       "hash": "6ad8a782d62d270a",
@@ -1930,7 +1930,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4b34dcb253171a62",
@@ -1948,7 +1948,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "53d455c71beef0fb",
@@ -2326,7 +2326,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les tests de résistance évaluent la capacité du système financier à supporter des chocs, relevant du contrôle de la stabilité financière et la conformité réglementaire."
+      "ai_summary": "Les autorités de régulation financière publient leur méthodologie de test de résistance systémique, évaluant la stabilité du système financier face à des chocs."
     },
     {
       "hash": "e755168c69257a19",
@@ -3044,7 +3044,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "186e20f378eb",
@@ -3799,25 +3799,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "d73bd54a12648d2f",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de NANTES, 4ème chambre, 12 juin 2026, 25NT00813",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDENANTES-20260612-25NT00813",
-      "author": "4ème chambre",
-      "published": "2026-06-12T12:00:00",
-      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           M. A... B... a demandé au tribunal administratif de Caen d'annuler la décision implicite par laquelle la directrice interrégionale des services pénitentiaires du Grand-Ouest a rejeté son recours administratif préalable contre la sanction disciplinaire de placement en cellule disciplinaire durant trente jours, infligée le 30 mai 2022 par le président de la commission de discipline du centre pénitentiaire d'Alençon ",
-      "score": 45,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +20 Géo FR: france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d4305eee243760ce",
@@ -3872,6 +3854,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la supervision et régulation du secteur financier face à l'IA, enjeux majeurs de la conformité financière."
+    },
+    {
+      "hash": "f3b0d024877a873a",
+      "source_name": "ESMA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Pinned: 🟦 #AnnualReportESMA - a year of progress on: 👁️ Stronger supervision 📃 Simpler rules for market participants 🚀 Digital innovation 🗝️ Key milestones: #MiCA, #DORA & #EMIR3 implementation, consolidated tape providers and progress on T+1 settlement. 🔗",
+      "url": "https://x.com/ESMAComms/status/2067520256621367545",
+      "author": "@ESMAComms",
+      "published": "2026-06-18T08:10:00",
+      "summary": "🟦  #AnnualReportESMA - a year of progress on:👁️ Stronger supervision📃 Simpler rules for market participants🚀 Digital innovation🗝️ Key milestones:  #MiCA,  #DORA &  #EMIR3 implementation, consolidated tape providers and progress on T+1 settlement.🔗  link.europa.eu/y9Wb4v— ESMA - EU Securities Markets Regulator 🇪🇺 (@ESMAComms) Jun 18, 2026",
+      "score": 45,
+      "score_breakdown": "+20 mots forts: mica, dora, esma | +10 Géo EU: esma, dora, mica | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "967845bdc8c83ccf",
@@ -4645,7 +4645,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet article concerne la conformité financière car il aborde l'intégration des risques environnementaux dans la gestion de portefeuilles obligataires souverains, aspect croissant de la conformité ESG et réglementaire."
     },
     {
       "hash": "64cce53fe40cbf9f",
@@ -4663,7 +4663,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il analyse comment les rendements obligataires réagissent aux chocs macroéconomiques, élément clé de la gestion des risques réglementaires."
+      "ai_summary": "Les rendements obligataires et l'incertitude monétaire relèvent de la gestion des risques financiers et de la conformité des institutions face aux chocs macroéconomiques."
     },
     {
       "hash": "606664b33891f24f",
@@ -4681,7 +4681,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde les priorités réglementaires de la Commission européenne et de l'EBA pour le secteur bancaire de l'UE."
+      "ai_summary": "Cet article concerne les priorités de conformité bancaire de l'UE et le renforcement de la compétitivité du secteur bancaire européen."
     },
     {
       "hash": "11a26be0b9b277a9",
@@ -5019,7 +5019,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "9e849172b419aac9",
@@ -5037,7 +5037,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions commerciales sur le pétrole russe, relevant de la conformité réglementaire et du respect des embargos internationaux."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales sur le pétrole russe, obligeant les institutions financières à assurer la conformité de leurs transactions."
     },
     {
       "hash": "cb3e5368f6b41a29",
@@ -5575,7 +5575,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "39d191e935e91176",
@@ -5908,7 +5908,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8f1d6348db5b825b",
@@ -6196,7 +6196,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f76516c7d24f973a",
@@ -6429,7 +6429,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c497e586fa2f5e26",
@@ -6574,24 +6574,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il expose la stratégie d'enforcement de l'autorité de régulation financière britannique (FCA)."
-    },
-    {
-      "hash": "05c41c8c5e72813e",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Pourquoi OpenAI veut transformer ChatGPT en plateforme « tout en un »",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/17/pourquoi-openai-veut-transformer-chatgpt-en-plateforme-tout-en-un_6704199_3234.html",
-      "author": "",
-      "published": "2026-06-17T09:45:06",
-      "summary": "Nées en Asie, les « super apps », ces applications qui réunissent des dizaines de services dans une seule interface, attirent désormais les géants de la tech. Chez OpenAI, ChatGPT pourrait servir de socle à une nouvelle plateforme réunissant des agents intelligents, un outil de programmation, Codex, et des services partenaires. En Europe, la régulation complique leur développement.",
-      "score": 16,
-      "score_breakdown": "+5 mots moyens: ppe | +3 Presse | +3 Géo Intl: sfo | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "8226ed514ef7ddc2",
@@ -6805,7 +6787,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'application de la loi FCPA contre la corruption internationale."
     },
     {
       "hash": "7f00464384bf3fd4",
@@ -6823,7 +6805,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des défections au sein de l'unité FCPA du DOJ, responsable de l'application de la loi anti-corruption."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des départs au sein de l'unité FCPA chargée de l'application des lois anti-corruption."
     },
     {
       "hash": "2c9966819df18ef7",
@@ -6968,42 +6950,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La SEC clôt une enquête FCPA contre Methode Electronics, concernant la conformité des lois anticorruption."
-    },
-    {
-      "hash": "241c41489eef28cf",
-      "source_name": "CJUE - Cour de Justice UE",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "82/Thu Jun 04 00:00:00 CEST 2026 : null - Advocate General's Opinion in Case C-41/25",
-      "url": "https://curia.europa.eu/site/jcms/p1_1000084242",
-      "author": "",
-      "published": "2026-06-04T07:56:43",
-      "summary": " \nOrsay\n\nArea of Freedom, Security and Justice\n\nAdvocate General Norkus: a Member State cannot rely on immunity from jurisdiction to prevent the courts of the State in which insolvency proceedings have been opened from exercising their jurisdiction\n\n",
-      "score": 8,
-      "score_breakdown": "+10 Géo EU: member state | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "45d8ef05317935e1",
-      "source_name": "CJUE - Cour de Justice UE",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "81/Thu Jun 04 00:00:00 CEST 2026 : Thu Jun 04 10:56:00 CEST 2026 - Advocate General’s Opinion in Case C-553/24",
-      "url": "https://curia.europa.eu/site/jcms/p1_1000084243",
-      "author": "",
-      "published": "2026-06-04T07:56:43",
-      "summary": " \nAssemblée nationale v Parliament and Council\n\nArea of Freedom, Security and Justice\n\nAdvocate General Ćapeta: Action brought by the French National Assembly against EU asylum and migration legislation based on non-compliance with the principle of subsidiarity should be rejected\n\n",
-      "score": 8,
-      "score_breakdown": "+10 mots forts: compliance | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5fd505b95b07c8d5",
@@ -7435,7 +7381,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "b86f2f506e06ae40",
@@ -7474,7 +7420,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-18T05:12:39.508555+00:00",
+  "last_update": "2026-06-18T10:06:13.752499+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
