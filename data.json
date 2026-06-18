@@ -796,7 +796,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté concerne la conformité financière en imposant des contrôles et des mentions obligatoires sur la détention de produits d'épargne réglementée pour respecter la réglementation financière."
+      "ai_summary": "Cet arrêté établit les règles de contrôle et de conformité pour la détention de produits d'épargne réglementée, limitant une personne à un seul produit par catégorie."
     },
     {
       "hash": "9a07a710f3fe79f1",
@@ -922,7 +922,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les réformes AML/CFT européennes 2027 et la conformité des institutions financières."
     },
     {
       "hash": "686ae817a1e40fad",
@@ -1696,7 +1696,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité des modèles internes bancaires aux normes de calcul des exigences de fonds propres."
     },
     {
       "hash": "011f1a7377e3db3d",
@@ -1966,7 +1966,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d1a4e30c1c002c20",
@@ -1984,7 +1984,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "53d455c71beef0fb",
@@ -2185,22 +2185,40 @@
       "ai_summary": "Sanction de l'AMF contre deux personnes pour violations de la réglementation financière et des obligations de conformité."
     },
     {
-      "hash": "ad9276c5215832f9",
+      "hash": "fe1c90ba1698aeee",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
       "category": "autorite_eu",
-      "title": "EBA E-mail alert 17 June, 2026",
-      "url": "https://www.eba.europa.eu/node/19752",
+      "title": "EBA E-mail alert 18 June, 2026",
+      "url": "https://www.eba.europa.eu/node/19758",
       "author": "Anonymous",
-      "published": "2026-06-17T15:00:03",
-      "summary": "EBA E-mail alert 17 June, 2026\n\n  \n    Date\n          17/06/2026\n\n      \n\nAnonymous (not verified)\n\nWed, 06/17/2026 - 17:00\n\n\n            \n\n      \n  \n    Procurement\n          Crypto assets markets data II\n      ",
+      "published": "2026-06-18T15:00:03",
+      "summary": "EBA E-mail alert 18 June, 2026\n\n  \n    Date\n          18/06/2026\n\n      \n\nAnonymous (not verified)\n\nThu, 06/18/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          ​The EBA publishes its annual assessment of banks’ internal approaches for capital requirements calculation\n          EU/EEA banks remain resilient amid rising geopolitical, market and technological risks\n      ",
       "score": 67,
-      "score_breakdown": "+20 mots forts: crypto, eba | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: risk, bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "La publication de l'EBA sur les approches internes des banques pour le calcul des exigences en capital concerne la conformité réglementaire bancaire."
+    },
+    {
+      "hash": "d57952e1fdc807d9",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EU/EEA banks remain resilient amid rising geopolitical, market and technological risks",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eueea-banks-remain-resilient-amid-rising-geopolitical-market-and-technological-risks",
+      "author": "Jana Jaklic",
+      "published": "2026-06-18T12:12:19",
+      "summary": "The European Banking Authority (EBA) published its Spring 2026 Risk Assessment Report (RAR), Q1 2026 Risk Dashboard (RDB) and Spring 2026 Risk Assessment Questionnaire (RAQ) results today.",
+      "score": 67,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: risk, bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "bd65728bd227da8b",
@@ -2362,7 +2380,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les autorités financières françaises publient un rapport sur les tests de résistance systémiques, évaluant la stabilité et la conformité du secteur financier."
+      "ai_summary": "Les autorités financières publient une méthodologie de test de résistance du système financier pour évaluer sa solidité et sa conformité réglementaire."
     },
     {
       "hash": "e755168c69257a19",
@@ -3044,7 +3062,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "186e20f378eb",
@@ -3081,6 +3099,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Le procureur national financier français en Algérie discute de coopération judiciaire en matière financière."
+    },
+    {
+      "hash": "ad9276c5215832f9",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 17 June, 2026",
+      "url": "https://www.eba.europa.eu/node/19752",
+      "author": "Anonymous",
+      "published": "2026-06-17T15:00:03",
+      "summary": "EBA E-mail alert 17 June, 2026\n\n  \n    Date\n          17/06/2026\n\n      \n\nAnonymous (not verified)\n\nWed, 06/17/2026 - 17:00\n\n\n            \n\n      \n  \n    Procurement\n          Crypto assets markets data II\n      ",
+      "score": 54,
+      "score_breakdown": "+20 mots forts: crypto, eba | +15 Source EU | +10 Géo EU: eba | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bf0bf3f48ad12955",
@@ -3781,7 +3817,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d4305eee243760ce",
@@ -3838,6 +3874,78 @@
       "ai_summary": "Cet article traite de la supervision et régulation du secteur financier face à l'IA, enjeux majeurs de la conformité financière."
     },
     {
+      "hash": "177f31f9520fcb10",
+      "source_name": "EBA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📢 EBA: Spring 2026 RAR, Q1 Dashboard & RAQ out — EU/EEA banks remain resilient. Risks rising: 🌍 geopolitics 💻 cyber/AI 🔗 NBFIs 💡 Strong base, stay vigilant.  #EBA #Banking",
+      "url": "https://x.com/EBA_News/status/2067639951307456843",
+      "author": "@EBA_News",
+      "published": "2026-06-18T16:05:00",
+      "summary": "📢 EBA: Spring 2026 RAR, Q1 Dashboard & RAQ out — EU/EEA banks remain resilient.Risks rising: 🌍 geopolitics 💻 cyber/AI 🔗 NBFIs💡 Strong base, stay vigilant. link.europa.eu/mGtWq6 #EBA  #Banking— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Jun 18, 2026",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: risk, bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "60270ae1124f2037",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📢 EBA publishes Spring 2026 risk reports, confirming EU/EEA banks’ resilience EU/EEA banks continue to show strong fundamentals —...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7473405264189173760",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-06-18T16:04:24",
+      "summary": "📢 EBA publishes Spring 2026 risk reports, confirming EU/EEA banks’ resilience\n\nEU/EEA banks continue to show strong fundamentals — solid capital, liquidity and sustained profitability — despite rising uncertainty.\n\nBut the risk landscape is shifting:\n🌍 Geopolitical tensions could drive inflation, volatility and weaker growth\n💻 Cyber & AI-related risks are increasing in a more digital financial system\n🔗 Growing exposure to NBFIs and private credit warrants close monitoring\n💡 Strong starting point",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: risk, bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "8e400f8dae885d01",
+      "source_name": "EBA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📊 EBA 2025: EU banks’ risk models are strengthening ✅ Better data & consistency 📉 Lower PD variability 📊 Market risk stable; ASA gaining traction (FRTB) 💡 Basel III is the next test — supervision will be key 🔗  #EBA #FRTB #BaselIII #RiskManagement",
+      "url": "https://x.com/EBA_News/status/2067621668080542077",
+      "author": "@EBA_News",
+      "published": "2026-06-18T14:53:00",
+      "summary": "📊 EBA 2025: EU banks’ risk models are strengthening✅ Better data & consistency📉 Lower PD variability📊 Market risk stable; ASA gaining traction (FRTB)💡 Basel III is the next test — supervision will be key🔗  link.europa.eu/c9PnBC #EBA  #FRTB  #BaselIII  #RiskManagement— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Jun 18, 2026",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: risk, bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "625f37893b2398fa",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📊 EBA 2025 Benchmarking: progress — with a watchful eye EU banks are continuing to strengthen their internal risk models, with the...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7473386580364210177",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-06-18T14:50:10",
+      "summary": "📊 EBA 2025 Benchmarking: progress — with a watchful eye\n\nEU banks are continuing to strengthen their internal risk models, with the latest EBA benchmarking report highlighting tangible progress:\n✅ Greater consistency\n✅ Improved data quality\n✅ Reduced model variability\n\n🔹 Market risk\n Dispersion remains low, and the Alternative Standardised Approach (ASA) is increasingly emerging as a reliable benchmark ahead of FRTB — although pockets of variability persist (notably in sVaR and commodities).\n\n🔹 ",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: risk, bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "f3b0d024877a873a",
       "source_name": "ESMA (X)",
       "source_type": "rss",
@@ -3853,7 +3961,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Rapport annuel de l'ESMA couvrant la supervision des marchés, l'implémentation de règlementations financières (MiCA, DORA, EMIR3) et l'innovation numérique."
+      "ai_summary": "Cet article concerne la conformité financière car il détaille la mise en œuvre de régulations clés (MiCA, DORA, EMIR3) et la supervision des marchés financiers."
     },
     {
       "hash": "967845bdc8c83ccf",
@@ -4213,7 +4321,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des nouvelles règlementations européennes de paiement et leurs impacts sur les équipes de conformité."
     },
     {
       "hash": "a431634a4aa641f8",
@@ -4968,22 +5076,22 @@
       "hash": "a90c5c146933"
     },
     {
-      "hash": "67c6d8b498826235",
-      "source_name": "Corporate Compliance Insights",
+      "hash": "e03e6e17c96f1631",
+      "source_name": "Global Investigations Review",
       "source_type": "press",
       "category": "presse",
-      "title": "2026 Litigation Trends Survey: Midyear Pulse",
-      "url": "https://www.corporatecomplianceinsights.com/2026-litigation-trends-midyear-pulse/",
-      "author": "Corporate Compliance Insights",
-      "published": "2026-06-17T14:49:21",
-      "summary": "Norton Rose Fulbright's 2026 midyear litigation pulse examines how dispute exposure is shifting across sectors as cybersecurity, AI and employment risks accelerate. The report draws on insights from 135 corporate counsel to help legal teams recalibrate litigation strategy for the remainder of 2026.\nThe post 2026 Litigation Trends Survey: Midyear Pulse appeared first on Corporate Compliance Insights.",
+      "title": "PNF raids Perenco in foreign bribery probe",
+      "url": "https://globalinvestigationsreview.com/article/pnf-raids-perenco-in-foreign-bribery-probe",
+      "author": "Grace Propheta",
+      "published": "2026-06-18T13:17:00",
+      "summary": "",
       "score": 34,
-      "score_breakdown": "+10 mots forts: compliance | +10 mots moyens: risk, ppe | +3 Presse | ×1.5 (<24h)",
+      "score_breakdown": "+3 Presse | +20 Géo FR: pnf | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "9e849172b419aac9",
@@ -5001,7 +5109,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Article concernant les sanctions financières contre le pétrole russe, matière relevant de la conformité réglementaire et du respect des restrictions commerciales internationales."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions commerciales imposées sur le pétrole russe, un enjeu majeur de conformité réglementaire internationale."
     },
     {
       "hash": "cb3e5368f6b41a29",
@@ -5539,7 +5647,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "39d191e935e91176",
@@ -5854,7 +5962,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8f1d6348db5b825b",
@@ -5926,7 +6034,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de l'automatisation par IA en conformité financière et de l'importance de maintenir l'intervention humaine dans la lutte contre la criminalité financière."
     },
     {
       "hash": "409a6c3e64e8a4cc",
@@ -5944,7 +6052,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de l'utilisation de l'IA agentic pour améliorer la détection et la prévention de la criminalité financière en conformité."
     },
     {
       "hash": "3355a544112c5dea",
@@ -5960,6 +6068,24 @@
       "score_breakdown": "+10 mots forts: aml | +5 mots moyens: bank | +3 Presse | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "L'autorité suédoise sanctionne la banque du groupe IKEA pour manquements aux obligations de lutte contre le blanchiment d'argent."
+    },
+    {
+      "hash": "67c6d8b498826235",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "2026 Litigation Trends Survey: Midyear Pulse",
+      "url": "https://www.corporatecomplianceinsights.com/2026-litigation-trends-midyear-pulse/",
+      "author": "Corporate Compliance Insights",
+      "published": "2026-06-17T14:49:21",
+      "summary": "Norton Rose Fulbright's 2026 midyear litigation pulse examines how dispute exposure is shifting across sectors as cybersecurity, AI and employment risks accelerate. The report draws on insights from 135 corporate counsel to help legal teams recalibrate litigation strategy for the remainder of 2026.\nThe post 2026 Litigation Trends Survey: Midyear Pulse appeared first on Corporate Compliance Insights.",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: compliance | +10 mots moyens: risk, ppe | +3 Presse | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
       "status": "new",
       "early_brief": false,
       "ai_summary": null
@@ -6160,7 +6286,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "fc4f2fc88686ece5",
@@ -6196,7 +6322,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f76516c7d24f973a",
@@ -6429,7 +6555,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c497e586fa2f5e26",
@@ -6645,7 +6771,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne l'implémentation de règles pour renforcer l'identification des clients dans la lutte contre le blanchiment d'argent."
     },
     {
       "hash": "eb01f73b693e1ddd",
@@ -6700,24 +6826,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il analyse les signalements internes et externes de non-conformité dans les banques."
-    },
-    {
-      "hash": "d671d770e44f8c76",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Affaire Renault : Rachida Dati échoue à faire tomber son procès pour corruption",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/05/19/affaire-renault-rachida-dati-echoue-a-faire-tomber-son-proces-pour-corruption_6691511_4355770.html",
-      "author": "",
-      "published": "2026-05-19T15:53:27",
-      "summary": "Le recours de l’ex-ministre de la culture contre son renvoi en procès avec l’ex-PDG de Renault-Nissan Carlos Ghosn a été balayé le 10 avril par la cour d’appel de Paris. La maire du 7ᵉ arrondissement de Paris, qui a formé un pourvoi, doit toujours être jugée en septembre.",
-      "score": 12,
-      "score_breakdown": "+5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption impliquant un PDG de groupe automobile."
     },
     {
       "hash": "a5f6d25036e0",
@@ -6934,6 +7042,24 @@
       "ai_summary": "La SEC clôt une enquête FCPA contre Methode Electronics, concernant la conformité des lois anticorruption."
     },
     {
+      "hash": "bf1a7bc265cd6e3c",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Issuance of Venezuela-related General Licenses and Amended Frequently Asked Question | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260618_33",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-06-18T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "5fd505b95b07c8d5",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -7147,7 +7273,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "45d8ef05317935e1",
@@ -7161,6 +7287,24 @@
       "summary": " \nAssemblée nationale v Parliament and Council\n\nArea of Freedom, Security and Justice\n\nAdvocate General Ćapeta: Action brought by the French National Assembly against EU asylum and migration legislation based on non-compliance with the principle of subsidiarity should be rejected\n\n",
       "score": 6,
       "score_breakdown": "+10 mots forts: compliance | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "ce88fbf205ee8430",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Spy claims by Nigerian AG almost derailed UK prosecution of oil industry exec",
+      "url": "https://globalinvestigationsreview.com/article/spy-claims-nigerian-ag-almost-derailed-uk-prosecution-of-oil-industry-exec",
+      "author": "Grace Propheta",
+      "published": "2026-06-18T14:51:02",
+      "summary": "One of three defendants acquitted of bribery offences in a London court was acting as an informant for Nigeria’s domestic intelligence agency when the alleged corruption took place, the country’s top lawyer claimed.",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
@@ -7381,7 +7525,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ece2fee006fef4c8",
@@ -7402,7 +7546,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-18T15:58:15.907062+00:00",
+  "last_update": "2026-06-18T20:11:58.761986+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
