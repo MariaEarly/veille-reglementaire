@@ -796,7 +796,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté concerne la conformité financière car il impose aux établissements de contrôler que les clients ne détiennent qu'un seul produit d'épargne réglementée par catégorie."
+      "ai_summary": "Cet arrêté concerne la conformité financière en imposant des contrôles et des mentions obligatoires sur la détention de produits d'épargne réglementée pour respecter la réglementation financière."
     },
     {
       "hash": "9a07a710f3fe79f1",
@@ -905,6 +905,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La déclaration de soupçon est un élément clé de la lutte contre le blanchiment de capitaux et le financement du terrorisme."
+    },
+    {
+      "hash": "2c23a744a4a25fb8",
+      "source_name": "ComplyAdvantage",
+      "source_type": "press",
+      "category": "presse",
+      "title": "From rulebook to reality: Preparing for AMLA and the 2027 AMLR reforms",
+      "url": "https://complyadvantage.com/insights/preparing-for-amla-and-the-2027-amlr-reforms/",
+      "author": "Sarah Cameron",
+      "published": "2026-06-18T10:43:03",
+      "summary": "Europe is entering one of the most consequential periods of anti-money laundering (AML) reform in recent memory. The Anti-Money Laundering Authority (AMLA) assumed its rule-setting mandate in 2026, and from July 10, 2027, the Single Rulebook, the AML Regulation (AMLR), [&#8230;]\nThe post From rulebook to reality: Preparing for AMLA and the 2027 AMLR reforms appeared first on ComplyAdvantage.",
+      "score": 94,
+      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, anti-money, amla | +10 mots moyens: regulation, ppe | +3 Presse | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "686ae817a1e40fad",
@@ -1663,6 +1681,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de stress tests pour les fonds monétaires selon la réglementation ESMA."
     },
     {
+      "hash": "35b9e74e96330710",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "​The EBA publishes its annual assessment of banks’ internal approaches for capital requirements calculation",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-annual-assessment-banks-internal-approaches-capital-requirements-calculation",
+      "author": "Jana Jaklic",
+      "published": "2026-06-18T08:42:17",
+      "summary": "​The European Banking Authority (EBA) today published its 2025 Reports on the annual market and credit risk benchmarking exercises, highlighting continued progress in the consistency and reliability of banks’ internal models across the EU, while identifying areas for supervisory attention as key regulatory reforms approach full implementation.",
+      "score": 75,
+      "score_breakdown": "+10 mots forts: eba | +15 mots moyens: risk, supervisory, bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "011f1a7377e3db3d",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -1915,24 +1951,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il évoque la nomination d'un ancien directeur de l'application des règles à la CFTC."
     },
     {
-      "hash": "d1a4e30c1c002c20",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 2 juin 2026 remplaçant l'annexe 7-4 de l'article A. 713-26 du code de commerce fixant la composition des catégories professionnelles des chambres de commerce et d'industrie",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054268487",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-06-18T00:00:00",
-      "summary": "Article 1L'annexe 7-4 mentionnée à l'article A. 713-26, fixant la composition des catégories professionnelles des chambres de commerce et d'industrie, est remplacée par l'annexe jointe au présent arrêté.Article 2Le présent arrêté entre en vigueur au 1er janvier 2027.Article 3Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXE 7-4 (ARTICLE A. 713-26 DU CODE DE COMMERCE)Catégories professionnelles des chambres de commerce et d'industrieLibellé de(s) l'",
-      "score": 67,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "4b34dcb253171a62",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1948,7 +1966,25 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "d1a4e30c1c002c20",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 2 juin 2026 remplaçant l'annexe 7-4 de l'article A. 713-26 du code de commerce fixant la composition des catégories professionnelles des chambres de commerce et d'industrie",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054268487",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-06-18T00:00:00",
+      "summary": "Article 1L'annexe 7-4 mentionnée à l'article A. 713-26, fixant la composition des catégories professionnelles des chambres de commerce et d'industrie, est remplacée par l'annexe jointe au présent arrêté.Article 2Le présent arrêté entre en vigueur au 1er janvier 2027.Article 3Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXE 7-4 (ARTICLE A. 713-26 DU CODE DE COMMERCE)Catégories professionnelles des chambres de commerce et d'industrieLibellé de(s) l'",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "53d455c71beef0fb",
@@ -2326,7 +2362,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les autorités de régulation financière publient leur méthodologie de test de résistance systémique, évaluant la stabilité du système financier face à des chocs."
+      "ai_summary": "Les autorités financières françaises publient un rapport sur les tests de résistance systémiques, évaluant la stabilité et la conformité du secteur financier."
     },
     {
       "hash": "e755168c69257a19",
@@ -2542,24 +2578,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Un ancien responsable de la conformité de Credit Suisse est acquitté dans l'affaire des obligations de thon liée à des défaillances de signalement."
-    },
-    {
-      "hash": "2e3518135e370ac3",
-      "source_name": "Corporate Compliance Insights",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Venezuela Energy Reform and US Sanctions Relief Are Moving Together. Here’s What That Means.",
-      "url": "https://www.corporatecomplianceinsights.com/venezuela-energy-reform-us-sanctions-relief/",
-      "author": "Terry Gilroy and Eugenio Hernández-Bretón",
-      "published": "2026-05-19T11:00:49",
-      "summary": "New OFAC general licenses create openings in Venezuela’s energy sector, but each carries different conditions\nThe post Venezuela Energy Reform and US Sanctions Relief Are Moving Together. Here’s What That Means. appeared first on Corporate Compliance Insights.",
-      "score": 61,
-      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | +3 Géo Intl: ofac | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité aux sanctions OFAC et des obligations de compliance dans le secteur énergétique vénézuélien."
     },
     {
       "hash": "72f2fce7c4007fc8",
@@ -3011,24 +3029,6 @@
       "ai_summary": "Emmanuel Macron appelle à réguler les crypto-actifs, ce qui concerne directement la conformité financière et l'application de normes MiCA."
     },
     {
-      "hash": "40aa810f89cfb2a8",
-      "source_name": "ComplyAdvantage",
-      "source_type": "press",
-      "category": "presse",
-      "title": "ComplyAdvantage integrates real-time payment screening into its AI-native Mesh platform to combat global sanctions risk",
-      "url": "https://complyadvantage.com/press-media/complyadvantage-integrates-real-time-payment-screening-into-mesh-platform/",
-      "author": "Sarah Cameron",
-      "published": "2026-05-19T11:00:35",
-      "summary": "LONDON / NEW YORK, 19 May 2026 – ComplyAdvantage, the leader in AI-driven financial crime risk data and detection, today announced the launch of Payment Screening on Mesh. This release represents a significant upgrade to the company’s existing Payment Screening [&#8230;]\nThe post ComplyAdvantage integrates real-time payment screening into its AI-native Mesh platform to combat global sanctions risk appeared first on ComplyAdvantage.",
-      "score": 57,
-      "score_breakdown": "+20 mots critiques: sanction | +15 mots moyens: risk, payment, ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "ComplyAdvantage améliore son système pour détecter en temps réel les risques de sanctions dans les paiements internationaux."
-    },
-    {
       "hash": "c65be04cd5e6b465",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -3044,7 +3044,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "186e20f378eb",
@@ -3676,24 +3676,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il aborde les agréments MiCA et les autorisations réglementaires des plateformes crypto."
     },
     {
-      "hash": "d760aba26e409d75",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Deutsche Bank London settles with OFSI over Russia sanctions breaches&nbsp;",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/deutsche-bank-settles-ofsi-under-new-uk-sanctions-enforcement-framework",
-      "author": "Grace Propheta",
-      "published": "2026-05-19T13:26:42",
-      "summary": "The German bank’s London branch agreed to pay £165,000 for facilitating two payments to a former subsidiary of Russian state-owned Sberbank. A sanctions practitioner said the case illustrates that “the discounts can be good if you play by the rules” under OFSI’s new settlement regime.&nbsp;",
-      "score": 49,
-      "score_breakdown": "+20 mots critiques: sanction | +10 mots moyens: payment, bank | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Deutsche Bank a violé les sanctions contre la Russie en facilitant des paiements non autorisés, ce qui constitue une non-conformité réglementaire."
-    },
-    {
       "hash": "4d7608535df20ec9",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3799,7 +3781,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d4305eee243760ce",
@@ -3871,7 +3853,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Rapport annuel de l'ESMA couvrant la supervision des marchés, l'implémentation de règlementations financières (MiCA, DORA, EMIR3) et l'innovation numérique."
     },
     {
       "hash": "967845bdc8c83ccf",
@@ -4162,24 +4144,6 @@
       "ai_summary": "Cette coopération entre services de renseignement financier renforce la lutte contre le blanchiment et le financement du terrorisme."
     },
     {
-      "hash": "ff3451a38da28697",
-      "source_name": "AMF France (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "[#Médiation] Retrait de parts de #SCPI : comment fonctionne le registre des ordres de retrait ? Le décryptage de Rémi Bouchez ➡️",
-      "url": "https://x.com/AMF_actu/status/2056735045591654823",
-      "author": "@AMF_actu",
-      "published": "2026-05-19T13:53:00",
-      "summary": "[ #Médiation] Retrait de parts de  #SCPI : comment fonctionne le registre des ordres de retrait ?Le décryptage de Rémi Bouchez ➡️  cutt.ly/KtBYPsbR— AMF (@AMF_actu) May 19, 2026",
-      "score": 45,
-      "score_breakdown": "+10 mots forts: amf | +20 Géo FR: amf | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité des procédures de retrait de parts SCPI et la tenue des registres requis par la réglementation financière."
-    },
-    {
       "hash": "03bded1dfac57763",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -4232,6 +4196,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales et de leurs obligations dans les services bancaires."
+    },
+    {
+      "hash": "c49e7176a44f560d",
+      "source_name": "ComplyAdvantage",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Faster rails, wider assets, tighter rules: The forces reshaping European payments compliance",
+      "url": "https://complyadvantage.com/insights/the-forces-reshaping-european-payments-compliance/",
+      "author": "Sarah Cameron",
+      "published": "2026-06-18T10:50:47",
+      "summary": "Three regulatory forces are reshaping European payments simultaneously, and many compliance teams are having to respond to all of them at once.  The first is faster rails: the EU Instant Payments Regulation (IPR) is making near real-time execution the default [&#8230;]\nThe post Faster rails, wider assets, tighter rules: The forces reshaping European payments compliance appeared first on ComplyAdvantage.",
+      "score": 42,
+      "score_breakdown": "+10 mots forts: compliance | +15 mots moyens: regulation, payment, ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "a431634a4aa641f8",
@@ -4645,7 +4627,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde l'intégration des risques environnementaux dans la gestion de portefeuilles obligataires souverains, aspect croissant de la conformité ESG et réglementaire."
+      "ai_summary": "Cet article traite de la conformité financière car il aborde la gestion des risques environnementaux dans les portefeuilles obligataires souverains."
     },
     {
       "hash": "64cce53fe40cbf9f",
@@ -4663,7 +4645,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les rendements obligataires et l'incertitude monétaire relèvent de la gestion des risques financiers et de la conformité des institutions face aux chocs macroéconomiques."
+      "ai_summary": "Les rendements obligataires et l'incertitude monétaire sont critiques pour la gestion des risques financiers et la conformité réglementaire."
     },
     {
       "hash": "606664b33891f24f",
@@ -4808,24 +4790,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite du rôle des stablecoins, sujet clé de la régulation financière européenne."
-    },
-    {
-      "hash": "f722f979adc30fbc",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📄 New EBA Staff Paper The Impact of Prudential Reporting Distortions: Time to Prioritize Data Integrity — by Jean du Bouëtiez How...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7462508226199089152",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-05-19T14:23:28",
-      "summary": "📄 New EBA Staff Paper\nThe Impact of Prudential Reporting Distortions: Time to Prioritize Data Integrity — by Jean du Bouëtiez\n\nHow reliable is the data underpinning prudential supervision?\n\nDrawing on evidence from 2,759 EEA credit institutions, this paper shows that inconsistencies in sectoral and NACE classifications can materially distort supervisory assessments and key prudential metrics.\n\n🔍 Key findings:\n🔹 16% of counterparties reported by multiple institutions are classified in different s",
-      "score": 37,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: supervisory | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'intégrité des données de reporting prudentiel des institutions de crédit."
     },
     {
       "hash": "a574fb32ef53bed4",
@@ -5019,7 +4983,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9e849172b419aac9",
@@ -5037,7 +5001,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales sur le pétrole russe, obligeant les institutions financières à assurer la conformité de leurs transactions."
+      "ai_summary": "Article concernant les sanctions financières contre le pétrole russe, matière relevant de la conformité réglementaire et du respect des restrictions commerciales internationales."
     },
     {
       "hash": "cb3e5368f6b41a29",
@@ -5575,7 +5539,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "39d191e935e91176",
@@ -5593,24 +5557,6 @@
       "ai_summary": "Cet article concerne la conformité financière car l'EBA met à jour la liste des institutions systémiquement importantes.",
       "status": "new",
       "early_brief": false
-    },
-    {
-      "hash": "58381a9a1a13c826",
-      "source_name": "Cass. - Fraude",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de PARIS, 8ème chambre, 19 mai 2026, 25PA00971",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEPARIS-20260519-25PA00971",
-      "author": "8ème chambre",
-      "published": "2026-05-19T12:00:00",
-      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           La société ING Bank BV a demandé au tribunal administratif de Paris d'annuler la décision du 7 novembre 2022 par laquelle le ministre du travail, du plein emploi et de l'insertion a retiré la décision de l'inspecteur du travail du 27 mai 2022 portant autorisation de procéder au licenciement économique de Mme B... et a refusé d'autoriser la résiliation amiable de son contrat de travail.            Par un jugement n",
-      "score": 30,
-      "score_breakdown": "+10 mots moyens: bank, ppe | +20 Géo FR: france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une décision administrative visant une institution bancaire majeure."
     },
     {
       "hash": "94fba9d74099",
@@ -5908,7 +5854,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8f1d6348db5b825b",
@@ -5963,6 +5909,60 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne le blanchiment de capitaux, infraction financière relevant de la conformité réglementaire et de la lutte anti-blanchiment."
+    },
+    {
+      "hash": "4fffbb2a13bc8729",
+      "source_name": "ComplyAdvantage",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Keeping humans in the loop: What AI can’t do in financial crime compliance",
+      "url": "https://complyadvantage.com/insights/what-ai-cant-do-in-financial-crime-compliance/",
+      "author": "Sarah Cameron",
+      "published": "2026-06-18T11:03:24",
+      "summary": "AI is changing the nature of compliance work. Routine activity like alert triage, manual data entry, and even building transaction monitoring rules is increasingly handled by AI, which frees capacity for the work that genuinely needs human judgment. But that [&#8230;]\nThe post Keeping humans in the loop: What AI can&#8217;t do in financial crime compliance appeared first on ComplyAdvantage.",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "409a6c3e64e8a4cc",
+      "source_name": "ComplyAdvantage",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Not all agents are built equal: Adopting agentic AI in financial crime compliance",
+      "url": "https://complyadvantage.com/insights/adopting-agentic-ai-in-financial-crime-compliance/",
+      "author": "Sarah Cameron",
+      "published": "2026-06-18T10:57:05",
+      "summary": "Compliance has moved through three phases. Work was once done almost entirely by people, then supported by rules-based automation, and is now beginning to run alongside agentic AI: software that can plan, retrieve information, and act across a sequence of [&#8230;]\nThe post Not all agents are built equal: Adopting agentic AI in financial crime compliance appeared first on ComplyAdvantage.",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "3355a544112c5dea",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Swedish regulator fines IKEA group bank $15m over AML failings",
+      "url": "https://globalinvestigationsreview.com/article/swedish-regulator-fines-ikea-group-bank-15m-over-aml-failings",
+      "author": "Ana de Liz",
+      "published": "2026-06-18T08:39:41",
+      "summary": "",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: aml | +5 mots moyens: bank | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "7ff9533c29259809",
@@ -6160,7 +6160,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "fc4f2fc88686ece5",
@@ -6196,7 +6196,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f76516c7d24f973a",
@@ -6429,7 +6429,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c497e586fa2f5e26",
@@ -6540,24 +6540,6 @@
       "ai_summary": "La détection et le blocage des financements terroristes via des circuits innovants incluant les cryptomonnaies relèvent de la conformité financière."
     },
     {
-      "hash": "22d5e47e06fca34e",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "BFM Crypto, le Club : Quelle proportion de Bitcoin dans un portefeuille ? – 19/05",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/bfm-crypto-le-club-quelle-proportion-de-bitcoin-dans-un-portefeuille-19-05_EN-202605190609.html",
-      "author": "",
-      "published": "2026-05-19T13:36:52",
-      "summary": "Mardi 19 mai, la proportion de Bitcoin à mettre dans un portefeuille, la déclaration de revenus en crypto, la protection de nos données pendant la déclaration d'impôts, le lancement de l'assurance maritime \"Hormuz safe\" par l'Iran, et l'achat d'actions chez MARA Holdings par D. Trump, ont été abordés par Alexandre Stachtchenko, directeur de la stratégie chez Bitstack, Louis Alexandre de Froissard, gérant et associé chez Montaigne Conseil et Patrimoine, Loic Centelles, fondateur de ComptaCrypto, ",
-      "score": 19,
-      "score_breakdown": "+10 mots forts: crypto | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la déclaration de revenus en crypto et de la protection des données fiscales."
-    },
-    {
       "hash": "0c1aab9026dab76f",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -6648,22 +6630,22 @@
       "ai_summary": "Cet article concerne l'évaluation de la conformité des règles cryptomonnaies de l'UE et leur efficacité pratique."
     },
     {
-      "hash": "c9bea157c51c7c63",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "Taxpayers today are much better protected from bank failures, says Supervisory Board Chair Claudia Buch. To make further progress, we must complete the banking union and maintain the strong regulatory standards introduced since the 2008 financial crisis",
-      "url": "https://x.com/ecb/status/2056709146070917404",
-      "author": "@ecb",
-      "published": "2026-05-19T12:10:00",
-      "summary": "Taxpayers today are much better protected from bank failures, says Supervisory Board Chair Claudia Buch. To make further progress, we must complete the banking union and maintain the strong regulatory standards introduced since the 2008 financial crisis https://t.co/kLl4vNA3Is — European Central Bank (@ecb) May 19, 2026",
-      "score": 15,
-      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
+      "hash": "edcac2cdb6403b98",
+      "source_name": "FinCEN",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "FinCEN, Agencies Propose Rule to Implement GENIUS Act Customer Identification Program Requirement",
+      "url": "https://www.fincen.gov/news/news-releases/fincen-agencies-propose-rule-implement-genius-act-customer-identification",
+      "author": "",
+      "published": "2026-06-18T00:00:00",
+      "summary": "",
+      "score": 12,
+      "score_breakdown": "+5 Source Intl | +3 Géo Intl: fincen | ×1.5 (<24h)",
       "doc_type": null,
-      "action_class": "action",
+      "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la protection des contribuables contre les faillites bancaires et le renforcement des normes réglementaires post-2008."
+      "ai_summary": null
     },
     {
       "hash": "eb01f73b693e1ddd",
@@ -7150,6 +7132,42 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et de violations de règles éthiques."
     },
     {
+      "hash": "241c41489eef28cf",
+      "source_name": "CJUE - Cour de Justice UE",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "82/Thu Jun 04 00:00:00 CEST 2026 : null - Advocate General's Opinion in Case C-41/25",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000084242",
+      "author": "",
+      "published": "2026-06-04T07:56:43",
+      "summary": " \nOrsay\n\nArea of Freedom, Security and Justice\n\nAdvocate General Norkus: a Member State cannot rely on immunity from jurisdiction to prevent the courts of the State in which insolvency proceedings have been opened from exercising their jurisdiction\n\n",
+      "score": 6,
+      "score_breakdown": "+10 Géo EU: member state | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "45d8ef05317935e1",
+      "source_name": "CJUE - Cour de Justice UE",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "81/Thu Jun 04 00:00:00 CEST 2026 : Thu Jun 04 10:56:00 CEST 2026 - Advocate General’s Opinion in Case C-553/24",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000084243",
+      "author": "",
+      "published": "2026-06-04T07:56:43",
+      "summary": " \nAssemblée nationale v Parliament and Council\n\nArea of Freedom, Security and Justice\n\nAdvocate General Ćapeta: Action brought by the French National Assembly against EU asylum and migration legislation based on non-compliance with the principle of subsidiarity should be rejected\n\n",
+      "score": 6,
+      "score_breakdown": "+10 mots forts: compliance | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "b5ce4c85187a5d7f",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7330,24 +7348,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'un règlement lié à la fraude et aux pratiques de corruption d'une société."
     },
     {
-      "hash": "94ce289d784b0536",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Former Spanish PM charged in airline bailout corruption scheme",
-      "url": "https://globalinvestigationsreview.com/article/former-spanish-pm-charged-in-airline-bailout-corruption-scheme",
-      "author": "Ana de Liz",
-      "published": "2026-05-19T11:55:01",
-      "summary": "A court in Madrid has charged former prime minister José Luis Rodríguez Zapatero in a corruption investigation into the bailout of airline Plus Ultra.&nbsp;",
-      "score": 4,
-      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une enquête sur la corruption dans une opération de renflouement d'entreprise."
-    },
-    {
       "hash": "37a4d394cb1cc6f8",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -7381,25 +7381,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "b86f2f506e06ae40",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Counter Terrorism Designations; Iran-related Designations | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260519",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-05-19T12:00:00",
-      "summary": "",
-      "score": 3,
-      "score_breakdown": "+5 Source Intl | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions financières et le gel d'actifs imposés par les États-Unis contre l'Iran en vertu des régimes contre-terroristes."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ece2fee006fef4c8",
@@ -7420,7 +7402,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-18T10:51:24.612718+00:00",
+  "last_update": "2026-06-18T14:47:48.584313+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
