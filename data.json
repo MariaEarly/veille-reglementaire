@@ -2182,7 +2182,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'évaluation des risques bancaires et de la résilience des établissements financiers européens."
+      "ai_summary": "L'article concerne la conformité financière car il rapporte l'évaluation des risques bancaires par l'autorité de régulation européenne."
     },
     {
       "hash": "bd65728bd227da8b",
@@ -2993,24 +2993,6 @@
       "ai_summary": "Les stablecoins et la réglementation MiCA relèvent directement de la conformité financière et des crypto-actifs."
     },
     {
-      "hash": "3784e8b44510d6e7",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "BFM Crypto, le Club : Emmanuel Macron veut encore réguler les crypto-actifs – 20/05",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/bfm-crypto-le-club-emmanuel-macron-veut-encore-reguler-les-crypto-actifs-20-05_EN-202605200586.html",
-      "author": "",
-      "published": "2026-05-20T13:34:22",
-      "summary": "Ce mercredi 20 mai, Emmanuel Macron appelant à nouveau à réglementer les crypto-actifs, l'approche de la date fatidique pour l'agrément MiCA, Donald Trump devenu actionnaire chez MARA Holdings, ainsi que l'adoption du Clarity Act par le Sénat américain, ont été abordés par Nathalie Janson, économiste, professeure à la Neoma Business School et présidente de Generation Libre, Florent Gabriel, fondateur et CEO de Blobb.io, et Grégory Raymond, cofondateur de The Big Whale, reçus par Sandra Gandoin d",
-      "score": 57,
-      "score_breakdown": "+20 mots forts: mica, crypto, agrément | +5 mots moyens: ppe | +3 Presse | +10 Géo EU: mica | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Emmanuel Macron appelle à réguler les crypto-actifs, ce qui concerne directement la conformité financière et l'application de normes MiCA."
-    },
-    {
       "hash": "c65be04cd5e6b465",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -3023,24 +3005,6 @@
       "score": 55,
       "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: français, française, code monétaire | ×1.0 (7d)",
       "doc_type": "DÉCRET",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "c29d83bcab5992d0",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 9 juin 2026 fixant la liste des métiers caractérisés par des difficultés de recrutement sur le territoire de La Réunion en application de l'article L. 414-13 du code de l'entrée et du séjour des étrangers et du droit d'asile",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054268336",
-      "author": "Ministère du travail et des solidarités",
-      "published": "2026-06-18T00:00:00",
-      "summary": "Article 1La liste des métiers caractérisés par des difficultés de recrutement sur le territoire de La Réunion, prévue à l'article L. 414-13 du code de l'entrée et du séjour des étrangers et du droit d'asile, est fixée par l'annexe I du présent arrêté.Article 2La correspondance des familles professionnelles avec le répertoire opérationnel des métiers et des emplois est établie à l'annexe II au présent arrêté.Article 3Le présent arrêté sera publié au Journal officiel de la République française.Ann",
-      "score": 54,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
-      "doc_type": "ARRÊTÉ",
       "action_class": "action",
       "status": "new",
       "early_brief": false,
@@ -3063,6 +3027,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "c29d83bcab5992d0",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 9 juin 2026 fixant la liste des métiers caractérisés par des difficultés de recrutement sur le territoire de La Réunion en application de l'article L. 414-13 du code de l'entrée et du séjour des étrangers et du droit d'asile",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054268336",
+      "author": "Ministère du travail et des solidarités",
+      "published": "2026-06-18T00:00:00",
+      "summary": "Article 1La liste des métiers caractérisés par des difficultés de recrutement sur le territoire de La Réunion, prévue à l'article L. 414-13 du code de l'entrée et du séjour des étrangers et du droit d'asile, est fixée par l'annexe I du présent arrêté.Article 2La correspondance des familles professionnelles avec le répertoire opérationnel des métiers et des emplois est établie à l'annexe II au présent arrêté.Article 3Le présent arrêté sera publié au Journal officiel de la République française.Ann",
+      "score": 54,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "6a6e826b649c5ad1",
@@ -3422,6 +3404,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la lutte anti-blanchiment de capitaux et l'échange sécurisé d'informations financières."
+    },
+    {
+      "hash": "9d1062b5cce4ac3c",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "BFM Crypto, les Pros : Binance, la menace MiCA avant le 1er juillet – 19/06",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-pros-des-cryptos/bfm-crypto-les-pros-binance-la-menace-mi-ca-avant-le-1er-juillet-19-06_EN-202606190622.html",
+      "author": "",
+      "published": "2026-06-19T13:39:25",
+      "summary": "Vendredi 19 juin, les conséquences de l'éventuelle cessation des activités de Binance en Europe, les craintes de C. Lagarde face aux stablecoins dollar, et le potentiel des IA décentralisées, ont été abordés par Xavier Fenaux, associé chez Interactiv Trading, Owen Simonin, fondateur de la chaine Youtube \"Hasheur\" et CEO de Meria, et Alexandre Stachtchenko, directeur de la stratégie chez Bitstack, reçus par Guillaume Sommerer, dans l'émission BFM Crypto, Les Pros sur BFM Business. Retrouvez l'émi",
+      "score": 49,
+      "score_breakdown": "+20 mots forts: mica, crypto | +3 Presse | +10 Géo EU: mica | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "2f151a56a838264c",
@@ -3820,6 +3820,24 @@
       "ai_summary": "Cet article concerne l'accès public aux données de bénéficiaires finaux dans les mandats de confiance, obligation clé de la lutte anti-blanchiment."
     },
     {
+      "hash": "288c8b594f35abdc",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🔎 Turning Regulation into Resilience: DORA & Critical Third Parties At the FS-ISAC 2026 EMEA Summit, Marc Andries (ESAs Joint Dire...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7473709663109300224",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-06-19T12:13:58",
+      "summary": "🔎 Turning Regulation into Resilience: DORA & Critical Third Parties\n\nAt the FS-ISAC 2026 EMEA Summit, Marc Andries (ESAs Joint Director for DORA Oversight) shared how DORA is reshaping digital risk in financial services.\n\n💡 Key message: As finance has become dependent on technology, oversight is essential to turn that dependence into confidence and resilience.\n\n🚀 Already in motion:\n• EU-wide mapping of ICT providers\n• 19 critical providers designated\n• First oversight cycle underway in 2026\n\n🤝 T",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: dora | +10 mots moyens: risk, regulation | +10 Géo EU: dora | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "177f31f9520fcb10",
       "source_name": "EBA (X)",
       "source_type": "rss",
@@ -3835,7 +3853,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'EBA publie son rapport de résilience bancaire (RAR) et tableau de bord Q1 évaluant la conformité réglementaire des banques EU/EEA aux normes de solidité financière."
+      "ai_summary": "L'EBA publie son rapport de résilience bancaire (RAR) Spring 2026 avec tableau de bord Q1, évaluant la conformité réglementaire et les risques des banques EU/EEA."
     },
     {
       "hash": "60270ae1124f2037",
@@ -4504,24 +4522,6 @@
       "ai_summary": "Cet article concerne les enquêtes FCPA et la lutte anti-corruption, domaines clés de la conformité financière internationale."
     },
     {
-      "hash": "5e675420a2b9cdb0",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Swiss probe of PDVSA-linked billionaire continues despite extradition failure",
-      "url": "https://globalinvestigationsreview.com/article/swiss-probe-of-pdvsa-linked-billionaire-continues-despite-extradition-failure",
-      "author": "Grace Propheta",
-      "published": "2026-05-20T14:08:09",
-      "summary": "Zurich prosecutors confirmed that an investigation into a Venezuelan businessman over allegations of money laundering involving the Venezuelan state-owned oil company is ongoing, even though Switzerland withdrew its request to extradite him from the UK.",
-      "score": 39,
-      "score_breakdown": "+20 mots critiques: money laundering | +3 Presse | +3 Géo Intl: switzerland | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une enquête sur le blanchiment d'argent impliquant une compagnie pétrolière d'État."
-    },
-    {
       "hash": "1a4718627815644b",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -4555,7 +4555,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur la publication de données de supervision bancaire par la BCE pour les établissements significatifs."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la publication par la BCE de statistiques de supervision bancaire sur les établissements significatifs."
     },
     {
       "hash": "9b0c211448356ae5",
@@ -5004,24 +5004,6 @@
       "hash": "a90c5c146933"
     },
     {
-      "hash": "e03e6e17c96f1631",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "PNF raids Perenco in foreign bribery probe",
-      "url": "https://globalinvestigationsreview.com/article/pnf-raids-perenco-in-foreign-bribery-probe",
-      "author": "Grace Propheta",
-      "published": "2026-06-18T13:17:00",
-      "summary": "",
-      "score": 34,
-      "score_breakdown": "+3 Presse | +20 Géo FR: pnf | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "9e849172b419aac9",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -5037,7 +5019,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les sanctions pétrolières russes relèvent de la conformité financière car elles imposent des obligations de respect des régimes de sanctions internationales aux institutions financières et entreprises."
+      "ai_summary": "Cet article concerne les sanctions commerciales sur le pétrole russe et leur levée, relevant de la conformité aux régimes de sanctions internationales."
     },
     {
       "hash": "cb3e5368f6b41a29",
@@ -5575,7 +5557,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "18065398412c61fc",
@@ -5593,7 +5575,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "39d191e935e91176",
@@ -5929,22 +5911,40 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision et de l'engagement de l'autorité anti-blanchiment avec le secteur privé."
     },
     {
-      "hash": "8a731ba36f98c00f",
-      "source_name": "Cass. - Blanchiment",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour de cassation, Chambre criminelle - formation restreinte hors rnsm/na, 20 mai 2026, 25-85.380",
-      "url": "http://juricaf.org/arret/FRANCE-COURDECASSATION-20260520-2585380",
-      "author": "Chambre criminelle - formation restreinte hors rnsm/na",
-      "published": "2026-05-20T12:00:00",
-      "summary": "N° W 25-85.380 F    N° 50648      ODVS  20 MAI 2026      NON-ADMISSION      M. BONNAL président,                  R É P U B L I Q U E F R A N Ç A I S E _ AU NOM DU PEUPLE FRANÇAIS _ DÉCISION DE LA COUR DE CASSATION, CHAMBRE CRIMINELLE,   DU 20 MAI 2026        M. P Q a formé un pourvoi contre l'arrêt n° 988 de la chambre de l'instruction de la cour d'appel de Douai, en date du 12 juin 2025, qui, dans la procédure suivie des chefs d'abus de biens sociaux, blanchiment, faux et usage, a confirmé l'o",
+      "hash": "3935de68d83247ec",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Supreme Court Rules SEC May Claw Back Ill-Gotten Gains Regardless of Investor Loss",
+      "url": "https://www.corporatecomplianceinsights.com/supreme-court-rules-sec-may-claw-back-ill-gotten-gains-regardless-investor-loss/",
+      "author": "Ferdose al-Taie, Lindsay E. Ray and J. Tyler Wampler",
+      "published": "2026-06-19T11:00:46",
+      "summary": "The Sripetch decision eliminates a meaningful defense previously available to SEC defendants\nThe post Supreme Court Rules SEC May Claw Back Ill-Gotten Gains Regardless of Investor Loss appeared first on Corporate Compliance Insights.",
       "score": 27,
-      "score_breakdown": "+20 mots critiques: blanchiment | +5 mots moyens: ppe | +20 Géo FR: france, français | ×0.6 (>14d)",
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne le blanchiment de capitaux, infraction financière relevant de la conformité réglementaire et de la lutte anti-blanchiment."
+      "ai_summary": null
+    },
+    {
+      "hash": "e03e6e17c96f1631",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "PNF raids Perenco in foreign bribery probe",
+      "url": "https://globalinvestigationsreview.com/article/pnf-raids-perenco-in-foreign-bribery-probe",
+      "author": "Grace Propheta",
+      "published": "2026-06-18T13:17:00",
+      "summary": "",
+      "score": 27,
+      "score_breakdown": "+3 Presse | +20 Géo FR: pnf | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "4fffbb2a13bc8729",
@@ -5962,7 +5962,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de l'intégration de l'IA en conformité financière et de l'importance de maintenir l'intervention humaine dans la détection des fraudes."
+      "ai_summary": "Cet article traite de l'automatisation par IA dans la conformité financière et de l'importance de maintenir l'intervention humaine pour les décisions critiques."
     },
     {
       "hash": "409a6c3e64e8a4cc",
@@ -6016,7 +6016,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7ff9533c29259809",
@@ -6214,7 +6214,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "fc4f2fc88686ece5",
@@ -6323,6 +6323,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les changements de conseil juridique lors d'enquêtes de fraude, relevant de la conformité et de la gestion des risques légaux."
+    },
+    {
+      "hash": "796da4a2f15ecc19",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "The goal of simplification is a clearer framework, not higher or lower capital, says Supervisory Board Vice-Chair Frank Elderson. He also points to growing cyber threats in the age of AI, and highlights the digital euro as key to Europe’s payments autonomy",
+      "url": "https://x.com/ecb/status/2067918095994216700",
+      "author": "@ecb",
+      "published": "2026-06-19T10:31:00",
+      "summary": "The goal of simplification is a clearer framework, not higher or lower capital, says Supervisory Board Vice-Chair Frank Elderson. He also points to growing cyber threats in the age of AI, and highlights the digital euro as key to Europe’s payments autonomy  bankingsupervision.europa.eu…— European Central Bank (@ecb) Jun 19, 2026",
+      "score": 22,
+      "score_breakdown": "+15 mots moyens: supervisory, payment, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "5c1cc4f9765228ec",
@@ -6448,7 +6466,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "833dec335cda",
@@ -6483,7 +6501,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c497e586fa2f5e26",
@@ -6646,24 +6664,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la résilience opérationnelle des banques européennes face à l'IA, un enjeu de conformité réglementaire supervisée par la BCE."
-    },
-    {
-      "hash": "74dc84fa2b749f3a",
-      "source_name": "Commission EU Finance (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📢 How are the EU's crypto-asset rules working in practice? Today, we are launching a consultation to assess the efficiency of the current framework and explore emerging market trends. Have your say by 31 August. Share your views here 👉",
-      "url": "https://x.com/EU_Finance/status/2057042286639301063",
-      "author": "@EU_Finance",
-      "published": "2026-05-20T10:14:00",
-      "summary": "📢 How are the EU's crypto-asset rules working in practice? Today, we are launching a consultation to assess the efficiency of the current framework and explore emerging market trends.Have your say by 31 August. Share your views here 👉 finance.ec.europa.eu/news/co…— EU Finance 🇪🇺 (@EU_Finance) May 20, 2026",
-      "score": 15,
-      "score_breakdown": "+10 mots forts: crypto | ×1.5 (<24h)",
-      "doc_type": "CONSULTATION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne l'évaluation de la conformité des règles cryptomonnaies de l'UE et leur efficacité pratique."
     },
     {
       "hash": "edcac2cdb6403b98",
@@ -7132,24 +7132,6 @@
       "ai_summary": "Cet article concerne les sanctions financières imposées par les États-Unis contre des entités liées à la Cour pénale internationale."
     },
     {
-      "hash": "e966f292ad3888b3",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Counter Narcotics and Counter Terrorism Designations | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260520",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-05-20T12:00:00",
-      "summary": "",
-      "score": 7,
-      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions financières imposées par les États-Unis contre les entités impliquées dans le narcotrafic et le terrorisme."
-    },
-    {
       "hash": "76db9030cb1a4dbd",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7183,7 +7165,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "45d8ef05317935e1",
@@ -7201,7 +7183,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ce88fbf205ee8430",
@@ -7420,24 +7402,6 @@
       "ai_summary": "Cet article concerne la conformité aux sanctions financières et à la lutte contre le blanchiment d'argent."
     },
     {
-      "hash": "125da12f98a79bcb",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "International Criminal Court-related Designation Removal | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260520_33",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-05-20T12:00:00",
-      "summary": "",
-      "score": 3,
-      "score_breakdown": "+5 Source Intl | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article ne concerne pas directement la conformité financière des entreprises, il traite plutôt de sanctions géopolitiques."
-    },
-    {
       "hash": "ece2fee006fef4c8",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7456,7 +7420,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-19T11:01:00.574544+00:00",
+  "last_update": "2026-06-19T14:44:37.890686+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
