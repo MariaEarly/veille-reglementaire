@@ -580,7 +580,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la surveillance réglementaire des produits structurés par les autorités financières françaises."
     },
     {
       "hash": "f73777bd27026926",
@@ -743,6 +743,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une enquête pour non-respect des obligations de lutte anti-blanchiment par HSBC."
+    },
+    {
+      "hash": "cf4cbf6b75b4d49a",
+      "source_name": "AMF - Actualités",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Le Pôle commun de l’ACPR et de l’AMF publie la synthèse de son étude sur la distribution, les frais et les performances des produits structurés",
+      "url": "https://www.amf-france.org/fr/actualites-publications/communiques/communiques-de-lamf/le-pole-commun-de-lacpr-et-de-lamf-publie-la-synthese-de-son-etude-sur-la-distribution-les-frais-et#xts=607212&xtor=RSS-3&type=RSS",
+      "author": "",
+      "published": "2026-06-22T07:09:05",
+      "summary": "Communiqué AMF                  Dérivés ou produits structurés              Commercialisation                    Le Pôle commun de l’ACPR et de l’AMF publie la synthèse de son étude sur la distribution, les frais et les performances des produits structurés",
+      "score": 97,
+      "score_breakdown": "+20 mots forts: acpr, amf | +25 Source FR | +20 Géo FR: acpr, amf | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la surveillance réglementaire des frais et de la commercialisation des produits structurés par les autorités."
     },
     {
       "hash": "fc316e51f93704a0",
@@ -1591,6 +1609,24 @@
       "ai_summary": "Cet accord de coopération financière entre la France et le Monténégro relève de la conformité financière internationale."
     },
     {
+      "hash": "d36cf40a049021b8",
+      "source_name": "CSSF Luxembourg (AML/CFT)",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Annex to Circular CSSF 22/822",
+      "url": "https://www.cssf.lu/en/Document/annex-to-circular-cssf-22-822/",
+      "author": "",
+      "published": "2026-06-22T12:49:06",
+      "summary": "1) high-risk jurisdictions on which enhanced due diligence and, where appropriate, counter-measures are imposed2) jurisdictions under increased monitoring of the FATFVersion of 19 June 2026",
+      "score": 75,
+      "score_breakdown": "+20 mots forts: due diligence, fatf | +5 mots moyens: risk | +15 Source EU | +10 Géo EU: cssf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "35b9e74e96330710",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -1789,6 +1825,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il évoque la nomination d'un ancien directeur de l'application des règles à la CFTC."
     },
     {
+      "hash": "5103ea9e04930709",
+      "source_name": "PNF (Parquet National Financier)",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Le 17 juin, à l’invitation de Paris-Pantheon-Assas University, le procureur national financier…",
+      "url": "https://social.numerique.gouv.fr/@pnf/116794053641745094",
+      "author": "",
+      "published": "2026-06-22T13:43:48",
+      "summary": "Le 17 juin, à l’invitation de Paris-Pantheon-Assas University, le procureur national financier Pascal Prache a présidé une table ronde consacrée au contentieux répressif européen en matière de droit boursier, pour lequel le PNF dispose d’une compétence judiciaire exclusive. En montée en puissance progressive depuis plusieurs années, les affaires judiciaires relatives à des atteintes aux marchés financiers représentent aujourd’hui près de 5% du portefeuille des procédures suivies par le PNF.",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: pnf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il traite du contentieux répressif européen en matière de droit boursier, domaine de compétence exclusive du PNF."
+    },
+    {
       "hash": "982677c1e6bb0d4b",
       "source_name": "JORF - Sanctions",
       "source_type": "rss",
@@ -1967,6 +2021,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet arrêté concerne la conformité financière car il organise les pouvoirs de sanction en matière douanière et droits indirects."
+    },
+    {
+      "hash": "0cae7e1848d65c36",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Latest EBA MREL dashboard shows that MREL requirements range from 25% to 29% of risk-weighted assets, depending on bank category, while bail-in remains the preferred resolution strategy",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/latest-eba-mrel-dashboard-shows-mrel-requirements-range-25-29-risk-weighted-assets-depending-bank",
+      "author": "Jana Jaklic",
+      "published": "2026-06-22T14:45:00",
+      "summary": "The European Banking Authority (EBA) today published its latest semi-annual dashboard on the minimum requirement for own funds and eligible liabilities (MREL), providing an update on the state of resolution planning and on the resources that banks are using to meet their requirements. As of December 2025, bail-in remains the preferred resolution strategy in terms of risk-weighed assets (RWAs), while rollover needs reach EUR 231 billion for instruments set to become ineligible over the next 12 mo",
+      "score": 67,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: risk, bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "58a1dfed77f77b48",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "First AMLA Conference Recap: Key Moments and Insights",
+      "url": "https://www.amla.europa.eu/first-amla-conference-recap-key-moments-and-insights_en",
+      "author": "",
+      "published": "2026-06-22T13:20:43",
+      "summary": "First AMLA Conference Recap: Key Moments and Insights",
+      "score": 67,
+      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "fe1c90ba1698aeee",
@@ -2526,6 +2616,24 @@
       "ai_summary": "Cet article concerne la supervision bancaire prudentielle et la conformité réglementaire des institutions financières."
     },
     {
+      "hash": "adfc32deed79673a",
+      "source_name": "AMF France (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Le Pôle commun de l’AMF et de l’@ACPR_actu publie la synthèse de son étude sur la distribution, les frais et les performances des produits structurés. Retrouvez nos principaux résultats ici ➡️  #Epargne #Marchés",
+      "url": "https://x.com/AMF_actu/status/2069078089326301644",
+      "author": "@AMF_actu",
+      "published": "2026-06-22T15:20:00",
+      "summary": "Le Pôle commun de l’AMF et de l’ @ACPR_actu publie la synthèse de son étude sur la distribution, les frais et les performances des produits structurés.Retrouvez nos principaux résultats ici ➡️  cutt.ly/Wt4R4DjC #Epargne  #Marchés— AMF (@AMF_actu) Jun 22, 2026",
+      "score": 60,
+      "score_breakdown": "+20 mots forts: acpr, amf | +20 Géo FR: acpr, amf | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "209e6d753d276547",
       "source_name": "Tracfin (LinkedIn)",
       "source_type": "rss",
@@ -2541,7 +2649,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la lutte anti-blanchiment et la coopération internationale entre les autorités de conformité financière, notamment Tracfin et le Qatar."
     },
     {
       "hash": "efedaaf308a08657",
@@ -2847,7 +2955,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "dfdb6ee6d6ebc402",
@@ -2884,6 +2992,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il étudie l'impact des réglementations de liquidité sur les coûts de financement bancaires."
+    },
+    {
+      "hash": "d254db383a7a0ff5",
+      "source_name": "EBA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🚀 Senior role at the EBA in Paris We’re hiring a Senior Expert – Payment Services Shape EU payment rules & policy at the heart of regulation 🎯 Senior profiles in payments / finance 📅 Apply by 22 July 2026 👉",
+      "url": "https://x.com/EBA_News/status/2069043862991974687",
+      "author": "@EBA_News",
+      "published": "2026-06-22T13:04:00",
+      "summary": "🚀 Senior role at the EBA in ParisWe’re hiring a Senior Expert – Payment ServicesShape EU payment rules & policy at the heart of regulation🎯 Senior profiles in payments / finance📅 Apply by 22 July 2026👉  link.europa.eu/WWdHGp— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Jun 22, 2026",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: eba | +15 mots moyens: regulation, payment, bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "5254da8e7841c5f7",
@@ -3299,24 +3425,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'un responsable superviseur d'OFAC et FinCEN."
     },
     {
-      "hash": "4b34dcb253171a62",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 9 juin 2026 fixant la liste des métiers caractérisés par des difficultés de recrutement sur le territoire de la Guyane en application de l'article L. 414-13 du code de l'entrée et du séjour des étrangers et du droit d'asile",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054268321",
-      "author": "Ministère du travail et des solidarités",
-      "published": "2026-06-18T00:00:00",
-      "summary": "Article 1La liste des métiers caractérisés par des difficultés de recrutement sur le territoire de la Guyane, prévue à l'article L. 414-13 du code de l'entrée et du séjour des étrangers et du droit d'asile, est fixée par l'annexe I du présent arrêté.Article 2La correspondance des familles professionnelles avec le répertoire opérationnel des métiers et des emplois est établie à l'annexe II au présent arrêté.Article 3Le présent arrêté sera publié au Journal officiel de la République française.Anne",
-      "score": 45,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
-    },
-    {
       "hash": "d1a4e30c1c002c20",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -3332,7 +3440,25 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "c29d83bcab5992d0",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 9 juin 2026 fixant la liste des métiers caractérisés par des difficultés de recrutement sur le territoire de La Réunion en application de l'article L. 414-13 du code de l'entrée et du séjour des étrangers et du droit d'asile",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054268336",
+      "author": "Ministère du travail et des solidarités",
+      "published": "2026-06-18T00:00:00",
+      "summary": "Article 1La liste des métiers caractérisés par des difficultés de recrutement sur le territoire de La Réunion, prévue à l'article L. 414-13 du code de l'entrée et du séjour des étrangers et du droit d'asile, est fixée par l'annexe I du présent arrêté.Article 2La correspondance des familles professionnelles avec le répertoire opérationnel des métiers et des emplois est établie à l'annexe II au présent arrêté.Article 3Le présent arrêté sera publié au Journal officiel de la République française.Ann",
+      "score": 45,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "3c071dec646cebbc",
@@ -3387,6 +3513,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les risques macroprudentiels liés à l'IA, relevant de la conformité financière et de la surveillance bancaire."
+    },
+    {
+      "hash": "7a2c4866d25a39c6",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🚀 Help shape the future of payments in Europe — join the EBA The European Banking Authority is looking for a Senior Expert",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7474809127194681344",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-06-22T13:02:51",
+      "summary": "🚀 Help shape the future of payments in Europe — join the EBA\n\nThe European Banking Authority is looking for a Senior Expert – Payment Services to join our team in Paris.\n\nThis is a unique opportunity for experienced professionals who want to drive EU policy and regulatory work at the forefront of payments innovation.\n\n💼 Why this role stands out:\n🔹 Strategic influence\n Play a key role in shaping the EU framework for payment services and contributing to major regulatory initiatives.\n🔹 High-impact ",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: payment, bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "288c8b594f35abdc",
@@ -3785,6 +3929,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales et de leurs obligations dans les services bancaires."
     },
     {
+      "hash": "8dd206c67c71d05a",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Caribbean lender completes FATCA, money laundering conspiracy DPA",
+      "url": "https://globalinvestigationsreview.com/article/caribbean-lender-completes-fatca-money-laundering-conspiracy-dpa",
+      "author": "Ana de Liz",
+      "published": "2026-06-22T13:27:59",
+      "summary": "A Brooklyn federal court has dismissed a criminal case against an offshore bank based in the Caribbean country of Saint Vincent and the Grenadines for conspiracy to breach a US law designed to prevent US taxpayers from dodging taxes.",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: money laundering | +5 mots moyens: bank | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "3a451eee2dd7f611",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -3800,7 +3962,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car les régulateurs supervisent la transparence des coûts et la communication des risques des produits structurés auprès des clients."
     },
     {
       "hash": "c49e7176a44f560d",
@@ -4178,7 +4340,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les mises à jour techniques de redirections HTTP sur une base de données de sanctions financières utilisée pour la conformité réglementaire."
+      "ai_summary": "Cet article concerne les redirections techniques HTTP et n'a pas de lien direct avec la conformité financière ou réglementaire."
     },
     {
       "hash": "14bb60ec87460ecd",
@@ -4555,6 +4717,24 @@
       "hash": "a90c5c146933"
     },
     {
+      "hash": "6a35075f2a121917",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "London Mining defendants denied legal costs despite misconduct claims",
+      "url": "https://globalinvestigationsreview.com/article/london-mining-defendants-denied-legal-costs-despite-misconduct-claims",
+      "author": "Sam Fry",
+      "published": "2026-06-22T14:18:55",
+      "summary": "A London court has denied a request to make the Serious Fraud Office foot the legal bills of three mining industry executives who were acquitted of bribing officials in Sierra Leone. The trio had accused the agency of serious misconduct during the probe.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "1869b5d7377cad33",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -4570,7 +4750,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La FATF ajuste sa liste grise, consulte sur la transparence des paiements et prépare la présidence britannique."
     },
     {
       "hash": "4d268ffbfe10bfcf",
@@ -5641,7 +5821,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f76516c7d24f973a",
@@ -5713,7 +5893,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6516323762d84e24",
@@ -5911,7 +6091,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c497e586fa2f5e26",
@@ -6019,7 +6199,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0c1aab9026dab76f",
@@ -6055,7 +6235,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité RGPD : amende pour violation de confidentialité des données personnelles d'un employé après fin d'emploi."
     },
     {
       "hash": "6bb4549cf356d27a",
@@ -6127,7 +6307,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d56a469bdc8ae448",
@@ -6145,7 +6325,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "edcac2cdb6403b98",
@@ -6182,6 +6362,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La publication d'un guide OFAC concerne la conformité aux sanctions financières internationales imposées par les États-Unis."
+    },
+    {
+      "hash": "e7c31685465773f3",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Alan Greenspan, ancien président de la Réserve fédérale et apôtre de l’autorégulation des marchés, est mort",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/06/22/alan-greenspan-ancien-president-de-la-reserve-federale-est-mort_6707558_3382.html",
+      "author": "",
+      "published": "2026-06-22T12:00:16",
+      "summary": "Patron de la banque centrale des Etats-Unis pendant près de vingt ans, l’économiste américain est mort lundi 22 juin, à l’âge de 100 ans.",
+      "score": 12,
+      "score_breakdown": "+5 mots moyens: banque | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "58d2fef7d6b77edf",
@@ -6378,6 +6576,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La démission du PDG suite à une enquête de dénonciation illustre l'importance du respect des normes éthiques et de la conformité en entreprise."
+    },
+    {
+      "hash": "6861b654fa8d8a1a",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Issuance of Iran-related General License | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260622_33",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-06-22T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "bf1a7bc265cd6e3c",
@@ -6593,7 +6809,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "45d8ef05317935e1",
@@ -6611,7 +6827,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ce88fbf205ee8430",
@@ -6830,7 +7046,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-22T12:29:29.045251+00:00",
+  "last_update": "2026-06-22T16:29:25.281283+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
