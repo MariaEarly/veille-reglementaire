@@ -760,7 +760,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite des contentieux européens relatifs aux abus de marché et aux sanctions, relevant directement de la conformité financière et réglementaire."
     },
     {
       "hash": "cf4cbf6b75b4d49a",
@@ -1067,6 +1067,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il établit les obligations de reporting auprès de l'AMF sur le respect des règles de parité."
+    },
+    {
+      "hash": "35a6e3928f5ba2a8",
+      "source_name": "AMF - Actualités",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Communiqué de l’ESMA : ESMA calls on unauthorised crypto-asset service providers to wind down orderly, while also safeguarding clients’ interests, as MiCA transitional period ends",
+      "url": "https://www.amf-france.org/fr/actualites-publications/actualites/communique-de-lesma-esma-calls-unauthorised-crypto-asset-service-providers-wind-down-orderly-while#xts=607212&xtor=RSS-3&type=RSS",
+      "author": "",
+      "published": "2026-06-23T15:46:38",
+      "summary": "Actualité                  MiCA              Prestataires financiers              Europe &amp; international                    Communiqué de l’ESMA : ESMA calls on unauthorised crypto-asset service providers to wind down orderly, while also safeguarding clients’ interests, as MiCA transitional period ends",
+      "score": 82,
+      "score_breakdown": "+20 mots forts: mica, crypto, esma | +25 Source FR | +10 Géo EU: esma, mica | ×1.5 (<24h)",
+      "doc_type": "COMMUNIQUÉ",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "L'ESMA impose aux prestataires de cryptoactifs non autorisés de cesser leurs activités en conformité avec la réglementation MiCA."
     },
     {
       "hash": "9f5e36035d02ceaf",
@@ -1642,7 +1660,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des juridictions à risque élevé en matière de lutte anti-blanchiment et contre le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il liste les juridictions à haut risque nécessitant une diligence renforcée en matière anti-blanchiment et lutte contre le financement du terrorisme."
     },
     {
       "hash": "35b9e74e96330710",
@@ -1714,7 +1732,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment d'argent détecté par Tracfin, autorité de lutte anti-blanchiment."
     },
     {
       "hash": "ff2d35fccb067c31",
@@ -2775,7 +2793,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Meria obtient l'agrément MiCA, la réglementation européenne des actifs numériques, garantissant la conformité financière des services crypto."
     },
     {
       "hash": "5914d2189b9458be",
@@ -3009,7 +3027,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "dfdb6ee6d6ebc402",
@@ -3512,7 +3530,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d1a4e30c1c002c20",
@@ -3530,7 +3548,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3c071dec646cebbc",
@@ -4019,6 +4037,42 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales et de leurs obligations dans les services bancaires."
     },
     {
+      "hash": "cc8f1553d2f70fcb",
+      "source_name": "FinCEN",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "Proposed Amendment to the Definition of Huione Group, a Financial Institution Operating Outside the United States of Primary Money Laundering Concern",
+      "url": "https://www.fincen.gov/resources/statutes-regulations/federal-register-notices/proposed-amendment-definition-huione-group",
+      "author": "",
+      "published": "2026-06-23T00:00:00",
+      "summary": "",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: money laundering | +5 Source Intl | +3 Géo Intl: united states | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "fdf786f535f600cd",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "UK regulator bans GFG companies’ auditor",
+      "url": "https://globalinvestigationsreview.com/article/uk-regulator-bans-gfg-companies-auditor",
+      "author": "Malavika Devaya",
+      "published": "2026-06-23T15:10:47",
+      "summary": "An accounting regulator has temporarily banned the auditor of four companies within the Gupta Family Group Alliance, a business conglomerate at the centre of a Serious Fraud Office investigation into suspected fraudulent trading and money laundering.",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: money laundering, fraud | +5 mots moyens: audit | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "8dd206c67c71d05a",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -4233,6 +4287,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de fraude détectée par une caisse d'assurance maladie."
+    },
+    {
+      "hash": "1ed7327c06bc5b54",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Manhattan DA and SFO announce collaboration on telecoms fraud probes",
+      "url": "https://globalinvestigationsreview.com/article/manhattan-da-and-sfo-announce-collaboration-telecoms-fraud-probes",
+      "author": "Grace Propheta",
+      "published": "2026-06-23T12:52:05",
+      "summary": "The UK’s Serious Fraud Office and the Manhattan state prosecutor’s office are conducting parallel investigations into fraudulent schemes centred on telecommunications companies.&nbsp;",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: sfo | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "b5749ea6b7703934",
@@ -4484,7 +4556,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la préparation des institutions financières aux risques informatiques quantiques, un enjeu de conformité cybersécurité majeur."
     },
     {
       "hash": "e9991934c5d8e420",
@@ -4858,7 +4930,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il rapporte une enquête judiciaire pour fraude fiscale contre un groupe majeur."
     },
     {
       "hash": "6a35075f2a121917",
@@ -5947,7 +6019,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f76516c7d24f973a",
@@ -6019,7 +6091,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6516323762d84e24",
@@ -6055,7 +6127,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la finance durable et de la résilience financière dans un contexte réglementaire."
     },
     {
       "hash": "9b692b3c4452538d",
@@ -6073,7 +6145,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les banques doivent renforcer leur résilience aux risques géopolitiques et adapter leurs stratégies, enjeux clés de conformité supervisoire."
     },
     {
       "hash": "796da4a2f15ecc19",
@@ -6253,7 +6325,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c497e586fa2f5e26",
@@ -6361,7 +6433,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0c1aab9026dab76f",
@@ -6469,7 +6541,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d56a469bdc8ae448",
@@ -6487,7 +6559,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "19be1bbe264d9a88",
@@ -6501,6 +6573,24 @@
       "summary": "",
       "score": 12,
       "score_breakdown": "+5 Source Intl | +3 Géo Intl: ofac | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne les désignations de sanctions financières internationales et la conformité aux règles OFAC de lutte contre le blanchiment et le financement du terrorisme."
+    },
+    {
+      "hash": "0e006bcfb829e6b6",
+      "source_name": "FinCEN",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "FinCEN Proposes to Sever H-Pay Service PLC and Other Huione Group Successor Entities from the U.S. Financial System",
+      "url": "https://www.fincen.gov/news/news-releases/fincen-proposes-sever-h-pay-service-plc-and-other-huione-group-successor",
+      "author": "",
+      "published": "2026-06-23T00:00:00",
+      "summary": "",
+      "score": 12,
+      "score_breakdown": "+5 Source Intl | +3 Géo Intl: fincen | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
@@ -6630,6 +6720,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la lutte contre le blanchiment et le financement du terrorisme par les unités de renseignement financier."
+    },
+    {
+      "hash": "d0011504a9798b5c",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Former FCPA trial attorney joins SAP",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/former-fcpa-trial-attorney-joins-sap",
+      "author": "Ana de Liz",
+      "published": "2026-06-23T14:09:31",
+      "summary": "A former prosecutor who spent seven years at the DOJ’s foreign bribery team has joined the German software company as head of investigations.",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: doj, fcpa | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "37d0d0eca86a9a41",
@@ -6989,7 +7097,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "45d8ef05317935e1",
@@ -7007,7 +7115,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ce88fbf205ee8430",
@@ -7226,7 +7334,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-23T15:29:37.897936+00:00",
+  "last_update": "2026-06-23T19:51:13.101025+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
