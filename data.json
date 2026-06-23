@@ -1624,7 +1624,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il liste les juridictions à haut risque soumises à des mesures de lutte anti-blanchiment et contre le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il liste les juridictions à haut risque soumises à une diligence renforcée dans le cadre de la lutte anti-blanchiment."
     },
     {
       "hash": "35b9e74e96330710",
@@ -2955,7 +2955,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "dfdb6ee6d6ebc402",
@@ -3458,7 +3458,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c29d83bcab5992d0",
@@ -3476,7 +3476,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3c071dec646cebbc",
@@ -3531,6 +3531,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les risques macroprudentiels liés à l'IA, relevant de la conformité financière et de la surveillance bancaire."
+    },
+    {
+      "hash": "195a12298f4e118c",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📊 How prepared are EU banks for the next crisis? A quick look at the latest EBA MREL dashboard gives a clear answer: resilience is...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7475101053168906244",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-06-23T08:22:52",
+      "summary": "📊 How prepared are EU banks for the next crisis?\n\nA quick look at the latest EBA MREL dashboard gives a clear answer: resilience is improving — but challenges remain.\n\nThe update covers 300+ EU banks and shows how they are building the buffers needed to weather stress.\n\n💡 Key takeaways:\n🔹 Strong safety cushions in place\n Banks are building loss-absorbing buffers equal to roughly 25%–29% of risk-weighted assets, strengthening their ability to absorb shocks.\n🔹 “Bail-in” remains the cornerstone\n In",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: risk, bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "7a2c4866d25a39c6",
@@ -3980,7 +3998,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les régulateurs sanctionnent le non-respect des obligations de transparence et de communication sur les coûts, enjeux clés de la conformité financière."
+      "ai_summary": "Les régulateurs veillent à la conformité de la communication financière sur les coûts et risques des produits structurés auprès des clients."
     },
     {
       "hash": "c49e7176a44f560d",
@@ -4397,6 +4415,24 @@
       "ai_summary": "Les rendements obligataires et l'incertitude monétaire sont critiques pour la gestion des risques financiers et la conformité réglementaire."
     },
     {
+      "hash": "e9991934c5d8e420",
+      "source_name": "EBA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📊 EU banks: stronger buffers, but refinancing ahead Latest EBA MREL dashboard shows: 🔹 Requirements at ~25–29% of RWAs 🔹 Bail-in still dominant (~94%) 🔹 €231bn to roll over in next 12 months ✅ Progress on resolution readiness 🔗",
+      "url": "https://x.com/EBA_News/status/2069336206844792976",
+      "author": "@EBA_News",
+      "published": "2026-06-23T08:26:00",
+      "summary": "📊 EU banks: stronger buffers, but refinancing aheadLatest EBA MREL dashboard shows:🔹 Requirements at ~25–29% of RWAs🔹 Bail-in still dominant (~94%)🔹 €231bn to roll over in next 12 months✅ Progress on resolution readiness🔗  link.europa.eu/9qVKyg— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Jun 23, 2026",
+      "score": 37,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a0018ee2054fbb4e",
       "source_name": "EBA (X)",
       "source_type": "rss",
@@ -4733,6 +4769,24 @@
       "early_brief": false,
       "ai_summary": "Cet article concerne les sanctions OFAC contre des entités iraniennes, relevant de la conformité aux régimes de sanctions financières internationales.",
       "hash": "a90c5c146933"
+    },
+    {
+      "hash": "63d669f294d6dbc7",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Le groupe Altrad visé par une enquête pour fraude fiscale, ses locaux perquisitionnés",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/23/le-groupe-altrad-vise-par-une-enquete-pour-fraude-fiscale-ses-locaux-perquisitionnes_6708553_3234.html",
+      "author": "",
+      "published": "2026-06-23T03:57:25",
+      "summary": "Le géant montpelliérain du BTP, qui emploie 65 000 personnes, est soupçonné par la justice d’avoir orchestré un système international de fraude fiscale.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "6a35075f2a121917",
@@ -5839,7 +5893,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "f76516c7d24f973a",
@@ -5911,7 +5965,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6516323762d84e24",
@@ -6109,7 +6163,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c497e586fa2f5e26",
@@ -6217,7 +6271,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance. Cet article concerne la protection des données personnelles et non la conformité financière."
+      "ai_summary": null
     },
     {
       "hash": "0c1aab9026dab76f",
@@ -6325,7 +6379,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d56a469bdc8ae448",
@@ -6343,7 +6397,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "99808f64c5efcacb",
@@ -6415,7 +6469,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "58d2fef7d6b77edf",
@@ -6845,7 +6899,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "45d8ef05317935e1",
@@ -6863,7 +6917,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ce88fbf205ee8430",
@@ -7082,7 +7136,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-23T04:38:02.457596+00:00",
+  "last_update": "2026-06-23T08:59:49.654063+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
