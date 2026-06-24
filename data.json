@@ -565,6 +565,24 @@
   ],
   "items": [
     {
+      "hash": "a0e220dea11d7297",
+      "source_name": "AMF - Actualités",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Rapport d'activité 2025 du Pôle Assurance Banque Epargne (AMF-ACPR)",
+      "url": "https://www.amf-france.org/fr/actualites-publications/publications/rapports-annuels-et-documents-institutionnels/rapport-dactivite-2025-du-pole-assurance-banque-epargne-amf-acpr#xts=607212&xtor=RSS-3&type=RSS",
+      "author": "",
+      "published": "2026-06-24T12:31:15",
+      "summary": "Rapport annuel                  Institutionnel              Rapport annuel              Commercialisation              Produits financiers              Protection de l&#039;épargne                    Rapport d&#039;activité 2025 du Pôle Assurance Banque Epargne (AMF-ACPR)",
+      "score": 100,
+      "score_breakdown": "+20 mots forts: acpr, amf | +5 mots moyens: banque | +25 Source FR | +20 Géo FR: acpr, amf | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Ce rapport traite de la conformité financière car il documente l'activité de supervision et de régulation des secteurs bancaire, assurantiel et de l'épargne."
+    },
+    {
       "hash": "a095a603745067d1",
       "source_name": "JORF - Sanctions",
       "source_type": "rss",
@@ -1537,6 +1555,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision réglementaire des stablecoins internationaux entre autorités."
     },
     {
+      "hash": "1f08b3c211cbe87c",
+      "source_name": "Banque de France (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "La Banque de France a participé au Culture Fest, festival dédié à la vulgarisation culturelle mêlant conférences, podcasts, artistes et créateurs de contenus, qui rassemble un large public autour de thématiques accessibles à tous. Dans ce cadre, Julien Lasalle, directeur adjoint des études et surveillance des paiements, est intervenu pour sensibiliser le public aux fraudes aux moyens de paiement lors de la table ronde « Ça n’arrive pas qu’à vos grands-parents ». Un moment d’échange concret pour rappeler que la fraude touche tous les publics et partager les bons réflexes pour s’en protéger. Pour en savoir plus sur les fraudes :",
+      "url": "https://x.com/banquedefrance/status/2069719503114584361",
+      "author": "@banquedefrance",
+      "published": "2026-06-24T09:49:00",
+      "summary": "La Banque de France a participé au Culture Fest, festival dédié à la vulgarisation culturelle mêlant conférences, podcasts, artistes et créateurs de contenus, qui rassemble un large public autour de thématiques accessibles à tous.Dans ce cadre, Julien Lasalle, directeur adjoint des études et surveillance des paiements, est intervenu pour sensibiliser le public aux fraudes aux moyens de paiement lors de la table ronde « Ça n’arrive pas qu’à vos grands-parents ».Un moment d’échange concret pour ra",
+      "score": 82,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +15 mots moyens: paiement, banque, ppe | +20 Géo FR: france, banque de france | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "7675f680f60d1837",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -1660,7 +1696,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il liste les juridictions à risque élevé soumises à la diligence renforcée dans le cadre de la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des juridictions à haut risque nécessitant une vigilance accrue et des mesures contre le blanchiment d'argent."
     },
     {
       "hash": "35b9e74e96330710",
@@ -2077,6 +2113,24 @@
       "ai_summary": "Cet arrêté concerne la conformité financière car il organise les pouvoirs de sanction en matière douanière et droits indirects."
     },
     {
+      "hash": "0f528c7883bce0b6",
+      "source_name": "Commission EU - Press",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Tax simplification package to streamline compliance and enhance competitiveness of the Single Market",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1439",
+      "author": "",
+      "published": "2026-06-23T22:00:00",
+      "summary": "European Commission Press release Brussels, 24 Jun 2026 Today, the European Commission adopted an ambitious tax simplification package designed to simplify EU tax rules and reduce compliance burdens for businesses.",
+      "score": 67,
+      "score_breakdown": "+20 mots forts: aml, compliance | +15 Source EU | +10 Géo EU: european commission | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "0cae7e1848d65c36",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -2345,6 +2399,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la sécurité des paiements européens et la lutte contre la fraude numérique, enjeux clés de la conformité financière."
+    },
+    {
+      "hash": "72563d630cecea33",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "BFM Crypto, le Club : Paymium, 18ème acteur français agrée MiCA  – 24/06",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/bfm-crypto-le-club-paymium-18eme-acteur-francais-agree-mi-ca-24-06_EN-202606240630.html",
+      "author": "",
+      "published": "2026-06-24T13:38:02",
+      "summary": "Ce mercredi 24 juin, Paymium, en tant que le 18ème acteur français agréé MiCA malgré les nombreuses sociétés n'ayant pas encore obtenu leur agrément, le Parlement européen ouvrant la voie à l'euro numérique, le stablecoin présentant de nombreux \"désancrages\", ainsi que la question autour du rebond ou de la chute du bitcoin cet été avec son cours à 62 000 dollars, ont été abordés par Laetitia Zito, directrice générale de Paymium, Grégory Raymond, cofondateur de The Big Whale, Nathalie Janson, éco",
+      "score": 64,
+      "score_breakdown": "+20 mots forts: mica, crypto, agrément | +3 Presse | +20 Géo FR: français | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "b9e589943f847ada",
@@ -2886,24 +2958,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il analyse les défaillances de gouvernance d'entreprise ayant conduit à des fraudes massives."
     },
     {
-      "hash": "93194b629c4ed9b2",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "BFM Crypto, le Club : Les stablecoins vont-ils remplacer les banques ? – 25/05",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/bfm-crypto-le-club-les-stablecoins-vont-ils-remplacer-les-banques-25-05_EN-202605250533.html",
-      "author": "",
-      "published": "2026-05-25T13:35:42",
-      "summary": "Ce lundi 25 mai, la montée en puissance des stablecoins avec l'inquiétude des banques et des gouvernements à propos de ce sujet, la révision de la réglementation européenne MiCA sur les cypto-actifs, ainsi que  M-Pesa et Tando apportant la blockchain au Kenya, ont été abordés par Jonathan Herscovici, fondateur de StackInSat, Elodie Lué, fondatrice d'Effet 21 conseil et du Podcast Effet 21, et Arnaud Touati, fondateur et associé chez Hashtag Avocat, reçu par Sandra Gandoin dans l'émission BFM Cry",
-      "score": 57,
-      "score_breakdown": "+20 mots forts: mica, crypto | +5 mots moyens: banque | +3 Presse | +10 Géo EU: mica | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les stablecoins et la réglementation MiCA relèvent directement de la conformité financière et des crypto-actifs."
-    },
-    {
       "hash": "6a6e826b649c5ad1",
       "source_name": "PNF (Parquet National Financier)",
       "source_type": "rss",
@@ -3423,6 +3477,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La Finlande poursuit une entreprise pour violation des sanctions contre la Russie via des déclarations fausses et des réseaux commerciaux opaques."
+    },
+    {
+      "hash": "b2ff8cd3deec968c",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Malaysia fines Japanese group’s bank for onboarding sanctioned client",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/malaysian-central-bank-fines-japanese-bank-branch-onboarding-sanctioned-client",
+      "author": "Grace Propheta",
+      "published": "2026-06-24T09:40:57",
+      "summary": "",
+      "score": 46,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: bank | +3 Presse | +3 Géo Intl: japan | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "4d7608535df20ec9",
@@ -3980,7 +4052,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "2112a75367494ae7",
@@ -5965,7 +6037,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f76516c7d24f973a",
@@ -6022,24 +6094,6 @@
       "ai_summary": "La Suisse conteste une décision annulant l'amende infligée à l'ancien responsable compliance de Credit Suisse."
     },
     {
-      "hash": "67c6d8b498826235",
-      "source_name": "Corporate Compliance Insights",
-      "source_type": "press",
-      "category": "presse",
-      "title": "2026 Litigation Trends Survey: Midyear Pulse",
-      "url": "https://www.corporatecomplianceinsights.com/2026-litigation-trends-midyear-pulse/",
-      "author": "Corporate Compliance Insights",
-      "published": "2026-06-17T14:49:21",
-      "summary": "Norton Rose Fulbright's 2026 midyear litigation pulse examines how dispute exposure is shifting across sectors as cybersecurity, AI and employment risks accelerate. The report draws on insights from 135 corporate counsel to help legal teams recalibrate litigation strategy for the remainder of 2026.\nThe post 2026 Litigation Trends Survey: Midyear Pulse appeared first on Corporate Compliance Insights.",
-      "score": 23,
-      "score_breakdown": "+10 mots forts: compliance | +10 mots moyens: risk, ppe | +3 Presse | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "6516323762d84e24",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -6056,6 +6110,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les changements de conseil juridique lors d'enquêtes de fraude, relevant de la conformité et de la gestion des risques légaux."
+    },
+    {
+      "hash": "c9d37c00e678c320",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Progress towards euro adoption continues, with candidate countries meeting many but not all criteria, our 2026 Convergence Report finds. The partial compliance highlights inflation and fiscal challenges across countries",
+      "url": "https://x.com/ecb/status/2069722648507011249",
+      "author": "@ecb",
+      "published": "2026-06-24T10:01:00",
+      "summary": "Progress towards euro adoption continues, with candidate countries meeting many but not all criteria, our 2026 Convergence Report finds.The partial compliance highlights inflation and fiscal challenges across countries  link.europa.eu/CYrRtY— European Central Bank (@ecb) Jun 24, 2026",
+      "score": 22,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: bank | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "9ed6944cff0a03bb",
@@ -6271,7 +6343,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c497e586fa2f5e26",
@@ -6307,7 +6379,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la mise en conformité des factures Excel avec la nouvelle réglementation de facturation électronique obligatoire."
     },
     {
       "hash": "7c74ebe87a1306a3",
@@ -6454,6 +6526,24 @@
       "ai_summary": "Cet article concerne la compétitivité bancaire allemande mais ne traite pas spécifiquement de conformité financière ou de risques de compliance."
     },
     {
+      "hash": "4e361a69be4e90bb",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Iceland has just signed an agreement to join our TARGET Instant Payment Settlement (TIPS) system. This is a further step towards integrating the Icelandic króna into the Eurosystem’s payment services. Read the press release  @sedlabanki_is",
+      "url": "https://x.com/ecb/status/2069721090524373191",
+      "author": "@ecb",
+      "published": "2026-06-24T09:55:00",
+      "summary": "Iceland has just signed an agreement to join our TARGET Instant Payment Settlement (TIPS) system.This is a further step towards integrating the Icelandic króna into the Eurosystem’s payment services.Read the press release  ecb.europa.eu/press/pr/date/… @sedlabanki_is— European Central Bank (@ecb) Jun 24, 2026",
+      "score": 15,
+      "score_breakdown": "+10 mots moyens: payment, bank | ×1.5 (<24h)",
+      "doc_type": "COMMUNIQUÉ",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "543f6cdc0b1c222c",
       "source_name": "FATF/GAFI (X)",
       "source_type": "rss",
@@ -6505,7 +6595,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d56a469bdc8ae448",
@@ -6523,7 +6613,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "19be1bbe264d9a88",
@@ -6559,7 +6649,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "FinCEN propose de sevrer des entités du groupe Huione du système financier américain pour non-conformité aux obligations de lutte contre le blanchiment d'argent."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'action réglementaire de FinCEN pour isoler des entités du système financier américain."
     },
     {
       "hash": "99808f64c5efcacb",
@@ -7044,25 +7134,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "45d8ef05317935e1",
-      "source_name": "CJUE - Cour de Justice UE",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "81/Thu Jun 04 00:00:00 CEST 2026 : Thu Jun 04 10:56:00 CEST 2026 - Advocate General’s Opinion in Case C-553/24",
-      "url": "https://curia.europa.eu/site/jcms/p1_1000084243",
-      "author": "",
-      "published": "2026-06-04T07:56:43",
-      "summary": " \nAssemblée nationale v Parliament and Council\n\nArea of Freedom, Security and Justice\n\nAdvocate General Ćapeta: Action brought by the French National Assembly against EU asylum and migration legislation based on non-compliance with the principle of subsidiarity should be rejected\n\n",
-      "score": 6,
-      "score_breakdown": "+10 mots forts: compliance | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ce88fbf205ee8430",
@@ -7281,7 +7353,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-24T09:54:44.757472+00:00",
+  "last_update": "2026-06-24T14:07:43.965515+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
