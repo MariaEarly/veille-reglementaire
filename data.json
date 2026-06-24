@@ -580,7 +580,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il modifie le règlement intérieur de la commission des sanctions de la Haute Autorité de l'audit."
     },
     {
       "hash": "a313ec1b89576232",
@@ -1537,24 +1537,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision réglementaire des stablecoins internationaux entre autorités."
     },
     {
-      "hash": "16376db60cf5d676",
-      "source_name": "MCMS - Crypto Regulatory",
-      "source_type": "email",
-      "category": "email",
-      "title": "[US] Trump EO Directs 3-Month Review of Crypto Access to Fed Master Accounts",
-      "url": "https://makecryptomakesense.com/articles/weekly-digital-assets-regulatory-brief-w21-2026#us-trump-payment-rails-eo",
-      "author": "editor@makecryptomakesense.com",
-      "published": "2026-05-25T06:30:05+00:00",
-      "summary": "President Trump's 19 May executive order directs federal financial regulators and the Federal Reserve to complete a 3-month review and act within 6 months on rules limiting crypto and fintech access to Fed master accounts and payment rails. Stablecoin issuers and bank-licensing aspirants should treat the next 90 days as the operative policy-design window. (MCMS Week 21 Regulatory & Enforcement Brief - 16 signals across 8 jurisdictions: incl. EU Commission MiCA review consultation, UK BoE/PRA ste",
-      "score": 79,
-      "score_breakdown": "+20 mots forts: mica, crypto | +15 mots moyens: fintech, payment, bank | +8 Email | +10 Géo EU: mica | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'accès réglementaire des cryptomonnaies aux infrastructures fédérales."
-    },
-    {
       "hash": "7675f680f60d1837",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -1678,7 +1660,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les juridictions à haut risque en matière de blanchiment et de financement du terrorisme, soumises à des mesures de vigilance renforcée."
+      "ai_summary": "Cet article concerne la conformité financière car il liste les juridictions à risque élevé soumises à la diligence renforcée dans le cadre de la lutte anti-blanchiment."
     },
     {
       "hash": "35b9e74e96330710",
@@ -3998,7 +3980,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2112a75367494ae7",
@@ -5329,24 +5311,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du respect des sanctions commerciales imposées à Huawei par les autorités."
     },
     {
-      "hash": "3e492d75ff4157fb",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Le brouillage des navires, une menace mondiale amplifiée par la crise du détroit d’Ormuz",
-      "url": "https://www.lemonde.fr/economie/article/2026/05/25/le-brouillage-des-navires-une-menace-mondiale-amplifiee-par-la-crise-du-detroit-d-ormuz_6693597_3234.html",
-      "author": "",
-      "published": "2026-05-25T04:00:38",
-      "summary": "Les interférences affectant les dispositifs de localisation et de navigation des cargos se sont multipliées depuis le début du conflit au Moyen-Orient. S’y ajoutent des cas d’usurpation d’identité pour contourner des sanctions.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il évoque l'usurpation d'identité de navires pour contourner les sanctions internationales."
-    },
-    {
       "hash": "4dcfa886357a4ced",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -6001,7 +5965,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f76516c7d24f973a",
@@ -6073,7 +6037,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6516323762d84e24",
@@ -6307,7 +6271,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c497e586fa2f5e26",
@@ -6326,6 +6290,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la lutte contre le blanchiment d'argent et la fraude financière impliquant des populations non autorisées à travailler."
+    },
+    {
+      "hash": "8664f7ce493a2bcb",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "iPhaïstos : la solution pour rendre vos factures Excel conformes à la facturation électronique",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/grand-angle-paroles-d-entreprises/i-phaistos-la-solution-pour-rendre-vos-factures-excel-conformes-a-la-facturation-electronique_AB-202606240040.html",
+      "author": "",
+      "published": "2026-06-24T07:00:00",
+      "summary": "Avec l’arrivée de la réforme de la facturation électronique, iPhaïstos propose une solution pour permettre aux petites entreprises de continuer à utiliser Excel, tout en se mettant en conformité. Patrice Ballereau, fondateur, nous en dit plus. ",
+      "score": 19,
+      "score_breakdown": "+10 mots forts: conformité | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "7c74ebe87a1306a3",
@@ -6523,7 +6505,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d56a469bdc8ae448",
@@ -6541,7 +6523,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "19be1bbe264d9a88",
@@ -6577,7 +6559,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une action de FinCEN contre des entités pour non-respect des obligations de lutte anti-blanchiment."
+      "ai_summary": "FinCEN propose de sevrer des entités du groupe Huione du système financier américain pour non-conformité aux obligations de lutte contre le blanchiment d'argent."
     },
     {
       "hash": "99808f64c5efcacb",
@@ -7062,7 +7044,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "45d8ef05317935e1",
@@ -7080,7 +7062,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ce88fbf205ee8430",
@@ -7299,7 +7281,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-24T04:45:08.850083+00:00",
+  "last_update": "2026-06-24T08:54:13.702860+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
