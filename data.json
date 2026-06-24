@@ -565,6 +565,24 @@
   ],
   "items": [
     {
+      "hash": "a095a603745067d1",
+      "source_name": "JORF - Sanctions",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décision n° CS-02 du 6 mai 2025 de la commission des sanctions de la Haute Autorité de l'audit portant modification de son règlement intérieur",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054300510",
+      "author": "Ministère de la justice",
+      "published": "2026-06-24T00:00:00",
+      "summary": "Article 1Le règlement intérieur de la commission des sanctions de la Haute Autorité de l'audit est modifié.Article 2Le règlement intérieur de la commission des sanctions de la Haute Autorité de l'audit, dans sa nouvelle rédaction, est annexé à la présente décision.Article 3Le règlement intérieur de la commission des sanctions de la Haute Autorité de l'audit peut fait l'objet de modifications après nouvelle délibération de ses membres.Article 4La présente décision sera publiée au Journal officiel",
+      "score": 100,
+      "score_breakdown": "+20 mots critiques: sanction | +10 mots moyens: audit, règlement | +25 Source FR | +20 Géo FR: journal officiel | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a313ec1b89576232",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -760,7 +778,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite des contentieux européens relatifs aux abus de marché et aux sanctions, relevant directement de la conformité financière et réglementaire."
+      "ai_summary": "Cet article traite des contentieux européens relatifs aux abus de marché et aux sanctions, relevant directement de la conformité financière."
     },
     {
       "hash": "cf4cbf6b75b4d49a",
@@ -1660,7 +1678,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il liste les juridictions à haut risque nécessitant une diligence renforcée en matière anti-blanchiment et lutte contre le financement du terrorisme."
+      "ai_summary": "Cet article concerne les juridictions à haut risque en matière de blanchiment et de financement du terrorisme, soumises à des mesures de vigilance renforcée."
     },
     {
       "hash": "35b9e74e96330710",
@@ -3012,24 +3030,6 @@
       "ai_summary": "L'article concerne la conformité aux sanctions financières imposées par les autorités réglementaires britanniques aux institutions financières."
     },
     {
-      "hash": "05dedeb19b4a42fa",
-      "source_name": "EDPB - European Data Protection Board",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "EDPB gets a new look: discover the new website and brand identity",
-      "url": "https://www.edpb.europa.eu/news/edpb-gets-a-new-look-discover-the-new-website-and-brand-identity_en",
-      "author": "EDPB",
-      "published": "2026-06-22T12:00:00",
-      "summary": "Brussels, 22 June - Since its establishment in 2018, the core mission of the EDPB has been to uphold and safeguard the right to data protection. Over the years, the EDPB has played a key role in ensuring the consistent application of the GDPR across Europe, by providing guidance on key GDPR concepts and the interaction of the GDPR with other digital laws, as well as through the adoption of consistency opinions and binding decisions. The EDPB is also committed to making GDPR compliance easier for",
-      "score": 52,
-      "score_breakdown": "+10 mots forts: compliance | +15 Source EU | +10 Géo EU: edpb | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "dfdb6ee6d6ebc402",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -3515,42 +3515,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'un responsable superviseur d'OFAC et FinCEN."
     },
     {
-      "hash": "4b34dcb253171a62",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 9 juin 2026 fixant la liste des métiers caractérisés par des difficultés de recrutement sur le territoire de la Guyane en application de l'article L. 414-13 du code de l'entrée et du séjour des étrangers et du droit d'asile",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054268321",
-      "author": "Ministère du travail et des solidarités",
-      "published": "2026-06-18T00:00:00",
-      "summary": "Article 1La liste des métiers caractérisés par des difficultés de recrutement sur le territoire de la Guyane, prévue à l'article L. 414-13 du code de l'entrée et du séjour des étrangers et du droit d'asile, est fixée par l'annexe I du présent arrêté.Article 2La correspondance des familles professionnelles avec le répertoire opérationnel des métiers et des emplois est établie à l'annexe II au présent arrêté.Article 3Le présent arrêté sera publié au Journal officiel de la République française.Anne",
-      "score": 45,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "d1a4e30c1c002c20",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 2 juin 2026 remplaçant l'annexe 7-4 de l'article A. 713-26 du code de commerce fixant la composition des catégories professionnelles des chambres de commerce et d'industrie",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054268487",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-06-18T00:00:00",
-      "summary": "Article 1L'annexe 7-4 mentionnée à l'article A. 713-26, fixant la composition des catégories professionnelles des chambres de commerce et d'industrie, est remplacée par l'annexe jointe au présent arrêté.Article 2Le présent arrêté entre en vigueur au 1er janvier 2027.Article 3Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXE 7-4 (ARTICLE A. 713-26 DU CODE DE COMMERCE)Catégories professionnelles des chambres de commerce et d'industrieLibellé de(s) l'",
-      "score": 45,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "3c071dec646cebbc",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -4019,6 +3983,24 @@
       "ai_summary": "Mise en garde contre les arnaques usurpant l'identité de l'AMF pour proposer des placements ou récupérer des fonds."
     },
     {
+      "hash": "05dedeb19b4a42fa",
+      "source_name": "EDPB - European Data Protection Board",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EDPB gets a new look: discover the new website and brand identity",
+      "url": "https://www.edpb.europa.eu/news/edpb-gets-a-new-look-discover-the-new-website-and-brand-identity_en",
+      "author": "EDPB",
+      "published": "2026-06-22T12:00:00",
+      "summary": "Brussels, 22 June - Since its establishment in 2018, the core mission of the EDPB has been to uphold and safeguard the right to data protection. Over the years, the EDPB has played a key role in ensuring the consistent application of the GDPR across Europe, by providing guidance on key GDPR concepts and the interaction of the GDPR with other digital laws, as well as through the adoption of consistency opinions and binding decisions. The EDPB is also committed to making GDPR compliance easier for",
+      "score": 42,
+      "score_breakdown": "+10 mots forts: compliance | +15 Source EU | +10 Géo EU: edpb | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "2112a75367494ae7",
       "source_name": "CJUE - Cour de Justice UE",
       "source_type": "rss",
@@ -4052,7 +4034,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre le blanchiment d'argent et des institutions financières."
     },
     {
       "hash": "fdf786f535f600cd",
@@ -4070,7 +4052,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'interdiction d'un auditeur pour des sociétés du groupe Gupta constitue un enjeu majeur de conformité financière et de gouvernance."
     },
     {
       "hash": "8dd206c67c71d05a",
@@ -4304,7 +4286,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les autorités enquêtent sur des fraudes télécom impliquant des risques de conformité réglementaire et de lutte anti-fraude."
     },
     {
       "hash": "b5749ea6b7703934",
@@ -6019,7 +6001,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f76516c7d24f973a",
@@ -6091,7 +6073,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6516323762d84e24",
@@ -6325,7 +6307,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c497e586fa2f5e26",
@@ -6433,7 +6415,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité en matière de protection des données personnelles, non la conformité financière au sens strict."
     },
     {
       "hash": "0c1aab9026dab76f",
@@ -6541,7 +6523,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d56a469bdc8ae448",
@@ -6559,7 +6541,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "19be1bbe264d9a88",
@@ -6577,7 +6559,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les désignations de sanctions financières internationales et la conformité aux règles OFAC de lutte contre le blanchiment et le financement du terrorisme."
+      "ai_summary": "Cet article concerne les sanctions financières, les gels d'actifs et les obligations de conformité imposées par l'OFAC aux institutions financières."
     },
     {
       "hash": "0e006bcfb829e6b6",
@@ -6595,7 +6577,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une action de FinCEN contre des entités pour non-respect des obligations de lutte anti-blanchiment."
     },
     {
       "hash": "99808f64c5efcacb",
@@ -6705,23 +6687,6 @@
       "ai_summary": "Les unités de renseignement financier jouent un rôle clé dans la lutte contre la criminalité transnational et la conformité AML/CFT."
     },
     {
-      "hash": "bc768b277e04",
-      "source_name": "Egmont Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Egmont Group publishes 2024–2025 Annual Report highlighting global FIU cooperation and impact",
-      "url": "https://egmontgroup.org/news/egmont-group-publishes-2024-2025-annual-report-highlighting-global-fiu-cooperation-and-impact/",
-      "author": "",
-      "published": "2026-05-25T00:00:00+00:00",
-      "summary": "The Egmont Group published its 2024–2025 Annual Report marking its 30th anniversary, outlining key achievements, operational developments, and global FIU cooperation against money laundering and terrorism financing.",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre le blanchiment et le financement du terrorisme par les unités de renseignement financier."
-    },
-    {
       "hash": "d0011504a9798b5c",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -6737,7 +6702,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Un ancien procureur spécialisé dans les enquêtes de corruption étrangère rejoint SAP pour diriger les investigations."
     },
     {
       "hash": "37d0d0eca86a9a41",
@@ -7097,7 +7062,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "45d8ef05317935e1",
@@ -7115,7 +7080,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ce88fbf205ee8430",
@@ -7334,7 +7299,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-23T20:29:55.440335+00:00",
+  "last_update": "2026-06-24T02:14:50.736623+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
