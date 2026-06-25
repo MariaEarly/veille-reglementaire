@@ -1714,7 +1714,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il liste les juridictions à haut risque nécessitant une diligence renforcée et des mesures anti-blanchiment."
+      "ai_summary": "Cet article concerne la lutte contre le blanchiment d'argent et le financement du terrorisme en identifiant les juridictions à risque."
     },
     {
       "hash": "35b9e74e96330710",
@@ -2131,6 +2131,24 @@
       "ai_summary": "Cet arrêté concerne la conformité financière car il organise les pouvoirs de sanction en matière douanière et droits indirects."
     },
     {
+      "hash": "ee695344e6c7d9c1",
+      "source_name": "CSSF Luxembourg (AML/CFT)",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Circular CSSF 26/914",
+      "url": "https://www.cssf.lu/en/Document/circular-cssf-26-914/",
+      "author": "",
+      "published": "2026-06-25T08:02:10",
+      "summary": "Identification of obliged entities eligible for direct supervision by AMLA",
+      "score": 67,
+      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla, cssf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "0f528c7883bce0b6",
       "source_name": "Commission EU - Press",
       "source_type": "rss",
@@ -2146,7 +2164,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il présente un paquet de simplification fiscale visant à réduire les charges de conformité fiscale pour les entreprises."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la simplification des règles fiscales européennes pour réduire les charges de conformité des entreprises."
     },
     {
       "hash": "0cae7e1848d65c36",
@@ -4070,7 +4088,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2112a75367494ae7",
@@ -4358,7 +4376,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne le renforcement de la conformité financière via l'embauche de procureurs spécialisés dans la lutte anticorruption et fraude."
     },
     {
       "hash": "1ed7327c06bc5b54",
@@ -5508,6 +5526,24 @@
       "ai_summary": "Cet article traite de la conformité en matière de responsabilité selon la False Claims Act et des orientations fédérales pour atténuer les risques."
     },
     {
+      "hash": "403bb933fee72d1d",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de NANTES, 1ère chambre, 23 juin 2026, 25NT01912",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDENANTES-20260623-25NT01912",
+      "author": "1ère chambre",
+      "published": "2026-06-23T12:00:00",
+      "summary": "Vu la procédure suivante :\t           Procédure contentieuse antérieure :           M. A... B... a demandé au tribunal administratif de Rennes de prononcer la décharge des cotisations supplémentaires d'impôt sur le revenu auxquelles il a été assujetti au titre des années 2015 à 2020, ainsi que des pénalités correspondantes.           Par un jugement n°s 2301772,2302949 du 4 juin 2025, le tribunal administratif de Rennes l'a déchargé des majorations de 40 % pour manquement délibéré mises à sa cha",
+      "score": 30,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "39d191e935e91176",
       "source_name": "EBA (Email)",
       "source_type": "email",
@@ -6039,7 +6075,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f76516c7d24f973a",
@@ -6579,7 +6615,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "39121c05c2fc2c81",
@@ -6615,25 +6651,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "d56a469bdc8ae448",
-      "source_name": "EDPB - European Data Protection Board",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "The Italian Supervisory Authority has fined Verisure Italia for unlawful processing of personal data for direct marketing purposes",
-      "url": "https://www.edpb.europa.eu/news/the-italian-supervisory-authority-has-fined-verisure-italia-for-unlawful-processing-of_en",
-      "author": "EDPB",
-      "published": "2026-06-04T12:00:00",
-      "summary": "Background informationDate of final decision: 27 November 2025National caseController:&nbsp;&nbsp;&nbsp;&nbsp;Verisure Italia srlLegal Reference(s): Article 5 (Principles relating to processing of personal data), Article 7 (Conditions for consent), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), Article 13 (Information to be provided where personal data are collected from the data subject), Article 21 (Right to object)Decisio",
-      "score": 12,
-      "score_breakdown": "+5 mots moyens: supervisory | +15 Source EU | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "19be1bbe264d9a88",
@@ -7155,7 +7173,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b6fcc6d38406cb51",
@@ -7410,7 +7428,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-25T04:41:13.011170+00:00",
+  "last_update": "2026-06-25T08:49:37.717979+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
