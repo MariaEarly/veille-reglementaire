@@ -1570,7 +1570,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La Banque de France sensibilise le public aux fraudes aux moyens de paiement pour prévenir les risques financiers et renforcer la protection des consommateurs."
+      "ai_summary": "La Banque de France sensibilise le public aux fraudes aux moyens de paiement pour promouvoir la conformité et la prévention des risques financiers."
     },
     {
       "hash": "7675f680f60d1837",
@@ -1714,7 +1714,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière en listant les juridictions à risque élevé soumises à des mesures de vigilance renforcée contre le blanchiment d'argent et le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il liste les juridictions à haut risque nécessitant une diligence renforcée et des mesures anti-blanchiment."
     },
     {
       "hash": "35b9e74e96330710",
@@ -2146,7 +2146,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière en présentant un plan européen visant à simplifier les règles fiscales et réduire les charges de conformité des entreprises."
+      "ai_summary": "Cet article concerne la conformité financière car il présente un paquet de simplification fiscale visant à réduire les charges de conformité fiscale pour les entreprises."
     },
     {
       "hash": "0cae7e1848d65c36",
@@ -3512,7 +3512,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La Malaisie sanctionne une banque du groupe japonais pour avoir accueilli un client sanctionné, ce qui viole les obligations de conformité réglementaire."
+      "ai_summary": "Cet article concerne les amendes imposées pour violation de conformité sanctions et de diligence raisonnable client."
     },
     {
       "hash": "4d7608535df20ec9",
@@ -4070,7 +4070,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "2112a75367494ae7",
@@ -4341,6 +4341,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de fraude détectée par une caisse d'assurance maladie."
+    },
+    {
+      "hash": "52b09c7be3b5666b",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "DOJ hiring FCPA, market fraud prosecutors",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/doj-hiring-fcpa-market-fraud-prosecutors",
+      "author": "Estelle Atkinson",
+      "published": "2026-06-24T19:34:50",
+      "summary": "The FCPA unit has suffered from attrition since 2024 and the market integrity unit recently lost attorneys to a new division focused on fraud against government programmes.",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: doj, fcpa | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "1ed7327c06bc5b54",
@@ -5472,23 +5490,6 @@
       "hash": "796078ba6fef"
     },
     {
-      "hash": "84be0d99c075",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Human rights violations in Russia: EU restrictive measures extended until May 2027",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/26/human-rights-violations-in-russia-eu-restrictive-measures-extended-until-may-2027/",
-      "author": "",
-      "published": "2026-05-26T00:00:00+00:00",
-      "summary": "Le Conseil a prolongé jusqu'au 28 mai 2027 le régime de sanctions UE visant les responsables de violations graves des droits humains en Russie. Les mesures restrictives — gel des avoirs et interdiction de voyager — s'appliquent actuellement à 72 personnes et 1 entité, qui font l'objet d'un asset freeze.",
-      "score": 32,
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur le gel des avoirs et les sanctions financières imposées par l'UE à des entités russes."
-    },
-    {
       "hash": "24330548fd25c2aa",
       "source_name": "Corporate Compliance Insights",
       "source_type": "press",
@@ -5661,23 +5662,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il analyse les risques cyber dans les banques et leur impact sur la stabilité systémique financière."
-    },
-    {
-      "hash": "3ecaef66de04",
-      "source_name": "DOJ - Criminal Division",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Owner of Multinational Investment Company Sentenced in $2B Fraud, Money Laundering, and Bribery Schemes",
-      "url": "https://www.justice.gov/opa/pr/owner-multinational-investment-company-sentenced-2b-fraud-money-laundering-and-bribery",
-      "author": "",
-      "published": "2026-05-26T00:00:00+00:00",
-      "summary": "Greg Lindberg, founder and chairman of Eli Global LLC and owner of Global Bankers Insurance Group, was sentenced to 12 years for a multibillion-dollar fraud and money laundering conspiracy that bankrupted multiple insurance companies, plus a separate bribery scheme involving North Carolina insurance regulators.",
-      "score": 30,
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de fraude, blanchiment d'argent et corruption en matière d'assurance."
     },
     {
       "hash": "589fa68a4d6f081a",
@@ -6055,7 +6039,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f76516c7d24f973a",
@@ -6346,24 +6330,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'un dossier de fraude et corruption impliquant un homme d'affaires indien."
     },
     {
-      "hash": "e709ad8be440b312",
-      "source_name": "EBA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📢 EU Careers Alert: the EBA is looking for an HR Development Assistant in Paris Perfect for HR/L&D professionals with skills in: ✔️ Stakeholder engagement ✔️ Data & reporting ✔️ People development 🗓️ Deadline: 9 July 2026 🔗",
-      "url": "https://x.com/EBA_News/status/2064712097246650409",
-      "author": "@EBA_News",
-      "published": "2026-06-10T14:11:00",
-      "summary": "📢 EU Careers Alert: the EBA is looking for an HR Development Assistant in ParisPerfect for HR/L&amp;D professionals with skills in: ✔️ Stakeholder engagement✔️ Data & reporting✔️ People development🗓️ Deadline: 9 July 2026🔗  link.europa.eu/tffcmh— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Jun 10, 2026",
-      "score": 20,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×0.8 (14d)",
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "c497e586fa2f5e26",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -6559,7 +6525,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article traite de la complexité des règles bancaires européennes et de l'intégration du secteur, enjeux clés de conformité réglementaire bancaire."
     },
     {
       "hash": "4e361a69be4e90bb",
@@ -6598,6 +6564,24 @@
       "ai_summary": "Le FATF adopte des initiatives pour renforcer la lutte mondiale contre le financement illicite et la conformité aux normes anti-blanchiment."
     },
     {
+      "hash": "e709ad8be440b312",
+      "source_name": "EBA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📢 EU Careers Alert: the EBA is looking for an HR Development Assistant in Paris Perfect for HR/L&D professionals with skills in: ✔️ Stakeholder engagement ✔️ Data & reporting ✔️ People development 🗓️ Deadline: 9 July 2026 🔗",
+      "url": "https://x.com/EBA_News/status/2064712097246650409",
+      "author": "@EBA_News",
+      "published": "2026-06-10T14:11:00",
+      "summary": "📢 EU Careers Alert: the EBA is looking for an HR Development Assistant in ParisPerfect for HR/L&amp;D professionals with skills in: ✔️ Stakeholder engagement✔️ Data & reporting✔️ People development🗓️ Deadline: 9 July 2026🔗  link.europa.eu/tffcmh— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Jun 10, 2026",
+      "score": 15,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×0.6 (>14d)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "39121c05c2fc2c81",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -6631,7 +6615,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d56a469bdc8ae448",
@@ -6649,7 +6633,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "19be1bbe264d9a88",
@@ -6778,23 +6762,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il analyse les signalements internes et externes de non-conformité dans les banques."
     },
     {
-      "hash": "a5f6d25036e0",
-      "source_name": "Egmont Group",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Vice-Chair highlights central role of FIUs at the International Conference on Strengthening Cross-Border Cooperation in Transnational Crime in Taipei, Taiwan",
-      "url": "https://egmontgroup.org/news/vice-chair-highlights-central-role-of-fius-at-the-international-conference-on-strengthening-cross-border-cooperation-in-transnational-crime-in-taipei-taiwan/",
-      "author": "",
-      "published": "2026-05-26T00:00:00+00:00",
-      "summary": "Egmont Group Vice-Chair Mohammed Shahid Ahmed participated at the International Conference on Strengthening Cross-Border Cooperation in Transnational Crime in Taipei, Taiwan, highlighting the central role of Financial Intelligence Units in combating transnational crime.",
-      "score": 10,
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les unités de renseignement financier jouent un rôle clé dans la lutte contre la criminalité transnational et la conformité AML/CFT."
-    },
-    {
       "hash": "1ba96db55b8dae4b",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -6810,7 +6777,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'application de la loi FCPA (Foreign Corrupt Practices Act) par le DOJ."
     },
     {
       "hash": "d0011504a9798b5c",
@@ -7188,7 +7155,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b6fcc6d38406cb51",
@@ -7206,7 +7173,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article concerne la conformité financière car il traite de l'utilisation insuffisante du renseignement financier par les autorités."
     },
     {
       "hash": "dd0559606a94a609",
@@ -7224,7 +7191,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les mesures de conformité aux contrôles d'exportation chinois et les mécanismes de dénonciation."
     },
     {
       "hash": "ce88fbf205ee8430",
@@ -7443,7 +7410,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-24T20:15:37.330735+00:00",
+  "last_update": "2026-06-25T02:15:25.585825+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
