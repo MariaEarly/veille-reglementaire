@@ -1552,7 +1552,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il compare deux cadres réglementaires majeurs (MiCAR et GENIUS Act) applicables aux crypto-actifs et prestataires de services."
+      "ai_summary": "Cet article concerne la conformité financière car il analyse les cadres réglementaires du MiCAR et du GENIUS Act pour les cryptoactifs."
     },
     {
       "hash": "665eb88d58589e97",
@@ -1624,7 +1624,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Bourse Direct et sa dirigeante sanctionnées pour défaut de transmission d'informations sur transactions à l'AMF, violation majeure de conformité réglementaire."
     },
     {
       "hash": "7675f680f60d1837",
@@ -1840,7 +1840,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il rapporte une sanction de l'AMF contre un prestataire d'investissement pour violations réglementaires."
     },
     {
       "hash": "cf958fe44e6579c7",
@@ -1985,6 +1985,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il évoque la nomination d'un ancien directeur de l'application des règles à la CFTC."
+    },
+    {
+      "hash": "ed6a804c53569279",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "LOI n° 2026-534 du 25 juin 2026 relative à la lutte contre les fraudes sociales et fiscales (1)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054309429",
+      "author": "",
+      "published": "2026-06-26T00:00:00",
+      "summary": "Titre IER : AMÉLIORER LA DÉTECTION DE LA FRAUDE FISCALE ET SOCIALEChapitre Ier : Mettre en commun et exploiter les informations nécessaires à la lutte contre la fraudeArticle 1I. - Le chapitre III du titre XIII du livre IV du code de procédure pénale est complété par un article 706-1-3 ainsi rétabli :« Art. 706-1-3. - Par dérogation à l'article 11, sur autorisation du procureur de la République les ayant requis ou du juge d'instruction leur ayant délivré une commission rogatoire, après avis du p",
+      "score": 67,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +25 Source FR | ×1.5 (<24h)",
+      "doc_type": "LOI",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cette loi concerne la conformité financière car elle renforce la détection et la lutte contre les fraudes fiscales et sociales par le partage d'informations."
+    },
+    {
+      "hash": "d0840b3c2659100c",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décision n° 2026-904 DC du 18 juin 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054310098",
+      "author": "Conseil constitutionnel",
+      "published": "2026-06-26T00:00:00",
+      "summary": "Article (LOI RELATIVE À LA LUTTE CONTRE LES FRAUDES SOCIALES ET FISCALES)Le Conseil constitutionnel a été saisi, dans les conditions prévues au deuxième alinéa de l'article 61 de la Constitution, de la loi relative à la lutte contre les fraudes sociales et fiscales, sous le n° 2026-904 DC, le 18 mai 2026, par M. Boris VALLAUD, Mme Marie-José ALLEMAND, MM. Joël AVIRAGNET, Christian BAPTISTE, Fabrice BARUSSEAU, Mme Marie-Noëlle BATTISTEL, MM. Laurent BAUMEL, Belkhir BELHADDAD, Mme Béatrice BELLAY,",
+      "score": 67,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +25 Source FR | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre les fraudes sociales et fiscales par le Conseil constitutionnel."
     },
     {
       "hash": "525ea8b1c059d5ae",
@@ -3314,7 +3350,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la fiabilité des plateformes crypto, de l'imposition et de la protection des portefeuilles."
+      "ai_summary": "Cet article concerne la conformité financière car il aborde la fiabilité des plateformes crypto, l'imposition et la protection des actifs numériques."
     },
     {
       "hash": "eafa0a62257bd34c",
@@ -4862,7 +4898,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8f1d6348db5b825b",
@@ -4985,24 +5021,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions OFAC contre les réseaux de vente de pétrole iranien."
-    },
-    {
-      "source_name": "US Treasury - Sanctions Press",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Economic Fury Targets Iranian Maritime Extortion",
-      "url": "https://home.treasury.gov/news/press-releases/sb0507",
-      "author": "",
-      "published": "2026-05-27T00:00:00+00:00",
-      "summary": "OFAC designated Iran's so-called Persian Gulf Strait Authority (PGSA, aka 'Tehran Toll Booth'), a new Islamic Revolutionary Guard Corps (IRGC) attempt to monetize state-sponsored terror by extorting vessels transiting the Strait of Hormuz. Designation action requested by US Senate Intelligence Committee Chair Cotton.",
-      "score": 35,
-      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: aml | +5 Source Intl",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions OFAC contre des entités iraniennes, relevant de la conformité aux régimes de sanctions financières internationales.",
-      "hash": "a90c5c146933"
     },
     {
       "hash": "63d669f294d6dbc7",
@@ -5505,7 +5523,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité fiscale car il traite d'un contentieux relatif aux cotisations d'impôt sur le revenu supplémentaires imposées à un contribuable."
+      "ai_summary": "Cet article concerne la conformité fiscale car il traite d'un contentieux portant sur des cotisations supplémentaires d'impôt sur le revenu."
     },
     {
       "hash": "39d191e935e91176",
@@ -5769,7 +5787,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des enquêtes internes, de la protection des données et de la conformité réglementaire en Allemagne."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des enquêtes internes, de la protection des données et de la conformité légale en Allemagne."
     },
     {
       "hash": "3935de68d83247ec",
@@ -6255,7 +6273,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8c6ae3743e3129fd",
@@ -6489,7 +6507,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'inclusion bancaire concerne la conformité en matière de devoir de vigilance et de lutte contre l'exclusion financière, obligation réglementaire des établissements bancaires."
     },
     {
       "hash": "82878561020cff90",
@@ -6561,7 +6579,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "39121c05c2fc2c81",
@@ -6597,7 +6615,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "19be1bbe264d9a88",
@@ -6901,6 +6919,24 @@
       "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions OFAC contre la République démocratique du Congo et la Russie."
+    },
+    {
+      "hash": "e4e8ba1c3c5b9e53",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Issuance of Venezuela-related General License | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260625_33",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-06-25T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
       "status": "new",
       "early_brief": false,
       "ai_summary": null
@@ -7374,7 +7410,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résolution de poursuites pour corruption impliquant la FIFA."
     }
   ],
-  "last_update": "2026-06-25T20:28:08.560367+00:00",
+  "last_update": "2026-06-26T02:28:43.147859+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
