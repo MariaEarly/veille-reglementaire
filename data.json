@@ -1087,6 +1087,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il établit les obligations de reporting auprès de l'AMF sur le respect des règles de parité."
     },
     {
+      "hash": "6fd3624d5aec321a",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Avis du 26 juin 2026 relatif à l'application des articles L. 314-6 du code de la consommation et L. 313-5-1 du code monétaire et financier concernant l'usure",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054323743",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-06-28T00:00:00",
+      "summary": "Article TAUX EFFECTIFS MOYENS PRATIQUÉS PAR LES ÉTABLISSEMENTS DE CRÉDIT AU COURS DU DEUXIÈME TRIMESTRE DE L'ANNÉE 2026 POUR LES DIVERSES CATÉGORIES DE CRÉDITS ET SEUILS DE L'USURE CORRESPONDANTS APPLICABLES À COMPTER DU 1ER JUILLET 2026CatégoriesTaux effectif pratiqué par les établissements de crédit et les sociétés de financement au cours des trois mois précédantle 1er juillet 2026Seuil de l'usure applicable\n      \n     à compter du 1er juillet 2026Contrats de crédit consentis à des consommate",
+      "score": 82,
+      "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: code monétaire | ×1.5 (<24h)",
+      "doc_type": "AVIS",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "35a6e3928f5ba2a8",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -1786,7 +1804,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il rapporte des sanctions de l'AMF contre un prestataire de services d'investissement pour non-respect de la réglementation."
+      "ai_summary": "Cet article concerne la conformité financière car il rapporte des sanctions de l'AMF contre une entreprise d'investissement pour manquements réglementaires."
     },
     {
       "hash": "cf958fe44e6579c7",
@@ -2093,24 +2111,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne l'échange de bonnes pratiques entre le PNF et les JIRS en matière de lutte contre la criminalité financière."
-    },
-    {
-      "hash": "99e0a253a3f03448",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 24 avril 2026 relatif à l'abandon partiel d'une aide au soutien de la trésorerie consentie à la société LS INDUSTRIE",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054149116",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-05-29T00:00:00",
-      "summary": "Article 1Une remise de deux millions neuf cent mille (2 900 000) euros en principal est accordée à la société LS INDUSTRIE sur le remboursement du prêt n° DOS0179338 d'un montant de quatre millions (4 000 000) euros octroyé au titre de l'aide au soutien de sa trésorerie, imputée sur le compte de concours financiers « Prêts et avances à des particuliers ou à des organismes privés ».Article 2Le présent arrêté sera publié au Journal officiel de la République française.",
-      "score": 67,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet arrêté concerne la remise partielle d'une aide financière publique, relevant de la conformité de gestion des aides d'État."
     },
     {
       "hash": "ddb8c6bcd1770e3b",
@@ -3494,7 +3494,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d20991529f8fd0bd",
@@ -3512,7 +3512,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b2ff8cd3deec968c",
@@ -4934,24 +4934,6 @@
       "ai_summary": "Cet article concerne les sanctions financières imposées par les États-Unis sur les plateformes de cryptomonnaies iraniennes pour évasion de sanctions."
     },
     {
-      "source_name": "US Treasury - Sanctions Press",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Economic Fury Targets Iranian Network Defrauding U.S. Firms to Supply Tehran's Military",
-      "url": "https://home.treasury.gov/news/press-releases/sb0515",
-      "author": "",
-      "published": "2026-05-29T00:00:00+00:00",
-      "summary": "OFAC designated an Iran-based procurement network that impersonated and defrauded U.S. companies in order to procure restricted goods for Iran's Ministry of Defense and Armed Forces Logistics (MODAFL) and other sanctioned Iranian end users. Ali Majd Sepehr (via Sorena Hushmand Samaneh Company) impersonated U.S. small businesses to procure restricted network security and encryption software/hardware, defrauding dozens of U.S. IT companies of millions; goods bound for MODAFL-controlled SAAFTA.",
-      "score": 35,
-      "score_breakdown": "+20 mots critiques: sanction, fraud | +5 Source Intl | +3 Géo Intl: us treasury",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions OFAC contre un réseau iranien frauduleux procurant des biens restreints.",
-      "hash": "50392e78bb54"
-    },
-    {
       "hash": "63d669f294d6dbc7",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -5345,7 +5327,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les tendances M&A 2026 impactent la conformité via les risques géopolitiques, la diligence raisonnable et les obligations réglementaires des transactions."
     },
     {
       "hash": "24330548fd25c2aa",
@@ -5468,24 +5450,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment de capitaux, risque majeur du respect des normes AML/KYC."
-    },
-    {
-      "source_name": "UN Security Council - Sanctions",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Security Council Renews Sanctions on South Sudan for One Year, Adopting Resolution 2821 (2026) amid Concerns Measures Are Hindering Progress",
-      "url": "https://press.un.org/en/2026/sc16374.doc.htm",
-      "author": "",
-      "published": "2026-05-29T00:00:00+00:00",
-      "summary": "The Security Council today extended for one year the sanctions imposed on South Sudan, including asset freezes, travel bans and an arms embargo — amid concerns expressed by some speakers that the African position on the issue is being overlooked and that sanctions are hindering progress towards lasting peace. Resolution 2821 (2026) adopted by recorded vote 9-0-6 renews the regime until 31 May 2027 and extends the 2206 South Sudan Sanctions Committee Panel of Experts mandate until 1 July 2027.",
-      "score": 30,
-      "score_breakdown": "+20 mots critiques: sanction, embargo, asset freeze | +5 Source Intl | +3 Géo Intl: united states | +2 manual baseline",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les sanctions internationales imposées au Soudan du Sud incluent des gels d'actifs et embargos relevant de la conformité financière réglementaire.",
-      "hash": "ed0167045e77"
     },
     {
       "hash": "d85247b2137479f2",
@@ -6061,7 +6025,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8c6ae3743e3129fd",
@@ -6295,7 +6259,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la simplification de la supervision bancaire par la BCE et du renforcement de la culture de conformité."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la simplification de la supervision bancaire par la BCE et du renforcement de la culture de conformité supervisée."
     },
     {
       "hash": "d4b64950cbc88875",
@@ -6385,7 +6349,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "39121c05c2fc2c81",
@@ -6421,7 +6385,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "19be1bbe264d9a88",
@@ -7090,7 +7054,7 @@
       "ai_summary": "Cet article concerne la conformité aux sanctions financières et à la lutte contre le blanchiment d'argent."
     }
   ],
-  "last_update": "2026-06-27T19:51:04.631185+00:00",
+  "last_update": "2026-06-28T02:33:58.382596+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
