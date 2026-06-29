@@ -760,7 +760,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les risques de blanchiment de capitaux et de financement du terrorisme lors de la fin de la période transitoire du MiCAR."
     },
     {
       "hash": "1003ecba4be05fe4",
@@ -778,7 +778,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la lutte contre le blanchiment d'argent et la conformité réglementaire bancaire."
     },
     {
       "hash": "2920999e854aaf6c",
@@ -1138,7 +1138,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet avis fixe les seuils de taux d'usure applicables au crédit à partir du 1er juillet 2026, constituant une obligation de conformité pour les établissements de crédit."
+      "ai_summary": "Cet avis fixe les seuils d'usure applicables aux crédits à partir du 1er juillet 2026, conformément aux obligations légales de conformité financière et de protection des consommateurs."
     },
     {
       "hash": "35a6e3928f5ba2a8",
@@ -1463,6 +1463,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet arrêté applique la lutte contre le financement du terrorisme et le blanchiment d'argent via des mesures de gel des fonds."
+    },
+    {
+      "hash": "4fee4512ca068ae6",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "The EBA publishes its 2025 Report on supervisory convergence, supporting a simpler and more efficient EU prudential framework",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-2025-report-supervisory-convergence-supporting-simpler-and-more-efficient-eu",
+      "author": "Brendan O'Donohue",
+      "published": "2026-06-29T12:28:23",
+      "summary": "​The European Banking Authority (EBA) today published its 2025 Report on supervisory convergence, as part of its broader efforts to contribute to a more efficient, streamlined and effective EU prudential framework. This work responds to the EBA’s initiatives to increase the efficiency of the regulatory and supervisory framework, including through greater transparency and a focus on supervisory convergence. The Report highlights continued progress in aligning supervisory practices across the Euro",
+      "score": 82,
+      "score_breakdown": "+20 mots forts: aml, eba | +10 mots moyens: supervisory, bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "fcd7f82cd8e7340c",
@@ -1897,6 +1915,24 @@
       "ai_summary": "Cet article concerne la conformité financière car l'ACPR supervise la conformité prudentielle et réglementaire des établissements financiers."
     },
     {
+      "hash": "78483c5a97258aa0",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Sanctions issues arising in corporate transactions",
+      "url": "https://globalinvestigationsreview.com/guide/the-guide-sanctions/seventh-edition/article/sanctions-issues-arising-in-corporate-transactions",
+      "author": "Barbara D Linney,Orga Cadet",
+      "published": "2026-06-29T07:00:00",
+      "summary": "Increasingly complex global sanctions demand comprehensive due diligence in corporate transactions, covering US and international laws, export controls and anti-boycott rules. Effective diligence mitigates enforcement risks, successor liability and reputational damage, requiring ongoing compliance monitoring, risk assessments and tailored contractual protections throughout transaction lifecycles.",
+      "score": 72,
+      "score_breakdown": "+20 mots critiques: sanction | +20 mots forts: due diligence, compliance | +5 mots moyens: risk | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "53aaf596ab3341ad",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -1913,6 +1949,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les sanctions et restrictions commerciales imposées par des États contre des entités liées aux colonies israéliennes."
+    },
+    {
+      "hash": "5bd8744263541c2a",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Rapport annuel du pôle commun ACPR-AMF 2025 - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGNET0RPdnhGU2N4UVhaUk5DR3NRV2UxNUxQbEt0N21TMFJpSGNsS2FwYnFQMGxaZXB0bzJEdjZMMkdYd2NQWDNWcHFZQWVtVUVpWGdHZ0xJYWtoeHFCa2tQbzZySXdkSnJpQ1hhRG91eHpFVXMzQmdFcU1ZbjhyTTE2R2dsY3EyOVZLcTE3NVcwMDgwYkNLandTeWhZbm9uVDJYdnJSOTFROXhfQklLWmJra19sTVdrcHc?oc=5",
+      "author": "",
+      "published": "2026-06-24T16:54:30",
+      "summary": "Rapport annuel du pôle commun ACPR-AMF 2025&nbsp;&nbsp;Banque de France",
+      "score": 70,
+      "score_breakdown": "+20 mots forts: acpr, amf | +5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, acpr, amf | ×1.0 (7d)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "3d5333195bc0bf6b",
@@ -2164,7 +2218,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il décrit le plan de mise en œuvre de la directive sur les garanties des dépôts."
     },
     {
       "hash": "ddb8c6bcd1770e3b",
@@ -2488,7 +2542,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Mama Money met en place des mécanismes de conformité pour prévenir la fraude et optimiser l'intégration des clients."
     },
     {
       "hash": "c6435f65d113ae17",
@@ -2507,6 +2561,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la conformité aux sanctions de l'UE et des réformes législatives finlandaises pour renforcer le respect de ces obligations."
+    },
+    {
+      "hash": "3179745e9f4858dd",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "The GIR Insight Sanctions Roundtable",
+      "url": "https://globalinvestigationsreview.com/guide/the-guide-sanctions/seventh-edition/article/the-gir-insight-sanctions-roundtable",
+      "author": "",
+      "published": "2026-06-29T07:00:00",
+      "summary": "GIR hosted a debate in September 2025 to consider developments in the sanctions arena since the publication of the Guide to Sanctions. The discussion covered key aspects of the current landscape in the United States and Europe, looked at developments in this fast-moving area and analysed some of the issues for businesses and practitioners arising from the increasingly intricate and creative ways i...",
+      "score": 64,
+      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: eba | +3 Presse | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "26053c5ab194d2ad",
@@ -3174,6 +3246,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du non-respect des sanctions OFAC par FTI Consulting lors de paiements à VTB Bank."
     },
     {
+      "hash": "bfe6c809cca29bdc",
+      "source_name": "ECB - Banking Supervision",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "ECB sanctions BIL for breaching ECB decision on internal models",
+      "url": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260629~f60e0e7048.en.html",
+      "author": "",
+      "published": "2026-06-29T16:00:00",
+      "summary": "",
+      "score": 52,
+      "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "La BCE sanctionne BIL pour non-respect de sa décision sur les modèles internes, ce qui relève de la conformité réglementaire."
+    },
+    {
       "hash": "dfdb6ee6d6ebc402",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -3354,6 +3444,24 @@
       "ai_summary": "L'EBA publie une liste actualisée des banques systémiquement importantes de l'UE pour 2025, relevant de la conformité réglementaire bancaire."
     },
     {
+      "hash": "9a96030336767564",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "KOMUNA.LNA polst'ovüa, a. s. Vienna Insurance Group - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZMWNZdElPN3pTeGlTU3cyNzBqVUxrQ2FVbklJdENkeHhnNjNDVDBER3pnUEY3d0dBR2Z2Q1lfSXFyZ08zcEZNYVRqLXB3UzN0b0lhM25xUWU?oc=5",
+      "author": "",
+      "published": "2026-06-25T09:05:50",
+      "summary": "KOMUNA.LNA polst'ovüa, a. s. Vienna Insurance Group&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "92b541c59a9caf26",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -3404,7 +3512,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de l'application des sanctions de l'UE par les autorités allemandes coordonnées, relevant de la conformité aux obligations réglementaires internationales."
+      "ai_summary": "L'article traite de l'application des sanctions de l'UE par les autorités allemandes, ce qui relève de la conformité réglementaire et du respect des obligations légales internationales."
     },
     {
       "hash": "a5e10233652c0981",
@@ -3422,7 +3530,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite du cadre de conformité aux sanctions en Belgique, incluant l'application des sanctions de l'UE et les développements récents en matière d'application."
+      "ai_summary": "Cet article traite du cadre de conformité sanctions en Belgique, incluant l'application des sanctions UE et les obligations de respect réglementaire."
     },
     {
       "hash": "05eda82f3479f2e7",
@@ -3440,7 +3548,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite des sanctions aux Pays-Bas dans un contexte de réforme législative et renforcement de l'application de la loi, relevant de la conformité réglementaire et financière."
+      "ai_summary": "Cet article traite des sanctions aux Pays-Bas et des efforts accrus de conformité réglementaire dans le contexte d'une réforme législative."
     },
     {
       "hash": "f11f15d5a4fb6907",
@@ -3639,24 +3747,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article concerne les autorisations bancaires et la conformité réglementaire des fintechs auprès des autorités de supervision financière."
-    },
-    {
-      "hash": "7dbda47cf79defe8",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, 5ème chambre, 26 juin 2026, 512119",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260626-512119",
-      "author": "5ème chambre",
-      "published": "2026-06-26T12:00:00",
-      "summary": "Vu la procédure suivante :                  Par une requête et un mémoire en réplique, enregistrés les 30 janvier et 10 avril 2026 au secrétariat du contentieux du Conseil d'Etat, M. A... B... demande au Conseil d'Etat :                  1° d'annuler pour excès de pouvoir la décision du 5 novembre 2025 par laquelle l'Autorité de régulation de la communication audiovisuelle et numérique Arcom a rejeté sa demande tendant à ce qu'elle fasse exercice de ses pouvoirs de sanction de l'éditeur du servi",
-      "score": 48,
-      "score_breakdown": "+20 mots critiques: sanction | +20 Géo FR: france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b2ff8cd3deec968c",
@@ -3872,7 +3962,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de MiCA, la réglementation européenne sur les actifs cryptographiques imposant des obligations de conformité."
     },
     {
       "hash": "51f0f8f915a7d369",
@@ -3890,7 +3980,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la mise en œuvre de la directive DGSD3 sur la protection des dépositaires bancaires."
     },
     {
       "hash": "80d31ae5b945f2d3",
@@ -4253,24 +4343,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la simplification de la déclaration réglementaire supervisée par l'EBA."
     },
     {
-      "hash": "4d33b3389161aca7",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de MARSEILLE, 5ème chambre, 26 juin 2026, 23MA00797",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEMARSEILLE-20260626-23MA00797",
-      "author": "5ème chambre",
-      "published": "2026-06-26T12:00:00",
-      "summary": "44-006-03-01 Nature et environnement.   44-006-05 Nature et environnement.   44-02-02-01-02 Nature et environnement. - Installations classées... Vu la procédure suivante :           Procédure contentieuse antérieure :            L'association France Nature Environnement Bouches-du-Rhône, l'association Convergence Ecologique du Pays de Gardanne, M. F... D..., l'association Les Amis de la Terre des Bouches-du-Rhône, l'association Cèze et Ganière, l'association Collectif Vigilance Gaz de Gardanne P",
-      "score": 42,
-      "score_breakdown": "+10 mots forts: vigilance | +5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "2112a75367494ae7",
       "source_name": "CJUE - Cour de Justice UE",
       "source_type": "rss",
@@ -4577,6 +4649,24 @@
       "ai_summary": "Cet article concerne la conformité financière car le stress test évalue la résilience et la stabilité du système financier face aux risques."
     },
     {
+      "hash": "7dbda47cf79defe8",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, 5ème chambre, 26 juin 2026, 512119",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260626-512119",
+      "author": "5ème chambre",
+      "published": "2026-06-26T12:00:00",
+      "summary": "Vu la procédure suivante :                  Par une requête et un mémoire en réplique, enregistrés les 30 janvier et 10 avril 2026 au secrétariat du contentieux du Conseil d'Etat, M. A... B... demande au Conseil d'Etat :                  1° d'annuler pour excès de pouvoir la décision du 5 novembre 2025 par laquelle l'Autorité de régulation de la communication audiovisuelle et numérique Arcom a rejeté sa demande tendant à ce qu'elle fasse exercice de ses pouvoirs de sanction de l'éditeur du servi",
+      "score": 40,
+      "score_breakdown": "+20 mots critiques: sanction | +20 Géo FR: france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "c759c145e156ec96",
       "source_name": "Cass. - Fraude",
       "source_type": "rss",
@@ -4592,7 +4682,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e2defc9b28a831c3",
@@ -4611,6 +4701,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de fraude détectée par une caisse d'assurance maladie."
+    },
+    {
+      "hash": "c25be9f944c2ab0b",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "HMRC fines former Petrofac subsidiary over Russia sanctions breaches",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/hmrc-fines-former-petrofac-subsidiary-over-russia-sanctions-breaches",
+      "author": "Grace Propheta",
+      "published": "2026-06-29T14:24:19",
+      "summary": "Petrofac Management Solutions is the first entity to be named in a compound settlement announcement. The UK customs agency said it may include identification as a condition when offering such settlements to companies in the future, marking a shift in approach.&nbsp;",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: ofac | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "1464db012ebbcae0",
@@ -4646,7 +4754,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite des régimes de sanctions en Australie, directement pertinent pour la conformité financière et les obligations de respect des sanctions internationales."
+      "ai_summary": "Cet article traite de la conformité aux régimes de sanctions australiens, un aspect crucial de la conformité financière et réglementaire internationale."
     },
     {
       "hash": "52b09c7be3b5666b",
@@ -4901,6 +5009,24 @@
       "ai_summary": "Les rendements obligataires et l'incertitude monétaire sont critiques pour la gestion des risques financiers et la conformité réglementaire."
     },
     {
+      "hash": "3141e81c2dc768ac",
+      "source_name": "FATF/GAFI (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🆕FATF publication highlights how social media, instant messaging applications and streaming platforms are being abused to finance terrorist activity. ⚠️ Explore the latest risks and find recommendations to detect and disrupt these activities:  #CTWeek",
+      "url": "https://x.com/FATFNews/status/2071640663221748006",
+      "author": "@FATFNews",
+      "published": "2026-06-29T17:03:00",
+      "summary": "🆕FATF publication highlights how social media, instant messaging applications and streaming platforms are being abused to finance terrorist activity. ⚠️ Explore the latest risks and find recommendations to detect and disrupt these activities:  fatf-gafi.org/en/publication…  #CTWeek— FATF (@FATFNews) Jun 29, 2026",
+      "score": 37,
+      "score_breakdown": "+20 mots forts: fatf, gafi | +5 mots moyens: risk | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "156a3d30b04a6b29",
       "source_name": "EBA (X)",
       "source_type": "rss",
@@ -4916,7 +5042,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La directive DGSD3 renforce la protection des déposants en accélérant les remboursements et améliore la conformité réglementaire bancaire européenne."
     },
     {
       "hash": "0a4e7a4a08f8c0af",
@@ -5135,6 +5261,24 @@
       "ai_summary": "Cet article annonce une opportunité de recrutement à l'EBA et ne concerne pas directement la conformité financière."
     },
     {
+      "hash": "4d33b3389161aca7",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de MARSEILLE, 5ème chambre, 26 juin 2026, 23MA00797",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEMARSEILLE-20260626-23MA00797",
+      "author": "5ème chambre",
+      "published": "2026-06-26T12:00:00",
+      "summary": "44-006-03-01 Nature et environnement.   44-006-05 Nature et environnement.   44-02-02-01-02 Nature et environnement. - Installations classées... Vu la procédure suivante :           Procédure contentieuse antérieure :            L'association France Nature Environnement Bouches-du-Rhône, l'association Convergence Ecologique du Pays de Gardanne, M. F... D..., l'association Les Amis de la Terre des Bouches-du-Rhône, l'association Cèze et Ganière, l'association Collectif Vigilance Gaz de Gardanne P",
+      "score": 35,
+      "score_breakdown": "+10 mots forts: vigilance | +5 mots moyens: ppe | +20 Géo FR: france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "05dedeb19b4a42fa",
       "source_name": "EDPB - European Data Protection Board",
       "source_type": "rss",
@@ -5222,6 +5366,24 @@
       "ai_summary": "Cet article concerne les sanctions financières imposées par les États-Unis sur les plateformes de cryptomonnaies iraniennes pour évasion de sanctions."
     },
     {
+      "hash": "938d104217096119",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Des preuves numériques, une voiture de luxe et environ 60.000 euros en espèces ont été saisis: le parquet européen mène une vague de perquisitions en région parisienne pour des soupçons de fraude à la TVA",
+      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/des-preuves-numeriques-une-voiture-de-luxe-et-environ-60-000-euros-en-especes-ont-ete-saisis-le-parquet-europeen-mene-une-vague-de-perquisitions-en-region-parisienne-pour-des-soupcons-de-fraude-a-la-tva_AD-202606290886.html",
+      "author": "",
+      "published": "2026-06-29T18:46:45",
+      "summary": "Six personnes ont été interrogées car soupçonnées d'avoir utilisé des sociétés écrans qui leur auraient permis d'éviter de payer 13 millions d'euros. ",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "bf2857142eacae55",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -5237,25 +5399,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "78483c5a97258aa0",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Sanctions issues arising in corporate transactions",
-      "url": "https://globalinvestigationsreview.com/guide/the-guide-sanctions/seventh-edition/article/sanctions-issues-arising-in-corporate-transactions",
-      "author": "Barbara D Linney,Orga Cadet",
-      "published": "2026-06-29T07:00:00",
-      "summary": "",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la gestion des risques de criminalité financière utilisant l'IA."
     },
     {
       "hash": "553bbbb6b86020aa",
@@ -5276,24 +5420,6 @@
       "ai_summary": "Cet article traite des sanctions auxquelles font face les institutions financières et réglementées, relevant directement de la conformité financière."
     },
     {
-      "hash": "3179745e9f4858dd",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "The GIR Insight Sanctions Roundtable",
-      "url": "https://globalinvestigationsreview.com/guide/the-guide-sanctions/seventh-edition/article/the-gir-insight-sanctions-roundtable",
-      "author": "",
-      "published": "2026-06-29T07:00:00",
-      "summary": "",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "87f28c6f7feca7fa",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -5309,7 +5435,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article analyse comment les sanctions et contrôles à l'exportation affectent les chaînes d'approvisionnement, enjeu majeur de conformité réglementaire."
+      "ai_summary": "Cet article analyse l'impact des sanctions et contrôles à l'exportation sur les chaînes d'approvisionnement, relevant de la conformité financière et réglementaire."
     },
     {
       "hash": "3849806c5929fb2a",
@@ -5327,7 +5453,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des contrôles à l'exportation et des lois anti-sanctions en Chine, éléments clés de la conformité réglementaire."
+      "ai_summary": "Cet article traite des contrôles à l'export et des lois anti-sanctions chinoises, relevant de la conformité réglementaire."
     },
     {
       "hash": "c6adcc3ac6b83b19",
@@ -5345,7 +5471,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite des sanctions britanniques et leur impact sur les services juridiques, relevantde la conformité réglementaire et des obligations de respect des régimes sanct"
+      "ai_summary": "Cet article traite de la conformité aux sanctions britanniques et des obligations légales que doivent respecter les prestataires de services juridiques."
     },
     {
       "hash": "5ef6688ee5bff581",
@@ -5744,24 +5870,6 @@
       "ai_summary": "Cet article concerne la lutte contre la fraude financière par le partage d'informations entre institutions, un enjeu clé de conformité réglementaire."
     },
     {
-      "hash": "4da57559e4179e85",
-      "source_name": "Corporate Compliance Insights",
-      "source_type": "press",
-      "category": "presse",
-      "title": "2026 Global M&A Trends",
-      "url": "https://www.corporatecomplianceinsights.com/2026-global-mergers-trends/",
-      "author": "Corporate Compliance Insights",
-      "published": "2026-06-26T14:05:41",
-      "summary": "A new report from Norton Rose Fulbright and Mergermarket surveys 200 senior executives across corporates, private equity firms and investment banks on the state of global M&#038;A in 2026. Findings cover dealmaker sentiment, sector opportunities, private equity dry powder and the impact of geopolitical risk on deal appetite.\nThe post 2026 Global M&#038;A Trends appeared first on Corporate Compliance Insights.",
-      "score": 33,
-      "score_breakdown": "+10 mots forts: compliance | +15 mots moyens: risk, bank, ppe | +3 Presse | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "24330548fd25c2aa",
       "source_name": "Corporate Compliance Insights",
       "source_type": "press",
@@ -5795,7 +5903,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne le suivi réglementaire des crédits immobiliers par l'autorité de supervision bancaire française."
     },
     {
       "hash": "403bb933fee72d1d",
@@ -5956,6 +6064,24 @@
       "ai_summary": "Cet article examine l'impact des mesures restrictives de l'UE contre la Russie, relevant de la conformité aux sanctions financières internationales."
     },
     {
+      "hash": "4da57559e4179e85",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "2026 Global M&A Trends",
+      "url": "https://www.corporatecomplianceinsights.com/2026-global-mergers-trends/",
+      "author": "Corporate Compliance Insights",
+      "published": "2026-06-26T14:05:41",
+      "summary": "A new report from Norton Rose Fulbright and Mergermarket surveys 200 senior executives across corporates, private equity firms and investment banks on the state of global M&#038;A in 2026. Findings cover dealmaker sentiment, sector opportunities, private equity dry powder and the impact of geopolitical risk on deal appetite.\nThe post 2026 Global M&#038;A Trends appeared first on Corporate Compliance Insights.",
+      "score": 28,
+      "score_breakdown": "+10 mots forts: compliance | +15 mots moyens: risk, bank, ppe | +3 Presse | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "9dc28d8be03cb7e1",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -5972,6 +6098,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article concerne l'identification des entités soumises à la supervision directe de l'AMLA pour la conformité anti-blanchiment."
+    },
+    {
+      "hash": "2ce2568f1e6043eb",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Pourquoi le bitcoin n’en finit pas de dégringoler",
+      "url": "https://www.lemonde.fr/economie/article/2026/06/29/pourquoi-le-bitcoin-n-en-finit-pas-de-degringoler_6716956_3234.html",
+      "author": "",
+      "published": "2026-06-29T16:30:10",
+      "summary": "La chute du plus connu des cryptoactifs dépasse 50 % depuis octobre 2025. L’ensemble du marché des « cryptos » souffre de l’aversion au risque, mais aussi de la concurrence des valeurs liées à l’intelligence artificielle.",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: crypto | +5 mots moyens: risque | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "b6a3b1bce47677d1",
@@ -6727,7 +6871,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "39121c05c2fc2c81",
@@ -6763,7 +6907,25 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "4a456e7259d34658",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Launch of OFAC Reconsideration Portal | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260629_33",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-06-29T12:00:00",
+      "summary": "",
+      "score": 12,
+      "score_breakdown": "+5 Source Intl | +3 Géo Intl: ofac | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "19be1bbe264d9a88",
@@ -7015,7 +7177,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite du retrait de sanctions contre des entités russes et relève de la conformité aux programmes de gel d'actifs et d'embargos."
     },
     {
       "hash": "e68c3f087dac356f",
@@ -7195,7 +7357,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions économiques contre le Soudan, relevant de la conformité aux régimes de sanctions financières internationales."
     },
     {
       "hash": "91ea1a345da0315e",
@@ -7213,7 +7375,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les mesures de conformité aux sanctions financières internationales imposées par les autorités américaines."
     },
     {
       "hash": "2e4e8bd3282d9046",
@@ -7231,7 +7393,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions contre le terrorisme imposées par l'OFAC, relevant de la conformité réglementaire et anti-blanchiment."
     },
     {
       "hash": "6e7811328e82511a",
@@ -7468,7 +7630,7 @@
       "ai_summary": "Cet article concerne la conformité aux sanctions financières et à la lutte contre le blanchiment d'argent."
     }
   ],
-  "last_update": "2026-06-29T16:21:57.404329+00:00",
+  "last_update": "2026-06-29T19:43:40.457061+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
