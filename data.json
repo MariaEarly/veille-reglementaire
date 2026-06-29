@@ -1084,7 +1084,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet avis fixe les taux effectifs moyens des crédits et les seuils d'usure applicables, encadrant ainsi la conformité des établissements de crédit aux règles de protection du consommateur."
+      "ai_summary": "Cet avis définit les seuils d'usure applicables aux crédits à partir du 1er juillet 2026, basés sur les taux effectifs moyens pratiqués par les établissements de crédit."
     },
     {
       "hash": "35a6e3928f5ba2a8",
@@ -1409,24 +1409,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet arrêté applique la lutte contre le financement du terrorisme et le blanchiment d'argent via des mesures de gel des fonds."
-    },
-    {
-      "hash": "862e2df6c03891c9",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 29 mai 2026 portant application des articles L. 562-2 et suivants du code monétaire et financier",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054152005",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-05-30T00:00:00",
-      "summary": "Article Par arrêté du ministre de l'intérieur et du ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique en date du 29 mai 2026, vu le code monétaire et financier, et notamment ses articles L. 562-2 et suivants, les fonds et ressources économiques qui appartiennent à, sont possédés, détenus ou contrôlés par M. Mahmut YILMAZ, né le 16 septembre 1989 à Batman (Turquie), ainsi que les fonds et ressources économiques qui appartiennent à, sont possédés, dé",
-      "score": 82,
-      "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: code monétaire | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet arrêté applique la lutte contre le blanchiment de capitaux et le financement du terrorisme en régulant les fonds et ressources économiques."
     },
     {
       "hash": "fcd7f82cd8e7340c",
@@ -3048,24 +3030,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du non-respect des sanctions OFAC par FTI Consulting lors de paiements à VTB Bank."
     },
     {
-      "hash": "a59555a2fb6802d5",
-      "source_name": "Money Laundering News",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Executive Order Signals Major Shift in Federal Expectations for AML, Customer Identification, and Credit Underwriting",
-      "url": "https://www.moneylaunderingnews.com/2026/05/executive-order-signals-major-shift-in-federal-expectations-for-aml-customer-identification-and-credit-underwriting/",
-      "author": "Kelly A. Lenahan-Pfahlert and Terence M. Grugan",
-      "published": "2026-05-29T20:54:57",
-      "summary": "President Trump’s May 19, 2026 executive order, Restoring Integrity to America’s Financial System, directs Treasury, FinCEN, the CFPB, and the federal banking agencies to reassess how financial institutions identify and manage risks associated with non-work authorized populations and related cross border financial activity. The order reflects a significant shift in federal expectations across BSA/AML compliance,...",
-      "score": 54,
-      "score_breakdown": "+20 mots forts: aml, compliance | +10 mots moyens: risk, bank | +3 Presse | +3 Géo Intl: fincen | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les nouvelles directives fédérales sur l'identification client et la gestion des risques AML pour les institutions financières."
-    },
-    {
       "hash": "dfdb6ee6d6ebc402",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -3458,7 +3422,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b2ff8cd3deec968c",
@@ -3656,7 +3620,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la gestion des risques fiscaux et leurs impacts financiers, relevant de la conformité réglementaire en matière de stabilité financière."
+      "ai_summary": "Cet article analyse les risques budgétaires et leurs impacts sur les marchés financiers, relevant de la conformité réglementaire et de la gestion des risques financiers."
     },
     {
       "hash": "80d31ae5b945f2d3",
@@ -4034,7 +3998,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2112a75367494ae7",
@@ -4322,7 +4286,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e2defc9b28a831c3",
@@ -5273,7 +5237,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "24330548fd25c2aa",
@@ -6223,7 +6187,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "39121c05c2fc2c81",
@@ -6259,7 +6223,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "19be1bbe264d9a88",
@@ -6892,7 +6856,7 @@
       "ai_summary": "Cet article concerne la conformité aux sanctions financières et à la lutte contre le blanchiment d'argent."
     }
   ],
-  "last_update": "2026-06-28T19:51:36.785661+00:00",
+  "last_update": "2026-06-29T02:34:04.835988+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
