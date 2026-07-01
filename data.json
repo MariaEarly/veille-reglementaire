@@ -1141,6 +1141,24 @@
       "ai_summary": "Les sanctions OFAC contre les échanges crypto iraniens obligent les entités US à vérifier et bloquer les transactions avec les entités désignées."
     },
     {
+      "hash": "35a94e6fb4d2e42a",
+      "source_name": "Tracfin",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Tracfin intègre le dispositif des lanceurs d’alerte",
+      "url": "https://www.economie.gouv.fr/tracfin/tracfin-integre-le-dispositif-des-lanceurs-dalerte",
+      "author": "",
+      "published": "2026-06-30T16:37:29",
+      "summary": "Depuis le 1er juillet 2026, Tracfin peut recevoir et traiter les signalements adressés par des lanceurs d’alerte.",
+      "score": 82,
+      "score_breakdown": "+10 mots forts: tracfin | +25 Source FR | +20 Géo FR: tracfin | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "1fefdc6ed73fc66f",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1156,7 +1174,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret modifie les procédures de recours contre les décisions de l'AMF en matière d'offres publiques, relevant directement de la conformité réglementaire financière."
+      "ai_summary": "Ce décret concerne la conformité financière car il modifie les procédures de recours contre les décisions de l'AMF en matière d'offres publiques, relevant du contrôle réglementaire des marchés financiers."
     },
     {
       "hash": "234792e4bd1aa990",
@@ -1192,7 +1210,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet avis fixe les seuils de taux d'usure applicables aux établissements de crédit à partir du 1er juillet 2026, assurant leur conformité réglementaire."
+      "ai_summary": "Cet avis fixe les taux d'usure applicables aux crédits, imposant aux établissements financiers de respecter les seuils légaux de taux d'intérêt maximal."
     },
     {
       "hash": "35a6e3928f5ba2a8",
@@ -2581,6 +2599,24 @@
       "ai_summary": "Cet article concerne la sécurité des paiements européens et la lutte contre la fraude numérique, enjeux clés de la conformité financière."
     },
     {
+      "hash": "b66903f80c00a123",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Cryptomonnaies : ce que change la nouvelle réglementation européenne pour les épargnants",
+      "url": "https://www.lemonde.fr/argent/article/2026/07/01/cryptomonnaies-ce-que-change-la-nouvelle-reglementation-europeenne-pour-les-epargnants_6717466_1657007.html",
+      "author": "",
+      "published": "2026-07-01T05:10:43",
+      "summary": "A partir de ce 1ᵉʳ juillet, les plateformes d’investissement qui n’ont pas obtenu leur agrément de prestataire de services sur cryptoactifs, ne peuvent plus opérer en France et doivent mettre en place un plan de cessation d’activité.",
+      "score": 64,
+      "score_breakdown": "+20 mots forts: crypto, agrément | +3 Presse | +20 Géo FR: france | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "cf471d306a7f8c44",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -2596,7 +2632,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Un prêteur américain doit payer 9,7 millions de dollars pour non-conformité aux règles anti-blanchiment de capitaux."
     },
     {
       "hash": "f467a86a58d822c1",
@@ -3118,6 +3154,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la supervision bancaire prudentielle et la conformité réglementaire des institutions financières."
+    },
+    {
+      "hash": "d5f21774c6f45a83",
+      "source_name": "FATF/GAFI (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📢The UK Presidency of the FATF under Giles Thomson kicks off today, committing to focus international efforts on collaboration and partnerships to fight crime and combat the global fraud epidemic. Learn more about the objectives of the UK Presidency 👇",
+      "url": "https://x.com/FATFNews/status/2072247467047805161",
+      "author": "@FATFNews",
+      "published": "2026-07-01T09:14:00",
+      "summary": "📢The UK Presidency of the FATF under Giles Thomson kicks off today, committing to focus international efforts on collaboration and partnerships to fight crime and combat the global fraud epidemic.Learn more about the objectives of the UK Presidency 👇 fatf-gafi.org/content/fatf-g…— FATF (@FATFNews) Jul 1, 2026",
+      "score": 60,
+      "score_breakdown": "+20 mots critiques: fraud | +20 mots forts: fatf, gafi | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "f9b3d786f32be133",
@@ -4898,7 +4952,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c759c145e156ec96",
@@ -4916,7 +4970,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e2defc9b28a831c3",
@@ -5531,24 +5585,6 @@
       "ai_summary": "Cet article annonce une opportunité de recrutement à l'EBA et ne concerne pas directement la conformité financière."
     },
     {
-      "hash": "4d33b3389161aca7",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de MARSEILLE, 5ème chambre, 26 juin 2026, 23MA00797",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEMARSEILLE-20260626-23MA00797",
-      "author": "5ème chambre",
-      "published": "2026-06-26T12:00:00",
-      "summary": "44-006-03-01 Nature et environnement.   44-006-05 Nature et environnement.   44-02-02-01-02 Nature et environnement. - Installations classées... Vu la procédure suivante :           Procédure contentieuse antérieure :            L'association France Nature Environnement Bouches-du-Rhône, l'association Convergence Ecologique du Pays de Gardanne, M. F... D..., l'association Les Amis de la Terre des Bouches-du-Rhône, l'association Cèze et Ganière, l'association Collectif Vigilance Gaz de Gardanne P",
-      "score": 35,
-      "score_breakdown": "+10 mots forts: vigilance | +5 mots moyens: ppe | +20 Géo FR: france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "05dedeb19b4a42fa",
       "source_name": "EDPB - European Data Protection Board",
       "source_type": "rss",
@@ -5651,7 +5687,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "British American Tobacco est poursuivie pour financement du terrorisme suite à des violations de sanctions américaines, relevant directement de la conformité financière."
     },
     {
       "hash": "2c053a526ddec457",
@@ -6230,24 +6266,6 @@
       "ai_summary": "Cet article traite de la conformité en matière de responsabilité selon la False Claims Act et des orientations fédérales pour atténuer les risques."
     },
     {
-      "hash": "fd8b36ea81ed2f06",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Suivi mensuel de la production de crédits à l’habitat - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOHd2SGx4Z2d6X2dLUWY4M2tac1Z3ODQ0SW9HekppaXNtSUtHcUc3Q3pWdklTWnEyUHVXY1ZMV29mVU9TbmFHOHhaMzRZNzdkeXZlVnRSZS1WUll2dUQ1ajJpZUJ2dGJ3cWhkOXROYmNCSlYyRmhJYTV4TkNJZGU0cEJwV0taUC1WQjFSUW96RmFFRnZ1NHJ6WG0wYmtpclFVV281bG9rb3hkMHFrV0tOVWwxcjExV05PbkxyenBPLVR2V0E?oc=5",
-      "author": "",
-      "published": "2026-06-01T07:00:00",
-      "summary": "Suivi mensuel de la production de crédits à l’habitat&nbsp;&nbsp;Banque de France",
-      "score": 30,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne le suivi réglementaire des crédits immobiliers par l'autorité de supervision bancaire française."
-    },
-    {
       "hash": "403bb933fee72d1d",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
@@ -6281,24 +6299,6 @@
       "ai_summary": "Cet article concerne la conformité financière car l'EBA met à jour la liste des institutions systémiquement importantes.",
       "status": "new",
       "early_brief": false
-    },
-    {
-      "hash": "d38309b7c1426714",
-      "source_name": "BIS - Speeches",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Gabriel Makhlouf: Opening remarks - \"10th Annual Macroprudential Conference\"",
-      "url": "https://www.bis.org/review/r260630f.htm",
-      "author": "Gabriel Makhlouf",
-      "published": "2026-06-30T09:18:00",
-      "summary": "Opening remarks by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the 10th Annual Macroprudential Conference, jointly organised with the Deutsche Bundesbank, the Nederlandsche Bank, and the Sveriges Riksbank, Dublin, 22 June 2026.",
-      "score": 30,
-      "score_breakdown": "+5 mots moyens: bank | +5 Source Intl | +10 Géo EU: ireland | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "94fba9d74099",
@@ -6439,7 +6439,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'amélioration des algorithmes de détection des sanctions OFAC pour la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du contrôle des sanctions OFAC, essentiel pour la conformité réglementaire des institutions financières."
     },
     {
       "hash": "4da57559e4179e85",
@@ -6457,7 +6457,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9dc28d8be03cb7e1",
@@ -6694,6 +6694,42 @@
       "ai_summary": "La Chine bloque les sanctions américaines contre ses raffineries, soulevant des enjeux de conformité aux régimes de sanctions internationales."
     },
     {
+      "hash": "a80c2a8966466721",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de BORDEAUX, 5ème chambre, 26 juin 2026, 24BX00558",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEBORDEAUX-20260626-24BX00558",
+      "author": "5ème chambre",
+      "published": "2026-06-26T12:00:00",
+      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           La société par actions simplifiée CPENR Les Galacées a demandé à la cour d'annuler l'arrêté du 12 avril 2021 par lequel la préfète de la Charente a refusé de lui délivrer une autorisation environnementale pour l'installation et l'exploitation d'un parc éolien composé de trois éoliennes et d'un poste de livraison sur le territoire de la commune de Courcôme.            Par un arrêt n° 21BX03391 du 7 novembre 2023, l",
+      "score": 25,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "fd12645389e7d510",
+      "source_name": "Cass. - Blanchiment",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Tribunal judiciaire de Toulouse, Pole civil - fil 7, 19 juin 2026, 23/00137",
+      "url": "http://juricaf.org/arret/FRANCE-TRIBUNALJUDICIAIREDETOULOUSE-20260619-2300137",
+      "author": "Pole civil - fil 7",
+      "published": "2026-06-19T12:00:00",
+      "summary": "MINUTE N° :  JUGEMENT DU : 19 Juin 2026 DOSSIER : N° RG 23/00137 - N° Portalis DBX4-W-B7H-RMB3 NAC : 38E  TRIBUNAL JUDICIAIRE DE TOULOUSE POLE CIVIL - Fil 7   JUGEMENT DU 19 Juin 2026    PRESIDENT  Madame BLONDE, Vice-Présidente Statuant à juge unique conformément aux dispositions des articles R 212-9 et 213-7 du Code de l’Organisation judiciaire  GREFFIER lors du prononcé   Madame CHAOUCH, Greffier   DEBATS   à l'audience publique du 20 Février 2026, les débats étant clos, le jugement a été mis",
+      "score": 24,
+      "score_breakdown": "+10 mots forts: eba | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a44d8c66d3a1e5f8",
       "source_name": "CJUE - Cour de Justice UE",
       "source_type": "rss",
@@ -6710,6 +6746,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité en matière de fraude documentaire et d'acquisition frauduleuse de nationalité."
+    },
+    {
+      "hash": "d38309b7c1426714",
+      "source_name": "BIS - Speeches",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Gabriel Makhlouf: Opening remarks - \"10th Annual Macroprudential Conference\"",
+      "url": "https://www.bis.org/review/r260630f.htm",
+      "author": "Gabriel Makhlouf",
+      "published": "2026-06-30T09:18:00",
+      "summary": "Opening remarks by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the 10th Annual Macroprudential Conference, jointly organised with the Deutsche Bundesbank, the Nederlandsche Bank, and the Sveriges Riksbank, Dublin, 22 June 2026.",
+      "score": 24,
+      "score_breakdown": "+5 mots moyens: bank | +5 Source Intl | +10 Géo EU: ireland | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision macroprudentielle, élément clé de la régulation bancaire et financière."
     },
     {
       "hash": "06821502bf2c8ea2",
@@ -6910,6 +6964,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il aborde la gestion des risques liés à l'IA et aux menaces cybernétiques dans le secteur bancaire."
     },
     {
+      "hash": "96d8e3b3aaf42a73",
+      "source_name": "Cass. - Fraude",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de MARSEILLE, 1ère chambre, 18 juin 2026, 24MA02938",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEMARSEILLE-20260618-24MA02938",
+      "author": "1ère chambre",
+      "published": "2026-06-18T12:00:00",
+      "summary": "68-04-045 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. ... Vu la procédure suivante :            Procédure contentieuse antérieure :           M. et Mme A... et F... ont demandé au tribunal administratif de Toulon d'annuler l'arrêté du 1er décembre 2021 par lequel le maire de la commune de Cavalaire-sur-Mer ne s'est pas opposé à la déclaration préalable déposée par Mme B... D... en vue de la construction d'une clôtur",
+      "score": 20,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "8c6ae3743e3129fd",
       "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
@@ -6964,6 +7036,24 @@
       "ai_summary": "Cet article concerne la lutte contre le blanchiment d'argent et la fraude financière impliquant des populations non autorisées à travailler."
     },
     {
+      "hash": "205b27c67500cfea",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Ce qui change à partir du 1ᵉʳ juillet : congé supplémentaire de naissance, taxe sur les petits colis, prix du gaz, allocations chômage, location de véhicules électriques, réglementation des cryptoactifs…",
+      "url": "https://www.lemonde.fr/argent/article/2026/07/01/ce-qui-change-a-partir-1er-juillet-conge-supplementaire-de-naissance-taxe-sur-les-petits-colis-prix-du-gaz-allocations-chomage-location-de-vehicules-electriques-reglementation-des-cryptoactifs_6717458_1657007.html",
+      "author": "",
+      "published": "2026-07-01T04:00:00",
+      "summary": "Plusieurs changements s’opèrent, qui vont avoir des conséquences sur le budget et la vie de certains ménages.",
+      "score": 19,
+      "score_breakdown": "+10 mots forts: crypto | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "88f514dbf0d11db9",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -6979,7 +7069,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il documente les revenus et déclarations de patrimoine d'un personnage public, éléments clés de la transparence financière et des obligations déclaratives."
     },
     {
       "hash": "0329495ba7511d27",
@@ -7088,24 +7178,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les procureurs danois réclament une amende AML massive à Nordea, ce qui relève directement de la conformité anti-blanchiment."
-    },
-    {
-      "hash": "7bee712953d962f4",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Investir dans les cryptomonnaies sans en détenir",
-      "url": "https://www.lemonde.fr/argent/article/2026/06/01/investir-dans-les-cryptomonnaies-sans-en-detenir_6695913_1657007.html",
-      "author": "",
-      "published": "2026-06-01T04:00:09",
-      "summary": "Les produits financiers adossés à ces nouveaux actifs se démocratisent, mais ils restent risqués.",
-      "score": 19,
-      "score_breakdown": "+10 mots forts: crypto | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les risques et la régulation des produits financiers cryptographiques, domaine clé de la conformité financière."
     },
     {
       "hash": "e515ac1fef7ce79c",
@@ -7303,7 +7375,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "39121c05c2fc2c81",
@@ -7339,7 +7411,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5cf80fd9aefe73b5",
@@ -7807,7 +7879,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Un juge fédéral demande au ministère américain de justifier le retrait des accusations de corruption contre Adani, relevant un défaut de transparence."
     },
     {
       "hash": "054a322f49ecbeb1",
@@ -7862,6 +7934,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les sanctions contre le terrorisme imposées par l'OFAC, relevant de la conformité réglementaire et anti-blanchiment."
+    },
+    {
+      "hash": "13812eb270d91165",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Pourquoi la facture de l’entretien des infrastructures gazières va augmenter pour les consommateurs",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/01/pourquoi-la-facture-de-l-entretien-des-infrastructures-gazieres-va-augmenter-pour-les-consommateurs_6717472_3234.html",
+      "author": "",
+      "published": "2026-07-01T05:58:41",
+      "summary": "Dans un rapport sur l’avenir des infrastructures gazières à l’horizon 2050, la Commission de régulation de l’énergie (CRE) indique que les coûts d’entretien pourraient augmenter entre 0,2 % et 3,5 % par an (hors inflation) d’ici à 2050. En cause : la baisse de la consommation de gaz, qui provoquera une répartition des coûts sur un nombre plus faible de clients.",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "6e7811328e82511a",
@@ -8098,7 +8188,7 @@
       "ai_summary": "Cet article concerne la conformité aux sanctions financières et à la lutte contre le blanchiment d'argent."
     }
   ],
-  "last_update": "2026-07-01T05:01:45.508402+00:00",
+  "last_update": "2026-07-01T09:30:49.885293+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
