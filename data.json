@@ -832,7 +832,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la radiation d'un prestataire de services sur actifs numériques par l'AMF, autorité de régulation."
+      "ai_summary": "L'AMF radiant un prestataire de services sur actifs numériques applique la conformité réglementaire MiCA pour les cryptoactifs."
     },
     {
       "hash": "aeebcaafd86360e7",
@@ -1192,7 +1192,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret modifie les procédures de recours contre les décisions de l'AMF sur les offres publiques, relevant directement de la conformité réglementaire financière."
+      "ai_summary": "Ce décret modifie la procédure de recours contre les décisions de l'AMF en matière d'offres publiques, ce qui relève directement de la conformité financière et réglementaire."
     },
     {
       "hash": "234792e4bd1aa990",
@@ -1228,7 +1228,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet avis fixe les seuils d'usure applicables aux crédits à compter du 1er juillet 2026, imposant une obligation de conformité réglementaire aux établissements de crédit."
+      "ai_summary": "Cet avis fixe les seuils de l'usure applicables aux crédits pour le 3e trimestre 2026, garantissant la conformité des établissements de crédit aux plafonds de taux réglementés."
     },
     {
       "hash": "35a6e3928f5ba2a8",
@@ -2632,7 +2632,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La nouvelle réglementation européenne sur les cryptomonnaies impose aux plateformes d'obtenir un agrément comme prestataire de services, renforçant la conformité financière et la protection des épargnants."
+      "ai_summary": "La nouvelle réglementation européenne sur les cryptoactifs impose aux plateformes d'obtenir un agrément pour opérer légalement en France à partir du 1er juillet."
     },
     {
       "hash": "cf471d306a7f8c44",
@@ -3567,7 +3567,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur les indicateurs de performance relatifs aux divulgations taxonomiques, un enjeu clé de conformité réglementaire bancaire."
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA consulte sur les indicateurs de performance des divulgations de la Taxonomie."
     },
     {
       "hash": "bfe6c809cca29bdc",
@@ -4992,24 +4992,6 @@
       "ai_summary": "Cet article concerne la conformité financière car le stress test évalue la résilience et la stabilité du système financier face aux risques."
     },
     {
-      "hash": "7dbda47cf79defe8",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, 5ème chambre, 26 juin 2026, 512119",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260626-512119",
-      "author": "5ème chambre",
-      "published": "2026-06-26T12:00:00",
-      "summary": "Vu la procédure suivante :                  Par une requête et un mémoire en réplique, enregistrés les 30 janvier et 10 avril 2026 au secrétariat du contentieux du Conseil d'Etat, M. A... B... demande au Conseil d'Etat :                  1° d'annuler pour excès de pouvoir la décision du 5 novembre 2025 par laquelle l'Autorité de régulation de la communication audiovisuelle et numérique Arcom a rejeté sa demande tendant à ce qu'elle fasse exercice de ses pouvoirs de sanction de l'éditeur du servi",
-      "score": 40,
-      "score_breakdown": "+20 mots critiques: sanction | +20 Géo FR: france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "c759c145e156ec96",
       "source_name": "Cass. - Fraude",
       "source_type": "rss",
@@ -5025,7 +5007,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e2defc9b28a831c3",
@@ -5421,7 +5403,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La nomination d'un membre au conseil de gestion de l'ESMA renforce la gouvernance de l'autorité supervisory des marchés financiers de l'UE."
     },
     {
       "hash": "743d54327be8ed69",
@@ -5764,6 +5746,24 @@
       "hash": "a2f5a45d13a0"
     },
     {
+      "hash": "932400a798a2d287",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Immobilier : quand l’acheteur présenté par l’agence contracte directement avec le vendeur",
+      "url": "https://www.lemonde.fr/argent/article/2026/07/02/immobilier-quand-l-acheteur-presente-par-l-agence-contracte-directement-avec-le-vendeur_6717789_1657007.html",
+      "author": "",
+      "published": "2026-07-02T04:00:11",
+      "summary": "Les juges doivent caractériser une fraude pour indemniser le professionnel qui a perdu sa commission.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "e081aef19a166030",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -5779,7 +5779,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f419d35288502293",
@@ -5815,7 +5815,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des violations de sanctions américaines et du financement du terrorisme imputés à l'entreprise."
+      "ai_summary": "British American Tobacco risque des poursuites pour financement du terrorisme suite à des violations de sanctions iraniennes précédemment sanctionnées."
     },
     {
       "hash": "2c053a526ddec457",
@@ -6549,7 +6549,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du matching de noms pour les listes de sanctions OFAC, essentiel pour la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du remplacement d'algorithmes de détection de sanctions OFAC pour améliorer l'identification des personnes sanctionnées."
     },
     {
       "hash": "4da57559e4179e85",
@@ -6567,7 +6567,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car les fusions-acquisitions impliquent des risques de conformité réglementaire, notamment en matière de gouvernance et de diligence raisonnable."
     },
     {
       "hash": "9dc28d8be03cb7e1",
@@ -6603,7 +6603,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "447e6991260dedab",
@@ -6840,22 +6840,22 @@
       "ai_summary": "La Chine bloque les sanctions américaines contre ses raffineries, soulevant des enjeux de conformité aux régimes de sanctions internationales."
     },
     {
-      "hash": "a80c2a8966466721",
-      "source_name": "Conseil d'État (JURICAF)",
+      "hash": "18090426cc583d4f",
+      "source_name": "Cass. - Bancaire",
       "source_type": "rss",
       "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de BORDEAUX, 5ème chambre, 26 juin 2026, 24BX00558",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEBORDEAUX-20260626-24BX00558",
-      "author": "5ème chambre",
-      "published": "2026-06-26T12:00:00",
-      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           La société par actions simplifiée CPENR Les Galacées a demandé à la cour d'annuler l'arrêté du 12 avril 2021 par lequel la préfète de la Charente a refusé de lui délivrer une autorisation environnementale pour l'installation et l'exploitation d'un parc éolien composé de trois éoliennes et d'un poste de livraison sur le territoire de la commune de Courcôme.            Par un arrêt n° 21BX03391 du 7 novembre 2023, l",
-      "score": 25,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.0 (7d)",
+      "title": "France, Tribunal judiciaire de Bastia, Référés-jcp, 22 juin 2026, 25/00558",
+      "url": "http://juricaf.org/arret/FRANCE-TRIBUNALJUDICIAIREDEBASTIA-20260622-2500558",
+      "author": "Référés-jcp",
+      "published": "2026-06-22T12:00:00",
+      "summary": "TRIBUNAL JUDICIAIRE DE Localité 1 Adresse 1 Localité 2      N° RG 25/00558 - N° Portalis DBXI-W-B7J-DOUW   Minute n°       Mme A S  C/  Société CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL DE LA CORSE                          Copie exécutoire  délivrée le : à :   Copie délivrée le : à : JUGE DES CONTENTIEUX DE LA PROTECTION  ORDONNANCE DE RÉFÉRÉ DU 22 Juin 2026     DEMANDEURS :  Mme A S,  demeurant Adresse 2  Localité 3 représentée par Me Sébastien SEBASTIANI, avocat au barreau de BASTIA  M. N H, ",
+      "score": 24,
+      "score_breakdown": "+10 mots forts: eba | +20 Géo FR: france | ×0.8 (14d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "fd12645389e7d510",
@@ -7092,24 +7092,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il aborde la gestion des risques liés à l'IA et aux menaces cybernétiques dans le secteur bancaire."
     },
     {
-      "hash": "96d8e3b3aaf42a73",
-      "source_name": "Cass. - Fraude",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de MARSEILLE, 1ère chambre, 18 juin 2026, 24MA02938",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEMARSEILLE-20260618-24MA02938",
-      "author": "1ère chambre",
-      "published": "2026-06-18T12:00:00",
-      "summary": "68-04-045 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. ... Vu la procédure suivante :            Procédure contentieuse antérieure :           M. et Mme A... et F... ont demandé au tribunal administratif de Toulon d'annuler l'arrêté du 1er décembre 2021 par lequel le maire de la commune de Cavalaire-sur-Mer ne s'est pas opposé à la déclaration préalable déposée par Mme B... D... en vue de la construction d'une clôtur",
-      "score": 20,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "8c6ae3743e3129fd",
       "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
@@ -7179,7 +7161,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance. L'article traite de la fortune personnelle d'un individu, non de conformité financière, régulation ou obligations légales en matière de reporting."
     },
     {
       "hash": "3f0a769b6155f54c",
@@ -7197,7 +7179,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La criminalité crypto (fraudes, extorsions, enlèvements) constitue un risque de conformité AML/KYC et de prévention du blanchiment pour les plateformes."
+      "ai_summary": "Cet article traite des risques de criminalité liés aux cryptomonnaies, relevant de la conformité en matière de lutte contre la fraude et les activités illicites."
     },
     {
       "hash": "205b27c67500cfea",
@@ -7359,7 +7341,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de corruption impliquant des pots-de-vin versés à une entreprise d'État."
     },
     {
       "hash": "2dd580881283e205",
@@ -7432,6 +7414,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la compétitivité bancaire allemande mais ne traite pas spécifiquement de conformité financière ou de risques de compliance."
+    },
+    {
+      "hash": "9e2988dedae16112",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "European banking sector reforms can strengthen integration, competition and growth, Supervisory Board Chair Claudia Buch tells the @Europarl_EN. We need to complete the banking union while maintaining strong supervisory and regulatory standards",
+      "url": "https://x.com/ecb/status/2072594341533569036",
+      "author": "@ecb",
+      "published": "2026-07-02T08:12:00",
+      "summary": "European banking sector reforms can strengthen integration, competition and growth, Supervisory Board Chair Claudia Buch tells the  @Europarl_EN. We need to complete the banking union while maintaining strong supervisory and regulatory standards  bankingsupervision.europa.eu…— European Central Bank (@ecb) Jul 2, 2026",
+      "score": 15,
+      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "91ac35ceab84bb09",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Supervisory Board Chair Claudia Buch will speak before the Committee on Economic and Monetary Affairs of the @Europarl_EN. Follow live at 10:00 CET 👉",
+      "url": "https://x.com/ecb/status/2072589843113156736",
+      "author": "@ecb",
+      "published": "2026-07-02T07:55:00",
+      "summary": "Supervisory Board Chair Claudia Buch will speak before the Committee on Economic and Monetary Affairs of the  @Europarl_EN. Follow live at 10:00 CET 👉  multimedia.europarl.europa.e…— European Central Bank (@ecb) Jul 2, 2026",
+      "score": 15,
+      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "d8a023429c2a7aac",
@@ -7539,7 +7557,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "39121c05c2fc2c81",
@@ -7575,7 +7593,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5cf80fd9aefe73b5",
@@ -7686,6 +7704,24 @@
       "ai_summary": "Cet article concerne l'implémentation de règles pour renforcer l'identification des clients dans la lutte contre le blanchiment d'argent."
     },
     {
+      "hash": "070f72874744ac2b",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Dans le Guizhou, la frénésie de construction de ponts et d’autoroutes, au cœur du modèle de développement chinois, se heurte au mur de la dette",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/02/dans-le-guihzou-la-frenesie-de-construction-de-ponts-et-d-autoroutes-au-c-ur-du-modele-de-developpement-chinois-se-heurte-au-mur-de-la-dette_6717750_3234.html",
+      "author": "",
+      "published": "2026-07-02T03:00:11",
+      "summary": "Symbole du volontarisme chinois en matière d’infrastructures, cette province du sud du pays a, en une décennie, vu se multiplier les mégaponts, les aéroports et les nouveaux quartiers. Cette course à la démesure a aussi produit des dettes administratives ingérables, des scandales liés à la corruption et des chantiers inachevés.",
+      "score": 12,
+      "score_breakdown": "+5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "c5772c27be90a48d",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7701,7 +7737,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1ba96db55b8dae4b",
@@ -8352,7 +8388,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une enquête sur corruption présumée dans un contrat pétrolier impliquant Gunvor."
     }
   ],
-  "last_update": "2026-07-02T04:37:54.526830+00:00",
+  "last_update": "2026-07-02T08:44:02.479215+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
