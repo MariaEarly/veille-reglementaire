@@ -727,24 +727,6 @@
       "ai_summary": "L'AMF examine comment les sociétés cotées intègrent l'IA, la cybersécurité et les risques géopolitiques dans leur gouvernance et contrôles internes."
     },
     {
-      "hash": "f26499c1d231d816",
-      "source_name": "AMF - Actualités",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Résilience cyber : l'AMF appelle les acteurs financiers à renforcer leurs dispositifs face à l’évolution rapide des menaces liées à l’intelligence artificielle",
-      "url": "https://www.amf-france.org/fr/actualites-publications/actualites/resilience-cyber-lamf-appelle-les-acteurs-financiers-renforcer-leurs-dispositifs-face-levolution#xts=607212&xtor=RSS-3&type=RSS",
-      "author": "",
-      "published": "2026-06-03T07:04:06",
-      "summary": "Actualité                  Innovation              Crypto-actifs              Intelligence artificielle                    Résilience cyber : l&#039;AMF appelle les acteurs financiers à renforcer leurs dispositifs face à l’évolution rapide des menaces liées à l’intelligence artificielle",
-      "score": 100,
-      "score_breakdown": "+20 mots forts: amf, crypto | +5 mots moyens: ppe | +25 Source FR | +15 IA×Finance: intelligence artificielle+amf | +20 Géo FR: amf | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'AMF impose aux acteurs financiers de renforcer leur cybersécurité face aux risques de l'IA, relevant de la conformité réglementaire."
-    },
-    {
       "hash": "1cafe601a2b1d68e",
       "source_name": "EDPB - European Data Protection Board",
       "source_type": "rss",
@@ -797,6 +779,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la lutte contre le blanchiment d'argent et la conformité réglementaire bancaire."
+    },
+    {
+      "hash": "6ef6b93231b2b30b",
+      "source_name": "Tracfin (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "#DicoTracfin 🔎 | En matière de LCB-FT, la vigilance commence avant le soupçon. ➡️ C’est tout l’objectif des appels à vigilance (AAV...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7478725373367779328",
+      "author": "Tracfin",
+      "published": "2026-07-03T08:24:37",
+      "summary": "#DicoTracfin 🔎 | En matière de LCB-FT, la vigilance commence avant le soupçon.\n\n➡️ C’est tout l’objectif des appels à vigilance (AAV), émis par Tracfin à destination des professionnels déclarants, afin de les alerter sur un risque important de blanchiment de capitaux ou de financement du terrorisme et de leur permettre d’anticiper la mise en œuvre des mesures de vigilance appropriées.\n\nConcrètement, l’AAV porte à connaissance des situations générales ou individuelles présentant un risque de BC-F",
+      "score": 100,
+      "score_breakdown": "+20 mots critiques: blanchiment, financement du terrorisme | +20 mots forts: tracfin, lcb-ft, vigilance | +10 mots moyens: risque, ppe | +20 Géo FR: tracfin | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "2920999e854aaf6c",
@@ -1192,7 +1192,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet arrêté concerne la lutte contre le financement du terrorisme et la conformité AML/KYC en application du code monétaire et financier."
     },
     {
       "hash": "35a94e6fb4d2e42a",
@@ -1228,7 +1228,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret modifie la procédure de recours contre les décisions de l'AMF en matière d'offres publiques, concernant directement la conformité réglementaire financière."
+      "ai_summary": "Ce décret modifie les procédures de recours contre les décisions de l'AMF sur les offres publiques, relevant directement de la conformité réglementaire en droit financier."
     },
     {
       "hash": "234792e4bd1aa990",
@@ -2257,6 +2257,24 @@
       "ai_summary": "Cet article concerne l'échange de bonnes pratiques entre le PNF et les JIRS en matière de lutte contre la criminalité financière."
     },
     {
+      "hash": "ea5a8b5a240a559d",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "AMLA finalises common formats for FIU cooperation and reporting to the EPPO",
+      "url": "https://www.amla.europa.eu/amla-finalises-common-formats-fiu-cooperation-and-reporting-eppo_en",
+      "author": "",
+      "published": "2026-07-03T07:26:47",
+      "summary": "AMLA has finalised three sets of standards that will help financial intelligence move across the EU faster and more consistently.&nbsp;",
+      "score": 67,
+      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il traite de normes de signalement aux autorités anti-blanchiment et de coopération entre unités de renseignement financier."
+    },
+    {
       "hash": "20fea4b289203242",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -2308,7 +2326,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du partage d'informations pour combattre le blanchiment d'argent tout en respectant la protection des données."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du partage d'informations pour lutter contre la criminalité financière tout en respectant les règles de protection des données personnelles."
     },
     {
       "hash": "5bc2382f64be3d77",
@@ -2635,6 +2653,24 @@
       "ai_summary": "Les autorités financières publient un rapport méthodologique sur les tests de résistance du système financier."
     },
     {
+      "hash": "7531733da30416a5",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, 9ème chambre, 30 juin 2026, 511490",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260630-511490",
+      "author": "9ème chambre",
+      "published": "2026-06-30T12:00:00",
+      "summary": "Vu la procédure suivante :                  Par un mémoire distinct et un nouveau mémoire, enregistrés les 13 avril et 27 mai 2026 au secrétariat du contentieux du Conseil d'Etat, M. B... A... et la banque Michel A... demandent au Conseil d'Etat, en application de l'article 23-5 de l'ordonnance n° 58-1067 du 7 novembre 1958, à l'appui de leur requête tendant à l'annulation de la décision n° 2024-04 du 15 décembre 2025 par laquelle la commission des sanctions de l'Autorité de contrôle prudentiel ",
+      "score": 66,
+      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: contrôle prudentiel | +5 mots moyens: banque | +20 Géo FR: france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a4ec293f59d19e59",
       "source_name": "BIS - Speeches",
       "source_type": "rss",
@@ -2668,7 +2704,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "cc9578b5069dd815",
@@ -2939,24 +2975,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il révèle des pratiques frauduleuses : factures insuffisamment détaillées et prix gonflés."
-    },
-    {
-      "hash": "88ffbd3d734a769b",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Shein à nouveau condamné par la répression des fraudes, à hauteur de 22 millions d’euros",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/03/shein-a-nouveau-condamne-par-la-repression-des-fraudes-a-hauteur-de-22-millions-d-euros_6696560_3234.html",
-      "author": "",
-      "published": "2026-06-03T08:00:29",
-      "summary": "La DGCCRF, le gendarme de la concurrence, sanctionne pour la deuxième fois la plateforme chinoise que 25 millions de personnes consultent chaque mois en France. La société a annoncé contester la décision.",
-      "score": 64,
-      "score_breakdown": "+20 mots critiques: sanction, fraude, fraud | +3 Presse | +20 Géo FR: france, dgccrf | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car Shein fait l'objet d'une amende de 22 millions d'euros pour violations réglementaires."
     },
     {
       "hash": "e826dfa06568bc00",
@@ -3876,6 +3894,24 @@
       "ai_summary": "Cet article concerne la supervision réglementaire d'AXA France Vie par l'autorité de contrôle prudentiel compétente."
     },
     {
+      "hash": "98ec9059b4f9b382",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Il ira voir en septembre comment fait l'Espagne et promet \"des mesures avant l'été 2027\": comment Jean-Pierre Farandou compte adapter notre travail aux canicules",
+      "url": "https://www.bfmtv.com/economie/il-ira-voir-en-septembre-comment-fait-l-espagne-et-promet-des-mesures-avant-l-ete-2027-comment-jean-pierre-farandou-compte-adapter-notre-travail-aux-canicules_AV-202607030373.html",
+      "author": "",
+      "published": "2026-07-03T08:01:19",
+      "summary": "Le ministre du Travail, Jean-Pierre Farandou, veut s'inspirer de l'Espagne et promet des mesures autour des fortes chaleurs, notamment des \"accords de branche\" avant l'été 2027. La veille, la secrétaire générale de la CFDT plaide quant à elle pour des sanctions pouvant aller jusqu'à 30.000 euros pour les dirigeants hors des clous. ",
+      "score": 49,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +10 Géo EU: espagne | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "d90bd5952d1e9f50",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -4128,6 +4164,24 @@
       "ai_summary": "Les dirigeants expriment des préoccupations sur l'IA non contrôlée, impactant la gouvernance et les risques de conformité."
     },
     {
+      "hash": "6cbfdeccd90f4048",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, 4ème - 1ère chambres réunies, 30 juin 2026, 501142",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260630-501142",
+      "author": "4ème - 1ère chambres réunies",
+      "published": "2026-06-30T12:00:00",
+      "summary": "Vu la procédure suivante :                   Le président du conseil régional de Nouvelle-Aquitaine - collectivités d'outre-mer de l'ordre des vétérinaires a porté plainte contre M. C... P... devant la chambre régionale de discipline de Nouvelle-Aquitaine - collectivités d'outre-mer de cet ordre. Par une décision du 13 octobre 2022, la chambre régionale de discipline a infligé à M. P... la sanction de la suspension temporaire du droit d'exercer la profession de vétérinaire sur l'ensemble du terr",
+      "score": 48,
+      "score_breakdown": "+20 mots critiques: sanction | +20 Géo FR: france, outre-mer | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "b2ff8cd3deec968c",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -4323,7 +4377,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du Pilier 3 de Bâle qui impose la transparence et la divulgation d'informations financières aux banques."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision Pillar 3 et des exigences de transparence dans le secteur bancaire européen."
     },
     {
       "hash": "dcb7b8789c85921e",
@@ -5097,7 +5151,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "396e1b2d63e65051",
@@ -5115,7 +5169,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de sanctions OFAC imposées à des entités pour liens avec une organisation terroriste désignée."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions OFAC imposées à des personnes et entités liées au PCC."
     },
     {
       "hash": "5d3a4ede6de98ecb",
@@ -5834,7 +5888,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite de poursuites liées aux sanctions contre le régime syrien et des litiges sur les radiations de listes de sanctions."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des litiges liés aux sanctions contre le régime Assad et des demandes de délisting de sanctions."
     },
     {
       "hash": "f419d35288502293",
@@ -6410,7 +6464,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "24330548fd25c2aa",
@@ -6590,22 +6644,22 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'amélioration des outils de vérification des sanctions OFAC."
     },
     {
-      "hash": "bbc7c721fb16e6ea",
-      "source_name": "Corporate Compliance Insights",
+      "hash": "d6f5e56eadae7d70",
+      "source_name": "Le Monde Économie",
       "source_type": "press",
       "category": "presse",
-      "title": "Most DIB Firms Fear AI-Powered Cyber Attack",
-      "url": "https://www.corporatecomplianceinsights.com/news-roundup-july-1-2026/",
-      "author": "Staff and Wire Reports",
-      "published": "2026-07-01T19:21:27",
-      "summary": "Plus: More than half of enterprises would sacrifice data security for efficiency\nThe post Most DIB Firms Fear AI-Powered Cyber Attack appeared first on Corporate Compliance Insights.",
+      "title": "Pourquoi la plateforme de crowdfunding immobilier Bricks veut racheter une banque",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/03/pourquoi-la-plateforme-de-crowdfunding-immobilier-bricks-veut-racheter-une-banque_6718473_3234.html",
+      "author": "",
+      "published": "2026-07-03T07:30:00",
+      "summary": "La société prévoit de débourser 30 millions d’euros pour profiter de l’agrément d’un établissement étranger. Elle espère ainsi se lancer dans le crédit immobilier en s’appuyant sur sa base de clients.",
       "score": 27,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "score_breakdown": "+10 mots forts: agrément | +5 mots moyens: banque | +3 Presse | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "447e6991260dedab",
@@ -7058,22 +7112,22 @@
       "ai_summary": "Cet article concerne la gouvernance et la résilience des conglomérats financiers face aux risques interconnectés, enjeux clés de la conformité."
     },
     {
-      "hash": "db3587010a47ddfd",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "Watch live at 9:15 CET: Supervisory Board Vice-Chair Frank Elderson speaks to @CNBC about the outlook for euro area banks in a highly uncertain environment, and why continued action is necessary to manage the risks posed by AI and cyber threats.",
-      "url": "https://x.com/ecb/status/2062069773861589015",
-      "author": "@ecb",
-      "published": "2026-06-03T07:12:00",
-      "summary": "Watch live at 9:15 CET: Supervisory Board Vice-Chair Frank Elderson speaks to  @CNBC about the outlook for euro area banks in a highly uncertain environment, and why continued action is necessary to manage the risks posed by AI and cyber threats. youtube.com/watch?v=AE_dVxxF…— European Central Bank (@ecb) Jun 3, 2026",
-      "score": 22,
-      "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×1.5 (<24h)",
+      "hash": "bbc7c721fb16e6ea",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Most DIB Firms Fear AI-Powered Cyber Attack",
+      "url": "https://www.corporatecomplianceinsights.com/news-roundup-july-1-2026/",
+      "author": "Staff and Wire Reports",
+      "published": "2026-07-01T19:21:27",
+      "summary": "Plus: More than half of enterprises would sacrifice data security for efficiency\nThe post Most DIB Firms Fear AI-Powered Cyber Attack appeared first on Corporate Compliance Insights.",
+      "score": 21,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.2 (<3d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde la gestion des risques liés à l'IA et aux menaces cybernétiques dans le secteur bancaire."
+      "ai_summary": null
     },
     {
       "hash": "8c6ae3743e3129fd",
@@ -7541,7 +7595,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "39121c05c2fc2c81",
@@ -7577,7 +7631,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5cf80fd9aefe73b5",
@@ -8045,7 +8099,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8897b62f93c9ec05",
@@ -8336,7 +8390,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des programmes de dénonciation des régulateurs américains."
     }
   ],
-  "last_update": "2026-07-03T04:23:34.068973+00:00",
+  "last_update": "2026-07-03T08:50:16.437661+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
