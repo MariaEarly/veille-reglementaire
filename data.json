@@ -1192,7 +1192,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté applique la lutte contre le financement du terrorisme et du blanchiment d'argent en définissant les fonds et ressources économiques soumis à gels."
+      "ai_summary": "Cet arrêté applique les obligations de lutte contre le blanchiment de capitaux et le financement du terrorisme issues du code monétaire et financier."
     },
     {
       "hash": "0bd928518db4d167",
@@ -1840,7 +1840,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur les directives de surveillance continue des relations commerciales dans le cadre anti-blanchiment de l'UE."
+      "ai_summary": "Cet article concerne la surveillance continue des relations commerciales, élément clé de la conformité anti-blanchiment de capitaux et lutte contre le financement du terrorisme."
     },
     {
       "hash": "d36cf40a049021b8",
@@ -2956,7 +2956,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "80f958c786ad1fcb",
@@ -3784,7 +3784,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d3e562068fcc98c8",
@@ -3802,7 +3802,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3c6a0d25edce6fea",
@@ -6217,24 +6217,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des risques de pénalités liées au non-respect des contrôles à l'exportation de l'UE."
     },
     {
-      "hash": "c759c145e156ec96",
-      "source_name": "Cass. - Fraude",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, 1ère chambre, 25 juin 2026, 510853",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260625-510853",
-      "author": "1ère chambre",
-      "published": "2026-06-25T12:00:00",
-      "summary": "Vu la procédure suivante :                Procédures contentieuses antérieures                D'une part, par deux jugements nos 1503202 et 1503205 du 20 août 2018, le tribunal administratif de Nice a annulé pour excès de pouvoir les décisions implicites par lesquelles le maire de Grasse Alpes-Maritimes a refusé de faire droit aux demandes de Mme E... B..., d'une part, et de M. C... A... et Mme D... A..., d'autre part, tendant au retrait pour fraude du permis de construire délivré le 18 juillet ",
-      "score": 32,
-      "score_breakdown": "+20 mots critiques: fraude, fraud | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "273f63ac34306918",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -6269,6 +6251,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la conformité en matière de responsabilité selon la False Claims Act et des orientations fédérales pour atténuer les risques."
+    },
+    {
+      "hash": "3187dc0002653a16",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de NANCY, 3ème chambre, 03 juillet 2026, 23NC02217",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDENANCY-20260703-23NC02217",
+      "author": "3ème chambre",
+      "published": "2026-07-03T12:00:00",
+      "summary": "Vu la procédure suivante :           Par une requête et des mémoires, enregistrés le 10 juillet 2023, le 15 décembre 2023 et le 25 février 2025, la société Supradis, représentée par Me Camus, demande à la cour :           1° d'annuler la décision d'autorisation d'exploitation commerciale du 4 mai 2023 accordée à la société par actions simplifiée Doldis par la Commission nationale d'aménagement commercial CNAC pour la création d'un point permanent de retrait des marchandises par la clientèle d'ac",
+      "score": 30,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "4bd248d55c4475d1",
+      "source_name": "Cass. - Fraude",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de BORDEAUX, 3ème chambre, 02 juillet 2026, 24BX00235",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEBORDEAUX-20260702-24BX00235",
+      "author": "3ème chambre",
+      "published": "2026-07-02T12:00:00",
+      "summary": "Vu les procédures suivantes :           Procédure contentieuse antérieure :           Mme H... C... a demandé au tribunal administratif de La Réunion d'annuler la décision du 9 mars 2021 par laquelle le préfet de La Réunion a accordé à M. F... D... une autorisation d'exploiter la parcelle cadastrée 13ZA0024, située sur la commune de Saint-Leu, et de condamner l'Etat à lui verser la somme de 10 000 euros en réparation des préjudices qu'elle estime avoir subis.           Par un jugement n° 2100582",
+      "score": 30,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "403bb933fee72d1d",
@@ -6612,24 +6630,6 @@
       "ai_summary": "Les entreprises brésiliennes doivent renforcer leur conformité pour gérer les risques liés aux désignations terroristes américaines."
     },
     {
-      "hash": "c0f0d4281e6e7d89",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, 2ème chambre, 02 juillet 2026, 508169",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260702-508169",
-      "author": "2ème chambre",
-      "published": "2026-07-02T12:00:00",
-      "summary": "Vu la procédure suivante :                M. C... B... et Mme A... B... ont demandé au juge des référés du tribunal administratif de Melun, statuant sur le fondement de l'article L. 521-3 du code de justice administrative, d'enjoindre au préfet du Val-de-Marne de leur fixer un rendez-vous en vue du dépôt d'une demande de titre de séjour, et à titre subsidiaire, pour le renouvellement de leurs autorisations provisoires de séjour. Par une ordonnance n° 2511105 du 4 août 2025, le juge des référés d",
-      "score": 24,
-      "score_breakdown": "+20 Géo FR: france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "18090426cc583d4f",
       "source_name": "Cass. - Bancaire",
       "source_type": "rss",
@@ -6808,24 +6808,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Évaluation des risques de crédit liés aux prix énergétiques et tarifs, et gestion de la résilience cyber des banques."
-    },
-    {
-      "hash": "0c4c3fbeeabdfa8e",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "In an uncertain risk environment, financial conglomeratesface more complex, interconnected risks than stand-alone banks – they must step up governance, resilience and communication to cope with the challenges, says Supervisory Board member Anneli Tuominen",
-      "url": "https://x.com/ecb/status/2062812650585694554",
-      "author": "@ecb",
-      "published": "2026-06-05T08:23:00",
-      "summary": "In an uncertain risk environment, financial conglomeratesface more complex, interconnected risks than stand-alone banks – they must step up governance, resilience and communication to cope with the challenges, says Supervisory Board member Anneli Tuominen  bankingsupervision.europa.eu…— European Central Bank (@ecb) Jun 5, 2026",
-      "score": 22,
-      "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la gouvernance et la résilience des conglomérats financiers face aux risques interconnectés, enjeux clés de la conformité."
     },
     {
       "hash": "bbc7c721fb16e6ea",
@@ -7257,7 +7239,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5cf80fd9aefe73b5",
@@ -7725,7 +7707,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "054a322f49ecbeb1",
@@ -7960,27 +7942,9 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Un ancien officiel hondurien condamné pour corruption illustre l'importance de la conformité anticorruption dans les marchés publics."
-    },
-    {
-      "hash": "9fc3d66f12c5b331",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "CGU chief calls out “hypocrisy” in US analysis of Brazil anti-corruption efforts&nbsp;",
-      "url": "https://globalinvestigationsreview.com/article/cgu-chief-calls-out-hypocrisy-in-us-analysis-of-brazil-anti-corruption-efforts",
-      "author": "Ana de Liz",
-      "published": "2026-06-05T08:21:29",
-      "summary": "",
-      "score": 4,
-      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte anti-corruption brésilienne et de son évaluation internationale."
     }
   ],
-  "last_update": "2026-07-05T04:37:22.742642+00:00",
+  "last_update": "2026-07-05T08:41:26.353080+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
