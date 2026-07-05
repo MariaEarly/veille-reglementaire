@@ -1087,24 +1087,6 @@
       "ai_summary": "Cet article traite de la conformité réglementaire des technologies utilisées pour sélectionner les clients, un enjeu majeur de compliance financière."
     },
     {
-      "hash": "2b245970c47536d4",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 7 mai 2026 modifiant l'arrêté du 8 mars 2024 portant application des articles L. 712-4, L. 712-10, L. 773-43, L. 774-43 et L. 775-37 du code monétaire et financier en matière de mesures restrictives à Saint-Barthélemy, à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054200175",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-06-05T00:00:00",
-      "summary": "Article 1L'article 1er de l'arrêté du 8 mars 2024 susvisé est complété par les dispositions suivantes :« 48° Le règlement (UE) 2024/386 du Conseil du 19 janvier 2024 ;« 49° Le règlement (UE) 2024/1485 du Conseil du 24 mai 2024 ;« 50° Le règlement (UE) 2024/2642 du Conseil du 8 octobre 2024. »Article 2L'article 3 du même arrêté est remplacé par les dispositions suivantes :« Art. 3. - Le présent arrêté est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna d",
-      "score": 90,
-      "score_breakdown": "+10 mots forts: code monétaire | +5 mots moyens: règlement | +25 Source FR | +20 Géo FR: français, française, code monétaire | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet arrêté concerne l'application de mesures restrictives financières et de sanctions dans les collectivités françaises."
-    },
-    {
       "hash": "4482ee6f967de548",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -1193,6 +1175,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les sanctions OFAC contre les échanges crypto iraniens obligent les entités US à vérifier et bloquer les transactions avec les entités désignées."
+    },
+    {
+      "hash": "b55d9c24b568d8c3",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 3 juillet 2026 portant application des articles L. 562-2 et suivants du code monétaire et financier",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054388426",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-07-05T00:00:00",
+      "summary": "Article Par arrêté du ministre de l'intérieur et du ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique en date du 3 juillet 2026, vu le code monétaire et financier, notamment ses articles L. 562-2 et suivants, les fonds et ressources économiques qui appartiennent à, sont possédés, détenus ou contrôlés par l'association « Assalam », déclarée le 6 avril 2010 à la préfecture de l'Isère (38) sous le numéro W381009783, ainsi que les fonds et ressources é",
+      "score": 82,
+      "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: code monétaire | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet arrêté applique la lutte contre le financement du terrorisme et du blanchiment d'argent en définissant les fonds et ressources économiques soumis à gels."
     },
     {
       "hash": "0bd928518db4d167",
@@ -1840,7 +1840,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des directives sur le suivi continu des relations commerciales dans le cadre de la lutte contre le blanchiment d'argent et le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur les directives de surveillance continue des relations commerciales dans le cadre anti-blanchiment de l'UE."
     },
     {
       "hash": "d36cf40a049021b8",
@@ -1967,24 +1967,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la fraude aux paiements en Europe selon le rapport 2025 de la BCE et de l'EBA, un enjeu majeur de conformité financière."
-    },
-    {
-      "hash": "765d98b48f833f97",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Rechercher | Autorité de contrôle prudentiel et de résolution - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQWDlDd3dZRkF6WHl3U3hVTEVmMWRlcnhmQlV4bnJKMDVJXzUxRDFCOUxXZGNuMWFRM3dLX25iU3hGbjh0YjlFc1VYXzBXSnhiSXJVNU12TXNaLVNlaXROTUdZbmMwOTRfWmpJVF9md0J2Y1NLdUFab2t4MVZwcFFEVmRReTVhNDN3Z2lBcHh2b0VobUlhRGpqZG8yM1BBaUVLbVkzTUZyNmFOQWJIdUNlZFJoR2JKUVl5SlFsTW5KdTFwZjdDRXpPWHFKOHFLLVdvWTJrNDktbFN6eDA1ODY1YTJMZENJbWc3NV9jZlBDQ295MW9HWmFnSUc1OENVY3dzcmRBLXRPWFFtUVZWRlV6c1BPVWQzdk9CNEJUdHZPbldwYjg4NVpEcG5MUzcxZ2UwWm5CR252c2lMSGctd3VULXc5THFfbFdUM2VPSGxSbUhDRXdheXFhcmVkckRnV085eXh6dG0xb1JzZEZZZXc?oc=5",
-      "author": "",
-      "published": "2026-06-04T19:12:02",
-      "summary": "Rechercher | Autorité de contrôle prudentiel et de résolution&nbsp;&nbsp;Banque de France",
-      "score": 72,
-      "score_breakdown": "+10 mots forts: contrôle prudentiel | +5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'ACPR supervise la conformité prudentielle et réglementaire des établissements financiers."
     },
     {
       "hash": "45b771a36e86cf71",
@@ -2959,6 +2941,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du respect des contrôles AML et sanctions par une banque turque."
     },
     {
+      "hash": "e693732fe9203a76",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "View PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11dFFQb1V5dGpxWFFHdWVkNFJhMXdXMFlYRG1KUkdhNWdCX1dxTlBmeTJYeXE5X1M5UHlJUk5qeG1vSnJqdnNibGE2SnRYOUgwMVFua1F1dlZDdEQ2RzNnRUNNZVh0QQ?oc=5",
+      "author": "",
+      "published": "2026-07-03T14:55:52",
+      "summary": "View PDF&nbsp;&nbsp;Banque de France",
+      "score": 60,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "80f958c786ad1fcb",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -3406,7 +3406,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction disciplinaire pécuniaire imposée à un agent du Sénat français."
     },
     {
       "hash": "2a24a6ee7ad81c37",
@@ -3767,6 +3767,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la simplification des exigences de divulgation Pilier 3 pour les petites banques."
+    },
+    {
+      "hash": "e019aaa9c7386edb",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "MUTUELLES DU PAYS HAUT - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5naXNySmFSUjRSTGtvSVpDU2M5OFM1aW0xMXVWVWxER3FiX1IyU0VmZUtRTEh5X3pMYnNJQ2tBSm8xV1BHY2lGbW1vbGN5WXd3bmxoWXFPR3Q?oc=5",
+      "author": "",
+      "published": "2026-07-02T01:38:55",
+      "summary": "MUTUELLES DU PAYS HAUT&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "d3e562068fcc98c8",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Vue PDF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HcU1iYUFfbDNTZS1RMVUtUEU3eDg5b1h4M2tQN1JBR3luNVZlMjVEemtzUlJpakt6a2dGWFRwYzMycFJ2N0s3bkRvMG5KdVJveUJxdS1HLWtFd0J0X0V3b1haSFVidw?oc=5",
+      "author": "",
+      "published": "2026-07-01T21:25:27",
+      "summary": "Vue PDF&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "3c6a0d25edce6fea",
@@ -6196,7 +6232,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "273f63ac34306918",
@@ -6591,7 +6627,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "18090426cc583d4f",
@@ -6844,24 +6880,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite d'un dossier de fraude et corruption impliquant un homme d'affaires indien."
-    },
-    {
-      "hash": "c497e586fa2f5e26",
-      "source_name": "FinCEN",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "FinCEN Issues Joint Advisory on Non-Work Authorized Populations and Their Employers and Risks to the Integrity of the U.S. Financial System",
-      "url": "https://www.fincen.gov/news/news-releases/fincen-issues-joint-advisory-non-work-authorized-populations-and-their-employers",
-      "author": "",
-      "published": "2026-06-05T00:00:00",
-      "summary": "",
-      "score": 19,
-      "score_breakdown": "+5 mots moyens: risk | +5 Source Intl | +3 Géo Intl: fincen | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre le blanchiment d'argent et la fraude financière impliquant des populations non autorisées à travailler."
     },
     {
       "hash": "dba1e21f2183f848",
@@ -7239,7 +7257,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5cf80fd9aefe73b5",
@@ -7674,24 +7692,6 @@
       "ai_summary": "Cet article concerne les sanctions contre l'Iran et les listes de désignation terroriste, essentielles pour la conformité aux réglementations OFAC."
     },
     {
-      "hash": "c5772c27be90a48d",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "DOJ adviser tests limits of role with contentious calls",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/doj-adviser-tests-limits-of-role-contentious-calls",
-      "author": "Gaspard Le Dem,Mark Taylor",
-      "published": "2026-07-01T21:34:02",
-      "summary": "Trent McCotter has emerged as a central player in some of the DOJ’s most controversial decisions, including dropping the Adani bribery case. Former officials say his hands-on role in litigation breaks with long-standing norms and deepens concerns about political influence.",
-      "score": 7,
-      "score_breakdown": "+3 Presse | +3 Géo Intl: doj | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "8897b62f93c9ec05",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7708,6 +7708,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Un juge fédéral demande au ministère américain de justifier le retrait des accusations de corruption contre Adani, relevant un défaut de transparence."
+    },
+    {
+      "hash": "c5772c27be90a48d",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "DOJ adviser tests limits of role with contentious calls",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/doj-adviser-tests-limits-of-role-contentious-calls",
+      "author": "Gaspard Le Dem,Mark Taylor",
+      "published": "2026-07-01T21:34:02",
+      "summary": "Trent McCotter has emerged as a central player in some of the DOJ’s most controversial decisions, including dropping the Adani bribery case. Former officials say his hands-on role in litigation breaks with long-standing norms and deepens concerns about political influence.",
+      "score": 6,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: doj | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "054a322f49ecbeb1",
@@ -7962,7 +7980,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte anti-corruption brésilienne et de son évaluation internationale."
     }
   ],
-  "last_update": "2026-07-04T19:42:51.607391+00:00",
+  "last_update": "2026-07-05T02:04:47.228294+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
