@@ -580,7 +580,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'AMF renforce son rôle de supervision des crypto-actifs avec la fin de la transition vers MiCA, assurant la conformité réglementaire européenne des acteurs du secteur."
+      "ai_summary": "L'article concerne la conformité financière car il traite de la transition réglementaire des crypto-actifs sous MiCA et du rôle de supervision de l'AMF."
     },
     {
       "hash": "6329440922f9bc80",
@@ -1825,6 +1825,42 @@
       "ai_summary": "L'ACPR supervise la conformité réglementaire des banques et assurances avec les normes financières en vigueur."
     },
     {
+      "hash": "30206aa85767586a",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "​The EBA publishes 2025 loss data for immovable property markets under Article 430a of the Capital Requirements Regulation",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-2025-loss-data-immovable-property-markets-under-article-430a-capital-requirements",
+      "author": "Jana Jaklic",
+      "published": "2026-07-06T12:22:58",
+      "summary": "​The European Banking Authority (EBA) today published its annual dataset on losses and exposures for residential and commercial immovable property across the European Union and European Economic Area for 2025, in line with Article 430a(3) of the Capital Requirements Regulation (CRR). The publication provides a centralised and harmonised source of data on losses and exposures relating to residential and commercial immovable property across the EU/EEA. The data are drawn from supervisory reporting",
+      "score": 75,
+      "score_breakdown": "+10 mots forts: eba | +15 mots moyens: regulation, supervisory, bank | +15 Source EU | +10 Géo EU: european union, eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "21ee1c8d1df44649",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Press Release: AMLA concludes public hearing on draft guidelines on ongoing monitoring of business relationships",
+      "url": "https://www.amla.europa.eu/press-release-amla-concludes-public-hearing-draft-guidelines-ongoing-monitoring-business_en",
+      "author": "",
+      "published": "2026-07-06T11:28:20",
+      "summary": "On 2 July 2026, AMLA held a public hearing on the guidelines on ongoing monitoring of a business relationship, an important milestone in developing the EU's new AML/CFT framework and the risk-based approach.",
+      "score": 75,
+      "score_breakdown": "+20 mots forts: aml, cft, amla | +5 mots moyens: risk | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": "COMMUNIQUÉ",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "5c19deb2dfa035fa",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -2291,6 +2327,60 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne l'échange de bonnes pratiques entre le PNF et les JIRS en matière de lutte contre la criminalité financière."
+    },
+    {
+      "hash": "32bb2821e60273c0",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Press Release: AMLA launches public consultation on common format for reporting suspicions",
+      "url": "https://www.amla.europa.eu/press-release-amla-launches-public-consultation-common-format-reporting-suspicions_en",
+      "author": "",
+      "published": "2026-07-06T11:26:36",
+      "summary": "A common reporting format for a united fight against financial crime: AMLA is inviting views on draft standards that harmonise how companies and professionals report suspicions across the EU.",
+      "score": 67,
+      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": "COMMUNIQUÉ",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "8eb951f96b355fd6",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Press Release: AMLA finalises common formats for FIU cooperation and reporting to the EPPO",
+      "url": "https://www.amla.europa.eu/press-release-amla-finalises-common-formats-fiu-cooperation-and-reporting-eppo_en",
+      "author": "",
+      "published": "2026-07-06T11:26:28",
+      "summary": "AMLA has finalised three sets of standards that will help financial intelligence move across the EU faster and more consistently.&nbsp;",
+      "score": 67,
+      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": "COMMUNIQUÉ",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "21b8f3f6183f508f",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Press Release: AMLA consults on clear rules for cross-border FIU information exchanges",
+      "url": "https://www.amla.europa.eu/press-release-amla-consults-clear-rules-cross-border-fiu-information-exchanges_en",
+      "author": "",
+      "published": "2026-07-06T11:22:30",
+      "summary": "Cross-border information sharing between FIUs is set to become harmonised and more reliable. AMLA is inviting views on draft standards that will decide when a suspicious activity report concerns another EU country and should be shared with that country's Financial Intelligence Unit (FIU).",
+      "score": 67,
+      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": "COMMUNIQUÉ",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -3571,6 +3661,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des Q&As de l'EBA sur l'évaluation d'obstacles dans les parcours de redirection bancaire."
     },
     {
+      "hash": "5688d91b29b40395",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "💡What comes next for banking regulation? At the recent Risk Live Europe conference, Guillaume OLIVIER, Senior Policy Expert at the...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7479837649365606400",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-07-06T10:04:24",
+      "summary": "💡What comes next for banking regulation?\n\nAt the recent Risk Live Europe conference, Guillaume OLIVIER, Senior Policy Expert at the EBA, shared a key message: the priority today is not a regulatory reset, but making a strong framework work even better.\n\n🌍Fifteen years after the Global Financial Crisis, European banks are resilient, profitable and well-capitalised. The challenge now is to ensure that the entire regulatory architecture works coherently and that the various European authorities wor",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: eba | +15 mots moyens: risk, regulation, bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "b044f8c23baa817d",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -3803,6 +3911,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la supervision réglementaire d'AXA France Vie par l'autorité de contrôle prudentiel compétente."
+    },
+    {
+      "hash": "486d461a3e123afc",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "BFM Crypto, le Club : Binance, analyse de l'exode des utilisateurs – 06/07",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/bfm-crypto-le-club-binance-analyse-de-l-exode-des-utilisateurs-06-07_EN-202607060574.html",
+      "author": "",
+      "published": "2026-07-06T13:41:01",
+      "summary": "Lundi 6 juillet, l'expérience des utilisateurs de Binance par rapport à leur exode, la disparition du statut PSAN en Europe, l'impact de l'agrément MiCA sur les plateformes, et la nouvelle offre de cryptos d'Hexarq. ont été abordés par Tangi Le Calvez, fondateur de Goin, Stéphanie Nemarq-Attias, avocate fiscaliste et fondatrice du cabinet Qomit, Jérémy Stevance, expert comptable, et Pauline Armandet, journaliste BFM Business, reçus par Sandra Gandoin dans l'émission BFM Crypto, le Club sur BFM B",
+      "score": 49,
+      "score_breakdown": "+20 mots forts: mica, psan, crypto | +3 Presse | +10 Géo EU: mica | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "8220bc54880bae65",
+      "source_name": "ComplyAdvantage",
+      "source_type": "press",
+      "category": "presse",
+      "title": "How to build effective AML risk scoring models",
+      "url": "https://complyadvantage.com/insights/how-to-build-effective-aml-risk-scoring-models/",
+      "author": "Audrey Langevin",
+      "published": "2026-07-06T12:48:46",
+      "summary": "When your alert queues grow faster than your team&#8217;s capacity, real risk can hide in the noise. The problem usually starts earlier than analysts realize: poor data quality costs organizations an average of $12.9 million per year. When your anti-money [&#8230;]\nThe post How to build effective AML risk scoring models appeared first on ComplyAdvantage.",
+      "score": 49,
+      "score_breakdown": "+20 mots forts: aml, anti-money | +10 mots moyens: risk, ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "d90bd5952d1e9f50",
@@ -4180,7 +4324,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du renforcement des dispositifs de signalement des infractions financières via Tracfin."
     },
     {
       "hash": "ffc93cd8ae41df24",
@@ -6088,7 +6232,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "403bb933fee72d1d",
@@ -6141,7 +6285,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les réformes de supervision bancaire européenne améliorent la conformité par la simplification des tests de stress et des inspections."
     },
     {
       "hash": "d85247b2137479f2",
@@ -6214,6 +6358,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'amélioration des outils de vérification des sanctions OFAC."
+    },
+    {
+      "hash": "57f0bfec43990e5f",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "CMMC Cybersecurity Rules Are Rolling Into Defense Contracts",
+      "url": "https://www.corporatecomplianceinsights.com/cmmc-cybersecurity-rules-rolling-into-defense-contracts/",
+      "author": "Ambika Biggs",
+      "published": "2026-07-06T11:00:58",
+      "summary": "An inaccurate self-certification can expose defense contractors to False Claims Act liability, including treble damages and whistleblower suits\nThe post CMMC Cybersecurity Rules Are Rolling Into Defense Contracts appeared first on Corporate Compliance Insights.",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "d6f5e56eadae7d70",
@@ -6447,7 +6609,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "18090426cc583d4f",
@@ -6502,6 +6664,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision macroprudentielle, élément clé de la régulation bancaire et financière."
+    },
+    {
+      "hash": "001c3811c13a8cf8",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Austrac mandates overhaul of AML controls at British gambling company",
+      "url": "https://globalinvestigationsreview.com/article/austrac-orders-british-gambling-company-overhaul-aml-controls",
+      "author": "Grace Propheta",
+      "published": "2026-07-06T09:14:40",
+      "summary": "",
+      "score": 24,
+      "score_breakdown": "+10 mots forts: aml | +3 Presse | +3 Géo Intl: austrac | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "c9d37c00e678c320",
@@ -6684,6 +6864,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'un dossier de fraude et corruption impliquant un homme d'affaires indien."
     },
     {
+      "hash": "6d15076a456392e9",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "UK proposes corporate financial penalties for Modern Slavery Act non-compliance",
+      "url": "https://globalinvestigationsreview.com/article/uk-proposes-corporate-financial-penalties-modern-slavery-act-noncompliance",
+      "author": "Grace Propheta",
+      "published": "2026-07-06T09:56:11",
+      "summary": "",
+      "score": 19,
+      "score_breakdown": "+10 mots forts: compliance | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "01750d3c0d8eb18c",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -6691,7 +6889,7 @@
       "title": "Le détricotage des réglementations chimiques européennes inquiète des organisations de la société civile",
       "url": "https://www.lemonde.fr/les-decodeurs/article/2026/07/06/le-detricotage-des-reglementations-chimiques-europeennes-inquiete-des-organisations-de-la-societe-civile_6720919_4355770.html",
       "author": "",
-      "published": "2026-07-05T22:01:10",
+      "published": "2026-07-05T22:01:09",
       "summary": "L’initiative « Alliance pour les produits chimiques critiques » de la Commission européenne pousse plus loin encore la dérégulation, selon un rapport des ONG Corporate Europe Observatory et European Environmental Bureau.",
       "score": 19,
       "score_breakdown": "+3 Presse | +10 Géo EU: commission européenne | ×1.5 (<24h)",
@@ -6699,7 +6897,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "dba1e21f2183f848",
@@ -7077,7 +7275,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "5cf80fd9aefe73b5",
@@ -7527,7 +7725,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "054a322f49ecbeb1",
@@ -7746,7 +7944,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'effondrement des architectures anti-corruption au Mexique."
     }
   ],
-  "last_update": "2026-07-06T11:10:16.177023+00:00",
+  "last_update": "2026-07-06T15:00:15.422092+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
