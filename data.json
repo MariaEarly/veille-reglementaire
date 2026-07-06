@@ -565,6 +565,24 @@
   ],
   "items": [
     {
+      "hash": "cc56a8cacd895d7d",
+      "source_name": "AMF - Actualités",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Crypto-actifs : la fin de la période de transition entre la loi Pacte et le règlement européen MiCA consacre un nouveau rôle pour l'AMF",
+      "url": "https://www.amf-france.org/fr/actualites-publications/communiques/communiques-de-lamf/crypto-actifs-la-fin-de-la-periode-de-transition-entre-la-loi-pacte-et-le-reglement-europeen-mica#xts=607212&xtor=RSS-3&type=RSS",
+      "author": "",
+      "published": "2026-07-06T08:20:04",
+      "summary": "Communiqué AMF                  MiCA                    Crypto-actifs : la fin de la période de transition entre la loi Pacte et le règlement européen MiCA consacre un nouveau rôle pour l&#039;AMF",
+      "score": 100,
+      "score_breakdown": "+20 mots forts: amf, mica, crypto | +5 mots moyens: règlement | +25 Source FR | +20 Géo FR: amf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "L'AMF renforce son rôle de supervision des crypto-actifs avec la fin de la transition vers MiCA, assurant la conformité réglementaire européenne des acteurs du secteur."
+    },
+    {
       "hash": "6329440922f9bc80",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -815,6 +833,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les appels à vigilance de Tracfin alertent les professionnels sur les risques de blanchiment de capitaux et financement du terrorisme avant suspicion."
+    },
+    {
+      "hash": "47888ca714b594e5",
+      "source_name": "CNIL",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "La CNIL a prononcé 23 nouvelles sanctions depuis janvier au titre de la procédure simplifiée",
+      "url": "https://www.cnil.fr/fr/23-nouvelles-sanctions-simplifiees",
+      "author": "CNIL",
+      "published": "2026-07-06T12:00:00",
+      "summary": "Vidéosurveillance excessive, cookies, non-respect des droits des personnes ou encore défaut de coopération avec la CNIL&amp;nbsp;: depuis janvier 2026, 23 nouvelles sanctions ont été prononcées dans le cadre de la procédure simplifiée, dont 19 ont pour origine des plaintes.",
+      "score": 97,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: cnil | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f03af1d403ec94ef",
@@ -4129,6 +4165,24 @@
       "ai_summary": "Cet article concerne la gestion des risques fiscaux et leurs impacts sur la stabilité financière, domaines clés de la conformité réglementaire."
     },
     {
+      "hash": "373576c78a63b70f",
+      "source_name": "Tracfin (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "#Évolution | Les lanceurs d'alerte peuvent désormais s’adresser à Tracfin. Depuis le 1er juillet 2026, en application de la loi «...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7479812431691763712",
+      "author": "Tracfin",
+      "published": "2026-07-06T08:24:12",
+      "summary": "#Évolution | Les lanceurs d'alerte peuvent désormais s’adresser à Tracfin.\nDepuis le 1er juillet 2026, en application de la loi « Narcotrafic », Tracfin peut recevoir et traiter les signalements réalisés par des lanceurs d'alerte. Une évolution notable de la loi « Sapin 2 » qui permet au service de renseignement de Bercy d’accéder à de nouvelles sources d’informations.\n\n❓ Qui peut être lanceur d'alerte ?\n Toute personne physique qui, de bonne foi, signale des faits ou des informations dont elle ",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: tracfin | +20 Géo FR: tracfin | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "ffc93cd8ae41df24",
       "source_name": "AMF France (X)",
       "source_type": "rss",
@@ -6034,7 +6088,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "403bb933fee72d1d",
@@ -6070,6 +6124,24 @@
       "early_brief": false,
       "ai_summary": "La coopération internationale entre unités de renseignement financier renforce la lutte contre le blanchiment et le financement du terrorisme.",
       "score": 30
+    },
+    {
+      "hash": "155a3a63965db784",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "European banking supervision reforms are starting to deliver tangible benefits, write Sharon Donnery and Patrick Amis in The Supervision Blog. We’re streamlining stress testing, reporting templates, on-site inspections, supervisory guidance and more",
+      "url": "https://x.com/ecb/status/2074059930038866390",
+      "author": "@ecb",
+      "published": "2026-07-06T09:16:00",
+      "summary": "European banking supervision reforms are starting to deliver tangible benefits, write Sharon Donnery and Patrick Amis in The Supervision Blog.We’re streamlining stress testing, reporting templates, on-site inspections, supervisory guidance and more  bankingsupervision.europa.eu…— European Central Bank (@ecb) Jul 6, 2026",
+      "score": 30,
+      "score_breakdown": "+10 mots forts: aml | +10 mots moyens: supervisory, bank | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "d85247b2137479f2",
@@ -6375,7 +6447,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "18090426cc583d4f",
@@ -6627,7 +6699,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "dba1e21f2183f848",
@@ -7005,7 +7077,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "5cf80fd9aefe73b5",
@@ -7455,7 +7527,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "054a322f49ecbeb1",
@@ -7674,7 +7746,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'effondrement des architectures anti-corruption au Mexique."
     }
   ],
-  "last_update": "2026-07-06T04:48:21.806237+00:00",
+  "last_update": "2026-07-06T09:57:11.352669+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
