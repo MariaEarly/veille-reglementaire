@@ -835,24 +835,6 @@
       "ai_summary": "Les appels à vigilance de Tracfin alertent les professionnels sur les risques de blanchiment de capitaux et financement du terrorisme avant suspicion."
     },
     {
-      "hash": "47888ca714b594e5",
-      "source_name": "CNIL",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "La CNIL a prononcé 23 nouvelles sanctions depuis janvier au titre de la procédure simplifiée",
-      "url": "https://www.cnil.fr/fr/23-nouvelles-sanctions-simplifiees",
-      "author": "CNIL",
-      "published": "2026-07-06T12:00:00",
-      "summary": "Vidéosurveillance excessive, cookies, non-respect des droits des personnes ou encore défaut de coopération avec la CNIL&amp;nbsp;: depuis janvier 2026, 23 nouvelles sanctions ont été prononcées dans le cadre de la procédure simplifiée, dont 19 ont pour origine des plaintes.",
-      "score": 97,
-      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: cnil | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "f03af1d403ec94ef",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -1681,6 +1663,24 @@
       "ai_summary": "Bourse Direct et sa dirigeante sanctionnées pour manquement aux obligations de déclaration auprès de l'AMF, enjeu central de conformité réglementaire."
     },
     {
+      "hash": "47888ca714b594e5",
+      "source_name": "CNIL",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "La CNIL a prononcé 23 nouvelles sanctions depuis janvier au titre de la procédure simplifiée",
+      "url": "https://www.cnil.fr/fr/23-nouvelles-sanctions-simplifiees",
+      "author": "CNIL",
+      "published": "2026-07-06T12:00:00",
+      "summary": "Vidéosurveillance excessive, cookies, non-respect des droits des personnes ou encore défaut de coopération avec la CNIL&amp;nbsp;: depuis janvier 2026, 23 nouvelles sanctions ont été prononcées dans le cadre de la procédure simplifiée, dont 19 ont pour origine des plaintes.",
+      "score": 78,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: cnil | ×1.2 (<3d)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
       "hash": "acece60b487737cc",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -1822,7 +1822,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur les lignes directrices de suivi continu des relations commerciales dans le cadre AML/CFT européen."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des directives de surveillance continue des relations commerciales dans le cadre réglementaire anti-blanchiment européen."
     },
     {
       "hash": "5c19deb2dfa035fa",
@@ -2257,6 +2257,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la macroprudence et de la mesure des vulnérabilités du système financier français."
     },
     {
+      "hash": "6dcda5b4f1ad1fe6",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "​The EBA publishes final Guidelines on the authorisation of third-country branches under the Capital Requirements Directive",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-final-guidelines-authorisation-third-country-branches-under-capital-requirements",
+      "author": "Jana Jaklic",
+      "published": "2026-07-07T13:41:26",
+      "summary": "​The European Banking Authority (EBA) today published its final Guidelines on authorisation of third-country credit institutions to set-up a third-country branch (TCB) in a Member State. These Guidelines were mandated by the Capital Requirements Directive (CRD6) which introduced a new regime for TCBs and contribute to the harmonised access to the EU market for banking services.",
+      "score": 67,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: directive, bank | +15 Source EU | +10 Géo EU: eba, member state | ×1.5 (<24h)",
+      "doc_type": "GUIDELINES",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "32bb2821e60273c0",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -2308,7 +2326,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des règles d'échange d'informations transfrontalières entre unités de renseignement financier pour la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges d'informations transfrontaliers entre les unités de renseignement financier pour la lutte contre le blanchiment de capitaux."
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -3334,7 +3352,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "782afc3f31c059ad",
@@ -3352,7 +3370,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il révèle un schéma de corruption et blanchiment d'argent impliquant Odebrecht, directement lié aux obligations de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il révèle un stratagème de blanchiment d'argent et de corruption impliquant une banque autrichienne et Odebrecht."
     },
     {
       "hash": "5e5a3ebf00195c2f",
@@ -3913,6 +3931,24 @@
       "ai_summary": "Cet article concerne la supervision réglementaire d'AXA France Vie par l'autorité de contrôle prudentiel compétente."
     },
     {
+      "hash": "cbe29cdf271b24d2",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "BFM Crypto, le Club : MiCA, un changement de modèle ? – 07/07",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/bfm-crypto-le-club-mi-ca-un-changement-de-modele-07-07_EN-202607070609.html",
+      "author": "",
+      "published": "2026-07-07T13:35:34",
+      "summary": "Ce mardi 7 juillet, l'agrément MiCA en tant que tournant critique pour les plateformes cryptos, la question du changement de modèle avec ce processus de mise en conformité, le bitcoin restant sous les 65 000 dollars, ainsi que l'ESMA se prononçant sur les marchés prédictifs en Europe, ont été abordés par Jonathan Herscovici, fondateur de StackInSat, Marc Lécorché, président et cofondateur de Qwarks, Grégory Raymond, cofondateur de The Big Whale, et Pierre d’Ormesson, partner chez DLA Piper, reçu",
+      "score": 49,
+      "score_breakdown": "+20 mots forts: conformité, mica, crypto | +3 Presse | +10 Géo EU: esma, mica | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "486d461a3e123afc",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -4198,7 +4234,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la violation de sanctions et de la coopération judiciaire dans une affaire d'évasion de sanctions."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation de sanctions et des obligations de respect des règles de conformité financière."
     },
     {
       "hash": "b2ff8cd3deec968c",
@@ -5299,6 +5335,24 @@
       "ai_summary": "Cet article concerne la conformite financiere car l'UE impose un gel des avoirs et des sanctions financieres contre des personnes et entites listees."
     },
     {
+      "hash": "201c9d80424d2544",
+      "source_name": "FSB - Financial Stability Board",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Opening remarks on sound practices for artificial intelligence",
+      "url": "https://www.fsb.org/2026/07/opening-remarks-on-sound-practices-for-artificial-intelligence/",
+      "author": "",
+      "published": "2026-07-07T11:07:12",
+      "summary": "In her remarks, Michelle W. Bowman, Chair of the FSB Standing Committee on Supervisory and Regulatory Cooperation (SRC), discusses the FSB’s Consultation Report on the Sound Practices for Responsible Adoption of Artificial Intelligence.",
+      "score": 37,
+      "score_breakdown": "+5 mots moyens: supervisory | +5 Source Intl | +15 IA×Finance: artificial intelligence+supervisory | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "88af495b9805fbc9",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -5369,6 +5423,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les rendements obligataires et l'incertitude monétaire sont critiques pour la gestion des risques financiers et la conformité réglementaire."
+    },
+    {
+      "hash": "da17ff57b3429b03",
+      "source_name": "EBA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📢EBA publishes 2025 EU/EEA property loss data under the CRR, supporting key regulatory treatments for residential & commercial real estate exposures. A positive step towards greater transparency and consistency across European property markets. 🔗More:",
+      "url": "https://x.com/EBA_News/status/2074435979843084576",
+      "author": "@EBA_News",
+      "published": "2026-07-07T10:10:00",
+      "summary": "📢EBA publishes 2025 EU/EEA property loss data under the CRR, supporting key regulatory treatments for residential & commercial real estate exposures.A positive step towards greater transparency and consistency across European property markets.🔗More:  link.europa.eu/dRnGQ8— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Jul 7, 2026",
+      "score": 37,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "60e4f4c2a8a327b9",
@@ -5659,6 +5731,24 @@
       "ai_summary": "Cet article concerne la conformité avec les régimes de sanctions internationales imposés à la Russie et à la Biélorussie."
     },
     {
+      "hash": "8b042a35ad974ee6",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Operationalizing the EU Anti-Corruption Directive: A Practical Roadmap for Compliance Teams",
+      "url": "https://www.corporatecomplianceinsights.com/operationalizing-eu-anti-corruption-directive/",
+      "author": "Jan Stappers",
+      "published": "2026-07-07T11:02:55",
+      "summary": " Functions assessing their programs vs. the new directive typically fall into three maturity stages with different priorities \nThe post Operationalizing the EU Anti-Corruption Directive: A Practical Roadmap for Compliance Teams appeared first on Corporate Compliance Insights.",
+      "score": 34,
+      "score_breakdown": "+10 mots forts: compliance | +10 mots moyens: directive, ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "2a7400942a73db3c",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -5666,15 +5756,15 @@
       "title": "Cuba, sous blocus pétrolier américain, s’efforce de rétablir son réseau électrique après une nouvelle panne générale",
       "url": "https://www.lemonde.fr/international/article/2026/07/07/cuba-sous-blocus-petrolier-americain-s-efforce-de-retablir-son-reseau-electrique-apres-une-nouvelle-panne-generale_6721252_3211.html",
       "author": "",
-      "published": "2026-07-07T01:50:55",
-      "summary": "Lundi, Cuba a dénoncé la volonté des Etats-Unis d’« empêcher » l’Assemblée générale de l’ONU de se prononcer mardi sur l’impact du blocus pétrolier et des autres sanctions imposées par Washington.",
+      "published": "2026-07-07T01:50:53",
+      "summary": "Lundi, La Havane a dénoncé la volonté des Etats-Unis d’« empêcher » l’Assemblée générale des Nations unies de se prononcer, mardi, sur l’impact du blocus et des autres sanctions imposées par Washington.",
       "score": 34,
       "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0084a941d0d53033",
@@ -6181,24 +6271,6 @@
       "ai_summary": "Cet article concerne les sanctions internationales et la conformité aux régimes restrictifs appliqués à la Corée du Nord par la communauté mondiale."
     },
     {
-      "hash": "70ec08848a22cf94",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Les armateurs grecs, plus puissants que jamais, défient les sanctions et la transition verte",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/07/les-armateurs-grecs-plus-puissants-que-jamais-defient-les-sanctions-et-la-transition-verte_6699000_3234.html",
-      "author": "",
-      "published": "2026-06-07T12:30:09",
-      "summary": "Malgré les sanctions internationales et la fermeture du détroit d’Ormuz, les armateurs grecs profitent de la hausse des prix et continuent de refuser tout encadrement supplémentaire de leurs activités",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne le respect des sanctions internationales et la conformité environnementale du secteur maritime grec."
-    },
-    {
       "hash": "4dcfa886357a4ced",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -6411,7 +6483,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "693cab76b4b86261",
@@ -6699,7 +6771,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "18090426cc583d4f",
@@ -6934,6 +7006,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne le contrôle administratif et réglementaire en matière environnementale/sanitaire, non spécifiquement la conformité financière."
+    },
+    {
+      "hash": "e0483bca84e46857",
+      "source_name": "ESMA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "ESMA publishes the register of external reviewers under the #EuGB Regulation. From 22 June 2026, all reviewers will be supervised by ESMA, supporting alignment with the EU Taxonomy and greater transparency. 🔗:  #SustainableFinance #GreenBonds",
+      "url": "https://x.com/ESMAComms/status/2069437188475929076",
+      "author": "@ESMAComms",
+      "published": "2026-06-23T15:07:00",
+      "summary": "ESMA publishes the register of external reviewers under the  #EuGB Regulation.From 22 June 2026, all reviewers will be supervised by ESMA, supporting alignment with the EU Taxonomy and greater transparency.🔗:  bit.ly/4xG73SF #SustainableFinance  #GreenBonds— ESMA - EU Securities Markets Regulator 🇪🇺 (@ESMAComms) Jun 23, 2026",
+      "score": 20,
+      "score_breakdown": "+10 mots forts: esma | +5 mots moyens: regulation | +10 Géo EU: esma | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "d25df8d26caef49e",
@@ -7347,7 +7437,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5cf80fd9aefe73b5",
@@ -7491,7 +7581,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire FCPA impliquant Gautam Adani et les priorités du DOJ en matière de corruption étrangère."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire FCPA (Foreign Corrupt Practices Act) contre Gautam Adani."
     },
     {
       "hash": "1ba96db55b8dae4b",
@@ -7815,7 +7905,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "054a322f49ecbeb1",
@@ -8034,7 +8124,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'effondrement des architectures anti-corruption au Mexique."
     }
   ],
-  "last_update": "2026-07-07T10:04:43.207396+00:00",
+  "last_update": "2026-07-07T14:08:05.548959+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
