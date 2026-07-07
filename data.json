@@ -1822,7 +1822,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des directives sur la surveillance continue des relations commerciales dans le cadre AML/CFT européen."
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur les lignes directrices de suivi continu des relations commerciales dans le cadre AML/CFT européen."
     },
     {
       "hash": "5c19deb2dfa035fa",
@@ -2308,7 +2308,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges d'informations entre unités de renseignement financier pour la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des règles d'échange d'informations transfrontalières entre unités de renseignement financier pour la lutte anti-blanchiment."
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -3319,6 +3319,24 @@
       "ai_summary": "Rencontre entre Tracfin et l'autorité qatarie pour établir une coopération en matière de lutte antifraude et conformité financière."
     },
     {
+      "hash": "22e255163a969b72",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "\"Un nombre d'opérations qui se réduit à quelques rares privilégiés\": les fintechs françaises ont levé 1,25 milliard d'euros au premier semestre, en hausse de 51% sur un an",
+      "url": "https://www.bfmtv.com/economie/entreprises/assurance-banque/un-nombre-d-operations-qui-se-reduit-a-quelques-rares-privilegies-les-fintechs-francaises-ont-leve-1-25-milliard-d-euros-au-premier-semestre-en-hausse-de-51-sur-un-an_AD-202607070310.html",
+      "author": "",
+      "published": "2026-07-07T07:21:43",
+      "summary": "Les trois principales opérations ont été réalisées par l'assureur spécialisé dans la santé Alan, l'éditeur de logiciels de comptabilité Pennylane et la société crypto Morpho.",
+      "score": 57,
+      "score_breakdown": "+10 mots forts: crypto | +5 mots moyens: fintech | +3 Presse | +20 Géo FR: français, française | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "782afc3f31c059ad",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3334,7 +3352,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il expose un schéma de corruption et blanchiment d'argent impliquant un banquier autrichien et Odebrecht."
+      "ai_summary": "Cet article concerne la conformité financière car il révèle un schéma de corruption et blanchiment d'argent impliquant Odebrecht, directement lié aux obligations de lutte anti-blanchiment."
     },
     {
       "hash": "5e5a3ebf00195c2f",
@@ -4180,7 +4198,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la violation de sanctions et de la coopération judiciaire dans une affaire d'évasion de sanctions."
     },
     {
       "hash": "b2ff8cd3deec968c",
@@ -5011,24 +5029,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de fraude détectée par une caisse d'assurance maladie."
     },
     {
-      "hash": "a2d2b68b3713ef58",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "C'est la troisième panne générale en six mois: Cuba est à nouveau privée d'électricité, alors que l'embargo américain sur le pétrole se poursuit",
-      "url": "https://www.bfmtv.com/economie/entreprises/energie/c-est-la-troisieme-panne-en-six-mois-cuba-est-a-nouveau-privee-d-electricite-alors-que-l-embargo-americain-sur-le-petrole-se-poursuit_AD-202607060747.html",
-      "author": "",
-      "published": "2026-07-06T17:08:34",
-      "summary": "Les coupures de courant, récurrentes en raison de la vétusté des infrastructures, se sont multipliées ces derniers mois depuis la mise en place par les États-Unis d'un blocus sur les livraisons de pétrole. ",
-      "score": 39,
-      "score_breakdown": "+20 mots critiques: embargo | +3 Presse | +3 Géo Intl: états-unis | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "21f3136f1a19b093",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -5674,24 +5674,6 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "4a303e8681d8406d",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Nouvelle panne électrique générale à Cuba, sous blocus pétrolier des Etats-Unis",
-      "url": "https://www.lemonde.fr/international/article/2026/07/06/nouvelle-panne-electrique-generale-a-cuba-sous-blocus-petrolier-des-etats-unis_6721252_3210.html",
-      "author": "",
-      "published": "2026-07-06T19:36:01",
-      "summary": "Lundi, Cuba a dénoncé la volonté des Etats-Unis d’« empêcher » l’Assemblée générale de l’ONU de se prononcer mardi sur l’impact du blocus pétrolier et des autres sanctions imposées par Washington.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
       "ai_summary": "Hors périmètre compliance"
     },
     {
@@ -5710,7 +5692,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des restrictions légales imposées aux sociétés chinoises, impactant leur capacité opérationnelle et leurs obligations réglementaires."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions commerciales et de l'accès aux marchés pour une entité désignée."
     },
     {
       "hash": "e935bd6b863ca212",
@@ -6414,6 +6396,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'amélioration des outils de vérification des sanctions OFAC."
     },
     {
+      "hash": "6249fca549d7657e",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Vente entre particuliers : comment vérifier la conformité d’un climatiseur avant de payer, lors d’une remise en main propre ?",
+      "url": "https://www.lemonde.fr/argent/article/2026/07/07/vente-entre-particuliers-comment-verifier-la-conformite-d-un-climatiseur-avant-de-payer-lors-d-une-remise-en-main-propre_6721422_1657007.html",
+      "author": "",
+      "published": "2026-07-07T06:00:13",
+      "summary": "La plateforme Leboncoin n’intervient plus si l’acheteur découvre un défaut après avoir déclenché le paiement.",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: conformité | +5 mots moyens: paiement | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "693cab76b4b86261",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -6429,7 +6429,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière en comparant les solutions de technologie compliance : scalabilité globale versus rapidité de mise à jour des données."
+      "ai_summary": "L'article traite du choix entre l'efficacité et la couverture mondiale des outils de conformité financière modernes."
     },
     {
       "hash": "57f0bfec43990e5f",
@@ -6699,7 +6699,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "18090426cc583d4f",
@@ -7347,7 +7347,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5cf80fd9aefe73b5",
@@ -7491,7 +7491,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire FCPA impliquant Gautam Adani et les priorités du DOJ en matière de corruption étrangère."
     },
     {
       "hash": "1ba96db55b8dae4b",
@@ -7815,7 +7815,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "054a322f49ecbeb1",
@@ -8034,7 +8034,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'effondrement des architectures anti-corruption au Mexique."
     }
   ],
-  "last_update": "2026-07-07T04:30:42.090179+00:00",
+  "last_update": "2026-07-07T09:24:55.753005+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
