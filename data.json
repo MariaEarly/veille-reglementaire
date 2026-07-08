@@ -1696,7 +1696,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article concerne la révision du SREP par l'ABE, renforçant la supervision prudentielle et la conformité réglementaire des banques."
     },
     {
       "hash": "acece60b487737cc",
@@ -1840,7 +1840,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière : AMLA finalise des directives sur la surveillance continue des relations commerciales dans le cadre AML/CFT."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des directives sur la surveillance continue des relations commerciales dans le cadre AML/CFT."
     },
     {
       "hash": "5c19deb2dfa035fa",
@@ -2113,6 +2113,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il évoque la nomination d'un ancien directeur de l'application des règles à la CFTC."
     },
     {
+      "hash": "90e25b3a80764606",
+      "source_name": "JORF - Sanctions",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décision n° 2026-142 du 2 juillet 2026 portant délégation de pouvoirs dans le cadre de la procédure de sanction applicable aux opérateurs de jeux d'argent et de hasard",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054395645",
+      "author": "Autorité nationale des jeux",
+      "published": "2026-07-08T00:00:00",
+      "summary": "Article 1Il est donné délégation au président de l'Autorité nationale des jeux, à compter du 13 juillet 2026, à l'effet, d'une part, d'exercer les attributions, mentionnées au deuxième alinéa du II de l'article 43 de la loi du 12 mai 2010 susvisée, visant à informer l'opérateur concerné des manquements qui lui sont imputés et des sanctions qu'il encourt, et à l'inviter à présenter ses observations en réponse et, d'autre part, d'exercer les attributions visant à transmettre des observations écrit",
+      "score": 67,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "9c83886d4eb5811f",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -2290,7 +2308,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA émet des alertes et orientations réglementaires que les établissements financiers doivent respecter."
+      "ai_summary": "L'EBA publie des directives finales sur la conformité réglementaire des banques face aux risques de cybersécurité liés à l'IA."
     },
     {
       "hash": "6dcda5b4f1ad1fe6",
@@ -2362,7 +2380,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges d'informations entre unités de renseignement financier pour la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges transfrontaliers d'informations entre unités de renseignement financier pour la lutte anti-blanchiment."
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -2722,7 +2740,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'autorisation réglementaire MiCA obligatoire pour les prestataires de cryptoactifs dans l'UE."
     },
     {
       "hash": "0e4aa9029c7278e5",
@@ -3334,7 +3352,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des risques cyber systémiques et de leur impact potentiel sur la stabilité du secteur financier supervisé."
     },
     {
       "hash": "d5f21774c6f45a83",
@@ -4000,7 +4018,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "cbe29cdf271b24d2",
@@ -4018,7 +4036,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article traite de la conformité MiCA pour les plateformes cryptographiques et de l'agrément réglementaire, constituant un changement de modèle majeur."
+      "ai_summary": "MiCA impose de nouvelles exigences réglementaires aux plateformes de crypto-monnaies, constituant un tournant critique pour leur conformité financière et leur modèle opérationnel."
     },
     {
       "hash": "486d461a3e123afc",
@@ -4306,7 +4324,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de contournement de sanctions et de coopération avec la justice dans un dossier de non-respect réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation de sanctions et de la coopération judiciaire dans une affaire d'évasion de sanctions."
     },
     {
       "hash": "b2ff8cd3deec968c",
@@ -5389,24 +5407,6 @@
       "ai_summary": "Cet article traite de la supervision bancaire et de la confiance dans le système financier, éléments clés de la conformité réglementaire."
     },
     {
-      "hash": "4fd954512c49",
-      "source_name": "Conseil de l'UE",
-      "source_type": "scrape",
-      "category": "autorite_eu",
-      "title": "Freedom of navigation in the Strait of Hormuz: EU lists two individuals and one entity",
-      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/08/freedom-of-navigation-in-the-strait-of-hormuz-eu-lists-two-individuals-and-one-entity/",
-      "author": "",
-      "published": "2026-06-08T00:00:00+00:00",
-      "summary": "The Council adopted restrictive measures against two individuals and one entity under the extended legal framework targeting those involved in Iran's actions threatening freedom of navigation in the Strait of Hormuz. Listed: the Hormozgan Provincial Command of the IRGC Navy (which screens vessels and enforces a transit toll system), Mohammad Akbarzadeh (Deputy Commander for Political Affairs of the IRGC Navy), and Hamid Hosseini (representative of Iran's Oil, Gas and Petrochemical Products Exporters' Union). An asset freeze and travel ban apply. The amended framework now covers 26 persons and 27 entities. Adopted via Council Decision (CFSP) 2026/1226 and Implementing Regulation 2026/1225 of 8 June 2026.",
-      "score": 37,
-      "score_breakdown": null,
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformite financiere car l'UE impose un gel des avoirs et des sanctions financieres contre des personnes et entites listees."
-    },
-    {
       "hash": "201c9d80424d2544",
       "source_name": "FSB - Financial Stability Board",
       "source_type": "rss",
@@ -5818,7 +5818,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article concerne la conformité financière car il traite du gel d'actifs et de sanctions contre une personne liée à une entité russe."
     },
     {
       "hash": "8b042a35ad974ee6",
@@ -5837,24 +5837,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la mise en conformité avec la directive anti-corruption de l'UE, un enjeu clé de la conformité financière et réglementaire."
-    },
-    {
-      "hash": "2a7400942a73db3c",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Cuba, sous blocus pétrolier américain, s’efforce de rétablir son réseau électrique après une nouvelle panne générale",
-      "url": "https://www.lemonde.fr/international/article/2026/07/07/cuba-sous-blocus-petrolier-americain-s-efforce-de-retablir-son-reseau-electrique-apres-une-nouvelle-panne-generale_6721252_3211.html",
-      "author": "",
-      "published": "2026-07-07T01:50:53",
-      "summary": "Lundi, La Havane a dénoncé la volonté des Etats-Unis d’« empêcher » l’Assemblée générale des Nations unies de se prononcer, mardi, sur l’impact du blocus et des autres sanctions imposées par Washington.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0084a941d0d53033",
@@ -6573,7 +6555,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "693cab76b4b86261",
@@ -6861,7 +6843,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "18090426cc583d4f",
@@ -7113,7 +7095,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'ESMA publie un registre de vérificateurs externes supervisés dès 2026 pour assurer la conformité avec la réglementation EU Green Bonds et la transparence financière."
+      "ai_summary": "L'ESMA publie le registre des examinateurs externes pour assurer la conformité et la transparence des obligations vertes selon la réglementation EU GB."
     },
     {
       "hash": "d25df8d26caef49e",
@@ -7527,7 +7509,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5cf80fd9aefe73b5",
@@ -7654,6 +7636,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la dette publique incontrôlée et des risques de fraude dans les infrastructures."
+    },
+    {
+      "hash": "897bce40d4f1010d",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Smartmatic leans on DOJ’s Adani letter in dismissal bid",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/smartmatic-leans-dojs-adani-letter-in-dismissal-bid",
+      "author": "Estelle Atkinson",
+      "published": "2026-07-07T18:19:37",
+      "summary": "The UK-based voting machine said that a top advisor’s clarification of the department’s FCPA priorities strengthens the company’s claim of a vindictive prosecution.",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: doj, fcpa | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "5241653d68081544",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Lawyer behind FCPA acquittal takes over Corse Coal exec’s case",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/lawyer-behind-fcpa-acquittal-takes-over-corse-coal-execs-case",
+      "author": "Estelle Atkinson",
+      "published": "2026-07-07T15:55:28",
+      "summary": "Charles Hunter Hobson has hired Ryan McConnell, who represents an acquitted Houston businessman, as he fights to overturn his own conviction.",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: fcpa | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "6364772d178e3145",
@@ -7816,6 +7834,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il aborde l'application de la FCPA et les risques de dénonciation pour les entreprises mexicaines."
+    },
+    {
+      "hash": "4b42a7e3d670bda5",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Issuance of Amended Iran-related General License | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260707",
+      "author": "ofac.treasury.gov",
+      "published": "2026-07-07T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "61e7d9ddfd351796",
@@ -7995,7 +8031,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "054a322f49ecbeb1",
@@ -8214,7 +8250,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'effondrement des architectures anti-corruption au Mexique."
     }
   ],
-  "last_update": "2026-07-07T20:22:02.819160+00:00",
+  "last_update": "2026-07-08T01:47:00.598503+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
