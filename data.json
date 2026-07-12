@@ -796,7 +796,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des exigences de reporting réglementaire pour les succursales de tiers pays et la collecte de données pour l'évaluation des risques de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des exigences de reporting réglementaires pour les succursales de pays tiers et la collecte de données de risque AML."
     },
     {
       "hash": "1cafe601a2b1d68e",
@@ -1879,24 +1879,6 @@
       "ai_summary": "Cet article concerne la conformité aux règlementations IA et à la protection des données, domaines clés de la conformité financière moderne."
     },
     {
-      "hash": "1cd03640b4d9744a",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décret n° 2026-490 du 11 juin 2026 portant annulation de crédits",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054238633",
-      "author": "Ministère de l'action et des comptes publics",
-      "published": "2026-06-12T00:00:00",
-      "summary": "Article 1Sont annulés, pour 2026, des crédits d'un montant de 440 278 740 € en autorisations d'engagement et de 490 273 528 € en crédits de paiement applicables aux programmes mentionnés dans le tableau annexé au présent décret.Article 2Le ministre de l'action et des comptes publics est chargé, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.AnnexeArticle ANNEXETABLEAUINTITULÉS DE LA MISSION\n      \n     et du programme, ou de la dotationNUMÉRO\n   ",
-      "score": 75,
-      "score_breakdown": "+5 mots moyens: paiement | +25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
-      "doc_type": "DÉCRET",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'annulation de crédits budgétaires, processus régulant l'exécution du budget public."
-    },
-    {
       "hash": "206b8abb2677189c",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -2452,7 +2434,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur l'harmonisation des règles d'échange d'informations entre unités de renseignement financier pour lutter contre le blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges transfrontaliers de signalements de soupçons entre les unités de renseignement financier de l'UE."
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -2812,7 +2794,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "1e5f91088999c290",
@@ -3355,24 +3337,6 @@
       "ai_summary": "Cet article traite de la conformité aux sanctions financières de l'UE interdisant l'importation de produits raffinés issus du pétrole russe."
     },
     {
-      "hash": "3cbc9e74b67feae6",
-      "source_name": "Commission EU - Press",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Commission approves Holcim's acquisition of Xella, subject to conditions",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1338",
-      "author": "",
-      "published": "2026-06-11T22:00:00",
-      "summary": "European Commission Press release Brussels, 12 Jun 2026 The European Commission has approved, under the EU Merger Regulation, the proposed acquisition of Xella international S.A. ('Xella') by Holcim Ltd ('Holcim'). The approval is conditional upon full compliance with the commitment offered by Holcim, which entails the full divestment of Holcim's AAC blocks plant in Adjud, Romania.",
-      "score": 60,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: regulation | +15 Source EU | +10 Géo EU: european commission | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité réglementaire suite à l'approbation conditionnelle d'une acquisition sous la Régulation de fusion de l'UE."
-    },
-    {
       "hash": "e5a714a70888ec9a",
       "source_name": "Tracfin (LinkedIn)",
       "source_type": "rss",
@@ -3604,7 +3568,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f2f1e7bb8261528b",
@@ -3622,7 +3586,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions de l'UE contre le trafic humain et la criminalité organisée, relevant de la conformité réglementaire et des obligations de conformité."
     },
     {
       "hash": "8a010fc537b895e4",
@@ -3640,7 +3604,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ef0ce5d1bb2e7ccf",
@@ -4360,7 +4324,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "2d9ae66d887d77e3",
@@ -4399,24 +4363,6 @@
       "ai_summary": "Cet article concerne les amendes imposées pour violation de conformité sanctions et de diligence raisonnable client."
     },
     {
-      "hash": "3c071dec646cebbc",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décret n° 2026-489 du 11 juin 2026 portant ouverture et annulation de crédits à titre d'avance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054238617",
-      "author": "Ministère de l'action et des comptes publics",
-      "published": "2026-06-12T00:00:00",
-      "summary": "Article 1Sont ouverts, pour 2026, à titre d'avance, des crédits d'un montant de 406 600 000 € en autorisations d'engagement et de 463 500 000 € en crédits de paiement applicables au programme du budget général mentionnés dans le tableau 1 annexé au présent décret.Article 2Sont annulés à cette fin, pour 2026, des crédits d'un montant de 406 600 000 € en autorisations d'engagement et de 463 500 000 € en crédits de paiement applicables aux programmes du budget général mentionnés dans le tableau 2 a",
-      "score": 45,
-      "score_breakdown": "+5 mots moyens: paiement | +25 Source FR | ×1.5 (<24h)",
-      "doc_type": "DÉCRET",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il régit l'ouverture et l'annulation de crédits budgétaires publics pour 2026."
-    },
-    {
       "hash": "e1e1ab94b00aaac2",
       "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
@@ -4432,7 +4378,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment de capitaux, domaine clé de la lutte anti-blanchiment et de la conformité réglementaire financière."
     },
     {
       "hash": "770a66f1cbf4fce2",
@@ -6379,24 +6325,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du rôle des responsables GRC lors des diligences raisonnables dans les transactions."
     },
     {
-      "hash": "4dcfa886357a4ced",
-      "source_name": "FinCEN",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "FinCEN Issues Guidance to Help Financial Institutions Eliminate Fraud Through Information Sharing",
-      "url": "https://www.fincen.gov/news/news-releases/fincen-issues-guidance-help-financial-institutions-eliminate-fraud-through",
-      "author": "",
-      "published": "2026-06-12T00:00:00",
-      "summary": "",
-      "score": 33,
-      "score_breakdown": "+20 mots critiques: fraud | +5 Source Intl | +3 Géo Intl: fincen | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre la fraude financière par le partage d'informations entre institutions, un enjeu clé de conformité réglementaire."
-    },
-    {
       "hash": "2f36e52f6d9b22c0",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -6484,7 +6412,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "403bb933fee72d1d",
@@ -6520,7 +6448,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "115bb1d76990c2a4",
@@ -6629,6 +6557,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'amélioration des outils de vérification des sanctions OFAC."
+    },
+    {
+      "hash": "ba2ef4bac1939030",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "AMLA Successfully Concludes its First Conference",
+      "url": "https://www.amla.europa.eu/amla-successfully-concludes-its-first-conference_en",
+      "author": "",
+      "published": "2026-06-22T13:02:09",
+      "summary": "AMLA's first conference took place on 9 June 2026 at Alte Oper, Frankfurt am Main.",
+      "score": 27,
+      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "c3a2d27091aa5a84",
@@ -6934,7 +6880,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "18090426cc583d4f",
@@ -7006,7 +6952,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "001c3811c13a8cf8",
@@ -7132,7 +7078,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "e0483bca84e46857",
@@ -8050,7 +7996,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3133ff2b552ff2f7",
@@ -8176,7 +8122,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "13812eb270d91165",
@@ -8341,7 +8287,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'effondrement des architectures anti-corruption au Mexique."
     }
   ],
-  "last_update": "2026-07-11T19:38:50.694335+00:00",
+  "last_update": "2026-07-12T01:48:13.078512+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
