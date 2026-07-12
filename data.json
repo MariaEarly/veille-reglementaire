@@ -796,7 +796,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des exigences de reporting réglementaires pour les succursales de pays tiers et la collecte de données de risque AML."
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA établit les normes de reporting obligatoires pour les succursales de tiers pays et la collecte de données pour l'évaluation des risques de blanchiment."
     },
     {
       "hash": "1cafe601a2b1d68e",
@@ -2434,7 +2434,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges transfrontaliers de signalements de soupçons entre les unités de renseignement financier de l'UE."
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur l'harmonisation des échanges transfrontaliers d'informations entre les unités de renseignement financier pour la lutte anti-blanchiment."
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -2794,7 +2794,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1e5f91088999c290",
@@ -3553,24 +3553,6 @@
       "ai_summary": "K2 Integrity acquiert RiskFront AI pour automatiser la conformité aux normes de lutte contre la criminalité financière."
     },
     {
-      "hash": "afccb138cc1d0eee",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Documents et publications",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054400200",
-      "author": "",
-      "published": "2026-07-09T00:00:00",
-      "summary": "Article Assemblée nationaleSession extraordinaire 2025-2026Documents parlementairesDépôt du mercredi 8 juillet 2026Dépôt de propositions de résolutionMme la Présidente de l'Assemblée nationale a reçu, le 8 juillet 2026, de Mme Zahia Hamdane et plusieurs de ses collègues, une proposition de résolution tendant à la création d'une commission d'enquête sur le naufrage financier et social du groupe Hopps et de sa filiale Milee, l'utilisation des fonds publics alloués, le contrôle de la fraude systémi",
-      "score": 54,
-      "score_breakdown": "+20 mots critiques: fraude, fraud | +25 Source FR | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "f2f1e7bb8261528b",
       "source_name": "Commission EU - Press",
       "source_type": "rss",
@@ -3586,7 +3568,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions de l'UE contre le trafic humain et la criminalité organisée, relevant de la conformité réglementaire et des obligations de conformité."
+      "ai_summary": "Cet article concerne les sanctions de l'UE contre le trafic de migrants et la criminalité organisée, non la conformité financière."
     },
     {
       "hash": "8a010fc537b895e4",
@@ -3604,7 +3586,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ef0ce5d1bb2e7ccf",
@@ -4324,7 +4306,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2d9ae66d887d77e3",
@@ -4363,6 +4345,24 @@
       "ai_summary": "Cet article concerne les amendes imposées pour violation de conformité sanctions et de diligence raisonnable client."
     },
     {
+      "hash": "afccb138cc1d0eee",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Documents et publications",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054400200",
+      "author": "",
+      "published": "2026-07-09T00:00:00",
+      "summary": "Article Assemblée nationaleSession extraordinaire 2025-2026Documents parlementairesDépôt du mercredi 8 juillet 2026Dépôt de propositions de résolutionMme la Présidente de l'Assemblée nationale a reçu, le 8 juillet 2026, de Mme Zahia Hamdane et plusieurs de ses collègues, une proposition de résolution tendant à la création d'une commission d'enquête sur le naufrage financier et social du groupe Hopps et de sa filiale Milee, l'utilisation des fonds publics alloués, le contrôle de la fraude systémi",
+      "score": 45,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +25 Source FR | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "e1e1ab94b00aaac2",
       "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
@@ -4378,7 +4378,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment de capitaux, domaine clé de la lutte anti-blanchiment et de la conformité réglementaire financière."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "770a66f1cbf4fce2",
@@ -6397,22 +6397,40 @@
       "ai_summary": "Cet article traite de la conformité en matière de responsabilité selon la False Claims Act et des orientations fédérales pour atténuer les risques."
     },
     {
-      "hash": "fdbbe3c6ef2704ca",
+      "hash": "3cd8245acbd2cb89",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
       "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de TOULOUSE, 1ère chambre, 09 juillet 2026, 24TL01883",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDETOULOUSE-20260709-24TL01883",
-      "author": "1ère chambre",
-      "published": "2026-07-09T12:00:00",
-      "summary": "68-04-043 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Autorisation d`exploitation commerciale... Vu la procédure suivante :          Par une requête et des mémoires, enregistrés les 15 juillet 2024, 24 avril 2025, 20 juin 2025 et 25 juillet 2025, la société par actions simplifiée SAS Salagoudis, représentée par Me Courrech, demande à la cour :           1° d'annuler l'arrêté du 10 juin 2024 par lequel le maire de Saint-André-de-Sangonis a refusé de ",
+      "title": "France, Cour administrative d'appel de BORDEAUX, 5ème chambre, 10 juillet 2026, 24BX01789",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEBORDEAUX-20260710-24BX01789",
+      "author": "5ème chambre",
+      "published": "2026-07-10T12:00:00",
+      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           M. D... B... et M. A... B... ont demandé au tribunal administratif de Pau d'annuler, d'une part, l'arrêté du 31 mars 2022 par lequel le préfet des Pyrénées-Atlantiques a délivré à la société par actions simplifiée In'Sitom une autorisation de défrichement de 0,1240 hectares d'une parcelle de bois et, d'autre part, la décision implicite par laquelle cette même autorité a rejeté leur recours gracieux formé contre ce",
       "score": 30,
       "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "5b2a1c04a7f5f2d0",
+      "source_name": "Cass. - Blanchiment",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de DOUAI, 1ère chambre, 09 juillet 2026, 23DA01804",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEDOUAI-20260709-23DA01804",
+      "author": "1ère chambre",
+      "published": "2026-07-09T12:00:00",
+      "summary": "Vu la procédure suivante :            Procédures contentieuses antérieures :           Par des requêtes distinctes, l'association Picardie Nature et l'association Sauvons Soissons ont demandé au tribunal administratif d'Amiens d'annuler l'arrêté du 31 mars 2021 par lequel le préfet de l'Aisne a accordé à la société Rockwool France SAS l'autorisation d'exploiter une usine de laine de roche sur les territoires des communes de Ploisy et Courmelles.           Par un jugement avant dire droit nos 210",
+      "score": 30,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "403bb933fee72d1d",
@@ -6448,7 +6466,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "115bb1d76990c2a4",
@@ -6523,22 +6541,22 @@
       "ai_summary": "L'EBA 2025 rapporte les évolutions de conformité bancaire et de régulation financière en Europe pour l'année 2025."
     },
     {
-      "hash": "84a7424cb7aebece",
-      "source_name": "ESMA (X)",
+      "hash": "212dc2aa23cbdbd2",
+      "source_name": "Cass. - Bancaire",
       "source_type": "rss",
-      "category": "social",
-      "title": "🔄 #PostTrade communication is moving up the agenda as firms prepare for transition to a T+1 settlement cycle. 📣 #ESMA consults on updated guidelines designed to support faster, clearer and more consistent communication. ⏳ #EUHaveYourSay by 7 July →",
-      "url": "https://x.com/ESMAComms/status/2065343133567660393",
-      "author": "@ESMAComms",
-      "published": "2026-06-12T07:59:00",
-      "summary": "🔄  #PostTrade communication is moving up the agenda as firms prepare for transition to a T+1 settlement cycle.📣  #ESMA consults on updated guidelines designed to support faster, clearer and more consistent communication.⏳  #EUHaveYourSay by 7 July →   link.europa.eu/cpJtdG— ESMA - EU Securities Markets Regulator 🇪🇺 (@ESMAComms) Jun 12, 2026",
-      "score": 30,
-      "score_breakdown": "+10 mots forts: esma | +10 Géo EU: esma | ×1.5 (<24h)",
-      "doc_type": "GUIDELINES",
+      "category": "jurisprudence",
+      "title": "France, Cour d'appel d'Aix-en-Provence, Chambre 1-7, 02 juillet 2026, 23/12908",
+      "url": "http://juricaf.org/arret/FRANCE-COURDAPPELDAIXENPROVENCE-20260702-2312908",
+      "author": "Chambre 1-7",
+      "published": "2026-07-02T12:00:00",
+      "summary": "COUR D'APPEL D'AIX-EN-PROVENCE  Chambre 1-7    ARRÊT AU FOND   DU 02 JUILLET 2026    N° 2026/ 304    N° RG 23/12908     N° Portalis DBVB-V-B7H-BMA7D        V M      C/    S.D.C. Localité 1 DE BOULOGNE          Copie exécutoire délivrée   le :      à :    Me Ouassini MEBAREK              Décision déférée à la Cour :    Jugement du Juridiction de proximité de Localité 2 en date du 06 Juillet 2023 enregistré au répertoire général sous le n° 22/03632.      APPELANTE    Madame V M  née le 20 Janvier ",
+      "score": 28,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les nouvelles directives de l'ESMA sur la communication post-négociation assurent la conformité réglementaire lors de la transition vers un cycle T+1."
+      "ai_summary": null
     },
     {
       "hash": "546045ccf4bc818e",
@@ -6574,7 +6592,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la lutte anti-blanchiment d'argent, domaine clé de la conformité financière."
     },
     {
       "hash": "c3a2d27091aa5a84",
@@ -6865,24 +6883,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une décision d'autorisation d'exploitation commerciale soumise à contrôle administratif."
     },
     {
-      "hash": "a62f067053ab3e7f",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour de cassation, Deuxième chambre civile - formation restreinte hors rnsm/na, 09 juillet 2026, 24-22.935",
-      "url": "http://juricaf.org/arret/FRANCE-COURDECASSATION-20260709-2422935",
-      "author": "Deuxième chambre civile - formation restreinte hors rnsm/na",
-      "published": "2026-07-09T12:00:00",
-      "summary": "CIV. 2    EO1        COUR DE CASSATION _ Arrêt du 9 juillet 2026          Cassation      Mme MARTINEL, présidente        Arrêt n° 727 F-B    Pourvoi n° A 24-22.935           R É P U B L I Q U E F R A N Ç A I S E _ AU NOM DU PEUPLE FRANÇAIS _ ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 9 JUILLET 2026    Le Fonds de garantie des victimes des actes de terrorisme et d'autres infractions, dont le siège est Adresse 1, a formé le pourvoi n° A 24-22.935 contre l'arrêt rendu le 16 septembr",
-      "score": 24,
-      "score_breakdown": "+20 Géo FR: france, français | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "18090426cc583d4f",
       "source_name": "Cass. - Bancaire",
       "source_type": "rss",
@@ -6952,7 +6952,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "001c3811c13a8cf8",
@@ -7061,24 +7061,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite des risques de cybersécurité liés à l'IA, un enjeu majeur de conformité pour les entreprises du secteur de la défense."
-    },
-    {
-      "hash": "4bd248d55c4475d1",
-      "source_name": "Cass. - Fraude",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de BORDEAUX, 3ème chambre, 02 juillet 2026, 24BX00235",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEBORDEAUX-20260702-24BX00235",
-      "author": "3ème chambre",
-      "published": "2026-07-02T12:00:00",
-      "summary": "Vu les procédures suivantes :           Procédure contentieuse antérieure :           Mme H... C... a demandé au tribunal administratif de La Réunion d'annuler la décision du 9 mars 2021 par laquelle le préfet de La Réunion a accordé à M. F... D... une autorisation d'exploiter la parcelle cadastrée 13ZA0024, située sur la commune de Saint-Leu, et de condamner l'Etat à lui verser la somme de 10 000 euros en réparation des préjudices qu'elle estime avoir subis.           Par un jugement n° 2100582",
-      "score": 20,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "e0483bca84e46857",
@@ -7996,7 +7978,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3133ff2b552ff2f7",
@@ -8122,7 +8104,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "13812eb270d91165",
@@ -8287,7 +8269,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'effondrement des architectures anti-corruption au Mexique."
     }
   ],
-  "last_update": "2026-07-12T04:05:26.758419+00:00",
+  "last_update": "2026-07-12T08:00:41.917751+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
