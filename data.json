@@ -781,6 +781,24 @@
       "ai_summary": "L'AMF clarifie les obligations réglementaires des gestionnaires d'Autres FIA pour assurer leur conformité avec la réglementation financière."
     },
     {
+      "hash": "88fe323d7c9acdce",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Press Release: AMLA consults on harmonised risk assessments  in the non-financial sector",
+      "url": "https://www.amla.europa.eu/press-release-amla-consults-harmonised-risk-assessments-non-financial-sector_en",
+      "author": "",
+      "published": "2026-07-13T12:18:24",
+      "summary": "A shared methodology across the EU: AMLA is inviting views on draft rules that will determine how supervisors in every Member State assess money laundering and terrorism financing risks of businesses and professionals in the non-financial sector.",
+      "score": 100,
+      "score_breakdown": "+20 mots critiques: money laundering, terrorism financing | +20 mots forts: aml, amla | +5 mots moyens: risk | +15 Source EU | +10 Géo EU: amla, member state | ×1.5 (<24h)",
+      "doc_type": "COMMUNIQUÉ",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "c2bc70d5fdb5be88",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -2023,24 +2041,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'un signalement Tracfin concernant des transactions suspectes et des montages complexes."
     },
     {
-      "hash": "9b952a83b6dd6985",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "💳 Payment fraud in Europe: key insights from the 2025 ECB & EBA report The European Central Bank and the European Banking Authorit...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7471486548161662977",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-06-13T09:00:07",
-      "summary": "💳 Payment fraud in Europe: key insights from the 2025 ECB & EBA report\n\nThe European Central Bank and the European Banking Authority have published their latest Report on Payment Fraud, shedding light on how fraud is evolving across Europe.\n\n🔍 Some key takeaways:\n\n✅Payment fraud in the EEA amounted to €4.2 billion in fraudulent transactions in 2024, showing the scale of the challenge.\n✅Card fraud remains significant, especially in remote (online) transactions.\n✅Credit transfers are increasingly ",
-      "score": 75,
-      "score_breakdown": "+20 mots critiques: fraud | +10 mots forts: eba | +10 mots moyens: payment, bank | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la fraude aux paiements en Europe selon le rapport 2025 de la BCE et de l'EBA, un enjeu majeur de conformité financière."
-    },
-    {
       "hash": "45b771a36e86cf71",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -2398,7 +2398,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne l'harmonisation des règles d'échange transfrontalier d'informations entre unités de renseignement financier pour la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges d'informations transfrontaliers entre les unités de renseignement financier pour la lutte anti-blanchiment."
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -2741,24 +2741,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les autorités financières publient un rapport méthodologique sur les tests de résistance du système financier."
-    },
-    {
-      "hash": "47888ca714b594e5",
-      "source_name": "CNIL",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "La CNIL a prononcé 23 nouvelles sanctions depuis janvier au titre de la procédure simplifiée",
-      "url": "https://www.cnil.fr/fr/23-nouvelles-sanctions-simplifiees",
-      "author": "CNIL",
-      "published": "2026-07-06T12:00:00",
-      "summary": "Vidéosurveillance excessive, cookies, non-respect des droits des personnes ou encore défaut de coopération avec la CNIL&amp;nbsp;: depuis janvier 2026, 23 nouvelles sanctions ont été prononcées dans le cadre de la procédure simplifiée, dont 19 ont pour origine des plaintes.",
-      "score": 65,
-      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: cnil | ×1.0 (7d)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1e5f91088999c290",
@@ -3607,6 +3589,24 @@
       "ai_summary": "Cet article régit le régime fiscal et douanier des tabacs, imposant des obligations de conformité aux opérateurs."
     },
     {
+      "hash": "47888ca714b594e5",
+      "source_name": "CNIL",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "La CNIL a prononcé 23 nouvelles sanctions depuis janvier au titre de la procédure simplifiée",
+      "url": "https://www.cnil.fr/fr/23-nouvelles-sanctions-simplifiees",
+      "author": "CNIL",
+      "published": "2026-07-06T12:00:00",
+      "summary": "Vidéosurveillance excessive, cookies, non-respect des droits des personnes ou encore défaut de coopération avec la CNIL&amp;nbsp;: depuis janvier 2026, 23 nouvelles sanctions ont été prononcées dans le cadre de la procédure simplifiée, dont 19 ont pour origine des plaintes.",
+      "score": 52,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: cnil | ×0.8 (14d)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
       "hash": "69ad9951e6a651f6",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -4216,7 +4216,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8a010fc537b895e4",
@@ -4234,7 +4234,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e1e1ab94b00aaac2",
@@ -4954,7 +4954,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "449b5adf77f7bc0d",
@@ -5659,6 +5659,24 @@
       "ai_summary": "Cet article concerne la conformité avec les régimes de sanctions internationales imposés à la Russie et à la Biélorussie."
     },
     {
+      "hash": "0904f875c0ffee63",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "\"Ils n'étaient rien d'autre qu'un impôt caché\": l'Italie désactive 20% de ses radars automatiques pour un problème de conformité",
+      "url": "https://www.bfmtv.com/economie/international/ils-n-etaient-rien-d-autre-qu-un-impot-cache-l-italie-desactive-20-de-ses-radars-automatiques-pour-un-probleme-de-conformite_AD-202607130488.html",
+      "author": "",
+      "published": "2026-07-13T13:47:38",
+      "summary": "L'Italie suspend temporairement quelques 850 de ses radars automatiques, le temps de les mettre en conformité avec de nouvelles règles d'homologation destinées à garantir la légalité des contrôles. ",
+      "score": 34,
+      "score_breakdown": "+10 mots forts: conformité | +3 Presse | +10 Géo EU: italie | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "750124795884a433",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -6232,7 +6250,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "403bb933fee72d1d",
@@ -6268,7 +6286,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La conformité financière concerne la transparence des marchés OTC via un agrégateur de données dérivés supervisé par l'ESMA."
     },
     {
       "hash": "115bb1d76990c2a4",
@@ -6395,6 +6413,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il annonce une conférence de l'AMLA sur la lutte anti-blanchiment d'argent."
+    },
+    {
+      "hash": "0f9ff20eedf4c32f",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Bosch Case Provides First Glimpse of NatSec Application of Department-Wide CEP",
+      "url": "https://www.corporatecomplianceinsights.com/bosch-case-provides-first-glimpse-natsec-department-wide-cep/",
+      "author": "Roberto Gonzalez and Samuel Kleiner",
+      "published": "2026-07-13T11:00:43",
+      "summary": "While the CEP generally aligns with the prior policy, it offers greater potential benefits to a company that voluntarily self-discloses, cooperates and remediates misconduct\nThe post Bosch Case Provides First Glimpse of NatSec Application of Department-Wide CEP appeared first on Corporate Compliance Insights.",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "76e6b0033cc7070a",
@@ -6664,7 +6700,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3187dc0002653a16",
@@ -6700,7 +6736,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "18090426cc583d4f",
@@ -6880,7 +6916,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e0483bca84e46857",
@@ -7115,6 +7151,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la compétitivité bancaire allemande mais ne traite pas spécifiquement de conformité financière ou de risques de compliance."
+    },
+    {
+      "hash": "e1d984da877da84d",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "💡Our Chair, François-Louis Michaud, sat down with Paperjam to discuss how the risk landscape for European banks is evolving. While...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7482386163073323009",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-07-13T10:51:17",
+      "summary": "💡Our Chair, François-Louis Michaud, sat down with Paperjam to discuss how the risk landscape for European banks is evolving. \n\nWhile the sector remains strong in terms of capital and liquidity, new vulnerabilities are emerging around technology, cyber resilience and reliance on a handful of global providers.\nA thought-provoking perspective on why digital sovereignty is becoming a strategic and prudential priority.\n\nThanks to Marc Fassone for capturing the key takeaways from this conversation.",
+      "score": 15,
+      "score_breakdown": "+10 mots moyens: risk, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "27d9ed4cf2a107d0",
@@ -7798,7 +7852,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "054a322f49ecbeb1",
@@ -7888,7 +7942,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "13812eb270d91165",
@@ -8017,7 +8071,7 @@
       "ai_summary": "Cet article traite de la conformité financière car il concerne les nouvelles directives sur les sanctions pénales pour corruption étrangère."
     }
   ],
-  "last_update": "2026-07-13T09:51:35.874569+00:00",
+  "last_update": "2026-07-13T14:07:43.854454+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
