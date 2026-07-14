@@ -1336,7 +1336,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté encadre l'agrément des associations pour exercer des actions de groupe, relevant de la conformité réglementaire et de la protection des consommateurs."
+      "ai_summary": "Cet arrêté établit les conditions de conformité administrative pour obtenir un agrément d'action de groupe, relevant de la conformité réglementaire."
     },
     {
       "hash": "b9a4c4a195575856",
@@ -2074,7 +2074,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La banque a violé les règles de transparence et d'information des clients en proposant des crédits affectés qui ne l'étaient pas, constituant une infraction à la conformité financière."
+      "ai_summary": "Conformité financière: la banque a violé les règles de transparence et d'information client en proposant des crédits affectés qui ne l'étaient pas réellement."
     },
     {
       "hash": "45b771a36e86cf71",
@@ -2434,7 +2434,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des règles d'échange d'informations entre les unités de renseignement financier pour la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur l'harmonisation des échanges d'informations transfrontaliers entre unités de renseignement financier pour la lutte anti-blanchiment."
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -3604,7 +3604,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "69ad9951e6a651f6",
@@ -4234,7 +4234,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8a010fc537b895e4",
@@ -4252,7 +4252,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "e1e1ab94b00aaac2",
@@ -4990,7 +4990,43 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "504bfe0e0f02bdce",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Practical issues in cyber-related sanctions as OFAC designations highlight renewed focus on digital currency",
+      "url": "https://globalinvestigationsreview.com/guide/the-guide-sanctions/seventh-edition/article/practical-issues-in-cyber-related-sanctions-ofac-designations-highlight-renewed-focus-digital-currency",
+      "author": "Timothy O’Toole,Collmann Griffin,Melissa Burgess,Arooshe Giroti",
+      "published": "2026-07-14T07:00:00",
+      "summary": "",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: ofac | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "ba725a3a62fb2674",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "A comprehensive overview of sanctions in the United Kingdom",
+      "url": "https://globalinvestigationsreview.com/guide/the-guide-sanctions/seventh-edition/article/comprehensive-overview-of-sanctions-in-the-united-kingdom",
+      "author": "Paul Feldberg,Menelaos Karampetsos,Alice Lee",
+      "published": "2026-07-14T07:00:00",
+      "summary": "",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: united kingdom | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "449b5adf77f7bc0d",
@@ -5695,6 +5731,24 @@
       "ai_summary": "Cet article concerne la conformité avec les régimes de sanctions internationales imposés à la Russie et à la Biélorussie."
     },
     {
+      "hash": "35df6bf79f6bfabe",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Navigating the path off the US sanctions list",
+      "url": "https://globalinvestigationsreview.com/guide/the-guide-sanctions/seventh-edition/article/navigating-the-path-the-us-sanctions-list",
+      "author": "Kenneth J Nunnenkamp,Anthony Rapa,Matthew J Thomas,Bradley L Henry,Victoria Ortega",
+      "published": "2026-07-14T07:00:00",
+      "summary": "",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "0904f875c0ffee63",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -6271,6 +6325,24 @@
       "ai_summary": "Cet article traite de la conformité en matière de responsabilité selon la False Claims Act et des orientations fédérales pour atténuer les risques."
     },
     {
+      "hash": "6eb8dbd464bbcb29",
+      "source_name": "ECB - Press Releases",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "ECB selects 36 payment service providers to join digital euro pilot",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260714~8cd07d9d45.en.html",
+      "author": "",
+      "published": "2026-07-14T09:00:00",
+      "summary": "",
+      "score": 30,
+      "score_breakdown": "+5 mots moyens: payment | +15 Source EU | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "La sélection de prestataires de services de paiement pour le pilot de l'euro numérique relève de la conformité réglementaire et financière des nouveaux services de paiement."
+    },
+    {
       "hash": "403bb933fee72d1d",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
@@ -6718,7 +6790,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5b2a1c04a7f5f2d0",
@@ -6736,7 +6808,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3187dc0002653a16",
@@ -6772,7 +6844,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "18090426cc583d4f",
@@ -6952,7 +7024,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e0483bca84e46857",
@@ -7189,6 +7261,24 @@
       "ai_summary": "Cet article concerne la compétitivité bancaire allemande mais ne traite pas spécifiquement de conformité financière ou de risques de compliance."
     },
     {
+      "hash": "4fec49f06b4c0203",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "36 payment service providers from across the euro area have been selected for the digital euro pilot. Starting in the second half of 2027, the 12-month exercise to test the digital euro’s features will take place at the ECB and 19 national central banks",
+      "url": "https://x.com/ecb/status/2076957656770617678",
+      "author": "@ecb",
+      "published": "2026-07-14T09:11:00",
+      "summary": "36 payment service providers from across the euro area have been selected for the digital euro pilot.Starting in the second half of 2027, the 12-month exercise to test the digital euro’s features will take place at the ECB and 19 national central banks  link.europa.eu/Kkw7Pv— European Central Bank (@ecb) Jul 14, 2026",
+      "score": 15,
+      "score_breakdown": "+10 mots moyens: payment, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "e1d984da877da84d",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -7204,7 +7294,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'évolution des risques pour les banques européennes, notamment technologiques et cyber."
+      "ai_summary": "L'article concerne la conformité financière car il aborde l'évolution des risques pour les banques européennes, notamment technologiques et cyber, relevant de la réglementation prudentielle."
     },
     {
       "hash": "27d9ed4cf2a107d0",
@@ -7492,7 +7582,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation FCPA impliquant un directeur financier et des pots-de-vin en Amérique latine."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation de la loi FCPA impliquant des pots-de-vin à des fonctionnaires."
     },
     {
       "hash": "16cc0566e0dbb019",
@@ -7924,7 +8014,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "054a322f49ecbeb1",
@@ -8014,7 +8104,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "13812eb270d91165",
@@ -8143,7 +8233,7 @@
       "ai_summary": "Cet article traite de la conformité financière car il concerne les nouvelles directives sur les sanctions pénales pour corruption étrangère."
     }
   ],
-  "last_update": "2026-07-14T08:32:57.184057+00:00",
+  "last_update": "2026-07-14T13:08:31.258411+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
