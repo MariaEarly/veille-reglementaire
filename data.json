@@ -1663,24 +1663,6 @@
       "ai_summary": "Cet arrêté régit le gel des actifs et les sanctions financières selon le code monétaire et financier, relevant directement de la conformité."
     },
     {
-      "hash": "6ad8a782d62d270a",
-      "source_name": "AMF - Réglementation",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Modalités d'enregistrement des personnes morales, autres que des sociétés de gestion de portefeuille, gérant certains Autres FIA -",
-      "url": "https://www.amf-france.org/fr/reglementation/doctrine/doc-2013-21#xts=607212&xtor=RSS-39&type=RSS",
-      "author": "",
-      "published": "2026-06-14T22:00:00",
-      "summary": "4.0                  L&#039;AMF précise les modalités et la procédure pour enregistrer les personnes morales qui gèrent certains Autres FIA et qui n&#039;ont pas l&#039;obligation d&#039;être agréées en qualité de société de gestion de portefeuille.                  lun, 15 Jun 2026 - 12:00        Textes de référence                                            Article...",
-      "score": 82,
-      "score_breakdown": "+10 mots forts: amf | +25 Source FR | +20 Géo FR: amf | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il précise les modalités d'enregistrement des gestionnaires d'Autres FIA auprès de l'AMF."
-    },
-    {
       "hash": "4fee4512ca068ae6",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -2074,7 +2056,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation de conformité réglementaire : une banque a trompé ses clients sur la nature de crédits, entraînant une sanction administrative."
+      "ai_summary": "La banque a violé les règles de transparence financière en induisant les clients en erreur sur la nature des crédits proposés, ce qui constitue un manquement compliance."
     },
     {
       "hash": "45b771a36e86cf71",
@@ -2434,7 +2416,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges d'informations entre les unités de renseignement financier pour lutter contre le blanchiment d'argent."
+      "ai_summary": "L'article concerne l'harmonisation des échanges transfrontaliers d'informations entre unités de renseignement financier pour lutter contre le blanchiment d'argent."
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -4219,6 +4201,24 @@
       "ai_summary": "Cet article concerne les amendes imposées pour violation de conformité sanctions et de diligence raisonnable client."
     },
     {
+      "hash": "afccb138cc1d0eee",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Documents et publications",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054400200",
+      "author": "",
+      "published": "2026-07-09T00:00:00",
+      "summary": "Article Assemblée nationaleSession extraordinaire 2025-2026Documents parlementairesDépôt du mercredi 8 juillet 2026Dépôt de propositions de résolutionMme la Présidente de l'Assemblée nationale a reçu, le 8 juillet 2026, de Mme Zahia Hamdane et plusieurs de ses collègues, une proposition de résolution tendant à la création d'une commission d'enquête sur le naufrage financier et social du groupe Hopps et de sa filiale Milee, l'utilisation des fonds publics alloués, le contrôle de la fraude systémi",
+      "score": 45,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +25 Source FR | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "8a010fc537b895e4",
       "source_name": "Commission EU - Press",
       "source_type": "rss",
@@ -4234,7 +4234,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e1e1ab94b00aaac2",
@@ -4705,6 +4705,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre le blanchiment d'argent et des institutions financières."
     },
     {
+      "hash": "848b3e09234bb17f",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Star witness gets time served in Halkbank sanctions saga",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/star-witness-gets-time-served-in-halkbank-sanctions-saga",
+      "author": "Emily Saul",
+      "published": "2026-07-14T18:54:21",
+      "summary": "The “Turkish Gatsby” Reza Zarrab has avoided further jail time after a judge sentenced the former gold trader to time served for his “helpful” first-hand account of Halkbank’s complex, multi-year money-laundering plot.",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: bank | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "21ef9abdf469e0e0",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -4972,7 +4990,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "de9054a6764dad54",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "DOJ putting “full weight” behind trade fraud enforcement",
+      "url": "https://globalinvestigationsreview.com/article/doj-putting-full-weight-behind-trade-fraud-enforcement",
+      "author": "Gaspard Le Dem",
+      "published": "2026-07-14T20:44:59",
+      "summary": "The head of a newly minted fraud division touted a billion-dollar milestone for trade fraud cases. A former trial attorney questioned how the department’s expanding trade fraud apparatus fits alongside existing enforcement structures.&nbsp;",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "504bfe0e0f02bdce",
@@ -5008,7 +5044,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car les sanctions au Royaume-Uni sont un domaine clé du respect des réglementations anti-blanchiment et de lutte contre le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car les sanctions au Royaume-Uni sont essentielles pour la conformité réglementaire et la lutte contre le blanchiment d'argent."
     },
     {
       "hash": "449b5adf77f7bc0d",
@@ -5728,7 +5764,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "35df6bf79f6bfabe",
@@ -6790,7 +6826,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5b2a1c04a7f5f2d0",
@@ -6808,7 +6844,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3187dc0002653a16",
@@ -6844,7 +6880,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "18090426cc583d4f",
@@ -7024,7 +7060,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "e0483bca84e46857",
@@ -7765,6 +7801,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une enquête sur un cabinet d'audit majeur suite à des allégations de lanceur d'alerte."
     },
     {
+      "hash": "3ef3dd2dbdd3f32a",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Iran-related Designations; Iran-related and Counter Terrorism Designation Update; Issuance of Iran-related General License | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260714",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-07-14T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "f44d948e36de7343",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -8086,7 +8140,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "13812eb270d91165",
@@ -8215,7 +8269,7 @@
       "ai_summary": "Cet article traite de la conformité financière car il concerne les nouvelles directives sur les sanctions pénales pour corruption étrangère."
     }
   ],
-  "last_update": "2026-07-14T19:50:07.581326+00:00",
+  "last_update": "2026-07-15T01:24:30.067060+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
