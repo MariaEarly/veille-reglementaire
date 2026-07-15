@@ -1984,7 +1984,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation des règles de transparence et de protection des consommateurs dans les services bancaires."
+      "ai_summary": "La banque a violé les règles de transparence et de conformité en trompant les clients sur la nature des crédits proposés, justifiant l'amende."
     },
     {
       "hash": "45b771a36e86cf71",
@@ -2218,7 +2218,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la lutte contre le blanchiment de capitaux et le financement du terrorisme, piliers essentiels de la conformité financière."
     },
     {
       "hash": "3064329bb254d728",
@@ -2344,7 +2344,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne l'harmonisation des échanges d'informations transfrontaliers entre unités de renseignement financier pour la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges d'informations transfrontaliers entre unités de renseignement financier pour la lutte contre le blanchiment."
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -3139,24 +3139,6 @@
       "ai_summary": "L'EBA propose de simplifier le cadre de capital bancaire européen, améliorant la conformité réglementaire et l'efficacité des exigences prudentielles."
     },
     {
-      "hash": "b64b62a72479804f",
-      "source_name": "Commission EU - Sanctions FAQ",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Import ban on refined products obtained from Russian crude oil",
-      "url": "https://finance.ec.europa.eu/publications/import-ban-refined-products-obtained-russian-crude-oil_en",
-      "author": "",
-      "published": "2026-06-15T16:13:19",
-      "summary": "FAQs on sanctions against Russia and Belarus, with focus on the following provisions: Article 3ma of Council Regulation (EU) No 833/2014.",
-      "score": 60,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: regulation | +15 Source EU | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité aux sanctions financières de l'UE interdisant l'importation de produits raffinés issus du pétrole russe."
-    },
-    {
       "hash": "e5a714a70888ec9a",
       "source_name": "Tracfin (LinkedIn)",
       "source_type": "rss",
@@ -3805,6 +3787,60 @@
       "ai_summary": "Cet article concerne la supervision réglementaire d'un assureur par l'autorité de contrôle prudentiel française."
     },
     {
+      "hash": "60ebf8edc2df0c50",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "La Grèce craint pour ses armateurs, la Bulgarie a refusé de cibler le patriarche Kirill... L'UE tarde à trouver un compromis sur de nouvelles sanctions contre la Russie",
+      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/la-grece-craint-pour-ses-armateurs-la-bulgarie-a-refuse-de-cibler-le-patriarche-kirill-l-ue-tarde-a-trouver-un-compromis-sur-de-nouvelles-sanctions-contre-la-russie_AD-202607150699.html",
+      "author": "",
+      "published": "2026-07-15T17:34:34",
+      "summary": "Faute d'accord, les pays membres de l'Union européenne ont reporté leur décision au 23 juillet prochain, tout en prolongeant le plafonnement du prix du pétrole russe qui arrivait à échéance. ",
+      "score": 49,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +10 Géo EU: union européenne, grèce | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "668b8f3783192c28",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Getting Governance Right 2026",
+      "url": "https://www.corporatecomplianceinsights.com/getting-governance-right-2026/",
+      "author": "Corporate Compliance Insights",
+      "published": "2026-07-15T13:47:42",
+      "summary": "Boards today face a governance landscape that is broader, faster-moving and less forgiving than ever before. This collection of 14 essential reads draws on the strongest governance articles CCI has published in the past year — covering everything from AI oversight and geopolitical risk to board training and M&#038;A due diligence.\nThe post Getting Governance Right 2026 appeared first on Corporate Compliance Insights.",
+      "score": 49,
+      "score_breakdown": "+20 mots forts: due diligence, compliance | +10 mots moyens: risk, ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "9c8f0721d6b97266",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "FTO designation exposes compliance gaps in Brazil’s entertainment sector",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/fto-designation-exposes-compliance-gaps-in-brazils-entertainment-sector",
+      "author": "Maya Kendall Shah",
+      "published": "2026-07-15T13:27:35",
+      "summary": "A domestic money laundering probe linking funk artists to Brazilian criminal groups, coupled with the US designation of those groups as terrorist organisations, has prompted Brazilian firms to scrutinise their own clients while also working to update compliance systems for entertainment industry clients.&nbsp;",
+      "score": 49,
+      "score_breakdown": "+20 mots critiques: money laundering | +10 mots forts: compliance | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "cad1a4a7cfb8024e",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -3820,7 +3856,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne l'examen de conformité réglementaire d'une concentration entre opérateurs télécoms par l'autorité de concurrence française."
     },
     {
       "hash": "132908df3f40e58a",
@@ -4144,7 +4180,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8a010fc537b895e4",
@@ -4162,7 +4198,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e1e1ab94b00aaac2",
@@ -4597,24 +4633,6 @@
       "ai_summary": "Cet article concerne la coopération institutionnelle entre l'EBA et la banque centrale du Monténégro pour l'intégration réglementaire européenne."
     },
     {
-      "hash": "08aab6b699d57b94",
-      "source_name": "AMF France (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "[#Médiation] PEA-PME : pour que des actions d’une société soient éligibles certaines conditions doivent être respectées. Le critère de la taille maximum de la société s’apprécie uniquement au moment de l’acquisition des actions. Le décryptage du médiateur➡️",
-      "url": "https://x.com/AMF_actu/status/2066540099102196073",
-      "author": "@AMF_actu",
-      "published": "2026-06-15T15:15:00",
-      "summary": "[ #Médiation] PEA-PME : pour que des actions d’une société soient éligibles certaines conditions doivent être respectées. Le critère de la taille maximum de la société s’apprécie uniquement au moment de l’acquisition des actions.Le décryptage du médiateur➡️ cutt.ly/qt91NFJP— AMF (@AMF_actu) Jun 15, 2026",
-      "score": 45,
-      "score_breakdown": "+10 mots forts: amf | +20 Géo FR: amf | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'article traite des règles d'éligibilité des actions au dispositif PEA-PME, notamment le critère de taille maximum apprécié à l'acquisition."
-    },
-    {
       "hash": "cc8f1553d2f70fcb",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -4648,7 +4666,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité des exportations vers la Chine et les obligations de diligence raisonnable."
     },
     {
       "hash": "848b3e09234bb17f",
@@ -4936,7 +4954,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "de9054a6764dad54",
@@ -5677,24 +5695,6 @@
       "ai_summary": "Le nouvel identité visuelle de l'EDPB concerne la conformité financière indirectement via la protection des données et le respect du RGPD."
     },
     {
-      "hash": "8f1d6348db5b825b",
-      "source_name": "Commission EU - Sanctions FAQ",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Consolidated version",
-      "url": "https://finance.ec.europa.eu/publications/consolidated-version_en",
-      "author": "",
-      "published": "2026-06-15T16:13:14",
-      "summary": "Consolidated version of the FAQs on sanctions against Russia and Belarus.",
-      "score": 35,
-      "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité avec les régimes de sanctions internationales imposés à la Russie et à la Biélorussie."
-    },
-    {
       "hash": "12ffca7b8f129d46",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -5710,7 +5710,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il décrit une fraude massive aux prestations sociales et du blanchiment d'argent."
     },
     {
       "hash": "836bd0878e44e51d",
@@ -5728,7 +5728,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions commerciales internationales et les droits de douane, relevant de la conformité aux régimes de sanctions et aux obligations de conformité commerciale."
     },
     {
       "hash": "b966a46fd90d62de",
@@ -5746,7 +5746,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des accords de poursuite reportée (DPA) applicables aux individus dans le cadre de la lutte anti-fraude."
+      "ai_summary": "Cet article concerne la conformité financière car il aborde les accords de poursuites reportées (DPAs) pour les individus, relevant de la lutte anti-fraude réglementée."
     },
     {
       "hash": "35df6bf79f6bfabe",
@@ -6358,7 +6358,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les prestataires de services de paiement doivent respecter les régulations bancaires et de blanchiment d'argent."
+      "ai_summary": "Cet article concerne la conformité financière car les prestataires de services de paiement doivent respecter les réglementations et normes de conformité pour participer à des projets pilotes de monnaie numérique."
     },
     {
       "hash": "403bb933fee72d1d",
@@ -6394,7 +6394,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7255fb0cfe55a15e",
@@ -6826,7 +6826,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5b2a1c04a7f5f2d0",
@@ -6844,7 +6844,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3187dc0002653a16",
@@ -6880,7 +6880,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "18090426cc583d4f",
@@ -7060,7 +7060,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e0483bca84e46857",
@@ -7312,7 +7312,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Le Groupe BPCE participe au pilote de l'euro numérique de la BCE, impliquant des enjeux de conformité réglementaire et opérationnelle des services de paiement."
     },
     {
       "hash": "4fec49f06b4c0203",
@@ -7819,6 +7819,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une enquête sur un cabinet d'audit majeur suite à des allégations de lanceur d'alerte."
     },
     {
+      "hash": "5f519679c68f7457",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Non-Proliferation Designations; Counter Terrorism Designations | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260715",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-07-15T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "3ef3dd2dbdd3f32a",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -8158,7 +8176,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "13812eb270d91165",
@@ -8287,7 +8305,7 @@
       "ai_summary": "Cet article traite de la conformité financière car il concerne les nouvelles directives sur les sanctions pénales pour corruption étrangère."
     }
   ],
-  "last_update": "2026-07-15T14:17:41.915789+00:00",
+  "last_update": "2026-07-15T18:56:28.810495+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
