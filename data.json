@@ -997,24 +997,6 @@
       "ai_summary": "Cet arrêté concerne la conformité financière car il impose des contrôles et mentions obligatoires sur la détention de produits d'épargne réglementée."
     },
     {
-      "hash": "9a07a710f3fe79f1",
-      "source_name": "JORF - Lois",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "LOI n° 2026-510 du 15 juin 2026 autorisant l'approbation de la convention entre le Gouvernement de la République française et le Gouvernement de la République de Finlande pour l'élimination de la double imposition en matière d'impôts sur le revenu et la prévention de l'évasion et de la fraude fiscales et l'approbation de l'avenant à la convention entre le Gouvernement de la République française et le Gouvernement du Royaume de Suède en vue d'éviter les doubles impositions et de prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune (1)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054256628",
-      "author": "",
-      "published": "2026-06-16T00:00:00",
-      "summary": "Article 1Est autorisée l'approbation de la convention entre le Gouvernement de la République française et le Gouvernement de la République de Finlande pour l'élimination de la double imposition en matière d'impôts sur le revenu et la prévention de l'évasion et de la fraude fiscales (ensemble un protocole), signée à Helsinki le 4 avril 2023, et dont le texte est annexé à la présente loi (2).Article 2Est autorisée l'approbation de l'avenant à la convention entre le Gouvernement de la République fr",
-      "score": 97,
-      "score_breakdown": "+20 mots critiques: fraude, fraud | +25 Source FR | +20 Géo FR: français, française | ×1.5 (<24h)",
-      "doc_type": "LOI",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article autorise des conventions franco-finlandaise et franco-suédoise pour éliminer la double imposition et prévenir l'évasion fiscale."
-    },
-    {
       "hash": "4235ad918ad85e6a",
       "source_name": "Parlement EU - ECON",
       "source_type": "rss",
@@ -1265,6 +1247,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte anti-blanchiment, un enjeu majeur de compliance bancaire et réglementaire."
+    },
+    {
+      "hash": "493a638c1e9dcb1f",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 15 juillet 2026 portant application des articles L. 562-2 et suivants du code monétaire et financier",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054427146",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-07-16T00:00:00",
+      "summary": "Article Par arrêté du ministre de l'intérieur et du ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique en date du 15 juillet 2026, vu le code monétaire et financier, et notamment ses articles L. 562-2 et suivants, les fonds et ressources économiques qui appartiennent à, sont possédés, détenus ou contrôlés par M. El Yess ZARELI, alias Elias d'Imzalène, né le 22 février 1979 à Versailles (78), ainsi que les fonds et ressources économiques qui appartie",
+      "score": 82,
+      "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: code monétaire | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "4b8d00e51eff4352",
@@ -2077,6 +2077,60 @@
       "ai_summary": "Cet article traite de la conformité AML/LCB-FT en alertant sur les risques de blanchiment via des structures liées aux sanctions iraniennes."
     },
     {
+      "hash": "80e55756f5542bff",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Avis de vacance d'emplois de directeur ou de directrice d'établissements sanitaires, sociaux et médico-sociaux",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054428023",
+      "author": "Ministère de la santé, des familles, de l'autonomie et des personnes handicapées",
+      "published": "2026-07-16T00:00:00",
+      "summary": "Article L'avis de vacances d'emplois de directeur ou de directrice d'établissements sanitaires, sociaux et médico-sociaux publié au Journal officiel de la République française du 9 juillet 2026, texte 104 sur 123 (NOR : SFHN2618691V), est modifié comme suit :Dans le paragraphe I :Il convient d'ajouter les emplois suivants :- EHPAD « Les tilleuls » à Aurec-sur-Loire, EHPAD « Saint Vincent » à Bas en Basset et EHPAD « Les sources » à Saint Pal en Chalençon, direction commune (Haute-Loire), (cf. fi",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "AVIS",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "b300d2fcaada467b",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Additif à l'avis de vacance d'emplois de direction de la fonction publique hospitalière (emplois fonctionnels)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054428015",
+      "author": "Ministère de la santé, des familles, de l'autonomie et des personnes handicapées",
+      "published": "2026-07-16T00:00:00",
+      "summary": "Article L'avis de vacance d'emplois de direction de la fonction publique hospitalière (emplois fonctionnels) publié au Journal officiel de la République française le 10 juillet 2026, texte n° 148 (NOR : SFHN2618853V), est modifié comme suit :Il convient d'ajouter les postes suivants :Groupe II. - Emploi de directeur ou directrice :- Etablissement public de santé mentale 71 de Sevrey, EHPAD du Creusot et EHPAD de Montcenis (Saône-et-Loire) (cf. annexe I).Groupe JII. - Emploi d'adjoint(e) au direc",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "AVIS",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "5d66881310497cd6",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décret n° 2026-634 du 10 juillet 2026 portant publication de l'accord entre le Gouvernement de la République française et la Communauté des Caraïbes relatif à l'adhésion au protocole sur les privilèges et immunités de la Communauté des Caraïbes du 14 janvier 1985 (1) et de l'accord entre le Gouvernement de la République française et la Communauté des Caraïbes définissant les conditions d'octroi à la Martinique du statut de membre associé de la Communauté des Caraïbes (2), signés à Bridgetown le 20 février 2025",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054427175",
+      "author": "Ministère de l'Europe et des affaires étrangères",
+      "published": "2026-07-16T00:00:00",
+      "summary": "Article 1L'accord entre le Gouvernement de la République française et la Communauté des Caraïbes relatif à l'adhésion au protocole sur les privilèges et immunités de la Communauté des Caraïbes du 14 janvier 1985, signé à Bridgetown le 20 février 2025, sera publié au Journal officiel de la République française.Article 2L'accord entre le Gouvernement de la République française et la Communauté des Caraïbes définissant les conditions d'octroi à la Martinique du statut de membre associé de la Commun",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "DÉCRET",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "90e25b3a80764606",
       "source_name": "JORF - Sanctions",
       "source_type": "rss",
@@ -2344,7 +2398,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges d'informations transfrontaliers entre unités de renseignement financier pour la lutte contre le blanchiment."
+      "ai_summary": "AMLA établit des normes harmonisées pour l'échange transfrontalier d'informations entre unités de renseignement financier, renforçant la conformité anti-blanchiment."
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -3802,7 +3856,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "668b8f3783192c28",
@@ -3820,7 +3874,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de la gouvernance d'entreprise et de conformité, couvrant l'IA, les risques et la formation des conseils d'administration."
     },
     {
       "hash": "9c8f0721d6b97266",
@@ -3838,7 +3892,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La désignation terroriste expose des lacunes de conformité dans le secteur du divertissement brésilien concernant la lutte anti-blanchiment."
     },
     {
       "hash": "cad1a4a7cfb8024e",
@@ -4163,42 +4217,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les amendes imposées pour violation de conformité sanctions et de diligence raisonnable client."
-    },
-    {
-      "hash": "afccb138cc1d0eee",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Documents et publications",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054400200",
-      "author": "",
-      "published": "2026-07-09T00:00:00",
-      "summary": "Article Assemblée nationaleSession extraordinaire 2025-2026Documents parlementairesDépôt du mercredi 8 juillet 2026Dépôt de propositions de résolutionMme la Présidente de l'Assemblée nationale a reçu, le 8 juillet 2026, de Mme Zahia Hamdane et plusieurs de ses collègues, une proposition de résolution tendant à la création d'une commission d'enquête sur le naufrage financier et social du groupe Hopps et de sa filiale Milee, l'utilisation des fonds publics alloués, le contrôle de la fraude systémi",
-      "score": 45,
-      "score_breakdown": "+20 mots critiques: fraude, fraud | +25 Source FR | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "8a010fc537b895e4",
-      "source_name": "Commission EU - Press",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Commission and High Representative propose new sanctions regime to counter threats from migrant smuggling, human trafficking, and other forms of organised crime",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1562",
-      "author": "",
-      "published": "2026-07-09T08:35:44",
-      "summary": "European Commission Press release Brussels, 09 Jul 2026 Today, the European Commission and the High Representative of the Union for Foreign Affairs and Security Policy, proposed a new EU sanctions regime to tackle threats posed by several forms of organised crime, including migrant smuggling, trafficking in human beings, firearms and illicit drugs and money laundering.",
-      "score": 45,
-      "score_breakdown": "+20 mots critiques: sanction, money laundering | +15 Source EU | +10 Géo EU: european commission | ×1.0 (7d)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e1e1ab94b00aaac2",
@@ -4954,7 +4972,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "51dbe6f1d0a63220",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Adani denies quid-pro-quo claims in bid to save DOJ dismissal",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/adani-denies-quid-pro-quo-claims-in-bid-save-doj-dismissal",
+      "author": "Gaspard Le Dem",
+      "published": "2026-07-15T16:06:58",
+      "summary": "The Indian business tycoon and his lawyer at Sullivan &amp; Cromwell told a federal judge that prosecutors “categorically rejected” a proposal to invest $10 billion in the US economy in exchange for abandoning a high-profile fraud and bribery case.",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "de9054a6764dad54",
@@ -5191,24 +5227,6 @@
       "ai_summary": "Les autorités enquêtent sur des fraudes télécom impliquant des risques de conformité réglementaire et de lutte anti-fraude."
     },
     {
-      "hash": "b5749ea6b7703934",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Greek ship operator has fulfilled sanctions DPA, DOJ says",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/greek-ship-operator-has-fulfilled-sanctions-dpa-doj-says",
-      "author": "Estelle Atkinson",
-      "published": "2026-06-15T20:37:05",
-      "summary": "US prosecutors have asked a federal judge to dismiss a criminal case against Empire Navigation over a conspiracy to ship nearly a million barrels of sanctioned Iranian oil.",
-      "score": 39,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Un armateur grec a respecté un accord de conformité avec les autorités américaines concernant des violations de sanctions contre l'Iran."
-    },
-    {
       "hash": "3a8107d30593bbea",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -5279,24 +5297,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision bancaire et de la publication de données réglementaires par l'ECB."
-    },
-    {
-      "hash": "9b0c211448356ae5",
-      "source_name": "Parlement EU - ECON",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Briefing - Stability and Growth Pact: 2025 implementation and additional flexibility for energy - PE 784.047 - Committee on Economic and Monetary Affairs",
-      "url": "https://www.europarl.europa.eu/RegData/etudes/BRIE/2026/784047/ECTI_BRI(2026)784047_EN.pdf",
-      "author": "",
-      "published": "2026-06-15T22:00:00",
-      "summary": "On 3 June 2026, the Commission published the European Semester Spring Package, including the first assessment of compliance with the net expenditure paths under the reformed Stability and Growth Pact. This briefing provides an overview of the main fiscal elements of the package. It examines the proposed extension of the national escape clause to energy-related expenditure, the Commission’s assessment of compliance for 2025 and 2026, and the progress made on reforms and investments underpinning e",
-      "score": 37,
-      "score_breakdown": "+10 mots forts: compliance | +15 Source EU | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité aux règles budgétaires du Pacte de stabilité et de croissance réformé et des trajectoires de dépenses nettes."
     },
     {
       "hash": "201c9d80424d2544",
@@ -5728,7 +5728,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions commerciales internationales et les droits de douane, relevant de la conformité aux régimes de sanctions et aux obligations de conformité commerciale."
+      "ai_summary": "La Chine risque des sanctions commerciales pour ses achats d'hydrocarbures russes, soulevant des enjeux de conformité aux régimes de sanctions internationales."
     },
     {
       "hash": "b966a46fd90d62de",
@@ -5746,7 +5746,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde les accords de poursuites reportées (DPAs) pour les individus, relevant de la lutte anti-fraude réglementée."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des accords de poursuite différée applicables aux individus pour prévenir la fraude et assurer la responsabilité personnelle."
     },
     {
       "hash": "35df6bf79f6bfabe",
@@ -6358,7 +6358,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les prestataires de services de paiement doivent respecter les réglementations et normes de conformité pour participer à des projets pilotes de monnaie numérique."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "403bb933fee72d1d",
@@ -6394,7 +6394,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7255fb0cfe55a15e",
@@ -6826,7 +6826,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5b2a1c04a7f5f2d0",
@@ -6844,7 +6844,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3187dc0002653a16",
@@ -6880,7 +6880,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "18090426cc583d4f",
@@ -7060,7 +7060,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e0483bca84e46857",
@@ -7312,7 +7312,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Le Groupe BPCE participe au pilote de l'euro numérique de la BCE, impliquant des enjeux de conformité réglementaire et opérationnelle des services de paiement."
+      "ai_summary": "Le Groupe BPCE teste l'euro numérique pour la BCE, validant la conformité technique et opérationnelle de cette nouvelle infrastructure de paiement."
     },
     {
       "hash": "4fec49f06b4c0203",
@@ -7834,7 +7834,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions et désignations contre la prolifération et le terrorisme, relevant de la conformité financière internationale."
     },
     {
       "hash": "3ef3dd2dbdd3f32a",
@@ -8161,24 +8161,6 @@
       "ai_summary": "L'agence fiscale britannique met en place un nouveau programme de récompenses pour les lanceurs d'alerte, renforçant la conformité fiscale."
     },
     {
-      "hash": "c5772c27be90a48d",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "DOJ adviser tests limits of role with contentious calls",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/doj-adviser-tests-limits-of-role-contentious-calls",
-      "author": "Gaspard Le Dem,Mark Taylor",
-      "published": "2026-07-01T21:34:02",
-      "summary": "Trent McCotter has emerged as a central player in some of the DOJ’s most controversial decisions, including dropping the Adani bribery case. Former officials say his hands-on role in litigation breaks with long-standing norms and deepens concerns about political influence.",
-      "score": 4,
-      "score_breakdown": "+3 Presse | +3 Géo Intl: doj | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "13812eb270d91165",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -8303,9 +8285,27 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la conformité financière car il concerne les nouvelles directives sur les sanctions pénales pour corruption étrangère."
+    },
+    {
+      "hash": "c5772c27be90a48d",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "DOJ adviser tests limits of role with contentious calls",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/doj-adviser-tests-limits-of-role-contentious-calls",
+      "author": "Gaspard Le Dem,Mark Taylor",
+      "published": "2026-07-01T21:34:02",
+      "summary": "Trent McCotter has emerged as a central player in some of the DOJ’s most controversial decisions, including dropping the Adani bribery case. Former officials say his hands-on role in litigation breaks with long-standing norms and deepens concerns about political influence.",
+      "score": 3,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: doj | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     }
   ],
-  "last_update": "2026-07-15T19:43:40.873765+00:00",
+  "last_update": "2026-07-16T01:44:40.878605+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
