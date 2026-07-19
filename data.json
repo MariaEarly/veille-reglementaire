@@ -1138,7 +1138,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car Tracfin renforce sa coopération avec la DGDDI pour améliorer la lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car Tracfin renforce sa coopération avec la DGDDI pour améliorer le contrôle et la lutte contre le blanchiment de capitaux."
     },
     {
       "hash": "86be41206b887d14",
@@ -2254,7 +2254,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges d'informations transfrontaliers entre les unités de renseignement financier pour la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges d'informations transfrontaliers entre unités de renseignement financier pour la lutte anti-blanchiment."
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -3985,24 +3985,6 @@
       "ai_summary": "La Belgique renforce les pénalités financières pour les entreprises violant les sanctions, renforçant la conformité réglementaire."
     },
     {
-      "hash": "9d1062b5cce4ac3c",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "BFM Crypto, les Pros : Binance, la menace MiCA avant le 1er juillet – 19/06",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/les-pros-des-cryptos/bfm-crypto-les-pros-binance-la-menace-mi-ca-avant-le-1er-juillet-19-06_EN-202606190622.html",
-      "author": "",
-      "published": "2026-06-19T13:39:25",
-      "summary": "Vendredi 19 juin, les conséquences de l'éventuelle cessation des activités de Binance en Europe, les craintes de C. Lagarde face aux stablecoins dollar, et le potentiel des IA décentralisées, ont été abordés par Xavier Fenaux, associé chez Interactiv Trading, Owen Simonin, fondateur de la chaine Youtube \"Hasheur\" et CEO de Meria, et Alexandre Stachtchenko, directeur de la stratégie chez Bitstack, reçus par Guillaume Sommerer, dans l'émission BFM Crypto, Les Pros sur BFM Business. Retrouvez l'émi",
-      "score": 49,
-      "score_breakdown": "+20 mots forts: mica, crypto | +3 Presse | +10 Géo EU: mica | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il aborde les implications réglementaires de MiCA pour Binance et les risques liés aux stablecoins."
-    },
-    {
       "hash": "1efca07dfa4b68d0",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -4072,7 +4054,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5d66881310497cd6",
@@ -4090,7 +4072,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b300d2fcaada467b",
@@ -4108,7 +4090,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d090c59636185c87",
@@ -4451,6 +4433,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre le blanchiment d'argent et des institutions financières."
+    },
+    {
+      "hash": "c9427470cf1fd9d8",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Que les \"années Obama\" leur semblent loin... À Cuba, l'embargo pétrolier américain frappe l'économie de l'île, son tourisme et son agriculture (la salade roquette a été remplacée par le manioc)",
+      "url": "https://www.bfmtv.com/economie/entreprises/agriculture/que-les-annees-obama-leur-semblent-loin-a-cuba-l-embargo-petrolier-americain-frappe-l-economie-de-l-ile-son-tourisme-et-son-agriculture-la-salade-roquette-a-ete-remplacee-par-le-manioc_AD-202607190234.html",
+      "author": "",
+      "published": "2026-07-19T13:03:56",
+      "summary": "L'embargo pétrolier américain sur Cuba impacte l'agriculture de l'île, très dépendante des importations. Dans une ferme biologique, les boeufs ont remplacé les tracteurs avec la hausse du prix du diesel, qui a dépassé les 3 dollars le litre. Et les légumes-racines bon marché se sont substitués à la roquette, prisée des restaurateurs. Reportage. ",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: embargo | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "e4a0cc5a8b14094b",
@@ -5821,24 +5821,6 @@
       "ai_summary": "La FATF ajuste sa liste grise, consulte sur la transparence des paiements et prépare la présidence britannique."
     },
     {
-      "hash": "4d268ffbfe10bfcf",
-      "source_name": "ComplyAdvantage",
-      "source_type": "press",
-      "category": "presse",
-      "title": "ComplyAdvantage makes the 2026 AIFinTech100 list for its AI-native approach to financial crime compliance",
-      "url": "https://complyadvantage.com/press-media/complyadvantage-makes-the-2026-aifintech100-list-for-its-ai-native-approach-to-financial-crime-compliance/",
-      "author": "Audrey Langevin",
-      "published": "2026-06-19T15:26:29",
-      "summary": "NEW YORK, June 19, 2026 – ComplyAdvantage has been named one of the world&#8217;s leading FinTech companies by FinTech Global on its prestigious AIFinTech100 list. The recognition reflects an approach the company has taken from the start: AI built in, [&#8230;]\nThe post ComplyAdvantage makes the 2026 AIFinTech100 list for its AI-native approach to financial crime compliance appeared first on ComplyAdvantage.",
-      "score": 34,
-      "score_breakdown": "+10 mots forts: compliance | +10 mots moyens: fintech, ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "ComplyAdvantage est reconnue pour son approche native IA dans la conformité aux réglementations de lutte contre la criminalité financière."
-    },
-    {
       "hash": "2f36e52f6d9b22c0",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -5872,7 +5854,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a9c020110946ea17",
@@ -5926,7 +5908,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "403bb933fee72d1d",
@@ -6376,7 +6358,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "18090426cc583d4f",
@@ -6520,7 +6502,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "23a158300e320beb",
@@ -6538,7 +6520,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0e50a1c2da1a9a3d",
@@ -6556,7 +6538,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e0483bca84e46857",
@@ -6575,6 +6557,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "ESMA publie un registre de vérificateurs externes pour la conformité aux obligations de transparence et d'alignement avec la taxonomie de l'UE."
+    },
+    {
+      "hash": "05135b85e241df2d",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "« La dépendance de l’Irlande à l’égard de grandes entreprises non européennes crée des conflits d’intérêts insurmontables »",
+      "url": "https://www.lemonde.fr/idees/article/2026/07/19/la-dependance-de-l-irlande-a-l-egard-de-grandes-entreprises-non-europeennes-cree-des-conflits-d-interets-insurmontables_6726231_3232.html",
+      "author": "",
+      "published": "2026-07-19T17:00:07",
+      "summary": "Le pays, qui a pris la présidence tournante du Conseil de l’UE au 1ᵉʳ juillet, doit se retirer des négociations sur la régulation numérique et les règles de fiscalité des entreprises, estime dans une tribune au « Monde » un collectif d’universitaires, dont les économistes Mariana Mazzucato, Joseph Stiglitz et Shoshana Zuboff.",
+      "score": 19,
+      "score_breakdown": "+3 Presse | +10 Géo EU: irlande | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "08cb3fde3b4f700e",
@@ -6736,7 +6736,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6708b2d8a498228c",
@@ -6790,7 +6790,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "004adb22c54c6647",
@@ -6971,24 +6971,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'adhésion de l'Islande au système TIPS renforce la conformité aux standards de paiement européens et aux règles de settlement financier."
-    },
-    {
-      "hash": "543f6cdc0b1c222c",
-      "source_name": "FATF/GAFI (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📢 The sixth and final FATF Plenary meeting under the Mexican Presidency of @ElisadeAnda has concluded, with a comprehensive range of initiatives agreed to bolster the global fight against illicit finance. Read the full outcomes ➡️  #FollowTheMoney #FATF",
-      "url": "https://x.com/FATFNews/status/2068020730139193760",
-      "author": "@FATFNews",
-      "published": "2026-06-19T17:18:00",
-      "summary": "📢 The sixth and final FATF Plenary meeting under the Mexican Presidency of  @ElisadeAnda has concluded, with a comprehensive range of initiatives agreed to bolster the global fight against illicit finance.Read the full outcomes ➡️  lnkd.in/eB6GB2hJ  #FollowTheMoney  #FATF Video  — FATF (@FATFNews) Jun 19, 2026",
-      "score": 15,
-      "score_breakdown": "+10 mots forts: fatf | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le FATF adopte des initiatives pour renforcer la lutte mondiale contre le financement illicite et la conformité aux normes anti-blanchiment."
     },
     {
       "hash": "f0ad8b2360cd799a",
@@ -7708,10 +7690,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-07-19T13:59:02.328400+00:00",
+  "last_update": "2026-07-19T18:52:32.472829+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
