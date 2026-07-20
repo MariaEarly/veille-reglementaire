@@ -1138,7 +1138,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il évoque le renforcement de la coopération entre Tracfin, l'unité anti-blanchiment français, et la DGDDI pour améliorer la lutte contre les infractions financières."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du renforcement de la coopération entre Tracfin et les douanes pour lutter contre le blanchiment et la fraude."
     },
     {
       "hash": "86be41206b887d14",
@@ -2236,7 +2236,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne l'harmonisation des échanges d'informations transfrontaliers entre unités de renseignement financier pour la lutte contre le blanchiment de capitaux."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges transfrontaliers d'informations entre unités de renseignement financier pour lutter contre le blanchiment d'argent."
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -4018,7 +4018,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "80e55756f5542bff",
@@ -4036,7 +4036,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5d66881310497cd6",
@@ -4054,7 +4054,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d090c59636185c87",
@@ -4397,24 +4397,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre le blanchiment d'argent et des institutions financières."
-    },
-    {
-      "hash": "c9427470cf1fd9d8",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Que les \"années Obama\" leur semblent loin... À Cuba, l'embargo pétrolier américain frappe l'économie de l'île, son tourisme et son agriculture (la salade roquette a été remplacée par le manioc)",
-      "url": "https://www.bfmtv.com/economie/entreprises/agriculture/que-les-annees-obama-leur-semblent-loin-a-cuba-l-embargo-petrolier-americain-frappe-l-economie-de-l-ile-son-tourisme-et-son-agriculture-la-salade-roquette-a-ete-remplacee-par-le-manioc_AD-202607190234.html",
-      "author": "",
-      "published": "2026-07-19T13:03:56",
-      "summary": "L'embargo pétrolier américain sur Cuba impacte l'agriculture de l'île, très dépendante des importations. Dans une ferme biologique, les boeufs ont remplacé les tracteurs avec la hausse du prix du diesel, qui a dépassé les 3 dollars le litre. Et les légumes-racines bon marché se sont substitués à la roquette, prisée des restaurateurs. Reportage. ",
-      "score": 42,
-      "score_breakdown": "+20 mots critiques: embargo | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e4a0cc5a8b14094b",
@@ -5818,7 +5800,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a9c020110946ea17",
@@ -5872,7 +5854,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "403bb933fee72d1d",
@@ -6307,6 +6289,24 @@
       "ai_summary": "La sélection de prestataires de services de paiement pour le pilote d'euro numérique concerne la conformité réglementaire des services financiers."
     },
     {
+      "hash": "bd890d8ba111b74f",
+      "source_name": "Cass. - Corruption",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Tribunal judiciaire de Paris, Service des référés, 10 juillet 2026, 26/54116",
+      "url": "http://juricaf.org/arret/FRANCE-TRIBUNALJUDICIAIREDEPARIS-20260710-2654116",
+      "author": "Service des référés",
+      "published": "2026-07-10T12:00:00",
+      "summary": "TRIBUNAL  JUDICIAIRE  DE Localité 1    ■       N° RG 26/54116 - N° Portalis 352J-W-B7K-DDDAE  N° : 3/MM  Assignation du : 10,11 Juin 2026  1  1 5 Copies exécutoires délivrées le:   JUGEMENT RENDU SELON LA PROCEDURE ACCELEREE AU FOND   le 10 juillet 2026    par Pauline LESTERLIN, Juge au Tribunal judiciaire de Paris, agissant par délégation du Président du Tribunal,  Assistée de Minas MAKRIS, Greffier.  DEMANDERESSE  Madame la Présidente de l’AUTORITE DES MARCHES FINANCIERS AMF, agissant au nom d",
+      "score": 24,
+      "score_breakdown": "+10 mots forts: amf | +20 Géo FR: france, amf | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a79a7ae69758b181",
       "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
@@ -6322,7 +6322,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "18090426cc583d4f",
@@ -6466,7 +6466,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "23a158300e320beb",
@@ -6484,7 +6484,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0e50a1c2da1a9a3d",
@@ -6502,7 +6502,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e0483bca84e46857",
@@ -6700,7 +6700,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6708b2d8a498228c",
@@ -6754,7 +6754,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "004adb22c54c6647",
@@ -7654,10 +7654,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-07-20T04:11:44.509856+00:00",
+  "last_update": "2026-07-20T08:41:28.193600+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
