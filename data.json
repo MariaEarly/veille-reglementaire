@@ -1138,7 +1138,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car Tracfin renforce sa coopération avec la DGDDI pour améliorer la lutte contre le blanchiment et le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il décrit le renforcement de la coopération entre Tracfin et la DGDDI pour améliorer la lutte contre le blanchiment et la fraude."
     },
     {
       "hash": "86be41206b887d14",
@@ -1480,7 +1480,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie de collecte de données pour l'évaluation des risques de blanchiment de capitaux par l'autorité compétente européenne."
     },
     {
       "hash": "4fee4512ca068ae6",
@@ -1642,7 +1642,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité réglementaire des assureurs et réassureurs par l'application d'un nouveau régime de proportionnalité supervisé par l'ACPR."
     },
     {
       "hash": "816401873dd9cfe6",
@@ -2272,7 +2272,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des règles d'échange d'informations entre unités de renseignement financier pour la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges d'informations transfrontaliers entre les FIU pour le signalement d'activités suspectes en matière de lutte contre le blanchiment de capitaux."
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -3658,7 +3658,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La Commission européenne sanctionne AliExpress pour non-conformité réglementaire en matière de contrôle des ventes illégales."
     },
     {
       "hash": "a74cc4b9ae2f9b34",
@@ -4054,7 +4054,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "80e55756f5542bff",
@@ -4072,7 +4072,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5d66881310497cd6",
@@ -4090,7 +4090,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d090c59636185c87",
@@ -5857,24 +5857,6 @@
       "ai_summary": "La SFO clôture son enquête sur fraude concernant un promoteur immobilier défaillant, relevant de la conformité financière et de la lutte anti-fraude."
     },
     {
-      "hash": "2bbd8454c62c76d4",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de DOUAI, 1ère chambre, 17 juillet 2026, 26DA00982",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEDOUAI-20260717-26DA00982",
-      "author": "1ère chambre",
-      "published": "2026-07-17T12:00:00",
-      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           M. A... a demandé au tribunal administratif d'Amiens d'annuler l'arrêté du 11 août 2025 par lequel le préfet de l'Oise lui a refusé la délivrance d'un titre de séjour, l'a obligé à quitter le territoire français dans un délai de trente jours, et a fixé le pays de destination de la mesure d'éloignement, d'enjoindre au préfet de l'Oise de lui délivrer une autorisation provisoire de séjour dans l'attente du réexamen ",
-      "score": 30,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france, français | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "403bb933fee72d1d",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
@@ -5999,6 +5981,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'amélioration des outils de vérification des sanctions OFAC."
+    },
+    {
+      "hash": "c87b19fd0ae7a535",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Spotlighting US export controls amid BIS crackdown on semiconductors in China",
+      "url": "https://globalinvestigationsreview.com/guide/the-guide-sanctions/seventh-edition/article/spotlighting-us-export-controls-amid-bis-crackdown-semiconductors-in-china",
+      "author": "Christopher R Wall,Matthew R Rabinowitz,Benjamin J Cote,Roya Motazedi",
+      "published": "2026-07-17T07:00:00",
+      "summary": "US export controls, primarily governed by the Export Administration Regulations and International Traffic in Arms Regulations, regulate US-origin products and technology globally. Key elements include licensing, de minimis and foreign direct product rules, country-specific embargoes and strict penalties for violations. Recent developments focus on Russia, China, semiconductors, AI and exp...",
+      "score": 28,
+      "score_breakdown": "+20 mots critiques: embargo | +5 mots moyens: regulation | +3 Presse | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "ba2ef4bac1939030",
@@ -6253,6 +6253,24 @@
       "ai_summary": "Les investigations internes en Allemagne impliquent des enjeux de conformité liés à la protection des données et aux risques de sanction."
     },
     {
+      "hash": "2bbd8454c62c76d4",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de DOUAI, 1ère chambre, 17 juillet 2026, 26DA00982",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEDOUAI-20260717-26DA00982",
+      "author": "1ère chambre",
+      "published": "2026-07-17T12:00:00",
+      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           M. A... a demandé au tribunal administratif d'Amiens d'annuler l'arrêté du 11 août 2025 par lequel le préfet de l'Oise lui a refusé la délivrance d'un titre de séjour, l'a obligé à quitter le territoire français dans un délai de trente jours, et a fixé le pays de destination de la mesure d'éloignement, d'enjoindre au préfet de l'Oise de lui délivrer une autorisation provisoire de séjour dans l'attente du réexamen ",
+      "score": 25,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france, français | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "3187dc0002653a16",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
@@ -6304,7 +6322,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a79a7ae69758b181",
@@ -6322,7 +6340,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "18090426cc583d4f",
@@ -6466,7 +6484,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "23a158300e320beb",
@@ -6484,7 +6502,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0e50a1c2da1a9a3d",
@@ -6502,7 +6520,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e0483bca84e46857",
@@ -6700,7 +6718,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6708b2d8a498228c",
@@ -7025,6 +7043,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "FinCEN décerne des prix aux organismes d'application de la loi pour leurs efforts en matière de conformité aux réglementations financières."
+    },
+    {
+      "hash": "0232c90f3fd00cb4",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "China chases illegal rare earth mineral exports intelligence",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/china-chases-illegal-rare-earth-mineral-exports-intelligence",
+      "author": "Malavika Devaya",
+      "published": "2026-07-20T15:43:26",
+      "summary": "Companies that discover suspected Chinese export control breaches involving strategic minerals may have a stronger incentive than ever to self-report, as new guidance creates both a clearer path to leniency and a greater risk that they might be beaten to the punch by whistleblowers.",
+      "score": 12,
+      "score_breakdown": "+5 mots moyens: risk | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "070f72874744ac2b",
@@ -7531,6 +7567,24 @@
       "ai_summary": "Cet article concerne les sanctions contre le terrorisme imposées par l'OFAC, relevant de la conformité réglementaire et anti-blanchiment."
     },
     {
+      "hash": "42cdd026b97775a8",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "\"L'interdiction demeure le principe\": Matignon refuse de retirer l'article sur un pesticide controversé",
+      "url": "https://www.bfmtv.com/economie/entreprises/agriculture/loi-d-urgence-agricole-matignon-refuse-de-supprimer-l-article-qui-reautorise-un-pesticide-controverse-car-il-ne-concerne-que-la-noisette_AV-202607200520.html",
+      "author": "",
+      "published": "2026-07-20T15:28:27",
+      "summary": "À quelques heures du vote sur la loi agricole, Matignon refuse de supprimer les dispositions sur l'acétamipride, qu'il présente comme une simple dérogation très encadrée et non une réautorisation, tout en déposant deux amendements techniques dans un contexte de fortes divisions au sein de la majorité.",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "cbf855b72b362493",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7636,10 +7690,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-07-20T14:36:29.197982+00:00",
+  "last_update": "2026-07-20T19:26:25.484138+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
