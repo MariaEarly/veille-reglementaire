@@ -1138,7 +1138,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il décrit le renforcement de la coopération entre Tracfin et la DGDDI pour améliorer la lutte contre le blanchiment et la fraude."
+      "ai_summary": "Cet article concerne la conformité financière car Tracfin renforce sa coopération avec la DGDDI pour améliorer la lutte anti-blanchiment et le contrôle des flux financiers."
     },
     {
       "hash": "86be41206b887d14",
@@ -1447,24 +1447,6 @@
       "ai_summary": "L'ESMA impose aux prestataires de cryptoactifs non autorisés de cesser leurs activités en conformité avec la réglementation MiCA."
     },
     {
-      "hash": "9f5e36035d02ceaf",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 19 juin 2026 portant application des articles L. 562-2 et suivants du code monétaire et financier",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054283742",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-06-21T00:00:00",
-      "summary": "Article Par arrêté du ministre de l'intérieur et du ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique en date du 19 juin 2026, vu le code monétaire et financier, et notamment ses articles L. 562-2 et suivants, les fonds et ressources économiques qui appartiennent à, sont possédés, détenus ou contrôlés par M. Mohamed MAZOUZ, né le 19 juillet 1984 à Saint-Denis (93), ainsi que les fonds et ressources économiques qui appartiennent à, sont possédés, dé",
-      "score": 82,
-      "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: code monétaire | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet arrêté applique la lutte contre le financement du terrorisme et le blanchiment de capitaux via la gestion des fonds et ressources économiques."
-    },
-    {
       "hash": "9ab828447cd07978",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -1480,7 +1462,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie de collecte de données pour l'évaluation des risques de blanchiment de capitaux par l'autorité compétente européenne."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie de collecte de données pour l'évaluation des risques de blanchiment de capitaux par l'autorité européenne."
     },
     {
       "hash": "4fee4512ca068ae6",
@@ -1642,7 +1624,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité réglementaire des assureurs et réassureurs par l'application d'un nouveau régime de proportionnalité supervisé par l'ACPR."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de nouvelles règles de proportionnalité pour les assureurs et réassureurs."
     },
     {
       "hash": "816401873dd9cfe6",
@@ -2272,7 +2254,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges d'informations transfrontaliers entre les FIU pour le signalement d'activités suspectes en matière de lutte contre le blanchiment de capitaux."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges transfrontaliers d'informations entre les unités de renseignement financier pour la lutte anti-blanchiment."
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -4039,6 +4021,24 @@
       "ai_summary": "Cet article concerne les amendes imposées pour violation de conformité sanctions et de diligence raisonnable client."
     },
     {
+      "hash": "5d66881310497cd6",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décret n° 2026-634 du 10 juillet 2026 portant publication de l'accord entre le Gouvernement de la République française et la Communauté des Caraïbes relatif à l'adhésion au protocole sur les privilèges et immunités de la Communauté des Caraïbes du 14 janvier 1985 (1) et de l'accord entre le Gouvernement de la République française et la Communauté des Caraïbes définissant les conditions d'octroi à la Martinique du statut de membre associé de la Communauté des Caraïbes (2), signés à Bridgetown le 20 février 2025",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054427175",
+      "author": "Ministère de l'Europe et des affaires étrangères",
+      "published": "2026-07-16T00:00:00",
+      "summary": "Article 1L'accord entre le Gouvernement de la République française et la Communauté des Caraïbes relatif à l'adhésion au protocole sur les privilèges et immunités de la Communauté des Caraïbes du 14 janvier 1985, signé à Bridgetown le 20 février 2025, sera publié au Journal officiel de la République française.Article 2L'accord entre le Gouvernement de la République française et la Communauté des Caraïbes définissant les conditions d'octroi à la Martinique du statut de membre associé de la Commun",
+      "score": 45,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
+      "doc_type": "DÉCRET",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "b300d2fcaada467b",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -4054,7 +4054,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "80e55756f5542bff",
@@ -4072,25 +4072,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "5d66881310497cd6",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décret n° 2026-634 du 10 juillet 2026 portant publication de l'accord entre le Gouvernement de la République française et la Communauté des Caraïbes relatif à l'adhésion au protocole sur les privilèges et immunités de la Communauté des Caraïbes du 14 janvier 1985 (1) et de l'accord entre le Gouvernement de la République française et la Communauté des Caraïbes définissant les conditions d'octroi à la Martinique du statut de membre associé de la Communauté des Caraïbes (2), signés à Bridgetown le 20 février 2025",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054427175",
-      "author": "Ministère de l'Europe et des affaires étrangères",
-      "published": "2026-07-16T00:00:00",
-      "summary": "Article 1L'accord entre le Gouvernement de la République française et la Communauté des Caraïbes relatif à l'adhésion au protocole sur les privilèges et immunités de la Communauté des Caraïbes du 14 janvier 1985, signé à Bridgetown le 20 février 2025, sera publié au Journal officiel de la République française.Article 2L'accord entre le Gouvernement de la République française et la Communauté des Caraïbes définissant les conditions d'octroi à la Martinique du statut de membre associé de la Commun",
-      "score": 45,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
-      "doc_type": "DÉCRET",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d090c59636185c87",
@@ -5998,7 +5980,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les contrôles à l'exportation américains, aspects clés de la conformité réglementaire et des risques de sanctions commerciales internationales."
     },
     {
       "hash": "ba2ef4bac1939030",
@@ -6268,7 +6250,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3187dc0002653a16",
@@ -6322,7 +6304,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a79a7ae69758b181",
@@ -6340,7 +6322,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "18090426cc583d4f",
@@ -6484,7 +6466,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "23a158300e320beb",
@@ -6502,7 +6484,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0e50a1c2da1a9a3d",
@@ -6520,7 +6502,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e0483bca84e46857",
@@ -6718,7 +6700,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6708b2d8a498228c",
@@ -7060,7 +7042,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des risques de sanctions liées aux violations de contrôles d'exportation et de dénonciation."
     },
     {
       "hash": "070f72874744ac2b",
@@ -7079,6 +7061,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la dette publique incontrôlée et des risques de fraude dans les infrastructures."
+    },
+    {
+      "hash": "c083e26f968a8e54",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "US grain hauler enters $10m FCPA resolution over bribes tied to Mexican cartels",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/us-grain-hauler-enters-10m-fcpa-resolution-over-bribes-tied-mexican-cartels",
+      "author": "Estelle Atkinson,Gaspard Le Dem",
+      "published": "2026-07-20T20:15:50",
+      "summary": "Scoular entered into a three-year DPA over allegations that the company approved bribes to Mexican officials that inadvertently supported cartels. The resolution is a sign that the FCPA \"is relatively healthy\" after concerns about flagging enforcement, a former DOJ official told GIR.",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: doj, fcpa | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "ad5b5f1146e9a13d",
@@ -7582,7 +7582,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "cbf855b72b362493",
@@ -7690,10 +7690,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     }
   ],
-  "last_update": "2026-07-20T20:03:40.822944+00:00",
+  "last_update": "2026-07-21T01:46:27.360793+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
