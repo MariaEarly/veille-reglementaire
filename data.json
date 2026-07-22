@@ -1120,7 +1120,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la supervision réglementaire des marchés de capitaux en Europe, relevant directement de la conformité financière et du respect des normes de régulation."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision réglementaire des marchés de capitaux en Europe."
     },
     {
       "hash": "c7199c2c39f85964",
@@ -1462,7 +1462,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie pour la collecte de données destinée à l'évaluation des risques de blanchiment de capitaux par l'autorité compétente."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie de collecte de données pour l'évaluation des risques de blanchiment d'argent par l'AMLA."
     },
     {
       "hash": "4fee4512ca068ae6",
@@ -1984,7 +1984,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Sanction de l'AMF contre Uzès Gestion et ses dirigeants pour manquements aux obligations de conformité réglementaire et de protection des investisseurs."
+      "ai_summary": "Sanction de l'AMF contre Uzès Gestion et des dirigeants pour violations de la réglementation financière et des obligations de conformité."
     },
     {
       "hash": "5298a61a1300e751",
@@ -2002,7 +2002,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté modifie la liste des emplois de chef de service à la direction générale des finances publiques, concernant l'organisation administrative interne."
+      "ai_summary": "Cet arrêté modifie la liste des emplois de chef de service administratif des finances publiques, relevant de l'organisation interne administrative."
     },
     {
       "hash": "bd4f911b0eb08504",
@@ -2038,7 +2038,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté concerne la conformité financière car il modifie un système automatisé de détection de fraude fiscale mis en place par l'administration des finances publiques."
+      "ai_summary": "Cet arrêté concerne la conformité financière car il modifie un dispositif de lutte contre la fraude fiscale utilisant le traitement automatisé de données."
     },
     {
       "hash": "90e25b3a80764606",
@@ -2131,22 +2131,22 @@
       "ai_summary": "Sanction de l'AMF contre Bourse Direct et sa dirigeante pour manquements à la conformité réglementaire des activités financières."
     },
     {
-      "hash": "5103ea9e04930709",
-      "source_name": "PNF (Parquet National Financier)",
+      "hash": "43061d51849655be",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Le 17 juin, à l’invitation de Paris-Pantheon-Assas University, le procureur national financier…",
-      "url": "https://social.numerique.gouv.fr/@pnf/116794053641745094",
+      "category": "autorite_eu",
+      "title": "Frequently asked questions on the reporting package for identifying provisionally eligible entities",
+      "url": "https://www.amla.europa.eu/news-media/news-articles/frequently-asked-questions-reporting-package-identifying-provisionally-eligible-entities_en",
       "author": "",
-      "published": "2026-06-22T13:43:48",
-      "summary": "Le 17 juin, à l’invitation de Paris-Pantheon-Assas University, le procureur national financier Pascal Prache a présidé une table ronde consacrée au contentieux répressif européen en matière de droit boursier, pour lequel le PNF dispose d’une compétence judiciaire exclusive. En montée en puissance progressive depuis plusieurs années, les affaires judiciaires relatives à des atteintes aux marchés financiers représentent aujourd’hui près de 5% du portefeuille des procédures suivies par le PNF.",
+      "published": "2026-07-22T13:26:15",
+      "summary": "AMLA has published a document answering the questions most frequently raised about the reporting package on the identification of provisionally eligible obliged entities.",
       "score": 67,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: pnf | ×1.5 (<24h)",
-      "doc_type": null,
+      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Le PNF exerce sa compétence exclusive en matière de contentieux répressif européen du droit boursier et de la criminalité financière."
+      "ai_summary": null
     },
     {
       "hash": "b85987f29de9e56c",
@@ -2326,7 +2326,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges d'informations transfrontaliers entre les unités de renseignement financier pour la lutte contre le blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des règles d'échange transfrontalier d'informations entre les unités de renseignement financier pour la lutte anti-blanchiment."
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -2525,24 +2525,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Ce paquet de simplification fiscale réduit les charges de conformité des entreprises aux règles fiscales de l'UE."
-    },
-    {
-      "hash": "0cae7e1848d65c36",
-      "source_name": "EBA - News",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Latest EBA MREL dashboard shows that MREL requirements range from 25% to 29% of risk-weighted assets, depending on bank category, while bail-in remains the preferred resolution strategy",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/latest-eba-mrel-dashboard-shows-mrel-requirements-range-25-29-risk-weighted-assets-depending-bank",
-      "author": "Jana Jaklic",
-      "published": "2026-06-22T14:45:00",
-      "summary": "The European Banking Authority (EBA) today published its latest semi-annual dashboard on the minimum requirement for own funds and eligible liabilities (MREL), providing an update on the state of resolution planning and on the resources that banks are using to meet their requirements. As of December 2025, bail-in remains the preferred resolution strategy in terms of risk-weighed assets (RWAs), while rollover needs reach EUR 231 billion for instruments set to become ineligible over the next 12 mo",
-      "score": 67,
-      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: risk, bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des exigences réglementaires (MREL) que les banques doivent respecter."
     },
     {
       "hash": "da5169b239fcf0ac",
@@ -2887,6 +2869,24 @@
       "ai_summary": "CARDIF ASSURANCE VIE est supervisée par l'ACPR pour sa conformité réglementaire et financière."
     },
     {
+      "hash": "a713fe4c37330d9f",
+      "source_name": "Commission EU - Press",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Commission approves Paramount's acquisition of Warner, subject to conditions",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1663",
+      "author": "",
+      "published": "2026-07-21T22:00:00",
+      "summary": "European Commission Press release Brussels, 22 Jul 2026 The European Commission has approved, under the EU Merger Regulation, the proposed acquisition by Paramount Skydance Corporation (‘Paramount') of Warner Bros. Discovery (‘Warner'). The approval is conditional upon full compliance with the commitments offered by Paramount.",
+      "score": 60,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: regulation | +15 Source EU | +10 Géo EU: european commission | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "6d59b530917199fc",
       "source_name": "Commission EU - Sanctions FAQ",
       "source_type": "rss",
@@ -3085,24 +3085,6 @@
       "ai_summary": "Le FATF présente sa feuille de route 2026-2028 contre la fraude financière, impliquant secteurs public et privé."
     },
     {
-      "hash": "adfc32deed79673a",
-      "source_name": "AMF France (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "Le Pôle commun de l’AMF et de l’@ACPR_actu publie la synthèse de son étude sur la distribution, les frais et les performances des produits structurés. Retrouvez nos principaux résultats ici ➡️  #Epargne #Marchés",
-      "url": "https://x.com/AMF_actu/status/2069078089326301644",
-      "author": "@AMF_actu",
-      "published": "2026-06-22T15:20:00",
-      "summary": "Le Pôle commun de l’AMF et de l’ @ACPR_actu publie la synthèse de son étude sur la distribution, les frais et les performances des produits structurés.Retrouvez nos principaux résultats ici ➡️  cutt.ly/Wt4R4DjC #Epargne  #Marchés— AMF (@AMF_actu) Jun 22, 2026",
-      "score": 60,
-      "score_breakdown": "+20 mots forts: acpr, amf | +20 Géo FR: acpr, amf | ×1.5 (<24h)",
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'étude conjointe AMF-ACPR sur les frais et performances des produits structurés relève de la conformité financière réglementaire."
-    },
-    {
       "hash": "48477ca4f73f24e6",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3208,7 +3190,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f2f1e7bb8261528b",
@@ -3712,7 +3694,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une enquête sur la fraude fiscale impliquant Deutsche Bank, enjeu majeur de conformité réglementaire et contrôle anti-fraude."
     },
     {
       "hash": "ea1e2972d0da1029",
@@ -4037,24 +4019,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la conformité financière car il évalue la crédibilité et la fiabilité d'une plateforme crypto, enjeu majeur de régulation."
-    },
-    {
-      "hash": "8ec95c3e91ee235f",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Belgium advances bill to drastically raise corporate penalties for sanctions breaches",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/belgium-advances-bill-drastically-raise-corporate-penalties-sanctions-breaches",
-      "author": "Malavika Devaya",
-      "published": "2026-06-22T14:25:42",
-      "summary": "",
-      "score": 49,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +10 Géo EU: belgium | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La Belgique renforce les pénalités financières pour les entreprises violant les sanctions, renforçant la conformité réglementaire."
     },
     {
       "hash": "1efca07dfa4b68d0",
@@ -4613,24 +4577,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'interdiction d'un auditeur pour des sociétés du groupe Gupta constitue un enjeu majeur de conformité financière et de gouvernance."
-    },
-    {
-      "hash": "8dd206c67c71d05a",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Caribbean lender completes FATCA, money laundering conspiracy DPA",
-      "url": "https://globalinvestigationsreview.com/article/caribbean-lender-completes-fatca-money-laundering-conspiracy-dpa",
-      "author": "Ana de Liz",
-      "published": "2026-06-22T13:27:59",
-      "summary": "A Brooklyn federal court has dismissed a criminal case against an offshore bank based in the Caribbean country of Saint Vincent and the Grenadines for conspiracy to breach a US law designed to prevent US taxpayers from dodging taxes.",
-      "score": 42,
-      "score_breakdown": "+20 mots critiques: money laundering | +5 mots moyens: bank | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'un accord DPA portant sur des violations FATCA et de blanchiment d'argent."
     },
     {
       "hash": "ce82b1b85c664dd4",
@@ -5245,6 +5191,24 @@
       "ai_summary": "Cet arrêt traite du blanchiment de capitaux, infraction relevant de la conformité financière et de la lutte contre le financement illicite."
     },
     {
+      "hash": "bfd417a11e3ec6b3",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Ex-CEO of UK water company charged over alleged regulator fraud",
+      "url": "https://globalinvestigationsreview.com/article/ex-ceo-of-uk-water-company-charged-over-alleged-regulator-fraud",
+      "author": "Malavika Devaya",
+      "published": "2026-07-22T15:27:19",
+      "summary": "A UK court has greenlit the Environment Agency’s attempt to prosecute former executives at Southern Water for allegedly conspiring to defraud the regulator through “carefully planned and extensive fraud and dishonesty”.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a14e66492095ff39",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -5731,24 +5695,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il rapporte une enquête judiciaire pour fraude fiscale contre un groupe majeur."
     },
     {
-      "hash": "6a35075f2a121917",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "London Mining defendants denied legal costs despite misconduct claims",
-      "url": "https://globalinvestigationsreview.com/article/london-mining-defendants-denied-legal-costs-despite-misconduct-claims",
-      "author": "Sam Fry",
-      "published": "2026-06-22T14:18:55",
-      "summary": "A London court has denied a request to make the Serious Fraud Office foot the legal bills of three mining industry executives who were acquitted of bribing officials in Sierra Leone. The trio had accused the agency of serious misconduct during the probe.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites pour corruption et de responsabilités légales en matière de conformité."
-    },
-    {
       "hash": "2f36e52f6d9b22c0",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -5839,6 +5785,24 @@
       "ai_summary": "La SFO clôture son enquête sur fraude concernant un promoteur immobilier défaillant, relevant de la conformité financière et de la lutte anti-fraude."
     },
     {
+      "hash": "82197f0083f0de11",
+      "source_name": "CSSF Luxembourg (AML/CFT)",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Annex to Circular CSSF 22/822 (Updated)",
+      "url": "https://www.cssf.lu/en/Document/annex-to-circular-cssf-22-822/",
+      "author": "",
+      "published": "2026-06-25T00:00:00",
+      "summary": "1) high-risk jurisdictions on which enhanced due diligence and, where appropriate, counter-measures are imposed2) jurisdictions under increased monitoring of the FATFVersion of 19 June 2026",
+      "score": 30,
+      "score_breakdown": "+20 mots forts: due diligence, fatf | +5 mots moyens: risk | +15 Source EU | +10 Géo EU: cssf | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "403bb933fee72d1d",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
@@ -5872,7 +5836,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'ESMA évalue la conformité transfrontalière des prestataires de services d'investissement et la supervision nationale pour protéger les investisseurs."
+      "ai_summary": "L'article concerne la supervision transfrontalière des prestataires de services d'investissement et la protection des investisseurs par les autorités nationales."
     },
     {
       "hash": "d808e044eaaddf45",
@@ -5999,6 +5963,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des contrôles d'exportation américains et des sanctions commerciales imposées à la Chine."
+    },
+    {
+      "hash": "58a1dfed77f77b48",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "First AMLA Conference Recap: Key Moments and Insights",
+      "url": "https://www.amla.europa.eu/first-amla-conference-recap-key-moments-and-insights_en",
+      "author": "",
+      "published": "2026-06-23T15:09:17",
+      "summary": "The recap of the AMLA conference is now available, featuring key insights, highlights, and videos from some of the event's most memorable moments. Explore and relive the conversations that made AMLA 2026 a milestone event.",
+      "score": 27,
+      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "8a23ba744e48caff",
@@ -6286,7 +6268,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a79a7ae69758b181",
@@ -6430,7 +6412,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5b2a1c04a7f5f2d0",
@@ -6448,7 +6430,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "23a158300e320beb",
@@ -6484,7 +6466,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e0483bca84e46857",
@@ -6682,7 +6664,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6708b2d8a498228c",
@@ -6901,6 +6883,24 @@
       "ai_summary": "L'adhésion de l'Islande au système TIPS renforce la conformité aux standards de paiement européens et aux règles de settlement financier."
     },
     {
+      "hash": "e61f728995813ecf",
+      "source_name": "FinCEN",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "FinCEN Extends Comment Period for Proposed Rule To Amend the Definition of Huione Group",
+      "url": "https://www.fincen.gov/news/news-releases/fincen-extends-comment-period-proposed-rule-amend-definition-huione-group",
+      "author": "",
+      "published": "2026-07-22T00:00:00",
+      "summary": "",
+      "score": 12,
+      "score_breakdown": "+5 Source Intl | +3 Géo Intl: fincen | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "33dc2a1d94f79fd1",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -7060,7 +7060,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des nouvelles exigences de reporting sur les véritables propriétaires selon le Corporate Transparency Act."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de nouvelles exigences de déclaration de propriété bénéficiaire imposées par la réglementation américaine anti-blanchiment."
     },
     {
       "hash": "c083e26f968a8e54",
@@ -7636,10 +7636,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-07-22T14:31:58.595156+00:00",
+  "last_update": "2026-07-22T18:58:50.794635+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
