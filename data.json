@@ -1156,7 +1156,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Tracfin et la DGDDI renforcent leur coopération pour améliorer la détection et la prévention du blanchiment de capitaux et du financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car Tracfin renforce sa coopération avec la DGDDI pour améliorer la lutte contre le blanchiment et le financement du terrorisme."
     },
     {
       "hash": "86be41206b887d14",
@@ -1480,7 +1480,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie de collecte de données pour l'évaluation des risques de blanchiment de capitaux par l'AMLA."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la collecte de données pour l'évaluation des risques de blanchiment de capitaux par l'autorité compétente."
     },
     {
       "hash": "4fee4512ca068ae6",
@@ -2005,6 +2005,60 @@
       "ai_summary": "Cet article traite de la conformité aux lois contre le blanchiment d'argent à Singapour et des exigences légales associées."
     },
     {
+      "hash": "5298a61a1300e751",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 16 juillet 2026 modifiant l'arrêté du 17 août 2023 fixant la liste des emplois de chef de service administratif de la direction générale des finances publiques",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054451144",
+      "author": "Ministère de l'action et des comptes publics",
+      "published": "2026-07-22T00:00:00",
+      "summary": "Article 1Les annexes de l'arrêté du 17 août 2023 fixant la liste des emplois de chef de service administratif de la direction générale des finances publiques sont remplacées par les annexes 1 à 4 du présent arrêté.Article 2Les dispositions du présent arrêté entrent en vigueur au 1er septembre 2026.Article 3Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXE 3FONCTIONS ADMINISTRATIVES D'ENCADREMENT, D'ANIMATION OU D'EXPERTISE COMPORTANT DES RESPONSABI",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "bd4f911b0eb08504",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 16 juillet 2026 portant notification pour l'année 2026 des attributions individuelles revenant aux communes au titre de l'accompagnement financier dans le cadre du service public à la petite enfance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054450993",
+      "author": "Ministère de la santé, des familles, de l'autonomie et des personnes handicapées",
+      "published": "2026-07-22T00:00:00",
+      "summary": "Article 1La répartition des crédits destinés à l'accompagnement financier des communes pour la mise en œuvre du service public de la petite enfance, prévu à l'article 188 de la loi n° 2025-127 du 14 février 2025, ouverts par la loi du 16 février 2026 de finances 2026, est établie entre les bénéficiaires à hauteur des montants figurant dans le tableau annexé au présent arrêté.Article 2Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXECode\n      \n    ",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "4ed9c90bd366f317",
+      "source_name": "JORF - Bancaire",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 10 juillet 2026 modifiant l'arrêté du 21 février 2014 portant création par la direction générale des finances publiques d'un traitement automatisé de lutte contre la fraude dénommé « ciblage de la fraude et valorisation des requêtes »",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054450882",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-07-22T00:00:00",
+      "summary": "Article 1L'article 2 de l'arrêté du 21 février 2014 susvisé est ainsi modifié :1° Le cinquième alinéa est remplacé par les dispositions suivantes :« Les opérations effectuées par le présent traitement dans le cadre de l'expérimentation prévue par l'article 154 de la loi n° 2019-1479 du 28 décembre 2019 de finances pour 2020 modifiée par l'article 112 de la loi de finances pour 2024 sont décrites dans les II, III et III bis de l'article 4, le II de l'article 6, les I et II de l'article 7 et les I",
+      "score": 67,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +25 Source FR | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "90e25b3a80764606",
       "source_name": "JORF - Sanctions",
       "source_type": "rss",
@@ -2290,7 +2344,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre le blanchiment d'argent et la conformité en matière d'échange d'informations entre unités de renseignement financier."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges d'informations entre les unités de renseignement financier pour prévenir le blanchiment d'argent."
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -3118,7 +3172,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cette affaire concerne la conformité financière car la banque a volontairement omis de déclarer les transactions suspectes requises par la loi anti-blanchiment."
     },
     {
       "hash": "782afc3f31c059ad",
@@ -4108,7 +4162,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b300d2fcaada467b",
@@ -4126,7 +4180,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5d66881310497cd6",
@@ -4144,7 +4198,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d090c59636185c87",
@@ -5368,7 +5422,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La lutte contre la fraude fiscale relève de la conformité financière car elle concerne le respect des obligations fiscales et la prévention des manquements réglementaires."
     },
     {
       "hash": "de1a6e00002b5cd7",
@@ -6376,7 +6430,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3187dc0002653a16",
@@ -6430,7 +6484,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a79a7ae69758b181",
@@ -6448,7 +6502,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Jugement concernant un litige d'assurance entre des particuliers et des assureurs, sans lien direct avec la conformité financière ou anti-blanchiment."
     },
     {
       "hash": "18090426cc583d4f",
@@ -6592,7 +6646,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "23a158300e320beb",
@@ -6610,7 +6664,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0e50a1c2da1a9a3d",
@@ -6628,7 +6682,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e0483bca84e46857",
@@ -6826,7 +6880,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6708b2d8a498228c",
@@ -7060,7 +7114,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la lutte contre le financement illicite et la conformité aux normes de lutte anti-blanchiment."
     },
     {
       "hash": "f0ad8b2360cd799a",
@@ -7153,24 +7207,6 @@
       "ai_summary": "FinCEN propose de couper l'accès au système financier américain à des entités du groupe Huione pour non-conformité."
     },
     {
-      "hash": "99808f64c5efcacb",
-      "source_name": "FinCEN",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "FinCEN Announces Recipients of Its 11th Law Enforcement Awards Program",
-      "url": "https://www.fincen.gov/news/news-releases/fincen-announces-recipients-its-11th-law-enforcement-awards-program",
-      "author": "",
-      "published": "2026-06-22T00:00:00",
-      "summary": "",
-      "score": 12,
-      "score_breakdown": "+5 Source Intl | +3 Géo Intl: fincen | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "FinCEN décerne des prix aux organismes d'application de la loi pour leurs efforts en matière de conformité aux réglementations financières."
-    },
-    {
       "hash": "0232c90f3fd00cb4",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7205,6 +7241,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la dette publique incontrôlée et des risques de fraude dans les infrastructures."
+    },
+    {
+      "hash": "58ea05204efb8b9e",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "FinCEN “close to the finish line” on new beneficial ownership rule",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/fincen-close-the-finish-line-new-beneficial-ownership-rule",
+      "author": "Estelle Atkinson",
+      "published": "2026-07-21T20:28:01",
+      "summary": "Director Andrea Gacki told lawmakers that the regulator is on track to finalise new reporting requirements under the controversial Corporate Transparency Act. A recent report found the new rule would exempt 99% of entities covered by the law.",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: fincen | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "c083e26f968a8e54",
@@ -7816,10 +7870,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     }
   ],
-  "last_update": "2026-07-21T19:58:20.567309+00:00",
+  "last_update": "2026-07-22T01:44:52.847286+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
