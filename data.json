@@ -1120,7 +1120,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision réglementaire des marchés de capitaux par les autorités de régulation européennes."
+      "ai_summary": "Cet article traite de la supervision réglementaire des marchés de capitaux en Europe, relevant directement de la conformité financière et du respect des normes de régulation."
     },
     {
       "hash": "c7199c2c39f85964",
@@ -1138,7 +1138,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car Tracfin renforce sa coopération avec la DGDDI pour améliorer la lutte contre le blanchiment d'argent et le financement du terrorisme."
+      "ai_summary": "Tracfin et la DGDDI renforcent leur coopération pour améliorer la lutte contre le blanchiment de capitaux et la fraude financière."
     },
     {
       "hash": "86be41206b887d14",
@@ -1462,7 +1462,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie de collecte de données pour l'évaluation des risques de blanchiment d'argent par l'autorité européenne compétente."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie pour la collecte de données destinée à l'évaluation des risques de blanchiment de capitaux par l'autorité compétente."
     },
     {
       "hash": "4fee4512ca068ae6",
@@ -1807,24 +1807,6 @@
       "ai_summary": "Cet article concerne les directives sur la surveillance continue des relations commerciales dans le cadre AML/CFT européen."
     },
     {
-      "hash": "d36cf40a049021b8",
-      "source_name": "CSSF Luxembourg (AML/CFT)",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Annex to Circular CSSF 22/822",
-      "url": "https://www.cssf.lu/en/Document/annex-to-circular-cssf-22-822/",
-      "author": "",
-      "published": "2026-06-22T12:49:06",
-      "summary": "1) high-risk jurisdictions on which enhanced due diligence and, where appropriate, counter-measures are imposed2) jurisdictions under increased monitoring of the FATFVersion of 19 June 2026",
-      "score": 75,
-      "score_breakdown": "+20 mots forts: due diligence, fatf | +5 mots moyens: risk | +15 Source EU | +10 Géo EU: cssf | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre le blanchiment d'argent et le financement du terrorisme en identifiant les juridictions à risque."
-    },
-    {
       "hash": "e73f20dcfdccf9de",
       "source_name": "Tracfin (LinkedIn)",
       "source_type": "rss",
@@ -1987,6 +1969,24 @@
       "ai_summary": "Cet article traite de la conformité aux lois contre le blanchiment d'argent à Singapour et des exigences légales associées."
     },
     {
+      "hash": "c779d7d61253ab88",
+      "source_name": "AMF - Actualités",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "SAN-2026-06 - Décision de la commission des sanctions du 20 juillet 2026 à l'égard de la société Uzès Gestion et de MM. A, B, Jean-Marie Godet et Christian Maugey",
+      "url": "https://www.amf-france.org/fr/sanctions-transactions/decisions-de-la-commission-des-sanctions/san-2026-06#xts=607212&xtor=RSS-3&type=RSS",
+      "author": "",
+      "published": "2026-07-22T13:01:55",
+      "summary": "Décision Commission des sanctions              SAN-2026-06 - Décision de la commission des sanctions du 20 juillet 2026 à l&#039;égard de la société Uzès Gestion et de MM. A, B, Jean-Marie Godet et Christian Maugey",
+      "score": 67,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Sanction de l'AMF contre Uzès Gestion et ses dirigeants pour manquements aux obligations de conformité réglementaire et de protection des investisseurs."
+    },
+    {
       "hash": "5298a61a1300e751",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -2002,7 +2002,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté modifie l'organisation administrative des finances publiques en actualisant la liste des postes de chefs de service, relevant de la gestion organisationnelle plutôt que de la conformité financière."
+      "ai_summary": "Cet arrêté modifie la liste des emplois de chef de service à la direction générale des finances publiques, concernant l'organisation administrative interne."
     },
     {
       "hash": "bd4f911b0eb08504",
@@ -2038,7 +2038,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté concerne la conformité financière car il modifie un dispositif automatisé de détection et de lutte contre la fraude fiscale géré par les finances publiques."
+      "ai_summary": "Cet arrêté concerne la conformité financière car il modifie un système automatisé de détection de fraude fiscale mis en place par l'administration des finances publiques."
     },
     {
       "hash": "90e25b3a80764606",
@@ -2326,7 +2326,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des règles d'échange d'informations entre unités de renseignement financier pour combattre le blanchiment de capitaux."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges d'informations transfrontaliers entre les unités de renseignement financier pour la lutte contre le blanchiment."
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -2543,24 +2543,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des exigences réglementaires (MREL) que les banques doivent respecter."
-    },
-    {
-      "hash": "58a1dfed77f77b48",
-      "source_name": "AMLA - Anti-Money Laundering Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "First AMLA Conference Recap: Key Moments and Insights",
-      "url": "https://www.amla.europa.eu/first-amla-conference-recap-key-moments-and-insights_en",
-      "author": "",
-      "published": "2026-06-22T13:20:43",
-      "summary": "First AMLA Conference Recap: Key Moments and Insights",
-      "score": 67,
-      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre le blanchiment d'argent, domaine clé de la compliance."
     },
     {
       "hash": "da5169b239fcf0ac",
@@ -3121,24 +3103,6 @@
       "ai_summary": "L'étude conjointe AMF-ACPR sur les frais et performances des produits structurés relève de la conformité financière réglementaire."
     },
     {
-      "hash": "209e6d753d276547",
-      "source_name": "Tracfin (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "#Cooperation 🤝 | Première rencontre entre Antoine Magnant, directeur de Tracfin, et Abdullah Hamad Al Thani, nouveau chef de la CR...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7474742443779854337",
-      "author": "Tracfin",
-      "published": "2026-06-22T08:37:53",
-      "summary": "#Cooperation 🤝 | Première rencontre entre Antoine Magnant, directeur de Tracfin, et Abdullah Hamad Al Thani, nouveau chef de la CRF du Qatar.\nEn marge de la plénière du Financial Action Task Force (FATF) à Paris, cet échange a permis d’établir un premier contact entre les deux homologues.\n \n🎯 Leurs discussions ont notamment porté sur l’intelligence artificielle et ses usages dans la lutte contre la criminalité financière, ainsi que sur les perspectives de coopération opérationnelle entre Tracfin",
-      "score": 60,
-      "score_breakdown": "+20 mots forts: tracfin, fatf | +20 Géo FR: tracfin | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Rencontre entre Tracfin et l'autorité qatarie pour établir une coopération en matière de lutte antifraude et conformité financière."
-    },
-    {
       "hash": "48477ca4f73f24e6",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3244,7 +3208,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f2f1e7bb8261528b",
@@ -3697,24 +3661,6 @@
       "ai_summary": "Cet article traite de la simplification réglementaire bancaire européenne, directement pertinent à la conformité financière et supervisoire."
     },
     {
-      "hash": "d254db383a7a0ff5",
-      "source_name": "EBA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🚀 Senior role at the EBA in Paris We’re hiring a Senior Expert – Payment Services Shape EU payment rules & policy at the heart of regulation 🎯 Senior profiles in payments / finance 📅 Apply by 22 July 2026 👉",
-      "url": "https://x.com/EBA_News/status/2069043862991974687",
-      "author": "@EBA_News",
-      "published": "2026-06-22T13:04:00",
-      "summary": "🚀 Senior role at the EBA in ParisWe’re hiring a Senior Expert – Payment ServicesShape EU payment rules & policy at the heart of regulation🎯 Senior profiles in payments / finance📅 Apply by 22 July 2026👉  link.europa.eu/WWdHGp— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Jun 22, 2026",
-      "score": 52,
-      "score_breakdown": "+10 mots forts: eba | +15 mots moyens: regulation, payment, bank | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'EBA recrute un expert senior pour façonner les règles de paiement de l'UE et la politique de régulation financière en Europe."
-    },
-    {
       "hash": "3c6a0d25edce6fea",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -3749,6 +3695,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la supervision réglementaire d'un assureur par l'autorité de contrôle prudentiel française."
+    },
+    {
+      "hash": "8ebc085b92358c61",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Neuf ans après la révélation du scandale \"cum-cum\", le siège de la Deutsche Bank est perquisitionné à Francfort pour suspicion de fraude fiscale",
+      "url": "https://www.bfmtv.com/economie/entreprises/assurance-banque/neuf-ans-apres-la-revelation-du-scandale-cum-ex-le-siege-de-la-deutsche-bank-est-perquisitionne-a-francfort-pour-suspicion-de-fraude-fiscale_AD-202607220373.html",
+      "author": "",
+      "published": "2026-07-22T10:50:01",
+      "summary": "La première banque allemande a assuré qu'elle n'était pas visée en tant que suspecte dans cette procédure mais comme \"tierce partie\" détenant potentiellement des informations utiles à l'enquête.",
+      "score": 49,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +10 mots moyens: banque, bank | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "ea1e2972d0da1029",
@@ -4270,7 +4234,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la supervision réglementaire des marchés de capitaux et les mécanismes de conformité financière européens."
     },
     {
       "hash": "83e6749fea6e8e59",
@@ -4471,24 +4435,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il analyse la conformité des banques de l'UE aux exigences MREL de résilience financière."
     },
     {
-      "hash": "7a2c4866d25a39c6",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🚀 Help shape the future of payments in Europe — join the EBA The European Banking Authority is looking for a Senior Expert",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7474809127194681344",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-06-22T13:02:51",
-      "summary": "🚀 Help shape the future of payments in Europe — join the EBA\n\nThe European Banking Authority is looking for a Senior Expert – Payment Services to join our team in Paris.\n\nThis is a unique opportunity for experienced professionals who want to drive EU policy and regulatory work at the forefront of payments innovation.\n\n💼 Why this role stands out:\n🔹 Strategic influence\n Play a key role in shaping the EU framework for payment services and contributing to major regulatory initiatives.\n🔹 High-impact ",
-      "score": 45,
-      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: payment, bank | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA élabore les normes réglementaires sur les services de paiement en Europe."
-    },
-    {
       "hash": "cc8f1553d2f70fcb",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -4685,24 +4631,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite d'un accord DPA portant sur des violations FATCA et de blanchiment d'argent."
-    },
-    {
-      "hash": "47888ca714b594e5",
-      "source_name": "CNIL",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "La CNIL a prononcé 23 nouvelles sanctions depuis janvier au titre de la procédure simplifiée",
-      "url": "https://www.cnil.fr/fr/23-nouvelles-sanctions-simplifiees",
-      "author": "CNIL",
-      "published": "2026-07-06T12:00:00",
-      "summary": "Vidéosurveillance excessive, cookies, non-respect des droits des personnes ou encore défaut de coopération avec la CNIL&amp;nbsp;: depuis janvier 2026, 23 nouvelles sanctions ont été prononcées dans le cadre de la procédure simplifiée, dont 19 ont pour origine des plaintes.",
-      "score": 39,
-      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: cnil | ×0.6 (>14d)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ce82b1b85c664dd4",
@@ -5065,24 +4993,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions et des désignations réglementées par l'OFAC."
     },
     {
-      "hash": "5ff16884c1c7be2d",
-      "source_name": "OpenSanctions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "HTTP Redirects from https://data.opensanctions.org/datasets/",
-      "url": "https://www.opensanctions.org/changelog/45/",
-      "author": "",
-      "published": "2026-06-22T10:00:58",
-      "summary": "`https://data.opensanctions.org/datasets/latest//index.json` and `https://data.opensanctions.org/datasets/YYYYMMDD//index.json` and resource URLs like `https://data.opensanctions.org/datasets/latest//entities.ftm.json` will start responding with `HTTP 307` redirects to their canonical location under the `https://data.opensanctions.org/datasets/` path for newer dates, while historical URLs will continue serving the file directly.\n\nIf you use these URLs in your integration, make sure your HTTP cli",
-      "score": 37,
-      "score_breakdown": "+20 mots critiques: sanction | +5 Source Intl | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les redirections techniques HTTP et n'a pas de lien direct avec la conformité financière ou réglementaire."
-    },
-    {
       "hash": "b71601e4e1d31588",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -5333,24 +5243,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet arrêt traite du blanchiment de capitaux, infraction relevant de la conformité financière et de la lutte contre le financement illicite."
-    },
-    {
-      "hash": "05dedeb19b4a42fa",
-      "source_name": "EDPB - European Data Protection Board",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "EDPB gets a new look: discover the new website and brand identity",
-      "url": "https://www.edpb.europa.eu/news/edpb-gets-a-new-look-discover-the-new-website-and-brand-identity_en",
-      "author": "EDPB",
-      "published": "2026-06-22T12:00:00",
-      "summary": "Brussels, 22 June - Since its establishment in 2018, the core mission of the EDPB has been to uphold and safeguard the right to data protection. Over the years, the EDPB has played a key role in ensuring the consistent application of the GDPR across Europe, by providing guidance on key GDPR concepts and the interaction of the GDPR with other digital laws, as well as through the adoption of consistency opinions and binding decisions. The EDPB is also committed to making GDPR compliance easier for",
-      "score": 35,
-      "score_breakdown": "+10 mots forts: compliance | +15 Source EU | +10 Géo EU: edpb | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le nouvel identité visuelle de l'EDPB concerne la conformité financière indirectement via la protection des données et le respect du RGPD."
     },
     {
       "hash": "a14e66492095ff39",
@@ -5857,24 +5749,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites pour corruption et de responsabilités légales en matière de conformité."
     },
     {
-      "hash": "1869b5d7377cad33",
-      "source_name": "ComplyAdvantage",
-      "source_type": "press",
-      "category": "presse",
-      "title": "FATF plenary June 2026: Grey list changes, a payment transparency consultation, and the incoming UK Presidency",
-      "url": "https://complyadvantage.com/insights/fatf-plenary-june-2026-outcomes/",
-      "author": "Sarah Cameron",
-      "published": "2026-06-22T08:52:55",
-      "summary": "The sixth and final Financial Action Task Force (FATF) Plenary meeting under the Mexican Presidency of Elisa de Anda Madrazo took place in Paris from June 17-19, 2026. Delegates from across the FATF’s Global Network of more than 200 jurisdictions [&#8230;]\nThe post FATF plenary June 2026: Grey list changes, a payment transparency consultation, and the incoming UK Presidency appeared first on ComplyAdvantage.",
-      "score": 34,
-      "score_breakdown": "+10 mots forts: fatf | +10 mots moyens: payment, ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "CONSULTATION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La FATF ajuste sa liste grise, consulte sur la transparence des paiements et prépare la présidence britannique."
-    },
-    {
       "hash": "2f36e52f6d9b22c0",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -5998,7 +5872,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'ESMA évalue la conformité transfrontalière des prestataires de services d'investissement et la supervision nationale pour protéger les investisseurs."
     },
     {
       "hash": "d808e044eaaddf45",
@@ -6125,24 +5999,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des contrôles d'exportation américains et des sanctions commerciales imposées à la Chine."
-    },
-    {
-      "hash": "ba2ef4bac1939030",
-      "source_name": "AMLA - Anti-Money Laundering Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "AMLA Successfully Concludes its First Conference",
-      "url": "https://www.amla.europa.eu/amla-successfully-concludes-its-first-conference_en",
-      "author": "",
-      "published": "2026-06-22T13:02:09",
-      "summary": "AMLA's first conference took place on 9 June 2026 at Alte Oper, Frankfurt am Main.",
-      "score": 27,
-      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte anti-blanchiment d'argent, domaine clé de la conformité financière."
     },
     {
       "hash": "8a23ba744e48caff",
@@ -6430,7 +6286,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a79a7ae69758b181",
@@ -6449,24 +6305,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Jugement concernant un litige d'assurance entre des particuliers et des assureurs, sans lien direct avec la conformité financière ou anti-blanchiment."
-    },
-    {
-      "hash": "18090426cc583d4f",
-      "source_name": "Cass. - Bancaire",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Tribunal judiciaire de Bastia, Référés-jcp, 22 juin 2026, 25/00558",
-      "url": "http://juricaf.org/arret/FRANCE-TRIBUNALJUDICIAIREDEBASTIA-20260622-2500558",
-      "author": "Référés-jcp",
-      "published": "2026-06-22T12:00:00",
-      "summary": "TRIBUNAL JUDICIAIRE DE Localité 1 Adresse 1 Localité 2      N° RG 25/00558 - N° Portalis DBXI-W-B7J-DOUW   Minute n°       Mme A S  C/  Société CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL DE LA CORSE                          Copie exécutoire  délivrée le : à :   Copie délivrée le : à : JUGE DES CONTENTIEUX DE LA PROTECTION  ORDONNANCE DE RÉFÉRÉ DU 22 Juin 2026     DEMANDEURS :  Mme A S,  demeurant Adresse 2  Localité 3 représentée par Me Sébastien SEBASTIANI, avocat au barreau de BASTIA  M. N H, ",
-      "score": 24,
-      "score_breakdown": "+10 mots forts: eba | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne un litige bancaire impliquant la Caisse régionale de Crédit Agricole de Corse, relevant de la conformité réglementaire bancaire."
     },
     {
       "hash": "d38309b7c1426714",
@@ -6592,7 +6430,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5b2a1c04a7f5f2d0",
@@ -6610,7 +6448,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "23a158300e320beb",
@@ -6646,7 +6484,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e0483bca84e46857",
@@ -6844,7 +6682,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6708b2d8a498228c",
@@ -7222,7 +7060,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des nouvelles exigences de déclaration de la propriété réelle selon la loi américaine sur la transparence des entreprises."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des nouvelles exigences de reporting sur les véritables propriétaires selon le Corporate Transparency Act."
     },
     {
       "hash": "c083e26f968a8e54",
@@ -7621,24 +7459,6 @@
       "ai_summary": "Cet article traite de la conformité financière car il concerne les licences d'exemption aux sanctions contre le Venezuela émises par l'OFAC."
     },
     {
-      "hash": "6861b654fa8d8a1a",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Issuance of Iran-related General License | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260622_33",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-06-22T12:00:00",
-      "summary": "",
-      "score": 7,
-      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les licences générales d'exportation vers l'Iran, relevant de la conformité aux sanctions financières internationales."
-    },
-    {
       "hash": "3133ff2b552ff2f7",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -7709,24 +7529,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les mesures de conformité aux sanctions financières internationales imposées par les autorités américaines."
-    },
-    {
-      "hash": "2e4e8bd3282d9046",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Counter Terrorism Designations | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260622",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-06-22T12:00:00",
-      "summary": "",
-      "score": 4,
-      "score_breakdown": "+5 Source Intl | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions contre le terrorisme imposées par l'OFAC, relevant de la conformité réglementaire et anti-blanchiment."
     },
     {
       "hash": "cbf855b72b362493",
@@ -7834,10 +7636,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     }
   ],
-  "last_update": "2026-07-22T09:06:14.762172+00:00",
+  "last_update": "2026-07-22T13:23:11.339128+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
