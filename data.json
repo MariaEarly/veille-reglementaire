@@ -814,7 +814,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il précise les conditions d'agrément et les obligations d'information des sociétés de gestion de portefeuille."
     },
     {
       "hash": "7ae1814711832933",
@@ -832,7 +832,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il détaille les conditions d'approbation du programme d'activité des prestataires de services d'investissement par l'AMF."
     },
     {
       "hash": "026f3cda077df42a",
@@ -1138,7 +1138,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ded8eb288bb42f06",
@@ -1156,7 +1156,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il précise les obligations de visa, de divulgation d'informations et de reporting auprès de l'AMF pour les SCPI, SEF et GFI."
     },
     {
       "hash": "c88fcf92fb03a134",
@@ -1174,7 +1174,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il détaille les règles d'agrément des OPCVM et les obligations de documentation réglementaire."
     },
     {
       "hash": "797c469cb5b33045",
@@ -1501,24 +1501,6 @@
       "ai_summary": "Cet avis fixe les seuils d'usure applicables aux crédits à partir du 1er juillet 2026, conformément à la réglementation financière française."
     },
     {
-      "hash": "35a6e3928f5ba2a8",
-      "source_name": "AMF - Actualités",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Communiqué de l’ESMA : ESMA calls on unauthorised crypto-asset service providers to wind down orderly, while also safeguarding clients’ interests, as MiCA transitional period ends",
-      "url": "https://www.amf-france.org/fr/actualites-publications/actualites/communique-de-lesma-esma-calls-unauthorised-crypto-asset-service-providers-wind-down-orderly-while#xts=607212&xtor=RSS-3&type=RSS",
-      "author": "",
-      "published": "2026-06-23T15:46:38",
-      "summary": "Actualité                  MiCA              Prestataires financiers              Europe &amp; international                    Communiqué de l’ESMA : ESMA calls on unauthorised crypto-asset service providers to wind down orderly, while also safeguarding clients’ interests, as MiCA transitional period ends",
-      "score": 82,
-      "score_breakdown": "+20 mots forts: mica, crypto, esma | +25 Source FR | +10 Géo EU: esma, mica | ×1.5 (<24h)",
-      "doc_type": "COMMUNIQUÉ",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'ESMA impose aux prestataires de cryptoactifs non autorisés de cesser leurs activités en conformité avec la réglementation MiCA."
-    },
-    {
       "hash": "9ab828447cd07978",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -1534,7 +1516,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur la taxonomie de collecte de données pour l'évaluation des risques de blanchiment de capitaux par l'AMLA."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie de collecte de données pour l'évaluation des risques de blanchiment de capitaux par l'autorité compétente."
     },
     {
       "hash": "4fee4512ca068ae6",
@@ -2203,6 +2185,24 @@
       "ai_summary": "Sanction de l'AMF contre Bourse Direct et sa dirigeante pour manquements à la conformité réglementaire des activités financières."
     },
     {
+      "hash": "6e5f07bb4419d3d6",
+      "source_name": "Commission EU - Press",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EU adopts 21st package of sanctions against Russia",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1680",
+      "author": "",
+      "published": "2026-07-23T14:48:16",
+      "summary": "European Commission Press release Brussels, 23 Jul 2026 Today, the European Commission welcomes the adoption by EU Member States of the 21st package of sanctions against Russia. The package further restricts Russia's ability to fund its illegal war and to carry out attacks on Ukrainian civilians and civilian infrastructure.",
+      "score": 67,
+      "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | +10 Géo EU: european commission, member state | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "28a36e1b62b3432e",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -2218,7 +2218,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA établit des règles pour renforcer la protection des déposants et harmoniser les normes prudentielles dans l'UE."
     },
     {
       "hash": "43061d51849655be",
@@ -2416,7 +2416,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges d'informations transfrontaliers entre unités de renseignement financier pour la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges d'informations transfrontaliers entre les unités de renseignement financier pour la lutte contre le blanchiment."
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -2902,7 +2902,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il détaille les règles d'agrément des fonds d'investissement et les obligations de documentation réglementaire."
     },
     {
       "hash": "80f958c786ad1fcb",
@@ -2975,6 +2975,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "CARDIF ASSURANCE VIE est supervisée par l'ACPR pour sa conformité réglementaire et financière."
+    },
+    {
+      "hash": "5943f1c56541c64f",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 23 July, 2026",
+      "url": "https://www.eba.europa.eu/node/19883",
+      "author": "Anonymous",
+      "published": "2026-07-23T15:00:03",
+      "summary": "EBA E-mail alert 23 July, 2026\n\n  \n    Date\n          23/07/2026\n\n      \n\nAnonymous (not verified)\n\nThu, 07/23/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          ​The EBA consults on rules to further improve depositor protection under the revised Deposit Guarantee Schemes Directive  \n      \n\n  \n    Consultations\n          Consultation on Guidelines on investment of available financial means\n          Consultation on Implementing Technical Standards on depositor information\n   ",
+      "score": 60,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: directive | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur les règles de protection des déposants selon la directive révisée sur les systèmes de garantie des dépôts."
     },
     {
       "hash": "6d59b530917199fc",
@@ -3190,7 +3208,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction réglementaire majeure imposée par les autorités européennes pour non-respect du DMA."
     },
     {
       "hash": "48477ca4f73f24e6",
@@ -3263,42 +3281,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Binance suspend ses services en France pour non-conformité avec la nouvelle régulation européenne des cryptoactifs en vigueur depuis juillet."
-    },
-    {
-      "hash": "de4dbd77213a5f08",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "BFM Crypto, le Club : Meria obtient l'agrément MiCA – 23/06",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/bfm-crypto-le-club-meria-obtient-l-agrement-mi-ca-23-06_EN-202606230655.html",
-      "author": "",
-      "published": "2026-06-23T13:36:54",
-      "summary": "Mardi 23 juin, l'obtention de l'agrément MiCA par Meria, le partenariat entre Bitstack et Spiko, ainsi que le risque pour Binance d'être exclu du marché européen, ont été abordés par Thibaut Boutrou, COO de MERIA, William O Rorke, partner chez ORWL, et Alexandre Stachtchenko, directeur de la stratégie et de la communication chez Bitstack, reçus par Sandra Gandoin dans l'émission BFM Crypto, le Club sur BFM Business. Retrouvez l'émission du lundi au jeudi et réécoutez la en podcast.  \n\n",
-      "score": 57,
-      "score_breakdown": "+20 mots forts: mica, crypto, agrément | +5 mots moyens: risque | +3 Presse | +10 Géo EU: mica | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Meria obtient l'agrément MiCA, la réglementation européenne des actifs numériques, garantissant la conformité financière des services crypto."
-    },
-    {
-      "hash": "b00804cfd71cf43d",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, 6ème chambre, 20 juillet 2026, 511260",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260720-511260",
-      "author": "6ème chambre",
-      "published": "2026-07-20T12:00:00",
-      "summary": "Vu la procédure suivante :                   Par une requête et un mémoire en réplique enregistrés les 5 janvier et 20 avril 2026 au secrétariat du contentieux du Conseil d'Etat, M. A... B... et la société A... B... demandent au Conseil d'Etat :                   1° d'annuler la décision n° CS 2024-11 du 20 novembre 2025 par laquelle la commission des sanctions de la Haute autorité de l'audit H2A a prononcé, d'une part, à l'encontre de M. B..., une interdiction d'exercer la profession de commiss",
-      "score": 54,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: audit | +20 Géo FR: france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "f2f1e7bb8261528b",
@@ -3478,7 +3460,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La Commission européenne inflige une amende à Google pour non-respect du Digital Markets Act."
     },
     {
       "hash": "d6d4cb9018b62166",
@@ -3496,7 +3478,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Google est condamné à une amende de 890 millions d'euros pour non-respect du Digital Markets Act concernant l'autopriorité de ses services."
     },
     {
       "hash": "8f1d6348db5b825b",
@@ -3838,7 +3820,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "42d03499d11dea81",
@@ -3874,7 +3856,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les restrictions commerciales et les sanctions imposées sur les produits des colonies, relevant de la conformité aux régulations commerciales internationales."
+      "ai_summary": "Les Pays-Bas imposent un embargo commercial sur les produits des colonies israéliennes, créant des obligations de conformité aux sanctions pour les importateurs."
     },
     {
       "hash": "8ebc085b92358c61",
@@ -4234,7 +4216,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'approbation de fusion est conditionnée au respect des obligations réglementaires imposées par la Commission européenne."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1efca07dfa4b68d0",
@@ -4289,6 +4271,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les amendes imposées pour violation de conformité sanctions et de diligence raisonnable client."
+    },
+    {
+      "hash": "b00804cfd71cf43d",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, 6ème chambre, 20 juillet 2026, 511260",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260720-511260",
+      "author": "6ème chambre",
+      "published": "2026-07-20T12:00:00",
+      "summary": "Vu la procédure suivante :                   Par une requête et un mémoire en réplique enregistrés les 5 janvier et 20 avril 2026 au secrétariat du contentieux du Conseil d'Etat, M. A... B... et la société A... B... demandent au Conseil d'Etat :                   1° d'annuler la décision n° CS 2024-11 du 20 novembre 2025 par laquelle la commission des sanctions de la Haute autorité de l'audit H2A a prononcé, d'une part, à l'encontre de M. B..., une interdiction d'exercer la profession de commiss",
+      "score": 45,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: audit | +20 Géo FR: france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "d090c59636185c87",
@@ -4414,7 +4414,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article concerne la conformité financière car il aborde les consultations publiques sur la Directive révisée des systèmes de garantie des dépôts, essentielle pour la protection des déposants et la stabilité financière."
     },
     {
       "hash": "5eb37d98cf14358b",
@@ -4630,7 +4630,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Google doit respecter les règles de concurrence imposées par l'UE, une obligation de conformité réglementaire et légale."
     },
     {
       "hash": "e4a0cc5a8b14094b",
@@ -4775,24 +4775,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la conformité financière en analysant les risques de sanctions et de régulation liés aux changements politiques aux États-Unis."
-    },
-    {
-      "hash": "fdf786f535f600cd",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "UK regulator bans GFG companies’ auditor",
-      "url": "https://globalinvestigationsreview.com/article/uk-regulator-bans-gfg-companies-auditor",
-      "author": "Malavika Devaya",
-      "published": "2026-06-23T15:10:47",
-      "summary": "An accounting regulator has temporarily banned the auditor of four companies within the Gupta Family Group Alliance, a business conglomerate at the centre of a Serious Fraud Office investigation into suspected fraudulent trading and money laundering.",
-      "score": 42,
-      "score_breakdown": "+20 mots critiques: money laundering, fraud | +5 mots moyens: audit | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'interdiction d'un auditeur pour des sociétés du groupe Gupta constitue un enjeu majeur de conformité financière et de gouvernance."
     },
     {
       "hash": "d8695fe368e663ca",
@@ -5170,7 +5152,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'EBA lance 4 consultations sur la directive DGSD3 pour renforcer la protection des déposants et la stabilité financière en UE."
     },
     {
       "hash": "b71601e4e1d31588",
@@ -5369,24 +5351,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La directive DGSD3 renforce la protection des déposants en accélérant les remboursements et améliore la conformité réglementaire bancaire européenne."
-    },
-    {
-      "hash": "0a4e7a4a08f8c0af",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🔐 Quantum Preparedness in Financial Supervision On 17–18 June 2026, the European Banking Authority organised the SGIT (Subgroup on...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7475177155975475200",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-06-23T13:25:16",
-      "summary": "🔐 Quantum Preparedness in Financial Supervision \n\nOn 17–18 June 2026, the European Banking Authority organised the SGIT (Subgroup on ICT Risk Supervision) Workshop on Quantum Preparedness, kindly hosted by the Banco de España. \n\nThe workshop brought together supervisors from across the banking and payments sectors to strengthen their understanding of quantum technologies, emerging risks and opportunities, post-quantum cryptography (PQC), practical steps towards a quantum-resilient financial sect",
-      "score": 37,
-      "score_breakdown": "+10 mots forts: crypto | +15 mots moyens: risk, payment, bank | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la préparation des institutions financières aux risques informatiques quantiques, un enjeu de conformité cybersécurité majeur."
     },
     {
       "hash": "9d2f252239de715b",
@@ -5998,7 +5962,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière en listant les juridictions à risque élevé soumises à des mesures de diligence renforcée contre le blanchiment et le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il liste les juridictions à risque élevé nécessitant une diligence renforcée et des mesures de lutte contre le blanchiment d'argent."
     },
     {
       "hash": "523fcb1765c51fa6",
@@ -6143,24 +6107,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des contrôles d'exportation américains et des sanctions commerciales imposées à la Chine."
-    },
-    {
-      "hash": "58a1dfed77f77b48",
-      "source_name": "AMLA - Anti-Money Laundering Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "First AMLA Conference Recap: Key Moments and Insights",
-      "url": "https://www.amla.europa.eu/first-amla-conference-recap-key-moments-and-insights_en",
-      "author": "",
-      "published": "2026-06-23T15:09:17",
-      "summary": "The recap of the AMLA conference is now available, featuring key insights, highlights, and videos from some of the event's most memorable moments. Explore and relive the conversations that made AMLA 2026 a milestone event.",
-      "score": 27,
-      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre le blanchiment d'argent, domaine clé de la conformité financière et réglementaire."
     },
     {
       "hash": "8a23ba744e48caff",
@@ -6430,7 +6376,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a79a7ae69758b181",
@@ -6523,24 +6469,6 @@
       "ai_summary": "Cet article traite des risques de cybersécurité liés à l'IA, un enjeu majeur de conformité pour les entreprises du secteur de la défense."
     },
     {
-      "hash": "5b2a1c04a7f5f2d0",
-      "source_name": "Cass. - Blanchiment",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de DOUAI, 1ère chambre, 09 juillet 2026, 23DA01804",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEDOUAI-20260709-23DA01804",
-      "author": "1ère chambre",
-      "published": "2026-07-09T12:00:00",
-      "summary": "Vu la procédure suivante :            Procédures contentieuses antérieures :           Par des requêtes distinctes, l'association Picardie Nature et l'association Sauvons Soissons ont demandé au tribunal administratif d'Amiens d'annuler l'arrêté du 31 mars 2021 par lequel le préfet de l'Aisne a accordé à la société Rockwool France SAS l'autorisation d'exploiter une usine de laine de roche sur les territoires des communes de Ploisy et Courmelles.           Par un jugement avant dire droit nos 210",
-      "score": 20,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "23a158300e320beb",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -6557,24 +6485,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la collaboration institutionnelle de l'EBA, pas la conformité financière."
-    },
-    {
-      "hash": "e0483bca84e46857",
-      "source_name": "ESMA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "ESMA publishes the register of external reviewers under the #EuGB Regulation. From 22 June 2026, all reviewers will be supervised by ESMA, supporting alignment with the EU Taxonomy and greater transparency. 🔗:  #SustainableFinance #GreenBonds",
-      "url": "https://x.com/ESMAComms/status/2069437188475929076",
-      "author": "@ESMAComms",
-      "published": "2026-06-23T15:07:00",
-      "summary": "ESMA publishes the register of external reviewers under the  #EuGB Regulation.From 22 June 2026, all reviewers will be supervised by ESMA, supporting alignment with the EU Taxonomy and greater transparency.🔗:  bit.ly/4xG73SF #SustainableFinance  #GreenBonds— ESMA - EU Securities Markets Regulator 🇪🇺 (@ESMAComms) Jun 23, 2026",
-      "score": 20,
-      "score_breakdown": "+10 mots forts: esma | +5 mots moyens: regulation | +10 Géo EU: esma | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "ESMA publie un registre de vérificateurs externes pour la conformité aux obligations de transparence et d'alignement avec la taxonomie de l'UE."
     },
     {
       "hash": "05135b85e241df2d",
@@ -6754,7 +6664,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2a279dcb9d842660",
@@ -6772,7 +6682,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6708b2d8a498228c",
@@ -6809,6 +6719,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une poursuite liée à l'FCPA et aux enquêtes sur la corruption étrangère."
+    },
+    {
+      "hash": "5b2a1c04a7f5f2d0",
+      "source_name": "Cass. - Blanchiment",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de DOUAI, 1ère chambre, 09 juillet 2026, 23DA01804",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEDOUAI-20260709-23DA01804",
+      "author": "1ère chambre",
+      "published": "2026-07-09T12:00:00",
+      "summary": "Vu la procédure suivante :            Procédures contentieuses antérieures :           Par des requêtes distinctes, l'association Picardie Nature et l'association Sauvons Soissons ont demandé au tribunal administratif d'Amiens d'annuler l'arrêté du 31 mars 2021 par lequel le préfet de l'Aisne a accordé à la société Rockwool France SAS l'autorisation d'exploiter une usine de laine de roche sur les territoires des communes de Ploisy et Courmelles.           Par un jugement avant dire droit nos 210",
+      "score": 15,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "004adb22c54c6647",
@@ -6880,7 +6808,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "27d9ed4cf2a107d0",
@@ -7024,7 +6952,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car la FinCEN prolonge la période de commentaires pour une règle proposée affectant la définition de Huione Group."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une proposition réglementaire de FinCEN modifiant la définition légale d'une entité financière."
     },
     {
       "hash": "33dc2a1d94f79fd1",
@@ -7315,22 +7243,22 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'application de la loi FCPA (Foreign Corrupt Practices Act) par le DOJ."
     },
     {
-      "hash": "d0011504a9798b5c",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Former FCPA trial attorney joins SAP",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/former-fcpa-trial-attorney-joins-sap",
-      "author": "Ana de Liz",
-      "published": "2026-06-23T14:09:31",
-      "summary": "A former prosecutor who spent seven years at the DOJ’s foreign bribery team has joined the German software company as head of investigations.",
-      "score": 9,
-      "score_breakdown": "+3 Presse | +3 Géo Intl: doj, fcpa | ×1.5 (<24h)",
+      "hash": "64d8d52dec1a3a15",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Counter Terrorism Designations; Counter Narcotics Designations; Cuba Designations; Belarus-related Designation Removal; Issuance of Cuba-related General Licenses | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260723",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-07-23T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Un ancien procureur spécialisé dans les enquêtes de corruption étrangère rejoint SAP pour diriger les investigations."
+      "ai_summary": null
     },
     {
       "hash": "966f0365245a8eb8",
@@ -7621,6 +7549,42 @@
       "ai_summary": "Cet article concerne les mesures de conformité aux sanctions financières internationales imposées par les autorités américaines."
     },
     {
+      "hash": "4e8bb851e6795c01",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Accusé de corruption et manipulation de cours par l'ancien patron de Casino, le bureau du PDG de Carrefour, Alexandre Bompard, a été perquisitionné (le groupe le confirme)",
+      "url": "https://www.bfmtv.com/economie/entreprises/accuse-de-corruption-et-manipulation-de-cours-par-l-ancien-patron-de-casino-le-bureau-du-pdg-de-carrefour-alexandre-bompard-a-ete-perquisitionne-le-groupe-le-confirme_AD-202607230466.html",
+      "author": "",
+      "published": "2026-07-23T14:49:55",
+      "summary": "Les bureaux du PDG de Carrefour, Alexandre Bompard, ont fait l'objet de perquisitions menées par la Gendarmerie nationale il y a plusieurs mois. Cette enquête s'inscrit dans le cadre d'une information judiciaire ouverte à la suite d'une plainte de l'ex-patron de Casino, Jean-Charles Naouri, portant notamment sur des soupçons de corruption et de manipulation de cours lors d'une tentative de rapprochement en 2018. Carrefour réfute fermement l'ensemble des accusations.",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "4abd6cf2de2c6dbc",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Swiss court orders new trial for cum-ex whistleblowers",
+      "url": "https://globalinvestigationsreview.com/article/swiss-court-orders-new-trial-cum-ex-whistleblowers",
+      "author": "Grace Propheta",
+      "published": "2026-07-23T12:58:48",
+      "summary": "",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "cbf855b72b362493",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7726,10 +7690,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-07-23T14:39:26.940872+00:00",
+  "last_update": "2026-07-23T19:00:15.592282+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
