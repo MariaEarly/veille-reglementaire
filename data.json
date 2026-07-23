@@ -1120,7 +1120,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "797c469cb5b33045",
@@ -1480,7 +1480,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie de collecte de données pour l'évaluation des risques de blanchiment d'argent par l'autorité européenne compétente."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie utilisée pour collecter les données de l'évaluation des risques de blanchiment de capitaux par l'autorité compétente."
     },
     {
       "hash": "4fee4512ca068ae6",
@@ -2344,7 +2344,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges transfrontaliers d'informations entre unités de renseignement financier pour le signalement des activités suspectes."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges d'informations entre unités de renseignement financier pour la lutte anti-blanchiment."
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -2887,24 +2887,6 @@
       "ai_summary": "CARDIF ASSURANCE VIE est supervisée par l'ACPR pour sa conformité réglementaire et financière."
     },
     {
-      "hash": "a713fe4c37330d9f",
-      "source_name": "Commission EU - Press",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Commission approves Paramount's acquisition of Warner, subject to conditions",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1663",
-      "author": "",
-      "published": "2026-07-21T22:00:00",
-      "summary": "European Commission Press release Brussels, 22 Jul 2026 The European Commission has approved, under the EU Merger Regulation, the proposed acquisition by Paramount Skydance Corporation (‘Paramount') of Warner Bros. Discovery (‘Warner'). The approval is conditional upon full compliance with the commitments offered by Paramount.",
-      "score": 60,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: regulation | +15 Source EU | +10 Géo EU: european commission | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "6d59b530917199fc",
       "source_name": "Commission EU - Sanctions FAQ",
       "source_type": "rss",
@@ -3208,7 +3190,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "f2f1e7bb8261528b",
@@ -3697,6 +3679,24 @@
       "ai_summary": "Cet article concerne la supervision réglementaire d'un assureur par l'autorité de contrôle prudentiel française."
     },
     {
+      "hash": "42d03499d11dea81",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Gracier des entreprises, ça n'avait jamais été fait avant lui: comment Donald Trump s'inspire d'un roi anglais du XVIIe siècle pour effacer les amendes des sociétés privées",
+      "url": "https://www.bfmtv.com/economie/entreprises/gracier-des-entreprises-ca-n-avait-jamais-ete-fait-avant-lui-comment-donald-trump-s-inspire-d-un-roi-anglais-du-xvi-ie-siecle-pour-effacer-les-amendes-des-societes-privees_AN-202607230040.html",
+      "author": "",
+      "published": "2026-07-23T04:00:42",
+      "summary": "Fait inédit dans l'histoire américaine, Donald Trump est devenu le premier président à accorder des grâces directement à des personnes morales. En 18 mois, le chef d'État a effacé 200 millions de dollars de sanctions financières au profit d'une plateforme de cryptomonnaies ou de petites entreprises automobiles, érigeant le droit de grâce en véritable outil de dérégulation économique et de communication.",
+      "score": 49,
+      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: crypto | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "85a2e3af3324c4e0",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -3712,7 +3712,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des restrictions commerciales et des obligations légales en matière d'importations de produits."
     },
     {
       "hash": "8ebc085b92358c61",
@@ -3730,7 +3730,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il rapporte une enquête sur la fraude fiscale impliquant une grande banque et ses obligations de divulgation."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une enquête pour fraude fiscale et de la responsabilité d'une institution financière."
     },
     {
       "hash": "ea1e2972d0da1029",
@@ -4055,6 +4055,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la conformité financière car il évalue la crédibilité et la fiabilité d'une plateforme crypto, enjeu majeur de régulation."
+    },
+    {
+      "hash": "a713fe4c37330d9f",
+      "source_name": "Commission EU - Press",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Commission approves Paramount's acquisition of Warner, subject to conditions",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1663",
+      "author": "",
+      "published": "2026-07-21T22:00:00",
+      "summary": "European Commission Press release Brussels, 22 Jul 2026 The European Commission has approved, under the EU Merger Regulation, the proposed acquisition by Paramount Skydance Corporation (‘Paramount') of Warner Bros. Discovery (‘Warner'). The approval is conditional upon full compliance with the commitments offered by Paramount.",
+      "score": 48,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: regulation | +15 Source EU | +10 Géo EU: european commission | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "1efca07dfa4b68d0",
@@ -5242,7 +5260,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de fraude réglementaire et de manquements aux obligations légales envers les autorités de contrôle."
+      "ai_summary": "L'ancien PDG est poursuivi pour fraude envers le régulateur, relevant de la conformité réglementaire et financière."
     },
     {
       "hash": "a14e66492095ff39",
@@ -5713,24 +5731,6 @@
       "ai_summary": "Les sanctions de l'ONU imposent des obligations de conformité financière aux institutions pour identifier et geler les actifs des entités désignées."
     },
     {
-      "hash": "63d669f294d6dbc7",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Le groupe Altrad visé par une enquête pour fraude fiscale, ses locaux perquisitionnés",
-      "url": "https://www.lemonde.fr/economie/article/2026/06/23/le-groupe-altrad-vise-par-une-enquete-pour-fraude-fiscale-ses-locaux-perquisitionnes_6708553_3234.html",
-      "author": "",
-      "published": "2026-06-23T03:57:25",
-      "summary": "Le géant montpelliérain du BTP, qui emploie 65 000 personnes, est soupçonné par la justice d’avoir orchestré un système international de fraude fiscale.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: fraude, fraud | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il rapporte une enquête judiciaire pour fraude fiscale contre un groupe majeur."
-    },
-    {
       "hash": "2f36e52f6d9b22c0",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -5836,7 +5836,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il liste les juridictions à risque élevé soumises à des mesures anti-blanchiment et contre le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte anti-blanchiment et du financement du terrorisme avec des listes de juridictions à risque."
     },
     {
       "hash": "403bb933fee72d1d",
@@ -5872,7 +5872,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la supervision transfrontalière des services d'investissement et la protection des investisseurs, enjeux clés de conformité financière réglementaire."
+      "ai_summary": "L'article concerne la supervision réglementaire transfrontalière des services d'investissement et la protection des investisseurs selon les normes de conformité financière."
     },
     {
       "hash": "d808e044eaaddf45",
@@ -6235,24 +6235,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'évolution des technologies GRC et des solutions de conformité en entreprise."
     },
     {
-      "hash": "0559800260b6771f",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Germany: navigating a complex and evolving enforcement landscape",
-      "url": "https://globalinvestigationsreview.com/review/the-european-middle-eastern-and-african-investigations-review/2026/article/germany-navigating-complex-and-evolving-enforcement-landscape",
-      "author": "Dirk Seiler,Daisy Hullmeine",
-      "published": "2026-06-23T07:00:00",
-      "summary": "Germany’s internal investigations face unique challenges: limited legal privilege protection; stringent data protection laws restricting evidence handling; and a fragmented enforcement system with broad extraterritorial reach. Effective navigation demands early specialist involvement, careful planning and tailored strategies to manage compliance, employee rights and multi-jurisdictional coordinati...",
-      "score": 27,
-      "score_breakdown": "+10 mots forts: compliance | +3 Presse | +10 Géo EU: germany | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les investigations internes en Allemagne impliquent des enjeux de conformité liés à la protection des données et aux risques de sanction."
-    },
-    {
       "hash": "3187dc0002653a16",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
@@ -6304,7 +6286,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a79a7ae69758b181",
@@ -6448,7 +6430,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5b2a1c04a7f5f2d0",
@@ -6466,7 +6448,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "23a158300e320beb",
@@ -6502,7 +6484,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e0483bca84e46857",
@@ -6700,7 +6682,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6708b2d8a498228c",
@@ -6934,7 +6916,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "FinCEN prolonge la période de consultation pour sa proposition de modification de la définition de Huione Group, concernant la conformité réglementaire financière."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des modifications réglementaires de la définition du groupe Huione par le FinCEN, impactant les obligations de conformité."
     },
     {
       "hash": "33dc2a1d94f79fd1",
@@ -7654,10 +7636,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-07-23T03:51:36.083841+00:00",
+  "last_update": "2026-07-23T08:13:19.130560+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
