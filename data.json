@@ -673,24 +673,6 @@
       "ai_summary": "Ce rapport concerne la conformité financière car il docummente l'activité de supervision de l'AMF-ACPR sur les secteurs banc, assurance et épargne."
     },
     {
-      "hash": "a095a603745067d1",
-      "source_name": "JORF - Sanctions",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décision n° CS-02 du 6 mai 2025 de la commission des sanctions de la Haute Autorité de l'audit portant modification de son règlement intérieur",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054300510",
-      "author": "Ministère de la justice",
-      "published": "2026-06-24T00:00:00",
-      "summary": "Article 1Le règlement intérieur de la commission des sanctions de la Haute Autorité de l'audit est modifié.Article 2Le règlement intérieur de la commission des sanctions de la Haute Autorité de l'audit, dans sa nouvelle rédaction, est annexé à la présente décision.Article 3Le règlement intérieur de la commission des sanctions de la Haute Autorité de l'audit peut fait l'objet de modifications après nouvelle délibération de ses membres.Article 4La présente décision sera publiée au Journal officiel",
-      "score": 100,
-      "score_breakdown": "+20 mots critiques: sanction | +10 mots moyens: audit, règlement | +25 Source FR | +20 Géo FR: journal officiel | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il modifie le règlement intérieur de la commission des sanctions de la Haute Autorité de l'audit."
-    },
-    {
       "hash": "88fe323d7c9acdce",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -814,7 +796,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il précise les conditions d'agrément et les obligations d'information des sociétés de gestion de portefeuille."
+      "ai_summary": "Cet article concerne la conformité financière car il détaille les obligations réglementaires d'agrément et de reporting des sociétés de gestion."
     },
     {
       "hash": "7ae1814711832933",
@@ -1123,24 +1105,6 @@
       "ai_summary": "Cet article traite de nouvelles régulations et obligations de reporting en France pour renforcer la conformité anti-blanchiment de capitaux."
     },
     {
-      "hash": "5701b8921e04f7b4",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décret n° 2026-646 du 22 juillet 2026 portant création d'une commission indépendante d'information du public en cas d'ingérences étrangères en contexte électoral",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054456178",
-      "author": "Ministère de l'intérieur",
-      "published": "2026-07-23T00:00:00",
-      "summary": "Article 1Une commission d'information du public est instituée en vue de prévenir les effets d'ingérences étrangères, au sens de l'article L. 562-1 du code monétaire et financier et du 9° de l'article R.* 1132-3 du code de la défense, sur le bon déroulement des scrutins mentionnés à l'article 2.A cette fin, la commission :1° Reçoit les signalements transmis par les administrations et autorités chargées de détecter toute forme d'ingérence étrangère ;2° Informe, le cas échéant, les candidats et les",
-      "score": 82,
-      "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: code monétaire | ×1.5 (<24h)",
-      "doc_type": "DÉCRET",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "ded8eb288bb42f06",
       "source_name": "AMF - Réglementation",
       "source_type": "rss",
@@ -1156,7 +1120,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il précise les obligations de visa, de divulgation d'informations et de reporting auprès de l'AMF pour les SCPI, SEF et GFI."
+      "ai_summary": "Cet article traite de la conformité financière car il précise les exigences réglementaires de l'AMF pour les demandes de visa et les obligations d'information des SCPI, SEF et GFI."
     },
     {
       "hash": "c88fcf92fb03a134",
@@ -1516,7 +1480,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie de collecte de données pour l'évaluation des risques de blanchiment de capitaux par l'autorité compétente."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la collecte de données pour l'évaluation des risques de blanchiment d'argent par l'AMLA."
     },
     {
       "hash": "4fee4512ca068ae6",
@@ -2200,7 +2164,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car les sanctions imposent des restrictions sur les flux financiers vers la Russie."
     },
     {
       "hash": "28a36e1b62b3432e",
@@ -2218,7 +2182,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA établit des règles pour renforcer la protection des déposants et harmoniser les normes prudentielles dans l'UE."
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA établit de nouvelles règles pour renforcer la protection des dépôts et harmoniser les normes prudentielles dans l'UE."
     },
     {
       "hash": "43061d51849655be",
@@ -2416,7 +2380,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges d'informations transfrontaliers entre les unités de renseignement financier pour la lutte contre le blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des règles d'échange d'informations entre les unités de renseignement financier pour lutter contre le blanchiment d'argent."
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -2597,24 +2561,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne l'identification des entités soumises à la supervision directe d'AMLA pour la conformité anti-blanchiment."
-    },
-    {
-      "hash": "0f528c7883bce0b6",
-      "source_name": "Commission EU - Press",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Tax simplification package to streamline compliance and enhance competitiveness of the Single Market",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1439",
-      "author": "",
-      "published": "2026-06-23T22:00:00",
-      "summary": "European Commission Press release Brussels, 24 Jun 2026 Today, the European Commission adopted an ambitious tax simplification package designed to simplify EU tax rules and reduce compliance burdens for businesses.",
-      "score": 67,
-      "score_breakdown": "+20 mots forts: aml, compliance | +15 Source EU | +10 Géo EU: european commission | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Ce paquet de simplification fiscale réduit les charges de conformité des entreprises aux règles fiscales de l'UE."
     },
     {
       "hash": "da5169b239fcf0ac",
@@ -2902,7 +2848,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il détaille les règles d'agrément des fonds d'investissement et les obligations de documentation réglementaire."
+      "ai_summary": "Cet article traite des règles d'agrément, de documentation et d'information périodique des fonds d'investissement, éléments clés de la conformité réglementaire financière."
     },
     {
       "hash": "80f958c786ad1fcb",
@@ -2992,7 +2938,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur les règles de protection des déposants selon la directive révisée sur les systèmes de garantie des dépôts."
+      "ai_summary": "Cet article concerne les règles de protection des déposants, un élément clé de la conformité réglementaire bancaire."
     },
     {
       "hash": "6d59b530917199fc",
@@ -3208,7 +3154,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction réglementaire majeure imposée par les autorités européennes pour non-respect du DMA."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction réglementaire majeure imposée pour non-respect du cadre légal numérique européen."
     },
     {
       "hash": "48477ca4f73f24e6",
@@ -3805,24 +3751,6 @@
       "ai_summary": "Cet article concerne la supervision réglementaire d'un assureur par l'autorité de contrôle prudentiel française."
     },
     {
-      "hash": "70322eacf44b9b1c",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "La Grèce pourra bien continuer de transporter du gaz russe: les Vingt-Sept s'accordent sur un 21e paquet de sanctions contre la Russie (Athènes a eu gain de cause)",
-      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/la-grece-pourra-bien-continuer-de-transporter-du-gaz-russe-les-vingt-sept-s-accordent-sur-un-21e-paquet-de-sanctions-contre-la-russie-athenes-a-eu-gain-de-cause_AD-202607230295.html",
-      "author": "",
-      "published": "2026-07-23T08:51:59",
-      "summary": "Athènes plaidait pour que l'UE autorise ses entreprises à continuer de transporter du GNL, tant qu'il est destiné à des clients en dehors de l'Europe.",
-      "score": 49,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +10 Géo EU: grèce | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "42d03499d11dea81",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -3856,7 +3784,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les Pays-Bas imposent un embargo commercial sur les produits des colonies israéliennes, créant des obligations de conformité aux sanctions pour les importateurs."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des restrictions commerciales imposées aux produits des colonies israéliennes."
     },
     {
       "hash": "8ebc085b92358c61",
@@ -4216,7 +4144,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1efca07dfa4b68d0",
@@ -4288,7 +4216,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d090c59636185c87",
@@ -4414,7 +4342,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il aborde les consultations publiques sur la Directive révisée des systèmes de garantie des dépôts, essentielle pour la protection des déposants et la stabilité financière."
+      "ai_summary": "L'article concerne la conformité financière car il traite des nouvelles normes de protection des dépôts sous la directive DGSD3, qui impose des obligations réglementaires aux institutions financières."
     },
     {
       "hash": "5eb37d98cf14358b",
@@ -5962,7 +5890,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il liste les juridictions à risque élevé nécessitant une diligence renforcée et des mesures de lutte contre le blanchiment d'argent."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des juridictions à risque élevé et du contrôle des flux financiers contre le blanchiment."
     },
     {
       "hash": "523fcb1765c51fa6",
@@ -6376,7 +6304,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a79a7ae69758b181",
@@ -6664,25 +6592,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "2a279dcb9d842660",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🚀 Kickstart your career in Tech at the EBA! Are you a recent graduate in IT, Computer Science, Software Engineering, or Data Engin...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7480975504766910464",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-07-09T13:25:50",
-      "summary": "🚀 Kickstart your career in Tech at the EBA!\n\nAre you a recent graduate in IT, Computer Science, Software Engineering, or Data Engineering looking to gain hands-on experience at EU level? 💻\nNow is your chance! Applications for a traineeship within the Information & Technology Unit (IT) are now open.\n\n✨ What you can expect:\n✅ Work on data engineering and software development projects\n✅ Support data pipeline design, testing, monitoring, and optimization\n✅ Collaborate with experienced IT professiona",
-      "score": 16,
-      "score_breakdown": "+10 mots forts: eba | +10 Géo EU: eba | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6708b2d8a498228c",
@@ -6736,7 +6646,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "004adb22c54c6647",
@@ -6808,7 +6718,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "27d9ed4cf2a107d0",
@@ -6952,7 +6862,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une proposition réglementaire de FinCEN modifiant la définition légale d'une entité financière."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "33dc2a1d94f79fd1",
@@ -7043,6 +6953,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité aux contrôles d'exportation de minéraux stratégiques et les incitations à l'auto-signalement des violations."
+    },
+    {
+      "hash": "2a279dcb9d842660",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🚀 Kickstart your career in Tech at the EBA! Are you a recent graduate in IT, Computer Science, Software Engineering, or Data Engin...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7480975504766910464",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-07-09T13:25:50",
+      "summary": "🚀 Kickstart your career in Tech at the EBA!\n\nAre you a recent graduate in IT, Computer Science, Software Engineering, or Data Engineering looking to gain hands-on experience at EU level? 💻\nNow is your chance! Applications for a traineeship within the Information & Technology Unit (IT) are now open.\n\n✨ What you can expect:\n✅ Work on data engineering and software development projects\n✅ Support data pipeline design, testing, monitoring, and optimization\n✅ Collaborate with experienced IT professiona",
+      "score": 12,
+      "score_breakdown": "+10 mots forts: eba | +10 Géo EU: eba | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "070f72874744ac2b",
@@ -7258,7 +7186,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions économiques et des désignations de l'OFAC."
     },
     {
       "hash": "966f0365245a8eb8",
@@ -7564,7 +7492,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et de manipulation de cours, violations majeures des règles de conformité."
     },
     {
       "hash": "4abd6cf2de2c6dbc",
@@ -7582,7 +7510,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "cbf855b72b362493",
@@ -7690,10 +7618,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     }
   ],
-  "last_update": "2026-07-23T19:53:19.759975+00:00",
+  "last_update": "2026-07-24T01:49:59.513063+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
