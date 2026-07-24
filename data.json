@@ -814,7 +814,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il détaille les conditions d'approbation du programme d'activité des prestataires de services d'investissement par l'AMF."
+      "ai_summary": "Cet article concerne la conformité financière car il définit les conditions d'approbation du programme d'activité des prestataires de services d'investissement par l'AMF."
     },
     {
       "hash": "026f3cda077df42a",
@@ -1120,7 +1120,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il précise les exigences réglementaires de l'AMF pour les demandes de visa et les obligations d'information des SCPI, SEF et GFI."
+      "ai_summary": "Cet article traite de la conformité réglementaire des SCPI, SEF et GFI en matière de demande de visa, disclosure et reporting auprès de l'AMF."
     },
     {
       "hash": "c88fcf92fb03a134",
@@ -1480,7 +1480,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la collecte de données pour l'évaluation des risques de blanchiment d'argent par l'AMLA."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie pour la collecte de données en matière de lutte anti-blanchiment et de supervision bancaire."
     },
     {
       "hash": "4fee4512ca068ae6",
@@ -1969,6 +1969,24 @@
       "ai_summary": "Cet article traite de la conformité aux lois contre le blanchiment d'argent à Singapour et des exigences légales associées."
     },
     {
+      "hash": "782f1ac47d38bfb5",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 21 juillet 2026 portant modification des règles relatives à la comptabilité générale de l'Etat",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054471536",
+      "author": "Ministère de l'action et des comptes publics",
+      "published": "2026-07-24T00:00:00",
+      "summary": "Article 1Les règles applicables à la comptabilité générale de l'Etat sont modifiées conformément aux dispositions du recueil des normes comptables de l'Etat annexé au présent arrêté et accessible sur le site :  www.economie.gouv.fr/cnocpArticle 2Sont applicables aux états financiers de l'Etat les dispositions de l'avis n° 2026-03 du 29 juin 2026 susvisé, à compter du 1er janvier 2027 (exercice clos le 31 décembre 2027).Article 3Le présent arrêté sera publié au Journal officiel de la République f",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: journal officiel | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a3944b181f2bc85e",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -2182,7 +2200,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA établit de nouvelles règles pour renforcer la protection des dépôts et harmoniser les normes prudentielles dans l'UE."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des normes de protection des déposants dans l'UE."
     },
     {
       "hash": "43061d51849655be",
@@ -2380,7 +2398,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des règles d'échange d'informations entre les unités de renseignement financier pour lutter contre le blanchiment d'argent."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des échanges d'informations transfrontaliers entre les unités de renseignement financier."
     },
     {
       "hash": "ea5a8b5a240a559d",
@@ -2597,6 +2615,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la transition réglementaire entre la loi Pacte et MiCA pour les cryptoactifs."
+    },
+    {
+      "hash": "5701b8921e04f7b4",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décret n° 2026-646 du 22 juillet 2026 portant création d'une commission indépendante d'information du public en cas d'ingérences étrangères en contexte électoral",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054456178",
+      "author": "Ministère de l'intérieur",
+      "published": "2026-07-23T00:00:00",
+      "summary": "Article 1Une commission d'information du public est instituée en vue de prévenir les effets d'ingérences étrangères, au sens de l'article L. 562-1 du code monétaire et financier et du 9° de l'article R.* 1132-3 du code de la défense, sur le bon déroulement des scrutins mentionnés à l'article 2.A cette fin, la commission :1° Reçoit les signalements transmis par les administrations et autorités chargées de détecter toute forme d'ingérence étrangère ;2° Informe, le cas échéant, les candidats et les",
+      "score": 66,
+      "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: code monétaire | ×1.2 (<3d)",
+      "doc_type": "DÉCRET",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "1e5f91088999c290",
@@ -2848,7 +2884,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite des règles d'agrément, de documentation et d'information périodique des fonds d'investissement, éléments clés de la conformité réglementaire financière."
+      "ai_summary": "Cet article concerne les obligations de conformité des fonds d'investissement : agrément, documentation réglementaire (DIC/DICI) et information périodique des investisseurs."
     },
     {
       "hash": "80f958c786ad1fcb",
@@ -3154,7 +3190,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction réglementaire majeure imposée pour non-respect du cadre légal numérique européen."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "48477ca4f73f24e6",
@@ -4144,7 +4180,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'approbation conditionnelle d'une fusion soumise au respect de conditions réglementaires strictes."
     },
     {
       "hash": "1efca07dfa4b68d0",
@@ -4199,24 +4235,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les amendes imposées pour violation de conformité sanctions et de diligence raisonnable client."
-    },
-    {
-      "hash": "b00804cfd71cf43d",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, 6ème chambre, 20 juillet 2026, 511260",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260720-511260",
-      "author": "6ème chambre",
-      "published": "2026-07-20T12:00:00",
-      "summary": "Vu la procédure suivante :                   Par une requête et un mémoire en réplique enregistrés les 5 janvier et 20 avril 2026 au secrétariat du contentieux du Conseil d'Etat, M. A... B... et la société A... B... demandent au Conseil d'Etat :                   1° d'annuler la décision n° CS 2024-11 du 20 novembre 2025 par laquelle la commission des sanctions de la Haute autorité de l'audit H2A a prononcé, d'une part, à l'encontre de M. B..., une interdiction d'exercer la profession de commiss",
-      "score": 45,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: audit | +20 Géo FR: france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d090c59636185c87",
@@ -4342,7 +4360,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite des nouvelles normes de protection des dépôts sous la directive DGSD3, qui impose des obligations réglementaires aux institutions financières."
+      "ai_summary": "L'article concerne la conformité financière car il traite des consultations publiques sur la directive révisée sur les garanties des dépôts (DGSD3) visant l'harmonisation de la protection des déposants."
     },
     {
       "hash": "5eb37d98cf14358b",
@@ -5875,6 +5893,24 @@
       "ai_summary": "La SFO clôture son enquête sur fraude concernant un promoteur immobilier défaillant, relevant de la conformité financière et de la lutte anti-fraude."
     },
     {
+      "hash": "e2c6364398963207",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de NANTES, 5ème chambre, 22 juillet 2026, 24NT01674",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDENANTES-20260722-24NT01674",
+      "author": "5ème chambre",
+      "published": "2026-07-22T12:00:00",
+      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           L'association Ensemble Sauvons le Leff et notre patrimoine ENSALEP, l'association société d'études historiques et archéologiques du Goëlo SEHAG, M. B... E..., M. I... A... et Mme H... G... épouse A... ont demandé au tribunal administratif de Rennes d'annuler l'arrêté du 13 avril 2021 du préfet des Côtes-d'Armor portant autorisation environnementale au titre des articles L. 181-1 et suivants du code de l'environnem",
+      "score": 30,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "82197f0083f0de11",
       "source_name": "CSSF Luxembourg (AML/CFT)",
       "source_type": "rss",
@@ -6304,7 +6340,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a79a7ae69758b181",
@@ -6559,24 +6595,6 @@
       "ai_summary": "Cet article concerne la responsabilité des dirigeants dans le respect des obligations de lutte contre le blanchiment de capitaux."
     },
     {
-      "hash": "8664f7ce493a2bcb",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "iPhaïstos : la solution pour rendre vos factures Excel conformes à la facturation électronique",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/grand-angle-paroles-d-entreprises/i-phaistos-la-solution-pour-rendre-vos-factures-excel-conformes-a-la-facturation-electronique_AB-202606240040.html",
-      "author": "",
-      "published": "2026-06-24T07:00:00",
-      "summary": "Avec l’arrivée de la réforme de la facturation électronique, iPhaïstos propose une solution pour permettre aux petites entreprises de continuer à utiliser Excel, tout en se mettant en conformité. Patrice Ballereau, fondateur, nous en dit plus. ",
-      "score": 19,
-      "score_breakdown": "+10 mots forts: conformité | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité aux obligations légales de facturation électronique pour les petites entreprises."
-    },
-    {
       "hash": "40996009536ec903",
       "source_name": "CJUE - Cour de Justice UE",
       "source_type": "rss",
@@ -6592,7 +6610,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6708b2d8a498228c",
@@ -6646,7 +6664,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "004adb22c54c6647",
@@ -6718,7 +6736,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "27d9ed4cf2a107d0",
@@ -6847,24 +6865,6 @@
       "ai_summary": "L'adhésion de l'Islande au système TIPS renforce la conformité aux standards de paiement européens et aux règles de settlement financier."
     },
     {
-      "hash": "e61f728995813ecf",
-      "source_name": "FinCEN",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "FinCEN Extends Comment Period for Proposed Rule To Amend the Definition of Huione Group",
-      "url": "https://www.fincen.gov/news/news-releases/fincen-extends-comment-period-proposed-rule-amend-definition-huione-group",
-      "author": "",
-      "published": "2026-07-22T00:00:00",
-      "summary": "",
-      "score": 12,
-      "score_breakdown": "+5 Source Intl | +3 Géo Intl: fincen | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "33dc2a1d94f79fd1",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -6970,7 +6970,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "070f72874744ac2b",
@@ -6989,6 +6989,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la dette publique incontrôlée et des risques de fraude dans les infrastructures."
+    },
+    {
+      "hash": "e61f728995813ecf",
+      "source_name": "FinCEN",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "FinCEN Extends Comment Period for Proposed Rule To Amend the Definition of Huione Group",
+      "url": "https://www.fincen.gov/news/news-releases/fincen-extends-comment-period-proposed-rule-amend-definition-huione-group",
+      "author": "",
+      "published": "2026-07-22T00:00:00",
+      "summary": "",
+      "score": 9,
+      "score_breakdown": "+5 Source Intl | +3 Géo Intl: fincen | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "58ea05204efb8b9e",
@@ -7492,7 +7510,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et de manipulation de cours, violations majeures des règles de conformité."
+      "ai_summary": "Cet article concerne la conformité financière car il évoque des accusations de corruption et manipulation de cours, violations majeures des règles de conformité et d'intégrité financière."
     },
     {
       "hash": "4abd6cf2de2c6dbc",
@@ -7510,7 +7528,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "cbf855b72b362493",
@@ -7618,10 +7636,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-07-24T03:51:32.327004+00:00",
+  "last_update": "2026-07-24T08:08:45.731152+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
