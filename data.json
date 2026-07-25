@@ -814,7 +814,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il précise les conditions d'approbation du programme d'activité des prestataires de services d'investissement par l'AMF."
+      "ai_summary": "Cet article concerne la conformité financière car il définit les conditions d'approbation du programme d'activité des prestataires de services d'investissement par l'AMF."
     },
     {
       "hash": "026f3cda077df42a",
@@ -1498,7 +1498,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie et du cadre de collecte de données pour l'évaluation des risques de blanchiment de capitaux."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la collecte de données pour l'évaluation des risques de blanchiment d'argent par l'AMLA."
     },
     {
       "hash": "4fee4512ca068ae6",
@@ -2146,7 +2146,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions contre la Russie qui imposent des obligations légales de respect des restrictions commerciales et financières."
+      "ai_summary": "Cet article concerne la conformité financière car les sanctions contre la Russie imposent des obligations de conformité réglementaire et de contrôle des flux financiers."
     },
     {
       "hash": "6e5f07bb4419d3d6",
@@ -2614,7 +2614,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1e5f91088999c290",
@@ -3766,7 +3766,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité aux sanctions financières en raison du contournement présumé des restrictions européennes sur les produits pétroliers russes."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du contournement des sanctions européennes contre la Russie via des exports de pétrole."
     },
     {
       "hash": "42d03499d11dea81",
@@ -4147,22 +4147,22 @@
       "ai_summary": "Cet article traite de la conformité financière car il évalue la crédibilité et la fiabilité d'une plateforme crypto, enjeu majeur de régulation."
     },
     {
-      "hash": "a713fe4c37330d9f",
-      "source_name": "Commission EU - Press",
+      "hash": "33b9ab13ae04fa2c",
+      "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Commission approves Paramount's acquisition of Warner, subject to conditions",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1663",
-      "author": "",
-      "published": "2026-07-21T22:00:00",
-      "summary": "European Commission Press release Brussels, 22 Jul 2026 The European Commission has approved, under the EU Merger Regulation, the proposed acquisition by Paramount Skydance Corporation (‘Paramount') of Warner Bros. Discovery (‘Warner'). The approval is conditional upon full compliance with the commitments offered by Paramount.",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, 4ème chambre, 23 juillet 2026, 507238",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260723-507238",
+      "author": "4ème chambre",
+      "published": "2026-07-23T12:00:00",
+      "summary": "Vu la procédure suivante :                  Mme B... A... a porté plainte contre M. D... C... devant le conseil départemental de la Ville de Paris de l'ordre des médecins, qui a transmis cette plainte, sans s'y associer, à la chambre disciplinaire de première instance d'Ile-de-France de l'ordre des médecins. Par une décision du 31 août 2022, la chambre disciplinaire de première instance a prononcé à l'encontre de M. C... la sanction de l'interdiction d'exercer la médecine pendant une durée de qu",
       "score": 48,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: regulation | +15 Source EU | +10 Géo EU: european commission | ×1.2 (<3d)",
+      "score_breakdown": "+20 mots critiques: sanction | +20 Géo FR: france | ×1.2 (<3d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1efca07dfa4b68d0",
@@ -4324,7 +4324,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite des consultations publiques sur la directive révisée sur les garanties des dépôts (DGSD3), qui harmonise les cadres de protection des déposants."
+      "ai_summary": "L'article concerne la conformité financière car il aborde les consultations publiques sur la directive révisée sur les systèmes de garantie des dépôts (DGSD3)."
     },
     {
       "hash": "5eb37d98cf14358b",
@@ -4703,6 +4703,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la conformité financière en analysant les risques de sanctions et de régulation liés aux changements politiques aux États-Unis."
+    },
+    {
+      "hash": "a713fe4c37330d9f",
+      "source_name": "Commission EU - Press",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Commission approves Paramount's acquisition of Warner, subject to conditions",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1663",
+      "author": "",
+      "published": "2026-07-21T22:00:00",
+      "summary": "European Commission Press release Brussels, 22 Jul 2026 The European Commission has approved, under the EU Merger Regulation, the proposed acquisition by Paramount Skydance Corporation (‘Paramount') of Warner Bros. Discovery (‘Warner'). The approval is conditional upon full compliance with the commitments offered by Paramount.",
+      "score": 40,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: regulation | +15 Source EU | +10 Géo EU: european commission | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "ce82b1b85c664dd4",
@@ -5296,7 +5314,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la défense contre des accusations de violation des sanctions contre la Russie au Royaume-Uni."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la défense juridique contre des accusations de violation des sanctions UK à l'égard de la Russie."
     },
     {
       "hash": "bfd417a11e3ec6b3",
@@ -5893,24 +5911,6 @@
       "ai_summary": "La SFO clôture son enquête sur fraude concernant un promoteur immobilier défaillant, relevant de la conformité financière et de la lutte anti-fraude."
     },
     {
-      "hash": "e2c6364398963207",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de NANTES, 5ème chambre, 22 juillet 2026, 24NT01674",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDENANTES-20260722-24NT01674",
-      "author": "5ème chambre",
-      "published": "2026-07-22T12:00:00",
-      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           L'association Ensemble Sauvons le Leff et notre patrimoine ENSALEP, l'association société d'études historiques et archéologiques du Goëlo SEHAG, M. B... E..., M. I... A... et Mme H... G... épouse A... ont demandé au tribunal administratif de Rennes d'annuler l'arrêté du 13 avril 2021 du préfet des Côtes-d'Armor portant autorisation environnementale au titre des articles L. 181-1 et suivants du code de l'environnem",
-      "score": 30,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "523fcb1765c51fa6",
       "source_name": "ESMA (X)",
       "source_type": "rss",
@@ -6017,6 +6017,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La BCE réforme sa supervision bancaire en clarifiant ses directives pour renforcer la conformité et la cohérence réglementaire européenne."
+    },
+    {
+      "hash": "81a147bbc056be04",
+      "source_name": "Cass. - Bancaire",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Tribunal judiciaire d'Albertville, 3e ch. referes paf, 15 juillet 2026, 26/00163",
+      "url": "http://juricaf.org/arret/FRANCE-TRIBUNALJUDICIAIREDALBERTVILLE-20260715-2600163",
+      "author": "3e ch. referes paf",
+      "published": "2026-07-15T12:00:00",
+      "summary": "COUR D’APPEL DE CHAMBÉRY TRIBUNAL JUDICIAIRE D’ALBERTVILLE   ORDONNANCE DE RÉFÉRÉ DU 15/07/2026    N° RG 26/00163 - N° Portalis DB2O-W-B7K-C6A3    DEMANDEURS :  S.C. LE DORA Adresse 1 représentée par Me Natacha DEMARTHE-CHAZARAIN de la SELARL MINERVA AVOCAT, avocat plaidant au barreau de PARIS, et Me Julien CAPDEVILLE de la SCP LOUCHET CAPDEVILLE, avocat postulant au barreau d’ALBERTVILLE,  DÉFENDEURS :  MUTUELLE DES ARCHITECTES FRANCAIS, assureur de la SARL ECOGAM Adresse 2 non comparante  S.A.",
+      "score": 28,
+      "score_breakdown": "+10 mots forts: dora | +5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "546045ccf4bc818e",
@@ -6287,6 +6305,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une décision d'autorisation d'exploitation commerciale soumise à contrôle administratif."
+    },
+    {
+      "hash": "ced75afbaf5305a9",
+      "source_name": "Cass. - Bancaire",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Tribunal judiciaire d'Alès, 1ère chambre, 15 juillet 2026, 25/00480",
+      "url": "http://juricaf.org/arret/FRANCE-TRIBUNALJUDICIAIREDALES-20260715-2500480",
+      "author": "1ère chambre",
+      "published": "2026-07-15T12:00:00",
+      "summary": "MINUTE N° : 26/141 DU : 15 juillet 2026 JUGEMENT : contradictoire et en premier ressort DOSSIER : N° RG 25/00480 - N° Portalis DBXZ-W-B7J-CU2Y / 01ère Chambre civile AFFAIRE : S.A.R.L. AGENCE GADD C/ E DÉBATS : 17 mars 2026   RÉPUBLIQUE FRANÇAISE Au nom du peuple français  TRIBUNAL JUDICIAIRE D’ALÈS Première chambre civile  JUGEMENT DU QUINZE JUILLET DEUX MILLE VINGT SIX  COMPOSITION DU TRIBUNAL :  Madame Elodie THEBAUD, Présidente, siégeant en qualité de juge unique qui a signé le jugement avec",
+      "score": 24,
+      "score_breakdown": "+10 mots forts: eba | +20 Géo FR: france, français, française | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "ca82c885cb3577e9",
+      "source_name": "Cass. - Bancaire",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Tribunal judiciaire de Chalons-en-Champagne, 2ème chambre, 15 juillet 2026, 25/02533",
+      "url": "http://juricaf.org/arret/FRANCE-TRIBUNALJUDICIAIREDECHALONSENCHAMPAGNE-20260715-2502533",
+      "author": "2ème chambre",
+      "published": "2026-07-15T12:00:00",
+      "summary": "AC / AG    TRIBUNAL JUDICIAIRE DE CHALONS-EN-CHAMPAGNE - JUGE AUX AFFAIRES FAMILIALES Chambre de la famille - 2ème section - JUGEMENT DU 15 juillet 2026   N° RG 25/02533 - N° Portalis DBY7-W-B7J-EY6F Demande en partage, ou contestations relatives au partage  Mme W I C/ M. O J   DEMANDERESSE :  Madame W I Adresse 1 Localité 1 représentée par Me Claire PETIT THESMAR, avocat au barreau de CHALONS-EN-CHAMPAGNE, avocat plaidant    DEFENDEUR :  Monsieur O J Adresse 2 Localité 2 non comparant  Notifica",
+      "score": 24,
+      "score_breakdown": "+10 mots forts: esma | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "6eb8dbd464bbcb29",
@@ -6574,7 +6628,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "40996009536ec903",
@@ -6592,7 +6646,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne le contrôle juridictionnel des sanctions disciplinaires sportives selon le droit de l'UE, hors conformité financière."
     },
     {
       "hash": "2ab0cbe4a37e7e24",
@@ -6610,7 +6664,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une inculpation pour violation de la loi anticorruption FCPA impliquant des pots-de-vin à des fonctionnaires."
     },
     {
       "hash": "6708b2d8a498228c",
@@ -6664,7 +6718,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "004adb22c54c6647",
@@ -6736,7 +6790,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "27d9ed4cf2a107d0",
@@ -6934,7 +6988,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "070f72874744ac2b",
@@ -7168,7 +7222,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions commerciales internationales et les obligations de conformité réglementaire relatives à l'Iran, la Russie et le Venezuela."
+      "ai_summary": "Cet article concerne les sanctions financières de l'OFAC sur l'Iran, la Russie et le Venezuela, imposant une conformité stricte aux entreprises opérant avec ces pays."
     },
     {
       "hash": "64d8d52dec1a3a15",
@@ -7510,7 +7564,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il rapporte une enquête judiciaire pour corruption et manipulation de cours, violations graves de la réglementation financière."
+      "ai_summary": "Cet article concerne les enquêtes judiciaires sur des accusations de corruption et manipulation de cours visant un dirigeant majeur du secteur retail, relevant de la conformité financière et de la prévention des fraudes."
     },
     {
       "hash": "cbf855b72b362493",
@@ -7582,7 +7636,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les poursuites judiciaires contre des lanceurs d'alerte impliqués dans des fraudes fiscales cum-ex, relevant directement de la conformité financière."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "03b9fe6debaa3e87",
@@ -7600,10 +7654,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-07-25T03:45:23.532660+00:00",
+  "last_update": "2026-07-25T07:51:35.889266+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
