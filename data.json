@@ -814,7 +814,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il précise les conditions d'approbation du programme d'activité des prestataires de services d'investissement par l'AMF."
+      "ai_summary": "Cet article concerne la conformité financière car il définit les conditions d'approbation du programme d'activité des prestataires de services d'investissement par l'AMF."
     },
     {
       "hash": "026f3cda077df42a",
@@ -1516,7 +1516,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la collecte de données pour l'évaluation des risques de blanchiment d'argent par l'autorité compétente."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie de collecte de données pour l'évaluation des risques de blanchiment de capitaux par l'AMLA."
     },
     {
       "hash": "4fee4512ca068ae6",
@@ -1552,7 +1552,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière en expliquant les amendes imposées par la banque centrale malaisienne pour non-respect des règles anti-blanchiment."
+      "ai_summary": "Cet article traite de la conformité AML/LCB-FT en Malaisie et des sanctions imposées par la banque centrale pour non-respect des obligations."
     },
     {
       "hash": "c744ee97225fd821",
@@ -1859,6 +1859,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la conformité aux lois contre le blanchiment d'argent à Singapour et des exigences légales associées."
+    },
+    {
+      "hash": "0fc78a075165305b",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décret n° 2026-686 du 28 juillet 2026 portant approbation de la modification des statuts de la société nationale de programme France Télévisions",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054541311",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-07-29T00:00:00",
+      "summary": "Article 1La modification des statuts de la société nationale de programme France Télévisions, adoptée lors de l'assemblée générale mixte du 31 mars 2026, annexée au présent décret, est approuvée.Article 2Le ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique et la ministre de la culture sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.AnnexeArticle ANNEXE STAT",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: france, français, française | ×1.5 (<24h)",
+      "doc_type": "DÉCRET",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "782f1ac47d38bfb5",
@@ -2434,7 +2452,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article traite de la conformité financière car il concerne une violation du devoir de confidentialité en matière de lutte contre le blanchiment de capitaux."
     },
     {
       "hash": "1e5f91088999c290",
@@ -2941,42 +2959,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une condamnation pour fraude fiscale aggravée et non-respect des obligations fiscales."
     },
     {
-      "hash": "5701b8921e04f7b4",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décret n° 2026-646 du 22 juillet 2026 portant création d'une commission indépendante d'information du public en cas d'ingérences étrangères en contexte électoral",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054456178",
-      "author": "Ministère de l'intérieur",
-      "published": "2026-07-23T00:00:00",
-      "summary": "Article 1Une commission d'information du public est instituée en vue de prévenir les effets d'ingérences étrangères, au sens de l'article L. 562-1 du code monétaire et financier et du 9° de l'article R.* 1132-3 du code de la défense, sur le bon déroulement des scrutins mentionnés à l'article 2.A cette fin, la commission :1° Reçoit les signalements transmis par les administrations et autorités chargées de détecter toute forme d'ingérence étrangère ;2° Informe, le cas échéant, les candidats et les",
-      "score": 55,
-      "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: code monétaire | ×1.0 (7d)",
-      "doc_type": "DÉCRET",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "be606049e1480953",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décret n° 2026-665 du 24 juillet 2026 portant publication de l'accord spécifique entre le Gouvernement de la République française et le Gouvernement de la République du Kazakhstan relatif à la mise en œuvre de la coopération dans la lutte contre le réchauffement climatique (ensemble deux annexes), signé à Paris le 30 novembre 2022 (1)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054486635",
-      "author": "Ministère de l'Europe et des affaires étrangères",
-      "published": "2026-07-26T00:00:00",
-      "summary": "Article 1L'accord spécifique entre le Gouvernement de la République française et le Gouvernement de la République du Kazakhstan relatif à la mise en œuvre de la coopération dans la lutte contre le réchauffement climatique (ensemble deux annexes), signé à Paris le 30 novembre 2022, sera publié au Journal officiel de la République française.Article 2Le Premier ministre et le ministre de l'Europe et des affaires étrangères sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret",
-      "score": 54,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
-      "doc_type": "DÉCRET",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "f2f1e7bb8261528b",
       "source_name": "Commission EU - Press",
       "source_type": "rss",
@@ -3101,24 +3083,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la conformité aux sanctions suisses, un élément clé de la conformité financière et réglementaire."
-    },
-    {
-      "hash": "a9a8a753b08f27f7",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Informations diverses",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054500142",
-      "author": "",
-      "published": "2026-07-28T00:00:00",
-      "summary": "Article SénatEngagement de la procédure accéléréePar courriers en date du 27 juillet 2026, M. le Premier ministre a informé M. le Président du Sénat de la décision du Gouvernement d'engager, en application de l'article 45, alinéa 2, de la Constitution, la procédure accélérée pour l'examen :- du projet de loi autorisant l'approbation de l'accord multilatéral entre autorités compétentes concernant l'échange automatique de renseignements relatifs au cadre de déclaration applicable aux crypto-actifs",
-      "score": 52,
-      "score_breakdown": "+10 mots forts: crypto | +25 Source FR | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d88d7e864392476d",
@@ -3352,7 +3316,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la coordination entre l'EBA et la BCE sur la supervision bancaire européenne."
     },
     {
       "hash": "631d9075931facd4",
@@ -3967,24 +3931,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de violation de sanctions et de coopération avec la justice."
     },
     {
-      "hash": "a4229d494b5a263d",
-      "source_name": "JORF - Lois",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "LOI n° 2026-667 du 27 juillet 2026 visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (1)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054496919",
-      "author": "",
-      "published": "2026-07-28T00:00:00",
-      "summary": "Article 1Après le chapitre IX du titre II du livre II du code de la sécurité intérieure, il est inséré un chapitre IX bis ainsi rédigé :« Chapitre IX bis« Injonction d'examen psychiatrique« Article L. 229-7. - « I. - Aux seules fins de prévenir la commission d'actes de terrorisme, en même temps que de permettre la protection de la santé, le représentant de l'Etat dans le département ou, à Paris, le préfet de police peut faire obligation à une personne à l'égard de laquelle il existe des raisons ",
-      "score": 45,
-      "score_breakdown": "+5 mots moyens: risque | +25 Source FR | ×1.5 (<24h)",
-      "doc_type": "LOI",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "f312159d9bc321fa",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -4001,6 +3947,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet arrêté homologue des normes d'exercice professionnel pour les commissaires aux comptes, garantissant la conformité des audits financiers légaux."
+    },
+    {
+      "hash": "be606049e1480953",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décret n° 2026-665 du 24 juillet 2026 portant publication de l'accord spécifique entre le Gouvernement de la République française et le Gouvernement de la République du Kazakhstan relatif à la mise en œuvre de la coopération dans la lutte contre le réchauffement climatique (ensemble deux annexes), signé à Paris le 30 novembre 2022 (1)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054486635",
+      "author": "Ministère de l'Europe et des affaires étrangères",
+      "published": "2026-07-26T00:00:00",
+      "summary": "Article 1L'accord spécifique entre le Gouvernement de la République française et le Gouvernement de la République du Kazakhstan relatif à la mise en œuvre de la coopération dans la lutte contre le réchauffement climatique (ensemble deux annexes), signé à Paris le 30 novembre 2022, sera publié au Journal officiel de la République française.Article 2Le Premier ministre et le ministre de l'Europe et des affaires étrangères sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret",
+      "score": 45,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
+      "doc_type": "DÉCRET",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "d090c59636185c87",
@@ -4237,6 +4201,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la mise en œuvre de la directive DGSD3 sur la protection des dépositaires bancaires."
     },
     {
+      "hash": "a9a8a753b08f27f7",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Informations diverses",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054500142",
+      "author": "",
+      "published": "2026-07-28T00:00:00",
+      "summary": "Article SénatEngagement de la procédure accéléréePar courriers en date du 27 juillet 2026, M. le Premier ministre a informé M. le Président du Sénat de la décision du Gouvernement d'engager, en application de l'article 45, alinéa 2, de la Constitution, la procédure accélérée pour l'examen :- du projet de loi autorisant l'approbation de l'accord multilatéral entre autorités compétentes concernant l'échange automatique de renseignements relatifs au cadre de déclaration applicable aux crypto-actifs",
+      "score": 42,
+      "score_breakdown": "+10 mots forts: crypto | +25 Source FR | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "f2c1b0539074162f",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -4270,7 +4252,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de la gestion des risques et de la conformité réglementaire d'un émetteur de monnaie électronique face aux exigences bancaires."
     },
     {
       "hash": "b019666724da792a",
@@ -4451,24 +4433,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la conformité financière en analysant les risques de sanctions et de régulation liés aux changements politiques aux États-Unis."
-    },
-    {
-      "hash": "a713fe4c37330d9f",
-      "source_name": "Commission EU - Press",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Commission approves Paramount's acquisition of Warner, subject to conditions",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1663",
-      "author": "",
-      "published": "2026-07-21T22:00:00",
-      "summary": "European Commission Press release Brussels, 22 Jul 2026 The European Commission has approved, under the EU Merger Regulation, the proposed acquisition by Paramount Skydance Corporation (‘Paramount') of Warner Bros. Discovery (‘Warner'). The approval is conditional upon full compliance with the commitments offered by Paramount.",
-      "score": 40,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: regulation | +15 Source EU | +10 Géo EU: european commission | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ce82b1b85c664dd4",
@@ -5011,6 +4975,24 @@
       "ai_summary": "La directive DGSD3 renforce la protection des déposants en accélérant les remboursements et améliore la conformité réglementaire bancaire européenne."
     },
     {
+      "hash": "a4229d494b5a263d",
+      "source_name": "JORF - Lois",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "LOI n° 2026-667 du 27 juillet 2026 visant à renforcer la sécurité, la rétention administrative et la prévention des risques d'attentat (1)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054496919",
+      "author": "",
+      "published": "2026-07-28T00:00:00",
+      "summary": "Article 1Après le chapitre IX du titre II du livre II du code de la sécurité intérieure, il est inséré un chapitre IX bis ainsi rédigé :« Chapitre IX bis« Injonction d'examen psychiatrique« Article L. 229-7. - « I. - Aux seules fins de prévenir la commission d'actes de terrorisme, en même temps que de permettre la protection de la santé, le représentant de l'Etat dans le département ou, à Paris, le préfet de police peut faire obligation à une personne à l'égard de laquelle il existe des raisons ",
+      "score": 36,
+      "score_breakdown": "+5 mots moyens: risque | +25 Source FR | ×1.2 (<3d)",
+      "doc_type": "LOI",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "fad1d3c78471f29b",
       "source_name": "Cass. - Fraude",
       "source_type": "rss",
@@ -5026,7 +5008,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "9d2f252239de715b",
@@ -5062,7 +5044,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les décisions du FATF impactent directement la conformité financière en modifiant les listes de risques, les procédures de vérification et les recommandations réglementaires."
+      "ai_summary": "Les décisions du FATF sur les listes grises et les recommandations impactent directement la conformité financière et les contrôles de risque."
     },
     {
       "hash": "283c143a39e0857a",
@@ -5641,6 +5623,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des risques de pénalités liées au non-respect des contrôles à l'exportation de l'UE."
     },
     {
+      "hash": "a713fe4c37330d9f",
+      "source_name": "Commission EU - Press",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Commission approves Paramount's acquisition of Warner, subject to conditions",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1663",
+      "author": "",
+      "published": "2026-07-21T22:00:00",
+      "summary": "European Commission Press release Brussels, 22 Jul 2026 The European Commission has approved, under the EU Merger Regulation, the proposed acquisition by Paramount Skydance Corporation (‘Paramount') of Warner Bros. Discovery (‘Warner'). The approval is conditional upon full compliance with the commitments offered by Paramount.",
+      "score": 32,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: regulation | +15 Source EU | +10 Géo EU: european commission | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a9c020110946ea17",
       "source_name": "Cass. - Fraude",
       "source_type": "rss",
@@ -5821,6 +5821,42 @@
       "ai_summary": "Les réformes de supervision bancaire européenne améliorent la conformité par la simplification des tests de stress et des inspections."
     },
     {
+      "hash": "1039375ff68213f8",
+      "source_name": "Cass. - Fraude",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Tribunal judiciaire de Lyon, Ppp pÔle circuit long s2, 17 juillet 2026, 26/00282",
+      "url": "http://juricaf.org/arret/FRANCE-TRIBUNALJUDICIAIREDELYON-20260717-2600282",
+      "author": "Ppp pÔle circuit long s2",
+      "published": "2026-07-17T12:00:00",
+      "summary": "DOSSIER N° RG 26/00282 - N° Portalis DB2H-W-B7K-3ZC2  Jugement du :  17/07/2026  MINUTE N°    PPP PÔLE CIRCUIT Localité 1 S2            1 C/ Y U                         Copie exécutoire délivrée à : Me DJEBARI T.713  Expédition délivrée à : Mr U  TRIBUNAL JUDICIAIRE DE LYON PÔLE DE LA PROXIMITE ET DE LA PROTECTION  JUGEMENT   A l’audience publique du tribunal judiciaire tenue le Vendredi dix sept Juillet deux mil vingt six   COMPOSITION DU TRIBUNAL : JUGE : STELLA Karen GREFFIER : DIPPERT Floria",
+      "score": 28,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "2b0b619382ec9b8a",
+      "source_name": "Cass. - Fraude",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour d'appel de Toulouse, 1ere chambre section 1, 15 juillet 2026, 24/01760",
+      "url": "http://juricaf.org/arret/FRANCE-COURDAPPELDETOULOUSE-20260715-2401760",
+      "author": "1ere chambre section 1",
+      "published": "2026-07-15T12:00:00",
+      "summary": "15/07/2026    ARRÊT N° 26/281    N° RG 24/01760  N° Portalis DBVI-V-B7I-QHS6  NA - SC    Décision déférée du 02 Mai 2024  TJ de TOULOUSE - 21/05396  S. GAUMET                                                  REOUVERTURE DES DEBATS     RENVOI AUDIENCE DE PLAIDOIRIES DU 22.02.2027                                                                      Grosse délivrée le 15/07/2026  par Rpva aux avocats  RÉPUBLIQUE FRANÇAISE  AU NOM DU PEUPLE FRANÇAIS  ***  COUR D'APPEL DE TOULOUSE  1ere Chambre Secti",
+      "score": 28,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: ppe | +20 Géo FR: france, français, française | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "c87b19fd0ae7a535",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -5854,7 +5890,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Monaco sanctionne le successeur de Banque Havilland pour défaillances dans la lutte anti-blanchiment."
     },
     {
       "hash": "8a23ba744e48caff",
@@ -6070,7 +6106,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3187dc0002653a16",
@@ -6214,7 +6250,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "23a158300e320beb",
@@ -6394,7 +6430,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "40996009536ec903",
@@ -6556,7 +6592,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "27d9ed4cf2a107d0",
@@ -6736,7 +6772,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "070f72874744ac2b",
@@ -7240,7 +7276,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il révèle une enquête sur des accusations de corruption et manipulation de cours impliquant des dirigeants majeurs du secteur retail français."
+      "ai_summary": "Cet article concerne la conformité financière car il rapporte une enquête sur des accusations de corruption et manipulation de cours visant un dirigeant majeur du secteur."
     },
     {
       "hash": "cbf855b72b362493",
@@ -7294,10 +7330,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     }
   ],
-  "last_update": "2026-07-28T19:58:30.394922+00:00",
+  "last_update": "2026-07-29T01:43:00.510990+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
