@@ -709,24 +709,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du partage d'informations entre autorités pour lutter contre la criminalité financière."
     },
     {
-      "hash": "c6c6461a82840124",
-      "source_name": "AMLA - Anti-Money Laundering Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Advisory note on money laundering risks as the MiCAR transitional period ends",
-      "url": "https://www.amla.europa.eu/advisory-note-money-laundering-risks-micar-transitional-period-ends_en",
-      "author": "",
-      "published": "2026-06-29T13:59:14",
-      "summary": "AMLA has published an advisory note on the money laundering and terrorist financing risks linked to the end of the MiCAR transitional period on 1 July 2026.",
-      "score": 100,
-      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, mica, amla | +5 mots moyens: risk | +15 Source EU | +10 Géo EU: amla, mica | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les risques de blanchiment de capitaux et de financement du terrorisme lors de la fin de la période transitoire du MiCAR."
-    },
-    {
       "hash": "6ef6b93231b2b30b",
       "source_name": "Tracfin (LinkedIn)",
       "source_type": "rss",
@@ -796,7 +778,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il définit les conditions d'approbation du programme d'activité des prestataires de services d'investissement par l'AMF."
+      "ai_summary": "Ce document concerne la conformité financière car il définit les conditions réglementaires d'approbation du programme d'activité des prestataires de services d'investissement par l'AMF."
     },
     {
       "hash": "026f3cda077df42a",
@@ -1120,7 +1102,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "aa7175a89f11a7f7",
@@ -1498,7 +1480,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie de collecte de données pour l'évaluation des risques de blanchiment de capitaux par l'autorité compétente."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie de collecte de données pour l'évaluation des risques de blanchiment d'argent par l'autorité compétente."
     },
     {
       "hash": "404f60bf11b825f9",
@@ -1552,7 +1534,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9b43fb5935574e89",
@@ -1570,7 +1552,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de la conformité financière en abordant comment les innovations numériques s'intègrent aux pratiques bancaires réglementées."
     },
     {
       "hash": "cf77cd99d59eb558",
@@ -2347,24 +2329,6 @@
       "ai_summary": "L'article concerne la conformité financière car il traite des indicateurs de performance et des obligations de divulgation réglementaires des banques."
     },
     {
-      "hash": "71070dcee5075e4f",
-      "source_name": "EBA - European Banking Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "EBA E-mail alert 29 June, 2026",
-      "url": "https://www.eba.europa.eu/node/19791",
-      "author": "Anonymous",
-      "published": "2026-06-29T15:00:03",
-      "summary": "EBA E-mail alert 29 June, 2026\n\n  \n    Date\n          29/06/2026\n\n      \n\nAnonymous (not verified)\n\nMon, 06/29/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          The EBA publishes a roadmap on the delivery of its mandates under the revised Deposit Guarantee Schemes Directive \n          The EBA publishes its 2025 Report on supervisory convergence, supporting a simpler and more efficient EU prudential framework\n      ",
-      "score": 67,
-      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: directive, supervisory | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA publie un plan d'action sur les schémas de garantie des dépôts révisés."
-    },
-    {
       "hash": "da5169b239fcf0ac",
       "source_name": "AMF France (X)",
       "source_type": "rss",
@@ -2399,6 +2363,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la transition réglementaire entre la loi Pacte et MiCA pour les cryptoactifs."
+    },
+    {
+      "hash": "93ca1714ea55bee2",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Jusqu'à 4 mois dans 20% des cas pour l'assurance habitation et même plus de 7 mois pour 10% d'entre eux: l'ACPR s'interroge sur les délais d'indemnisation des assureurs et les résiliations de contrats",
+      "url": "https://www.bfmtv.com/economie/entreprises/assurance-banque/jusqu-a-4-mois-dans-20-des-cas-pour-l-assurance-habitation-et-meme-plus-de-7-mois-pour-10-l-acpr-s-interroge-sur-les-delais-d-indemnisation-des-assureurs-et-les-resiliations-de-contrats_AD-202607290385.html",
+      "author": "",
+      "published": "2026-07-29T15:39:23",
+      "summary": "L'Autorité de contrôle prudentiel et de résolution invite également les assureurs, afin de \"mieux préserver les intérêts de la clientèle\", à \"s'interroger sur la pertinence de prendre en compte certains sinistres pour décider de la résiliation des contrats\".",
+      "score": 64,
+      "score_breakdown": "+20 mots forts: acpr, contrôle prudentiel | +3 Presse | +20 Géo FR: acpr | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "3fce93ec9a202c6f",
@@ -3175,24 +3157,6 @@
       "ai_summary": "Cet article concerne la conformité financière car l'EBA consulte sur les indicateurs de performance des divulgations de la Taxonomie."
     },
     {
-      "hash": "bfe6c809cca29bdc",
-      "source_name": "ECB - Banking Supervision",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "ECB sanctions BIL for breaching ECB decision on internal models",
-      "url": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260629~f60e0e7048.en.html",
-      "author": "",
-      "published": "2026-06-29T16:00:00",
-      "summary": "",
-      "score": 52,
-      "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La BCE sanctionne BIL pour non-respect de sa décision sur les modèles internes, ce qui relève de la conformité réglementaire."
-    },
-    {
       "hash": "45349ec0a7f24287",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -3388,7 +3352,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il expose l'évasion fiscale, le travail clandestin et les pratiques frauduleuses d'entreprises chinoises en Italie."
     },
     {
       "hash": "87513dae050b53fd",
@@ -3784,7 +3748,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d090c59636185c87",
@@ -3985,42 +3949,6 @@
       "ai_summary": "Pillar 3 supervision renforce la transparence financière et la divulgation d'informations des banques européennes selon les normes réglementaires."
     },
     {
-      "hash": "dcb7b8789c85921e",
-      "source_name": "Commission EU Finance (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📢 More time to have your say on how the EU's crypto-asset rules are working in practice! The deadline for our consultation on the efficiency of the current framework (MiCA) has been extended. Now open until 30 September 2026 👉",
-      "url": "https://x.com/EU_Finance/status/2071600541679993004",
-      "author": "@EU_Finance",
-      "published": "2026-06-29T14:23:00",
-      "summary": "📢 More time to have your say on how the EU's crypto-asset rules are working in practice!The deadline for our consultation on the efficiency of the current framework (MiCA) has been extended.Now open until 30 September 2026👉  link.europa.eu/G7MHjj— EU Finance 🇪🇺 (@EU_Finance) Jun 29, 2026",
-      "score": 45,
-      "score_breakdown": "+20 mots forts: mica, crypto | +10 Géo EU: mica | ×1.5 (<24h)",
-      "doc_type": "CONSULTATION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur MiCA, le cadre réglementaire de l'UE pour les cryptoactifs."
-    },
-    {
-      "hash": "51f0f8f915a7d369",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🛣️ New roadmap: delivering stronger depositor protection across the EU The EBA has published its roadmap for implementing the revis...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7477363496331059200",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-06-29T14:13:00",
-      "summary": "🛣️ New roadmap: delivering stronger depositor protection across the EU\n\nThe EBA has published its roadmap for implementing the revised Deposit Guarantee Schemes Directive (DGSD3) — a key step toward a more resilient and trustworthy banking system.\n\n✅ What this means:\n• Clearer information for depositors about their rights\n• Faster payouts in the event of bank failures — both domestic and cross-border\n• Stronger cooperation between national schemes and authorities\n• Enhanced stress testing to ens",
-      "score": 45,
-      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: directive, bank | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la mise en œuvre de la directive DGSD3 sur la protection des dépositaires bancaires."
-    },
-    {
       "hash": "a9a8a753b08f27f7",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -4036,7 +3964,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne l'engagement de la procédure accélérée au Sénat pour l'examen de projets de loi, processus relevant de la procédure législative et non de la conformité financière stricto sensu."
     },
     {
       "hash": "f6f782c41aa3168b",
@@ -4054,7 +3982,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f2c1b0539074162f",
@@ -4090,7 +4018,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La conformité exige le respect des plafonds de location (120 jours/an). Le dépassement expose à des sanctions financières, relevant de la réglementation applicable aux meublés de tourisme."
+      "ai_summary": "Cet article concerne la conformité réglementaire des meublés touristiques et les sanctions encourues en cas de dépassement des limites légales de location."
     },
     {
       "hash": "db0e023fce8db9ed",
@@ -4255,6 +4183,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'enquêtes sur du blanchiment d'argent et des transferts de fonds suspects."
     },
     {
+      "hash": "e617adf49ba0a015",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Les États-Unis affirment que l'Iran a \"désespérément besoin de liquidités\" et annoncent de nouvelles sanctions contre des entités iraniennes liées aux Gardiens de la Révolution",
+      "url": "https://www.bfmtv.com/economie/les-etats-unis-affirment-que-l-iran-a-desesperement-besoin-de-liquidites-et-annoncent-de-nouvelles-sanctions-contre-des-entites-iraniennes-liees-aux-gardiens-de-la-revolution_AD-202607290465.html",
+      "author": "",
+      "published": "2026-07-29T17:22:39",
+      "summary": "Les États-Unis ont annoncé des sanctions contre des entités iraniennes accusées d'imposer des \"assurances\" aux navires transitant par le détroit d'Ormuz.",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: états-unis | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "65b5af020cd8cfbe",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -4270,7 +4216,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les sanctions contre la Russie imposent des obligations de conformité aux régulations commerciales et financières."
+      "ai_summary": "Cet article concerne la conformité financière car les sanctions contre la Russie imposent des obligations de conformité aux réglementations commerciales et financières internationales."
     },
     {
       "hash": "ce82b1b85c664dd4",
@@ -4451,24 +4397,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de violations de contrôles à l'exportation et de fraude impliquant des entreprises."
-    },
-    {
-      "hash": "c25be9f944c2ab0b",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "HMRC fines former Petrofac subsidiary over Russia sanctions breaches",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/hmrc-fines-former-petrofac-subsidiary-over-russia-sanctions-breaches",
-      "author": "Grace Propheta",
-      "published": "2026-06-29T14:24:19",
-      "summary": "Petrofac Management Solutions is the first entity to be named in a compound settlement announcement. The UK customs agency said it may include identification as a condition when offering such settlements to companies in the future, marking a shift in approach.&nbsp;",
-      "score": 39,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: ofac | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions contre la Russie et des amendes imposées par les autorités britanniques."
     },
     {
       "hash": "3a8107d30593bbea",
@@ -4741,42 +4669,6 @@
       "ai_summary": "Le renforcement du Fonds de garantie des dépôts de l'UE relève de la conformité réglementaire bancaire et de la protection des déposants."
     },
     {
-      "hash": "3141e81c2dc768ac",
-      "source_name": "FATF/GAFI (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🆕FATF publication highlights how social media, instant messaging applications and streaming platforms are being abused to finance terrorist activity. ⚠️ Explore the latest risks and find recommendations to detect and disrupt these activities:  #CTWeek",
-      "url": "https://x.com/FATFNews/status/2071640663221748006",
-      "author": "@FATFNews",
-      "published": "2026-06-29T17:03:00",
-      "summary": "🆕FATF publication highlights how social media, instant messaging applications and streaming platforms are being abused to finance terrorist activity. ⚠️ Explore the latest risks and find recommendations to detect and disrupt these activities:  fatf-gafi.org/en/publication…  #CTWeek— FATF (@FATFNews) Jun 29, 2026",
-      "score": 37,
-      "score_breakdown": "+20 mots forts: fatf, gafi | +5 mots moyens: risk | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre le financement du terrorisme via les réseaux sociaux, une obligation majeure de conformité financière."
-    },
-    {
-      "hash": "156a3d30b04a6b29",
-      "source_name": "EBA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📢New roadmap: stronger depositor protection in the EU The EBA sets out how it will implement #DGSD3, delivering 12 regulatory products by 2028 to improve depositor rights, speed up payouts, and strengthen crisis readiness. 🔗",
-      "url": "https://x.com/EBA_News/status/2071598258154012988",
-      "author": "@EBA_News",
-      "published": "2026-06-29T14:14:00",
-      "summary": "📢New roadmap: stronger depositor protection in the EUThe EBA sets out how it will implement  #DGSD3, delivering 12 regulatory products by 2028 to improve depositor rights, speed up payouts, and strengthen crisis readiness.🔗  link.europa.eu/DvXPx8— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Jun 29, 2026",
-      "score": 37,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La directive DGSD3 renforce la protection des déposants en accélérant les remboursements et améliore la conformité réglementaire bancaire européenne."
-    },
-    {
       "hash": "a4229d494b5a263d",
       "source_name": "JORF - Lois",
       "source_type": "rss",
@@ -4792,7 +4684,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9d2f252239de715b",
@@ -4811,6 +4703,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet arrêt traite du blanchiment de capitaux, infraction relevant de la conformité financière et de la lutte contre le financement illicite."
+    },
+    {
+      "hash": "d063715a22095149",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "L’Arcom sanctionne CNews à hauteur de 200 000 euros pour des propos de nature à « inciter à la haine »",
+      "url": "https://www.lemonde.fr/economie/article/2026/07/29/l-arcom-sanctionne-cnews-a-hauteur-de-200-000-euros-pour-des-propos-de-nature-a-inciter-a-la-haine_6736402_3234.html",
+      "author": "",
+      "published": "2026-07-29T16:43:59",
+      "summary": "Dans des séquences qui remontent à juin et à septembre 2025, sont pointées notamment des affirmations d’Erik Tegnér, fondateur du média identitaire « Frontières » et chroniqueur principal de l’émission « 100 % Frontières » sur la chaîne.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "46cdebe8fada8167",
@@ -5227,24 +5137,6 @@
       "ai_summary": "Les nouvelles réglementations financières excluent les plateformes crypto non agréées du marché européen pour assurer la conformité."
     },
     {
-      "hash": "938d104217096119",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Des preuves numériques, une voiture de luxe et environ 60.000 euros en espèces ont été saisis: le parquet européen mène une vague de perquisitions en région parisienne pour des soupçons de fraude à la TVA",
-      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/des-preuves-numeriques-une-voiture-de-luxe-et-environ-60-000-euros-en-especes-ont-ete-saisis-le-parquet-europeen-mene-une-vague-de-perquisitions-en-region-parisienne-pour-des-soupcons-de-fraude-a-la-tva_AD-202606290886.html",
-      "author": "",
-      "published": "2026-06-29T18:46:45",
-      "summary": "Six personnes ont été interrogées car soupçonnées d'avoir utilisé des sociétés écrans qui leur auraient permis d'éviter de payer 13 millions d'euros. ",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: fraude, fraud | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la fraude à la TVA, un enjeu majeur de conformité financière et de lutte contre la fraude fiscale."
-    },
-    {
       "hash": "d5f311e0e59bf97f",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -5278,7 +5170,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'approbation d'une fusion soumise à des conditions de conformité réglementaire de l'UE."
     },
     {
       "hash": "a9c020110946ea17",
@@ -5314,7 +5206,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article explique comment effectuer correctement une autodénonciation réglementaire pour bénéficier de crédits de conformité auprès des autorités fédérales."
     },
     {
       "hash": "79f015f2ea6ae367",
@@ -5494,7 +5386,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c87b19fd0ae7a535",
@@ -5530,7 +5422,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Ce jugement concerne la conformité financière car il traite d'un contentieux opposant une assurée sociale à la CPAM, impliquant potentiellement une vérification de régularité administrative et financière des droits sociaux."
     },
     {
       "hash": "ee4a7b17f203a97a",
@@ -5749,24 +5641,6 @@
       "ai_summary": "LeapXpert lève 180M$ pour améliorer sa plateforme de conformité des conversations dans les services financiers."
     },
     {
-      "hash": "0c18a0d4432dfb4b",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de TOULOUSE, 4ème chambre, 24 juillet 2026, 24TL01412",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDETOULOUSE-20260724-24TL01412",
-      "author": "4ème chambre",
-      "published": "2026-07-24T12:00:00",
-      "summary": "68-04-045 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. ... Vu la procédure suivante :           Procédure contentieuse antérieure :           M. B... A... a demandé au tribunal administratif de Montpellier d'annuler l'arrêté n° DP 034095 22 M0084 du 4 août 2022 par lequel le maire de Fabrègues s'est opposé à la déclaration préalable qu'il a déposée pour la surélévation d'un toit de 20 centimètres et l'extension d'une",
-      "score": 25,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "3187dc0002653a16",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
@@ -5800,7 +5674,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6eb8dbd464bbcb29",
@@ -5872,7 +5746,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'un procès FCPA impliquant des accusations de corruption internationale."
     },
     {
       "hash": "001c3811c13a8cf8",
@@ -5926,7 +5800,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bbc7c721fb16e6ea",
@@ -5962,7 +5836,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "23a158300e320beb",
@@ -6142,7 +6016,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "40996009536ec903",
@@ -6304,7 +6178,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "27d9ed4cf2a107d0",
@@ -6466,7 +6340,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "070f72874744ac2b",
@@ -6503,6 +6377,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car FinCEN prolonge la période de consultation pour une règle modifiant la définition de Huione Group."
+    },
+    {
+      "hash": "f5a89a526deb1ce2",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Australia still investigating Rio Tinto for alleged bribery in Guinea",
+      "url": "https://globalinvestigationsreview.com/article/australia-still-investigating-rio-tinto-alleged-bribery-in-guinea",
+      "author": "Ana de Liz",
+      "published": "2026-07-29T08:24:42",
+      "summary": "Mining company Rio Tinto has confirmed an Australian investigation into alleged foreign bribery in the Republic of Guinea, triggered in 2017, remains active.&nbsp;",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: australia | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "4a09821e3e357b54",
@@ -6952,7 +6844,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et manipulation de cours, violations majeures des règles de conformité et d'intégrité financière."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et manipulation de cours, violations graves des obligations de compliance réglementaire."
     },
     {
       "hash": "cbf855b72b362493",
@@ -7006,10 +6898,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-07-29T14:38:26.802537+00:00",
+  "last_update": "2026-07-29T18:58:17.097293+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
