@@ -778,7 +778,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il définit les conditions d'approbation du programme d'activité des prestataires de services d'investissement par l'AMF."
+      "ai_summary": "Cet article concerne la conformité financière car il détaille les conditions d'approbation du programme d'activité par l'AMF pour les prestataires de services d'investissement."
     },
     {
       "hash": "026f3cda077df42a",
@@ -1372,7 +1372,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne l'amélioration du modèle de données bancaires, pertinent pour la conformité réglementaire et la transmission de données financières."
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA définit des normes de données pour améliorer la qualité des rapports réglementaires des établissements financiers."
     },
     {
       "hash": "9ab828447cd07978",
@@ -1390,7 +1390,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie de collecte de données pour l'évaluation des risques de blanchiment de capitaux par l'autorité de supervision bancaire européenne."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie pour la collecte de données relative à l'évaluation des risques de blanchiment de capitaux par l'AMLA."
     },
     {
       "hash": "03afce96c1484d89",
@@ -1408,7 +1408,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La gouvernance de l'IA en services financiers impose une supervision réglementaire renforcée pour gérer les risques ICT et cyber."
     },
     {
       "hash": "ae96ffcbab92b6fc",
@@ -1426,7 +1426,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car les autorités de supervision financière européennes établissent des règles de gouvernance de l'IA."
     },
     {
       "hash": "404f60bf11b825f9",
@@ -1715,6 +1715,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la gouvernance des données pour les programmes AML, essentielle à la conformité financière et aux obligations réglementaires."
+    },
+    {
+      "hash": "db6c2cc268edc105",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 30 juillet 2026 modifiant l'arrêté du 30 décembre 2023 modifié fixant la liste des postes du corps de conception et de direction de la police nationale éligibles à une indemnité compensatrice de logement",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054594271",
+      "author": "Ministère de l'intérieur",
+      "published": "2026-08-01T00:00:00",
+      "summary": "Article 1L'arrêté du 30 décembre 2023 susvisé est modifié ainsi qu'il suit :1° Les articles 2 et 3 sont supprimés ;2° Les annexes 1 et 2 sont supprimées.Article 2L'annexe du présent arrêté est annexée à l'arrêté du 30 décembre 2023 susvisé.Article 3Le présent arrêté entre en vigueur le 1er juillet 2026.Article 4Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXEDirectionsPostesVillesNombres \n      \n    de postesServices centrauxDGPNDGPNDirecteur de c",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "806648fea0764756",
+      "source_name": "JORF - Lois",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "LOI n° 2026-668 du 27 juillet 2026 visant à doter la France d'une stratégie nationale de lutte contre les maladies cardio-neuro-vasculaires (rectificatif)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054594137",
+      "author": "",
+      "published": "2026-08-01T00:00:00",
+      "summary": "Article Rectificatif au Journal officiel du 28 juillet 2026, texte n° 2 :- au 3° et 4° de l'article 2 au lieu de : « sont remplacés par les mots : “n° du visant à doter la France d'une stratégie nationale de lutte contre les maladies cardio-neuro-vasculaires” », lire : « sont remplacés par les mots : “n° 2026-668 du 27 juillet 2026 visant à doter la France d'une stratégie nationale de lutte contre les maladies cardio-neuro-vasculaires” » ;- à la fin des travaux préparatoires ajouter :« Assemblée",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: france, journal officiel | ×1.5 (<24h)",
+      "doc_type": "LOI",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "0fc78a075165305b",
@@ -2344,7 +2380,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'amélioration des normes de reporting superviseur et statistique pour les institutions financières de l'UE."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'amélioration du reporting supervisé et statistique des établissements financiers en EU."
     },
     {
       "hash": "5943f1c56541c64f",
@@ -2617,6 +2653,24 @@
       "ai_summary": "Les stablecoins soulèvent des enjeux de conformité financière en tant que pont entre DeFi et finance traditionnelle."
     },
     {
+      "hash": "961f918eb0d4a528",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 22 juillet 2026 relatif à l'agrément d'organisme de formation d'instructeur de pilote d'aéronefs ultralégers motorisés (ULM)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054595137",
+      "author": "Ministère des transports",
+      "published": "2026-08-01T00:00:00",
+      "summary": "Article 1Le présent arrêté fixe les conditions d'agrément des organismes de formation d'instructeur de pilote d'aéronefs ultralégers motorisés.L'agrément d'organisme de formation d'instructeur de pilote d'aéronefs ultralégers motorisés, ci-après désigné « l'agrément », délivré par le ministre chargé de l'aviation civile, autorise l'organisme de formation d'instructeur de pilote d'aéronefs ultralégers motorisés, ci-après désigné « organisme de formation IULM », à dispenser, sur les bases mentionn",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: agrément | +25 Source FR | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "d88d7e864392476d",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -2812,7 +2866,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne le partage harmonisé d'informations entre partenaires pour améliorer l'efficacité des contrôles de conformité financière et lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du partage harmonisé d'informations de signalement pour améliorer les contrôles anti-blanchiment."
     },
     {
       "hash": "45349ec0a7f24287",
@@ -2938,7 +2992,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il présente un leader en science des données chez ComplyAdvantage, spécialisée en IA pour la lutte contre la criminalité financière."
+      "ai_summary": "Cet article concerne la conformité financière car il présente une directrice de data science développant des solutions IA pour la détection de fraude financière et la conformité aux normes anti-blanchiment."
     },
     {
       "hash": "7a173846ca95f1ee",
@@ -3280,7 +3334,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1efca07dfa4b68d0",
@@ -3317,6 +3371,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de violation de sanctions et de coopération avec la justice."
+    },
+    {
+      "hash": "dc45fae40b677301",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Résolutions",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054595573",
+      "author": "",
+      "published": "2026-08-01T00:00:00",
+      "summary": "Article SénatRésolutions adoptées en application de l'article 88-4 de la ConstitutionEst devenue résolution du Sénat le 31 juillet 2026, conformément à l'article 73 quinquies C du Règlement du Sénat, la proposition de résolution européenne de la commission des affaires économiques dont la teneur suit :Résolution européenne visant à préserver une politique agricole commune indépendante et dotée de moyens à la hauteur de ses ambitions après 2027Le Sénat,Vu l'article 88-4 de la Constitution,Vu le t",
+      "score": 45,
+      "score_breakdown": "+5 mots moyens: règlement | +25 Source FR | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "05e0ffd93595124c",
@@ -3388,7 +3460,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d090c59636185c87",
@@ -3478,7 +3550,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article couvre plusieurs obligations de conformité financière : fin de la période transitoire MiCA, reporting transactionnel, règlement T+1, incidents ICT sous DORA."
+      "ai_summary": "Cet article couvre plusieurs domaines clés de la conformité financière : fin transition MiCA, reporting transactionnel, settlement T+1, incidents ICT sous DORA."
     },
     {
       "hash": "0c6ce5b3e90ecbb0",
@@ -3694,7 +3766,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de fraudes sur les appellations protégées, violation des normes réglementaires et protection des consommateurs."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de fraudes sur les appellations protégées, violations de réglementations commerciales et tromperies consommateurs."
     },
     {
       "hash": "1a0d957d99a719e4",
@@ -3910,7 +3982,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "cae57119789581e5",
@@ -3946,7 +4018,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les sanctions américaines contre des entités iraniennes concernent la conformité financière par leur impact sur les obligations de gel d'actifs et de sanctions financières internationales."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de sanctions internationales contre des entités iraniennes, imposant des obligations de conformité aux institutions financières."
     },
     {
       "hash": "65b5af020cd8cfbe",
@@ -4342,7 +4414,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e7302846b5d51871",
@@ -4360,7 +4432,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d063715a22095149",
@@ -4756,7 +4828,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "bccbec48b60b50dc",
@@ -4864,7 +4936,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "523fcb1765c51fa6",
@@ -4972,7 +5044,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c87b19fd0ae7a535",
@@ -5227,6 +5299,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une décision d'autorisation d'exploitation commerciale soumise à contrôle administratif."
     },
     {
+      "hash": "156cdd4eb9dccf95",
+      "source_name": "Cass. - Fraude",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Tribunal judiciaire de Nantes, 4ème chambre, 21 juillet 2026, 23/05005",
+      "url": "http://juricaf.org/arret/FRANCE-TRIBUNALJUDICIAIREDENANTES-20260721-2305005",
+      "author": "4ème chambre",
+      "published": "2026-07-21T12:00:00",
+      "summary": "SG     LE 21 JUILLET 2026  Minute n°   N° RG 23/05005 - N° Portalis DBYS-W-B7H-MQ7G      T E  C/  S.A. BNP PARIBAS       Autres actions en responsabilité exercées contre un établissement de crédit      1 copie exécutoire et certifiée conforme à : la SCP ACTA JURIS SCP D’AVOCATS - 10 la SCP KRAMERR LEVIN NAFTALIS   FRANKEL LLP Me Gaëlle VIZIOZ - 353     délivrées le TRIBUNAL JUDICIAIRE DE Localité 1 - QUATRIEME CHAMBRE   JUGEMENT  du VINGT ET UN JUILLET DEUX MIL VINGT SIX    Composition du Tribun",
+      "score": 24,
+      "score_breakdown": "+10 mots forts: établissement de crédit | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "6eb8dbd464bbcb29",
       "source_name": "ECB - Press Releases",
       "source_type": "rss",
@@ -5332,7 +5422,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision bancaire en Bulgarie, des risques géopolitiques et des menaces cybernétiques pour le secteur bancaire."
+      "ai_summary": "Cet article concerne la supervision bancaire et la conformité du secteur financier bulgare suite à son intégration à la zone euro."
     },
     {
       "hash": "1039375ff68213f8",
@@ -5350,25 +5440,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "bbc7c721fb16e6ea",
-      "source_name": "Corporate Compliance Insights",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Most DIB Firms Fear AI-Powered Cyber Attack",
-      "url": "https://www.corporatecomplianceinsights.com/news-roundup-july-1-2026/",
-      "author": "Staff and Wire Reports",
-      "published": "2026-07-01T19:21:27",
-      "summary": "Plus: More than half of enterprises would sacrifice data security for efficiency\nThe post Most DIB Firms Fear AI-Powered Cyber Attack appeared first on Corporate Compliance Insights.",
-      "score": 21,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite des risques de cybersécurité liés à l'IA, un enjeu majeur de conformité pour les entreprises du secteur de la défense."
+      "ai_summary": null
     },
     {
       "hash": "813a3243b1af0f65",
@@ -5494,7 +5566,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "40996009536ec903",
@@ -5531,24 +5603,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une accusation de corruption internationale en violation de la loi anti-corruption FCPA."
-    },
-    {
-      "hash": "6708b2d8a498228c",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "DOJ undecided on contesting Pemex bribery acquittal",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/doj-undecided-contesting-pemex-bribery-acquittal",
-      "author": "Estelle Atkinson",
-      "published": "2026-07-01T20:22:44",
-      "summary": "The Office of the Solicitor General is still considering whether to appeal against a judge’s exoneration of a Houston businessman accused of bribing Mexico’s state oil company.",
-      "score": 16,
-      "score_breakdown": "+5 mots moyens: ppe | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de corruption impliquant des pots-de-vin versés à une entreprise d'État."
     },
     {
       "hash": "331b6c37ec657dc3",
@@ -5656,7 +5710,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "27d9ed4cf2a107d0",
@@ -5800,7 +5854,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "070f72874744ac2b",
@@ -6286,7 +6340,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et de manipulation de cours, violations majeures des normes de conformité."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et de manipulation de cours, violations majeures des règles de conformité et d'intégrité financière."
     },
     {
       "hash": "cbf855b72b362493",
@@ -6322,10 +6376,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-07-31T19:59:45.013291+00:00",
+  "last_update": "2026-08-01T01:53:46.073089+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
