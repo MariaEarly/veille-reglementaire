@@ -868,7 +868,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il modifie la définition des marchés réglementés en droit français, impactant les obligations de conformité des acteurs financiers."
+      "ai_summary": "Cet article concerne la conformité financière car il modifie le cadre réglementaire des investissements étrangers et précise la définition des marchés réglementés."
     },
     {
       "hash": "409b50a37eb24db7",
@@ -1321,6 +1321,24 @@
       "ai_summary": "Cet arrêté applique les obligations de lutte contre le blanchiment de capitaux et le financement du terrorisme issues du code monétaire et financier."
     },
     {
+      "hash": "60a9d46aff080fa0",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 3 August, 2026",
+      "url": "https://www.eba.europa.eu/node/19912",
+      "author": "Anonymous",
+      "published": "2026-08-03T15:00:02",
+      "summary": "EBA E-mail alert 3 August, 2026\n\n  \n    Date\n          03/08/2026\n\n      \n\nAnonymous (not verified)\n\nMon, 08/03/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          EBA, EIOPA and ESMA propose amendments to bilateral margin requirements\n          ​The EBA publishes a no-action letter and technical considerations to support the implementation of the market risk framework for EU banks \n      ",
+      "score": 82,
+      "score_breakdown": "+20 mots forts: eba, esma | +10 mots moyens: risk, bank | +15 Source EU | +10 Géo EU: eba, esma | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
       "hash": "9ab828447cd07978",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -1336,7 +1354,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la collecte de données pour l'évaluation des risques de blanchiment d'argent par l'autorité compétente."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie pour la collecte de données destinée à l'évaluation des risques de blanchiment de capitaux par l'autorité compétente."
     },
     {
       "hash": "03afce96c1484d89",
@@ -1627,6 +1645,24 @@
       "ai_summary": "La banque a violé les règles de transparence et de conformité en trompant les clients sur la nature des crédits proposés, justifiant l'amende."
     },
     {
+      "hash": "31cf30ad4cf81d56",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "UBS fined $125m for recidivist AML breaches",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/ubs-fined-125m-recidivist-aml-breaches",
+      "author": "Malavika Devaya",
+      "published": "2026-08-03T15:23:57",
+      "summary": "The Swiss lender’s US unit received FinCEN’s largest ever penalty for Bank Secrecy Act violations over “willful” breaches since 2019, including failing to flag a high-risk client later indicted for breaching sanctions against Russia.",
+      "score": 69,
+      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: aml | +10 mots moyens: risk, bank | +3 Presse | +3 Géo Intl: fincen, bank secrecy act | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "ab017747e3e31e3d",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -1804,7 +1840,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité réglementaire des banques européennes quant au calcul des exigences de fonds propres."
     },
     {
       "hash": "05d2f8243ca21f13",
@@ -2110,7 +2146,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'EBA consulte sur l'amélioration de son modèle de données pour mieux supporter les rapports de conformité financière et réglementaire des établissements bancaires."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "93ca1714ea55bee2",
@@ -2218,7 +2254,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne l'amélioration des normes de reporting statistique et supervisory imposées par les autorités financières européennes aux institutions."
+      "ai_summary": "L'article concerne l'amélioration des normes de reporting supervisoire et statistique pour la conformité réglementaire bancaire et d'assurance."
     },
     {
       "hash": "5943f1c56541c64f",
@@ -2419,24 +2455,6 @@
       "ai_summary": "Un banquier autrichien a plaidé coupable pour corruption de fonctionnaires antiguais afin de dissimuler du blanchiment d'argent par Odebrecht."
     },
     {
-      "hash": "db6c2cc268edc105",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 30 juillet 2026 modifiant l'arrêté du 30 décembre 2023 modifié fixant la liste des postes du corps de conception et de direction de la police nationale éligibles à une indemnité compensatrice de logement",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054594271",
-      "author": "Ministère de l'intérieur",
-      "published": "2026-08-01T00:00:00",
-      "summary": "Article 1L'arrêté du 30 décembre 2023 susvisé est modifié ainsi qu'il suit :1° Les articles 2 et 3 sont supprimés ;2° Les annexes 1 et 2 sont supprimées.Article 2L'annexe du présent arrêté est annexée à l'arrêté du 30 décembre 2023 susvisé.Article 3Le présent arrêté entre en vigueur le 1er juillet 2026.Article 4Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXEDirectionsPostesVillesNombres \n      \n    de postesServices centrauxDGPNDGPNDirecteur de c",
-      "score": 54,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "806648fea0764756",
       "source_name": "JORF - Lois",
       "source_type": "rss",
@@ -2449,6 +2467,24 @@
       "score": 54,
       "score_breakdown": "+25 Source FR | +20 Géo FR: france, journal officiel | ×1.2 (<3d)",
       "doc_type": "LOI",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "db6c2cc268edc105",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 30 juillet 2026 modifiant l'arrêté du 30 décembre 2023 modifié fixant la liste des postes du corps de conception et de direction de la police nationale éligibles à une indemnité compensatrice de logement",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054594271",
+      "author": "Ministère de l'intérieur",
+      "published": "2026-08-01T00:00:00",
+      "summary": "Article 1L'arrêté du 30 décembre 2023 susvisé est modifié ainsi qu'il suit :1° Les articles 2 et 3 sont supprimés ;2° Les annexes 1 et 2 sont supprimées.Article 2L'annexe du présent arrêté est annexée à l'arrêté du 30 décembre 2023 susvisé.Article 3Le présent arrêté entre en vigueur le 1er juillet 2026.Article 4Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXEDirectionsPostesVillesNombres \n      \n    de postesServices centrauxDGPNDGPNDirecteur de c",
+      "score": 54,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
+      "doc_type": "ARRÊTÉ",
       "action_class": "action",
       "status": "new",
       "early_brief": false,
@@ -2668,7 +2704,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des normes réglementaires sur les marges bilatérales."
     },
     {
       "hash": "29b2a07bbc3f3284",
@@ -3136,7 +3172,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les réformes de Singapour pour combattre la criminalité financière, la lutte anti-blanchiment et la conformité du secteur financier."
     },
     {
       "hash": "2d9ae66d887d77e3",
@@ -3460,7 +3496,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f2c1b0539074162f",
@@ -3496,7 +3532,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de fraudes sur les AOP/IGP, violations de règles commerciales et de protection des consommateurs."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de fraudes sur les labels AOP/IGP, violations réglementaires nécessitant des contrôles de conformité."
     },
     {
       "hash": "1a0d957d99a719e4",
@@ -3694,7 +3730,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "626dd7e935c95118",
@@ -3712,7 +3748,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les enquêtes internes au Japon concernent la conformité financière via la détection et prévention de fraude."
     },
     {
       "hash": "cae57119789581e5",
@@ -4000,7 +4036,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les exigences de conformité financière EMIR sur les marges bilatérales pour les dérivés OTC non compensés."
     },
     {
       "hash": "7d739fddc7296acc",
@@ -4126,7 +4162,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d063715a22095149",
@@ -4504,7 +4540,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bccbec48b60b50dc",
@@ -4594,7 +4630,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "523fcb1765c51fa6",
@@ -4702,7 +4738,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c87b19fd0ae7a535",
@@ -4738,7 +4774,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des risques de conflits d'intérêts pour les cadres dirigeants en Chine et de la responsabilité pénale accrue en matière de corruption."
     },
     {
       "hash": "e7302846b5d51871",
@@ -4972,25 +5008,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "6d3963a2ca60afe8",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, 5ème chambre, 31 juillet 2026, 502031",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260731-502031",
-      "author": "5ème chambre",
-      "published": "2026-07-31T12:00:00",
-      "summary": "Vu la procédure suivante :                   L'association Les amis de la montagne de Lure a demandé au tribunal administratif de Marseille d'annuler l'arrêté du 23 septembre 2019 par lequel le préfet des Alpes-de-Haute-Provence a prescrit l'ouverture d'une enquête publique portant sur une demande d'autorisation de défrichement de la SARL SolaireParcMP079 en vue de la création d'une centrale photovoltaïque sur le territoire de la commune d'Ongles, au lieu-dit \" La Seyne \", l'arrêté du 17 janvier",
-      "score": 24,
-      "score_breakdown": "+20 Géo FR: france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "156cdd4eb9dccf95",
@@ -5119,6 +5137,24 @@
       "ai_summary": "Cet article concerne la supervision bancaire et la conformité du secteur financier bulgare suite à son intégration à la zone euro."
     },
     {
+      "hash": "6d3963a2ca60afe8",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, 5ème chambre, 31 juillet 2026, 502031",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260731-502031",
+      "author": "5ème chambre",
+      "published": "2026-07-31T12:00:00",
+      "summary": "Vu la procédure suivante :                   L'association Les amis de la montagne de Lure a demandé au tribunal administratif de Marseille d'annuler l'arrêté du 23 septembre 2019 par lequel le préfet des Alpes-de-Haute-Provence a prescrit l'ouverture d'une enquête publique portant sur une demande d'autorisation de défrichement de la SARL SolaireParcMP079 en vue de la création d'une centrale photovoltaïque sur le territoire de la commune d'Ongles, au lieu-dit \" La Seyne \", l'arrêté du 17 janvier",
+      "score": 20,
+      "score_breakdown": "+20 Géo FR: france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "813a3243b1af0f65",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
@@ -5224,7 +5260,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "40996009536ec903",
@@ -5368,7 +5404,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8b3f1b7170fffb36",
@@ -5386,7 +5422,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "FinCEN impose une amende de 125 millions de dollars à UBS pour violations répétées de la loi antiblanchiment."
     },
     {
       "hash": "073f0b1a130f604f",
@@ -5458,7 +5494,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière en traitant de la régulation pénale des crimes financiers commis par les cadres en Chine."
     },
     {
       "hash": "0232c90f3fd00cb4",
@@ -5494,7 +5530,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e61f728995813ecf",
@@ -5711,6 +5747,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire FCPA (Foreign Corrupt Practices Act) contre Gautam Adani."
+    },
+    {
+      "hash": "4e66724e076da201",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Issuance of Amended Venezuela-related General License and Frequently Asked Question | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260803",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-08-03T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "00ae6b8b404a75fb",
@@ -5962,7 +6016,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite d'accusations de corruption et de manipulation de cours, relevant du respect des règles de compliance et de gouvernance d'entreprise."
+      "ai_summary": "Cet article concerne la conformité financière car il évoque des accusations de corruption et de manipulation de cours, violations graves des régulations financières."
     },
     {
       "hash": "cbf855b72b362493",
@@ -6016,10 +6070,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-08-03T15:22:47.584009+00:00",
+  "last_update": "2026-08-03T19:20:03.311947+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
