@@ -1321,6 +1321,24 @@
       "ai_summary": "L'AMF alerte contre des acteurs non autorisés proposant des investissements en biens divers, violation de conformité réglementaire."
     },
     {
+      "hash": "ad815b23b76faf34",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "AMLA launches survey on Central Contact Points",
+      "url": "https://www.amla.europa.eu/news-media/news-articles/amla-launches-survey-central-contact-points_en",
+      "author": "",
+      "published": "2026-08-06T07:29:05",
+      "summary": "Share your experience: AMLA is inviting Electronic Money Institutions (EMIs) and Payment Service Providers (PSPs) to provide feedback on their experience with the current Central Contact Point (CCP) framework pursuant to Article 45 (9) AMLD and Delegated Regulation (EU) 2018/1108.",
+      "score": 82,
+      "score_breakdown": "+20 mots forts: aml, amla | +10 mots moyens: regulation, payment | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "60a9d46aff080fa0",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -1354,7 +1372,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie de collecte de données pour l'évaluation des risques de blanchiment d'argent."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la taxonomie de collecte de données pour l'évaluation des risques de blanchiment d'argent par l'AMLA."
     },
     {
       "hash": "03afce96c1484d89",
@@ -2146,7 +2164,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la validation et du suivi des modèles de marge initiale, un élément clé de la gestion des risques de contrepartie et de la régulation bancaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la validation et du monitoring des modèles de marge initiale."
     },
     {
       "hash": "4fc922c47cd98505",
@@ -2237,6 +2255,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car l'EBA émet un avis sur l'implémentation d'IFRS 18 dans les rapports prudentiels bancaires."
+    },
+    {
+      "hash": "877de1792fdc4400",
+      "source_name": "Tracfin (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "#Replay ☀️ | Cet été, (ré)écoutez la saison 3 d’HABILITÉ.E.S, le podcast de Tracfin 🎙️ 🔍 Comment Tracfin traque les flux financiers...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7491025989561479168",
+      "author": "Tracfin",
+      "published": "2026-08-06T07:02:52",
+      "summary": "#Replay ☀️ | Cet été, (ré)écoutez la saison 3 d’HABILITÉ.E.S, le podcast de Tracfin 🎙️\n\n🔍 Comment Tracfin traque les flux financiers criminels liés aux crypto-actifs ?\nDans cet épisode, Julian, enquêteur spécialisé en crypto, explique comment il trace et analyse les flux financiers illicites en exploitant les informations issues de la blockchain.\n\nAu fil des épisodes, découvrez également :\n🗨️ Agathe et Marc, qui reviennent sur leur parcours d’alternants à Tracfin et partagent leur découverte d’u",
+      "score": 60,
+      "score_breakdown": "+20 mots forts: tracfin, crypto | +20 Géo FR: tracfin | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "f78479fb3b1aa35d",
@@ -2488,7 +2524,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA consulte sur un cadre de reporting pour la validation et le suivi du modèle de marge initiale ISDA."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la validation et du suivi du modèle de marge initiale standard ISDA par l'EBA."
     },
     {
       "hash": "920b125e758ec4f7",
@@ -3082,7 +3118,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "05e0ffd93595124c",
@@ -3622,7 +3658,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de sanctions commerciales et de listes noires affectant les entreprises, domaines clés de la conformité."
+      "ai_summary": "Cet article concerne la conformité financière car les sanctions commerciales et les listes noires imposent des obligations de conformité en matière de restrictions commerciales et de respect des régulations."
     },
     {
       "hash": "626dd7e935c95118",
@@ -4090,7 +4126,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les modifications procédurales du règlement interne d'une autorité de régulation, non directement la conformité financière."
     },
     {
       "hash": "8eb951f96b355fd6",
@@ -4126,7 +4162,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d063715a22095149",
@@ -4486,7 +4522,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a713fe4c37330d9f",
@@ -4612,7 +4648,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e0a8bac7c11e9226",
@@ -4720,7 +4756,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c405088b1feea9ed",
@@ -4738,7 +4774,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c87b19fd0ae7a535",
@@ -4972,7 +5008,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "75b99ff31902aea8",
@@ -4990,7 +5026,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "156cdd4eb9dccf95",
@@ -5134,7 +5170,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "813a3243b1af0f65",
@@ -5224,7 +5260,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "40996009536ec903",
@@ -5386,7 +5422,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8b3f1b7170fffb36",
@@ -5512,7 +5548,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e61f728995813ecf",
@@ -5548,7 +5584,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f5a89a526deb1ce2",
@@ -6016,7 +6052,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et de manipulation de cours, qui sont des violations de règles de conformité et d'éthique professionnelle."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et de manipulation de cours, violations majeures des règles de conformité."
     },
     {
       "hash": "cbf855b72b362493",
@@ -6070,10 +6106,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-08-06T03:47:34.989919+00:00",
+  "last_update": "2026-08-06T08:16:22.456356+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
