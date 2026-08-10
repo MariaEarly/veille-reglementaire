@@ -2092,7 +2092,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il soulève des risques de conseil en investissement non autorisé et de protection des consommateurs face à l'IA."
+      "ai_summary": "Cet article concerne la conformité financière car il révèle un risque : les clients utilisent l'IA pour des décisions d'investissement sans cadre réglementaire adéquat."
     },
     {
       "hash": "3ac14864ecb91896",
@@ -2399,24 +2399,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite des réformes de Singapour contre la criminalité financière, la lutte anti-blanchiment et la conformité du secteur financier."
-    },
-    {
-      "hash": "1e702c9081912d53",
-      "source_name": "JORF - Sanctions",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décret n° 2026-753 du 8 août 2026 portant application de l'article L. 232-9 du code de la sécurité intérieure et portant autorisation de traitements de données à caractère personnel relatifs à la collecte d'information dans les ports de plaisance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054646016",
-      "author": "Ministère de l'intérieur",
-      "published": "2026-08-09T00:00:00",
-      "summary": "Article 1Après le chapitre II du titre III du livre II de la partie règlementaire du code de la sécurité intérieure, il est inséré un chapitre II bis ainsi rédigé :« Chapitre II bis« Recueil des données relatives aux navires de plaisance« Art. R. 232-24. - I. - Pour l'application de l'article L. 232-9, l'autorité chargée de la collecte et de la vérification des données est l'autorité portuaire. Elle peut déléguer l'exercice de ces missions à l'autorité investie du pouvoir de police portuaire, lo",
-      "score": 45,
-      "score_breakdown": "+5 mots moyens: règlement | +25 Source FR | ×1.5 (<24h)",
-      "doc_type": "DÉCRET",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "db6c2cc268edc105",
@@ -3229,6 +3211,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de normes réglementaires de benchmarking des risques de marché imposées par l'EBA."
     },
     {
+      "hash": "1e702c9081912d53",
+      "source_name": "JORF - Sanctions",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décret n° 2026-753 du 8 août 2026 portant application de l'article L. 232-9 du code de la sécurité intérieure et portant autorisation de traitements de données à caractère personnel relatifs à la collecte d'information dans les ports de plaisance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054646016",
+      "author": "Ministère de l'intérieur",
+      "published": "2026-08-09T00:00:00",
+      "summary": "Article 1Après le chapitre II du titre III du livre II de la partie règlementaire du code de la sécurité intérieure, il est inséré un chapitre II bis ainsi rédigé :« Chapitre II bis« Recueil des données relatives aux navires de plaisance« Art. R. 232-24. - I. - Pour l'application de l'article L. 232-9, l'autorité chargée de la collecte et de la vérification des données est l'autorité portuaire. Elle peut déléguer l'exercice de ces missions à l'autorité investie du pouvoir de police portuaire, lo",
+      "score": 36,
+      "score_breakdown": "+5 mots moyens: règlement | +25 Source FR | ×1.2 (<3d)",
+      "doc_type": "DÉCRET",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "7179634e23b70d73",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -3478,7 +3478,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a713fe4c37330d9f",
@@ -3694,7 +3694,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ff5cc99505320c83",
@@ -3712,7 +3712,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "eeb19f28bb45b1e3",
@@ -3730,7 +3730,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "be25bfb45801fe3e",
@@ -3892,7 +3892,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "156cdd4eb9dccf95",
@@ -4018,7 +4018,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c405088b1feea9ed",
@@ -4036,7 +4036,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "773af93d718fc99b",
@@ -4054,7 +4054,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "813a3243b1af0f65",
@@ -4144,7 +4144,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "40996009536ec903",
@@ -4810,7 +4810,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et de manipulation de cours, violations majeures des règles de conformité réglementaire et éthique."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et manipulation de cours, violations majeures de la réglementation financière et du droit pénal des affaires."
     },
     {
       "hash": "4abd6cf2de2c6dbc",
@@ -4846,10 +4846,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     }
   ],
-  "last_update": "2026-08-10T08:11:41.712348+00:00",
+  "last_update": "2026-08-10T12:46:28.624058+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
