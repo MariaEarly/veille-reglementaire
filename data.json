@@ -2092,7 +2092,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne les risques de conformité liés à l'utilisation non encadrée de l'IA pour les conseils en investissement, soulevant des enjeux de protection des clients et de régulation financière."
+      "ai_summary": "Cet article concerne la conformité financière car il soulève des risques de conseil en investissement non autorisé et de protection des consommateurs face à l'IA."
     },
     {
       "hash": "3ac14864ecb91896",
@@ -2416,7 +2416,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne le traitement des données personnelles relatives aux navires de plaisance dans les ports, non la conformité financière stricto sensu."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "db6c2cc268edc105",
@@ -3478,7 +3478,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a713fe4c37330d9f",
@@ -3694,7 +3694,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ff5cc99505320c83",
@@ -3712,7 +3712,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "eeb19f28bb45b1e3",
@@ -3730,7 +3730,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "be25bfb45801fe3e",
@@ -3892,7 +3892,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "156cdd4eb9dccf95",
@@ -4018,7 +4018,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c405088b1feea9ed",
@@ -4036,7 +4036,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "773af93d718fc99b",
@@ -4054,7 +4054,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "813a3243b1af0f65",
@@ -4144,7 +4144,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "40996009536ec903",
@@ -4810,7 +4810,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et de manipulation de cours, violations majeures des réglementations financières et anticorruption."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et de manipulation de cours, violations majeures des règles de conformité réglementaire et éthique."
     },
     {
       "hash": "4abd6cf2de2c6dbc",
@@ -4829,9 +4829,27 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de fraude fiscale impliquant des lanceurs d'alerte."
+    },
+    {
+      "hash": "fc48700d0a1cdde1",
+      "source_name": "CJUE - Cour de Justice UE",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "112/2026 : 16 July 2026 - Judgments of the Court in Cases",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000085326",
+      "author": "",
+      "published": "2026-07-16T08:35:48",
+      "summary": "\nC-523/24 Sociedad Civil Catalana and C-666/24 Associació Catalana de Víctimes de Organitzacions Terroristes (ACVOT)\n\n\nEU law does not preclude the Spanish amnesty law for normalisation of the situation in Catalonia\n\n",
+      "score": 0,
+      "score_breakdown": "Aucun mot-clé | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     }
   ],
-  "last_update": "2026-08-10T02:39:29.579856+00:00",
+  "last_update": "2026-08-10T07:11:05.227043+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
