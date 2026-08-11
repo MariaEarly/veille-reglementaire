@@ -2092,7 +2092,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il révèle un risque de non-respect des obligations de conseil et de protection des investisseurs vis-à-vis des autorités réglementaires."
+      "ai_summary": "Cet article concerne la conformité financière car il révèle des risques de non-respect des règles de conseil en investissement et de protection des consommateurs financiers."
     },
     {
       "hash": "3ac14864ecb91896",
@@ -2689,6 +2689,24 @@
       "ai_summary": "Cet article concerne la conformité aux nouvelles normes de risque de marché FRTB et leur mise en œuvre par les institutions financières."
     },
     {
+      "hash": "a251806690f288cb",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "United Kingdom: legal investigations and enforcement actions in today’s rapidly evolving landscape",
+      "url": "https://globalinvestigationsreview.com/review/the-european-middle-eastern-and-african-investigations-review/2026/article/united-kingdom-legal-investigations-and-enforcement-actions-in-todays-rapidly-evolving-landscape",
+      "author": "Kathleen Harris,Sean Curran,Maya Paunrana,Melissa Dames,Joy Wee",
+      "published": "2026-08-10T07:00:00",
+      "summary": "The UK enforcement landscape is increasingly complex, with expanded corporate offences, stricter sanctions and evolving regulatory approaches. Key focuses include the new “failure to prevent fraud” offence, senior manager liability, sanctions enforcement and crypto assets. Agencies such as the SFO, FCA and OFSI emphasise cooperation, self-reporting and remediation, while procedural protections and...",
+      "score": 43,
+      "score_breakdown": "+20 mots critiques: sanction, fraud | +10 mots forts: crypto | +3 Presse | +3 Géo Intl: united kingdom, fca, sfo | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "f2c1b0539074162f",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -2931,14 +2949,14 @@
       "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/judge-axes-bulk-of-adani-case-blasts-doj-official-lack-of-respect",
       "author": "Malavika Devaya",
       "published": "2026-08-10T19:18:29",
-      "summary": "In a biting order, District Judge Nicholas Garaufis agreed to nix fraud charges against the Indian billionaire and two others but called out a senior DOJ for a “highly unusual” review process and asked for further justification to decide whether remaining FCPA and obstruction charges should be dismissed.",
+      "summary": "In a biting order, District Judge Nicholas Garaufis agreed to nix fraud charges against the Indian billionaire and two others but called out a senior DOJ official for a “highly unusual” review process and asked for further justification to decide whether remaining FCPA and obstruction charges should be dismissed.",
       "score": 39,
       "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: doj, fcpa | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e17ba79de2d49d61",
@@ -3298,7 +3316,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7179634e23b70d73",
@@ -3335,6 +3353,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de normes de signalement des renseignements financiers aux autorités."
+    },
+    {
+      "hash": "0dfec8888fcd22a4",
+      "source_name": "ComplyAdvantage",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Audit-ready compliance: How to evidence your financial crime controls",
+      "url": "https://complyadvantage.com/insights/audit-ready-compliance/",
+      "author": "Brandon Matchett",
+      "published": "2026-08-11T12:14:58",
+      "summary": "A recap of the latest session in our Compliance Edge webinar series, hosted by Iain Armstrong, Executive Director of Financial Crime Compliance (FCC) Strategy at ComplyAdvantage. This session started with a poll.  Around 28% of attendees had never been through [&#8230;]\nThe post Audit-ready compliance: How to evidence your financial crime controls appeared first on ComplyAdvantage.",
+      "score": 34,
+      "score_breakdown": "+10 mots forts: compliance | +10 mots moyens: audit, ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "3a763f392470bfeb",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Managing Tariff Risk Through the Rest of 2026",
+      "url": "https://www.corporatecomplianceinsights.com/managing-tariff-risk-through-rest-2026/",
+      "author": "Charles Clevenger",
+      "published": "2026-08-11T11:00:46",
+      "summary": "The environment is likely to change even more with exclusions, negotiations, enforcement guidance, litigation and country-specific actions\nThe post Managing Tariff Risk Through the Rest of 2026 appeared first on Corporate Compliance Insights.",
+      "score": 34,
+      "score_breakdown": "+10 mots forts: compliance | +10 mots moyens: risk, ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "d063715a22095149",
@@ -3550,7 +3604,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a713fe4c37330d9f",
@@ -3569,6 +3623,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'approbation conditionnelle d'une fusion majeure sous surveillance réglementaire."
+    },
+    {
+      "hash": "cc86e9e77283255c",
+      "source_name": "ComplyAdvantage",
+      "source_type": "press",
+      "category": "presse",
+      "title": "The FCA’s final cryptoasset rules: Preparing for the authorization gateway",
+      "url": "https://complyadvantage.com/insights/fca-cryptoasset-rules/",
+      "author": "Brandon Matchett",
+      "published": "2026-08-11T11:52:19",
+      "summary": "On June 30, 2026, the Financial Conduct Authority (FCA) published its final rules and guidance for cryptoasset firms, completing its crypto roadmap and confirming the framework that will govern trading platforms, intermediaries, custodians, stablecoin issuers, and firms arranging staking in [&#8230;]\nThe post The FCA&#8217;s final cryptoasset rules: Preparing for the authorization gateway appeared first on ComplyAdvantage.",
+      "score": 31,
+      "score_breakdown": "+10 mots forts: crypto | +5 mots moyens: ppe | +3 Presse | +3 Géo Intl: fca | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "88f8367d40816322",
@@ -3910,7 +3982,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "156cdd4eb9dccf95",
@@ -4036,7 +4108,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c405088b1feea9ed",
@@ -4054,7 +4126,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "773af93d718fc99b",
@@ -4072,7 +4144,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "813a3243b1af0f65",
@@ -4162,7 +4234,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "40996009536ec903",
@@ -4828,7 +4900,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et de manipulation de cours, infractions majeures relevant du droit pénal financier."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et manipulation de cours, qui sont des violations graves des réglementations financières et de lutte contre la fraude."
     },
     {
       "hash": "4abd6cf2de2c6dbc",
@@ -4864,10 +4936,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-08-11T07:43:47.412644+00:00",
+  "last_update": "2026-08-11T12:42:09.917107+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
