@@ -598,7 +598,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté modifie les seuils de conformité réglementaire pour les intermédiaires en opérations bancaires et services de paiement selon le code monétaire et financier."
+      "ai_summary": "Cet arrêté modifie les seuils de conformité applicables aux intermédiaires en opérations de banque et services de paiement selon le code monétaire et financier."
     },
     {
       "hash": "a421603e05d9dde8",
@@ -1285,22 +1285,22 @@
       "ai_summary": "Tracfin participe à une réunion internationale de cellules de renseignement financier pour renforcer la coopération en matière de conformité."
     },
     {
-      "hash": "471d36adb316cb94",
+      "hash": "62e79a768620ab42",
       "source_name": "BFM Business Économie",
       "source_type": "press",
       "category": "presse",
-      "title": "Elle trompait ses clients en leur proposant des crédits d'apparence affectés, mais qui ne l'étaient pas vraiment: la Banque populaire Val de France écope d'une amende de 300.000 euros",
-      "url": "https://www.bfmtv.com/economie/entreprises/assurance-banque/elle-trompait-ses-clients-en-leur-proposant-des-credits-d-apparence-affectes-mais-qui-ne-l-etaient-pas-vraiment-la-banque-populaire-val-de-france-ecope-d-une-amende-de-300-000-euros_AD-202607130667.html",
+      "title": "Les professionnels risquent une amende de 200.000 euros: la Répression des Fraudes a constaté que certaines lunettes de protection vendues pour observer l'éclipse solaire étaient non conformes",
+      "url": "https://www.bfmtv.com/economie/consommation/les-vendeurs-risquent-une-amende-de-200-000-euros-la-repression-des-fraudes-a-constate-que-certaines-lunettes-de-protection-pour-observer-l-eclipse-solaire-etaient-non-conformes_AD-202608120380.html",
       "author": "",
-      "published": "2026-07-13T18:44:43",
-      "summary": "La direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) a annoncé avoir infligé une amende de 300.000 euros à la Banque populaire Val de France pour avoir trompé ses clients sur certains crédits.",
+      "published": "2026-08-12T14:49:59",
+      "summary": "Lors d'une campagne nationale de vérifications toujours en cours, les enquêteurs de la Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) ont inspecté près de 170 professionnels (fabricants, importateurs ou distributeurs).",
       "score": 72,
-      "score_breakdown": "+20 mots critiques: fraude, fraud | +5 mots moyens: banque | +3 Presse | +20 Géo FR: france, dgccrf | ×1.5 (<24h)",
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +5 mots moyens: risque | +3 Presse | +20 Géo FR: dgccrf | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La banque a violé les règles de transparence et de conformité en trompant les clients sur la nature des crédits proposés, justifiant l'amende."
+      "ai_summary": null
     },
     {
       "hash": "6a218a809a95f2b1",
@@ -1768,7 +1768,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière en rappelant l'obligation de vérifier les autorisations réglementaires avant d'investir dans les cryptoactifs et le financement participatif."
+      "ai_summary": "L'article concerne la conformité financière en rappelant l'obligation de vérifier les autorisations réglementaires avant d'investir dans des cryptoactifs et produits financiers."
     },
     {
       "hash": "877de1792fdc4400",
@@ -2146,7 +2146,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la compliance car il soulève des risques de conseil en investissement non régulé et de protection des consommateurs face à l'usage non approprié de l'IA."
+      "ai_summary": "L'article concerne les risques de conformité liés à l'utilisation d'IA pour des conseils en placement, sans cadre réglementaire adapté."
     },
     {
       "hash": "3ac14864ecb91896",
@@ -2434,7 +2434,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations légales des banques face aux demandes de documents dans une procédure judiciaire impliquant des sanctions."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de violation de procédure légale dans un litige impliquant des sanctions et blanchiment d'argent."
     },
     {
       "hash": "be7add8210bf309f",
@@ -2758,7 +2758,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il examine les investigations légales, les sanctions et les nouvelles infractions de fraude au Royaume-Uni."
+      "ai_summary": "Cet article traite de la conformité financière en abordant les obligations légales et réglementaires des entreprises britanniques face aux nouveaux délits, sanctions et régulations."
     },
     {
       "hash": "f2c1b0539074162f",
@@ -3011,24 +3011,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite d'un cas de blanchiment d'argent impliquant une banque et les sanctions applicables."
-    },
-    {
-      "hash": "21ef9abdf469e0e0",
-      "source_name": "ComplyAdvantage",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Digital natives: How to expand into new markets without outrunning your sanctions screening",
-      "url": "https://complyadvantage.com/insights/digital-natives-how-to-expand-into-new-markets-without-outrunning-your-sanctions-screening/",
-      "author": "Audrey Langevin",
-      "published": "2026-07-13T17:07:29",
-      "summary": "For a digital-first business, growth, reach, and geography are all part of the same project. New markets are where the next cohort of users, sellers, and transactions comes from, and the teams that open them fastest tend to take the [&#8230;]\nThe post Digital natives: How to expand into new markets without outrunning your sanctions screening appeared first on ComplyAdvantage.",
-      "score": 42,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite du dépistage des sanctions lors de l'expansion géographique, élément clé de la conformité financière."
     },
     {
       "hash": "d8de5a3d16f73ad5",
@@ -3643,24 +3625,6 @@
       "ai_summary": "Cet article traite de la conformité financière en expliquant comment les entités sortir des listes de sanctions américaines."
     },
     {
-      "hash": "0904f875c0ffee63",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "\"Ils n'étaient rien d'autre qu'un impôt caché\": l'Italie désactive 20% de ses radars automatiques pour un problème de conformité",
-      "url": "https://www.bfmtv.com/economie/international/ils-n-etaient-rien-d-autre-qu-un-impot-cache-l-italie-desactive-20-de-ses-radars-automatiques-pour-un-probleme-de-conformite_AD-202607130488.html",
-      "author": "",
-      "published": "2026-07-13T13:47:38",
-      "summary": "L'Italie suspend temporairement quelques 850 de ses radars automatiques, le temps de les mettre en conformité avec de nouvelles règles d'homologation destinées à garantir la légalité des contrôles. ",
-      "score": 34,
-      "score_breakdown": "+10 mots forts: conformité | +3 Presse | +10 Géo EU: italie | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'Italie désactive des radars pour se conformer aux nouvelles règles d'homologation garantissant la légalité des contrôles routiers."
-    },
-    {
       "hash": "a713fe4c37330d9f",
       "source_name": "Commission EU - Press",
       "source_type": "rss",
@@ -3712,7 +3676,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "88f8367d40816322",
@@ -3910,7 +3874,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite des coûts de conformité et de la protection des investisseurs liés aux nouvelles règles de reporting trimestriel de la SEC."
     },
     {
       "hash": "336a42f9f960ae26",
@@ -3928,7 +3892,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Belem propose des solutions d'assurance pour les risques cyber, IA et cryptomonnaies, relevant de la gestion des risques financiers et de conformité réglementaire."
+      "ai_summary": "Belem propose des solutions d'assurance pour couvrir les risques cyber, IA et cryptomonnaies des entreprises, relevant de la conformité opérationnelle."
     },
     {
       "hash": "be25bfb45801fe3e",
@@ -4057,24 +4021,6 @@
       "ai_summary": "Cet article concerne la conformité financière car les DPAs permettent de poursuivre les individus responsables de fraude en entreprise."
     },
     {
-      "hash": "75b99ff31902aea8",
-      "source_name": "Cass. - Bancaire",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, 9ème chambre, 29 juillet 2026, 502414",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260729-502414",
-      "author": "9ème chambre",
-      "published": "2026-07-29T12:00:00",
-      "summary": "Vu la procédure suivante :                  Par une requête et un mémoire en réplique, enregistrés le 14 mars 2025 et le 22 juin 2026 au secrétariat du contentieux du Conseil d'Etat, la société Écurie Smart demande au Conseil d'Etat :                  1° d'annuler pour excès de pouvoir la décision implicite née du silence gardé par l'Autorité de contrôle prudentiel et de résolution sur sa demande adressée par lettre du 28 novembre 2024 ;                  2° d'enjoindre à l'Autorité de contrôle p",
-      "score": 24,
-      "score_breakdown": "+10 mots forts: contrôle prudentiel | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "8a440425a4b9c26d",
       "source_name": "Cass. - Fraude",
       "source_type": "rss",
@@ -4090,7 +4036,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "156cdd4eb9dccf95",
@@ -4216,7 +4162,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c405088b1feea9ed",
@@ -4234,7 +4180,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "773af93d718fc99b",
@@ -4252,7 +4198,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "813a3243b1af0f65",
@@ -4309,6 +4255,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des conflits d'intérêts liés à la fiscalité des entreprises et à la régulation numérique."
     },
     {
+      "hash": "75b99ff31902aea8",
+      "source_name": "Cass. - Bancaire",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, 9ème chambre, 29 juillet 2026, 502414",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260729-502414",
+      "author": "9ème chambre",
+      "published": "2026-07-29T12:00:00",
+      "summary": "Vu la procédure suivante :                  Par une requête et un mémoire en réplique, enregistrés le 14 mars 2025 et le 22 juin 2026 au secrétariat du contentieux du Conseil d'Etat, la société Écurie Smart demande au Conseil d'Etat :                  1° d'annuler pour excès de pouvoir la décision implicite née du silence gardé par l'Autorité de contrôle prudentiel et de résolution sur sa demande adressée par lettre du 28 novembre 2024 ;                  2° d'enjoindre à l'Autorité de contrôle p",
+      "score": 18,
+      "score_breakdown": "+10 mots forts: contrôle prudentiel | +20 Géo FR: france | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "b670a5de2738a4cb",
       "source_name": "Commission EU Finance (X)",
       "source_type": "rss",
@@ -4342,7 +4306,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "40996009536ec903",
@@ -4432,7 +4396,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il aborde la supervision bancaire, l'inspection sur site et les mesures de contrôle réglementaire en Europe."
     },
     {
       "hash": "331b6c37ec657dc3",
@@ -4669,6 +4633,24 @@
       "ai_summary": "Cet article concerne la conformité financière car FinCEN prolonge la période de consultation pour une règle modifiant la définition de Huione Group."
     },
     {
+      "hash": "0bd04c4379ee854c",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "TI: Canada’s lack of whistleblower protection “seriously impedes” anti-bribery efforts",
+      "url": "https://globalinvestigationsreview.com/article/ti-canadas-lack-of-whistleblower-protection-seriously-impedes-anti-bribery-efforts",
+      "author": "Grace Propheta",
+      "published": "2026-08-12T14:12:31",
+      "summary": "",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: canada | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "f5a89a526deb1ce2",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -4775,6 +4757,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation de la loi FCPA impliquant des pots-de-vin à des fonctionnaires."
+    },
+    {
+      "hash": "9370745a999ca524",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Settlement Agreement between the U.S. Department of the Treasury's Office of Foreign Assets Control and Rice Lake Weighing Systems, Inc. | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260812",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-08-12T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "7be6d9a6352ff3d6",
@@ -5026,7 +5026,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et manipulation de cours, qui sont des violations majeures des règles de conformité financière et de gouvernance d'entreprise."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et manipulation de cours, violations majeures des règles de conformité."
     },
     {
       "hash": "4abd6cf2de2c6dbc",
@@ -5062,10 +5062,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     }
   ],
-  "last_update": "2026-08-12T13:54:04.621893+00:00",
+  "last_update": "2026-08-12T18:48:46.068298+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
