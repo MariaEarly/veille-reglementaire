@@ -1750,7 +1750,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière en rappelant l'obligation de vérifier les autorisations réglementaires pour les produits financiers et cryptoactifs."
+      "ai_summary": "L'article concerne la conformité financière en rappelant l'obligation de vérifier les autorisations réglementaires avant d'investir en cryptoactifs et financement participatif."
     },
     {
       "hash": "877de1792fdc4400",
@@ -2113,6 +2113,24 @@
       "ai_summary": "L'article concerne la conformité financière car il traite des normes techniques réglementaires de l'EBA sur les acquisitions et fusions bancaires."
     },
     {
+      "hash": "bf275491f234195d",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "\"Nous nous préparons au pire des scénarios\": une attaque ukrainienne met à l'arrêt une importante raffinerie russe alors que le pays a déjà de gros problèmes d’approvisionnement en carburant",
+      "url": "https://www.bfmtv.com/economie/entreprises/energie/nous-nous-preparons-au-pire-des-scenarios-une-attaque-ukranienne-met-a-l-arret-une-importante-raffinerie-russe-alors-que-le-pays-a-deja-de-gros-problemes-d-approvisionnement-en-carburant_AD-202608130350.html",
+      "author": "",
+      "published": "2026-08-13T12:52:17",
+      "summary": "Une frappe de drone ukrainienne a entièrement mis à l'arrêt la raffinerie d'Orsk, située à 1.300 kilomètres du front, pour une durée estimée à au moins six mois. Cette fermeture, imputée par les autorités locales aux difficultés d'approvisionnement liées aux sanctions, risque d'aggraver les pénuries de carburant qui touchent l'ensemble de la Russie.",
+      "score": 49,
+      "score_breakdown": "+20 mots critiques: sanction | +10 mots moyens: risque, ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "c4728bfc56405a1b",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -2399,24 +2417,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il rapporte une décision de l'autorité bancaire européenne."
-    },
-    {
-      "hash": "ace13a8da27c4652",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "DOJ asks court to quash Huawei’s eleventh-hour subpoenas",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/doj-asks-court-quash-huaweis-eleventh-hour-subpoenas",
-      "author": "Ana de Liz",
-      "published": "2026-08-11T13:28:55",
-      "summary": "Just a month before a long-anticipated sanctions and racketeering trial, Brooklyn prosecutors have accused Huawei of launching “improper fishing expeditions” by demanding documents from banks without telling the court or the DOJ.&nbsp;",
-      "score": 46,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: bank | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "be7add8210bf309f",
@@ -2740,7 +2740,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations légales, des sanctions et de la responsabilité des dirigeants au Royaume-Uni."
+      "ai_summary": "Cet article traite de la conformité financière via les enquêtes légales, la responsabilité des dirigeants et l'application des sanctions au Royaume-Uni."
     },
     {
       "hash": "f2c1b0539074162f",
@@ -2761,6 +2761,24 @@
       "ai_summary": "Cet article concerne la lutte contre la fraude aux aides fédérales aux étudiants, un enjeu clé de conformité anti-blanchiment et KYC."
     },
     {
+      "hash": "3f5ac7491adb1446",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "\"Nous ne faisons que semi-négocier avec eux\": Donald Trump ne menace plus de \"déchaîner les enfers\" sur l'Iran, il semble désormais privilégier la pression économique pour faire plier son ennemi",
+      "url": "https://www.bfmtv.com/economie/international/nous-ne-faisons-que-semi-negocier-avec-eux-donald-trump-ne-menace-plus-de-dechainer-les-enfers-sur-l-iran-il-semble-desormais-privilegier-la-pression-economique-pour-faire-plier-son-ennemi_AD-202608130273.html",
+      "author": "",
+      "published": "2026-08-13T09:34:32",
+      "summary": "Donald Trump opère-t-il un changement de stratégie? S'il n'a pas exclu la possibilité de nouvelles frappes contre Téhéran, le président américain insiste désormais davantage sur les dommages économiques subis par l'Iran au travers des sanctions imposées par Washington.",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "b0619a03e87785d3",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -2776,7 +2794,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la compliance car il traite de la responsabilité des institutions financières dans la prévention et gestion des fraudes affectant leurs clients."
+      "ai_summary": "Cet article concerne la conformité financière car il illustre les obligations des banques en matière de sécurité des données clients et de responsabilité civile face aux fraudes."
     },
     {
       "hash": "cbb1ca5b0640be7d",
@@ -3013,6 +3031,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'un cas de blanchiment d'argent impliquant une banque et les sanctions applicables."
     },
     {
+      "hash": "cf6e89106cca75d1",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "OFAC fines Wisconsin company over alleged Iran breaches",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/ofac-fines-wisconsin-company-over-alleged-iran-breaches",
+      "author": "Ana de Liz",
+      "published": "2026-08-13T14:12:38",
+      "summary": "The US company was fined over its Italian subsidiary’s dealings with Iran, despite an EU blocking statute that prevented the subsidiary from complying with some US sanctions at the time.&nbsp;",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: ofac | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "e4ddcaaac96fcce4",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3247,6 +3283,24 @@
       "ai_summary": "Cet article concerne les modifications des listes de sanctions de l'OFAC, directement pertinentes pour la conformité financière."
     },
     {
+      "hash": "ace13a8da27c4652",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "DOJ asks court to quash Huawei’s eleventh-hour subpoenas",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/doj-asks-court-quash-huaweis-eleventh-hour-subpoenas",
+      "author": "Ana de Liz",
+      "published": "2026-08-11T13:28:55",
+      "summary": "Just a month before a long-anticipated sanctions and racketeering trial, Brooklyn prosecutors have accused Huawei of launching “improper fishing expeditions” by demanding documents from banks without telling the court or the DOJ.&nbsp;",
+      "score": 37,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: bank | +3 Presse | +3 Géo Intl: doj | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "bc061b6ebe7446c8",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -3389,6 +3443,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de normes de signalement des renseignements financiers aux autorités."
+    },
+    {
+      "hash": "4ec4cf6477182f75",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Legal investigations and enforcement actions in today’s rapidly evolving landscape",
+      "url": "https://globalinvestigationsreview.com/review/the-european-middle-eastern-and-african-investigations-review/2026/article/legal-investigations-and-enforcement-actions-in-todays-rapidly-evolving-landscape",
+      "author": "Kathleen Harris,Sean Curran,Maya Paunrana,Melissa Dames,Joy Wee",
+      "published": "2026-08-10T07:00:00",
+      "summary": "The UK enforcement landscape is increasingly complex, with expanded corporate offences, stricter sanctions and evolving regulatory approaches. Key focuses include the new “failure to prevent fraud” offence, senior manager liability, sanctions enforcement and crypto assets. Agencies such as the SFO, FCA and OFSI emphasise cooperation, self-reporting and remediation, while procedural protections and...",
+      "score": 36,
+      "score_breakdown": "+20 mots critiques: sanction, fraud | +10 mots forts: crypto | +3 Presse | +3 Géo Intl: fca, sfo | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "8c32fb187cf3d996",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Ireland launches first national AML strategy",
+      "url": "https://globalinvestigationsreview.com/article/ireland-launches-first-national-aml-strategy",
+      "author": "Grace Propheta",
+      "published": "2026-08-13T13:25:33",
+      "summary": "",
+      "score": 34,
+      "score_breakdown": "+10 mots forts: aml | +3 Presse | +10 Géo EU: ireland | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "2b31bb1a001f4645",
@@ -3658,7 +3748,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "88f8367d40816322",
@@ -3985,24 +4075,6 @@
       "ai_summary": "La Cour des comptes demande au gouvernement de se mettre en conformité sur la valorisation comptable de l'avantage tarifaire EDF accordé aux employés."
     },
     {
-      "hash": "b966a46fd90d62de",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "UK barrister recommends DPAs for individuals",
-      "url": "https://globalinvestigationsreview.com/article/uk-barrister-recommends-deferred-prosecution-agreements-individuals",
-      "author": "Grace Propheta",
-      "published": "2026-07-14T14:26:38",
-      "summary": "The top silk in charge of a government-commissioned review of the UK’s anti-fraud regime said that making DPAs available to directors, senior managers and other individuals would “ensure that corporate cooperation does not operate as a shield for individual wrongdoing”.",
-      "score": 27,
-      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les DPAs permettent de poursuivre les individus responsables de fraude en entreprise."
-    },
-    {
       "hash": "8a440425a4b9c26d",
       "source_name": "Cass. - Fraude",
       "source_type": "rss",
@@ -4018,7 +4090,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "156cdd4eb9dccf95",
@@ -4126,7 +4198,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c405088b1feea9ed",
@@ -4144,25 +4216,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "773af93d718fc99b",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, 6ème chambre, 30 juillet 2026, 504266",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260730-504266",
-      "author": "6ème chambre",
-      "published": "2026-07-30T12:00:00",
-      "summary": "Vu la procédure suivante :                   L'association Les Petits Bois, M. B... C... et M. A... D... ont demandé à la cour administrative d'appel de Lyon d'annuler l'arrêté du 17 février 2022 par lequel le préfet de l'Allier a délivré à la société CPENR de Saint-Nicolas des Biefs Nord une autorisation environnementale pour la construction et l'exploitation de trois éoliennes et d'un poste de livraison, en extension du parc éolien existant situé sur le territoire de la commune de Saint-Nicola",
-      "score": 20,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "813a3243b1af0f65",
@@ -4234,7 +4288,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b670a5de2738a4cb",
@@ -4270,7 +4324,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "40996009536ec903",
@@ -4345,6 +4399,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une accusation de corruption internationale en violation de la loi anti-corruption FCPA."
     },
     {
+      "hash": "773af93d718fc99b",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, 6ème chambre, 30 juillet 2026, 504266",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260730-504266",
+      "author": "6ème chambre",
+      "published": "2026-07-30T12:00:00",
+      "summary": "Vu la procédure suivante :                   L'association Les Petits Bois, M. B... C... et M. A... D... ont demandé à la cour administrative d'appel de Lyon d'annuler l'arrêté du 17 février 2022 par lequel le préfet de l'Allier a délivré à la société CPENR de Saint-Nicolas des Biefs Nord une autorisation environnementale pour la construction et l'exploitation de trois éoliennes et d'un poste de livraison, en extension du parc éolien existant situé sur le territoire de la commune de Saint-Nicola",
+      "score": 15,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "cc5e8c68a5626e22",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -4415,6 +4487,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Le Groupe BPCE teste l'euro numérique pour la BCE, validant la conformité technique et opérationnelle de cette nouvelle infrastructure de paiement."
+    },
+    {
+      "hash": "33a28adcb3bc36b0",
+      "source_name": "FinCEN",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "FinCEN Analysis: Financial Institutions Flagged Nearly $5 Billion Linked to Suspected Human Smuggling",
+      "url": "https://www.fincen.gov/news/news-releases/fincen-analysis-financial-institutions-flagged-nearly-5-billion-linked-suspected",
+      "author": "",
+      "published": "2026-08-13T00:00:00",
+      "summary": "",
+      "score": 12,
+      "score_breakdown": "+5 Source Intl | +3 Géo Intl: fincen | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "f9b954b5840714d5",
@@ -4936,7 +5026,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et de manipulation de cours, violations majeures des obligations de conformité."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et de manipulation de cours, violations majeures des règles de conformité."
     },
     {
       "hash": "4abd6cf2de2c6dbc",
@@ -4972,10 +5062,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     }
   ],
-  "last_update": "2026-08-13T13:54:02.169473+00:00",
+  "last_update": "2026-08-13T18:50:40.643126+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
