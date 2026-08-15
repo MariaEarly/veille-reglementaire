@@ -706,7 +706,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des priorités d'application légale contre les cartels, fraudes commerciales et criminalité financière."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des priorités d'enquête sur les fraudes commerciales, sanitaires et l'usage abusif d'actifs numériques."
     },
     {
       "hash": "3be046e1e1c33f58",
@@ -1264,7 +1264,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les évolutions de la conformité financière liées à la régulation des cryptomonnaies et à l'application de règles par les autorités américaines."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'application réglementaire et de la politique gouvernementale sur les cryptomonnaies."
     },
     {
       "hash": "6a218a809a95f2b1",
@@ -1804,7 +1804,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du renforcement de l'application des règles de conformité par le DOJ et des obligations d'autodénonciation."
+      "ai_summary": "Cet article traite de la conformité financière en analysant les changements dans l'application de la loi pénale américaine concernant les fraudes et enquêtes technologiques."
     },
     {
       "hash": "9838d46cab70fdf0",
@@ -2311,42 +2311,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la criminalisation des violations de sanctions, un domaine clé de la compliance."
     },
     {
-      "hash": "48f2c61d3f3b51b0",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Cette interdiction \"ruinerait\" l'entreprise: l'UE veut interdire le transport de GNL russe, hors de question pour la Grèce qui veut protéger son armateur milliardaire",
-      "url": "https://www.bfmtv.com/economie/international/cette-interdiction-ruinerait-l-entreprise-l-ue-veut-interdire-le-transport-de-gnl-russe-hors-de-question-pour-la-grece-qui-veut-proteger-son-armateur-milliardaire_AN-202607160534.html",
-      "author": "",
-      "published": "2026-07-16T14:39:57",
-      "summary": "La Grèce bloque le 21e paquet de sanctions de l'UE contre la Russie afin de protéger l'armateur milliardaire George Prokopiou, dont la compagnie Dynagas est l'un des principaux transporteurs mondiaux de GNL russe, s'opposant à une interdiction qui empêcherait les compagnies européennes d'acheminer ce gaz vers des pays tiers comme la Chine ou l'Inde.",
-      "score": 49,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +10 Géo EU: grèce | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La Grèce contourne les sanctions UE contre la Russie pour protéger ses intérêts commerciaux, violant la conformité réglementaire internationale."
-    },
-    {
-      "hash": "1efca07dfa4b68d0",
-      "source_name": "EBA - European Banking Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "EBA E-mail alert 16 July, 2026",
-      "url": "https://www.eba.europa.eu/node/19853",
-      "author": "Anonymous",
-      "published": "2026-07-16T15:00:03",
-      "summary": "EBA E-mail alert 16 July, 2026\n\n  \n    Date\n          16/07/2026\n\n      \n\nAnonymous (not verified)\n\nThu, 07/16/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          ​Joint Board of Appeal dismisses appeal against the EBA\n      ",
-      "score": 48,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: ppe | +15 Source EU | +10 Géo EU: eba | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il rapporte une décision de l'autorité bancaire européenne."
-    },
-    {
       "hash": "be7add8210bf309f",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -2686,7 +2650,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions économiques contre l'Iran, un élément clé de la conformité financière et des régimes de conformité aux embargos internationaux."
+      "ai_summary": "L'article traite de sanctions économiques américaines contre l'Iran comme outil de pression politique, relevant de la conformité aux régimes de sanctions internationales."
     },
     {
       "hash": "b0619a03e87785d3",
@@ -3118,7 +3082,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de divulgation légale et du respect des procédures judiciaires dans les affaires de sanctions et blanchiment d'argent."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bc061b6ebe7446c8",
@@ -3497,24 +3461,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article traite de la conformité fiscale en dénonçant l'insuffisance des ressources allouées à la lutte contre la fraude fiscale."
-    },
-    {
-      "hash": "de1a6e00002b5cd7",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Experts surprised by UK fraud reviewer’s DPA idea",
-      "url": "https://globalinvestigationsreview.com/article/experts-surprised-uk-fraud-reviewers-dpa-idea",
-      "author": "Malavika Devaya",
-      "published": "2026-07-16T13:39:36",
-      "summary": "London lawyers said the barrister’s report, which also recommends holding website owners criminally liable for user fraud, should serve as a wake-up call for businesses and executives.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des recommandations légales visant à responsabiliser les entreprises face à la fraude."
     },
     {
       "hash": "a713fe4c37330d9f",
@@ -3910,7 +3856,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8a440425a4b9c26d",
@@ -3928,7 +3874,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "156cdd4eb9dccf95",
@@ -4036,7 +3982,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c405088b1feea9ed",
@@ -4054,7 +4000,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "813a3243b1af0f65",
@@ -4108,7 +4054,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b670a5de2738a4cb",
@@ -4198,7 +4144,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "cc5e8c68a5626e22",
@@ -4270,7 +4216,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "33a28adcb3bc36b0",
@@ -4597,24 +4543,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation de la loi FCPA relative aux pots-de-vin versés à des officiels étrangers."
     },
     {
-      "hash": "ad5b5f1146e9a13d",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Ex-Fifa officials renew calls to wipe convictions",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/ex-fifa-officials-renew-calls-wipe-convictions",
-      "author": "Gaspard Le Dem",
-      "published": "2026-07-16T15:53:56",
-      "summary": "Defendants caught up in the DOJ’s landmark corruption probe into the football governing body said their convictions should be vacated after the agency abandoned a related prosecution, invoking what one lawyer described as an “extremely rare” form of post-conviction relief.",
-      "score": 9,
-      "score_breakdown": "+3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des poursuites anticorruption contre des responsables de la FIFA."
-    },
-    {
       "hash": "9370745a999ca524",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -4846,7 +4774,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et de manipulation de cours, violations graves des régulations financières et éthiques."
+      "ai_summary": "Cet article concerne la conformité financière car il révèle des accusations de corruption et manipulation de cours contre des dirigeants, nécessitant une enquête judiciaire."
     },
     {
       "hash": "4abd6cf2de2c6dbc",
@@ -4867,7 +4795,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de fraude fiscale impliquant des lanceurs d'alerte."
     }
   ],
-  "last_update": "2026-08-15T13:05:41.671405+00:00",
+  "last_update": "2026-08-15T18:15:41.234895+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
