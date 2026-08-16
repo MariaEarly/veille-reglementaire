@@ -706,7 +706,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des priorités d'enquête sur les fraudes commerciales, sanitaires et l'usage abusif d'actifs numériques."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des priorités d'enquête touchant les fraudes, les actifs numériques et les risques de compliance liés à l'IA."
     },
     {
       "hash": "3be046e1e1c33f58",
@@ -1139,24 +1139,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de nouvelles règles de proportionnalité pour les assureurs et réassureurs."
-    },
-    {
-      "hash": "816401873dd9cfe6",
-      "source_name": "JORF - Bancaire",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 10 juillet 2026 portant approbation des règlements d'assurance vieillesse complémentaire et d'assurance invalidité-décès de la section professionnelle des notaires (CPRN)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054435985",
-      "author": "Ministère du travail et des solidarités",
-      "published": "2026-07-17T00:00:00",
-      "summary": "Article 1Sont approuvés, tels qu'ils sont annexés au présent arrêté, les règlements des régimes d'assurance vieillesse complémentaire et d'assurance invalidité-décès de la section professionnelle des notaires.Article 2Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXEI. - Conformément à l'article 4 du décret du 22 avril 1949 susvisé, le règlement du régime d'assurance vieillesse complémentaire de la section professionnelle des notaires est ainsi réd",
-      "score": 75,
-      "score_breakdown": "+5 mots moyens: règlement | +25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Approbation réglementaire des régimes complémentaires de retraite et invalidité-décès des notaires pour assurer la conformité légale."
     },
     {
       "hash": "d52971b239dcb163",
@@ -1804,7 +1786,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière en analysant les changements dans l'application de la loi pénale américaine concernant les fraudes et enquêtes technologiques."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des changements dans l'application de la loi anticorruption et de fraude aux États-Unis."
     },
     {
       "hash": "9838d46cab70fdf0",
@@ -2650,7 +2632,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article traite de sanctions économiques américaines contre l'Iran comme outil de pression politique, relevant de la conformité aux régimes de sanctions internationales."
+      "ai_summary": "Cet article concerne les sanctions économiques contre l'Iran, un aspect clé de la conformité financière et du respect des régimes de sanctions internationaux."
     },
     {
       "hash": "b0619a03e87785d3",
@@ -3067,24 +3049,6 @@
       "ai_summary": "Cet article concerne les modifications des listes de sanctions de l'OFAC, directement pertinentes pour la conformité financière."
     },
     {
-      "hash": "ace13a8da27c4652",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "DOJ asks court to quash Huawei’s eleventh-hour subpoenas",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/doj-asks-court-quash-huaweis-eleventh-hour-subpoenas",
-      "author": "Ana de Liz",
-      "published": "2026-08-11T13:28:55",
-      "summary": "Just a month before a long-anticipated sanctions and racketeering trial, Brooklyn prosecutors have accused Huawei of launching “improper fishing expeditions” by demanding documents from banks without telling the court or the DOJ.&nbsp;",
-      "score": 37,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: bank | +3 Presse | +3 Géo Intl: doj | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "bc061b6ebe7446c8",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -3481,6 +3445,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'approbation conditionnelle d'une fusion majeure sous surveillance réglementaire."
     },
     {
+      "hash": "ace13a8da27c4652",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "DOJ asks court to quash Huawei’s eleventh-hour subpoenas",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/doj-asks-court-quash-huaweis-eleventh-hour-subpoenas",
+      "author": "Ana de Liz",
+      "published": "2026-08-11T13:28:55",
+      "summary": "Just a month before a long-anticipated sanctions and racketeering trial, Brooklyn prosecutors have accused Huawei of launching “improper fishing expeditions” by demanding documents from banks without telling the court or the DOJ.&nbsp;",
+      "score": 31,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: bank | +3 Presse | +3 Géo Intl: doj | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "cc86e9e77283255c",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -3856,7 +3838,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8a440425a4b9c26d",
@@ -3874,7 +3856,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "156cdd4eb9dccf95",
@@ -3982,7 +3964,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c405088b1feea9ed",
@@ -4000,7 +3982,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "813a3243b1af0f65",
@@ -4054,7 +4036,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b670a5de2738a4cb",
@@ -4144,7 +4126,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "cc5e8c68a5626e22",
@@ -4216,7 +4198,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "33a28adcb3bc36b0",
@@ -4774,7 +4756,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il révèle des accusations de corruption et manipulation de cours contre des dirigeants, nécessitant une enquête judiciaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et manipulation de cours, violations majeures des règles de conformité et d'éthique financière."
     },
     {
       "hash": "4abd6cf2de2c6dbc",
@@ -4795,7 +4777,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de fraude fiscale impliquant des lanceurs d'alerte."
     }
   ],
-  "last_update": "2026-08-15T18:53:12.998067+00:00",
+  "last_update": "2026-08-16T00:41:56.294010+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
