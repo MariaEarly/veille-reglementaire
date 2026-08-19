@@ -565,6 +565,24 @@
   ],
   "items": [
     {
+      "hash": "601f601bdfebc5b9",
+      "source_name": "AMF - Actualités",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "L'AMF appelle l'attention des épargnants sur la multiplication des arnaques prenant la forme de faux articles de presse vantant les mérites de pseudo bons plans pour s’enrichir",
+      "url": "https://www.amf-france.org/fr/actualites-publications/communiques/communiques-de-lamf/lamf-appelle-lattention-des-epargnants-sur-la-multiplication-des-arnaques-prenant-la-forme-de-faux#xts=607212&xtor=RSS-3&type=RSS",
+      "author": "",
+      "published": "2026-08-19T09:02:05",
+      "summary": "Mise en garde                  Mise en garde              Crypto-actifs              Protection de l&#039;épargne                    L&#039;AMF appelle l&#039;attention des épargnants sur la multiplication des arnaques prenant la forme de faux articles de presse vantant les mérites de pseudo bons plans pour s’enrichir",
+      "score": 100,
+      "score_breakdown": "+20 mots forts: amf, crypto | +5 mots moyens: ppe | +25 Source FR | +20 Géo FR: amf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "L'AMF alerte sur les arnaques par faux articles de presse promouvant des investissements frauduleux, relevant de la protection des consommateurs financiers."
+    },
+    {
       "hash": "8f8025d2fb04a271",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -1015,24 +1033,6 @@
       "ai_summary": "Cet article concerne les exigences de marge bilatérale, sujet relevant de la conformité financière et réglementaire bancaire."
     },
     {
-      "hash": "9ab828447cd07978",
-      "source_name": "AMLA - Anti-Money Laundering Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Updated taxonomy for the 2027 risk assessment data collection",
-      "url": "https://www.amla.europa.eu/news-media/news-articles/updated-taxonomy-2027-risk-assessment-data-collection_en",
-      "author": "",
-      "published": "2026-07-20T11:07:35",
-      "summary": "As part of its reporting framework release 4.3, the European Banking Authority (EBA) has published an updated version of the data model and taxonomy that will support the collection of data for AMLA's risk assessment of entities eligible for direct supervision.",
-      "score": 82,
-      "score_breakdown": "+20 mots forts: aml, eba, amla | +10 mots moyens: risk, bank | +15 Source EU | +10 Géo EU: eba, amla | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur la collecte de données pour l'évaluation des risques de blanchiment d'argent."
-    },
-    {
       "hash": "03afce96c1484d89",
       "source_name": "EBA (X)",
       "source_type": "rss",
@@ -1069,6 +1069,24 @@
       "ai_summary": "Cet article concerne la conformité financière car les autorités de supervision financière européennes établissent des règles de gouvernance de l'IA."
     },
     {
+      "hash": "8055692b6fd244f9",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "L’AMF met en garde contre BitKelTrade, une plateforme de trading frauduleuse usurpant l’identité de médias",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/19/l-amf-met-en-garde-contre-bitkeltrade-une-plateforme-de-trading-frauduleuse-usurpant-l-identite-de-medias_6749856_4408996.html",
+      "author": "",
+      "published": "2026-08-19T10:59:11",
+      "summary": "« Ces sites n’ont qu’un seul but : inciter le lecteur à cliquer sur le lien permettant de rejoindre la plateforme frauduleuse et à remplir un formulaire de contact pour pouvoir être recontacté », insiste l’Autorité des marchés financiers, recommandant aux épargnants de ne pas donner suite et de ne pas transmettre leurs coordonnées.",
+      "score": 79,
+      "score_breakdown": "+20 mots critiques: fraud | +10 mots forts: amf | +3 Presse | +20 Géo FR: amf, autorité des marchés financiers | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "404f60bf11b825f9",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -1102,7 +1120,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il régit la cessation des fonctions de procureur financier aux chambres régionales des comptes, organes de contrôle financier et de conformité."
+      "ai_summary": "Cet article concerne la fin de délai d'un procureur financier, acteur clé de la conformité des comptes publics aux chambres régionales."
     },
     {
       "hash": "9b43fb5935574e89",
@@ -1121,24 +1139,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la conformité financière en abordant comment les innovations numériques s'intègrent aux pratiques bancaires réglementées."
-    },
-    {
-      "hash": "cf77cd99d59eb558",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Entrée en application d'un nouveau régime de proportionnalité applicable aux organismes d’assurance et de réassurance le 30 janvier 2027 - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMGcxMENJQ1FyN2hDTVRZNWtvTEJvRkRUZ3JMRXl4cmd4bHU5am84dGxiZ194ckxPd2FrQjZnQ0w2cks4MXZPc0RUSUtHNmFtT2tONmlwaV9tYk1mcDNCajlwaC01MFIySVk5Vlo2bXVid2JiZWJEMUw0YjhPMUlBRXhtUlF3UEE5YU9lUE1DWlc5WnVWTXp4bjdCVHU2cHFPZnRuOXRMS09hYklVZGlQb2VQX3V3X1N5VC1FSC02VUFXeXllMTk3QTJfc1ZZZ2pkZjFsVVVwb1NvVUI3?oc=5",
-      "author": "",
-      "published": "2026-07-20T10:37:05",
-      "summary": "Entrée en application d'un nouveau régime de proportionnalité applicable aux organismes d’assurance et de réassurance le 30 janvier 2027&nbsp;&nbsp;Banque de France",
-      "score": 75,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de nouvelles règles de proportionnalité pour les assureurs et réassureurs."
     },
     {
       "hash": "d52971b239dcb163",
@@ -1966,7 +1966,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article traite du renforcement des sanctions européennes contre la Russie, ce qui implique des obligations de conformité financière pour les entités européennes."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du renforcement des sanctions contre la Russie, imposant de nouvelles obligations de conformité aux entités soumises aux régimes sanct"
     },
     {
       "hash": "c8f5332b05af8b55",
@@ -2147,24 +2147,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une enquête pour fraude fiscale et de la responsabilité d'une institution financière."
-    },
-    {
-      "hash": "ea1e2972d0da1029",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "La Commission européenne inflige une amende record de 550 millions d’euros à AliExpress",
-      "url": "https://www.lemonde.fr/economie/article/2026/07/20/la-commission-europeenne-inflige-une-amende-record-de-550-millions-d-euros-a-aliexpress_6727187_3234.html",
-      "author": "",
-      "published": "2026-07-20T11:01:56",
-      "summary": "Le site de e-commerce chinois a manqué à ses obligations pour lutter contre la vente de produits illégaux. Après le réseau social X et la plateforme Temu, c’est la troisième sanction infligée par l’Europe en moins d’une année.",
-      "score": 49,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +10 Géo EU: commission européenne | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La Commission européenne sanctionne AliExpress pour non-conformité réglementaire en matière de contrôle des ventes illégales."
     },
     {
       "hash": "be7add8210bf309f",
@@ -3334,7 +3316,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur les tests de résistance réglementaires imposés aux banques pour évaluer leur capacité à supporter des chocs géopolitiques."
+      "ai_summary": "La BCE évalue la résilience des banques face aux risques géopolitiques via des tests de conformité prudentielle."
     },
     {
       "hash": "a713fe4c37330d9f",
@@ -3535,24 +3517,6 @@
       "ai_summary": "L'article concerne la conformité financière car il traite de la supervision transfrontalière des prestataires de services d'investissement."
     },
     {
-      "hash": "d39ddd21d19bd0b8",
-      "source_name": "AMLA - Anti-Money Laundering Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "AMLA Chair presents 2025 Consolidated Annual Activity Report to the European Parliament",
-      "url": "https://www.amla.europa.eu/news-media/news-articles/amla-chair-presents-2025-consolidated-annual-activity-report-european-parliament_en",
-      "author": "",
-      "published": "2026-07-20T09:30:18",
-      "summary": "AMLA Chair Bruna Szego presented the Authority’s 2025 Consolidated Annual Activity Report at a public hearing of the European Parliament’s ECON and LIBE Committees.",
-      "score": 27,
-      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: european parliament, amla | ×0.6 (>14d)",
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre le blanchiment d'argent et la conformité financière en Europe, domaines clés de la régulation financière."
-    },
-    {
       "hash": "b0bac3c98ac1d5de",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3712,7 +3676,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "156cdd4eb9dccf95",
@@ -3820,7 +3784,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c405088b1feea9ed",
@@ -3838,7 +3802,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "813a3243b1af0f65",
@@ -3874,7 +3838,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "75b99ff31902aea8",
@@ -3892,7 +3856,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b670a5de2738a4cb",
@@ -3982,7 +3946,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c205f99201fce5f7",
@@ -4000,7 +3964,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "cc5e8c68a5626e22",
@@ -4072,7 +4036,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "33a28adcb3bc36b0",
@@ -4630,7 +4594,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il relate une enquête pour corruption et manipulation de cours, violations majeures des règles de conformité et de déontologie en matière financière."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption et de manipulation de cours, violations graves des règles de conformité et d'intégrité financière."
     },
     {
       "hash": "4abd6cf2de2c6dbc",
@@ -4651,7 +4615,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de fraude fiscale impliquant des lanceurs d'alerte."
     }
   ],
-  "last_update": "2026-08-19T07:12:44.542004+00:00",
+  "last_update": "2026-08-19T12:24:40.607081+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
