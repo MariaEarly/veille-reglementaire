@@ -616,7 +616,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "79faf032ad64ea93",
@@ -1681,24 +1681,6 @@
       "ai_summary": "La lutte contre la corruption dans la fonction publique relève de la conformité réglementaire et de la gestion des risques de fraude institutionnelle."
     },
     {
-      "hash": "48477ca4f73f24e6",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Puerto Rican bank charged in Miami for “willfully failing” to file SARs",
-      "url": "https://globalinvestigationsreview.com/article/puerto-rican-bank-charged-in-miami-willfully-failing-file-sars",
-      "author": "Grace Propheta",
-      "published": "2026-07-21T15:21:07",
-      "summary": "US federal prosecutors allege that Blue Ocean International Bank “obstructed the duties and responsibilities” of its own compliance team, refusing to allow them access to transaction records and preventing them from filing suspicious transaction reports.",
-      "score": 57,
-      "score_breakdown": "+20 mots critiques: suspicious transaction | +10 mots forts: compliance | +5 mots moyens: bank | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Une banque porto-ricaine est accusée d'avoir volontairement omis de déclarer des transactions suspectes aux autorités fédérales."
-    },
-    {
       "hash": "270353c2f5208bad",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -2147,6 +2129,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une enquête pour fraude fiscale et de la responsabilité d'une institution financière."
+    },
+    {
+      "hash": "8a33e879740e5523",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Le secrétaire au Trésor américain appelle la Chine à soutenir la guerre économique des États-Unis contre l'Iran et assure que les sanctions entraîneront \"la chute de ce régime\"",
+      "url": "https://www.bfmtv.com/economie/international/washington-appelle-la-chine-a-soutenir-sa-guerre-economique-contre-l-iran-et-assure-que-les-sanctions-entraineront-la-chute-de-ce-regime_AD-202608200449.html",
+      "author": "",
+      "published": "2026-08-20T15:50:13",
+      "summary": "Le secrétaire au Trésor américain Scott Bessent a aussi demandé ce jeudi à la Chine à \"se mettre au diapason\" dans la guerre économique menée par les États-Unis contre l'Iran.",
+      "score": 46,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +3 Presse | +3 Géo Intl: états-unis | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "be7add8210bf309f",
@@ -3103,6 +3103,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des enquêtes légales, des sanctions et de la responsabilité des dirigeants."
     },
     {
+      "hash": "b083ae3afc13fd6f",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Xu Jiayin, l’ex-patron chinois du géant de l’immobilier Evergrande, condamné à la prison à vie",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/20/en-chine-l-ex-patron-du-geant-de-l-immobilier-evergrande-condamne-a-la-prison-a-vie_6750977_3234.html",
+      "author": "",
+      "published": "2026-08-20T13:02:45",
+      "summary": "Le fondateur de ce groupe dont la faillite fut retentissante en 2021 a été jugé coupable de « fraude financière » et de « détournement de fonds » par un tribunal en Chine. Le groupe devra payer une amende de près de 2 milliards d’euros.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "b9e9d2e129a19a60",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3301,24 +3319,6 @@
       "ai_summary": "L'ancien PDG est poursuivi pour fraude envers le régulateur, relevant de la conformité réglementaire et financière."
     },
     {
-      "hash": "a14e66492095ff39",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Lutte contre la fraude fiscale : l’Etat accusé de « sous-investissement chronique »",
-      "url": "https://www.lemonde.fr/politique/article/2026/07/21/lutte-contre-la-fraude-fiscale-l-etat-accuse-de-sous-investissement-chronique_6729036_823448.html",
-      "author": "",
-      "published": "2026-07-21T16:30:07",
-      "summary": "Dans un rapport présenté en commission des finances mardi, la députée Mathilde Feld (LFI) juge « urgent » de « redonner » des moyens à la direction générale des finances publiques et pointe un « décrochage massif » du contrôle fiscal, qu’elle attribue notamment aux « coupes massives » dans les effectifs du fisc.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: fraude, fraud | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'article traite de la conformité fiscale en dénonçant l'insuffisance des ressources allouées à la lutte contre la fraude fiscale."
-    },
-    {
       "hash": "27b5453c6fb3b941",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -3353,6 +3353,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'approbation conditionnelle d'une fusion majeure sous surveillance réglementaire."
+    },
+    {
+      "hash": "5d6d382188256b5e",
+      "source_name": "ComplyAdvantage",
+      "source_type": "press",
+      "category": "presse",
+      "title": "The State of Financial Crime 2026 North America edition",
+      "url": "https://complyadvantage.com/reports/the-state-of-financial-crime-2026-north-america-edition/",
+      "author": "Dariusz Tarczyński",
+      "published": "2026-08-18T18:12:38",
+      "summary": "See how 200 senior compliance leaders in the United States and Canada are investing in AI, demanding agile regulation, and confronting the operational drag holding them back.\nThe post The State of Financial Crime 2026 North America edition appeared first on ComplyAdvantage.",
+      "score": 31,
+      "score_breakdown": "+10 mots forts: compliance | +10 mots moyens: regulation, ppe | +3 Presse | +3 Géo Intl: united states, canada | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "ace13a8da27c4652",
@@ -3676,7 +3694,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "215df8e24b2c1467",
@@ -3766,7 +3784,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c405088b1feea9ed",
@@ -3784,7 +3802,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "813a3243b1af0f65",
@@ -3820,7 +3838,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "75b99ff31902aea8",
@@ -3838,7 +3856,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b670a5de2738a4cb",
@@ -3928,7 +3946,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c205f99201fce5f7",
@@ -4018,7 +4036,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "33a28adcb3bc36b0",
@@ -4309,6 +4327,24 @@
       "ai_summary": "Cet article concerne les obligations de déclaration du bénéficiaire final selon le Corporate Transparency Act, un sujet de conformité financière."
     },
     {
+      "hash": "b1bccde2420fa84e",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Counter Narcotics, Counter Terrorism, Cuba-related, and Iran-related Designations; Issuance of Russia-related General License; Issuance of Associated Frequently Asked Questions | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260820",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-08-20T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "16a6f11c4a736cdc",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -4561,7 +4597,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de fraude fiscale impliquant des lanceurs d'alerte."
     }
   ],
-  "last_update": "2026-08-20T13:25:15.365166+00:00",
+  "last_update": "2026-08-20T18:24:19.576865+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
