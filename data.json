@@ -601,24 +601,6 @@
       "ai_summary": "L'AMF actualise ses recommandations de conformité pour les dépositaires de fonds, renforçant la sécurisation des actifs."
     },
     {
-      "hash": "f67372b1b3e29186",
-      "source_name": "JORF - Sanctions",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 14 août 2026 modifiant l'arrêté du 27 mai 2020 portant déconcentration du recrutement et de la gestion des agents contractuels exerçant leurs fonctions dans les services de la préfecture de police",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054717487",
-      "author": "Ministère de l'intérieur",
-      "published": "2026-08-20T00:00:00",
-      "summary": "Article 1Le dernier alinéa de l'article 1er de l'arrêté du 27 mai 2020 susvisé est remplacé par un alinéa ainsi rédigé :« La délégation du pouvoir de recrutement n'emporte pas la délégation du pouvoir de prononcer les sanctions disciplinaires prévues aux 3° bis et 4° de l'article 43-2 du décret du 17 janvier 1986 susvisé. »Article 2Le présent arrêté sera publié au Journal officiel de la République française.",
-      "score": 97,
-      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "79faf032ad64ea93",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1105,6 +1087,24 @@
       "ai_summary": "Cet article traite de la conformité AML/LCB-FT en Malaisie et des sanctions imposées par la banque centrale pour non-respect des obligations."
     },
     {
+      "hash": "f67372b1b3e29186",
+      "source_name": "JORF - Sanctions",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 14 août 2026 modifiant l'arrêté du 27 mai 2020 portant déconcentration du recrutement et de la gestion des agents contractuels exerçant leurs fonctions dans les services de la préfecture de police",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054717487",
+      "author": "Ministère de l'intérieur",
+      "published": "2026-08-20T00:00:00",
+      "summary": "Article 1Le dernier alinéa de l'article 1er de l'arrêté du 27 mai 2020 susvisé est remplacé par un alinéa ainsi rédigé :« La délégation du pouvoir de recrutement n'emporte pas la délégation du pouvoir de prononcer les sanctions disciplinaires prévues aux 3° bis et 4° de l'article 43-2 du décret du 17 janvier 1986 susvisé. »Article 2Le présent arrêté sera publié au Journal officiel de la République française.",
+      "score": 78,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "1df0cb5ee82db97f",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1355,60 +1355,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Sanction de l'AMF contre Uzès Gestion et des dirigeants pour violations de la réglementation financière et des obligations de conformité."
-    },
-    {
-      "hash": "5298a61a1300e751",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 16 juillet 2026 modifiant l'arrêté du 17 août 2023 fixant la liste des emplois de chef de service administratif de la direction générale des finances publiques",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054451144",
-      "author": "Ministère de l'action et des comptes publics",
-      "published": "2026-07-22T00:00:00",
-      "summary": "Article 1Les annexes de l'arrêté du 17 août 2023 fixant la liste des emplois de chef de service administratif de la direction générale des finances publiques sont remplacées par les annexes 1 à 4 du présent arrêté.Article 2Les dispositions du présent arrêté entrent en vigueur au 1er septembre 2026.Article 3Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXE 3FONCTIONS ADMINISTRATIVES D'ENCADREMENT, D'ANIMATION OU D'EXPERTISE COMPORTANT DES RESPONSABI",
-      "score": 67,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet arrêté modifie la liste des emplois de chef de service administratif des finances publiques, relevant de l'organisation interne administrative."
-    },
-    {
-      "hash": "bd4f911b0eb08504",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 16 juillet 2026 portant notification pour l'année 2026 des attributions individuelles revenant aux communes au titre de l'accompagnement financier dans le cadre du service public à la petite enfance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054450993",
-      "author": "Ministère de la santé, des familles, de l'autonomie et des personnes handicapées",
-      "published": "2026-07-22T00:00:00",
-      "summary": "Article 1La répartition des crédits destinés à l'accompagnement financier des communes pour la mise en œuvre du service public de la petite enfance, prévu à l'article 188 de la loi n° 2025-127 du 14 février 2025, ouverts par la loi du 16 février 2026 de finances 2026, est établie entre les bénéficiaires à hauteur des montants figurant dans le tableau annexé au présent arrêté.Article 2Le présent arrêté sera publié au Journal officiel de la République française.AnnexeArticle ANNEXECode\n      \n    ",
-      "score": 67,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet arrêté fixe les attributions financières individuelles des communes pour le financement du service public de la petite enfance en 2026."
-    },
-    {
-      "hash": "4ed9c90bd366f317",
-      "source_name": "JORF - Bancaire",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 10 juillet 2026 modifiant l'arrêté du 21 février 2014 portant création par la direction générale des finances publiques d'un traitement automatisé de lutte contre la fraude dénommé « ciblage de la fraude et valorisation des requêtes »",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054450882",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-07-22T00:00:00",
-      "summary": "Article 1L'article 2 de l'arrêté du 21 février 2014 susvisé est ainsi modifié :1° Le cinquième alinéa est remplacé par les dispositions suivantes :« Les opérations effectuées par le présent traitement dans le cadre de l'expérimentation prévue par l'article 154 de la loi n° 2019-1479 du 28 décembre 2019 de finances pour 2020 modifiée par l'article 112 de la loi de finances pour 2024 sont décrites dans les II, III et III bis de l'article 4, le II de l'article 6, les I et II de l'article 7 et les I",
-      "score": 67,
-      "score_breakdown": "+20 mots critiques: fraude, fraud | +25 Source FR | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet arrêté modifie un système automatisé de détection de fraude fiscale, directement lié à la conformité et lutte contre la fraude financière."
     },
     {
       "hash": "aecf6892aa661cbd",
@@ -2146,7 +2092,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions économiques contre l'Iran et de leur mise en œuvre."
     },
     {
       "hash": "be7add8210bf309f",
@@ -2743,6 +2689,24 @@
       "ai_summary": "Google doit respecter les règles de concurrence imposées par l'UE, une obligation de conformité réglementaire et légale."
     },
     {
+      "hash": "2cb0f071f9ce2c2c",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "DOJ renames securities fraud unit for second time in a year",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/doj-renames-securities-fraud-unit-second-time-in-year",
+      "author": "Gaspard Le Dem",
+      "published": "2026-08-20T21:33:23",
+      "summary": "The unit's new moniker reflects the department’s recent effort to split oversight of fraud involving private actors and fraud targeting government programmes.",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "d1f68bab31c2821b",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3118,7 +3082,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La condamnation pour fraude financière et détournement de fonds relève directement de la conformité financière et de la lutte contre la criminalité économique."
     },
     {
       "hash": "b9e9d2e129a19a60",
@@ -3337,24 +3301,6 @@
       "ai_summary": "La BCE évalue la résilience des banques face aux risques géopolitiques via des tests de conformité prudentielle."
     },
     {
-      "hash": "a713fe4c37330d9f",
-      "source_name": "Commission EU - Press",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Commission approves Paramount's acquisition of Warner, subject to conditions",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1663",
-      "author": "",
-      "published": "2026-07-21T22:00:00",
-      "summary": "European Commission Press release Brussels, 22 Jul 2026 The European Commission has approved, under the EU Merger Regulation, the proposed acquisition by Paramount Skydance Corporation (‘Paramount') of Warner Bros. Discovery (‘Warner'). The approval is conditional upon full compliance with the commitments offered by Paramount.",
-      "score": 32,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: regulation | +15 Source EU | +10 Géo EU: european commission | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'approbation conditionnelle d'une fusion majeure sous surveillance réglementaire."
-    },
-    {
       "hash": "5d6d382188256b5e",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -3370,7 +3316,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les investissements en IA des responsables compliance et les défis réglementaires en Amérique du Nord."
     },
     {
       "hash": "ace13a8da27c4652",
@@ -3694,7 +3640,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "215df8e24b2c1467",
@@ -3784,7 +3730,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c405088b1feea9ed",
@@ -3802,7 +3748,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "813a3243b1af0f65",
@@ -3838,7 +3784,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "75b99ff31902aea8",
@@ -3856,7 +3802,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b670a5de2738a4cb",
@@ -3946,7 +3892,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c205f99201fce5f7",
@@ -4036,7 +3982,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "33a28adcb3bc36b0",
@@ -4165,24 +4111,6 @@
       "ai_summary": "Cet article concerne l'arrêt permanent des exigences de déclaration de propriétaires bénéficiaires par FinCEN pour les petites entreprises."
     },
     {
-      "hash": "e61f728995813ecf",
-      "source_name": "FinCEN",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "FinCEN Extends Comment Period for Proposed Rule To Amend the Definition of Huione Group",
-      "url": "https://www.fincen.gov/news/news-releases/fincen-extends-comment-period-proposed-rule-amend-definition-huione-group",
-      "author": "",
-      "published": "2026-07-22T00:00:00",
-      "summary": "",
-      "score": 9,
-      "score_breakdown": "+5 Source Intl | +3 Géo Intl: fincen | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car FinCEN prolonge la période de consultation pour une règle modifiant la définition de Huione Group."
-    },
-    {
       "hash": "78b8fa4ff3644160",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -4309,24 +4237,6 @@
       "ai_summary": "L'article concerne la conformité financière car il traite du recrutement d'un ancien chef de l'unité FCPA (loi anti-corruption) du DOJ."
     },
     {
-      "hash": "58ea05204efb8b9e",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "FinCEN “close to the finish line” on new beneficial ownership rule",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/fincen-close-the-finish-line-new-beneficial-ownership-rule",
-      "author": "Estelle Atkinson",
-      "published": "2026-07-21T20:28:01",
-      "summary": "Director Andrea Gacki told lawmakers that the regulator is on track to finalise new reporting requirements under the controversial Corporate Transparency Act. A recent report found the new rule would exempt 99% of entities covered by the law.",
-      "score": 9,
-      "score_breakdown": "+3 Presse | +3 Géo Intl: fincen | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les obligations de déclaration du bénéficiaire final selon le Corporate Transparency Act, un sujet de conformité financière."
-    },
-    {
       "hash": "b1bccde2420fa84e",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -4342,7 +4252,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions financières imposées par les États-Unis contre des entités liées au terrorisme, à la Russie et à l'Iran."
     },
     {
       "hash": "16a6f11c4a736cdc",
@@ -4597,7 +4507,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de fraude fiscale impliquant des lanceurs d'alerte."
     }
   ],
-  "last_update": "2026-08-20T19:08:52.898894+00:00",
+  "last_update": "2026-08-21T00:42:53.533519+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
