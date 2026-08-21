@@ -1084,7 +1084,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1df0cb5ee82db97f",
@@ -1321,22 +1321,22 @@
       "ai_summary": "Sanction de l'AMF contre une société de gestion et ses dirigeants pour violation des règles de conformité et de gouvernance financière."
     },
     {
-      "hash": "c779d7d61253ab88",
-      "source_name": "AMF - Actualités",
+      "hash": "3d423df51c864cf2",
+      "source_name": "CSSF Luxembourg (AML/CFT)",
       "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "SAN-2026-06 - Décision de la commission des sanctions du 20 juillet 2026 à l'égard de la société Uzès Gestion et de MM. A, B, Jean-Marie Godet et Christian Maugey",
-      "url": "https://www.amf-france.org/fr/sanctions-transactions/decisions-de-la-commission-des-sanctions/san-2026-06#xts=607212&xtor=RSS-3&type=RSS",
+      "category": "autorite_eu",
+      "title": "Survey launched by AMLA on Central Contact Points",
+      "url": "https://www.cssf.lu/en/2026/08/survey-launched-by-amla-on-central-contact-points/",
       "author": "",
-      "published": "2026-07-22T13:01:55",
-      "summary": "Décision Commission des sanctions              SAN-2026-06 - Décision de la commission des sanctions du 20 juillet 2026 à l&#039;égard de la société Uzès Gestion et de MM. A, B, Jean-Marie Godet et Christian Maugey",
+      "published": "2026-08-21T07:53:19",
+      "summary": "",
       "score": 67,
-      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
+      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Sanction de l'AMF contre Uzès Gestion et des dirigeants pour violations de la réglementation financière et des obligations de conformité."
+      "ai_summary": null
     },
     {
       "hash": "aecf6892aa661cbd",
@@ -1411,22 +1411,22 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des normes de protection des déposants dans l'UE."
     },
     {
-      "hash": "43061d51849655be",
-      "source_name": "AMLA - Anti-Money Laundering Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Frequently asked questions on the reporting package for identifying provisionally eligible entities",
-      "url": "https://www.amla.europa.eu/news-media/news-articles/frequently-asked-questions-reporting-package-identifying-provisionally-eligible-entities_en",
+      "hash": "ef2b0a1b5a457c85",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Uber condamné à 825 millions d’euros d’amende aux Pays-Bas pour la suspension automatisée de chauffeurs",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/21/uber-condamne-a-une-amende-825-millions-d-euros-d-amende-aux-pays-bas-pour-la-suspension-automatisee-de-chauffeurs_6752266_3234.html",
       "author": "",
-      "published": "2026-07-22T13:26:15",
-      "summary": "AMLA has published a document answering the questions most frequently raised about the reporting package on the identification of provisionally eligible obliged entities.",
-      "score": 67,
-      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
-      "doc_type": "RAPPORT",
-      "action_class": "info",
+      "published": "2026-08-21T15:20:24",
+      "summary": "L’affaire porte sur des incidents survenus en Europe de 2020 à 2022, à la suite d’une plainte déposée en France. Il s’agit de la deuxième plus importante sanction jamais infligée au titre du RGPD.",
+      "score": 64,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +20 Géo FR: france | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du signalement des entités obligées conformément à la lutte anti-blanchiment."
+      "ai_summary": null
     },
     {
       "hash": "93ca1714ea55bee2",
@@ -2023,24 +2023,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'effacement de sanctions financières imposées à des entreprises par les autorités."
     },
     {
-      "hash": "85a2e3af3324c4e0",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Embargos sur les produits des colonies d'Israël",
-      "url": "https://www.bfmtv.com/economie/video-embargos-sur-les-produits-des-colonies-d-israel_VN-202607220512.html",
-      "author": "",
-      "published": "2026-07-22T15:06:30",
-      "summary": "Après l'Espagne, la Belgique et l'Irlande qui les avaient restreintes, les Pays-Bas sont devenus le premier pays à interdire totalement les importations de produits issus des colonies israéliennes dans les territoires palestiniens, pour \"ne pas contribuer à cette situation illégale\".",
-      "score": 49,
-      "score_breakdown": "+20 mots critiques: embargo | +3 Presse | +10 Géo EU: espagne, pays-bas, belgique | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des restrictions commerciales imposées aux produits des colonies israéliennes."
-    },
-    {
       "hash": "05bae426c8a14980",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -2056,7 +2038,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions économiques unilatérales imposées par les États-Unis, un sujet relevant de la conformité financière et des risques de sanctions internationales."
     },
     {
       "hash": "8a33e879740e5523",
@@ -3046,7 +3028,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de fraude financière et de détournement de fonds, violations majeures des règles de gouvernance et de conformité."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de fraude financière, de détournement de fonds et de sanctions pénales contre un dirigeant d'entreprise."
     },
     {
       "hash": "b9e9d2e129a19a60",
@@ -3229,24 +3211,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la défense contre des poursuites pour violation des sanctions contre la Russie."
     },
     {
-      "hash": "bfd417a11e3ec6b3",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Ex-CEO of UK water company charged over alleged regulator fraud",
-      "url": "https://globalinvestigationsreview.com/article/ex-ceo-of-uk-water-company-charged-over-alleged-regulator-fraud",
-      "author": "Malavika Devaya",
-      "published": "2026-07-22T15:27:19",
-      "summary": "A UK court has greenlit the Environment Agency’s attempt to prosecute former executives at Southern Water for allegedly conspiring to defraud the regulator through “carefully planned and extensive fraud and dishonesty”.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'ancien PDG est poursuivi pour fraude envers le régulateur, relevant de la conformité réglementaire et financière."
-    },
-    {
       "hash": "27b5453c6fb3b941",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -3406,7 +3370,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il aborde la supervision effective, la protection des investisseurs et la transparence des marchés de capitaux européens."
     },
     {
       "hash": "e0a8bac7c11e9226",
@@ -3604,7 +3568,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "215df8e24b2c1467",
@@ -3694,7 +3658,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c405088b1feea9ed",
@@ -3712,7 +3676,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "813a3243b1af0f65",
@@ -3748,7 +3712,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "75b99ff31902aea8",
@@ -3766,7 +3730,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b670a5de2738a4cb",
@@ -3856,7 +3820,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c205f99201fce5f7",
@@ -3946,7 +3910,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "33a28adcb3bc36b0",
@@ -4471,7 +4435,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de fraude fiscale impliquant des lanceurs d'alerte."
     }
   ],
-  "last_update": "2026-08-21T13:24:30.132807+00:00",
+  "last_update": "2026-08-21T18:23:36.380182+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
