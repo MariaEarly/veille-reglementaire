@@ -1030,7 +1030,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1df0cb5ee82db97f",
@@ -1249,24 +1249,6 @@
       "ai_summary": "Cet arrêté modifie les normes comptables de l'État pour renforcer la conformité des états financiers publics."
     },
     {
-      "hash": "3d423df51c864cf2",
-      "source_name": "CSSF Luxembourg (AML/CFT)",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Survey launched by AMLA on Central Contact Points",
-      "url": "https://www.cssf.lu/en/2026/08/survey-launched-by-amla-on-central-contact-points/",
-      "author": "",
-      "published": "2026-08-21T07:53:19",
-      "summary": "",
-      "score": 67,
-      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "aecf6892aa661cbd",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -1301,24 +1283,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les mesures de conformité aux sanctions de l'UE contre la Russie, incluant les restrictions énergétiques et financières imposées."
-    },
-    {
-      "hash": "6e5f07bb4419d3d6",
-      "source_name": "Commission EU - Press",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "EU adopts 21st package of sanctions against Russia",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1680",
-      "author": "",
-      "published": "2026-07-23T14:48:16",
-      "summary": "European Commission Press release Brussels, 23 Jul 2026 Today, the European Commission welcomes the adoption by EU Member States of the 21st package of sanctions against Russia. The package further restricts Russia's ability to fund its illegal war and to carry out attacks on Ukrainian civilians and civilian infrastructure.",
-      "score": 67,
-      "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | +10 Géo EU: european commission, member state | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les sanctions imposent des restrictions sur les flux financiers vers la Russie."
     },
     {
       "hash": "ef2b0a1b5a457c85",
@@ -1411,24 +1375,6 @@
       "ai_summary": "L'article concerne l'amélioration des normes de reporting supervisoire et statistique pour la conformité réglementaire bancaire et d'assurance."
     },
     {
-      "hash": "5943f1c56541c64f",
-      "source_name": "EBA - European Banking Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "EBA E-mail alert 23 July, 2026",
-      "url": "https://www.eba.europa.eu/node/19883",
-      "author": "Anonymous",
-      "published": "2026-07-23T15:00:03",
-      "summary": "EBA E-mail alert 23 July, 2026\n\n  \n    Date\n          23/07/2026\n\n      \n\nAnonymous (not verified)\n\nThu, 07/23/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          ​The EBA consults on rules to further improve depositor protection under the revised Deposit Guarantee Schemes Directive  \n      \n\n  \n    Consultations\n          Consultation on Guidelines on investment of available financial means\n          Consultation on Implementing Technical Standards on depositor information\n   ",
-      "score": 60,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: directive | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les règles de protection des déposants, un élément clé de la conformité réglementaire bancaire."
-    },
-    {
       "hash": "b96b001d214b25e7",
       "source_name": "AMF France (X)",
       "source_type": "rss",
@@ -1465,24 +1411,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre le blanchiment et le financement du terrorisme via les crypto-actifs."
     },
     {
-      "hash": "f78479fb3b1aa35d",
-      "source_name": "AMF France (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "[#Sanctions] La Commission des sanctions de l’AMF sanctionne un conseiller en investissements financiers et ses deux dirigeants pour des manquements à leurs obligations professionnelles. Pour en savoir plus ➡️",
-      "url": "https://x.com/AMF_actu/status/2080308239544037868",
-      "author": "@AMF_actu",
-      "published": "2026-07-23T15:05:00",
-      "summary": "[ #Sanctions] La Commission des sanctions de l’AMF sanctionne un conseiller en investissements financiers et ses deux dirigeants pour des manquements à leurs obligations professionnelles.Pour en savoir plus ➡️  cutt.ly/Oyt9nljn— AMF (@AMF_actu) Jul 23, 2026",
-      "score": 60,
-      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: amf | +20 Géo FR: amf | ×1.2 (<3d)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'AMF sanctionne un conseiller en investissements pour manquements à ses obligations professionnelles, relevant de la conformité réglementaire."
-    },
-    {
       "hash": "4fda058eafe4fba2",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -1517,6 +1445,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les normes de données financières pour améliorer la conformité réglementaire bancaire."
+    },
+    {
+      "hash": "3d423df51c864cf2",
+      "source_name": "CSSF Luxembourg (AML/CFT)",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Survey launched by AMLA on Central Contact Points",
+      "url": "https://www.cssf.lu/en/2026/08/survey-launched-by-amla-on-central-contact-points/",
+      "author": "",
+      "published": "2026-08-21T07:53:19",
+      "summary": "",
+      "score": 54,
+      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "950dc37118a800eb",
@@ -1858,7 +1804,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions économiques imposées par les États-Unis contre l'Iran et ses partenaires commerciaux."
+      "ai_summary": "Cet article concerne les sanctions économiques unilatérales et les restrictions commerciales imposées aux partenaires de l'Iran, des enjeux clés de conformité financière."
     },
     {
       "hash": "8a33e879740e5523",
@@ -2111,24 +2057,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité des prestataires de services cryptographiques à la régulation MiCA et leur autorisation auprès de l'ESMA."
-    },
-    {
-      "hash": "17d9d650f6c6fc64",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "☀️⏩ Many are switching to 'summer mode', but the work goes on at the EBA Today, we published not one...but four public consultation...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7486041173875302400",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-07-23T12:55:00",
-      "summary": "☀️⏩ Many are switching to 'summer mode', but the work goes on at the EBA\n\nToday, we published not one...but four public consultations under the revised Deposit Guarantee Schemes Directive (DGSD3), marking an important step towards a more harmonised and resilient depositor protection framework across the EU.\n\nThe consultations cover:\n✅ Draft ITS on depositor information\nBetter depositor information and awareness\n✅ Draft ITS on information exchange\nEnhanced information exchange in bank failure sce",
-      "score": 45,
-      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: directive, bank | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": "CONSULTATION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'EBA publie quatre consultations publiques sur la Directive révisée sur les systèmes de garantie des dépôts, renforçant la protection des déposants."
     },
     {
       "hash": "a251806690f288cb",
@@ -2743,24 +2671,6 @@
       "ai_summary": "Cet article concerne les exigences de conformité financière EMIR sur les marges bilatérales pour les dérivés OTC non compensés."
     },
     {
-      "hash": "7d739fddc7296acc",
-      "source_name": "EBA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "☀️While many are in summer mode, the regulatory agenda keeps moving. The #EBA launched 4 consultations under #DGSD3 to strengthen depositor protection, improve crisis preparedness, and enhance financial stability across the EU. Comments by 23 Oct 2026 🔗",
-      "url": "https://x.com/EBA_News/status/2080275923203432781",
-      "author": "@EBA_News",
-      "published": "2026-07-23T12:56:00",
-      "summary": "☀️While many are in summer mode, the regulatory agenda keeps moving.The  #EBA launched 4 consultations under  #DGSD3 to strengthen depositor protection, improve crisis preparedness, and enhance financial stability across the EU.Comments by 23 Oct 2026🔗  link.europa.eu/xyQTBp Video  — EU Banking Authority - EBA 🇪🇺 (@EBA_News) Jul 23, 2026",
-      "score": 37,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": "CONSULTATION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'EBA lance 4 consultations sur la directive DGSD3 pour renforcer la protection des déposants et la stabilité financière en UE."
-    },
-    {
       "hash": "7179634e23b70d73",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -3172,7 +3082,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La supervision efficace des marchés de capitaux, la protection des investisseurs et la transparence sont des éléments clés de la conformité financière."
+      "ai_summary": "L'article traite de la supervision effective des marchés de capitaux et de la protection des investisseurs, enjeux majeurs de la conformité financière."
     },
     {
       "hash": "e0a8bac7c11e9226",
@@ -3370,7 +3280,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "215df8e24b2c1467",
@@ -3478,7 +3388,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "514997ecdd906149",
@@ -3496,7 +3406,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des pénalités et de la nécessité pour les entreprises d'améliorer leurs structures de conformité et leurs chaînes d'approvisionnement."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des pénalités et des structures de conformité face aux politiques d'application de la loi."
     },
     {
       "hash": "75b99ff31902aea8",
@@ -3514,7 +3424,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b670a5de2738a4cb",
@@ -3604,7 +3514,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c205f99201fce5f7",
@@ -3694,7 +3604,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "33a28adcb3bc36b0",
@@ -4181,45 +4091,9 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la gestion des risques systémiques et la conformité dans la gestion d'actifs souverains face aux menaces géopolitiques."
-    },
-    {
-      "hash": "4e8bb851e6795c01",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Accusé de corruption et manipulation de cours par l'ancien patron de Casino, le bureau du PDG de Carrefour, Alexandre Bompard, a été perquisitionné (le groupe le confirme)",
-      "url": "https://www.bfmtv.com/economie/entreprises/accuse-de-corruption-et-manipulation-de-cours-par-l-ancien-patron-de-casino-le-bureau-du-pdg-de-carrefour-alexandre-bompard-a-ete-perquisitionne-le-groupe-le-confirme_AD-202607230466.html",
-      "author": "",
-      "published": "2026-07-23T14:49:55",
-      "summary": "Les bureaux du PDG de Carrefour, Alexandre Bompard, ont fait l'objet de perquisitions menées par la Gendarmerie nationale il y a plusieurs mois. Cette enquête s'inscrit dans le cadre d'une information judiciaire ouverte à la suite d'une plainte de l'ex-patron de Casino, Jean-Charles Naouri, portant notamment sur des soupçons de corruption et de manipulation de cours lors d'une tentative de rapprochement en 2018. Carrefour réfute fermement l'ensemble des accusations.",
-      "score": 4,
-      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Article relevant de la conformité financière : enquête sur accusations de corruption et manipulation de cours impliquant un PDG du secteur retail."
-    },
-    {
-      "hash": "4abd6cf2de2c6dbc",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Swiss court orders new trial for cum-ex whistleblowers",
-      "url": "https://globalinvestigationsreview.com/article/swiss-court-orders-new-trial-cum-ex-whistleblowers",
-      "author": "Grace Propheta",
-      "published": "2026-07-23T12:58:48",
-      "summary": "",
-      "score": 2,
-      "score_breakdown": "+3 Presse | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de fraude fiscale impliquant des lanceurs d'alerte."
     }
   ],
-  "last_update": "2026-08-22T13:07:56.542086+00:00",
+  "last_update": "2026-08-22T18:16:25.407765+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
