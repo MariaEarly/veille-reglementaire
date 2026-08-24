@@ -1390,7 +1390,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur la modification du fichier FICP, outil de conformité bancaire et de gestion des risques de crédit."
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur la modification du fichier des incidents de remboursement de crédits aux particuliers."
     },
     {
       "hash": "d27c3c1f8211a1ce",
@@ -2398,7 +2398,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté modifie le fichier national des incidents de remboursement des crédits, concernant la conformité réglementaire bancaire et la gestion des risques de crédit."
+      "ai_summary": "Cet arrêté modifie le fichier national des incidents de remboursement de crédits, relevant de la conformité financière et de la protection des consommateurs."
     },
     {
       "hash": "65200ea46bb1c424",
@@ -2561,6 +2561,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des enquêtes légales, des sanctions et de la responsabilité des dirigeants."
+    },
+    {
+      "hash": "d6ce2c6277755c32",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Quand une société de recouvrement poursuit obstinément une personne victime d’usurpation d’identité",
+      "url": "https://www.lemonde.fr/argent/article/2026/08/24/quand-une-societe-de-recouvrement-poursuit-obstinement-une-personne-victime-d-usurpation-d-identite_6754848_1657007.html",
+      "author": "",
+      "published": "2026-08-24T04:00:08",
+      "summary": "Un fraudeur avait repris le nom, la date et le lieu de naissance d’un individu, mais utilisé une fausse pièce d’identité pour obtenir un crédit de 14 500 euros.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "b083ae3afc13fd6f",
@@ -2866,7 +2884,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les marchés de capitaux de l'UE requièrent une supervision efficace, la protection des investisseurs et la transparence pour assurer la conformité financière."
+      "ai_summary": "Cet article concerne la conformité financière car il aborde la supervision effective, la protection des investisseurs et la transparence des marchés de capitaux européens."
     },
     {
       "hash": "e0a8bac7c11e9226",
@@ -3064,7 +3082,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "215df8e24b2c1467",
@@ -3136,7 +3154,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "514997ecdd906149",
@@ -3172,7 +3190,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "2d642d79314f2438",
@@ -3226,7 +3244,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c205f99201fce5f7",
@@ -3316,7 +3334,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "33a28adcb3bc36b0",
@@ -3751,7 +3769,7 @@
       "ai_summary": "Cet article concerne la gestion des risques systémiques et la conformité dans la gestion d'actifs souverains face aux menaces géopolitiques."
     }
   ],
-  "last_update": "2026-08-24T02:05:32.038945+00:00",
+  "last_update": "2026-08-24T06:37:29.072373+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
