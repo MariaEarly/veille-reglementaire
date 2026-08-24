@@ -598,7 +598,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction pécuniaire majeure liée au non-respect de la réglementation sur la protection des données personnelles."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction pécuniaire majeure imposée à Uber pour violation de la réglementation sur les données personnelles."
     },
     {
       "hash": "79faf032ad64ea93",
@@ -1195,6 +1195,42 @@
       "ai_summary": "Cet article concerne la conformité réglementaire des banques européennes quant au calcul des exigences de fonds propres."
     },
     {
+      "hash": "8b792ac93ce0301e",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 6 août 2026 portant agrément d'une personne morale pour la délivrance d'une sensibilisation et d'une formation en sûreté portuaire",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054734793",
+      "author": "Ministère des transports",
+      "published": "2026-08-23T00:00:00",
+      "summary": "La personne morale mentionnée dans le tableau ci-après est agréée, à la date de signature du présent arrêté et jusqu'à la date précisée ci-après, pour délivrer la sensibilisation « Personnel d'une installation portuaire non chargé de tâches de sûreté » et la formation « Agent chargé des contrôles et vérifications de sûreté (ACVS) » :SA PORTS DE TOULON - LA SEYNE (« SA PTLS »)107, Boulevard Henri FABRE83 000 TOULONjusqu'au 31 décembre 2027\nLe présent arrêté sera publié au Journal officiel de la R",
+      "score": 66,
+      "score_breakdown": "+10 mots forts: agrément | +25 Source FR | +20 Géo FR: journal officiel | ×1.2 (<3d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "27b7661a61e81b3a",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 24 juillet 2026 modifiant l'arrêté du 2 février 2011 relatif à l'agrément du matériel et des sociétés installatrices de feux de signalisation, d'appareils radar, d'indicateurs de vitesse de giration et d'appareils AIS Intérieur",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054734730",
+      "author": "Ministère des transports",
+      "published": "2026-08-23T00:00:00",
+      "summary": "Les annexes 3 et 4 de l'arrêté du 2 février 2011 susvisé sont remplacée par les annexes 1 et 2 du présent arrêté.\nLe présent arrêté sera publié au Journal officiel de la République française.\nANNEXE 2LISTE DES SOCIÉTÉS INSTALLATRICES HABILITÉES POUR L'INSTALLATION ET LE CONTRÔLE DE FONCTIONNEMENT DES APPAREILS AIS INTÉRIEURSociétéAdresseTypes d'appareils agréés1AEMI8, rue des Compagnons -14000 Caen- Furuno- OceanSat2ALPHATRON MARINE FRANCE1710, chemin de la Plaine -06250 Mougins- Em-track A 100 ",
+      "score": 66,
+      "score_breakdown": "+10 mots forts: agrément | +25 Source FR | +20 Géo FR: france, français, française | ×1.2 (<3d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "ef2b0a1b5a457c85",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -1247,6 +1283,78 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation de la réglementation anti-blanchiment de capitaux."
+    },
+    {
+      "hash": "7179a258f3635cc6",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décret du 21 août 2026 portant décharge de fonctions (magistrature)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054734938",
+      "author": "Ministère de la justice",
+      "published": "2026-08-23T00:00:00",
+      "summary": "COUR D'APPEL DE NANCYTribunal judiciaire d'EpinalMme Armelle THOMAS, vice-présidente est, à compter du 1er septembre 2026, déchargée des fonctions de juge des enfants.\nLe Premier ministre et le garde des sceaux, ministre de la justice, sont responsables, chacun en ce qui le concerne, de l'application du présent décret, qui sera publié au Journal officiel de la République française.",
+      "score": 60,
+      "score_breakdown": "+5 mots moyens: ppe | +25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
+      "doc_type": "DÉCRET",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "db527709f9a6be79",
+      "source_name": "Commission EU - Sanctions FAQ",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Import ban on liquified natural gas (LNG)",
+      "url": "https://finance.ec.europa.eu/publications/import-ban-liquified-natural-gas-lng_en",
+      "author": "",
+      "published": "2026-08-24T16:40:48",
+      "summary": "FAQs on sanctions against Russia and Belarus, with focus on the following provision: Article&nbsp;3ra of Council Regulation (EU) No&nbsp;833/2014.",
+      "score": 60,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: regulation | +15 Source EU | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "54f125a5ac4aa56a",
+      "source_name": "Commission EU - Sanctions FAQ",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Oil price cap",
+      "url": "https://finance.ec.europa.eu/publications/oil-price-cap_en",
+      "author": "",
+      "published": "2026-08-24T16:39:45",
+      "summary": "FAQs on sanctions against Russia and Belarus, with focus on the following provision: Article 3n of Council Regulation (EU) No 833/2014.",
+      "score": 60,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: regulation | +15 Source EU | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "492be0965a798907",
+      "source_name": "Commission EU - Sanctions FAQ",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Infrastructure transaction ban",
+      "url": "https://finance.ec.europa.eu/publications/infrastructure-transaction-ban_en",
+      "author": "",
+      "published": "2026-08-24T16:39:10",
+      "summary": "FAQs on sanctions against Russia and Belarus, with focus on the following provision: Article 5ae of Council Regulation (EU) No 833/2014.",
+      "score": 60,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: regulation | +15 Source EU | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "9596316774d7ee66",
@@ -1357,6 +1465,60 @@
       "ai_summary": "Cet article concerne les normes de données financières pour améliorer la conformité réglementaire bancaire."
     },
     {
+      "hash": "15e11044c74da10f",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Demandes de changement de nom (Accès protégé textes 62 à 70)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054735181",
+      "author": "",
+      "published": "2026-08-23T00:00:00",
+      "summary": "En application de l'article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l'administration, les actes individuels relatifs à l'état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu'ils ne font pas l'objet d'une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  \"Accès protégé",
+      "score": 54,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: france, français, française | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "b83fbb1d9c267a3e",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 18 août 2026 modifiant le Catalogue officiel des espèces et variétés de plantes cultivées en France (semences de plantes fourragères et à gazon)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054734699",
+      "author": "Ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire",
+      "published": "2026-08-23T00:00:00",
+      "summary": "Sont inscrites au Catalogue officiel des espèces et variétés de plantes cultivées en France dont les semences peuvent être commercialisées en France (liste A), pour une durée de dix ans, les variétés désignées ci-après :EspèceDénominationResponsable(s) du maintien de la variété en sélection conservatriceLotier gazonCorneliusBarenbrug Holland BV (NL)TenessyBarenbrug Holland BV (NL)Luzerne gazonFalbalaBarenbrug Holland BV (NL)Ray-grass anglais fourrageSolenidaAgroscope (CH)Trèfle blancShannonTeaga",
+      "score": 54,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: france | ×1.2 (<3d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "0e3abc61aee868ed",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 17 août 2026 créant de nouvelles bonifications CEE pour les fiches BAR-TH-101, BAR-TH-148, BAR-TH-162 et BAR-TH-168 et modifiant la bonification relative à la fiche BAR-TH-143",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054734629",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-08-23T00:00:00",
+      "summary": "La fiche d'opération standardisée figurant en annexe A du présent arrêté remplace la fiche portant la même référence figurant en annexe 2 à l'arrêté du 22 décembre 2014 susvisé.\nL'arrêté du 29 décembre 2014 susvisé est ainsi modifié :I. - Le 2° du IV de l'article 3-6 est remplacé par :« 2° Au montant de certificats déterminé par la fiche d'opération standardisée BAR-TH-143 “Système solaire combiné (France métropolitaine)”, pour les opérations engagées avant le 1er janvier 2027, pour les logement",
+      "score": 54,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: france | ×1.2 (<3d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "3d423df51c864cf2",
       "source_name": "CSSF Luxembourg (AML/CFT)",
       "source_type": "rss",
@@ -1409,6 +1571,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il porte sur la modification du fichier des incidents de remboursement de crédits aux particuliers."
+    },
+    {
+      "hash": "8f1d6348db5b825b",
+      "source_name": "Commission EU - Sanctions FAQ",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Consolidated version",
+      "url": "https://finance.ec.europa.eu/publications/consolidated-version_en",
+      "author": "",
+      "published": "2026-08-24T16:38:34",
+      "summary": "Consolidated version of the FAQs on sanctions against Russia and Belarus.",
+      "score": 52,
+      "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "d27c3c1f8211a1ce",
@@ -1933,6 +2113,24 @@
       "ai_summary": "FinCEN s'engage à combattre la fraude dans les hospices en Californie, relevant de la conformité anti-blanchiment."
     },
     {
+      "hash": "3f6132a3b6e75814",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Soutien de la Chine à l’Iran : « Personne ne peut échapper aux sanctions américaines », déclare le secrétaire au Trésor américain",
+      "url": "https://www.lemonde.fr/international/article/2026/08/24/soutien-de-la-chine-a-l-iran-personne-ne-peut-echapper-aux-sanctions-americaines-declare-le-secretaire-au-tresor-americain_6755656_3210.html",
+      "author": "",
+      "published": "2026-08-24T18:10:53",
+      "summary": "Les pays qui ne participeraient pas aux sanctions souhaitées par les Etats-Unis « partageront l’isolement de l’Iran » a mis en garde Scott Bessent, alors que Donald Trump a appelé durant le week-end un certain nombre de pays à se joindre à sa « guerre économique ».",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "d33a66b7a6a8c1e7",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -2200,6 +2398,24 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il traite du financement du terrorisme par l'extraction de lithium au Sahel."
+    },
+    {
+      "hash": "392e34f5edc408f3",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "BAT flags active OFAC investigation",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/bat-flags-active-ofac-investigation",
+      "author": "Sam Fry",
+      "published": "2026-08-24T07:20:17",
+      "summary": "Three years after paying a $630 million fine for breaching US sanctions against North Korea, the London-headquartered tobacco company is facing another investigation by the US civil sanctions enforcer.&nbsp;&nbsp;",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: ofac | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
       "ai_summary": null
     },
     {
@@ -2434,7 +2650,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté modifie la gestion du fichier national des incidents de remboursement de crédits, relevant directement de la conformité financière et du respect des obligations légales des établissements de crédit."
+      "ai_summary": "Cet arrêté modifie la gestion du fichier national des incidents de remboursement de crédits, relevant de la conformité financière et de la prévention des risques de crédit."
     },
     {
       "hash": "65200ea46bb1c424",
@@ -2453,6 +2669,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Ce décret modifie la réglementation du crédit à la consommation, relevant de la conformité financière et de la protection des consommateurs."
+    },
+    {
+      "hash": "28e2b6413847fd76",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Removal of Syria's designation as a State Sponsor of Terrorism and Associated Sanctions List Updates; Iran-related Designations; Updates to Iran-related General Licenses | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260824",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-08-24T12:00:00",
+      "summary": "",
+      "score": 37,
+      "score_breakdown": "+20 mots critiques: sanction | +5 Source Intl | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "c71b0e1f93177385",
@@ -2545,6 +2779,24 @@
       "ai_summary": "Cet article concerne les exigences de conformité financière EMIR sur les marges bilatérales pour les dérivés OTC non compensés."
     },
     {
+      "hash": "335ddf9beb3ffd44",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décision du 20 août 2026 portant délégation de signature (service de contrôle budgétaire et comptable ministériel)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054734716",
+      "author": "Ministère de l'action et des comptes publics",
+      "published": "2026-08-23T00:00:00",
+      "summary": "M. Philippe JARRAUD, administrateur de l'Etat du grade transitoire, expert de haut niveau, chef du département de contrôle budgétaire, M. Mohamed AYAD, attaché d'administration de l'Etat hors classe, adjoint au chef du département de contrôle budgétaire, Mme Florence ETCHESSAHAR, inspectrice principale des finances publiques, Mme Christelle CONTARET, attachée principale d'administration de l'Etat, M. Julien THEVENET, attaché principal d'administration de l'Etat, Mme Isabelle MONTEILLET, Mme Fati",
+      "score": 36,
+      "score_breakdown": "+5 mots moyens: ppe | +25 Source FR | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "7179634e23b70d73",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -2597,6 +2849,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des enquêtes légales, des sanctions et de la responsabilité des dirigeants."
+    },
+    {
+      "hash": "612f20828216eca4",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Actifs numériques, or, transport maritime... Le gouvernement américain annonce de nouvelles sanctions visant des secteurs \"vitaux\" pour \"couper toutes les ressources économiques\" de l'Iran",
+      "url": "https://www.bfmtv.com/economie/international/actifs-numeriques-or-transport-maritime-le-gouvernement-americain-annonce-de-nouvelles-sanctions-visant-des-secteurs-vitaux-pour-couper-toutes-les-ressources-economiques-de-l-iran_AD-202608240723.html",
+      "author": "",
+      "published": "2026-08-24T17:38:45",
+      "summary": "Le secrétaire au Trésor américain, Scott Bessent, a annoncé une nouvelle salve de sanctions économiques pour isoler davantage le régime de Téhéran. ",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "5ce988654eda4ceb",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "\"L'Iran s'effondre complètement\": avec de nouvelles sanctions, Donald Trump espère faire craquer Téhéran sur le plan économique",
+      "url": "https://www.bfmtv.com/economie/international/l-iran-s-effondre-completement-avec-de-nouvelles-sanctions-donald-trump-espere-faire-craquer-teheran-sur-le-plan-economique_AV-202608240586.html",
+      "author": "",
+      "published": "2026-08-24T14:38:31",
+      "summary": "L'administration américaine s'apprête à annoncer une campagne de sanctions destinée à isoler économiquement l'Iran, déjà fragilisé par l'effondrement de sa monnaie et la diminution de ses exportations de pétrole.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "d6ce2c6277755c32",
@@ -2887,6 +3175,24 @@
       "ai_summary": "Cet article concerne les procédures d'auto-dénonciation en matière de conformité financière et réglementaire."
     },
     {
+      "hash": "92628bbab54e4c3e",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Avis de vacance d'un emploi de directeur départemental interministériel adjoint (direction départementale de la protection des populations du Pas-de-Calais)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054735143",
+      "author": "Ministère de l'intérieur",
+      "published": "2026-08-23T00:00:00",
+      "summary": "L'emploi de directeur départemental adjoint de la direction départementale de la protection des populations (DDPP) du Pas-de-Calais sera prochainement vacant.Intérêt du posteAu côté de la directrice départementale qu'il seconde et supplée, le directeur départemental adjoint contribue à la définition des stratégies et au pilotage de la structure. Il assiste la directrice départementale dans la mise en œuvre des politiques publiques en matière de protection des populations. Il travaille en étroite",
+      "score": 30,
+      "score_breakdown": "+25 Source FR | ×1.2 (<3d)",
+      "doc_type": "AVIS",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "1e702c9081912d53",
       "source_name": "JORF - Sanctions",
       "source_type": "rss",
@@ -2920,7 +3226,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la supervision efficace des marchés de capitaux, la protection des investisseurs et la transparence, éléments clés de la conformité financière réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière via la supervision effective des marchés de capitaux, la protection des investisseurs et la transparence réglementaire en EU."
     },
     {
       "hash": "e0a8bac7c11e9226",
@@ -2956,7 +3262,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d130abfd1310d209",
@@ -3136,7 +3442,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "215df8e24b2c1467",
@@ -3208,7 +3514,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "43d01a9564ae809a",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "FATF eyes new asset recovery, information-sharing standards",
+      "url": "https://globalinvestigationsreview.com/article/fatf-eyes-new-asset-recovery-information-sharing-standards",
+      "author": "Ana de Liz",
+      "published": "2026-08-24T14:15:09",
+      "summary": "Financial crime watchdog FATF is looking to set new standards for the countries it evaluates in a bid to improve cross-border asset recovery and public-private information sharing, its new president has said.&nbsp;",
+      "score": 19,
+      "score_breakdown": "+10 mots forts: fatf | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "514997ecdd906149",
@@ -3244,7 +3568,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "2d642d79314f2438",
@@ -3298,7 +3622,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c205f99201fce5f7",
@@ -3388,7 +3712,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "33a28adcb3bc36b0",
@@ -3515,6 +3839,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne l'arrêt permanent des exigences de déclaration de propriétaires bénéficiaires par FinCEN pour les petites entreprises."
+    },
+    {
+      "hash": "e187dc9c9fc2979c",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "DOJ moves to dismiss Freepoint DPA early",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/doj-moves-dismiss-freepoint-dpa-early",
+      "author": "Malavika Devaya",
+      "published": "2026-08-24T15:06:51",
+      "summary": "If a federal judge approves the request, the commodities trader will become the latest company to secure an expedited end to a foreign bribery-related deferred prosecution agreement since President Donald Trump returned to office.",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "78b8fa4ff3644160",
@@ -3805,6 +4147,24 @@
       "ai_summary": "Cet article concerne indirectement la compliance financière puisqu'il aborde le FCPA et la lutte contre la corruption."
     },
     {
+      "hash": "1c4c79c72ef9d76e",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "En Savoie, des montagnes saturées d’activités pendant l’été : « On est content d’accueillir les vacanciers, mais on arrive à une limite, aussi »",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/24/en-savoie-des-montagnes-saturees-d-activites-pendant-l-ete-on-est-content-d-accueillir-les-vacanciers-mais-on-arrive-a-une-limite-aussi_6755510_3244.html",
+      "author": "",
+      "published": "2026-08-24T15:00:08",
+      "summary": "Dans les départements de Savoie et de Haute-Savoie, les conflits d’usage se multiplient en juillet et en août. Certaines collectivités misent sur le dialogue et la régulation.",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "bffd3ae1e125d82c",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -3823,7 +4183,7 @@
       "ai_summary": "Cet article concerne la gestion des risques systémiques et la conformité dans la gestion d'actifs souverains face aux menaces géopolitiques."
     }
   ],
-  "last_update": "2026-08-24T13:28:35.062135+00:00",
+  "last_update": "2026-08-24T18:27:54.596383+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
