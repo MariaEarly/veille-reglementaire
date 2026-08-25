@@ -598,7 +598,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction de 825 millions d'euros imposée pour non-respect de la réglementation sur les données personnelles."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction pécuniaire majeure imposée pour violation de réglementations sur le traitement automatisé de données personnelles."
     },
     {
       "hash": "79faf032ad64ea93",
@@ -778,7 +778,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ae1866d2728e3217",
@@ -1210,7 +1210,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ab017747e3e31e3d",
@@ -1336,7 +1336,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article concerne les normes techniques pour reclasser les sociétés d'investissement en établissements de crédit, un enjeu majeur de conformité réglementaire bancaire."
     },
     {
       "hash": "db527709f9a6be79",
@@ -1444,7 +1444,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "ESMA contrôle la résilience opérationnelle numérique des prestataires de services cryptoactifs, aspect clé de la conformité réglementaire."
     },
     {
       "hash": "b96b001d214b25e7",
@@ -1534,7 +1534,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté concerne les Certificats d'Économie d'Énergie, régulant les conditions financières et les bonifications applicables aux travaux de rénovation thermique."
+      "ai_summary": "Cet arrêté concerne la conformité des Certificats d'Économie d'Énergie et leurs conditions d'application réglementaire."
     },
     {
       "hash": "3d423df51c864cf2",
@@ -1589,6 +1589,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il porte sur la modification du fichier des incidents de remboursement de crédits aux particuliers."
+    },
+    {
+      "hash": "20a655cf38d4c99d",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 25 August, 2026",
+      "url": "https://www.eba.europa.eu/node/19957",
+      "author": "Anonymous",
+      "published": "2026-08-25T15:00:03",
+      "summary": "EBA E-mail alert 25 August, 2026\n\n  \n    Date\n          25/08/2026\n\n      \n\nAnonymous (not verified)\n\nTue, 08/25/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          The EBA consults on revised technical standards for the reclassification of investment firms as credit institutions\n      \n\n  \n    Consultations\n          Consultation on Regulatory Technical Standards on prudential requirements for investment firms\n      ",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: eba | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "8f1d6348db5b825b",
@@ -1912,7 +1930,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7f4ed9cca4aabf70",
@@ -1930,7 +1948,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "db6c2cc268edc105",
@@ -2452,7 +2470,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales qui imposent des obligations de conformité aux entreprises commerciales."
     },
     {
       "hash": "a75cad2ab9458375",
@@ -2704,7 +2722,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté définit les règles de conformité administrative pour les demandes d'aide à la presse, incluant composition des dossiers et délais de réception."
+      "ai_summary": "Cet arrêté encadre administrativement les aides publiques à la presse, concernant la conformité des demandes et leurs délais de réception."
     },
     {
       "hash": "d282d8186f4c89fc",
@@ -2722,7 +2740,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4495f63f83c85352",
@@ -2740,7 +2758,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "470d8956109f85ae",
@@ -2758,7 +2776,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f4c050f1f9e31b53",
@@ -2776,7 +2794,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet arrêté définit les modalités de calcul du quotient familial pour l'accès au pass Culture, relevant de la conformité sociale et administrative."
     },
     {
       "hash": "163406ae86274683",
@@ -2794,7 +2812,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7a845915e5e3c36b",
@@ -2812,7 +2830,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0d028becc2897878",
@@ -2848,7 +2866,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté modifie la gestion du fichier des incidents de crédit aux particuliers, renforçant les obligations de conformité des établissements financiers en matière de déclaration et de prévention du risque de crédit."
+      "ai_summary": "Cet arrêté concerne la conformité financière car il modifie le fichier national des incidents de remboursement de crédits, élément clé de la gestion du risque crédit et de la conformité réglementaire bancaire."
     },
     {
       "hash": "65200ea46bb1c424",
@@ -2884,7 +2902,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales et des obligations de conformité en matière de gels d'actifs."
+      "ai_summary": "Cet article concerne les sanctions financières imposées par les États-Unis contre la Syrie et l'Iran."
     },
     {
       "hash": "c71b0e1f93177385",
@@ -2920,7 +2938,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article concerne la conformité financière car il porte sur les normes techniques réglementaires de l'EBA régissant la classification des entreprises d'investissement."
     },
     {
       "hash": "bc061b6ebe7446c8",
@@ -3082,7 +3100,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions économiques imposées par les États-Unis à l'Iran et de leurs implications pour les institutions financières."
+      "ai_summary": "Les sanctions économiques contre l'Iran relèvent de la conformité financière et des obligations de respect des régimes de sanctions internationales."
     },
     {
       "hash": "612f20828216eca4",
@@ -3100,7 +3118,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les sanctions contre l'Iran imposent aux institutions financières des obligations de conformité strictes en matière de gel d'actifs et de lutte contre le financement illégal."
+      "ai_summary": "Les sanctions américaines imposent des obligations de conformité financière aux institutions pour identifier et bloquer les transactions liées à l'Iran."
     },
     {
       "hash": "5ce988654eda4ceb",
@@ -3118,7 +3136,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les sanctions imposées à l'Iran relèvent du respect des régimes de conformité et de sanctions internationales."
+      "ai_summary": "Cet article concerne la conformité financière car les sanctions économiques contre l'Iran imposent des obligations de conformité aux acteurs financiers et commerciaux."
     },
     {
       "hash": "d6ce2c6277755c32",
@@ -3640,7 +3658,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "215df8e24b2c1467",
@@ -3712,7 +3730,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de la conformité réglementaire en matière de protection des données et de respect des obligations légales imposées aux entreprises."
     },
     {
       "hash": "43d01a9564ae809a",
@@ -3730,7 +3748,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car le FATF établit des normes pour améliorer le recouvrement transfrontalier d'actifs et le partage d'informations."
+      "ai_summary": "Le FATF développe de nouveaux standards pour améliorer la récupération transfrontalière d'actifs et le partage d'informations public-privé."
     },
     {
       "hash": "514997ecdd906149",
@@ -3766,7 +3784,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "2d642d79314f2438",
@@ -3820,7 +3838,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c205f99201fce5f7",
@@ -3857,24 +3875,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des réformes de supervision bancaire et des mesures de contrôle réglementaire européennes."
-    },
-    {
-      "hash": "d3a463870ce0bf00",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Judge axes bulk of Adani case, blasts DOJ official for “lack of respect”",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/judge-axes-bulk-of-adani-case-blasts-doj-official-lack-of-respect",
-      "author": "Malavika Devaya",
-      "published": "2026-08-10T19:18:29",
-      "summary": "In a biting order, District Judge Nicholas Garaufis agreed to nix fraud charges against the Indian billionaire and two others but called out a senior DOJ official for a “highly unusual” review process and asked for further justification to decide whether remaining FCPA and obstruction charges should be dismissed.",
-      "score": 15,
-      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: doj, fcpa | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "331b6c37ec657dc3",
@@ -3928,7 +3928,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "33a28adcb3bc36b0",
@@ -4363,6 +4363,24 @@
       "ai_summary": "Cet article concerne indirectement la compliance financière puisqu'il aborde le FCPA et la lutte contre la corruption."
     },
     {
+      "hash": "f693db6fb638b621",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Full Play owners sign individual DPAs in Fifa bribery case",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/full-play-owners-sign-individual-dpas-in-fifa-bribery-case",
+      "author": "Estelle Atkinson",
+      "published": "2026-08-25T16:20:51",
+      "summary": "More than a decade after being indicted, the pair have admitted to devising a scheme to “pay tens of millions of dollars in commercial bribes” to football executives.",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "efc7360ae4eb403e",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -4378,25 +4396,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "1c4c79c72ef9d76e",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "En Savoie, des montagnes saturées d’activités pendant l’été : « On est content d’accueillir les vacanciers, mais on arrive à une limite, aussi »",
-      "url": "https://www.lemonde.fr/planete/article/2026/08/24/en-savoie-des-montagnes-saturees-d-activites-pendant-l-ete-on-est-content-d-accueillir-les-vacanciers-mais-on-arrive-a-une-limite-aussi_6755510_3244.html",
-      "author": "",
-      "published": "2026-08-24T15:00:05",
-      "summary": "Dans les départements de Savoie et de Haute-Savoie, les conflits d’usage se multiplient en juillet et en août. Certaines collectivités misent sur le dialogue et la régulation.",
-      "score": 4,
-      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires liées à la corruption dans le football, un enjeu majeur de conformité."
     },
     {
       "hash": "bffd3ae1e125d82c",
@@ -4415,9 +4415,27 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la gestion des risques systémiques et la conformité dans la gestion d'actifs souverains face aux menaces géopolitiques."
+    },
+    {
+      "hash": "1c4c79c72ef9d76e",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "En Savoie, des montagnes saturées d’activités pendant l’été : « On est content d’accueillir les vacanciers, mais on arrive à une limite, aussi »",
+      "url": "https://www.lemonde.fr/planete/article/2026/08/24/en-savoie-des-montagnes-saturees-d-activites-pendant-l-ete-on-est-content-d-accueillir-les-vacanciers-mais-on-arrive-a-une-limite-aussi_6755510_3244.html",
+      "author": "",
+      "published": "2026-08-24T15:00:05",
+      "summary": "Dans les départements de Savoie et de Haute-Savoie, les conflits d’usage se multiplient en juillet et en août. Certaines collectivités misent sur le dialogue et la régulation.",
+      "score": 3,
+      "score_breakdown": "+3 Presse | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     }
   ],
-  "last_update": "2026-08-25T13:25:56.493122+00:00",
+  "last_update": "2026-08-25T18:26:18.601751+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
