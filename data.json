@@ -598,7 +598,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction pécuniaire majeure imposée à Uber pour violation de la réglementation sur les données personnelles."
+      "ai_summary": "Cet article concerne la conformité financière car il rapporte une amende de 825 millions d'euros pour violation de la réglementation sur les décisions automatisées."
     },
     {
       "hash": "79faf032ad64ea93",
@@ -997,6 +997,24 @@
       "ai_summary": "Cet article traite de la conformité AML/LCB-FT en Malaisie et des sanctions imposées par la banque centrale pour non-respect des obligations."
     },
     {
+      "hash": "2168db636ad8a9c0",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décision du 24 août 2026 portant délégation de signature (centre des prestations financières)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054743181",
+      "author": "Ministère de l'intérieur",
+      "published": "2026-08-25T00:00:00",
+      "summary": "Délégation est donnée à M. Julien Picard, conseiller d'administration de l'intérieur et de l'outre-mer, chef du centre des prestations financières, directement placé sous l'autorité de la sous-directrice de la performance financière, à l'effet de signer, au nom du ministre de l'intérieur, les actes comptables (notamment les actes de certification de service fait, les engagements, les ordonnances de paiement, de virement, de délégation, les pièces justificatives de dépenses, les ordres de recette",
+      "score": 75,
+      "score_breakdown": "+5 mots moyens: paiement | +25 Source FR | +20 Géo FR: outre-mer | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "1df0cb5ee82db97f",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1141,6 +1159,24 @@
       "ai_summary": "UBS a reçu une amende record pour violations répétées de la loi antiblanchiment et du Secret Banking Act."
     },
     {
+      "hash": "7768d2b800720dda",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Avis relatif à un transfert partiel de portefeuille de contrats d'une entreprise d'assurance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054743495",
+      "author": "Autorité de contrôle prudentiel",
+      "published": "2026-08-25T00:00:00",
+      "summary": "Par application des dispositions de l'article L. 324-1 du code des assurances, la société AXA ASSISTANCE FRANCE ASSURANCES (SIREN : 451 392 724), dont le siège social est situé à MALAKOFF (92240), 8-10, rue Paul-Vaillant-Couturier, a présenté une demande tendant à l'approbation du transfert d'une partie de son portefeuille de contrats, avec les droits et obligations qui s'y rapportent, à la société INTER PARTNER ASSISTANCE (SIREN : 316 139 500), dont le siège social est situé à Malakoff (92240),",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: france | ×1.5 (<24h)",
+      "doc_type": "AVIS",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "ab017747e3e31e3d",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -1210,7 +1246,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "27b7661a61e81b3a",
@@ -1228,7 +1264,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ef2b0a1b5a457c85",
@@ -1300,7 +1336,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "db527709f9a6be79",
@@ -1318,7 +1354,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions financières imposées à la Russie et Biélorussie, relevant de la conformité réglementaire."
     },
     {
       "hash": "54f125a5ac4aa56a",
@@ -1336,7 +1372,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur les sanctions de l'UE contre la Russie et la Biélorussie, notamment les obligations de conformité réglementaire."
     },
     {
       "hash": "492be0965a798907",
@@ -1354,7 +1390,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il explique les sanctions contre la Russie et la Biélorussie selon la réglementation UE."
     },
     {
       "hash": "9596316774d7ee66",
@@ -1480,7 +1516,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b83fbb1d9c267a3e",
@@ -1498,7 +1534,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0e3abc61aee868ed",
@@ -1516,7 +1552,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet arrêté concerne la conformité réglementaire des Certificats d'Économie d'Énergie en définissant les bonifications applicables aux fiches d'opération standardisées."
     },
     {
       "hash": "3d423df51c864cf2",
@@ -1588,7 +1624,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité aux sanctions internationales imposées par l'UE contre la Russie et la Biélorussie."
     },
     {
       "hash": "d27c3c1f8211a1ce",
@@ -1861,6 +1897,60 @@
       "ai_summary": "Cet article traite des réformes de Singapour contre la criminalité financière, la lutte anti-blanchiment et la conformité du secteur financier."
     },
     {
+      "hash": "aa2da3a86c8c81f2",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 21 juillet 2026 modifiant l'arrêté du 21 novembre 2024 fixant les modalités de versement de l'aide financière prévue à l'article L. 822-1-1 du code de l'éducation",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054743357",
+      "author": "Ministère de l'enseignement supérieur, de la recherche et de l'espace",
+      "published": "2026-08-25T00:00:00",
+      "summary": "A la deuxième phrase de l'article 1er de l'arrêté du 21 novembre 2024 susvisé, le mot : « mensuellement » est supprimé.\nL'article 3 du même arrêté est ainsi modifié :1° Au premier alinéa du I, le mot : « mensuellement » est supprimé ;2° Au II :a) Au 1°, les mots : « est versée mensuellement, de septembre à juin, par alimentation d'une carte de paiement ; » sont remplacés par les mots : « comprend deux versements forfaitaires correspondant aux périodes de septembre à janvier et de février à juin,",
+      "score": 45,
+      "score_breakdown": "+5 mots moyens: paiement | +25 Source FR | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "6ab3b2a6c5274a59",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décision n° 2026-911 DC du 14 août 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054743009",
+      "author": "Conseil constitutionnel",
+      "published": "2026-08-25T00:00:00",
+      "summary": "(LOI VISANT À PROTÉGER LES MINEURS DES RISQUES AUXQUELS LES EXPOSE L'UTILISATION DES RÉSEAUX SOCIAUX)Le Conseil constitutionnel a été saisi, dans les conditions prévues au deuxième alinéa de l'article 61 de la Constitution, de la loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux, sous le n° 2026-911 DC, le 23 juillet 2026, par Mmes Mathilde PANOT, Nadège ABOMANGOLI, MM. Laurent ALEXANDRE, Gabriel AMARD, Mmes Ségolène AMIOT, Farida AMRANI, MM. Rod",
+      "score": 45,
+      "score_breakdown": "+5 mots moyens: risque | +25 Source FR | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "7f4ed9cca4aabf70",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "LOI n° 2026-813 du 24 août 2026 visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (1)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054743001",
+      "author": "",
+      "published": "2026-08-25T00:00:00",
+      "summary": "[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2026-911 DC du 14 août 2026.]\nI. - Le code pénal est ainsi modifié :1° Au 6° du II de l'article 131-35-1, après la référence : « 223-13, », est insérée la référence : « 223-14, » ;2° Après le mot : « loi », la fin de l'article 711-1 est ainsi rédigée : « n° 2026-813 du 24 août 2026 visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux, en Nouvelle-Calédo",
+      "score": 45,
+      "score_breakdown": "+5 mots moyens: risque | +25 Source FR | ×1.5 (<24h)",
+      "doc_type": "LOI",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "db6c2cc268edc105",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1913,24 +2003,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Ce décret concerne la conformité financière car il réalloue des crédits budgétaires entre programmes, assurant la conformité des dépenses publiques."
-    },
-    {
-      "hash": "f312159d9bc321fa",
-      "source_name": "JORF - Blanchiment",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 24 juillet 2026 portant homologation de deux normes d'exercice professionnel révisées relatives à la mission du commissaire aux comptes nommé pour trois exercices prévue à l'article L. 821-57 du code de commerce et à la mission du commissaire aux comptes nommé pour six exercices dans des petites entreprises",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054486542",
-      "author": "Ministère de la justice",
-      "published": "2026-07-26T00:00:00",
-      "summary": "Article 1I. - La norme d'exercice professionnel relative à la mission du commissaire aux comptes nommé pour trois exercices prévue à l'article L. 821-57 du code de commerce, adoptée par le collège de la Haute Autorité de l'audit le 2 juillet 2026, est homologuée.II. - La norme d'exercice professionnel relative à la mission du commissaire aux comptes nommé pour six exercices dans des petites entreprises, adoptée par le collège de la Haute Autorité de l'audit le 2 juillet 2026, est homologuée.Arti",
-      "score": 45,
-      "score_breakdown": "+5 mots moyens: audit | +25 Source FR | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet arrêté homologue des normes d'exercice professionnel pour les commissaires aux comptes, garantissant la conformité des audits financiers légaux."
     },
     {
       "hash": "72e3cd700940385a",
@@ -2128,7 +2200,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales et de leurs implications pour les institutions financières."
     },
     {
       "hash": "d33a66b7a6a8c1e7",
@@ -2416,7 +2488,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "BAT fait face à une enquête OFAC pour non-conformité aux sanctions américaines contre la Corée du Nord."
     },
     {
       "hash": "2cb0f071f9ce2c2c",
@@ -2617,6 +2689,132 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions économiques et des restrictions commerciales imposées à la Russie."
     },
     {
+      "hash": "d282d8186f4c89fc",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décision n° 2026-BO-08 du 16 juillet 2026 autorisant l'association Uzeste Musical à exploiter un service de radio temporaire par voie hertzienne terrestre en modulation de fréquence dénommé Radio Uz",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054743499",
+      "author": "Autorité de régulation de la communication audiovisuelle et numérique",
+      "published": "2026-08-25T00:00:00",
+      "summary": "L'association Uzeste Musical est autorisée à utiliser la fréquence mentionnée en annexe, conformément à la convention conclue avec l'ARCOM Bordeaux et dans le respect des conditions fixées à l'annexe de la présente décision, en vue de l'exploitation d'un service de radio temporaire par voie hertzienne terrestre dénommé Radio Uz en modulation de fréquence.\nCette autorisation est délivrée à compter du 17 août 2026 et jusqu'au 23 août 2026.\nI. - Le titulaire de la présente autorisation est tenu de ",
+      "score": 37,
+      "score_breakdown": "+25 Source FR | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "4495f63f83c85352",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Groupes politiques",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054743524",
+      "author": "",
+      "published": "2026-08-25T00:00:00",
+      "summary": "SénatEFFECTIFS DES GROUPES DU SÉNAT(348 sièges - 348 élus)Groupe Les Républicains 131Membres101(1)Apparentés15Rattachés administrativement15(1)Groupe Socialiste, Écologiste et Républicain64Membres63Apparenté1Groupe Union Centriste59Membres52Apparentés4Rattachés administrativement3Groupe Les Indépendants - République et Territoires20Membres20Groupe Rassemblement des Démocrates, Progressistes et Indépendants19Membres17Apparentés2Groupe Communiste Républicain Citoyen et Écologiste - Kanaky18Membres",
+      "score": 37,
+      "score_breakdown": "+25 Source FR | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "470d8956109f85ae",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 23 juillet 2026 portant établissement de la liste d'aptitude au titre de l'examen professionnel d'administrateur territorial (session 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054743516",
+      "author": "Centre national de la fonction publique territoriale",
+      "published": "2026-08-25T00:00:00",
+      "summary": "Par arrêté du président du Centre national de la fonction publique territoriale en date du 23 juillet 2026, est ajouté, à compter du 1er septembre 2026, à la liste d'aptitude prise par l'arrêté 23 juin 2026 portant établissement de la liste d'aptitude au titre de l'examen professionnel d'administrateur territorial (session 2026), à compter du 1er juillet 2026, la lauréate suivante :Mme DELECROIX (Anne-Sophie).",
+      "score": 37,
+      "score_breakdown": "+25 Source FR | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "f4c050f1f9e31b53",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 3 juillet 2026 portant application de l'article 3 du décret n° 2021-628 du 20 mai 2021 modifié relatif au « pass Culture »",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054743327",
+      "author": "Ministère de la culture",
+      "published": "2026-08-25T00:00:00",
+      "summary": "Pour l'application du 3° de l'article 3 du décret du 20 mai 2021 susvisé, le quotient familial est calculé selon les modalités définies aux dispositions du deuxième au dixième alinéas du II de l'article 1er du décret n° 2024-277 du 28 mars 2024 susvisé, à l'exception de l'année civile retenue pour son calcul mentionnée au deuxième alinéa.Le quotient familial est calculé au titre de l'année civile du dix-septième anniversaire du bénéficiaire par l'organisme compétent mentionné à l'article 5-1 du ",
+      "score": 37,
+      "score_breakdown": "+25 Source FR | ×1.5 (<24h)",
+      "doc_type": "DÉCRET",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "163406ae86274683",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décret n° 2026-815 du 24 août 2026 modifiant le décret n° 2018-786 du 12 septembre 2018 relatif à certaines attributions du préfet coordonnateur du plan national d'actions sur le loup",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054743191",
+      "author": "Ministère de la transition écologique, de la biodiversité et des négociations internationales sur le climat et la nature",
+      "published": "2026-08-25T00:00:00",
+      "summary": "Le décret du 12 septembre 2018 susvisé est ainsi modifié :1° A l'article 1er :a) Au premier alinéa, après le mot : « départements », sont insérés les mots : « ou déclarés auprès d'eux » ;b) La première phrase du second alinéa est remplacée par deux phrases ainsi rédigées : « Par dérogation aux dispositions des articles 2, 66 et 69 du décret n° 2004-374 du 29 avril 2004 susvisé, il peut suspendre, par arrêté, pour une période qu'il précise pouvant aller jusqu'à la fin de l'année civile en cours, ",
+      "score": 37,
+      "score_breakdown": "+25 Source FR | ×1.5 (<24h)",
+      "doc_type": "DÉCRET",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "d9e035bbcec63aa5",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 10 août 2026 relatif à la composition des dossiers de demande d'aide au pluralisme de la presse périodique régionale et locale et à leur date limite de réception",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054743343",
+      "author": "Ministère de la culture",
+      "published": "2026-08-25T00:00:00",
+      "summary": "La date limite de réception des demandes d'aide au pluralisme de la presse périodique régionale et locale mentionnée à l'article 4 du décret du 26 novembre 2004 susvisé est fixée au 31 mai de l'année d'attribution de l'aide. Toutefois, pour l'année 2026, la date limite de réception des demandes est fixée au 30 septembre.\nLes demandes d'aide sont transmises par les éditeurs de presse à la direction générale des médias et des industries culturelles exclusivement par voie numérique sur la plateform",
+      "score": 37,
+      "score_breakdown": "+25 Source FR | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "7a845915e5e3c36b",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décret n° 2026-814 du 24 août 2026 relatif aux compétences du préfet de police et du préfet de Corse",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054743041",
+      "author": "Ministère de l'intérieur",
+      "published": "2026-08-25T00:00:00",
+      "summary": "Le 1° et le 2° du I de l'article 73 du décret du 29 avril 2004 susvisé sont remplacés par les dispositions suivantes :« 1° Il y exerce les attributions dévolues au représentant de l'Etat dans le département par :« a) Le code général des collectivités territoriales aux articles L. 2214-4 et L. 2215-1 ;« b) Le code de la construction et de l'habitation à l'article L. 442-4-3 et par l'article 9-2 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs ;« c) Le code des poste",
+      "score": 37,
+      "score_breakdown": "+25 Source FR | ×1.5 (<24h)",
+      "doc_type": "DÉCRET",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "0d028becc2897878",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -2650,7 +2848,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté modifie la gestion du fichier national des incidents de remboursement de crédits, relevant de la conformité financière et de la prévention des risques de crédit."
+      "ai_summary": "Cet arrêté concerne la conformité financière car il modifie les règles du fichier national des incidents de remboursement de crédits, élément clé du contrôle prudentiel."
     },
     {
       "hash": "65200ea46bb1c424",
@@ -2686,7 +2884,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il détaille les changements de sanctions et les obligations de conformité liées aux désignations géopolitiques."
     },
     {
       "hash": "c71b0e1f93177385",
@@ -2794,7 +2992,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il établit les délégations de signature pour le contrôle budgétaire et comptable ministériel."
     },
     {
       "hash": "7179634e23b70d73",
@@ -2851,6 +3049,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des enquêtes légales, des sanctions et de la responsabilité des dirigeants."
     },
     {
+      "hash": "794727a55e8c6d89",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Les Etats-Unis annoncent de nouvelles sanctions pour « couper toutes les ressources économiques » de l’Iran",
+      "url": "https://www.lemonde.fr/international/article/2026/08/24/les-etats-unis-annoncent-de-nouvelles-sanctions-pour-couper-toutes-les-ressources-economiques-de-l-iran_6755656_3211.html",
+      "author": "",
+      "published": "2026-08-24T18:52:50",
+      "summary": "Les pays qui ne participeraient pas aux sanctions souhaitées par les Etats-Unis « partageront l’isolement » du régime de Téhéran, a mis en garde Scott Bessent, le secrétaire au Trésor américain, lundi. De son côté, l’Iran a assuré disposer d’un « plan sur deux ans » pour contrer les sanctions.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "612f20828216eca4",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -2866,7 +3082,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les sanctions américaines contre l'Iran imposent des obligations de conformité aux institutions financières pour respecter les restrictions commerciales et éviter les pénalités."
     },
     {
       "hash": "5ce988654eda4ceb",
@@ -2884,7 +3100,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car les sanctions imposées à l'Iran obligent les institutions financières à respecter les régulations de gel d'actifs et de restriction commerciale."
     },
     {
       "hash": "d6ce2c6277755c32",
@@ -3190,7 +3406,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1e702c9081912d53",
@@ -3226,7 +3442,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière via la supervision effective des marchés de capitaux, la protection des investisseurs et la transparence réglementaire en EU."
+      "ai_summary": "La supervision efficace des marchés de capitaux, la protection des investisseurs et la transparence sont des éléments clés de la conformité financière réglementaire."
     },
     {
       "hash": "e0a8bac7c11e9226",
@@ -3262,7 +3478,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d130abfd1310d209",
@@ -3442,7 +3658,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "215df8e24b2c1467",
@@ -3514,7 +3730,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "43d01a9564ae809a",
@@ -3532,7 +3748,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La FATF développe de nouvelles normes pour améliorer la récupération transfrontalière d'actifs et le partage d'informations public-privé en matière de lutte contre la criminalité financière."
     },
     {
       "hash": "514997ecdd906149",
@@ -3568,7 +3784,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2d642d79314f2438",
@@ -3622,7 +3838,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c205f99201fce5f7",
@@ -3712,7 +3928,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "33a28adcb3bc36b0",
@@ -3856,7 +4072,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Le DOJ cherche à mettre fin anticipativement un accord de poursuite différée pour corruption étrangère, ce qui concerne directement la conformité financière et anticorruption."
     },
     {
       "hash": "78b8fa4ff3644160",
@@ -4147,6 +4363,24 @@
       "ai_summary": "Cet article concerne indirectement la compliance financière puisqu'il aborde le FCPA et la lutte contre la corruption."
     },
     {
+      "hash": "efc7360ae4eb403e",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Full Play owners surface in Fifa bribery case",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/full-play-owners-surface-in-fifa-bribery-case",
+      "author": "Estelle Atkinson",
+      "published": "2026-08-24T19:42:28",
+      "summary": "The father-son sports marketing duo have retained powerhouse counsel as they enter the proceedings a decade after their indictment in Brooklyn federal court.",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "1c4c79c72ef9d76e",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -4162,7 +4396,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bffd3ae1e125d82c",
@@ -4183,7 +4417,7 @@
       "ai_summary": "Cet article concerne la gestion des risques systémiques et la conformité dans la gestion d'actifs souverains face aux menaces géopolitiques."
     }
   ],
-  "last_update": "2026-08-24T19:08:20.106810+00:00",
+  "last_update": "2026-08-25T00:42:25.538764+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
