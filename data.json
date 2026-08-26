@@ -580,7 +580,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "601f601bdfebc5b9",
@@ -616,7 +616,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction administrative majeure pour violations réglementaires relatives aux décisions automatisées."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction de 825 millions d'euros imposée pour non-respect de la réglementation sur les données personnelles."
     },
     {
       "hash": "79faf032ad64ea93",
@@ -761,24 +761,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article traite de la supervision réglementaire et de la conformité des innovations financières par l'autorité de contrôle prudentiel."
-    },
-    {
-      "hash": "003cc7836c7585e8",
-      "source_name": "AMF - Actualités",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Entrée en application du règlement européen MiCA : quelles conséquences pour les détenteurs de cryptos ?",
-      "url": "https://www.amf-france.org/fr/espace-epargnants/actualites-mises-en-garde/entree-en-application-du-reglement-europeen-mica-quelles-consequences-pour-les-detenteurs-de-cryptos#xts=607212&xtor=RSS-3&type=RSS",
-      "author": "",
-      "published": "2026-07-27T09:26:54",
-      "summary": "Actualité                  Crypto-actifs              MiCA              Prestataires financiers                    Entrée en application du règlement européen MiCA : quelles conséquences pour les détenteurs de cryptos ?",
-      "score": 90,
-      "score_breakdown": "+20 mots forts: mica, crypto | +5 mots moyens: règlement | +25 Source FR | +10 Géo EU: règlement européen, mica | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "MiCA impose des obligations de conformité financière aux prestataires de crypto-actifs et renforce la protection des détenteurs."
     },
     {
       "hash": "ae1866d2728e3217",
@@ -1069,6 +1051,24 @@
       "ai_summary": "Cet article traite de la conformité financière en abordant comment les innovations numériques s'intègrent aux pratiques bancaires réglementées."
     },
     {
+      "hash": "3a51f39917cb11de",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "​The EBA consults on draft technical standards on institutions’ operational risk management",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-draft-technical-standards-institutions-operational-risk-management",
+      "author": "Jana Jaklic",
+      "published": "2026-08-26T08:37:24",
+      "summary": "​The European Banking Authority (EBA) today launched a public consultation on draft Regulatory Technical Standards (RTS) specifying the operational risk management framework that institutions must have in place as per Article 323 of the Capital Requirements Regulation (CRR3). The draft RTS set out harmonised, proportionate requirements for the governance, management process and systems institutions should use to identify, assess, monitor and manage operational risk. The consultation runs until 3",
+      "score": 75,
+      "score_breakdown": "+10 mots forts: eba | +15 mots moyens: risk, regulation, bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "d52971b239dcb163",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -1177,6 +1177,24 @@
       "ai_summary": "UBS a reçu une amende record pour violations répétées de la loi antiblanchiment et du Secret Banking Act."
     },
     {
+      "hash": "eb90118117ec2507",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Demandes de changement de nom (Accès protégé textes 81 à 90)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054747471",
+      "author": "",
+      "published": "2026-08-26T00:00:00",
+      "summary": "En application de l'article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l'administration, les actes individuels relatifs à l'état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu'ils ne font pas l'objet d'une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  \"Accès protégé",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: france, français, française | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
       "hash": "e88ff223f7ce41b6",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -1192,7 +1210,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "776369f834654dc3",
@@ -1210,7 +1228,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7176ec8c7f42ca8d",
@@ -1228,7 +1246,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5ab23ae36a136e9a",
@@ -1246,7 +1264,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e7ef30d113445b89",
@@ -1262,24 +1280,6 @@
       "score_breakdown": "+25 Source FR | +20 Géo FR: france, français, française | ×1.5 (<24h)",
       "doc_type": "DÉCRET",
       "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "eb90118117ec2507",
-      "source_name": "JORF - Blanchiment",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Demandes de changement de nom (Accès protégé textes 81 à 90)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054747471",
-      "author": "",
-      "published": "2026-08-26T00:00:00",
-      "summary": "En application de l'article L. 221-14, et des articles R. 221-15 et R. 221-16 pris après avis de la CNIL, du code des relations entre le public et l'administration, les actes individuels relatifs à l'état et à la nationalité des personnes ne peuvent être publiés au Journal officiel de la République française, que dans des conditions garantissant qu'ils ne font pas l'objet d'une indexation par des moteurs de recherche. Les actes concernés sont accessibles sur le site Légifrance en  \"Accès protégé",
-      "score": 67,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: france, français, française | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
       "status": "new",
       "early_brief": false,
       "ai_summary": null
@@ -1426,7 +1426,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des normes techniques réglementaires pour reclasser les entreprises d'investissement en établissements de crédit."
+      "ai_summary": "L'article concerne les normes techniques de reclassement des entreprises d'investissement en établissements de crédit selon les seuils d'actifs."
     },
     {
       "hash": "db527709f9a6be79",
@@ -1735,24 +1735,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la validation et du suivi du modèle de marge initiale standard ISDA par l'EBA."
     },
     {
-      "hash": "920b125e758ec4f7",
-      "source_name": "Commission EU - DG FISMA",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "EU adopts 21th package of sanctions against Russia",
-      "url": "https://finance.ec.europa.eu/news/eu-adopts-21th-package-sanctions-against-russia-2026-07-23_en",
-      "author": "",
-      "published": "2026-07-27T08:47:00",
-      "summary": "The Commission welcomes the Council's adoption of&nbsp;the&nbsp;21th&nbsp;Russia sanctions package, that further restricts Russia's ability to fund its illegal war and to carry out attacks on Ukrainian civilians and&nbsp;civilian&nbsp;infrastructure.",
-      "score": 52,
-      "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions financières contre la Russie visant à restreindre son financement de la guerre en Ukraine."
-    },
-    {
       "hash": "e5e0c83ffc50d639",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -1984,7 +1966,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "94454be2114b6769",
@@ -2002,7 +1984,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "aa2da3a86c8c81f2",
@@ -2255,6 +2237,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "FinCEN s'engage à combattre la fraude dans les hospices en Californie, relevant de la conformité anti-blanchiment."
+    },
+    {
+      "hash": "64956d09a6d49d63",
+      "source_name": "ComplyAdvantage",
+      "source_type": "press",
+      "category": "presse",
+      "title": "ComplyAdvantage named Leader across multiple G2 Grid® Fall 2026 reports",
+      "url": "https://complyadvantage.com/press-media/complyadvantage-named-leader-across-multiple-g2-grid-fall-2026-reports/",
+      "author": "Audrey Langevin",
+      "published": "2026-08-26T10:00:46",
+      "summary": "G2&#8217;s latest report places ComplyAdvantage in 32 categories with nine Leader badges, two #1 rankings, and six Top 3 placements, including a first-time feature in the Financial Fraud Prevention category &#8211; its strongest showing yet. NEW YORK, August 25, 2026 [&#8230;]\nThe post ComplyAdvantage named Leader across multiple G2 Grid® Fall 2026 reports appeared first on ComplyAdvantage.",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: fraud | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "3f6132a3b6e75814",
@@ -2542,7 +2542,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions économiques internationales imposées par les États-Unis, un enjeu majeur de conformité financière et de respect des régimes restrictifs."
+      "ai_summary": "Les sanctions américaines contre les partenaires commerciaux de l'Iran relèvent de la conformité aux régimes de sanctions internationales."
     },
     {
       "hash": "a75cad2ab9458375",
@@ -2779,60 +2779,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions économiques et des restrictions commerciales imposées à la Russie."
     },
     {
-      "hash": "8dc3be3b60323fd2",
-      "source_name": "JORF - Blanchiment",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décret n° 2026-819 du 25 août 2026 relatif à la présidence des sections et à la commission permanente du Conseil d'Etat",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054746744",
-      "author": "Ministère de la justice",
-      "published": "2026-08-26T00:00:00",
-      "summary": "Au début de l'article R. 121-3 du code de justice administrative, est ajouté un alinéa ainsi rédigé :« Les présidents de section ne peuvent assurer la présidence d'une même section pendant une durée supérieure à cinq ans. »\nA la troisième phrase du deuxième alinéa de l'article R. 123-6 du même code, après les mots : « ils sont affectés », sont insérés les mots : « les présidents de section ayant assuré pendant cinq ans la présidence d'une section ainsi que ».\nLe premier alinéa de l'article R. 12",
-      "score": 37,
-      "score_breakdown": "+25 Source FR | ×1.5 (<24h)",
-      "doc_type": "DÉCRET",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "6b204a58ba22dc4b",
-      "source_name": "JORF - Blanchiment",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Groupes politiques",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054747280",
-      "author": "",
-      "published": "2026-08-26T00:00:00",
-      "summary": "SénatEFFECTIFS DES GROUPES DU SÉNAT(348 sièges - 348 élus)Groupe Les Républicains 131Membres101Apparentés15Rattachés administrativement15Groupe Socialiste, Écologiste et Républicain64Membres63Apparenté1Groupe Union Centriste59Membres52Apparentés4Rattachés administrativement3Groupe Les Indépendants - République et Territoires20Membres20Groupe Communiste Républicain Citoyen et Écologiste - Kanaky18Membres18Groupe Rassemblement des Démocrates, Progressistes et Indépendants18(1)Membres16(1)Apparenté",
-      "score": 37,
-      "score_breakdown": "+25 Source FR | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "b655604f2c25a746",
-      "source_name": "JORF - Blanchiment",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décision n° 2026-RM-18 du 29 juillet 2026 portant reconduction de l'autorisation délivrée à l'association RMJ pour l'exploitation d'un service de radio de catégorie B par voie hertzienne terrestre en modulation de fréquence dénommée RMJ Africa",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054747244",
-      "author": "Autorité de régulation de la communication audiovisuelle et numérique",
-      "published": "2026-08-26T00:00:00",
-      "summary": ".L'autorisation accordée par la décision n° 2017-105 du 22 février 2017 pour l'exploitation d'un service de radio par voie hertzienne terrestre en modulation de fréquence dénommé RMJ Africa est à nouveau reconduite pour une durée de cinq ans, à compter du 14 mars 2027.\nL'association RMJ est autorisée à utiliser les fréquences mentionnées en annexe, conformément à la convention et aux annexes de la présente décision.\n1° Sur demande expresse de l'ARCOM le titulaire de la présente autorisation est ",
-      "score": 37,
-      "score_breakdown": "+25 Source FR | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "650a80a09735a535",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -2851,6 +2797,60 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du transfert de portefeuille d'assurance par fusion, soumis à approbation réglementaire."
     },
     {
+      "hash": "8dc3be3b60323fd2",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décret n° 2026-819 du 25 août 2026 relatif à la présidence des sections et à la commission permanente du Conseil d'Etat",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054746744",
+      "author": "Ministère de la justice",
+      "published": "2026-08-26T00:00:00",
+      "summary": "Au début de l'article R. 121-3 du code de justice administrative, est ajouté un alinéa ainsi rédigé :« Les présidents de section ne peuvent assurer la présidence d'une même section pendant une durée supérieure à cinq ans. »\nA la troisième phrase du deuxième alinéa de l'article R. 123-6 du même code, après les mots : « ils sont affectés », sont insérés les mots : « les présidents de section ayant assuré pendant cinq ans la présidence d'une section ainsi que ».\nLe premier alinéa de l'article R. 12",
+      "score": 37,
+      "score_breakdown": "+25 Source FR | ×1.5 (<24h)",
+      "doc_type": "DÉCRET",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "6b204a58ba22dc4b",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Groupes politiques",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054747280",
+      "author": "",
+      "published": "2026-08-26T00:00:00",
+      "summary": "SénatEFFECTIFS DES GROUPES DU SÉNAT(348 sièges - 348 élus)Groupe Les Républicains 131Membres101Apparentés15Rattachés administrativement15Groupe Socialiste, Écologiste et Républicain64Membres63Apparenté1Groupe Union Centriste59Membres52Apparentés4Rattachés administrativement3Groupe Les Indépendants - République et Territoires20Membres20Groupe Communiste Républicain Citoyen et Écologiste - Kanaky18Membres18Groupe Rassemblement des Démocrates, Progressistes et Indépendants18(1)Membres16(1)Apparenté",
+      "score": 37,
+      "score_breakdown": "+25 Source FR | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "b655604f2c25a746",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décision n° 2026-RM-18 du 29 juillet 2026 portant reconduction de l'autorisation délivrée à l'association RMJ pour l'exploitation d'un service de radio de catégorie B par voie hertzienne terrestre en modulation de fréquence dénommée RMJ Africa",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054747244",
+      "author": "Autorité de régulation de la communication audiovisuelle et numérique",
+      "published": "2026-08-26T00:00:00",
+      "summary": ".L'autorisation accordée par la décision n° 2017-105 du 22 février 2017 pour l'exploitation d'un service de radio par voie hertzienne terrestre en modulation de fréquence dénommé RMJ Africa est à nouveau reconduite pour une durée de cinq ans, à compter du 14 mars 2027.\nL'association RMJ est autorisée à utiliser les fréquences mentionnées en annexe, conformément à la convention et aux annexes de la présente décision.\n1° Sur demande expresse de l'ARCOM le titulaire de la présente autorisation est ",
+      "score": 37,
+      "score_breakdown": "+25 Source FR | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "6d8490bd35aa136a",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -2866,7 +2866,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8bc9ca7c4a1aa2be",
@@ -2884,7 +2884,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "17ce900d0cf699ee",
@@ -2902,7 +2902,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d9e035bbcec63aa5",
@@ -3013,24 +3013,6 @@
       "ai_summary": "Cet article concerne les sanctions financières imposées par les États-Unis contre la Syrie et l'Iran."
     },
     {
-      "hash": "c71b0e1f93177385",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Sanctions List Removals; Sanctions List Updates | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260727",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-07-27T12:00:00",
-      "summary": "",
-      "score": 37,
-      "score_breakdown": "+20 mots critiques: sanction | +5 Source Intl | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les modifications des listes de sanctions de l'OFAC, directement pertinentes pour la conformité financière."
-    },
-    {
       "hash": "5563306a30bbaae2",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -3046,7 +3028,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'EBA consulte sur des normes techniques réglementaires pour reclasser certaines sociétés d'investissement en établissements de crédit selon le seuil d'actifs de 30 milliards EUR."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de normes techniques réglementaires de l'EBA sur la classification des entreprises d'investissement."
     },
     {
       "hash": "bc061b6ebe7446c8",
@@ -3193,6 +3175,42 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des enquêtes légales, des sanctions et de la responsabilité des dirigeants."
     },
     {
+      "hash": "c5f633b443ba2ee7",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Ils représentent trois quarts des 723 millions d'euros de fraudes détectées: un rapport préconise à l'Assurance maladie de plus se concentrer sur les professionnels de santé et moins sur les particuliers",
+      "url": "https://www.bfmtv.com/economie/economie-social/ils-representent-trois-quarts-des-723-millions-d-euros-de-fraudes-detectees-un-rapport-preconise-a-l-assurance-maladie-de-plus-se-concentrer-sur-les-professionnels-de-sante-et-moins-sur-les-particuliers_AD-202608260452.html",
+      "author": "",
+      "published": "2026-08-26T12:12:38",
+      "summary": "En 2025, les professionnels de santé libéraux représentaient 73,5% des 723 millions d'euros de fraudes détectées et stoppées par l'Assurance maladie, contre 16% pour les particuliers.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "62c67537071cc368",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "TikTok flags sanctions self-disclosures",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/tiktok-flags-sanctions-self-disclosures",
+      "author": "Ana de Liz",
+      "published": "2026-08-26T09:10:45",
+      "summary": "",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "794727a55e8c6d89",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -3226,7 +3244,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions économiques qui imposent des obligations de conformité en matière de gel d'actifs et de restrictions commerciales."
+      "ai_summary": "Cet article concerne la conformité financière car les sanctions imposées par les États-Unis créent des obligations de conformité pour les institutions financières."
     },
     {
       "hash": "5ce988654eda4ceb",
@@ -3244,7 +3262,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les sanctions économiques imposées à l'Iran obligent les institutions financières à respecter les régimes de conformité et les listes de restriction."
+      "ai_summary": "Cet article concerne les sanctions économiques contre l'Iran, un élément clé de la conformité aux régimes de sanctions internationales et à la prévention du financement du terrorisme."
     },
     {
       "hash": "d6ce2c6277755c32",
@@ -3766,7 +3784,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "215df8e24b2c1467",
@@ -3838,7 +3856,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la lutte contre le blanchiment de capitaux et le financement du terrorisme, domaines clés de la conformité financière."
     },
     {
       "hash": "6b02bdd602a70b4b",
@@ -3910,7 +3928,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2d642d79314f2438",
@@ -3964,7 +3982,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c205f99201fce5f7",
@@ -4054,7 +4072,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "33a28adcb3bc36b0",
@@ -4486,7 +4504,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les propriétaires acceptent des accords de culpabilité dans une affaire de corruption, démontrant un manquement grave aux normes de conformité."
     },
     {
       "hash": "efc7360ae4eb403e",
@@ -4504,7 +4522,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires pour corruption dans le football, relevant du risque de conformité anticorruption."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires liées à la corruption dans le football."
     },
     {
       "hash": "bffd3ae1e125d82c",
@@ -4525,7 +4543,7 @@
       "ai_summary": "Cet article concerne la gestion des risques systémiques et la conformité dans la gestion d'actifs souverains face aux menaces géopolitiques."
     }
   ],
-  "last_update": "2026-08-26T07:23:01.247773+00:00",
+  "last_update": "2026-08-26T12:35:46.976406+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
