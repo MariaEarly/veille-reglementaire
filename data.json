@@ -1120,7 +1120,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7768d2b800720dda",
@@ -1609,24 +1609,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des normes réglementaires sur les marges bilatérales."
     },
     {
-      "hash": "29b2a07bbc3f3284",
-      "source_name": "Tracfin (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "#DicoTracfin 🔎 | Le signalement globalisé : mieux partager l'information pour mieux orienter les contrôles de nos partenaires. Pou...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7488867813768642560",
-      "author": "Tracfin",
-      "published": "2026-07-31T08:07:03",
-      "summary": "#DicoTracfin 🔎 | Le signalement globalisé : mieux partager l'information pour mieux orienter les contrôles de nos partenaires.\nPour être plus efficacement exploitées, certaines informations gagnent à être regroupées et transmises sous une forme harmonisée.\n\n🤝 C'est l'objectif du signalement globalisé : partager avec les administrations partenaires une série d'informations portant sur une thématique donnée, afin de faire ressortir des situations à risque ou des incohérences susceptibles de révéle",
-      "score": 52,
-      "score_breakdown": "+10 mots forts: tracfin | +5 mots moyens: risque | +20 Géo FR: tracfin | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne le partage harmonisé d'informations de conformité entre partenaires pour améliorer l'efficacité des contrôles financiers."
-    },
-    {
       "hash": "b3a7817030cf3fcf",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -1733,24 +1715,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Revolut fait face à des défis de conformité car les régulateurs s'inquiètent du blanchiment d'argent et compliquent ses licences."
-    },
-    {
-      "hash": "8c95a20f27684657",
-      "source_name": "ComplyAdvantage",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Joana Santos",
-      "url": "https://complyadvantage.com/author-bio/joana-santos/",
-      "author": "Audrey Langevin",
-      "published": "2026-07-31T09:43:23",
-      "summary": "Joana Santos is the Director of Data Science at ComplyAdvantage. Joana started in astrophysics research, moved into enterprise AI and LLM deployments at Microsoft, and now leads data science at ComplyAdvantage, building AI for financial crime compliance. \nThe post Joana Santos appeared first on ComplyAdvantage.",
-      "score": 49,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | +15 IA×Finance: llm+compliance | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Joana Santos dirige la data science chez ComplyAdvantage pour développer des solutions IA de conformité aux règles anti-blanchiment."
     },
     {
       "hash": "1995f8ed465aac50",
@@ -1967,24 +1931,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des normes de rapports financiers de l'UE et des évolutions réglementaires."
-    },
-    {
-      "hash": "5464ea6642f0ed6a",
-      "source_name": "ESMA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📩 #Newsletter time! →  🛡️ End of #MiCA transitional period ✂️ Simplifying transaction reporting ⚙️ Preparations ahead of T+1 settlement 📘 #AnnualReportESMA 🤖 Major ICT-related incidents under #DORA ✅ EuroCTP authorised as CTP for shares and ETFs",
-      "url": "https://x.com/ESMAComms/status/2083109892936581174",
-      "author": "@ESMAComms",
-      "published": "2026-07-31T08:37:00",
-      "summary": "📩  #Newsletter time! →  link.europa.eu/kKT4hH🛡️ End of  #MiCA transitional period✂️ Simplifying transaction reporting⚙️ Preparations ahead of T+1 settlement📘  #AnnualReportESMA 🤖 Major ICT-related incidents under  #DORA✅ EuroCTP authorised as CTP for shares and ETFs— ESMA - EU Securities Markets Regulator 🇪🇺 (@ESMAComms) Jul 31, 2026",
-      "score": 45,
-      "score_breakdown": "+20 mots forts: mica, dora, esma | +10 Géo EU: esma, dora, mica | ×1.5 (<24h)",
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde MiCA, la déclaration de transactions, DORA et la régulation des marchés."
     },
     {
       "hash": "a251806690f288cb",
@@ -2815,6 +2761,24 @@
       "ai_summary": "FinCEN propose de révoquer l'accès bancaire correspondant de Banque Misr UAE aux institutions financières américaines."
     },
     {
+      "hash": "66545c1d2b521ebc",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "58% des entreprises ont déjà choisi leur plateforme (qui ne sera finalement pas gratuite): la facturation électronique débute le 1er septembre, malgré l'embarrassant piratage du fisc",
+      "url": "https://www.bfmtv.com/economie/entreprises/58-des-entreprises-ont-deja-choisi-leur-plateforme-qui-ne-sera-finalement-pas-gratuite-la-facturation-electronique-debute-le-1er-septembre-malgre-l-embarrassant-piratage-du-fisc_AD-202608300143.html",
+      "author": "",
+      "published": "2026-08-30T08:31:15",
+      "summary": "La facturation électronique entre entreprises entrera bien en vigueur mardi 1er septembre mais, après l'embarrassant piratage du fisc cet été, Bercy a décidé d'être magnanime avec les retardataires, qui ne seront pas sanctionnés avant 2027. ",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "ad7364f8db5777ac",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -3067,24 +3031,6 @@
       "ai_summary": "Cet article concerne la gestion des risques tarifaires et leur conformité réglementaire dans un environnement commercial changeant."
     },
     {
-      "hash": "27b5453c6fb3b941",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "La BCE publie les enseignements de l’exercice de « reverse stress test » conduit sur le risque géopolitique avec les principales banques européennes - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOV9pTC16ZUpvcmtUZno1TTAwMGRCNExuV2NyLXBXS3ZHdVdkS0ZZQkc0U1Q5aktEemNzMkcxa1VwSDc4MjE5N2FtbmcyQ2trc2l5N2E5eDN5Vi14Y2xBMnFvWkhLaEZTSFV0a3Y1VUJUTXdnTlVhdVY1a3VLblI3RkhNeVBPVXhjSXZWWWhUeEIwcm91eXJDbFBRajFUd1ZMa2tpWjRkVmtKUEUxanlXaE1LZUF0emNqZFgwY19FdUhWT2VhWm4zSzNTT0hvVmZBeUl5RlRDN2RqZDhf?oc=5",
-      "author": "",
-      "published": "2026-07-31T07:00:00",
-      "summary": "La BCE publie les enseignements de l’exercice de « reverse stress test » conduit sur le risque géopolitique avec les principales banques européennes&nbsp;&nbsp;Banque de France",
-      "score": 33,
-      "score_breakdown": "+10 mots moyens: risque, banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La BCE évalue la résilience des banques face aux risques géopolitiques via des tests de conformité prudentielle."
-    },
-    {
       "hash": "5d6d382188256b5e",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -3226,7 +3172,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d130abfd1310d209",
@@ -3370,7 +3316,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il détaille les obligations de signalement des institutions face au blanchiment lié au vol de carburant mexicain."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de conformité BSA face aux schémas de blanchiment liés au vol de carburant mexicain."
     },
     {
       "hash": "16dbddd4e5f23f64",
@@ -3388,7 +3334,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0ea043b4ef2c24be",
@@ -3607,24 +3553,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des réformes de supervision bancaire et des mesures de contrôle réglementaire européennes."
     },
     {
-      "hash": "331b6c37ec657dc3",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🇧🇬 🇪🇺 During a recent visit to Bulgaria, ECB Supervisory Board Chair Claudia Buch spoke to @novatv_bg about the transition to the euro, banking supervision and the challenges posed by today’s geopolitical environment. Watch the interview (in Bulgarian)",
-      "url": "https://x.com/ecb/status/2083123991649083737",
-      "author": "@ecb",
-      "published": "2026-07-31T09:33:00",
-      "summary": "🇧🇬 🇪🇺 During a recent visit to Bulgaria, ECB Supervisory Board Chair Claudia Buch spoke to  @novatv_bg about the transition to the euro, banking supervision and the challenges posed by today’s geopolitical environment.Watch the interview (in Bulgarian)  nova.bg/news/view/2026/07/23…— European Central Bank (@ecb) Jul 31, 2026",
-      "score": 15,
-      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La supervision bancaire par la BCE et les défis de conformité réglementaire liés à la transition vers l'euro en Bulgarie."
-    },
-    {
       "hash": "6d3963a2ca60afe8",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
@@ -3640,7 +3568,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "33a28adcb3bc36b0",
@@ -4147,7 +4075,7 @@
       "ai_summary": "Cet article concerne la gestion des risques systémiques et la conformité dans la gestion d'actifs souverains face aux menaces géopolitiques."
     }
   ],
-  "last_update": "2026-08-30T05:35:56.390013+00:00",
+  "last_update": "2026-08-30T10:56:10.998536+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
