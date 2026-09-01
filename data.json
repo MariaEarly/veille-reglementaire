@@ -565,6 +565,24 @@
   ],
   "items": [
     {
+      "hash": "7b56a5117f36f00e",
+      "source_name": "AMF - Actualités",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "L'AMF alerte les professionnels sur une campagne de mails frauduleux en cours",
+      "url": "https://www.amf-france.org/fr/actualites-publications/actualites/lamf-alerte-les-professionnels-sur-une-campagne-de-mails-frauduleux-en-cours#xts=607212&xtor=RSS-3&type=RSS",
+      "author": "",
+      "published": "2026-09-01T15:11:44",
+      "summary": "Actualité                  Usurpation              Mise en garde                    L&#039;AMF alerte les professionnels sur une campagne de mails frauduleux en cours",
+      "score": 100,
+      "score_breakdown": "+20 mots critiques: fraud | +10 mots forts: amf | +25 Source FR | +20 Géo FR: amf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "L'AMF met en garde contre des mails frauduleux visant les professionnels, relevant de la conformité en matière de lutte anti-fraude."
+    },
+    {
       "hash": "601f601bdfebc5b9",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -961,6 +979,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du cadre de collecte de données sur l'éligibilité à la supervision directe par l'AMLA."
     },
     {
+      "hash": "5fb26e02bda37fc4",
+      "source_name": "AMF France (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "[Mise en garde] ⚠️ L’AMF alerte le public sur une campagne de mails frauduleux en cours usurpant son identité. Si vous recevez le type de mails ci-dessous, ne donnez pas suite ! ⬇️ #Usurpation #Arnaque",
+      "url": "https://x.com/AMF_actu/status/2094790598192419223",
+      "author": "@AMF_actu",
+      "published": "2026-09-01T14:12:00",
+      "summary": "[Mise en garde] ⚠️ L’AMF alerte le public sur une campagne de mails frauduleux en cours usurpant son identité.Si vous recevez le type de mails ci-dessous, ne donnez pas suite ! ⬇️ #Usurpation  #Arnaque— AMF (@AMF_actu) Sep 1, 2026",
+      "score": 75,
+      "score_breakdown": "+20 mots critiques: fraud | +10 mots forts: amf | +20 Géo FR: amf | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "1f584a79040e4271",
       "source_name": "AMF France (X)",
       "source_type": "rss",
@@ -994,7 +1030,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité AML et sanctions en montrant comment les régulateurs examinent le contrôle réel des actifs au-delà de la structure juridique."
+      "ai_summary": "Les décisions de la CJEU sur les structures de confiance renforcent l'obligation de transparence bénéficiaire en matière de conformité AML et sanctions."
     },
     {
       "hash": "62e79a768620ab42",
@@ -1084,7 +1120,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7768d2b800720dda",
@@ -1372,7 +1408,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0e3abc61aee868ed",
@@ -2905,6 +2941,24 @@
       "ai_summary": "Cet article concerne la gestion des risques tarifaires et leur conformité réglementaire dans un environnement commercial changeant."
     },
     {
+      "hash": "aeffcc7f33219732",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
+      "author": "Jana Jaklic",
+      "published": "2026-08-03T09:15:00",
+      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a final report on draft Regulatory Technical Standards (RTS), proposing to simplify the bilateral margin requirements of the European Commission’s Delegated Regulation (EU) 2016/2251.",
+      "score": 33,
+      "score_breakdown": "+20 mots forts: eba, esma | +10 mots moyens: regulation, supervisory | +15 Source EU | +10 Géo EU: european commission, eba, esma | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "5d6d382188256b5e",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -3262,7 +3316,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "43d01a9564ae809a",
@@ -3931,7 +3985,7 @@
       "ai_summary": "Cet article concerne la gestion des risques systémiques et la conformité dans la gestion d'actifs souverains face aux menaces géopolitiques."
     }
   ],
-  "last_update": "2026-09-01T11:52:08.136277+00:00",
+  "last_update": "2026-09-01T15:46:43.477975+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
