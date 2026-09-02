@@ -1030,7 +1030,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il analyse comment les décisions judiciaires européennes impactent l'application des règles anti-blanchiment et sanctions."
+      "ai_summary": "Cet article traite de la conformité AML/sanctions en analysant comment les régulateurs évaluent le contrôle réel des actifs."
     },
     {
       "hash": "62e79a768620ab42",
@@ -1390,7 +1390,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ec5fd883baf2db5a",
@@ -1408,7 +1408,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0e3abc61aee868ed",
@@ -2164,7 +2164,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Austrac enquête sur Western Union pour des manquements à ses obligations de lutte contre le blanchiment d'argent."
     },
     {
       "hash": "8ba1fe584f891ef3",
@@ -2974,7 +2974,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les autorités superviseurs proposent des amendements aux exigences de marge bilatérale pour simplifier la conformité réglementaire aux normes financières européennes."
+      "ai_summary": "Les autorités de supervision européennes proposent des amendements aux exigences de marge bilatérale, relevant de la conformité réglementaire financière."
     },
     {
       "hash": "5d6d382188256b5e",
@@ -3334,7 +3334,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "43d01a9564ae809a",
@@ -3499,24 +3499,6 @@
       "ai_summary": "Le FinCEN renouvelle un ordre de ciblage géographique au Minnesota pour lutter contre le blanchiment d'argent."
     },
     {
-      "hash": "8b3f1b7170fffb36",
-      "source_name": "FinCEN",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "FinCEN Assesses Historic $125 Million Penalty Against UBS Financial Services Inc. for Recidivist BSA Violations",
-      "url": "https://www.fincen.gov/news/news-releases/fincen-assesses-historic-125-million-penalty-against-ubs-financial-services-inc",
-      "author": "",
-      "published": "2026-08-03T00:00:00",
-      "summary": "",
-      "score": 12,
-      "score_breakdown": "+5 Source Intl | +3 Géo Intl: fincen | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "FinCEN impose une amende de 125 millions de dollars à UBS pour violations répétées de la loi antiblanchiment."
-    },
-    {
       "hash": "f73b81136af60222",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3587,6 +3569,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne l'arrêt permanent des exigences de déclaration de propriétaires bénéficiaires par FinCEN pour les petites entreprises."
+    },
+    {
+      "hash": "7acfb4ae13bd14d0",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "DOJ slams “sensationally false accusations” of silencing coal exec at FCPA trial",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/doj-slams-sensationally-false-accusations-of-silencing-coal-exec-fcpa-trial",
+      "author": "Estelle Atkinson",
+      "published": "2026-09-01T16:06:42",
+      "summary": "Prosecutors said they acted in good faith at Charles Hunter Hobson’s foreign bribery trial, pushing back on “unprofessional” allegations that his constitutional rights were violated.&nbsp;",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: doj, fcpa | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "5f27004e5f2f3be5",
@@ -3946,7 +3946,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de corruption et de pots-de-vin dans un contrat public majeur."
     },
     {
       "hash": "6b68efd2195fb360",
@@ -4021,7 +4021,7 @@
       "ai_summary": "Cet article concerne la gestion des risques systémiques et la conformité dans la gestion d'actifs souverains face aux menaces géopolitiques."
     }
   ],
-  "last_update": "2026-09-01T21:10:43.373138+00:00",
+  "last_update": "2026-09-02T01:59:02.439038+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
