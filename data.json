@@ -601,6 +601,24 @@
       "ai_summary": "L'AMF met en garde contre les faux articles de presse promouvant des arnaques financières visant les épargnants."
     },
     {
+      "hash": "d25dee1354bf5022",
+      "source_name": "CNIL",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Violation de données en matière de santé : sanction de 500 000 euros à l’encontre de l’HÔPITAL PRIVÉ DE LA LOIRE",
+      "url": "https://www.cnil.fr/fr/sanction-hopital-prive-loire",
+      "author": "CNIL",
+      "published": "2026-09-03T12:00:00",
+      "summary": "Le 3 septembre 2026, la CNIL a prononcé une sanction de 500&amp;nbsp;000&amp;nbsp;€ à l’encontre de l’HÔPITAL PRIVÉ DE LA LOIRE, pour ne pas avoir pris des mesures adaptées pour assurer la sécurité des données de ses patients et de certains de leurs proches.",
+      "score": 97,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: cnil | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
       "hash": "be0cf504cac664f4",
       "source_name": "CNIL",
       "source_type": "rss",
@@ -1084,7 +1102,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7768d2b800720dda",
@@ -1357,24 +1375,6 @@
       "ai_summary": "La lutte contre la corruption dans la fonction publique relève de la conformité réglementaire et de la gestion des risques de fraude institutionnelle."
     },
     {
-      "hash": "d94064f11776f133",
-      "source_name": "Ministère de la Justice (CJIP)",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "La justice pénale des mineurs",
-      "url": "https://www.justice.gouv.fr/justice-france/justice-mineurs/justice-penale-mineurs",
-      "author": "Anonyme",
-      "published": "2026-08-31T14:07:56",
-      "summary": "La justice pénale des mineurs\nAnonyme (non vérifié)\nlun 31/08/2026 - 16:07\n\n9 minutes\n\n            La justice pénale des mineurs repose sur plusieurs grands principes. Une procédure spécifique s’applique lorsqu’un mineur a commis une infraction. Les étapes du procès sont différentes de celles qui concernent une personne majeure et les sanctions sont centrées sur l’éducation.\n\n            \n\n  \n\n\n  \n                \n\n\n\n\n  Les grands principes de la justice pénale des mineurs\n        Les grands pri",
-      "score": 54,
-      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "0e3abc61aee868ed",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -1552,7 +1552,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des amendes de l'OFSI pour violations de sanctions, montrant l'importance des contrôles et systèmes de conformité."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions et des défaillances de contrôles internes chez une banque."
     },
     {
       "hash": "6be74a926882573e",
@@ -1714,7 +1714,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "aa2da3a86c8c81f2",
@@ -1733,6 +1733,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet arrêté concerne la conformité financière car il fixe les modalités de versement d'une aide financière, notamment la fréquence des paiements."
+    },
+    {
+      "hash": "427c817a3f423337",
+      "source_name": "EDPB - European Data Protection Board",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)",
+      "url": "https://www.edpb.europa.eu/news/data-protection-commission-announces-final-decision-following-inquiry-into-the-health-service_en",
+      "author": "EDPB",
+      "published": "2026-09-03T12:00:00",
+      "summary": "Background informationDate of final decision: 28 August 2026National caseLegal Reference(s): Article 5 (Principles relating to processing of personal data), Article 32 (Security of processing), Article 33 (Notification of a personal data breach to the supervisory authority), Article 34 (Communication of a personal data breach to the data subject)Decision: Administrative fine, Compliance order, Communication order personal data breachKey words: GDPR enforcement, Data subjects rights, Fines, Healt",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: supervisory | +15 Source EU | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "acc3d709601181ec",
@@ -1787,42 +1805,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'AMF a traité 2 772 litiges en 2025 sur produits d'épargne, relevant de la conformité réglementaire et de la protection des investisseurs."
-    },
-    {
-      "hash": "d27e3b7b659defe1",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🚨 Preparing for FRTB implementation? The EBA has published a no-action letter and technical considerations to support the smooth a...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7490317509359988736",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-08-04T08:07:38",
-      "summary": "🚨 Preparing for FRTB implementation?\n\nThe EBA has published a no-action letter and technical considerations to support the smooth and proportionate implementation of the revised market risk framework across the EU.\n\nThe objective is clear: to avoid fragmented approaches across Member States and provide greater certainty to institutions as they prepare for the new requirements.\n\nThe measures focus on:\n🔹 The boundary between the banking book and trading book\n🔹 Internal risk transfers\n🔹 Related rep",
-      "score": 45,
-      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: risk, bank | +10 Géo EU: eba, member state | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la mise en œuvre du cadre FRTB, un régulation prudentielle bancaire."
-    },
-    {
-      "hash": "fc20e9b8e6d935cc",
-      "source_name": "ESMA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📣 The European Supervisory Authorities call for enhanced governance and consistent supervision to address ICT risks from frontier #AI models →  🔐 The statement outlines measures to strengthen #cyber resilience across the #financial sector.",
-      "url": "https://x.com/ESMAComms/status/2084547848444461158",
-      "author": "@ESMAComms",
-      "published": "2026-08-04T07:51:00",
-      "summary": "📣 The European Supervisory Authorities call for enhanced governance and consistent supervision to address ICT risks from frontier  #AI models →  link.europa.eu/fpJYpy🔐 The statement outlines measures to strengthen  #cyber resilience across the  #financial sector.— ESMA - EU Securities Markets Regulator 🇪🇺 (@ESMAComms) Aug 4, 2026",
-      "score": 45,
-      "score_breakdown": "+10 mots forts: esma | +10 mots moyens: risk, supervisory | +10 Géo EU: esma | ×1.5 (<24h)",
-      "doc_type": "CONSULTATION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des risques ICT liés à l'IA et de la résilience cyber du secteur financier."
     },
     {
       "hash": "a251806690f288cb",
@@ -2527,24 +2509,6 @@
       "ai_summary": "L'article concerne la conformité réglementaire financière via le cadre de reporting ISDASIMM sous EMIR3, incluant la validation des modèles."
     },
     {
-      "hash": "9ff37725af562601",
-      "source_name": "EBA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🚨 The #EBA has issued a no-action letter and technical considerations to support a consistent and proportionate #FRTB implementation across the EU ✅ Less complexity ✅ More consistency ✅ Greater clarity for firms preparing for 2027 👉",
-      "url": "https://x.com/EBA_News/status/2084553814699303404",
-      "author": "@EBA_News",
-      "published": "2026-08-04T08:15:00",
-      "summary": "🚨 The  #EBA has issued a no-action letter and technical considerations to support a consistent and proportionate  #FRTB implementation across the EU✅ Less complexity✅ More consistency✅ Greater clarity for firms preparing for 2027👉  link.europa.eu/Jdvf3y— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Aug 4, 2026",
-      "score": 37,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'EBA guide l'implémentation proportionnée de la régulation FRTB pour assurer la conformité bancaire harmonisée en UE d'ici 2027."
-    },
-    {
       "hash": "335ddf9beb3ffd44",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -2614,7 +2578,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les sanctions contre la Russie impliquent des obligations de conformité réglementaire et de contrôle des transactions financières."
+      "ai_summary": "Cet article concerne la conformité financière car les sanctions contre la Russie impactent directement les obligations de conformité et de respect des régimes de sanctions des entreprises."
     },
     {
       "hash": "9f1f7529835a35fc",
@@ -2632,7 +2596,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions commerciales et de leur application, éléments clés de la conformité réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'application des sanctions commerciales et de la surveillance réglementaire du respect des obligations légales."
     },
     {
       "hash": "f03baa24813232bb",
@@ -3139,6 +3103,42 @@
       "ai_summary": "Belem propose des solutions d'assurance pour couvrir les risques cyber, IA et cryptomonnaies, relevant de la gestion des risques financiers."
     },
     {
+      "hash": "0f38c321645fb815",
+      "source_name": "AMF France (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Entrée en application du règlement européen MiCA : quelles conséquences pour les détenteurs de #cryptoactifs ? Que faut-il vérifier ? Nos explications ➡️  #Crypto",
+      "url": "https://x.com/AMF_actu/status/2084651232023527498",
+      "author": "@AMF_actu",
+      "published": "2026-08-04T14:42:00",
+      "summary": "Entrée en application du règlement européen MiCA : quelles conséquences pour les détenteurs de  #cryptoactifs ? Que faut-il vérifier ?Nos explications ➡️  cutt.ly/uyuLhlqI #Crypto— AMF (@AMF_actu) Aug 4, 2026",
+      "score": 27,
+      "score_breakdown": "+20 mots forts: amf, mica, crypto | +5 mots moyens: règlement | +20 Géo FR: amf | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "20969900642eca8f",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Le coffre-fort : Maurgane Nlandu - Clarity Act, la réglementation crypto aux États-Unis - 03/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/le-coffre-fort-maurgane-nlandu-clarity-act-la-reglementation-crypto-aux-etats-unis-03-09_EN-202609030410.html",
+      "author": "",
+      "published": "2026-09-03T09:36:24",
+      "summary": "Ce jeudi 3 septembre, Antoine Larigaudrie vous présente le coffre-fort dans son émission Tout pour investir sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.",
+      "score": 24,
+      "score_breakdown": "+10 mots forts: crypto | +3 Presse | +3 Géo Intl: états-unis | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "2d62e93ad04ae693",
       "source_name": "Money Laundering News",
       "source_type": "press",
@@ -3193,24 +3193,6 @@
       "ai_summary": "Cet article concerne les litiges contractuels entre entités commerciales, hors du périmètre de la conformité financière réglementaire."
     },
     {
-      "hash": "6503cf430bc5fa9d",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "What could wars and cyberattacks mean for your savings? In the latest episode of Euro Matters, host Paul Gordon speaks with Supervisory Board member Sharon Donnery about how safe your money is if something unexpected happens to your bank",
-      "url": "https://x.com/ecb/status/2084549972054213091",
-      "author": "@ecb",
-      "published": "2026-08-04T08:00:00",
-      "summary": "What could wars and cyberattacks mean for your savings?In the latest episode of Euro Matters, host Paul Gordon speaks with Supervisory Board member Sharon Donnery about how safe your money is if something unexpected happens to your bank  pod.link/ecbpodcast/episode/…— European Central Bank (@ecb) Aug 4, 2026",
-      "score": 22,
-      "score_breakdown": "+15 mots moyens: supervisory, bank, ppe | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la sécurité des dépôts bancaires et de la protection des clients en cas de crise."
-    },
-    {
       "hash": "88a41d2d5fe1572d",
       "source_name": "CSSF Luxembourg (AML/CFT)",
       "source_type": "rss",
@@ -3258,6 +3240,24 @@
       "summary": "Hej, Stockholm!👋\nComing to you from Paris, the #EBA is making its Swedish EU Career Fair debut!  🎓🚀\nOn 2 October, our HR colleagues will be in Stockholm at the Swedish Council for Higher Education (UHR) for the EU Career Fair.\n\nCurious about what it’s like to work at the EBA? Wondering about career opportunities, traineeships or the recruitment process? Come chat with us! 🗨️  \n\n📍 Upplev Europa, Kulturhuset, Sergels Torg 7, Stockholm\n📅 2 October 2026, 10:00–15:00 ➡️ EBA presentation at 12:58 ⌚ \n🔗",
       "score": 20,
       "score_breakdown": "+10 mots forts: eba | +10 Géo EU: eba | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "09790038ee5dfcaa",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "L'intégrale de Tout pour investir du jeudi 3 septembre",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-patrimoine/l-integrale-de-tout-pour-investir-du-jeudi-3-septembre_EN-202609030418.html",
+      "author": "",
+      "published": "2026-09-03T09:44:44",
+      "summary": "Ce jeudi 3 septembre, Antoine Larigaudrie a reçu Marie Damourette, directrice de l'Ingénierie patrimoniale de Neuflize OBC, Éric Lewin, stratégiste actions Bourse Direct, et Maurgane Nlandu, fondatrice de Cryptos-360, dans l'émission Tout pour investir sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.",
+      "score": 19,
+      "score_breakdown": "+10 mots forts: crypto | +3 Presse | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
@@ -3460,7 +3460,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il concerne la confidentialité des déclarations d'activités suspectes et les communications avec les clients."
+      "ai_summary": "Cet article traite de la conformité financière car il aborde les obligations de confidentialité des déclarations de soupçons et les communications avec la clientèle."
     },
     {
       "hash": "f65380b0acecc7db",
@@ -3478,7 +3478,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "FinCEN impose aux prestataires de services monétaires à la frontière sud une transparence accrue, matérialisant une obligation de conformité réglementaire essentielle."
+      "ai_summary": "FinCEN réglemente la transparence des prestataires de services monétaires à la frontière sud pour la conformité anti-blanchiment."
     },
     {
       "hash": "33a28adcb3bc36b0",
@@ -3586,7 +3586,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du renforcement de l'unité FCPA chargée de poursuivre la corruption et les pots-de-vin internationaux."
     },
     {
       "hash": "7acfb4ae13bd14d0",
@@ -4021,7 +4021,7 @@
       "ai_summary": "Cet article concerne la gestion des risques systémiques et la conformité dans la gestion d'actifs souverains face aux menaces géopolitiques."
     }
   ],
-  "last_update": "2026-09-03T04:48:42.554515+00:00",
+  "last_update": "2026-09-03T10:23:45.649169+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
