@@ -601,24 +601,6 @@
       "ai_summary": "L'AMF met en garde contre les faux articles de presse promouvant des arnaques financières visant les épargnants."
     },
     {
-      "hash": "d25dee1354bf5022",
-      "source_name": "CNIL",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Violation de données en matière de santé : sanction de 500 000 euros à l’encontre de l’HÔPITAL PRIVÉ DE LA LOIRE",
-      "url": "https://www.cnil.fr/fr/sanction-hopital-prive-loire",
-      "author": "CNIL",
-      "published": "2026-09-03T12:00:00",
-      "summary": "Le 3 septembre 2026, la CNIL a prononcé une sanction de 500&amp;nbsp;000&amp;nbsp;€ à l’encontre de l’HÔPITAL PRIVÉ DE LA LOIRE, pour ne pas avoir pris des mesures adaptées pour assurer la sécurité des données de ses patients et de certains de leurs proches.",
-      "score": 97,
-      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: cnil | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "be0cf504cac664f4",
       "source_name": "CNIL",
       "source_type": "rss",
@@ -887,6 +869,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article concerne la conformité financière car il traite d'une alerte de l'AMF contre une plateforme de trading frauduleuse."
+    },
+    {
+      "hash": "d25dee1354bf5022",
+      "source_name": "CNIL",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Violation de données en matière de santé : sanction de 500 000 euros à l’encontre de l’HÔPITAL PRIVÉ DE LA LOIRE",
+      "url": "https://www.cnil.fr/fr/sanction-hopital-prive-loire",
+      "author": "CNIL",
+      "published": "2026-09-03T12:00:00",
+      "summary": "Le 3 septembre 2026, la CNIL a prononcé une sanction de 500&amp;nbsp;000&amp;nbsp;€ à l’encontre de l’HÔPITAL PRIVÉ DE LA LOIRE, pour ne pas avoir pris des mesures adaptées pour assurer la sécurité des données de ses patients et de certains de leurs proches.",
+      "score": 78,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: cnil | ×1.2 (<3d)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2168db636ad8a9c0",
@@ -1318,7 +1318,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0e3abc61aee868ed",
@@ -1427,24 +1427,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité aux sanctions internationales imposées par l'UE contre la Russie et la Biélorussie."
-    },
-    {
-      "hash": "d27c3c1f8211a1ce",
-      "source_name": "EBA - European Banking Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "EBA E-mail alert 5 August, 2026",
-      "url": "https://www.eba.europa.eu/node/19924",
-      "author": "Anonymous",
-      "published": "2026-08-05T15:00:03",
-      "summary": "EBA E-mail alert 5 August, 2026\n\n  \n    Date\n          05/08/2026\n\n      \n\nAnonymous (not verified)\n\nWed, 08/05/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          ​The EBA consults on reporting framework for validation and monitoring of ISDA Standard Initial Margin Model\n      \n\n  \n    Consultations\n          Consultation on Reporting for the purposes of the validation and monitoring of ISDA SIMM\n      ",
-      "score": 52,
-      "score_breakdown": "+10 mots forts: eba | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la validation et du suivi du modèle de marge initiale standard ISDA par l'EBA."
     },
     {
       "hash": "b3a7817030cf3fcf",
@@ -1624,7 +1606,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "aa2da3a86c8c81f2",
@@ -1660,7 +1642,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a7dc321117cd2704",
@@ -2023,6 +2005,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de fermetures de comptes bancaires et des obligations légales des prêteurs."
     },
     {
+      "hash": "b0740ad9c02c2866",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "\"Les vents du changement sont favorables\": Javier Milei menace de sanctionner les compagnies pétrolières qui vont exploiter un gisement d'1,7 milliard de barils au nord des Malouines",
+      "url": "https://www.bfmtv.com/economie/international/les-vents-du-changement-sont-favorables-javier-milei-menace-de-sanctionner-les-compagnies-petrolieres-qui-vont-exploiter-un-gisement-d-1-7-milliard-de-barils-au-nord-des-malouines_AV-202609040579.html",
+      "author": "",
+      "published": "2026-09-04T12:29:43",
+      "summary": "Le président argentin compte déposer un projet de loi visant à imposer des sanctions aux compagnies pétrolières qui s'apprêtent à exploiter un gisement d'1,7 milliard de barils au nord des Malouines. Cette zone appartient au Royaume-Uni mais est revendiquée par l'Argentine.",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: royaume-uni | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "882f3ebb654fea54",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -2038,7 +2038,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité car il traite du respect des listes de sanctions et des décisions réglementaires du Pentagone, analogues aux sanctions OFAC."
     },
     {
       "hash": "861d7dca7a4b6f03",
@@ -2473,6 +2473,42 @@
       "ai_summary": "FinCEN propose de révoquer l'accès bancaire correspondant de Banque Misr UAE aux institutions financières américaines."
     },
     {
+      "hash": "12dcc93045f7f640",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Cybersecurity Pros Name Social Engineering as Top Human Risk",
+      "url": "https://www.corporatecomplianceinsights.com/news-roundup-september-4-2026/",
+      "author": "Staff and Wire Reports",
+      "published": "2026-09-04T14:46:49",
+      "summary": "Plus: 20-point bump for AI in financial predictions; July sees ransomware peak\nThe post Cybersecurity Pros Name Social Engineering as Top Human Risk appeared first on Corporate Compliance Insights.",
+      "score": 34,
+      "score_breakdown": "+10 mots forts: compliance | +10 mots moyens: risk, ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "14f602614fc43e51",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Reggy Publicly Launches Compliance Platform",
+      "url": "https://www.corporatecomplianceinsights.com/reggy-publicly-launches-compliance-platform/",
+      "author": "Corporate Compliance Insights",
+      "published": "2026-09-04T14:00:58",
+      "summary": "Reggy, a Norwegian compliance software company, announced it publicly launched after two years of quiet operations. Formerly known as Fortifai, Reggy’s platform to manage regulations is used by Telenor, Aker BioMarine, Ardoq and Mainstream Renewable Power already, a press release said.  “With just one system, Reggy covers every area, from security and privacy to anti-bribery, [&#8230;]\nThe post Reggy Publicly Launches Compliance Platform appeared first on Corporate Compliance Insights.",
+      "score": 34,
+      "score_breakdown": "+10 mots forts: compliance | +10 mots moyens: regulation, ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "ae0866614b63403a",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -2851,24 +2887,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des règles de régulation des cryptoactifs par la FCA."
     },
     {
-      "hash": "88f8367d40816322",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "DOJ embraces \"espionage lite\" to thwart Chinese influence",
-      "url": "https://globalinvestigationsreview.com/article/doj-embraces-espionage-lite-thwart-chinese-influence",
-      "author": "Dan Novak",
-      "published": "2026-08-05T14:23:06",
-      "summary": "A run of guilty pleas involving Chinese influence operations is elevating the profile of a little-known criminal statute, prompting lawyers to reassess compliance and investigation risks tied to contact with foreign governments.",
-      "score": 31,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: risk | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les risques de conformité liés aux contacts avec des gouvernements étrangers et aux opérations d'influence."
-    },
-    {
       "hash": "1e702c9081912d53",
       "source_name": "JORF - Sanctions",
       "source_type": "rss",
@@ -2923,6 +2941,24 @@
       "ai_summary": "Cet article concerne la conformité financière via la supervision des marchés de capitaux, la protection des investisseurs et la transparence."
     },
     {
+      "hash": "920122dad9c9cf54",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Yardstik Secures $30M in Series B Funding",
+      "url": "https://www.corporatecomplianceinsights.com/yardstik-secures-30m-in-series-b-funding/",
+      "author": "Corporate Compliance Insights",
+      "published": "2026-09-04T14:11:36",
+      "summary": "Yardstik, an employee screening and monitoring platform, announced that it raised $30 million in Series B funding led by Harbert Growth Partners. Existing investors Rally Ventures, MissionOG, Crosslink Capital, Grotech Ventures and Great North Ventures also participated. The new investments brings the capital raised by Yardstik to $65 million. The company said in a news [&#8230;]\nThe post Yardstik Secures $30M in Series B Funding appeared first on Corporate Compliance Insights.",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a9b02250e1d742eb",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -2938,7 +2974,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il analyse comment les entreprises ajustent leurs programmes face aux changements de l'application réglementaire et aux nouveaux risques."
+      "ai_summary": "Cet article traite de l'adaptation de la conformité des entreprises aux changements réglementaires et au contexte d'application des normes."
     },
     {
       "hash": "d130abfd1310d209",
@@ -3157,6 +3193,42 @@
       "ai_summary": "Cet article traite de la conformité réglementaire en matière de protection des données et de respect des obligations légales imposées aux entreprises."
     },
     {
+      "hash": "766ce9dd50d80372",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Taux US, l'intervention du Trésor profite aux cryptos",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/video-taux-us-l-intervention-du-tresor-profite-aux-cryptos_VN-202609040670.html",
+      "author": "",
+      "published": "2026-09-04T15:00:00",
+      "summary": "Vendredi 4 septembre, l'envolée des cryptos après l'intervention du Trésor américain sur les taux, le partenariat entre Bitstack et le RC Lens, et les règles sur les cryptos dans le patrimoine, ont été abordés par Louis Alexandre de Froissard, gérant chez Montaigne Conseil et Patrimoine, Alexandre Stachtchenko, directeur de la strategie et de la communication chez Bitstack, Enzo Hallot, president de la Commission tech de l’Anacofi, et Maurgane N Landu, fondatrice de Cryptos-360, reçus par Sandra",
+      "score": 19,
+      "score_breakdown": "+10 mots forts: crypto | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "91f9fd34e2bbfc1b",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "BFM Crypto, le Club : Taux US, l'intervention du Trésor profite aux cryptos – 04/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/bfm-crypto-le-club-taux-us-l-intervention-du-tresor-profite-aux-cryptos-04-09_EN-202609040633.html",
+      "author": "",
+      "published": "2026-09-04T13:43:11",
+      "summary": "Vendredi 4 septembre, l'envolée des cryptos après l'intervention du Trésor américain sur les taux, le partenariat entre Bitstack et le RC Lens, et les règles sur les cryptos dans le patrimoine, ont été abordés par Louis Alexandre de Froissard, gérant chez Montaigne Conseil et Patrimoine, Alexandre Stachtchenko, directeur de la strategie et de la communication chez Bitstack, Enzo Hallot, president de la Commission tech de l’Anacofi, et Maurgane N Landu, fondatrice de Cryptos-360, reçus par Sandra",
+      "score": 19,
+      "score_breakdown": "+10 mots forts: crypto | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "27e82e24c2744397",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3244,7 +3316,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "2d642d79314f2438",
@@ -3263,24 +3335,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une condamnation pour violation de la loi anti-corruption FCPA."
-    },
-    {
-      "hash": "ab0b8230e98bf642",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "JPMorgan, Bank of America, Deutsche Bank accused of ignoring Epstein red flags",
-      "url": "https://globalinvestigationsreview.com/article/jpmorgan-bank-of-america-deutsche-bank-accused-of-ignoring-epstein-red-flags",
-      "author": "Ana de Liz",
-      "published": "2026-08-05T14:37:04",
-      "summary": "A US senator has called for federal prosecutors and the US Treasury Department to thoroughly investigate alleged breaches of the Bank Secrecy Act by the lenders and their top executives.&nbsp;",
-      "score": 16,
-      "score_breakdown": "+5 mots moyens: bank | +3 Presse | +3 Géo Intl: us treasury, bank secrecy act | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il évoque des violations présumées de la Loi sur le secret bancaire par des grandes banques."
     },
     {
       "hash": "9dda905154eb54ea",
@@ -3499,6 +3553,24 @@
       "ai_summary": "Cet article concerne l'arrêt permanent des exigences de déclaration de propriétaires bénéficiaires par FinCEN pour les petites entreprises."
     },
     {
+      "hash": "a945268abed8751a",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "KPMG Australia investigated over zero whistleblower complaints claim",
+      "url": "https://globalinvestigationsreview.com/article/kpmg-australia-investigated-over-zero-whistleblower-complaints-claim",
+      "author": "Malavika Devaya",
+      "published": "2026-09-04T08:29:24",
+      "summary": "",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: australia | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "908f43b578e547dc",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3659,6 +3731,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La protection insuffisante des lanceurs d'alerte au Canada entrave les efforts de lutte contre la corruption et les pots-de-vin."
+    },
+    {
+      "hash": "5b9bb5dde6d12e88",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Iran-related Designations; Issuance of Iran-related General License | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260904",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-09-04T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "2d39204bd91980cd",
@@ -3841,24 +3931,6 @@
       "ai_summary": "Cet article concerne les sanctions contre Cuba et la conformité aux règles de contrôle des actifs étrangers."
     },
     {
-      "hash": "a3dcf2dba4261745",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Counter Terrorism Designations Removals and Update | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260805",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-08-05T12:00:00",
-      "summary": "",
-      "score": 7,
-      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite des révisions de listes de sanctions antiterroristes, relevant de la conformité aux régulations de contrôle des actifs étrangers."
-    },
-    {
       "hash": "d5d0fdd385550947",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3967,7 +4039,7 @@
       "ai_summary": "Cet article concerne la gestion des risques systémiques et la conformité dans la gestion d'actifs souverains face aux menaces géopolitiques."
     }
   ],
-  "last_update": "2026-09-04T11:31:53.208825+00:00",
+  "last_update": "2026-09-04T15:27:12.269082+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
