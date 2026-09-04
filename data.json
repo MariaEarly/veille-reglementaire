@@ -1051,24 +1051,6 @@
       "ai_summary": "Cet article concerne la conformité financière car FinCEN alerte les institutions sur les risques de blanchiment liés à l'emploi non autorisé."
     },
     {
-      "hash": "875f1ce26f3aff05",
-      "source_name": "JORF - Blanchiment",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décision du 1er septembre 2026 portant délégation de signature (direction des affaires criminelles et des grâces)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054791004",
-      "author": "Ministère de la justice",
-      "published": "2026-09-03T00:00:00",
-      "summary": "Délégation est donnée à Mme Maylis DE ROECK, magistrate, cheffe du bureau de la politique pénale générale ; Mme Mélody BARBUTI, magistrate, cheffe du bureau de l'exécution des peines et des grâces ; Mme Christelle HOUSSET, magistrate, cheffe du bureau de la police judicaire ; Mme Marie DEFOS DU RAU, magistrate, cheffe du bureau de la lutte contre la criminalité organisée, le terrorisme et le blanchiment ; M. Mathieu SAUNIER, magistrat , chef du bureau du droit économique financier et social, de ",
-      "score": 67,
-      "score_breakdown": "+20 mots critiques: blanchiment | +25 Source FR | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "7768d2b800720dda",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -1337,6 +1319,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La lutte contre la corruption dans la fonction publique relève de la conformité réglementaire et de la gestion des risques de fraude institutionnelle."
+    },
+    {
+      "hash": "875f1ce26f3aff05",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décision du 1er septembre 2026 portant délégation de signature (direction des affaires criminelles et des grâces)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054791004",
+      "author": "Ministère de la justice",
+      "published": "2026-09-03T00:00:00",
+      "summary": "Délégation est donnée à Mme Maylis DE ROECK, magistrate, cheffe du bureau de la politique pénale générale ; Mme Mélody BARBUTI, magistrate, cheffe du bureau de l'exécution des peines et des grâces ; Mme Christelle HOUSSET, magistrate, cheffe du bureau de la police judicaire ; Mme Marie DEFOS DU RAU, magistrate, cheffe du bureau de la lutte contre la criminalité organisée, le terrorisme et le blanchiment ; M. Mathieu SAUNIER, magistrat , chef du bureau du droit économique financier et social, de ",
+      "score": 54,
+      "score_breakdown": "+20 mots critiques: blanchiment | +25 Source FR | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "0e3abc61aee868ed",
@@ -1678,7 +1678,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "aa2da3a86c8c81f2",
@@ -1714,7 +1714,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a7dc321117cd2704",
@@ -1732,7 +1732,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les arnaquesfinancières et leur détection, relevant de la protection des consommateurs et de la conformité réglementaire."
     },
     {
       "hash": "acc3d709601181ec",
@@ -2092,7 +2092,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "861d7dca7a4b6f03",
@@ -2578,7 +2578,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les sanctions contre la Russie impliquent des obligations de conformité réglementaire et de lutte contre le financement des activités illicites."
+      "ai_summary": "Cet article concerne la conformité financière car les sanctions contre la Russie impliquent des obligations de conformité réglementaire, de gel d'actifs et de respect des restrictions commerciales."
     },
     {
       "hash": "9f1f7529835a35fc",
@@ -2596,7 +2596,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il rapporte les signalements reçus par l'autorité britannique chargée du respect des sanctions commerciales."
+      "ai_summary": "L'article concerne la conformité financière car il traite des sanctions commerciales et de leur application, domaine clé de la conformité réglementaire."
     },
     {
       "hash": "f03baa24813232bb",
@@ -2992,7 +2992,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article concerne la solidité des banques européennes et l'harmonisation du marché bancaire unique, relevant de la supervision prudentielle."
     },
     {
       "hash": "e6094186f325fb8e",
@@ -3029,6 +3029,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'ESMA s'engage à simplifier son cadre réglementaire financier pour le rendre plus efficace, cohérent et proportionné."
+    },
+    {
+      "hash": "a9b02250e1d742eb",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "White-Collar Rewired Part 3: A compliance retreat under Trump?",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/white-collar-rewired-part-3-compliance-retreat-under-trump",
+      "author": "Gaspard Le Dem",
+      "published": "2026-09-03T16:00:00",
+      "summary": "Some experts say companies are adapting to new risks, while others see signs of a compliance pullback amid declining enforcement and a slowing economy.",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: risk | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "d130abfd1310d209",
@@ -3334,7 +3352,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "2d642d79314f2438",
@@ -3460,7 +3478,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "FinCEN a identifié 13 milliards de dollars liés à des arnaques aux cryptomonnaies, ce qui relève de la conformité financière et de la lutte anti-blanchiment."
     },
     {
       "hash": "f4214c744d8c9274",
@@ -3766,7 +3784,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions et restrictions financières imposées par les États-Unis à Cuba et la Russie, relevant directement de la conformité réglementaire."
     },
     {
       "hash": "fea6b573d255d445",
@@ -4057,7 +4075,7 @@
       "ai_summary": "Cet article concerne la gestion des risques systémiques et la conformité dans la gestion d'actifs souverains face aux menaces géopolitiques."
     }
   ],
-  "last_update": "2026-09-03T21:10:59.455643+00:00",
+  "last_update": "2026-09-04T02:00:14.898665+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
