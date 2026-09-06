@@ -1606,7 +1606,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "aa2da3a86c8c81f2",
@@ -1984,7 +1984,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "89f2d3dee9534561",
@@ -2398,7 +2398,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "335ddf9beb3ffd44",
@@ -2434,7 +2434,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "4ec4cf6477182f75",
@@ -2471,6 +2471,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "FinCEN propose de révoquer l'accès bancaire correspondant de Banque Misr UAE aux institutions financières américaines."
+    },
+    {
+      "hash": "60ec6a0dfebb41af",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Moscou avait subitement coupé le robinet qui alimente cette raffinerie allemande grande comme 1.200 terrains de football: le complexe pétrolier de Schwedt, qui fournit 90% du carburant pour la ville de Berlin, peine encore à se sevrer du brut russe",
+      "url": "https://www.bfmtv.com/economie/entreprises/energie/moscou-avait-subitement-coupe-le-robinet-qui-alimente-cette-raffinerie-allemande-grande-comme-1-200-terrains-de-football-le-complexe-petrolier-de-schwedt-qui-fournit-90-du-carburant-pour-berlin-peine-encore-a-se-sevrer-du-brut-russe_AD-202609060257.html",
+      "author": "",
+      "published": "2026-09-06T14:23:30",
+      "summary": "Trois ans après l'arrêt du pétrole russe, la raffinerie allemande de Schwedt cherche toujours à pérenniser ses approvisionnements. Le site, détenu en majorité par le groupe pétrolier Rosneft, doit naviguer entre restrictions européennes, sanctions américaines et ripostes russes.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "38194bd573df9f10",
@@ -2848,7 +2866,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5d6d382188256b5e",
@@ -2974,7 +2992,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a9b02250e1d742eb",
@@ -3208,7 +3226,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6b02bdd602a70b4b",
@@ -3352,7 +3370,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "9dda905154eb54ea",
@@ -3895,24 +3913,6 @@
       "ai_summary": "Cet article concerne le respect des sanctions financières internationales imposées par les États-Unis."
     },
     {
-      "hash": "7be6d9a6352ff3d6",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Counter Terrorism and Iran-related Designations; Counter Narcotics Designations Removals; Issuance of Amended Iran-related Frequently Asked Question | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260807",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-08-07T12:00:00",
-      "summary": "",
-      "score": 7,
-      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions financières liées au terrorisme et à l'Iran, régies par l'OFAC, relevant de la conformité réglementaire."
-    },
-    {
       "hash": "b2d4e44010c567cf",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -4003,7 +4003,7 @@
       "ai_summary": "Cet article concerne la gestion des risques systémiques et la conformité dans la gestion d'actifs souverains face aux menaces géopolitiques."
     }
   ],
-  "last_update": "2026-09-06T11:09:47.585833+00:00",
+  "last_update": "2026-09-06T14:37:56.115786+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
