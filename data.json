@@ -1303,24 +1303,6 @@
       "ai_summary": "La lutte contre la corruption dans la fonction publique relève de la conformité réglementaire et de la gestion des risques de fraude institutionnelle."
     },
     {
-      "hash": "875f1ce26f3aff05",
-      "source_name": "JORF - Blanchiment",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décision du 1er septembre 2026 portant délégation de signature (direction des affaires criminelles et des grâces)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054791004",
-      "author": "Ministère de la justice",
-      "published": "2026-09-03T00:00:00",
-      "summary": "Délégation est donnée à Mme Maylis DE ROECK, magistrate, cheffe du bureau de la politique pénale générale ; Mme Mélody BARBUTI, magistrate, cheffe du bureau de l'exécution des peines et des grâces ; Mme Christelle HOUSSET, magistrate, cheffe du bureau de la police judicaire ; Mme Marie DEFOS DU RAU, magistrate, cheffe du bureau de la lutte contre la criminalité organisée, le terrorisme et le blanchiment ; M. Mathieu SAUNIER, magistrat , chef du bureau du droit économique financier et social, de ",
-      "score": 54,
-      "score_breakdown": "+20 mots critiques: blanchiment | +25 Source FR | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "0e3abc61aee868ed",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -1609,22 +1591,22 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions économiques contre l'Iran et de leur mise en œuvre."
     },
     {
-      "hash": "ec5fd883baf2db5a",
-      "source_name": "JORF - Financier",
+      "hash": "875f1ce26f3aff05",
+      "source_name": "JORF - Blanchiment",
       "source_type": "rss",
       "category": "autorite_fr",
-      "title": "Arrêté du 28 août 2026 portant cessation de fonctions (administration centrale)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054762459",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-08-30T00:00:00",
-      "summary": "Il est mis fin, à sa demande, aux fonctions de sous-directrice du numérique au sein du secrétariat général, à l'administration centrale des ministères économiques et financiers, exercées par Mme Anne-Lise THOUROUDE, ingénieure générale des mines, à compter du 1er septembre 2026.\nLe présent arrêté sera publié au Journal officiel de la République française.",
+      "title": "Décision du 1er septembre 2026 portant délégation de signature (direction des affaires criminelles et des grâces)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054791004",
+      "author": "Ministère de la justice",
+      "published": "2026-09-03T00:00:00",
+      "summary": "Délégation est donnée à Mme Maylis DE ROECK, magistrate, cheffe du bureau de la politique pénale générale ; Mme Mélody BARBUTI, magistrate, cheffe du bureau de l'exécution des peines et des grâces ; Mme Christelle HOUSSET, magistrate, cheffe du bureau de la police judicaire ; Mme Marie DEFOS DU RAU, magistrate, cheffe du bureau de la lutte contre la criminalité organisée, le terrorisme et le blanchiment ; M. Mathieu SAUNIER, magistrat , chef du bureau du droit économique financier et social, de ",
       "score": 45,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
+      "score_breakdown": "+20 mots critiques: blanchiment | +25 Source FR | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "aa2da3a86c8c81f2",
@@ -2002,7 +1984,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions commerciales potentielles contre des entités liées aux hydrocarbures aux Malouines, relevant de la conformité réglementaire et des risques de sanctions."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "89f2d3dee9534561",
@@ -2401,6 +2383,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il décrit le cadre de reporting bancaire supervisé par les autorités réglementaires européennes."
     },
     {
+      "hash": "ec5fd883baf2db5a",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 28 août 2026 portant cessation de fonctions (administration centrale)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054762459",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-08-30T00:00:00",
+      "summary": "Il est mis fin, à sa demande, aux fonctions de sous-directrice du numérique au sein du secrétariat général, à l'administration centrale des ministères économiques et financiers, exercées par Mme Anne-Lise THOUROUDE, ingénieure générale des mines, à compter du 1er septembre 2026.\nLe présent arrêté sera publié au Journal officiel de la République française.",
+      "score": 36,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×0.8 (14d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "335ddf9beb3ffd44",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -2434,7 +2434,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4ec4cf6477182f75",
@@ -2489,24 +2489,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La gestion des risques tiers est cruciale pour identifier et atténuer les risques éthiques et de conformité dans les relations commerciales."
-    },
-    {
-      "hash": "12dcc93045f7f640",
-      "source_name": "Corporate Compliance Insights",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Cybersecurity Pros Name Social Engineering as Top Human Risk",
-      "url": "https://www.corporatecomplianceinsights.com/news-roundup-september-4-2026/",
-      "author": "Staff and Wire Reports",
-      "published": "2026-09-04T14:46:49",
-      "summary": "Plus: 20-point bump for AI in financial predictions; July sees ransomware peak\nThe post Cybersecurity Pros Name Social Engineering as Top Human Risk appeared first on Corporate Compliance Insights.",
-      "score": 34,
-      "score_breakdown": "+10 mots forts: compliance | +10 mots moyens: risk, ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "14f602614fc43e51",
@@ -2866,7 +2848,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5d6d382188256b5e",
@@ -2975,6 +2957,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière via la supervision des marchés de capitaux, la protection des investisseurs et la transparence."
+    },
+    {
+      "hash": "12dcc93045f7f640",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Cybersecurity Pros Name Social Engineering as Top Human Risk",
+      "url": "https://www.corporatecomplianceinsights.com/news-roundup-september-4-2026/",
+      "author": "Staff and Wire Reports",
+      "published": "2026-09-04T14:46:49",
+      "summary": "Plus: 20-point bump for AI in financial predictions; July sees ransomware peak\nThe post Cybersecurity Pros Name Social Engineering as Top Human Risk appeared first on Corporate Compliance Insights.",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: compliance | +10 mots moyens: risk, ppe | +3 Presse | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "a9b02250e1d742eb",
@@ -3208,7 +3208,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6b02bdd602a70b4b",
@@ -3352,7 +3352,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "9dda905154eb54ea",
@@ -3497,24 +3497,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les institutions financières ont signalé des transactions suspectes liées au trafic de migrants, un enjeu majeur de conformité financière."
-    },
-    {
-      "hash": "f9b954b5840714d5",
-      "source_name": "FinCEN",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "FinCEN Renews Minnesota Geographic Targeting Order",
-      "url": "https://www.fincen.gov/news/news-releases/fincen-renews-minnesota-geographic-targeting-order",
-      "author": "",
-      "published": "2026-08-07T00:00:00",
-      "summary": "",
-      "score": 12,
-      "score_breakdown": "+5 Source Intl | +3 Géo Intl: fincen | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le FinCEN renouvelle un ordre de ciblage géographique au Minnesota pour lutter contre le blanchiment d'argent."
     },
     {
       "hash": "f73b81136af60222",
@@ -4021,7 +4003,7 @@
       "ai_summary": "Cet article concerne la gestion des risques systémiques et la conformité dans la gestion d'actifs souverains face aux menaces géopolitiques."
     }
   ],
-  "last_update": "2026-09-05T20:31:51.966594+00:00",
+  "last_update": "2026-09-06T01:55:36.576589+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
