@@ -1051,6 +1051,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'approbation réglementaire d'un transfert de portefeuille d'assurance."
     },
     {
+      "hash": "29bb62a2cd8b810b",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Belgium seizes €65m from McKinsey in PNF tax fraud probe",
+      "url": "https://globalinvestigationsreview.com/article/belgium-seizes-eu65m-mckinsey-in-pnf-tax-fraud-probe",
+      "author": "Grace Propheta",
+      "published": "2026-09-07T13:13:39",
+      "summary": "Authorities in Brussels have confiscated the money as part of a preliminary investigation by French financial prosecutors’ into alleged tax fraud and money laundering.",
+      "score": 64,
+      "score_breakdown": "+20 mots critiques: money laundering, fraud | +3 Presse | +20 Géo FR: pnf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "5481d8f7c105f164",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -1120,7 +1138,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des contrôles à l'exportation liés aux sanctions internationales et à leur application pénale."
+      "ai_summary": "Cet article concerne la conformité financière car les contrôles à l'exportation incluent des sanctions et des régimes de conformité internationale."
     },
     {
       "hash": "1597401e8054fba0",
@@ -1138,7 +1156,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il explique le régime de sanctions du Royaume-Uni, les mesures d'application et les obligations de conformité."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du régime de sanctions du Royaume-Uni, des mesures de conformité et d'application obligatoires."
     },
     {
       "hash": "d0ac33e1519b82d2",
@@ -1480,7 +1498,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il clarifie les critères légaux pour geler les actifs liés à la Russie en vertu des sanctions."
     },
     {
       "hash": "a8aaa553a5e197ac",
@@ -1660,7 +1678,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "aa2da3a86c8c81f2",
@@ -1822,7 +1840,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la fraude aux paiements, un risque clé relevant de la prévention de la fraude et de la conformité bancaire."
+      "ai_summary": "La fraude bancaire et sa prévention relèvent de la conformité financière et de la lutte contre la fraude."
     },
     {
       "hash": "f7d623218265ca55",
@@ -2398,7 +2416,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la coopération réglementaire entre autorités supervisées et de la reconnaissance des contreparties centrales."
+      "ai_summary": "Accord de coopération entre régulateurs pour reconnaître les contreparties centrales indiennes, relevant de la supervision des marchés financiers."
     },
     {
       "hash": "5563306a30bbaae2",
@@ -2452,7 +2470,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "335ddf9beb3ffd44",
@@ -2507,6 +2525,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "FinCEN propose de révoquer l'accès bancaire correspondant de Banque Misr UAE aux institutions financières américaines."
+    },
+    {
+      "hash": "16e7cbf890cfb839",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Nicolas Bodin, président et cofondateur de Label4.ai – 07/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/nicolas-bodin-president-et-cofondateur-de-label4-ai-07-09_EN-202609070863.html",
+      "author": "",
+      "published": "2026-09-07T18:58:40",
+      "summary": "Nicolas Bodin, président et cofondateur de Label4.ai, était l'invité de Frédéric Simottel dans Tech & Co, la quotidienne, ce lundi 7 septembre. Il s'est penché sur la lutte contre la fraude générée par l'intelligence artificielle sur BFM Business. Retrouvez l'émission du lundi au jeudi et réécoutez-la en podcast.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "78afbe4107c99746",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Nicolas Bodin (Label4.ai) : Label4 détecte les signes invisibles laissés par l'IA - 07/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-nicolas-bodin-label4-ai-label4-detecte-les-signes-invisibles-laisses-par-l-ia-07-09_VN-202609070864.html",
+      "author": "",
+      "published": "2026-09-07T18:56:22",
+      "summary": "Nicolas Bodin, président et cofondateur de Label4.ai, était l'invité de Frédéric Simottel dans Tech & Co, la quotidienne, ce lundi 7 septembre. Il s'est penché sur la lutte contre la fraude générée par l'intelligence artificielle sur BFM Business. Retrouvez l'émission du lundi au jeudi et réécoutez-la en podcast.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "60ec6a0dfebb41af",
@@ -2974,7 +3028,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1a1872e71fb679ea",
@@ -3154,7 +3208,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "905af218d1071679",
@@ -3424,7 +3478,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9dda905154eb54ea",
@@ -4057,7 +4111,7 @@
       "ai_summary": "Cet article concerne la gestion des risques systémiques et la conformité dans la gestion d'actifs souverains face aux menaces géopolitiques."
     }
   ],
-  "last_update": "2026-09-07T16:52:20.123618+00:00",
+  "last_update": "2026-09-07T20:56:44.123365+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
