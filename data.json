@@ -1606,7 +1606,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "aa2da3a86c8c81f2",
@@ -2362,7 +2362,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "335ddf9beb3ffd44",
@@ -2884,7 +2884,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1a1872e71fb679ea",
@@ -2938,7 +2938,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'ingénierie sociale représente un risque majeur pour la sécurité des données et actifs financiers des entreprises."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a9b02250e1d742eb",
@@ -3064,7 +3064,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "905af218d1071679",
@@ -3082,7 +3082,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision des marchés de capitaux européens et du cadre réglementaire MISP."
     },
     {
       "hash": "a89329d71968ab8a",
@@ -3175,24 +3175,6 @@
       "ai_summary": "Cet article concerne les litiges contractuels entre entités commerciales, hors du périmètre de la conformité financière réglementaire."
     },
     {
-      "hash": "88a41d2d5fe1572d",
-      "source_name": "CSSF Luxembourg (AML/CFT)",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Law of 12 November 2004 (consolidated version) (Updated)",
-      "url": "https://www.cssf.lu/en/Document/law-of-12-november-2004/",
-      "author": "",
-      "published": "2026-08-08T00:00:00",
-      "summary": "on the fight against money laundering and terrorist financing",
-      "score": 21,
-      "score_breakdown": "+20 mots critiques: money laundering | +15 Source EU | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre le blanchiment de capitaux et le financement du terrorisme, domaines clés de la conformité financière."
-    },
-    {
       "hash": "920122dad9c9cf54",
       "source_name": "Corporate Compliance Insights",
       "source_type": "press",
@@ -3208,7 +3190,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il rapporte le financement d'une plateforme de vérification des antécédents des employés, pertinente pour la conformité RH et réglementaire."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6b02bdd602a70b4b",
@@ -3352,7 +3334,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "9dda905154eb54ea",
@@ -3985,7 +3967,7 @@
       "ai_summary": "Cet article concerne la gestion des risques systémiques et la conformité dans la gestion d'actifs souverains face aux menaces géopolitiques."
     }
   ],
-  "last_update": "2026-09-06T20:35:19.600403+00:00",
+  "last_update": "2026-09-07T01:52:37.049846+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
