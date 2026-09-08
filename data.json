@@ -832,7 +832,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des fraudes bancaires, un risque majeur de lutte anti-fraude et de conformité réglementaire."
     },
     {
       "hash": "e5d0c4a3f89eaf06",
@@ -1390,7 +1390,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité IA et des cadres réglementaires fragmentés (EU AI Act, régulations US) impactant la gouvernance et les risques financiers des organisations."
+      "ai_summary": "Cet article traite de la conformité financière en abordant les risques réglementaires liés à l'IA et les obligations de gouvernance des entreprises face aux régulations."
     },
     {
       "hash": "7c3b936c4b284018",
@@ -1408,7 +1408,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il analyse les exigences de conformité d'entreprise au Royaume-Uni, incluant les infractions de fraude, de corruption et de blanchiment de capitaux."
+      "ai_summary": "Cet article concerne la conformité financière car il analyse les obligations de conformité des entreprises britanniques face aux risques de fraude, corruption et blanchiment de capitaux."
     },
     {
       "hash": "4fda058eafe4fba2",
@@ -1570,7 +1570,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte anti-fraude dans les marchés publics et secteur santé via le False Claims Act américain."
+      "ai_summary": "Cet article traite de la conformité financière via le False Claims Act, outil anti-fraude majeur régissant les obligations de conformité dans les marchés publics américains et le secteur sanitaire."
     },
     {
       "hash": "21e71807ba9baeef",
@@ -1750,7 +1750,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "aa2da3a86c8c81f2",
@@ -1786,7 +1786,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car Tracfin supervise les déclarations de soupçon des professionnels soumis à obligations anti-blanchiment."
+      "ai_summary": "Cet article concerne la lutte anti-blanchiment et le reporting financier obligatoire des professionnels à Tracfin, autorité de conformité française."
     },
     {
       "hash": "a7dc321117cd2704",
@@ -1933,6 +1933,24 @@
       "ai_summary": "FinCEN s'engage à combattre la fraude dans les hospices en Californie, relevant de la conformité anti-blanchiment."
     },
     {
+      "hash": "629e1c73720977f9",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Former Swiss bank partner admits $100m bribe to Kuwaiti official",
+      "url": "https://globalinvestigationsreview.com/article/former-swiss-bank-partner-admits-100m-bribe-kuwaiti-official",
+      "author": "Grace Propheta",
+      "published": "2026-09-08T15:04:09",
+      "summary": "The Federal Criminal Court in Bellinzona handed Pierre Mirabaud – a former head of the Swiss Bankers Association – a two-year suspended sentence after he admitted to corruption of a foreign public official and aggravated money laundering.",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: money laundering | +5 mots moyens: bank | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "cb104263e7db6bb5",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -1948,7 +1966,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il expose les risques de fraude et de cybersécurité menaçant les institutions financières et la protection des données clients."
     },
     {
       "hash": "cc43de3f966e457c",
@@ -2614,7 +2632,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "335ddf9beb3ffd44",
@@ -2671,6 +2689,42 @@
       "ai_summary": "FinCEN propose de révoquer l'accès bancaire correspondant de Banque Misr UAE aux institutions financières américaines."
     },
     {
+      "hash": "87b608fcef296be8",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "How Blockchain Intelligence Became Essential To Corporate Compliance",
+      "url": "https://www.corporatecomplianceinsights.com/how-blockchain-intelligence-became-essential-corporate-compliance/",
+      "author": "Finn Grant",
+      "published": "2026-09-08T19:41:01",
+      "summary": "Crypto was initially built on the promise of permissionless finance, a system with no gatekeepers, no intermediaries and no paperwork. However, as the adoption of digital assets has grown, that original vision has collided with the strict realities of the traditional financial system, writes crypto intelligence writer Finn Grant. With regulators cracking down globally, crypto compliance has evolved from an abstract concern into a central operational requirement for survival.\nThe post How Blockch",
+      "score": 34,
+      "score_breakdown": "+20 mots forts: compliance, crypto | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "10c3c575af56c6c5",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "INFO BFM BUSINESS. Le cœur artificiel fonctionnait, l’entreprise s’effondrait: 56 actionnaires de Carmat portent plainte pour escroquerie, délit d'initié, usage illicite d'informations privilégiées et fausses informations",
+      "url": "https://www.bfmtv.com/economie/info-bfm-business-le-c-ur-artificiel-fonctionnait-l-entreprise-s-effondrait-56-actionnaires-de-carmat-portent-plainte-pour-escroquerie-delit-d-initie-usage-illicite-d-informations-privilegiees-et-fausses-informations_AN-202609080752.html",
+      "author": "",
+      "published": "2026-09-08T16:52:05",
+      "summary": "D’anciens actionnaires minoritaires de Carmat déposent plainte contre X auprès du Parquet national financier. Le spécialiste français des cœurs artificiels, anciennement coté en Bourse a été liquidé en début d'année. Seuls ses actifs ont été repris, par un des anciens dirigeants et actionnaires, Pierre Bastid, qui a recréé une nouvelle société.",
+      "score": 34,
+      "score_breakdown": "+3 Presse | +20 Géo FR: français, parquet national financier | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "0fd5e9c0184f4a0f",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -2686,7 +2740,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction pour violation des règles de conformité en matière de sanctions internationales."
     },
     {
       "hash": "3de2648c6771187f",
@@ -3118,7 +3172,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite des normes de conformité financière et réglementaire que les entreprises doivent respecter selon les directives du DOJ et de la SEC."
+      "ai_summary": "Cet article traite de la conformité réglementaire en exigeant des entreprises des programmes de conformité robustes selon les normes DOJ et SEC."
     },
     {
       "hash": "5d6d382188256b5e",
@@ -3190,7 +3244,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1a1872e71fb679ea",
@@ -3424,7 +3478,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il explique comment le DOJ évalue les programmes de conformité des entreprises et leurs impacts légaux."
+      "ai_summary": "Cet article explique comment l'unité DOJ encourage les programmes de conformité efficaces et pénalise les contrôles faibles."
     },
     {
       "hash": "368212ed8c0a7729",
@@ -3586,7 +3640,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il analyse comment la culture d'entreprise influence le respect des règles et prévient les manquements éthiques."
+      "ai_summary": "La culture d'entreprise influence le respect des règles de conformité et peut favoriser ou prévenir les manquements éthiques et réglementaires."
     },
     {
       "hash": "766ce9dd50d80372",
@@ -3712,7 +3766,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e965d0030e2c5e77",
@@ -3730,7 +3784,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9dda905154eb54ea",
@@ -3811,6 +3865,24 @@
       "category": "autorite_intl",
       "title": "FinCEN Issues Alert to Counter Iranian Procurement Efforts for Its Commercial Aviation Industry",
       "url": "https://www.fincen.gov/news/news-releases/fincen-issues-alert-counter-iranian-procurement-efforts-its-commercial-aviation",
+      "author": "",
+      "published": "2026-09-08T00:00:00",
+      "summary": "",
+      "score": 12,
+      "score_breakdown": "+5 Source Intl | +3 Géo Intl: fincen | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "FinCEN alerte sur les efforts de conformité pour contrer les achats iraniens destinés à l'aviation commerciale."
+    },
+    {
+      "hash": "13d4956faf79928a",
+      "source_name": "FinCEN",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "FinCEN Issues Frequently Asked Questions Regarding Treatment of Verifiable Digital Credentials Under the Customer Identification Program Rule",
+      "url": "https://www.fincen.gov/news/news-releases/fincen-issues-frequently-asked-questions-regarding-treatment-verifiable-digital",
       "author": "",
       "published": "2026-09-08T00:00:00",
       "summary": "",
@@ -4144,7 +4216,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière en raison des sanctions contre l'Iran et des obligations de conformité aux programmes d'embargo."
     },
     {
       "hash": "5b9bb5dde6d12e88",
@@ -4324,7 +4396,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Le Sri Lanka enquête sur des irrégularités dans un contrat aérien, relevant de la lutte contre la corruption et la conformité réglementaire."
     },
     {
       "hash": "b2d4e44010c567cf",
@@ -4417,7 +4489,7 @@
       "ai_summary": "Cet article concerne la gestion des risques systémiques et la conformité dans la gestion d'actifs souverains face aux menaces géopolitiques."
     }
   ],
-  "last_update": "2026-09-08T16:46:00.532534+00:00",
+  "last_update": "2026-09-08T20:30:12.267805+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
