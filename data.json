@@ -580,7 +580,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de la conformité financière car l'IA présente des risques réglementaires importants pour les institutions financières."
     },
     {
       "hash": "7b56a5117f36f00e",
@@ -742,7 +742,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La cybersécurité est un élément clé de la conformité financière car elle protège l'intégrité des données et la stabilité du système financier."
     },
     {
       "hash": "2db110259b36a846",
@@ -886,7 +886,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Le rapport OSMP 2025 traite de la fraude aux moyens de paiement et de sa gestion, enjeu clé de la conformité financière."
     },
     {
       "hash": "b914e5fd23d4f34c",
@@ -1588,7 +1588,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA émet une alerte officielle sur le non-adoption de normes techniques bancaires par la Commission européenne."
+      "ai_summary": "Cet article concerne les normes techniques de l'EBA sur les autorisations préalables, relevant de la conformité réglementaire bancaire."
     },
     {
       "hash": "20a655cf38d4c99d",
@@ -1825,24 +1825,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions économiques contre l'Iran et de leur mise en œuvre."
     },
     {
-      "hash": "875f1ce26f3aff05",
-      "source_name": "JORF - Blanchiment",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décision du 1er septembre 2026 portant délégation de signature (direction des affaires criminelles et des grâces)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054791004",
-      "author": "Ministère de la justice",
-      "published": "2026-09-03T00:00:00",
-      "summary": "Délégation est donnée à Mme Maylis DE ROECK, magistrate, cheffe du bureau de la politique pénale générale ; Mme Mélody BARBUTI, magistrate, cheffe du bureau de l'exécution des peines et des grâces ; Mme Christelle HOUSSET, magistrate, cheffe du bureau de la police judicaire ; Mme Marie DEFOS DU RAU, magistrate, cheffe du bureau de la lutte contre la criminalité organisée, le terrorisme et le blanchiment ; M. Mathieu SAUNIER, magistrat , chef du bureau du droit économique financier et social, de ",
-      "score": 45,
-      "score_breakdown": "+20 mots critiques: blanchiment | +25 Source FR | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "aa2da3a86c8c81f2",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -2000,6 +1982,24 @@
       "score_breakdown": "+20 mots critiques: fraud | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il traite de sanctions pour non-respect des règles de plafonnement salarial dans la NBA."
+    },
+    {
+      "hash": "cd1cf21a98d1a137",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Le Monde qui bouge : la revue de presse : Israël, les alliés occidentaux passent aux sanctions - 09/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/le-monde-qui-bouge-la-revue-de-presse-israel-les-allies-occidentaux-passent-aux-sanctions-09-09_EN-202609090085.html",
+      "author": "",
+      "published": "2026-09-09T04:27:11",
+      "summary": "Ce mercredi 9 septembre, réécoutez en podcast le replay du Monde qui bouge : la revue de presse présentée par Annalisa Cappellini.",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
       "status": "new",
       "early_brief": false,
       "ai_summary": null
@@ -2632,7 +2632,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la simplification réglementaire dans le secteur bancaire européen, enjeu majeur de conformité financière."
     },
     {
       "hash": "ff8e01201615c0a8",
@@ -2669,24 +2669,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article concerne la conformité financière car il traite des normes réglementaires de l'EBA sur le classement des entreprises d'investissement."
-    },
-    {
-      "hash": "ec5fd883baf2db5a",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 28 août 2026 portant cessation de fonctions (administration centrale)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054762459",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-08-30T00:00:00",
-      "summary": "Il est mis fin, à sa demande, aux fonctions de sous-directrice du numérique au sein du secrétariat général, à l'administration centrale des ministères économiques et financiers, exercées par Mme Anne-Lise THOUROUDE, ingénieure générale des mines, à compter du 1er septembre 2026.\nLe présent arrêté sera publié au Journal officiel de la République française.",
-      "score": 36,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×0.8 (14d)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "335ddf9beb3ffd44",
@@ -2740,7 +2722,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il relate des accusations de délits d'initié et de diffusion de fausses informations par une direction d'entreprise cotée."
+      "ai_summary": "Cet article concerne la conformité financière car il rapporte des accusations de délits d'initié et de diffusion de fausses informations contre la direction de Carmat."
     },
     {
       "hash": "87b608fcef296be8",
@@ -2776,7 +2758,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de délits d'initié, d'usage d'informations privilégiées et de fausses informations imputés à des dirigeants d'une entreprise cotée."
+      "ai_summary": "Cet article concerne la conformité financière car il relate des accusations de délits d'initié, d'usage illicite d'informations privilégiées et de fausses informations par des actionnaires de Carmat."
     },
     {
       "hash": "0fd5e9c0184f4a0f",
@@ -3298,7 +3280,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1a1872e71fb679ea",
@@ -3820,7 +3802,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9dda905154eb54ea",
@@ -4003,6 +3985,24 @@
       "ai_summary": "Les institutions financières ont signalé des transactions suspectes liées au trafic de migrants, un enjeu majeur de conformité financière."
     },
     {
+      "hash": "6e0fff1a842db1fc",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Electricité : le développement des énergies renouvelables profite aux consommateurs, assure la Commission de régulation de l’énergie",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/09/electricite-le-developpement-des-energies-renouvelables-profite-aux-consommateurs-assure-la-commission-de-regulation-de-l-energie_6768952_3234.html",
+      "author": "",
+      "published": "2026-09-09T17:14:07",
+      "summary": "L’autorité administrative indépendante a présenté mercredi un document permettant de comprendre l’économie du système électrique hexagonal.",
+      "score": 12,
+      "score_breakdown": "+5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "e965d0030e2c5e77",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -4018,7 +4018,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f73b81136af60222",
@@ -4270,7 +4270,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions et des désignations de l'OFAC relatives aux organisations criminelles et au terrorisme."
     },
     {
       "hash": "2603f9ab05de5714",
@@ -4561,7 +4561,7 @@
       "ai_summary": "Cet article concerne la gestion des risques systémiques et la conformité dans la gestion d'actifs souverains face aux menaces géopolitiques."
     }
   ],
-  "last_update": "2026-09-09T16:48:06.326170+00:00",
+  "last_update": "2026-09-09T20:14:50.072201+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
