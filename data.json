@@ -619,24 +619,6 @@
       "ai_summary": "L'AMF met en garde contre les faux articles de presse promouvant des arnaques financières visant les épargnants."
     },
     {
-      "hash": "3cdfd7177d7a9ff0",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Avis de concours pour le recrutement au titre de l'année 2027 d'inspecteurs de la concurrence, de la consommation et de la répression des fraudes",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054817513",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-09-10T00:00:00",
-      "summary": "La directrice générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) organise, au titre de l'année 2027, trois concours pour le recrutement d'inspecteurs et inspectrices de la concurrence, de la consommation et de la répression des fraudes :- un concours externe à dominante juridique et économique ;- un concours externe à dominante scientifique et technologique ;- un concours interne.I. - Conditions d'admission à concourirEn application de l'article L. 325-37 du ",
-      "score": 97,
-      "score_breakdown": "+20 mots critiques: fraude, fraud | +25 Source FR | +20 Géo FR: dgccrf | ×1.5 (<24h)",
-      "doc_type": "AVIS",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne le recrutement d'agents publics, pas la conformité financière des entreprises.\n\nHors périmètre compliance"
-    },
-    {
       "hash": "c7fda50976580d3c",
       "source_name": "CNIL",
       "source_type": "rss",
@@ -691,24 +673,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une amende de 825 millions d'euros pour violation de règles de protection des données."
     },
     {
-      "hash": "79faf032ad64ea93",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 7 août 2026 modifiant l'arrêté du 1er mars 2012 relatif aux seuils prévus à l'article R. 519-2 du code monétaire et financier concernant les intermédiaires en opérations de banque et en service de paiement",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054666047",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-08-12T00:00:00",
-      "summary": "Article 1L'article 1er de l'arrêté du 1er mars 2012 susvisé est ainsi modifié :1° Après le premier alinéa, il est inséré un alinéa ainsi rédigé : « - pour les opérations de crédit mentionnées à l'article L. 312-4-1 du code de la consommation : soit mille opérations par an, soit un montant annuel de cinq cent mille euros (500 000 €) ; »2° Au deuxième alinéa, après les mots : « pour les », il est inséré le mot : « autres ».Article 2L'article 2 du même arrêté est remplacé par les dispositions suiva",
-      "score": 97,
-      "score_breakdown": "+10 mots forts: code monétaire | +10 mots moyens: paiement, banque | +25 Source FR | +20 Géo FR: code monétaire | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet arrêté modifie les seuils de conformité pour les intermédiaires bancaires et de paiement selon le code monétaire et financier."
-    },
-    {
       "hash": "0907b483fbf40736",
       "source_name": "Corporate Compliance Insights",
       "source_type": "press",
@@ -745,6 +709,24 @@
       "ai_summary": "Cet article concerne les priorités d'application de la loi américaine incluant fraude commerciale, fraude sanitaire et abus d'actifs numériques."
     },
     {
+      "hash": "bb9874c0d8bcc220",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 9 septembre 2026 portant application des articles L. 562-2 et suivants du code monétaire et financier",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054826615",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-09-11T00:00:00",
+      "summary": "Par arrêté du ministre de l'intérieur et du ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique en date du 9 septembre 2026, vu le code monétaire et financier, notamment ses articles L. 562-2 et suivants, les fonds et ressources économiques qui appartiennent à, sont possédés, détenus ou contrôlés par Mme Ahlem FAKIH née le 19 septembre 1993 à Sidi Bel Abbes (Algérie), ainsi que les fonds et ressources économiques qui appartiennent à, sont possédés, d",
+      "score": 82,
+      "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: code monétaire | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "d6d0fbdc954c07b9",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -760,7 +742,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'AMF contrôle la conformité des sociétés de gestion concernant l'enregistrement des conversations téléphoniques, obligation réglementaire de traçabilité financière."
+      "ai_summary": "L'AMF contrôle la conformité des sociétés de gestion concernant l'enregistrement obligatoire des conversations téléphoniques."
     },
     {
       "hash": "0059af154bce08f4",
@@ -907,42 +889,6 @@
       "ai_summary": "Cet arrêté applique les dispositions du code monétaire et financier relatives au gel des avoirs et à la lutte contre le financement du terrorisme."
     },
     {
-      "hash": "3cc3d94ee7873bb6",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 5 août 2026 portant application des articles L. 562-2 et suivants du code monétaire et financier",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054666044",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-08-12T00:00:00",
-      "summary": "Article Par arrêté du ministre de l'intérieur et du ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique en date du 5 août 2026, vu le code monétaire et financier, notamment ses articles L. 562-2 et suivants, les fonds et ressources économiques qui appartiennent à, sont possédés, détenus ou contrôlés par M. Shahin HAZAMY, né le 22 août 1995 dans le vingtième arrondissement de Paris (75), ainsi que les fonds et ressources économiques qui appartiennent ",
-      "score": 82,
-      "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: code monétaire | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet arrêté applique les articles L. 562-2 du code monétaire et financier concernant le gel des avoirs et ressources économiques."
-    },
-    {
-      "hash": "1e7e9c3290fc1645",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 10 août 2026 portant application des articles L. 562-2-1 et suivants du code monétaire et financier",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054666100",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-08-12T00:00:00",
-      "summary": "Article Par arrêté du ministre de l'intérieur et du ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique en date du 10 août 2026, vu le code monétaire et financier, et notamment ses articles L. 562-1, L. 562-2-1 et suivants, les fonds et ressources économiques qui appartiennent à, sont possédés, détenus ou contrôlés par M. Franklin, Nathan NYAMSI, alias Nyamsi Wa Kamerun Wa Afrika, ressortissant français et camerounais, né le 31 mars 1972 à Sakbayeme ",
-      "score": 82,
-      "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: français, code monétaire | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet arrêté applique le code monétaire et financier concernant la lutte contre le blanchiment de capitaux et le financement du terrorisme."
-    },
-    {
       "hash": "5547245978c4e8b5",
       "source_name": "Banque de France (X)",
       "source_type": "rss",
@@ -1015,6 +961,24 @@
       "ai_summary": "L'article concerne la conformité financière car il traite d'une alerte de l'AMF contre une plateforme de trading frauduleuse."
     },
     {
+      "hash": "3cdfd7177d7a9ff0",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Avis de concours pour le recrutement au titre de l'année 2027 d'inspecteurs de la concurrence, de la consommation et de la répression des fraudes",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054817513",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-09-10T00:00:00",
+      "summary": "La directrice générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) organise, au titre de l'année 2027, trois concours pour le recrutement d'inspecteurs et inspectrices de la concurrence, de la consommation et de la répression des fraudes :- un concours externe à dominante juridique et économique ;- un concours externe à dominante scientifique et technologique ;- un concours interne.I. - Conditions d'admission à concourirEn application de l'article L. 325-37 du ",
+      "score": 78,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +25 Source FR | +20 Géo FR: dgccrf | ×1.2 (<3d)",
+      "doc_type": "AVIS",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "d25dee1354bf5022",
       "source_name": "CNIL",
       "source_type": "rss",
@@ -1049,6 +1013,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des logiciels de lutte anti-blanchiment pour les entités australiennes."
+    },
+    {
+      "hash": "12f6e9bc0f02bdd5",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décret n° 2026-857 du 10 septembre 2026 portant annulation de crédits",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054826958",
+      "author": "Ministère de l'action et des comptes publics",
+      "published": "2026-09-11T00:00:00",
+      "summary": "Sont annulés, pour 2026, des crédits d'un montant de 500 000 000 € en autorisations d'engagement et en crédits de paiement applicables aux programmes mentionnés dans le tableau annexé au présent décret.\nLe ministre de l'action et des comptes publics est chargé de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.\nANNEXETABLEAU 1INTITULÉS DE LA MISSION et du programme, ou de la dotationNUMÉRO du programme \n      \n    ou de la dotationAUTORISATIONS d'eng",
+      "score": 75,
+      "score_breakdown": "+5 mots moyens: paiement | +25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "DÉCRET",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "08d97c9462762d20",
@@ -1534,7 +1516,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Le rapport de médiation de l'AMF traite des litiges financiers concernant les produits d'épargne et d'investissement, relevant de la conformité réglementaire."
     },
     {
       "hash": "8a5c9f519907275a",
@@ -1714,7 +1696,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les sanctions imposent des restrictions financières visant à empêcher le financement de la guerre en Russie."
+      "ai_summary": "Cet article concerne la conformité financière car les sanctions imposent des restrictions aux transactions financières et obligations de gel d'actifs."
     },
     {
       "hash": "954ecd80b31506f2",
@@ -2581,24 +2563,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de fraude et corruption impliquant un homme d'affaires indien."
     },
     {
-      "hash": "d8de5a3d16f73ad5",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "DOJ rebrands fraud squad after shake-up",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/doj-rebrands-fraud-squad-after-shake",
-      "author": "Gaspard Le Dem",
-      "published": "2026-08-11T20:47:05",
-      "summary": "The Fraud Section’s new name aligns with a fine-tuned focus on private fraud enforcement, the department said. It follows the launch of a controversial new division that took a large chunk out of the 70-year-old section earlier this year.",
-      "score": 39,
-      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les changements organisationnels au sein du DOJ pour renforcer l'application des lois contre la fraude financière."
-    },
-    {
       "hash": "650a80a09735a535",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -2722,7 +2686,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "82c0504bf3d578c2",
@@ -2794,7 +2758,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "335ddf9beb3ffd44",
@@ -2848,25 +2812,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "87bc6a5e42837b65",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Un an maximum au lieu de trois: les décrets durcissant les arrêts maladie arrivent, des centaines de millions d’euros d’économies attendues",
-      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/un-an-maximum-au-lieu-de-trois-les-decrets-durcissant-les-arrets-maladie-arrivent-des-centaines-de-millions-d-euros-d-economies-attendues_AN-202609100651.html",
-      "author": "",
-      "published": "2026-09-10T15:05:43",
-      "summary": "Deux décrets vont prochainement durcir les règles en matière d’arrêts de travail, en réduisant la durée maximale de certains arrêts longue durée et en sanctionnant davantage les abus pour ceux de courte durée. À la clé: plusieurs centaines de millions d’euros d’économies espérées pour l’Assurance maladie.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet article concerne la gouvernance d'une entreprise de compliance réglementaire mais ne traite pas directement de conformité financière."
     },
     {
       "hash": "8544fc86b4938a85",
@@ -2938,7 +2884,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les actionnaires de Carmat dénoncent des délits financiers : escroquerie, délit d'initié et usage illicite d'informations privilégiées, relevant directement de la conformité financière."
+      "ai_summary": "Les actionnaires dénoncent des délits financiers: escroquerie, délit d'initié et fausses informations, violations graves de la conformité et régulation financière."
     },
     {
       "hash": "0fd5e9c0184f4a0f",
@@ -3442,7 +3388,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne l'utilisation non autorisée d'IA par les employés, ce qui pose des risques de conformité financière et de gouvernance des données."
     },
     {
       "hash": "14e68b8541f8861c",
@@ -3460,7 +3406,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les procédures de signalement des irrégularités et leur gestion en conformité financière et réglementaire."
     },
     {
       "hash": "3f9849aadeac6ad3",
@@ -3658,7 +3604,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bef1d3a837a66554",
@@ -4036,7 +3982,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de mesures de conformité OFAC concernant les sanctions contre l'Iran et le terrorisme, ainsi qu'un accord transactionnel."
     },
     {
       "hash": "ee51875e58da9fee",
@@ -4054,7 +4000,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Le FinCEN met en garde contre le financement illicite lié à l'Iran, domaine clé de la conformité financière."
     },
     {
       "hash": "41fe80cf710448e2",
@@ -4216,7 +4162,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "85d84f167c1b10fb",
@@ -4235,6 +4181,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "FinCEN organise un engagement public-privé pour combattre les cartels, relevant de la conformité en lutte anti-blanchiment."
+    },
+    {
+      "hash": "72bc43600c24bc7c",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Woodcock: SEC not done enforcing FCPA",
+      "url": "https://globalinvestigationsreview.com/article/woodcock-sec-not-done-enforcing-fcpa",
+      "author": "Dan Novak",
+      "published": "2026-09-10T18:07:31",
+      "summary": "In an interview with GIR, the SEC's enforcement chief confirmed the agency no longer has a dedicated FCPA unit but said foreign bribery enforcement, including books-and-record cases, will continue guided by a DOJ memo that prioritises cases involving harm to US companies.",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: doj, fcpa | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "a945268abed8751a",
@@ -4705,7 +4669,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires liées à la corruption dans le football."
     }
   ],
-  "last_update": "2026-09-10T21:01:39.065803+00:00",
+  "last_update": "2026-09-11T02:03:33.139427+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
