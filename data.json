@@ -760,7 +760,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "bb9874c0d8bcc220",
@@ -1030,7 +1030,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d25dee1354bf5022",
@@ -1285,24 +1285,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'application réglementaire et de la politique gouvernementale sur les cryptomonnaies."
     },
     {
-      "hash": "155e808743240913",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 7 août 2026 modifiant l'arrêté du 20 janvier 2022 modifié fixant la liste des emplois ouvrant droit à l'indemnité temporaire de mobilité au sein du ministère de l'intérieur",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054826439",
-      "author": "Ministère de l'intérieur",
-      "published": "2026-09-11T00:00:00",
-      "summary": "Le tableau figurant en annexe II de l'arrêté du 20 janvier 2022 modifié susvisé est remplacé par le tableau annexé au présent arrêté.\nLe présent arrêté sera publié au Journal officiel de la République française.\nANNEXELISTE DES EMPLOIS DES PERSONNELS DU CORPS DE COMMANDEMENT DE LA POLICE NATIONALE OUVRANT DROIT AU BÉNÉFICE DE L'INDEMNITÉ TEMPORAIRE DE MOBILITÉÉTABLISSEMENT, ORGANISME\n      \n     OU SERVICE ET LOCALISATION\n      \n     GÉOGRAPHIQUEEMPLOISCATÉGORIE\n      \n     STATUTAIRE\n      \n   ",
-      "score": 67,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "7768d2b800720dda",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -1336,7 +1318,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "29bb62a2cd8b810b",
@@ -1679,6 +1661,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La lutte contre la corruption dans la fonction publique relève de la conformité réglementaire et de la gestion des risques de fraude institutionnelle."
+    },
+    {
+      "hash": "155e808743240913",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 7 août 2026 modifiant l'arrêté du 20 janvier 2022 modifié fixant la liste des emplois ouvrant droit à l'indemnité temporaire de mobilité au sein du ministère de l'intérieur",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054826439",
+      "author": "Ministère de l'intérieur",
+      "published": "2026-09-11T00:00:00",
+      "summary": "Le tableau figurant en annexe II de l'arrêté du 20 janvier 2022 modifié susvisé est remplacé par le tableau annexé au présent arrêté.\nLe présent arrêté sera publié au Journal officiel de la République française.\nANNEXELISTE DES EMPLOIS DES PERSONNELS DU CORPS DE COMMANDEMENT DE LA POLICE NATIONALE OUVRANT DROIT AU BÉNÉFICE DE L'INDEMNITÉ TEMPORAIRE DE MOBILITÉÉTABLISSEMENT, ORGANISME\n      \n     OU SERVICE ET LOCALISATION\n      \n     GÉOGRAPHIQUEEMPLOISCATÉGORIE\n      \n     STATUTAIRE\n      \n   ",
+      "score": 54,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "0e3abc61aee868ed",
@@ -2347,42 +2347,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du devoir de diligence requis pour prévenir la fraude et le blanchiment d'argent."
     },
     {
-      "hash": "3f5ac7491adb1446",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "\"Nous ne faisons que semi-négocier avec eux\": Donald Trump ne menace plus de \"déchaîner les enfers\" sur l'Iran, il semble désormais privilégier la pression économique pour faire plier son ennemi",
-      "url": "https://www.bfmtv.com/economie/international/nous-ne-faisons-que-semi-negocier-avec-eux-donald-trump-ne-menace-plus-de-dechainer-les-enfers-sur-l-iran-il-semble-desormais-privilegier-la-pression-economique-pour-faire-plier-son-ennemi_AD-202608130273.html",
-      "author": "",
-      "published": "2026-08-13T09:34:32",
-      "summary": "Donald Trump opère-t-il un changement de stratégie? S'il n'a pas exclu la possibilité de nouvelles frappes contre Téhéran, le président américain insiste désormais davantage sur les dommages économiques subis par l'Iran au travers des sanctions imposées par Washington.",
-      "score": 42,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions économiques contre l'Iran comme outil de conformité aux mesures restrictives imposées par les États-Unis."
-    },
-    {
-      "hash": "b0619a03e87785d3",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Fraude bancaire par « SIM swap » : l’opérateur téléphonique et la banque condamnés",
-      "url": "https://www.lemonde.fr/argent/article/2026/08/13/fraude-bancaire-par-sim-swap-l-operateur-telephonique-et-la-banque-condamnes_6745540_1657007.html",
-      "author": "",
-      "published": "2026-08-13T04:00:34",
-      "summary": "Une victime dont on avait usurpé l’identité et qui s’était fait dérober 16 964 euros a été indemnisée par BNP Paribas et Free Mobile.",
-      "score": 42,
-      "score_breakdown": "+20 mots critiques: fraude, fraud | +5 mots moyens: banque | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la responsabilité financière des établissements bancaires et télécoms face aux fraudes et à la protection des données clients."
-    },
-    {
       "hash": "44fb127580bafc5d",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -2398,7 +2362,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Le fondateur a violé les sanctions contre l'Iran en maintenant des liens avec une entreprise iranienne, enfreignant les régulations OFAC de conformité financière."
+      "ai_summary": "Violation des sanctions américaines contre l'Iran par un fondateur de société, entraînant une amende de 1,4 million de dollars imposée par l'OFAC."
     },
     {
       "hash": "23ad8bb64e0e6ef6",
@@ -2776,7 +2740,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il relate le retrait d'une accusation de fraude et corruption contre un milliardaire, questions centrales en compliance."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "82c0504bf3d578c2",
@@ -2848,7 +2812,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "335ddf9beb3ffd44",
@@ -3460,7 +3424,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance. Cet article traite de la cybersécurité et des risques informatiques liés aux outils IA non autorisés, non de conformité financière."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "14e68b8541f8861c",
@@ -3640,7 +3604,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "bef1d3a837a66554",
@@ -4252,7 +4216,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "28a4c635b41c1793",
@@ -4723,7 +4687,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires liées à la corruption dans le football."
     }
   ],
-  "last_update": "2026-09-12T04:48:41.937959+00:00",
+  "last_update": "2026-09-12T09:47:52.910978+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
