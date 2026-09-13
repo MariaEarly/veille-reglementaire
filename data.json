@@ -997,24 +997,6 @@
       "ai_summary": "L'article concerne la conformité financière car il traite d'une alerte de l'AMF contre une plateforme de trading frauduleuse."
     },
     {
-      "hash": "3cdfd7177d7a9ff0",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Avis de concours pour le recrutement au titre de l'année 2027 d'inspecteurs de la concurrence, de la consommation et de la répression des fraudes",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054817513",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-09-10T00:00:00",
-      "summary": "La directrice générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) organise, au titre de l'année 2027, trois concours pour le recrutement d'inspecteurs et inspectrices de la concurrence, de la consommation et de la répression des fraudes :- un concours externe à dominante juridique et économique ;- un concours externe à dominante scientifique et technologique ;- un concours interne.I. - Conditions d'admission à concourirEn application de l'article L. 325-37 du ",
-      "score": 78,
-      "score_breakdown": "+20 mots critiques: fraude, fraud | +25 Source FR | +20 Géo FR: dgccrf | ×1.2 (<3d)",
-      "doc_type": "AVIS",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "d25dee1354bf5022",
       "source_name": "CNIL",
       "source_type": "rss",
@@ -1297,6 +1279,24 @@
       "score": 66,
       "score_breakdown": "+10 mots moyens: fintech, banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
       "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "3cdfd7177d7a9ff0",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Avis de concours pour le recrutement au titre de l'année 2027 d'inspecteurs de la concurrence, de la consommation et de la répression des fraudes",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054817513",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-09-10T00:00:00",
+      "summary": "La directrice générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) organise, au titre de l'année 2027, trois concours pour le recrutement d'inspecteurs et inspectrices de la concurrence, de la consommation et de la répression des fraudes :- un concours externe à dominante juridique et économique ;- un concours externe à dominante scientifique et technologique ;- un concours interne.I. - Conditions d'admission à concourirEn application de l'article L. 325-37 du ",
+      "score": 65,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +25 Source FR | +20 Géo FR: dgccrf | ×1.0 (7d)",
+      "doc_type": "AVIS",
       "action_class": "info",
       "status": "new",
       "early_brief": false,
@@ -1660,7 +1660,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0e3abc61aee868ed",
@@ -1822,7 +1822,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b3a7817030cf3fcf",
@@ -2722,7 +2722,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il met en lumière des questions d'intégrité et d'éthique dans les poursuites de fraude et corruption."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "82c0504bf3d578c2",
@@ -2794,7 +2794,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "335ddf9beb3ffd44",
@@ -3550,7 +3550,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bef1d3a837a66554",
@@ -3712,7 +3712,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne les risques de conformité liés à l'utilisation non autorisée d'outils IA par les employés, créant des enjeux de gouvernance et de contrôle interne."
+      "ai_summary": "Cet article concerne les risques de conformité liés à l'utilisation non autorisée d'outils IA par les employés, créant des enjeux de gouvernance et de contrôle interne."
     },
     {
       "hash": "920122dad9c9cf54",
@@ -4180,7 +4180,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "28a4c635b41c1793",
@@ -4343,24 +4343,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La société française intervient dans une affaire FCPA concernant son ancien CTO pour contester une assignation jugée abusive."
-    },
-    {
-      "hash": "198588e33229cbf0",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Ex-Balt exec to challenge DOJ’s “novel” foreign official label",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/ex-balt-exec-challenge-dojs-novel-foreign-official-label",
-      "author": "Estelle Atkinson",
-      "published": "2026-08-13T20:28:43",
-      "summary": "David Ferrera plans to seek dismissal of his foreign bribery case by arguing the DOJ is stretching the FCPA to cover a doctor employed by a French state-owned hospital.",
-      "score": 9,
-      "score_breakdown": "+3 Presse | +3 Géo Intl: doj, fcpa | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité FCPA et l'interprétation de la définition légale de \"fonctionnaire étranger\" en matière de lutte anti-corruption."
     },
     {
       "hash": "752f9706a5dac403",
@@ -4633,7 +4615,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires liées à la corruption dans le football."
     }
   ],
-  "last_update": "2026-09-12T20:43:43.640420+00:00",
+  "last_update": "2026-09-13T02:04:08.859880+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
