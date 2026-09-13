@@ -709,24 +709,6 @@
       "ai_summary": "Basware acquiert Trustpair pour renforcer la prévention de la fraude aux paiements, améliorant la conformité financière et les contrôles."
     },
     {
-      "hash": "47f00f6cb1e57204",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Trends in investigations: cartels and transnational criminal organisations, cryptocurrency, trade, healthcare and AI",
-      "url": "https://globalinvestigationsreview.com/review/the-investigations-review-of-the-americas/2027/article/trends-in-investigations-cartels-and-transnational-criminal-organisations-cryptocurrency-trade-healthcare-and-ai",
-      "author": "Neil Keenan,Umair Nadeem,Masako Asaka,Danielle Logue,Patrick Drummond,Chavi Gupta",
-      "published": "2026-08-14T07:00:00",
-      "summary": "Investigations across the Americas are being reshaped by shifting US enforcement priorities, with heightened scrutiny of cartel activity, trade fraud, healthcare fraud and the misuse of digital assets. At the same time, artificial intelligence is creating both new compliance risks and powerful investigative tools, forcing organisations to adapt their risk management and investigative strategies.&amp;n...",
-      "score": 94,
-      "score_breakdown": "+20 mots critiques: fraud | +20 mots forts: compliance, crypto | +5 mots moyens: risk | +3 Presse | +15 IA×Finance: artificial intelligence+compliance | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les priorités d'application de la loi américaine incluant fraude commerciale, fraude sanitaire et abus d'actifs numériques."
-    },
-    {
       "hash": "21cb297a43919dcf",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -743,6 +725,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'AMF lance un appel à candidatures pour son prix jeune chercheur en économie, favorisant la recherche académique dans le domaine financier."
+    },
+    {
+      "hash": "ba0f23fe3668c953",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 11 septembre 2026 portant application des articles L. 562-2 et suivants du code monétaire et financier",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054834758",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-09-13T00:00:00",
+      "summary": "Par arrêté du ministre de l'intérieur et du ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique en date du 11 septembre 2026, vu le code monétaire et financier, notamment ses articles L. 562-2 et suivants, les fonds et ressources économiques qui appartiennent à, sont possédés, détenus ou contrôlés par M. Deniz SURGUT, né le 25 août 1988 à Batman (Turquie), ainsi que les fonds et ressources économiques qui appartiennent à, sont possédés, détenus ou co",
+      "score": 82,
+      "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: code monétaire | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "bb9874c0d8bcc220",
@@ -1231,24 +1231,6 @@
       "ai_summary": "Cet article traite de la conformité AML/sanctions en analysant comment les régulateurs évaluent le contrôle réel des actifs."
     },
     {
-      "hash": "dd30fa9f1cdbce07",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "United States: DOJ and SEC cryptocurrency policy and enforcement",
-      "url": "https://globalinvestigationsreview.com/review/the-investigations-review-of-the-americas/2027/article/united-states-doj-and-sec-cryptocurrency-policy-and-enforcement",
-      "author": "Bob Allen,Zachary Brez,Charles Kalil,Jacquelyn Kasulis",
-      "published": "2026-08-14T07:00:00",
-      "summary": "The United States is reshaping its approach to cryptocurrency regulation, with the Trump Administration prioritising regulatory clarity and a move away from what critics characterised as enforcement-led policymaking. While regulators have stepped back from some registration-focused cases against crypto businesses, authorities continue to pursue fraud, money laundering, sanctions breaches and other...",
-      "score": 69,
-      "score_breakdown": "+20 mots critiques: sanction, money laundering, fraud | +10 mots forts: crypto | +10 mots moyens: regulation, ppe | +3 Presse | +3 Géo Intl: united states, doj | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'application réglementaire et de la politique gouvernementale sur les cryptomonnaies."
-    },
-    {
       "hash": "7768d2b800720dda",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -1267,24 +1249,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'approbation réglementaire d'un transfert de portefeuille d'assurance."
     },
     {
-      "hash": "9fb23958d2a8221d",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Forum Fintech 2026 : rendez-vous le 2 octobre ! - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeTh1ZUVzSV9Wd1VUeFN5SFJJcmN2Tlh6YU1Dc3dfb2dnUXhIYmtXNS11eVFsbmhPd3pUT2FzM0ROSk13SU01WGt6ejlwSG9LVF9uWW9kejRnU09iVnR4Z0hocWt6TTVyeDJOSEdMRlhQRzFqQnA4ektGTlNoQmQ4TjQ4bkNyN1pIQzIzLU95VDA?oc=5",
-      "author": "",
-      "published": "2026-09-11T09:55:47",
-      "summary": "Forum Fintech 2026 : rendez-vous le 2 octobre !&nbsp;&nbsp;Banque de France",
-      "score": 66,
-      "score_breakdown": "+10 mots moyens: fintech, banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "3cdfd7177d7a9ff0",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1300,7 +1264,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "29bb62a2cd8b810b",
@@ -1660,7 +1624,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0e3abc61aee868ed",
@@ -1697,24 +1661,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne l'identification des points de contact centraux pour la conformité anti-blanchiment de capitaux selon la directive AMLA."
-    },
-    {
-      "hash": "950dc37118a800eb",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "United States: navigating corporate enforcement amid Department of Justice realignment",
-      "url": "https://globalinvestigationsreview.com/review/the-investigations-review-of-the-americas/2027/article/united-states-navigating-corporate-enforcement-amid-department-of-justice-realignment",
-      "author": "Mark Chutkow,Leigha Simonton,Jennifer Beidel,Scott Hogan,Tiffany Eggers",
-      "published": "2026-08-14T07:00:00",
-      "summary": "The US corporate enforcement landscape is being reshaped by a Department of Justice realignment that prioritises fraud, technology-enabled investigations and voluntary self-disclosure. At the same time, increasingly active state attorneys general and a series of significant court rulings are creating new compliance challenges and opportunities for companies facing regulatory scrutiny.&nbsp;",
-      "score": 54,
-      "score_breakdown": "+20 mots critiques: fraud | +10 mots forts: compliance | +3 Presse | +3 Géo Intl: united states, department of justice | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des changements dans l'application de la loi anticorruption et de fraude aux États-Unis."
     },
     {
       "hash": "7d7615e1b88121df",
@@ -1822,7 +1768,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b3a7817030cf3fcf",
@@ -1951,24 +1897,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du renforcement des sanctions contre la Russie et de leurs impacts économiques."
     },
     {
-      "hash": "c8f5332b05af8b55",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Crucial considerations for effective internal investigations",
-      "url": "https://globalinvestigationsreview.com/review/the-investigations-review-of-the-americas/2027/article/crucial-considerations-effective-internal-investigations",
-      "author": "Olivia Radin,Amanda A Sonneborn",
-      "published": "2026-08-14T07:00:00",
-      "summary": "Internal investigations have evolved from a reactive exercise into a strategic compliance tool that helps organisations identify misconduct, strengthen controls and prevent wider corporate crises. At the same time, emerging issues such as artificial intelligence, privilege waiver risks and cross-border investigations are creating new challenges for legal and compliance teams.&nbsp;",
-      "score": 49,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: risk | +3 Presse | +15 IA×Finance: artificial intelligence+compliance | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite des investigations internes comme outil de conformité pour identifier les manquements et renforcer les contrôles organisationnels."
-    },
-    {
       "hash": "1995f8ed465aac50",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -2021,6 +1949,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions économiques contre l'Iran et de leur mise en œuvre."
+    },
+    {
+      "hash": "065d15a83549a0b0",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Tableau d'avancement pour l'accès au 2e grade (magistrature)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054835044",
+      "author": "Ministère de la justice",
+      "published": "2026-09-13T00:00:00",
+      "summary": "Inscrits : 918ABADIA, Pierre-Alain, substitut du procureur de la République antiterroriste, cour d'appel de Paris, parquet national antiterroriste.ABBAS, Claire, juge de l'application des peines, cour d'appel de Lyon, tribunal judiciaire de Saint-Etienne.ABBE, Cyrille, juge, cour d'appel d'Aix-en-Provence, tribunal judiciaire de Tarascon.ACCARY, Justine, substitut placé, cour d'appel de Douai.ACHAWI, Jomana, substitut placé, cour d'appel de Paris.ADAM, Antoine, substitut, cour d'appel de Rouen, ",
+      "score": 45,
+      "score_breakdown": "+5 mots moyens: ppe | +25 Source FR | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "aa2da3a86c8c81f2",
@@ -2707,24 +2653,6 @@
       "ai_summary": "Cet article concerne la conformité des prospectus financiers et la convergence supervisoire suite à la Loi Listing."
     },
     {
-      "hash": "2296a0f0c9ede60c",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "DOJ fires prosecutor who withdrew from Adani case",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/doj-fires-prosecutor-who-withdrew-adani-case",
-      "author": "Gaspard Le Dem,Mark Taylor",
-      "published": "2026-09-09T19:41:30",
-      "summary": "The attorney abruptly left a high-profile fraud and bribery prosecution against Indian billionaire Gautam shortly before it was dropped by the DOJ, raising concerns that line prosecutors may have opposed abandoning the case.",
-      "score": 37,
-      "score_breakdown": "+20 mots critiques: fraud | +5 mots moyens: ppe | +3 Presse | +3 Géo Intl: doj | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "82c0504bf3d578c2",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -2794,7 +2722,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "335ddf9beb3ffd44",
@@ -3265,24 +3193,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de fraude financière, détournement de fonds et sanctions pénales contre un dirigeant."
     },
     {
-      "hash": "b9e9d2e129a19a60",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Navigating accounting investigations amid shifting compliance regulations",
-      "url": "https://globalinvestigationsreview.com/review/the-investigations-review-of-the-americas/2027/article/navigating-accounting-investigations-amid-shifting-compliance-regulations",
-      "author": "Brian Loughman,Meghan Mellott,Rachel Seow",
-      "published": "2026-08-14T07:00:00",
-      "summary": "As regulatory priorities shift, accounting investigations remain a critical tool for uncovering financial misconduct, testing internal controls and evaluating corporate governance. While federal enforcement has become more selective in certain areas, organisations still face significant scrutiny from regulators, state authorities and international enforcement bodies, making strong compliance frame...",
-      "score": 34,
-      "score_breakdown": "+10 mots forts: compliance | +10 mots moyens: internal control, regulation | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des enquêtes comptables, du contrôle interne et de la conformité réglementaire."
-    },
-    {
       "hash": "ea50dd1ef25e90b6",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -3299,6 +3209,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "FinCEN analyse les tendances frauduleuses en santé pour renforcer la détection et la prévention de blanchiment d'argent dans ce secteur."
+    },
+    {
+      "hash": "2296a0f0c9ede60c",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "DOJ fires prosecutor who withdrew from Adani case",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/doj-fires-prosecutor-who-withdrew-adani-case",
+      "author": "Gaspard Le Dem,Mark Taylor",
+      "published": "2026-09-09T19:41:30",
+      "summary": "The attorney abruptly left a high-profile fraud and bribery prosecution against Indian billionaire Gautam shortly before it was dropped by the DOJ, raising concerns that line prosecutors may have opposed abandoning the case.",
+      "score": 31,
+      "score_breakdown": "+20 mots critiques: fraud | +5 mots moyens: ppe | +3 Presse | +3 Géo Intl: doj | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "be0da4d5e33f5553",
@@ -3481,24 +3409,6 @@
       "ai_summary": "Une banque d'investissement malaisienne a accepté une amende pour manquements présumés en lutte anti-blanchiment."
     },
     {
-      "hash": "0cfc904edb68f96c",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Anti-bribery and corruption controls and investigations readiness in the digital asset economy",
-      "url": "https://globalinvestigationsreview.com/review/the-investigations-review-of-the-americas/2027/article/anti-bribery-and-corruption-controls-and-investigations-readiness-in-the-digital-asset-economy",
-      "author": "Brian Markley,Christopher A Arkin,Jennifer Potts",
-      "published": "2026-08-14T07:00:00",
-      "summary": "As digital asset businesses seek institutional capital, banking relationships and greater regulatory acceptance, anti-bribery and corruption controls increasingly depend on the ability to explain, document and retrieve the records behind token transfers and other movements of value. Effective compliance frameworks must connect on-chain activity with off-chain approvals, diligence, governance and s...",
-      "score": 27,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: bank | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité en matière de lutte anti-corruption dans les entreprises d'actifs numériques."
-    },
-    {
       "hash": "882f3ebb654fea54",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3550,7 +3460,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "bef1d3a837a66554",
@@ -3712,7 +3622,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les risques de conformité liés à l'utilisation non autorisée d'outils IA par les employés, créant des enjeux de gouvernance et de contrôle interne."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "920122dad9c9cf54",
@@ -4180,7 +4090,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "28a4c635b41c1793",
@@ -4615,7 +4525,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires liées à la corruption dans le football."
     }
   ],
-  "last_update": "2026-09-13T05:04:12.838668+00:00",
+  "last_update": "2026-09-13T10:49:12.352094+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
