@@ -1264,7 +1264,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "29bb62a2cd8b810b",
@@ -1609,24 +1609,6 @@
       "ai_summary": "La lutte contre la corruption dans la fonction publique relève de la conformité réglementaire et de la gestion des risques de fraude institutionnelle."
     },
     {
-      "hash": "155e808743240913",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 7 août 2026 modifiant l'arrêté du 20 janvier 2022 modifié fixant la liste des emplois ouvrant droit à l'indemnité temporaire de mobilité au sein du ministère de l'intérieur",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054826439",
-      "author": "Ministère de l'intérieur",
-      "published": "2026-09-11T00:00:00",
-      "summary": "Le tableau figurant en annexe II de l'arrêté du 20 janvier 2022 modifié susvisé est remplacé par le tableau annexé au présent arrêté.\nLe présent arrêté sera publié au Journal officiel de la République française.\nANNEXELISTE DES EMPLOIS DES PERSONNELS DU CORPS DE COMMANDEMENT DE LA POLICE NATIONALE OUVRANT DROIT AU BÉNÉFICE DE L'INDEMNITÉ TEMPORAIRE DE MOBILITÉÉTABLISSEMENT, ORGANISME\n      \n     OU SERVICE ET LOCALISATION\n      \n     GÉOGRAPHIQUEEMPLOISCATÉGORIE\n      \n     STATUTAIRE\n      \n   ",
-      "score": 54,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "0e3abc61aee868ed",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -1933,22 +1915,22 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions économiques contre l'Iran et de leur mise en œuvre."
     },
     {
-      "hash": "065d15a83549a0b0",
+      "hash": "155e808743240913",
       "source_name": "JORF - Financier",
       "source_type": "rss",
       "category": "autorite_fr",
-      "title": "Tableau d'avancement pour l'accès au 2e grade (magistrature)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054835044",
-      "author": "Ministère de la justice",
-      "published": "2026-09-13T00:00:00",
-      "summary": "Inscrits : 918ABADIA, Pierre-Alain, substitut du procureur de la République antiterroriste, cour d'appel de Paris, parquet national antiterroriste.ABBAS, Claire, juge de l'application des peines, cour d'appel de Lyon, tribunal judiciaire de Saint-Etienne.ABBE, Cyrille, juge, cour d'appel d'Aix-en-Provence, tribunal judiciaire de Tarascon.ACCARY, Justine, substitut placé, cour d'appel de Douai.ACHAWI, Jomana, substitut placé, cour d'appel de Paris.ADAM, Antoine, substitut, cour d'appel de Rouen, ",
+      "title": "Arrêté du 7 août 2026 modifiant l'arrêté du 20 janvier 2022 modifié fixant la liste des emplois ouvrant droit à l'indemnité temporaire de mobilité au sein du ministère de l'intérieur",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054826439",
+      "author": "Ministère de l'intérieur",
+      "published": "2026-09-11T00:00:00",
+      "summary": "Le tableau figurant en annexe II de l'arrêté du 20 janvier 2022 modifié susvisé est remplacé par le tableau annexé au présent arrêté.\nLe présent arrêté sera publié au Journal officiel de la République française.\nANNEXELISTE DES EMPLOIS DES PERSONNELS DU CORPS DE COMMANDEMENT DE LA POLICE NATIONALE OUVRANT DROIT AU BÉNÉFICE DE L'INDEMNITÉ TEMPORAIRE DE MOBILITÉÉTABLISSEMENT, ORGANISME\n      \n     OU SERVICE ET LOCALISATION\n      \n     GÉOGRAPHIQUEEMPLOISCATÉGORIE\n      \n     STATUTAIRE\n      \n   ",
       "score": 45,
-      "score_breakdown": "+5 mots moyens: ppe | +25 Source FR | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "aa2da3a86c8c81f2",
@@ -2689,6 +2671,24 @@
       "ai_summary": "L'article concerne la conformité financière car il traite des normes réglementaires de l'EBA sur le classement des entreprises d'investissement."
     },
     {
+      "hash": "065d15a83549a0b0",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Tableau d'avancement pour l'accès au 2e grade (magistrature)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054835044",
+      "author": "Ministère de la justice",
+      "published": "2026-09-13T00:00:00",
+      "summary": "Inscrits : 918ABADIA, Pierre-Alain, substitut du procureur de la République antiterroriste, cour d'appel de Paris, parquet national antiterroriste.ABBAS, Claire, juge de l'application des peines, cour d'appel de Lyon, tribunal judiciaire de Saint-Etienne.ABBE, Cyrille, juge, cour d'appel d'Aix-en-Provence, tribunal judiciaire de Tarascon.ACCARY, Justine, substitut placé, cour d'appel de Douai.ACHAWI, Jomana, substitut placé, cour d'appel de Paris.ADAM, Antoine, substitut, cour d'appel de Rouen, ",
+      "score": 36,
+      "score_breakdown": "+5 mots moyens: ppe | +25 Source FR | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "875f1ce26f3aff05",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -2704,7 +2704,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "335ddf9beb3ffd44",
@@ -3208,7 +3208,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "be0da4d5e33f5553",
@@ -3281,6 +3281,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière via la supervision des marchés de capitaux, la protection des investisseurs et la transparence."
+    },
+    {
+      "hash": "46356dafde181ef5",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Q&A: False Claims Act’s Qui Tam Provisions Upheld — for Now",
+      "url": "https://www.corporatecomplianceinsights.com/qui-tam-provisions-upheld-for-now/",
+      "author": "Staff and Wire Reports",
+      "published": "2026-09-14T11:00:04",
+      "summary": "Constitutional challenge to whistleblower suits isn’t over, but neither is blistering pace of filings\nThe post Q&#038;A: False Claims Act&#8217;s Qui Tam Provisions Upheld — for Now appeared first on Corporate Compliance Insights.",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "14e68b8541f8861c",
@@ -3442,7 +3460,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "bef1d3a837a66554",
@@ -4072,7 +4090,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "28a4c635b41c1793",
@@ -4507,7 +4525,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires liées à la corruption dans le football."
     }
   ],
-  "last_update": "2026-09-14T05:12:57.421259+00:00",
+  "last_update": "2026-09-14T11:14:51.204778+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
