@@ -742,7 +742,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ba0f23fe3668c953",
@@ -1213,24 +1213,6 @@
       "ai_summary": "Cet article concerne la conformité financière car l'AMF met en garde contre une arnaque impliquant une plateforme de trading frauduleuse."
     },
     {
-      "hash": "1174396f7b4ceccf",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "10 000 abonnés : l'ACPR franchit un cap symbolique sur son compte Instagram ! - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcmFRM0hZS3I5U2dnOE9EMXBIRXRkTTVrYTJPWWJ3QjdJV2JEanZhY2tXTzZzLThzcXNTSnVBdHJ2V1ZYaGRGU3U4NUpTbEJ1eUJHNmtnaXRXeGxNVk43aXprUnU5YVlQM2dya1dXTEF0Q0x1akRoLVh2MkY0N3pjSDBOTlp4VWVST1hPYVV4LVMwdGE2QmJrZTBzX2NuWkNSS21kb2x6dVVsU0xUTFl2MG1aOFJfLTQ?oc=5",
-      "author": "",
-      "published": "2026-09-14T13:02:21",
-      "summary": "10 000 abonnés : l'ACPR franchit un cap symbolique sur son compte Instagram !&nbsp;&nbsp;Banque de France",
-      "score": 72,
-      "score_breakdown": "+10 mots forts: acpr | +5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, acpr, banque de france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
-    },
-    {
       "hash": "92463a506353f453",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -1336,7 +1318,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "29bb62a2cd8b810b",
@@ -1660,7 +1642,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des nouvelles règles anti-fraude de la Banque centrale des Philippines et de leur impact sur la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il examine l'impact des nouvelles règles anti-fraude (AFASA) sur la lutte anti-blanchiment aux Philippines."
     },
     {
       "hash": "92d9ad8b4bd55153",
@@ -1678,7 +1660,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il révèle les risques de sanction et les manquements aux contrôles de conformité d'une banque chinoise."
+      "ai_summary": "Cet article concerne la conformité financière car il révèle des violations potentielles de sanctions et de régulations anti-blanchiment par une banque."
     },
     {
       "hash": "e09cc1eb3895ea9d",
@@ -2092,7 +2074,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "aa2da3a86c8c81f2",
@@ -2128,7 +2110,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la régulation bancaire européenne et la supervision financière par l'EBA, relevant de la conformité réglementaire du secteur financier."
+      "ai_summary": "Cet article concerne la supervision et la régulation bancaire européenne, domaines clés de la conformité financière."
     },
     {
       "hash": "a3f7132dccd4fa37",
@@ -2146,7 +2128,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "485f1121acb4fb2b",
@@ -2291,6 +2273,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "FinCEN s'engage à combattre la fraude dans les hospices en Californie, relevant de la conformité anti-blanchiment."
+    },
+    {
+      "hash": "a55391db5cab2501",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Bessent signals easing of AML reporting rules as Treasury intensifies Iran crackdown",
+      "url": "https://globalinvestigationsreview.com/article/bessent-signals-easing-of-aml-reporting-rules-treasury-intensifies-iran-crackdown",
+      "author": "Dan Novak",
+      "published": "2026-09-15T19:27:23",
+      "summary": "Treasury Secretary Scott Bessent said the Trump administration is considering higher thresholds for suspicious activity and currency transaction reports and lighter compliance burdens for banks, even as it expands its campaign against Iranian financial networks.",
+      "score": 42,
+      "score_breakdown": "+20 mots forts: aml, compliance | +5 mots moyens: bank | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "2b262a4eddfef498",
@@ -2830,7 +2830,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La publication de statistiques bancaires par la BCE sur les établissements significatifs relève de la transparence et de la conformité réglementaire financière."
+      "ai_summary": "Cet article concerne la conformité financière car il rapporte les statistiques de supervision bancaire de la BCE sur les établissements importants."
     },
     {
       "hash": "28e2b6413847fd76",
@@ -2938,7 +2938,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "875f1ce26f3aff05",
@@ -2956,7 +2956,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "335ddf9beb3ffd44",
@@ -2995,6 +2995,24 @@
       "ai_summary": "FinCEN propose de révoquer l'accès bancaire correspondant de Banque Misr UAE aux institutions financières américaines."
     },
     {
+      "hash": "e949f4e16273aab7",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Maduro ally pleads guilty to $195m Venezuela corruption scheme",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/maduro-ally-pleads-guilty-195m-venezuela-corruption-scheme",
+      "author": "Estelle Atkinson",
+      "published": "2026-09-15T20:37:26",
+      "summary": "Alex Nain Saab Morán, who was granted clemency by former US President Joe Biden in an earlier corruption case, was extradited from Venezuela in May on money laundering charges tied to a food assistance programme.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: money laundering | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "6a5501cde105c59e",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3010,7 +3028,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Le Royaume-Uni renforce ses effectifs de lutte contre le blanchiment d'argent pour améliorer la conformité financière et respecter les normes FATF."
     },
     {
       "hash": "647eae8296a8eb4a",
@@ -3748,7 +3766,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c96b370270fd74ad",
@@ -3766,7 +3784,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment d'argent et des violations des sanctions internationales."
     },
     {
       "hash": "bef1d3a837a66554",
@@ -4486,7 +4504,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ff03468216450d93",
@@ -4882,7 +4900,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la modification des indemnités versées aux fonctionnaires, un enjeu de conformité budgétaire et de contrôle des dépenses publiques."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des règles de versement des indemnités publiques et de leur encadrement réglementaire."
     },
     {
       "hash": "eba7bdf4837d0e41",
@@ -4975,7 +4993,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires liées à la corruption dans le football."
     }
   ],
-  "last_update": "2026-09-15T21:33:34.132015+00:00",
+  "last_update": "2026-09-16T02:21:25.435358+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
