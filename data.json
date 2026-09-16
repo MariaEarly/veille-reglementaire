@@ -742,25 +742,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "3692824438601d83",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Découvrez la série de vidéos sur les 10 ans du pôle Fintech-Innovation ! - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVFNfMDR6aFE0VE4ySEMzcHFvdTRyb25FYjRaQTZpeEJveF9TTVdBYzRKMnJaa3J5clVRYVJzazFseDhrWlRvSElNZGFxanNocVlUMV84a2w2V1hubVNjRHUtZmxmRnp5ZU83enFWb09ENEVhVDRmUkpGOS1GYWNvSGxoOG9yNlhXeDU3R3Uwcm10TlRCWERpc2MwYjZUdkpzaXlPQVJPVllyOVBNMXpRck9Nbkk?oc=5",
-      "author": "",
-      "published": "2026-09-15T11:54:32",
-      "summary": "Découvrez la série de vidéos sur les 10 ans du pôle Fintech-Innovation !&nbsp;&nbsp;Banque de France",
-      "score": 82,
-      "score_breakdown": "+10 mots moyens: fintech, banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet arrêté modifie les seuils de catégorisation des prêts pour l'application des règles légales d'usure et de conformité financière."
     },
     {
       "hash": "ba0f23fe3668c953",
@@ -959,6 +941,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet arrêté applique les dispositions du code monétaire et financier relatives au gel des avoirs et à la lutte contre le financement du terrorisme."
+    },
+    {
+      "hash": "ad815b23b76faf34",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "AMLA launches survey on Central Contact Points",
+      "url": "https://www.amla.europa.eu/news-media/news-articles/amla-launches-survey-central-contact-points_en",
+      "author": "",
+      "published": "2026-09-16T15:12:30",
+      "summary": "Share your experience: AMLA is inviting Electronic Money Institutions (EMIs) and Payment Service Providers (PSPs) to provide feedback on their experience with the current Central Contact Point (CCP) framework pursuant to Article 45(9) AMLD and Delegated Regulation (EU) 2018/1108.",
+      "score": 82,
+      "score_breakdown": "+20 mots forts: aml, amla | +10 mots moyens: regulation, payment | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "5547245978c4e8b5",
@@ -1285,6 +1285,24 @@
       "ai_summary": "Cet article traite de la conformité AML/sanctions en analysant comment les régulateurs évaluent le contrôle réel des actifs."
     },
     {
+      "hash": "d24237ebbcf760f1",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "The State of FCPA Enforcement: Fewer Cases, but Risk Remains",
+      "url": "https://www.corporatecomplianceinsights.com/state-fcpa-enforcement-fewer-cases-risk-remains/",
+      "author": "Thad McBride",
+      "published": "2026-09-16T11:00:55",
+      "summary": "Corporate FCPA enforcement is down, but enforcement involving international business, especially under export controls and economic sanctions, remains active, Thad McBride of Bass Berry &#038; Sims explains. Third parties remain a primary source of risk, but when violations do arise, the DOJ has made voluntary disclosure a compelling option.\nThe post The State of FCPA Enforcement: Fewer Cases, but Risk Remains appeared first on Corporate Compliance Insights.",
+      "score": 69,
+      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: compliance | +10 mots moyens: risk, ppe | +3 Presse | +3 Géo Intl: doj, fcpa | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "83f8e80d7ab5cc35",
       "source_name": "DG Trésor",
       "source_type": "rss",
@@ -1339,6 +1357,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'approbation réglementaire d'un transfert de portefeuille d'assurance."
     },
     {
+      "hash": "3692824438601d83",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Découvrez la série de vidéos sur les 10 ans du pôle Fintech-Innovation ! - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVFNfMDR6aFE0VE4ySEMzcHFvdTRyb25FYjRaQTZpeEJveF9TTVdBYzRKMnJaa3J5clVRYVJzazFseDhrWlRvSElNZGFxanNocVlUMV84a2w2V1hubVNjRHUtZmxmRnp5ZU83enFWb09ENEVhVDRmUkpGOS1GYWNvSGxoOG9yNlhXeDU3R3Uwcm10TlRCWERpc2MwYjZUdkpzaXlPQVJPVllyOVBNMXpRck9Nbkk?oc=5",
+      "author": "",
+      "published": "2026-09-15T11:54:32",
+      "summary": "Découvrez la série de vidéos sur les 10 ans du pôle Fintech-Innovation !&nbsp;&nbsp;Banque de France",
+      "score": 66,
+      "score_breakdown": "+10 mots moyens: fintech, banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "3cdfd7177d7a9ff0",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1354,7 +1390,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "29bb62a2cd8b810b",
@@ -1481,6 +1517,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "FinCEN demande aux banques de renforcer la détection de fraudes aux aides étudiantes fédérales, relevant de la conformité financière."
+    },
+    {
+      "hash": "3c0821dcc7ef60ef",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "​European Parliament confirms Thomas Gstädtner as Executive Director of the EBA",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/european-parliament-confirms-thomas-gstadtner-executive-director-eba",
+      "author": "Jana Jaklic",
+      "published": "2026-09-16T14:50:26",
+      "summary": "​Following a plenary vote in the European Parliament, Thomas Gstädtner has been confirmed as the new Executive Director of the European Banking Authority (EBA). Thomas Gstädtner, who will serve a five-year renewable term, was selected by the EBA Board of Supervisors from a shortlist of candidates following an open selection procedure.",
+      "score": 60,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +15 Source EU | +10 Géo EU: european parliament, eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "20f8b849448c2f88",
@@ -1678,7 +1732,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite des nouvelles règles anti-fraude (AFASA) de la banque centrale philippine et leur impact sur la conformité AML des institutions financières."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des nouvelles règles anti-fraude (AFASA) de la Banque Centrale des Philippines et de leurs impacts sur la lutte anti-blanchiment."
     },
     {
       "hash": "92d9ad8b4bd55153",
@@ -1696,7 +1750,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il révèle comment une banque contourne les sanctions internationales en finançant des entités russes sanctionnées."
+      "ai_summary": "Cet article concerne la conformité financière car il expose le financement par une banque d'activités sous sanctions, violant les obligations de conformité et les réglementations anti-blanchiment."
     },
     {
       "hash": "e09cc1eb3895ea9d",
@@ -1805,6 +1859,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il porte sur la modification du fichier des incidents de remboursement de crédits aux particuliers."
+    },
+    {
+      "hash": "f9b5abd9f87a3fce",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 16 September, 2026",
+      "url": "https://www.eba.europa.eu/node/20009",
+      "author": "Anonymous",
+      "published": "2026-09-16T15:30:03",
+      "summary": "EBA E-mail alert 16 September, 2026\n\n  \n    Date\n          16/09/2026\n\n      \n\nAnonymous (not verified)\n\nWed, 09/16/2026 - 17:30\n\n\n            \n\n      \n  \n    News &amp; Press\n          ​European Parliament confirms Thomas Gstädtner as Executive Director of the EBA \n      ",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: eba | +15 Source EU | +10 Géo EU: european parliament, eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car la nomination du directeur général de l'EBA affecte la gouvernance de l'autorité de régulation bancaire européenne."
     },
     {
       "hash": "cd750785c386fd0c",
@@ -2095,6 +2167,24 @@
       "ai_summary": "Cet arrêté concerne la conformité financière car il fixe les modalités de versement d'une aide financière, notamment la fréquence des paiements."
     },
     {
+      "hash": "15c23c42397bc673",
+      "source_name": "EBA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🛡️ How can Europe strengthen the resilience and competitiveness of its financial system while simplifying regulation? The EBA is at #EUROFI2026 in Dublin, contributing to discussions on these priorities and the future of EU banking. 👉 Read more:",
+      "url": "https://x.com/EBA_News/status/2100187597364465944",
+      "author": "@EBA_News",
+      "published": "2026-09-16T11:38:00",
+      "summary": "🛡️ How can Europe strengthen the resilience and competitiveness of its financial system while simplifying regulation?The EBA is at  #EUROFI2026 in Dublin, contributing to discussions on these priorities and the future of EU banking.👉 Read more:  lnkd.in/ebZcDG_k— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Sep 16, 2026",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: regulation, bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "6fcbfefbb6e72b96",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -2254,7 +2344,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des règles de reporting AML et des obligations de conformité bancaire face aux sanctions contre l'Iran."
+      "ai_summary": "L'article traite de la conformité financière en abordant les règles de signalement AML, les seuils de déclaration et les obligations de conformité bancaire."
     },
     {
       "hash": "2b262a4eddfef498",
@@ -2797,6 +2887,24 @@
       "ai_summary": "Cet article concerne les sanctions financières imposées par les États-Unis contre la Syrie et l'Iran."
     },
     {
+      "hash": "c78366fad0a662f9",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📢 The EBA is pleased to share that the European Parliament has confirmed Thomas Gstädtner as the new Executive Director of the Eur...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7506011331599261696",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-09-16T15:29:16",
+      "summary": "📢 The EBA is pleased to share that the European Parliament has confirmed Thomas Gstädtner as the new Executive Director of the European Banking Authority\n\nFollowing an open selection procedure, Thomas was selected by the EBA Board of Supervisors and will serve a five-year renewable term. He is expected to take up his duties in the coming weeks.\n\nThe EBA looks forward to welcoming Thomas and to working together to ensure the EBA remains an effective, trusted and forward-looking European Authority",
+      "score": 37,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: european parliament, eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "b12a337ba982eb97",
       "source_name": "ESMA (X)",
       "source_type": "rss",
@@ -2884,7 +2992,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "335ddf9beb3ffd44",
@@ -2920,7 +3028,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "da1d097b38570360",
@@ -2956,7 +3064,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de blanchiment d'argent et de corruption liée à un détournement de programme d'aide alimentaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de blanchiment d'argent et de corruption dans un programme d'aide alimentaire vénézuélien."
     },
     {
       "hash": "6a5501cde105c59e",
@@ -3496,7 +3604,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1a1872e71fb679ea",
@@ -3661,24 +3769,6 @@
       "ai_summary": "Cet article traite de la conformité financière, spécifiquement des règles de déclaration de bénéficiaires réels selon la Corporate Transparency Act."
     },
     {
-      "hash": "b0bac3c98ac1d5de",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Malaysian investment bank avoids prosecution with $2.5m fine for alleged AML failures",
-      "url": "https://globalinvestigationsreview.com/article/malaysian-investment-bank-avoids-prosecution-25m-fine-alleged-aml-failures",
-      "author": "Malavika Devaya",
-      "published": "2026-08-17T14:46:30",
-      "summary": "",
-      "score": 27,
-      "score_breakdown": "+10 mots forts: aml | +5 mots moyens: bank | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Une banque d'investissement malaisienne a accepté une amende pour manquements présumés en lutte anti-blanchiment."
-    },
-    {
       "hash": "882f3ebb654fea54",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3730,7 +3820,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c96b370270fd74ad",
@@ -3892,7 +3982,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de cadres de surveillance macroprudentielle pour réguler les risques systémiques bancaires."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'amélioration du cadre macroprudentiel européen pour renforcer la stabilité et la supervision bancaire."
     },
     {
       "hash": "30ba1bcbec5340e2",
@@ -4234,7 +4324,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article traite de la conformité réglementaire en montrant comment l'intégration bancaire européenne aide les banques à respecter les contraintes de conformité financière."
     },
     {
       "hash": "7765fe69f6b6e694",
@@ -4432,7 +4522,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8649c30775bd1c93",
@@ -4504,7 +4594,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ff03468216450d93",
@@ -4685,6 +4775,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La société française intervient dans une affaire FCPA concernant son ancien CTO pour contester une assignation jugée abusive."
+    },
+    {
+      "hash": "966a7cc7eabd98a1",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Russia-related Designations Removals; Counter Narcotics Designation Removal; Issuance of Amended Venezuela General License | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260916",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-09-16T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "14c8ca0be875ff7f",
@@ -4993,7 +5101,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires liées à la corruption dans le football."
     }
   ],
-  "last_update": "2026-09-16T11:52:31.763024+00:00",
+  "last_update": "2026-09-16T15:47:16.115086+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
