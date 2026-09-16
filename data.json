@@ -958,7 +958,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "5547245978c4e8b5",
@@ -1300,7 +1300,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de la conformité financière en analysant l'application de la loi FCPA contre la corruption internationale et les risques de conformité pour les entreprises."
     },
     {
       "hash": "83f8e80d7ab5cc35",
@@ -1372,7 +1372,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3cdfd7177d7a9ff0",
@@ -1390,7 +1390,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "29bb62a2cd8b810b",
@@ -1534,7 +1534,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La nomination du directeur exécutif de l'EBA concerne la conformité financière car l'EBA supervise la conformité bancaire en Europe."
     },
     {
       "hash": "20f8b849448c2f88",
@@ -1732,7 +1732,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des nouvelles règles anti-fraude (AFASA) de la Banque Centrale des Philippines et de leurs impacts sur la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne les nouvelles règles anti-fraude (AFASA) de la banque centrale philippine et leur impact sur la conformité AML."
     },
     {
       "hash": "92d9ad8b4bd55153",
@@ -1750,7 +1750,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il expose le financement par une banque d'activités sous sanctions, violant les obligations de conformité et les réglementations anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de violations potentielles de sanctions internationales et de risques de blanchiment liés aux financements de secteurs sanctionnés."
     },
     {
       "hash": "e09cc1eb3895ea9d",
@@ -1861,6 +1861,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il porte sur la modification du fichier des incidents de remboursement de crédits aux particuliers."
     },
     {
+      "hash": "16d5cfdff1129474",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Connecting intelligence and supervision: Rikke-Louise Petersen speaks at Nordic Financial Crime & Sanctions Forum",
+      "url": "https://www.amla.europa.eu/news-media/news-articles/connecting-intelligence-and-supervision-rikke-louise-petersen-speaks-nordic-financial-crime_en",
+      "author": "",
+      "published": "2026-09-16T15:49:43",
+      "summary": "MLA Executive Board Member Rikke-Louise Petersen delivered the opening keynote at the Nordic Financial Crime &amp; Sanctions Forum in Copenhagen on 15 September 2026.",
+      "score": 52,
+      "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "f9b5abd9f87a3fce",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -1876,7 +1894,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car la nomination du directeur général de l'EBA affecte la gouvernance de l'autorité de régulation bancaire européenne."
+      "ai_summary": "Cet article concerne la nomination d'un directeur exécutif à l'EBA, autorité chargée de la régulation bancaire et de la conformité financière en Europe."
     },
     {
       "hash": "cd750785c386fd0c",
@@ -2167,6 +2185,24 @@
       "ai_summary": "Cet arrêté concerne la conformité financière car il fixe les modalités de versement d'une aide financière, notamment la fréquence des paiements."
     },
     {
+      "hash": "be1eaba24b180769",
+      "source_name": "EBA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📢 The EBA welcomes the European Parliament’s confirmation of Thomas Gstädtner as the new Executive Director of the European Banking Authority. Thomas will take up his duties in the coming weeks. 👉  #EBA #EuropeanParliament #FinancialRegulation",
+      "url": "https://x.com/EBA_News/status/2100247035341386070",
+      "author": "@EBA_News",
+      "published": "2026-09-16T15:34:00",
+      "summary": "📢 The EBA welcomes the European Parliament’s confirmation of Thomas Gstädtner as the new Executive Director of the European Banking Authority.Thomas will take up his duties in the coming weeks.👉 link.europa.eu/fB8nQN #EBA  #EuropeanParliament  #FinancialRegulation— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Sep 16, 2026",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: regulation, bank | +10 Géo EU: european parliament, eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "15c23c42397bc673",
       "source_name": "EBA (X)",
       "source_type": "rss",
@@ -2182,7 +2218,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'EBA discute de renforcer la résilience du système financier européen tout en simplifiant la régulation bancaire."
     },
     {
       "hash": "6fcbfefbb6e72b96",
@@ -2344,7 +2380,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article traite de la conformité financière en abordant les règles de signalement AML, les seuils de déclaration et les obligations de conformité bancaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des règles de reporting AML et des obligations de conformité bancaire que le Trésor américain envisage de modifier."
     },
     {
       "hash": "2b262a4eddfef498",
@@ -2489,24 +2525,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales et de leurs implications pour les institutions financières."
-    },
-    {
-      "hash": "d33a66b7a6a8c1e7",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Neuroscience tech company settles export violations for suspended $1.7m fine",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/neuroscience-tech-company-settles-export-violations-suspended-17m-fine",
-      "author": "Estelle Atkinson",
-      "published": "2026-08-17T19:14:44",
-      "summary": "Plexon shipped machines to an entity-listed military academy in Beijing blacklisted for supporting China’s army, which included “purported brain-control weaponry”.",
-      "score": 42,
-      "score_breakdown": "+20 mots critiques: blacklist | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Une entreprise de neurotechnologie a violé les réglementations d'exportation en vendant du matériel à une entité militaire chinoise interdite."
     },
     {
       "hash": "44fb127580bafc5d",
@@ -2902,7 +2920,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la gouvernance de l'Autorité bancaire européenne, responsable de la supervision et de la conformité financière des banques européennes."
     },
     {
       "hash": "b12a337ba982eb97",
@@ -2992,7 +3010,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "335ddf9beb3ffd44",
@@ -3028,7 +3046,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "da1d097b38570360",
@@ -3049,6 +3067,42 @@
       "ai_summary": "FinCEN propose de révoquer l'accès bancaire correspondant de Banque Misr UAE aux institutions financières américaines."
     },
     {
+      "hash": "3d004f22072e89df",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Norway launches sanctions, crimes against humanity probes into state telecoms company",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/norway-launches-sanctions-crimes-against-humanity-probes-state-telecoms-company",
+      "author": "Grace Propheta",
+      "published": "2026-09-16T14:35:43",
+      "summary": "Norwegian police suspect that Telenor handed over sensitive customer data to Myanmar’s military regime in the aftermath of a violent coup in 2021.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "f031e93044bcf8f0",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Privilege concerns emerge in Ovsiannikov asset forfeiture proceedings",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/privilege-concerns-emerge-in-ovsiannikov-asset-forfeiture-proceedings",
+      "author": "Grace Propheta",
+      "published": "2026-09-16T12:42:43",
+      "summary": "A Russian former minister convicted in the UK’s first sanctions evasion trial has accused prosecutors of breaching privilege in proceeds of crime proceedings.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "e949f4e16273aab7",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3064,7 +3118,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de blanchiment d'argent et de corruption dans un programme d'aide alimentaire vénézuélien."
+      "ai_summary": "Cet article concerne les violations de conformité financière liées au blanchiment d'argent et à la corruption dans un programme d'aide alimentaire vénézuélien."
     },
     {
       "hash": "6a5501cde105c59e",
@@ -3604,7 +3658,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1a1872e71fb679ea",
@@ -3820,7 +3874,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c96b370270fd74ad",
@@ -3982,7 +4036,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'amélioration du cadre macroprudentiel européen pour renforcer la stabilité et la supervision bancaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du cadre macroprudentiel européen, essentiel pour la stabilité et la supervision bancaire."
     },
     {
       "hash": "30ba1bcbec5340e2",
@@ -4324,7 +4378,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article traite de la conformité réglementaire en montrant comment l'intégration bancaire européenne aide les banques à respecter les contraintes de conformité financière."
+      "ai_summary": "L'article traite de la conformité réglementaire bancaire en analysant comment l'intégration européenne aide les banques à respecter les contraintes réglementaires internationales."
     },
     {
       "hash": "7765fe69f6b6e694",
@@ -4507,24 +4561,6 @@
       "ai_summary": "FinCEN réglemente la transparence des prestataires de services monétaires à la frontière sud pour la conformité anti-blanchiment."
     },
     {
-      "hash": "f2643b6c38e5a3d1",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Mark Zuckerberg, patron de Meta, rejette les appels à ralentir le développement de l’IA",
-      "url": "https://www.lemonde.fr/pixels/article/2026/09/16/ia-le-patron-de-meta-mark-zuckerberg-rejette-les-appels-a-ralentir-son-developpement_6774782_4408996.html",
-      "author": "",
-      "published": "2026-09-16T03:25:48",
-      "summary": "Le groupe, qui investit jusqu’à l’équivalent de 126 milliards d’euros cette année dans ses infrastructures d’IA, bataille contre toute régulation susceptible de le ralentir. « Les gens ne voudront pas utiliser des agents qui ne sont pas alignés sur leurs intérêts et qui ne font pas ce qu’ils demandent », a défendu le dirigeant de Meta.",
-      "score": 12,
-      "score_breakdown": "+5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "8649c30775bd1c93",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -4594,7 +4630,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "ff03468216450d93",
@@ -4792,7 +4828,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions financières, les gels d'actifs et les restrictions commerciales imposées par les États-Unis sur la Russie et le Venezuela."
     },
     {
       "hash": "14c8ca0be875ff7f",
@@ -5101,7 +5137,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires liées à la corruption dans le football."
     }
   ],
-  "last_update": "2026-09-16T17:10:44.010116+00:00",
+  "last_update": "2026-09-16T20:39:18.277497+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
