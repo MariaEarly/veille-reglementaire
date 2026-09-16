@@ -727,6 +727,24 @@
       "ai_summary": "L'AMF lance un appel à candidatures pour son prix jeune chercheur en économie, favorisant la recherche académique dans le domaine financier."
     },
     {
+      "hash": "722002083e2fcc77",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 7 août 2026 modifiant l'arrêté du 24 août 2006 fixant les catégories de prêts servant de base à l'application de l'article L. 314-6 du code de la consommation et de l'article L. 313-5-1 du code monétaire et financier relatifs à l'usure et l'arrêté du 3 décembre 2024 pris en application de l'article L. 312-1-4 du code monétaire et financier",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054842389",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-09-16T00:00:00",
+      "summary": "L'article 1er de l'arrêté du 24 août 2006 susvisé est ainsi modifié :1° Au troisième alinéa du 1°, le mot : « 75 000 » est remplacé par le mot : « 100 000 » ;2° Au 2° :a) Au troisième alinéa, le mot : « 75 000 » est remplacé par le mot : « 100 000 » ;b) Après le quatrième alinéa, est inséré un alinéa ainsi rédigé : « - opérations de location avec option d'achat et de location-vente ; ».\nL'article 1-1 de l'arrêté du 24 août 2006 susvisé est ainsi modifié :1° Au premier alinéa, les mots : « du 202",
+      "score": 82,
+      "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: code monétaire | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "3692824438601d83",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -742,7 +760,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ba0f23fe3668c953",
@@ -1267,6 +1285,24 @@
       "ai_summary": "Cet article traite de la conformité AML/sanctions en analysant comment les régulateurs évaluent le contrôle réel des actifs."
     },
     {
+      "hash": "83f8e80d7ab5cc35",
+      "source_name": "DG Trésor",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Concurrence sur le marché à l’export américain après les droits de douane",
+      "url": "https://www.tresor.economie.gouv.fr/Articles/2026/09/16/concurrence-sur-le-marche-a-l-export-americain-apres-les-droits-de-douane",
+      "author": "",
+      "published": "2026-09-15T22:00:00",
+      "summary": "La mise en place des droits de douane par l’administration américaine a rebattu les cartes de la compétitivité des exportateurs du monde entier vers le marché américain. L’Union Européenne, surtout exposée à la concurrence du Canada, du Mexique et de la Chine, a subi une baisse de sa compétitivité équivalente à une hausse des prix moyens de + 1,1 %. Les secteurs de l’agroalimentaire, des machines, de la chimie et de l’acier sont les plus impactés au mois de juin 2026.",
+      "score": 67,
+      "score_breakdown": "+10 mots forts: eba | +25 Source FR | +10 Géo EU: union européenne, eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
       "hash": "e58758fe4592f1c5",
       "source_name": "Ministère de la Justice (CJIP)",
       "source_type": "rss",
@@ -1318,7 +1354,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "29bb62a2cd8b810b",
@@ -1642,7 +1678,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il examine l'impact des nouvelles règles anti-fraude (AFASA) sur la lutte anti-blanchiment aux Philippines."
+      "ai_summary": "Cet article traite des nouvelles règles anti-fraude (AFASA) de la banque centrale philippine et leur impact sur la conformité AML des institutions financières."
     },
     {
       "hash": "92d9ad8b4bd55153",
@@ -1660,7 +1696,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il révèle des violations potentielles de sanctions et de régulations anti-blanchiment par une banque."
+      "ai_summary": "Cet article concerne la conformité financière car il révèle comment une banque contourne les sanctions internationales en finançant des entités russes sanctionnées."
     },
     {
       "hash": "e09cc1eb3895ea9d",
@@ -1969,24 +2005,6 @@
       "ai_summary": "Les banques chinoises risquent des sanctions américaines pour non-conformité aux régimes de sanctions contre l'Iran."
     },
     {
-      "hash": "dbbcfc1475640592",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Vers un tiers d'entités russes sanctionnées en plus par l'Union européenne cet automne? La cheffe de la diplomatie européenne veut renforcer les sanctions contre la Russie",
-      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/vers-un-tiers-d-entites-russes-sanctionnees-en-plus-par-l-union-europeenne-cet-automne-la-cheffe-de-la-diplomatie-europeenne-veut-renforcer-les-sanctions-contre-la-russie_AD-202608170050.html",
-      "author": "",
-      "published": "2026-08-17T04:47:01",
-      "summary": "La cheffe de la diplomatie européenne, Kaja Kallas, a indiqué lundi matin dans la presse allemande vouloir augmenter d'un tiers les entités russes sanctionnées à partir de cet automne en raison de la guerre en Ukraine. Elle assure que plus de \"1.000 milliards d'euros\" ont été amputés à la Russie depuis février 2022. ",
-      "score": 49,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +10 Géo EU: union européenne | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du renforcement des sanctions contre la Russie et de leurs impacts économiques."
-    },
-    {
       "hash": "46947701f90401f2",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -2059,24 +2077,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions économiques contre l'Iran et de leur mise en œuvre."
     },
     {
-      "hash": "155e808743240913",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 7 août 2026 modifiant l'arrêté du 20 janvier 2022 modifié fixant la liste des emplois ouvrant droit à l'indemnité temporaire de mobilité au sein du ministère de l'intérieur",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054826439",
-      "author": "Ministère de l'intérieur",
-      "published": "2026-09-11T00:00:00",
-      "summary": "Le tableau figurant en annexe II de l'arrêté du 20 janvier 2022 modifié susvisé est remplacé par le tableau annexé au présent arrêté.\nLe présent arrêté sera publié au Journal officiel de la République française.\nANNEXELISTE DES EMPLOIS DES PERSONNELS DU CORPS DE COMMANDEMENT DE LA POLICE NATIONALE OUVRANT DROIT AU BÉNÉFICE DE L'INDEMNITÉ TEMPORAIRE DE MOBILITÉÉTABLISSEMENT, ORGANISME\n      \n     OU SERVICE ET LOCALISATION\n      \n     GÉOGRAPHIQUEEMPLOISCATÉGORIE\n      \n     STATUTAIRE\n      \n   ",
-      "score": 45,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "aa2da3a86c8c81f2",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -2111,24 +2111,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la supervision et la régulation bancaire européenne, domaines clés de la conformité financière."
-    },
-    {
-      "hash": "a3f7132dccd4fa37",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "Hej Stockholm!✨ 🎓 Hear from Patrick, one of our Swedish trainees, who completed his Master’s degree in Economics at Stockholm Univ...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7505558582730358784",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-09-15T09:30:13",
-      "summary": "Hej Stockholm!✨\n\n🎓 Hear from Patrick, one of our Swedish trainees, who completed his Master’s degree in Economics at Stockholm University before joining the European Banking Authority as a trainee.\n\n💬 “My traineeship at the EBA has provided a unique opportunity to be at the forefront of policymaking within the banking sector and contribute to advancing European objectives.”\n\nGaining first-hand insight into how European banking regulation is developed, Patrick has contributed to quantitative anal",
-      "score": 45,
-      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: regulation, bank | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "485f1121acb4fb2b",
@@ -2203,24 +2185,6 @@
       "ai_summary": "L'AMF a ouvert 36 enquêtes en 2025 pour assurer la conformité des marchés financiers et la lutte contre les infractions."
     },
     {
-      "hash": "72e3cd700940385a",
-      "source_name": "ESMA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "Responses available ✅ Consultation on technical advice on selected KPIs under the taxonomy disclosures delegated act 🌿  ⏭️ #ESMA will deliver its final technical advice to the @EU_Commission by the end of October 2026.",
-      "url": "https://x.com/ESMAComms/status/2089287567120236644",
-      "author": "@ESMAComms",
-      "published": "2026-08-17T09:45:00",
-      "summary": "Responses available ✅ Consultation on technical advice on selected KPIs under the taxonomy disclosures delegated act🌿  link.europa.eu/cfTnDY⏭️  #ESMA will deliver its final technical advice to the  @EU_Commission by the end of October 2026.— ESMA - EU Securities Markets Regulator 🇪🇺 (@ESMAComms) Aug 17, 2026",
-      "score": 45,
-      "score_breakdown": "+20 mots forts: cft, esma | +10 Géo EU: esma | ×1.5 (<24h)",
-      "doc_type": "CONSULTATION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de divulgation de KPIs selon la réglementation taxonomie de l'UE."
-    },
-    {
       "hash": "28b51d69e0df5d4e",
       "source_name": "Tracfin",
       "source_type": "rss",
@@ -2290,7 +2254,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des règles de reporting AML et des obligations de conformité bancaire face aux sanctions contre l'Iran."
     },
     {
       "hash": "2b262a4eddfef498",
@@ -2453,24 +2417,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Une entreprise de neurotechnologie a violé les réglementations d'exportation en vendant du matériel à une entité militaire chinoise interdite."
-    },
-    {
-      "hash": "a62033cae2d3a089",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Banque : quand la notaire verse les fonds sur un RIB frauduleux",
-      "url": "https://www.lemonde.fr/argent/article/2026/08/17/banque-quand-la-notaire-verse-les-fonds-sur-un-rib-frauduleux_6747968_1657007.html",
-      "author": "",
-      "published": "2026-08-17T04:00:12",
-      "summary": "L’officière ministérielle a été condamnée, car elle aurait dû faire des vérifications avant de virer l’argent en provenance d’une vente vers un compte à l’étranger.",
-      "score": 42,
-      "score_breakdown": "+20 mots critiques: fraud | +5 mots moyens: banque | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du devoir de diligence requis pour prévenir la fraude et le blanchiment d'argent."
     },
     {
       "hash": "44fb127580bafc5d",
@@ -2923,24 +2869,6 @@
       "ai_summary": "L'article concerne la conformité financière car il traite des normes réglementaires de l'EBA sur le classement des entreprises d'investissement."
     },
     {
-      "hash": "065d15a83549a0b0",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Tableau d'avancement pour l'accès au 2e grade (magistrature)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054835044",
-      "author": "Ministère de la justice",
-      "published": "2026-09-13T00:00:00",
-      "summary": "Inscrits : 918ABADIA, Pierre-Alain, substitut du procureur de la République antiterroriste, cour d'appel de Paris, parquet national antiterroriste.ABBAS, Claire, juge de l'application des peines, cour d'appel de Lyon, tribunal judiciaire de Saint-Etienne.ABBE, Cyrille, juge, cour d'appel d'Aix-en-Provence, tribunal judiciaire de Tarascon.ACCARY, Justine, substitut placé, cour d'appel de Douai.ACHAWI, Jomana, substitut placé, cour d'appel de Paris.ADAM, Antoine, substitut, cour d'appel de Rouen, ",
-      "score": 36,
-      "score_breakdown": "+5 mots moyens: ppe | +25 Source FR | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "875f1ce26f3aff05",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -2956,7 +2884,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "335ddf9beb3ffd44",
@@ -2975,6 +2903,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il établit les délégations de signature pour le contrôle budgétaire et comptable ministériel."
+    },
+    {
+      "hash": "a3f7132dccd4fa37",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Hej Stockholm!✨ 🎓 Hear from Patrick, one of our Swedish trainees, who completed his Master’s degree in Economics at Stockholm Univ...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7505558582730358784",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-09-15T09:30:13",
+      "summary": "Hej Stockholm!✨\n\n🎓 Hear from Patrick, one of our Swedish trainees, who completed his Master’s degree in Economics at Stockholm University before joining the European Banking Authority as a trainee.\n\n💬 “My traineeship at the EBA has provided a unique opportunity to be at the forefront of policymaking within the banking sector and contribute to advancing European objectives.”\n\nGaining first-hand insight into how European banking regulation is developed, Patrick has contributed to quantitative anal",
+      "score": 36,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: regulation, bank | +10 Géo EU: eba | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "da1d097b38570360",
@@ -3010,7 +2956,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de blanchiment d'argent et de corruption liée à un détournement de programme d'aide alimentaire."
     },
     {
       "hash": "6a5501cde105c59e",
@@ -3535,6 +3481,24 @@
       "ai_summary": "Cet article concerne les investissements en IA des responsables compliance et les défis réglementaires en Amérique du Nord."
     },
     {
+      "hash": "065d15a83549a0b0",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Tableau d'avancement pour l'accès au 2e grade (magistrature)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054835044",
+      "author": "Ministère de la justice",
+      "published": "2026-09-13T00:00:00",
+      "summary": "Inscrits : 918ABADIA, Pierre-Alain, substitut du procureur de la République antiterroriste, cour d'appel de Paris, parquet national antiterroriste.ABBAS, Claire, juge de l'application des peines, cour d'appel de Lyon, tribunal judiciaire de Saint-Etienne.ABBE, Cyrille, juge, cour d'appel d'Aix-en-Provence, tribunal judiciaire de Tarascon.ACCARY, Justine, substitut placé, cour d'appel de Douai.ACHAWI, Jomana, substitut placé, cour d'appel de Paris.ADAM, Antoine, substitut, cour d'appel de Rouen, ",
+      "score": 30,
+      "score_breakdown": "+5 mots moyens: ppe | +25 Source FR | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "1a1872e71fb679ea",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -3766,7 +3730,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c96b370270fd74ad",
@@ -3911,6 +3875,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les litiges contractuels entre entités commerciales, hors du périmètre de la conformité financière réglementaire."
+    },
+    {
+      "hash": "e6f53b96597cfbab",
+      "source_name": "ECB - Banking Supervision",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Sharon Donnery: A simpler, more usable macroprudential framework for Europe",
+      "url": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260916_1~446a02f036.en.html",
+      "author": "",
+      "published": "2026-09-16T08:00:00",
+      "summary": "",
+      "score": 22,
+      "score_breakdown": "+15 Source EU | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il traite de cadres de surveillance macroprudentielle pour réguler les risques systémiques bancaires."
     },
     {
       "hash": "30ba1bcbec5340e2",
@@ -4237,6 +4219,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il aborde les outils macroprudentiels et la stabilité financière dans la politique monétaire suisse."
     },
     {
+      "hash": "619843e7dea6b2ca",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Integration is the best way to address complexity in the European banking sector, writes Supervisory Board member Sharon Donnery. National and regulatory constraints stop banks from competing on an international scale. The answer is more Europe, not less",
+      "url": "https://x.com/ecb/status/2100134342684971297",
+      "author": "@ecb",
+      "published": "2026-09-16T08:07:00",
+      "summary": "Integration is the best way to address complexity in the European banking sector, writes Supervisory Board member Sharon Donnery.National and regulatory constraints stop banks from competing on an international scale. The answer is more Europe, not less  bankingsupervision.europa.eu…— European Central Bank (@ecb) Sep 16, 2026",
+      "score": 15,
+      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "7765fe69f6b6e694",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -4289,24 +4289,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il aborde la supervision bancaire européenne et les enjeux de régulation future du secteur bancaire."
-    },
-    {
-      "hash": "c205f99201fce5f7",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Binance shared Ukrainian crypto donations data with Russia: Reuters",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/binance-shared-ukrainian-crypto-donations-data-russia-reuters",
-      "author": "Sam Fry",
-      "published": "2026-08-17T09:57:09",
-      "summary": "",
-      "score": 15,
-      "score_breakdown": "+10 mots forts: crypto | +3 Presse | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Binance a partagé les données des dons en crypto avec la Russie, ce qui pose des enjeux de conformité sanctions et lutte anti-blanchiment."
     },
     {
       "hash": "a013bf1a12805b3f",
@@ -4435,6 +4417,24 @@
       "ai_summary": "FinCEN réglemente la transparence des prestataires de services monétaires à la frontière sud pour la conformité anti-blanchiment."
     },
     {
+      "hash": "f2643b6c38e5a3d1",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Mark Zuckerberg, patron de Meta, rejette les appels à ralentir le développement de l’IA",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/16/ia-le-patron-de-meta-mark-zuckerberg-rejette-les-appels-a-ralentir-son-developpement_6774782_4408996.html",
+      "author": "",
+      "published": "2026-09-16T03:25:48",
+      "summary": "Le groupe, qui investit jusqu’à l’équivalent de 126 milliards d’euros cette année dans ses infrastructures d’IA, bataille contre toute régulation susceptible de le ralentir. « Les gens ne voudront pas utiliser des agents qui ne sont pas alignés sur leurs intérêts et qui ne font pas ce qu’ils demandent », a défendu le dirigeant de Meta.",
+      "score": 12,
+      "score_breakdown": "+5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "8649c30775bd1c93",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -4504,7 +4504,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ff03468216450d93",
@@ -4993,7 +4993,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires liées à la corruption dans le football."
     }
   ],
-  "last_update": "2026-09-16T05:01:25.937746+00:00",
+  "last_update": "2026-09-16T10:30:29.951738+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
