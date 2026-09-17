@@ -1300,25 +1300,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière en analysant l'application de la loi FCPA contre la corruption internationale et les risques de conformité pour les entreprises."
-    },
-    {
-      "hash": "83f8e80d7ab5cc35",
-      "source_name": "DG Trésor",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Concurrence sur le marché à l’export américain après les droits de douane",
-      "url": "https://www.tresor.economie.gouv.fr/Articles/2026/09/16/concurrence-sur-le-marche-a-l-export-americain-apres-les-droits-de-douane",
-      "author": "",
-      "published": "2026-09-15T22:00:00",
-      "summary": "La mise en place des droits de douane par l’administration américaine a rebattu les cartes de la compétitivité des exportateurs du monde entier vers le marché américain. L’Union Européenne, surtout exposée à la concurrence du Canada, du Mexique et de la Chine, a subi une baisse de sa compétitivité équivalente à une hausse des prix moyens de + 1,1 %. Les secteurs de l’agroalimentaire, des machines, de la chimie et de l’acier sont les plus impactés au mois de juin 2026.",
-      "score": 67,
-      "score_breakdown": "+10 mots forts: eba | +25 Source FR | +10 Géo EU: union européenne, eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'application de la FCPA, loi anti-corruption essentielle à la conformité internationale."
     },
     {
       "hash": "e58758fe4592f1c5",
@@ -1357,24 +1339,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'approbation réglementaire d'un transfert de portefeuille d'assurance."
     },
     {
-      "hash": "3692824438601d83",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Découvrez la série de vidéos sur les 10 ans du pôle Fintech-Innovation ! - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVFNfMDR6aFE0VE4ySEMzcHFvdTRyb25FYjRaQTZpeEJveF9TTVdBYzRKMnJaa3J5clVRYVJzazFseDhrWlRvSElNZGFxanNocVlUMV84a2w2V1hubVNjRHUtZmxmRnp5ZU83enFWb09ENEVhVDRmUkpGOS1GYWNvSGxoOG9yNlhXeDU3R3Uwcm10TlRCWERpc2MwYjZUdkpzaXlPQVJPVllyOVBNMXpRck9Nbkk?oc=5",
-      "author": "",
-      "published": "2026-09-15T11:54:32",
-      "summary": "Découvrez la série de vidéos sur les 10 ans du pôle Fintech-Innovation !&nbsp;&nbsp;Banque de France",
-      "score": 66,
-      "score_breakdown": "+10 mots moyens: fintech, banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "3cdfd7177d7a9ff0",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1390,7 +1354,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "29bb62a2cd8b810b",
@@ -1750,7 +1714,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de violations potentielles de sanctions internationales et de risques de blanchiment liés aux financements de secteurs sanctionnés."
+      "ai_summary": "La banque chinoise contourne les sanctions occidentales en finançant des entreprises russes, violant les obligations de conformité et de lutte contre le blanchiment."
     },
     {
       "hash": "e09cc1eb3895ea9d",
@@ -1805,6 +1769,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La lutte contre la corruption dans la fonction publique relève de la conformité réglementaire et de la gestion des risques de fraude institutionnelle."
+    },
+    {
+      "hash": "83f8e80d7ab5cc35",
+      "source_name": "DG Trésor",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Concurrence sur le marché à l’export américain après les droits de douane",
+      "url": "https://www.tresor.economie.gouv.fr/Articles/2026/09/16/concurrence-sur-le-marche-a-l-export-americain-apres-les-droits-de-douane",
+      "author": "",
+      "published": "2026-09-15T22:00:00",
+      "summary": "La mise en place des droits de douane par l’administration américaine a rebattu les cartes de la compétitivité des exportateurs du monde entier vers le marché américain. L’Union Européenne, surtout exposée à la concurrence du Canada, du Mexique et de la Chine, a subi une baisse de sa compétitivité équivalente à une hausse des prix moyens de + 1,1 %. Les secteurs de l’agroalimentaire, des machines, de la chimie et de l’acier sont les plus impactés au mois de juin 2026.",
+      "score": 54,
+      "score_breakdown": "+10 mots forts: eba | +25 Source FR | +10 Géo EU: union européenne, eba | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "0e3abc61aee868ed",
@@ -1876,7 +1858,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la criminalité financière et les sanctions."
     },
     {
       "hash": "f9b5abd9f87a3fce",
@@ -1894,7 +1876,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la nomination d'un directeur exécutif à l'EBA, autorité chargée de la régulation bancaire et de la conformité financière en Europe."
+      "ai_summary": "L'article concerne la nomination du directeur exécutif de l'EBA, autorité de régulation bancaire européenne responsable de la conformité financière."
     },
     {
       "hash": "cd750785c386fd0c",
@@ -2200,7 +2182,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La nomination du nouveau directeur de l'EBA concerne la conformité financière car l'EBA supervise la régulation bancaire européenne."
     },
     {
       "hash": "15c23c42397bc673",
@@ -2380,7 +2362,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des règles de reporting AML et des obligations de conformité bancaire que le Trésor américain envisage de modifier."
+      "ai_summary": "L'article traite de l'allègement potentiel des règles de signalement AML et des seuils de déclaration, relevant directement de la conformité financière bancaire."
     },
     {
       "hash": "2b262a4eddfef498",
@@ -2920,7 +2902,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la gouvernance de l'Autorité bancaire européenne, responsable de la supervision et de la conformité financière des banques européennes."
+      "ai_summary": "Cet article concerne la nomination du directeur exécutif de l'Autorité bancaire européenne, responsable de la conformité réglementaire bancaire."
     },
     {
       "hash": "b12a337ba982eb97",
@@ -3010,7 +2992,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "335ddf9beb3ffd44",
@@ -3046,7 +3028,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "da1d097b38570360",
@@ -3082,7 +3064,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de violations de sanctions et de crimes contre l'humanité impliquant une entreprise de télécommunications."
     },
     {
       "hash": "f031e93044bcf8f0",
@@ -3100,7 +3082,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cette affaire concerne la conformité financière car elle traite de confiscation d'avoirs liés aux sanctions et aux violations de règles de blanchiment."
     },
     {
       "hash": "e949f4e16273aab7",
@@ -3118,7 +3100,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les violations de conformité financière liées au blanchiment d'argent et à la corruption dans un programme d'aide alimentaire vénézuélien."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment de capitaux et de fraude dans un programme d'aide alimentaire."
     },
     {
       "hash": "6a5501cde105c59e",
@@ -3658,7 +3640,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1a1872e71fb679ea",
@@ -3695,6 +3677,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière via la supervision des marchés de capitaux, la protection des investisseurs et la transparence."
+    },
+    {
+      "hash": "bf25449097004b7d",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "La banque en ligne britannique Revolut se dit victime d’« une escroquerie sophistiquée », des données clients compromises",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/16/la-banque-en-ligne-britannique-revolut-se-dit-victime-d-une-escroquerie-sophistiquee-des-donnees-clients-compromises_6775534_3234.html",
+      "author": "",
+      "published": "2026-09-16T21:50:33",
+      "summary": "Des pirates ont usurpé l’identité d’une agence gouvernementale pour obtenir des données sensibles de clients. Une enquête a été ouverte en Italie et le régulateur britannique de la protection des données examine des informations après un « signalement ».",
+      "score": 27,
+      "score_breakdown": "+5 mots moyens: banque | +3 Presse | +10 Géo EU: italie | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "c5403c05554a68d0",
@@ -3874,7 +3874,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c96b370270fd74ad",
@@ -4291,6 +4291,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des pénalités et des structures de conformité face aux politiques d'application de la loi."
     },
     {
+      "hash": "27bfbbd5a8010999",
+      "source_name": "BIS - Working Papers",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Hidden by complexity?  Measuring stablecoin, crypto  and decentralised finance  ecosystems",
+      "url": "https://www.bis.org/publications/working-paper-1377-hidden-complexity-measuring-stablecoin-crypto-and-decentralised-finance-ecosystems",
+      "author": "Violeta Vuletic",
+      "published": "2026-09-15T00:00:00",
+      "summary": "Decentralised finance data presents a distinctive paradox: while every data point is publicly recorded and accessible, deriving meaningful insights is obscured by the scale, fragmentation and complexity of the ecosystem. Key metrics illustrate that the rapidly evolving DeFi ecosystem introduces unique challenges for economic and financial research in accurately capturing financial activity in DeFi.",
+      "score": 18,
+      "score_breakdown": "+10 mots forts: crypto | +5 Source Intl | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il aborde les défis de transparence et de mesure des risques dans l'écosystème DeFi, essentiels pour la surveillance réglementaire et la conformité."
+    },
+    {
       "hash": "efc65cb2578d6206",
       "source_name": "FATF/GAFI (X)",
       "source_type": "rss",
@@ -4378,7 +4396,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article traite de la conformité réglementaire bancaire en analysant comment l'intégration européenne aide les banques à respecter les contraintes réglementaires internationales."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des contraintes réglementaires qui encadrent les banques européennes et leur conformité aux normes."
     },
     {
       "hash": "7765fe69f6b6e694",
@@ -4630,7 +4648,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "ff03468216450d93",
@@ -4828,7 +4846,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions financières, les gels d'actifs et les restrictions commerciales imposées par les États-Unis sur la Russie et le Venezuela."
+      "ai_summary": "Cet article concerne les sanctions financières, les restrictions commerciales et les obligations de conformité en matière de contrôle des actifs étrangers."
     },
     {
       "hash": "14c8ca0be875ff7f",
@@ -5137,7 +5155,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires liées à la corruption dans le football."
     }
   ],
-  "last_update": "2026-09-16T21:29:25.379045+00:00",
+  "last_update": "2026-09-17T02:26:39.083134+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
