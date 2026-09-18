@@ -724,7 +724,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la gestion des risques tiers et la conformité réglementaire bancaire selon les directives de l'EBA."
     },
     {
       "hash": "76ca4a50b4e6a049",
@@ -742,7 +742,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet arrêté régit l'application des articles L. 562-2 du code monétaire et financier relatifs aux obligations de conformité en matière de lutte contre le blanchiment et le financement du terrorisme."
     },
     {
       "hash": "722002083e2fcc77",
@@ -1033,24 +1033,6 @@
       "ai_summary": "Cet article concerne les amendements malaisiens à la loi anti-blanchiment renforçant la conformité financière contre le blanchiment d'argent."
     },
     {
-      "hash": "8055692b6fd244f9",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "L’AMF met en garde contre BitKelTrade, une plateforme de trading frauduleuse usurpant l’identité de médias",
-      "url": "https://www.lemonde.fr/pixels/article/2026/08/19/l-amf-met-en-garde-contre-bitkeltrade-une-plateforme-de-trading-frauduleuse-usurpant-l-identite-de-medias_6749856_4408996.html",
-      "author": "",
-      "published": "2026-08-19T10:59:11",
-      "summary": "« Ces sites n’ont qu’un seul but : inciter le lecteur à cliquer sur le lien permettant de rejoindre la plateforme frauduleuse et à remplir un formulaire de contact pour pouvoir être recontacté », insiste l’Autorité des marchés financiers, recommandant aux épargnants de ne pas donner suite et de ne pas transmettre leurs coordonnées.",
-      "score": 79,
-      "score_breakdown": "+20 mots critiques: fraud | +10 mots forts: amf | +3 Presse | +20 Géo FR: amf, autorité des marchés financiers | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite d'une alerte de l'AMF contre une plateforme de trading frauduleuse."
-    },
-    {
       "hash": "d25dee1354bf5022",
       "source_name": "CNIL",
       "source_type": "rss",
@@ -1177,6 +1159,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il encadre les pouvoirs de signature pour les actes financiers au sein de l'administration."
     },
     {
+      "hash": "4969c3558915ef65",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 18 September, 2026",
+      "url": "https://www.eba.europa.eu/node/20016",
+      "author": "Anonymous",
+      "published": "2026-09-18T15:00:02",
+      "summary": "EBA E-mail alert 18 September, 2026\n\n  \n    Date\n          18/09/2026\n\n      \n\nAnonymous (not verified)\n\nFri, 09/18/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          The EBA publishes its final Guidelines on the management of third-party risk, delivering a more proportionate and consistent framework aligned with DORA \n      \n\n  \n    Final Q&amp;As\n          2026_7795 Clarification on the reporting of negative fair value changes of hedged items in the Annual Resolution reporti",
+      "score": 75,
+      "score_breakdown": "+20 mots forts: dora, eba | +5 mots moyens: risk | +15 Source EU | +10 Géo EU: eba, dora | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article traite de directives EBA sur la gestion des risques tiers, relevant de la conformité bancaire."
+    },
+    {
       "hash": "118b45ad0005a663",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -1229,24 +1229,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'AMF alerte sur des mails frauduleux usurpant son identité, relevant de la lutte contre la fraude financière et la protection des investisseurs."
-    },
-    {
-      "hash": "1f584a79040e4271",
-      "source_name": "AMF France (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "[Mise en garde] ⚠️ Nous mettons en garde le public contre l’offre frauduleuse de BitKeltTrade, relayée par de faux sites d’information usurpant l’identité de médias et de personnalités connus ➡️  #Arnaques #Protection #Epargne",
-      "url": "https://x.com/AMF_actu/status/2090091427900301525",
-      "author": "@AMF_actu",
-      "published": "2026-08-19T15:00:00",
-      "summary": "[Mise en garde] ⚠️ Nous mettons en garde le public contre l’offre frauduleuse de BitKeltTrade, relayée par de faux sites d’information usurpant l’identité de médias et de personnalités connus ➡️  cutt.ly/PydUvf2z #Arnaques  #Protection  #Epargne— AMF (@AMF_actu) Aug 19, 2026",
-      "score": 75,
-      "score_breakdown": "+20 mots critiques: fraud | +10 mots forts: amf | +20 Géo FR: amf | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'AMF met en garde contre une arnaque impliquant une plateforme de trading frauduleuse."
     },
     {
       "hash": "92463a506353f453",
@@ -1354,7 +1336,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté modifie le formulaire de diagnostic social et financier utilisé dans les procédures judiciaires de résiliation de bail, relevant de la conformité administrative et financière."
+      "ai_summary": "Cet arrêté concerne la conformité financière car il modifie le formulaire unique de diagnostic social et financier utilisé dans les procédures judiciaires de résiliation de bail."
     },
     {
       "hash": "e58758fe4592f1c5",
@@ -1408,7 +1390,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les directives de l'EBA sur la gestion des risques tiers concernent la conformité financière par leur cadre réglementaire."
     },
     {
       "hash": "29bb62a2cd8b810b",
@@ -1735,6 +1717,42 @@
       "ai_summary": "ESMA contrôle la résilience opérationnelle numérique des prestataires de services cryptoactifs, aspect clé de la conformité réglementaire."
     },
     {
+      "hash": "b7de30a37ac40355",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Le Clarity Act à l'arrêt",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/video-le-clarity-act-a-l-arret_VN-202609180578.html",
+      "author": "",
+      "published": "2026-09-18T15:00:00",
+      "summary": "Ce vendredi 18 septembre, le rejet des négociations du Clarity Act aux Etats-Unis, les Français ne déclarant pas leurs cryptos au fisc, la question de la stratégie de développement chez Revolut et la sortie de son stablecoin EURR adossé à l'euro, ainsi que l'acquisition de BOST par Finst, ont été abordés par Nathalie Janson, économiste, professeure à la Neoma Business School, et présidente de Génération Libre, Julien Vallet, fondateur de Finst, Pauline Armandet, journaliste BFM Business, et Maur",
+      "score": 57,
+      "score_breakdown": "+10 mots forts: crypto | +5 mots moyens: ppe | +3 Presse | +20 Géo FR: français | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "03be592c6fd54fae",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "When a sanctioned person dies: the next compliance problem",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/when-sanctioned-person-dies-the-next-compliance-problem",
+      "author": "",
+      "published": "2026-09-18T13:00:33",
+      "summary": "OFSI has spent 2026 refining the way UK financial sanctions are licensed and administered. But one basic question remains largely unanswered: what happens to frozen wealth when the person whose designation triggered the freeze dies? Talal Mohammad, principal of Oxbridge Consultancies and associate fellow at the Royal United Services Institute, and barrister Fahrid Chishty of 33 Chambers, seek to a...",
+      "score": 57,
+      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "e5d80963aa92e8b9",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -1768,7 +1786,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il révèle des violations potentielles de sanctions internationales et des risques de blanchiment liés au financement d'entités russes sanctionnées."
+      "ai_summary": "La banque chinoise viole les sanctions financières occidentales en soutenant une entreprise russe sanctionnée, ce qui constitue un manquement aux obligations de conformité."
     },
     {
       "hash": "e09cc1eb3895ea9d",
@@ -1894,7 +1912,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7d7615e1b88121df",
@@ -2599,6 +2617,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales et de leurs implications pour les institutions financières."
     },
     {
+      "hash": "90f9bbc265082789",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "DOJ, Curaçao set to “strengthen cooperation” following return of fraud proceeds",
+      "url": "https://globalinvestigationsreview.com/article/doj-curacao-set-strengthen-cooperation-following-return-of-fraud-proceeds",
+      "author": "Ana de Liz",
+      "published": "2026-09-18T10:26:15",
+      "summary": "",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "44fb127580bafc5d",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -2959,6 +2995,24 @@
       "ai_summary": "Cet article concerne les sanctions financières imposées par les États-Unis contre la Syrie et l'Iran."
     },
     {
+      "hash": "55dc0a040003c906",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "👏 Ending the week with a look back at an insightful exchange on the future of finance. Earlier this month, the EBA had the pleasur...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7506718927457218560",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-09-18T14:21:00",
+      "summary": "👏 Ending the week with a look back at an insightful exchange on the future of finance.\n\nEarlier this month, the EBA had the pleasure of welcoming a delegation from the Taiwan Financial Supervisory Commission (FSC) for discussions on some of the most transformative developments in financial services.\nOur Chair, François-Louis Michaud, met the delegation together with Ruta Merkeviciute, Head of Digital Finance, and Charlotte Marc, Digital Finance Specialist, to exchange views on the opportunities ",
+      "score": 37,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: supervisory | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "c78366fad0a662f9",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -3100,7 +3154,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions américaines contre des entités russes, imposant des obligations de conformité aux acteurs commerciaux."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions américaines contre des entités russes, obligeant les tiers à respecter les restrictions commerciales imposées."
     },
     {
       "hash": "ec59ce893a51ac22",
@@ -3694,7 +3748,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a3f7132dccd4fa37",
@@ -3712,7 +3766,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1a1872e71fb679ea",
@@ -3766,6 +3820,24 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "21d91593ae53e522",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "GRC News Roundup: Drata, Diligent, Achilles, Archer, Casepoint & More",
+      "url": "https://www.corporatecomplianceinsights.com/grc-news-roundup-drata-diligent-achilles-archer-casepoint-more/",
+      "author": "Corporate Compliance Insights",
+      "published": "2026-09-18T14:33:06",
+      "summary": "GRC technology is one of the fastest-growing segments in enterprise software, and compliance professions are rapidly evolving. Here’s the latest from across the industry. New products &#38; platforms Trust management platform Drata unveiled its standalone agentic AI third-party risk management solution, which automates vendor reviews end-to-end. Supply chain risk and performance management provider Achilles launched [&#8230;]\nThe post GRC News Roundup: Drata, Diligent, Achilles, Archer, Casepoin",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: risk | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
       "ai_summary": null
     },
     {
@@ -3802,7 +3874,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation de données clients chez une banque, relevant de la protection des données et des obligations réglementaires du secteur financier."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation de données clients chez un établissement financier régulé, nécessitant notification aux autorités de protection des données."
     },
     {
       "hash": "c5403c05554a68d0",
@@ -3911,24 +3983,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de l'adaptation de la conformité des entreprises aux changements réglementaires et au contexte d'application des normes."
-    },
-    {
-      "hash": "d130abfd1310d209",
-      "source_name": "Corporate Compliance Insights",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Has the CTA Saga Finally Ended?",
-      "url": "https://www.corporatecomplianceinsights.com/has-cta-saga-finally-ended/",
-      "author": "Jennifer L. Gaskin",
-      "published": "2026-08-19T15:03:19",
-      "summary": "Beneficial ownership reporting rules that once applied to more than 30 million corporate entities in the US now have just 28,000 in scope. But is this the end or just another fork in the road for BOI reporting under the Corporate Transparency Act? CCI’s Jennifer L. Gaskin explores the turbulent journey of the rules and how corporate leaders should proceed now.\nThe post Has the CTA Saga Finally Ended? appeared first on Corporate Compliance Insights.",
-      "score": 27,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière, spécifiquement des règles de déclaration de bénéficiaires réels selon la Corporate Transparency Act."
     },
     {
       "hash": "882f3ebb654fea54",
@@ -4396,7 +4450,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "27bfbbd5a8010999",
@@ -4774,7 +4828,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7ac8b502e761ad0d",
@@ -4939,22 +4993,22 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'un accord de poursuite différée lié à la corruption étrangère."
     },
     {
-      "hash": "78b8fa4ff3644160",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Petrofac defendants fight for legal fees ahead of bribery trial",
-      "url": "https://globalinvestigationsreview.com/article/petrofac-defendants-fight-legal-fees-ahead-of-bribery-trial",
-      "author": "Ana de Liz",
-      "published": "2026-08-19T13:26:02",
-      "summary": "The High Court of England and Wales will decide whether insurance companies must continue funding the defences of two former Petrofac executives, ahead of their trial for foreign bribery offences in November.",
-      "score": 9,
-      "score_breakdown": "+3 Presse | +3 Géo Intl: ofac | ×1.5 (<24h)",
+      "hash": "e9992ff3cbf5eff8",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Expiration of Emergency With Respect to the Situation in Ethiopia; Ethiopia-related Designations Removals; Issuance of Amended Russia-related General License and Associated Frequently Asked Questions | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260918",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-09-18T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
       "doc_type": null,
-      "action_class": "info",
+      "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement de la défense légale dans une affaire de corruption étrangère."
+      "ai_summary": null
     },
     {
       "hash": "122ea0fcc77cad02",
@@ -5281,7 +5335,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires liées à la corruption dans le football."
     }
   ],
-  "last_update": "2026-09-18T11:33:20.692490+00:00",
+  "last_update": "2026-09-18T15:27:45.233578+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
