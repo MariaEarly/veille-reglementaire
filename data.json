@@ -1249,6 +1249,24 @@
       "ai_summary": "L'AMF alerte sur des mails frauduleux usurpant son identité, relevant de la lutte contre la fraude financière et la protection des investisseurs."
     },
     {
+      "hash": "2404003c31e27d2d",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Alexandre Castaing (Documan) : Documan, vigilance LCB-FT, risques et pollutions – 19/09",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/objectif-croissance/video-alexandre-castaing-documan-documan-vigilance-lcb-ft-risques-et-pollutions-19-09_VN-202609190326.html",
+      "author": "",
+      "published": "2026-09-19T17:19:52",
+      "summary": "BFM BUSINESS PARTENAIRE - Ce samedi 19 septembre, Alexandre Castaing, directeur général et co-fondateur de Documan, s’est penché sur la vigilance LCB-FT pour lutter contre le blanchiment et le financement du terrorisme, dans l’émission Objectif Croissance présentée par Vincent Touraine. Objectif Croissance est à voir ou écouter du lundi au vendredi sur BFM Business.",
+      "score": 72,
+      "score_breakdown": "+20 mots critiques: blanchiment, financement du terrorisme | +20 mots forts: lcb-ft, vigilance | +5 mots moyens: risque | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "92463a506353f453",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -1822,7 +1840,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il révèle des violations potentielles des sanctions internationales et des règles de lutte contre le financement d'activités interdites."
+      "ai_summary": "Cet article concerne la conformité financière car il révèle des violations potentielles de sanctions internationales et des risques de conformité liés au financement d'entreprises sanctionnées."
     },
     {
       "hash": "e09cc1eb3895ea9d",
@@ -1912,7 +1930,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7d7615e1b88121df",
@@ -2239,24 +2257,6 @@
       "ai_summary": "L'article traite des risques de fraude liés à la délégation d'activités étatiques au secteur privé, enjeu majeur de conformité financière."
     },
     {
-      "hash": "8a33e879740e5523",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Le secrétaire au Trésor américain appelle la Chine à soutenir la guerre économique des États-Unis contre l'Iran et assure que les sanctions entraîneront \"la chute de ce régime\"",
-      "url": "https://www.bfmtv.com/economie/international/washington-appelle-la-chine-a-soutenir-sa-guerre-economique-contre-l-iran-et-assure-que-les-sanctions-entraineront-la-chute-de-ce-regime_AD-202608200449.html",
-      "author": "",
-      "published": "2026-08-20T15:50:13",
-      "summary": "Le secrétaire au Trésor américain Scott Bessent a aussi demandé ce jeudi à la Chine à \"se mettre au diapason\" dans la guerre économique menée par les États-Unis contre l'Iran.",
-      "score": 46,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +3 Presse | +3 Géo Intl: états-unis | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions économiques contre l'Iran et de leur mise en œuvre."
-    },
-    {
       "hash": "83f8e80d7ab5cc35",
       "source_name": "DG Trésor",
       "source_type": "rss",
@@ -2470,7 +2470,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "fd17f3d92cb6d57f",
@@ -2668,7 +2668,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cette loi concerne la conformité financière car elle impose des obligations de sanctions économiques et de droits de douane que les entreprises doivent respecter."
     },
     {
       "hash": "d423c270ea413d19",
@@ -3226,7 +3226,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde les sanctions américaines contre des entités russes et les risques de non-conformité pour les acteurs commerciaux impliqués dans ces transactions."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales américaines et de leurs impacts sur les transactions commerciales et les chaînes d'approvisionnement."
     },
     {
       "hash": "ec59ce893a51ac22",
@@ -3766,7 +3766,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "2296a0f0c9ede60c",
@@ -3820,7 +3820,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "33d49d420d155e22",
@@ -3838,7 +3838,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a3f7132dccd4fa37",
@@ -3856,7 +3856,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "1a1872e71fb679ea",
@@ -3910,7 +3910,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "21d91593ae53e522",
@@ -3964,7 +3964,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il révèle une violation de données clients affectant un établissement de crédit, soulevant des enjeux de conformité réglementaire et de protection des données."
+      "ai_summary": "Cet article concerne la conformité financière car il évoque une violation de données clients et un signalement au régulateur britannique de protection des données."
     },
     {
       "hash": "c5403c05554a68d0",
@@ -4540,7 +4540,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "27bfbbd5a8010999",
@@ -4918,7 +4918,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7ac8b502e761ad0d",
@@ -5407,7 +5407,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires liées à la corruption dans le football."
     }
   ],
-  "last_update": "2026-09-19T15:58:45.576141+00:00",
+  "last_update": "2026-09-19T19:47:22.201177+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
