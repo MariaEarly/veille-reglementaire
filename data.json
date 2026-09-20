@@ -1501,24 +1501,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une enquête pour fraude fiscale et blanchiment, domaines clés de la conformité."
     },
     {
-      "hash": "ef2b0a1b5a457c85",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Uber condamné à 825 millions d’euros d’amende aux Pays-Bas pour la suspension automatisée de chauffeurs",
-      "url": "https://www.lemonde.fr/economie/article/2026/08/21/uber-condamne-a-une-amende-825-millions-d-euros-d-amende-aux-pays-bas-pour-la-suspension-automatisee-de-chauffeurs_6752266_3234.html",
-      "author": "",
-      "published": "2026-08-21T15:20:24",
-      "summary": "L’affaire porte sur des incidents survenus en Europe de 2020 à 2022, à la suite d’une plainte déposée en France. Il s’agit de la deuxième plus importante sanction jamais infligée au titre du RGPD.",
-      "score": 64,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +20 Géo FR: france | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une amende majeure pour violation du RGPD sur le traitement des données personnelles."
-    },
-    {
       "hash": "f3fcfec33bfc5487",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -1912,7 +1894,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7d7615e1b88121df",
@@ -2437,24 +2419,6 @@
       "ai_summary": "Tracfin rapporte ses activités de lutte contre le blanchiment et le financement du terrorisme, piliers de la conformité financière."
     },
     {
-      "hash": "f87b9484658ada75",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de BORDEAUX, 1ère chambre, 17 septembre 2026, 24BX01666",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEBORDEAUX-20260917-24BX01666",
-      "author": "1ère chambre",
-      "published": "2026-09-17T12:00:00",
-      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           M. et Mme D... et C... E... ont demandé au tribunal administratif de Bordeaux d'annuler l'arrêté du 5 novembre 2021 par lequel le maire de Saint-Michel-de-Rieufret a délivré à M. A... B... un permis de construire destiné à régulariser un local agricole agrémenté d'un cabanon de jardin sur la parcelle cadastrée section D n° 228 située route de Cabanac, ainsi que la décision du 11 janvier 2022 rejetant leur recours ",
-      "score": 42,
-      "score_breakdown": "+10 mots forts: agrément | +5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "fd17f3d92cb6d57f",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -2650,7 +2614,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La loi Graham impose des sanctions économiques et des droits de douane pouvant atteindre 100% sur les importateurs de ressources russes, relevant de la conformité sanctions internationales."
+      "ai_summary": "La loi Graham impose des sanctions économiques et des droits de douane contre la Russie et ses partenaires commerciaux, relevant de la conformité aux régulations commerciales internationales."
     },
     {
       "hash": "d423c270ea413d19",
@@ -3157,6 +3121,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il établit les délégations de signature pour le contrôle budgétaire et comptable ministériel."
     },
     {
+      "hash": "f87b9484658ada75",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de BORDEAUX, 1ère chambre, 17 septembre 2026, 24BX01666",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEBORDEAUX-20260917-24BX01666",
+      "author": "1ère chambre",
+      "published": "2026-09-17T12:00:00",
+      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           M. et Mme D... et C... E... ont demandé au tribunal administratif de Bordeaux d'annuler l'arrêté du 5 novembre 2021 par lequel le maire de Saint-Michel-de-Rieufret a délivré à M. A... B... un permis de construire destiné à régulariser un local agricole agrémenté d'un cabanon de jardin sur la parcelle cadastrée section D n° 228 située route de Cabanac, ainsi que la décision du 11 janvier 2022 rejetant leur recours ",
+      "score": 35,
+      "score_breakdown": "+10 mots forts: agrément | +5 mots moyens: ppe | +20 Géo FR: france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "da1d097b38570360",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -3190,7 +3172,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions américaines contre des entités russes et de leur impact sur les transactions commerciales internationales."
+      "ai_summary": "Cet article concerne la conformité financière car il évoque les sanctions américaines contre les navires russes, imposant aux acteurs financiers et commerciaux des obligations de conformité en matière de restrictions commerciales."
     },
     {
       "hash": "ec59ce893a51ac22",
@@ -3751,24 +3733,6 @@
       "ai_summary": "Cet article traite de la conformité réglementaire en exigeant des entreprises des programmes de conformité robustes selon les normes DOJ et SEC."
     },
     {
-      "hash": "33d49d420d155e22",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de MARSEILLE, 1ère chambre, 17 septembre 2026, 24MA01941",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEMARSEILLE-20260917-24MA01941",
-      "author": "1ère chambre",
-      "published": "2026-09-17T12:00:00",
-      "summary": "68-04-045-01 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. -... Vu la procédure suivante :            Procédure contentieuse antérieure :           La société par actions simplifiée SAS OCEAN 2 a demandé au tribunal administratif de Toulon d'annuler l'arrêté du 24 mai 2022 par lequel le maire de la commune de Saint-Cyr-sur-Mer a retiré la décision de non-opposition à déclaration préalable tacite délivrée le 6 avril 20",
-      "score": 30,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "a3f7132dccd4fa37",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -3784,7 +3748,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "1a1872e71fb679ea",
@@ -3820,7 +3784,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "21d91593ae53e522",
@@ -3874,7 +3838,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il révèle une violation de données clients chez un acteur financier réglementé, soulevant des enjeux de conformité RGPD et de notification aux autorités."
+      "ai_summary": "Cet article concerne la conformité financière car il met en avant une violation de données clients compromettant la sécurité de l'information et la conformité réglementaire de Revolut."
     },
     {
       "hash": "c5403c05554a68d0",
@@ -4003,6 +3967,24 @@
       "ai_summary": "Cet article concerne les recours judiciaires contre les listes noires du Pentagone, révélant des failles en conformité réglementaire."
     },
     {
+      "hash": "33d49d420d155e22",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de MARSEILLE, 1ère chambre, 17 septembre 2026, 24MA01941",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEMARSEILLE-20260917-24MA01941",
+      "author": "1ère chambre",
+      "published": "2026-09-17T12:00:00",
+      "summary": "68-04-045-01 Urbanisme et aménagement du territoire. - Autorisations d`utilisation des sols diverses. - Régimes de déclaration préalable. -... Vu la procédure suivante :            Procédure contentieuse antérieure :           La société par actions simplifiée SAS OCEAN 2 a demandé au tribunal administratif de Toulon d'annuler l'arrêté du 24 mai 2022 par lequel le maire de la commune de Saint-Cyr-sur-Mer a retiré la décision de non-opposition à déclaration préalable tacite délivrée le 6 avril 20",
+      "score": 25,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "905af218d1071679",
       "source_name": "ESMA (X)",
       "source_type": "rss",
@@ -4036,7 +4018,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c96b370270fd74ad",
@@ -4435,24 +4417,6 @@
       "ai_summary": "Le FATF développe de nouveaux standards pour améliorer la récupération transfrontalière d'actifs et le partage d'informations public-privé."
     },
     {
-      "hash": "514997ecdd906149",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Bosch declination shows NSD “leaning in” to new corporate enforcement policy",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/bosch-declination-shows-nsd-leaning-in-new-corporate-enforcement-policy",
-      "author": "Estelle Atkinson",
-      "published": "2026-08-21T17:22:53",
-      "summary": "The multimillion-dollar penalty against the German multinational should prompt companies to take a closer look at compliance structures and supply chains, lawyers told GIR.",
-      "score": 19,
-      "score_breakdown": "+10 mots forts: compliance | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des pénalités et des structures de conformité face aux politiques d'application de la loi."
-    },
-    {
       "hash": "427c817a3f423337",
       "source_name": "EDPB - European Data Protection Board",
       "source_type": "rss",
@@ -4468,7 +4432,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "27bfbbd5a8010999",
@@ -4846,7 +4810,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7ac8b502e761ad0d",
@@ -5317,7 +5281,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires liées à la corruption dans le football."
     }
   ],
-  "last_update": "2026-09-20T16:20:18.335874+00:00",
+  "last_update": "2026-09-20T19:59:39.247616+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
