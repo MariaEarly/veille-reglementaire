@@ -565,6 +565,42 @@
   ],
   "items": [
     {
+      "hash": "03668841cee3c3c1",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "France FinTech, l'ACPR et l'AMF présentent le programme des French FinTech Weeks - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORHVpcndMM2tZSFJ1VmxWeUxmRXBpb19HZy0zeDRLQ2Y2OFVPOG96dGlLV3JpQWdfWXZCbnZ0RWEyTUQyb0p4OWR5WUZTUDZGTE5xbnVqOER0UW53V3BTVmJjTzRCYWdneTRtOWZyUnF1aWdaRUl0ZFBQemtpcmNhdi1EOWZsZXpaenhwaG8yZDF1RVdQN2NvajBERzZfelB2RnNVVTJzMDZNOURfLXFHMmRwYnEtRWZyeWJRSHJR?oc=5",
+      "author": "",
+      "published": "2026-09-21T09:15:56",
+      "summary": "France FinTech, l'ACPR et l'AMF présentent le programme des French FinTech Weeks&nbsp;&nbsp;Banque de France",
+      "score": 100,
+      "score_breakdown": "+20 mots forts: acpr, amf | +10 mots moyens: fintech, banque | +25 Source FR | +20 Géo FR: france, acpr, amf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "6bd232952106d42f",
+      "source_name": "AMF - Actualités",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "France FinTech, l'ACPR et l'AMF annoncent la 6ème édition des French FinTech Weeks",
+      "url": "https://www.amf-france.org/fr/actualites-publications/actualites/france-fintech-lacpr-et-lamf-annoncent-la-6eme-edition-des-french-fintech-weeks#xts=607212&xtor=RSS-3&type=RSS",
+      "author": "",
+      "published": "2026-09-21T08:11:12",
+      "summary": "Actualité                  Innovation                    France FinTech, l&#039;ACPR et l&#039;AMF annoncent la 6ème édition des French FinTech Weeks",
+      "score": 100,
+      "score_breakdown": "+20 mots forts: acpr, amf | +5 mots moyens: fintech | +25 Source FR | +20 Géo FR: france, acpr, amf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne l'annonce d'un événement FinTech par les régulateurs français ACPR et AMF, sans lien direct avec la conformité financière."
+    },
+    {
       "hash": "852e5b920382eb06",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -1213,6 +1249,24 @@
       "ai_summary": "L'AMF alerte sur des mails frauduleux usurpant son identité, relevant de la lutte contre la fraude financière et la protection des investisseurs."
     },
     {
+      "hash": "726464bfc08aa03b",
+      "source_name": "ComplyAdvantage",
+      "source_type": "press",
+      "category": "presse",
+      "title": "What C-12’s PCMLTFA amendments mean for your AML program in practice",
+      "url": "https://complyadvantage.com/insights/what-c-12s-pcmltfa-amendments-mean-for-your-aml-program-in-practice/",
+      "author": "Audrey Langevin",
+      "published": "2026-09-21T09:49:54",
+      "summary": "On March 26, 2026, Bill C-12 received royal assent, amending the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA) and resetting the requirements Canadian firms have to meet for their anti-money laundering (AML) programs. The Act introduces a [&#8230;]\nThe post What C-12&#8217;s PCMLTFA amendments mean for your AML program in practice appeared first on ComplyAdvantage.",
+      "score": 72,
+      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, anti-money | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "2404003c31e27d2d",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -1858,7 +1912,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7d7615e1b88121df",
@@ -2021,6 +2075,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les mesures contre le blanchiment d'argent et la conformité AML pour une institution financière identifiée comme à risque élevé."
+    },
+    {
+      "hash": "d3591bd079435991",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Google : l’Irlande condamne le moteur de recherche à une amende de 403 millions d’euros pour manquement au traitement des données de géolocalisation",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/21/google-l-irlande-condamne-le-moteur-de-recherche-a-une-amende-de-403-millions-d-euros-pour-manquement-au-traitement-des-donnees-de-geolocalisation_6779051_3234.html",
+      "author": "",
+      "published": "2026-09-21T11:06:22",
+      "summary": "Le régulateur irlandais sanctionne le groupe américain au titre du RGPD, deux mois après l’amende de 890 millions d’euros de Bruxelles.",
+      "score": 49,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +10 Géo EU: irlande | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "eb7e08d78fbc2173",
@@ -2578,7 +2650,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La loi Graham impose des sanctions économiques et des droits de douane jusqu'à 100% contre la Russie et ses partenaires commerciaux, relevant de la conformité aux sanctions internationales."
+      "ai_summary": "La loi Graham impose des sanctions économiques et des droits de douane contre la Russie, relevant de la conformité sanctions et réglementations commerciales internationales."
     },
     {
       "hash": "d423c270ea413d19",
@@ -3100,7 +3172,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "da1d097b38570360",
@@ -3136,7 +3208,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions américaines contre des entités russes et de risques de non-conformité pour les acteurs commerciaux impliqués."
+      "ai_summary": "Cet article concerne les sanctions financières américaines contre des entités russes et les risques de conformité aux régimes de sanctions pour les acteurs commerciaux."
     },
     {
       "hash": "ec59ce893a51ac22",
@@ -3697,6 +3769,24 @@
       "ai_summary": "Cet article traite de la conformité réglementaire en exigeant des entreprises des programmes de conformité robustes selon les normes DOJ et SEC."
     },
     {
+      "hash": "25fa57f3af9a6359",
+      "source_name": "JORF - Bancaire",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 12 août 2026 portant homologation des règlements ANC n° 2026-01 du 9 janvier 2026, n° 2026-02 du 9 janvier 2026, n° 2026-03 du 6 mars 2026 et n° 2026-04 du 4 mai 2026 de l'Autorité des normes comptables",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054791025",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-09-03T00:00:00",
+      "summary": "Les règlements de l'Autorité des normes comptables suivants tels qu'annexés sont homologués :- règlement n° 2026-01 du 9 janvier 2026 ;- règlement n° 2026-02 du 9 janvier 2026 ;- règlement n° 2026-03 du 6 mars 2026 ;- règlement n° 2026-04 du 4 mai 2026.\nLe présent arrêté et les règlements qui lui sont annexés seront publiés au Journal officiel de la République française.\nRèglement ANC n° 2026-04 du 4 mai 2026 modifiant le règlement ANC n° 2014-03 modifié relatif au plan comptable généralL'Autori",
+      "score": 30,
+      "score_breakdown": "+5 mots moyens: règlement | +25 Source FR | +20 Géo FR: français, française, journal officiel | ×0.6 (>14d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a3f7132dccd4fa37",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -3712,7 +3802,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1a1872e71fb679ea",
@@ -3744,6 +3834,24 @@
       "summary": "Délégation est donnée à Mme Maylis DE ROECK, magistrate, cheffe du bureau de la politique pénale générale ; Mme Mélody BARBUTI, magistrate, cheffe du bureau de l'exécution des peines et des grâces ; Mme Christelle HOUSSET, magistrate, cheffe du bureau de la police judicaire ; Mme Marie DEFOS DU RAU, magistrate, cheffe du bureau de la lutte contre la criminalité organisée, le terrorisme et le blanchiment ; M. Mathieu SAUNIER, magistrat , chef du bureau du droit économique financier et social, de ",
       "score": 27,
       "score_breakdown": "+20 mots critiques: blanchiment | +25 Source FR | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "04db26e1c194b146",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "SEC to Advisers: Don’t Say ‘May’ When You Mean ‘Does’",
+      "url": "https://www.corporatecomplianceinsights.com/sec-advisers-dont-say-may-when-you-mean-does/",
+      "author": "Todd Gibson, Jim Rollins and Kate Miller",
+      "published": "2026-09-21T11:02:50",
+      "summary": "Reconcile what your disclosures say with how you actually bill fees and earn revenue\nThe post SEC to Advisers: Don’t Say ‘May’ When You Mean ‘Does’ appeared first on Corporate Compliance Insights.",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
@@ -3802,7 +3910,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il révèle une faille dans la protection des données clients, obligation réglementaire majeure des établissements financiers."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation de données clients et de la notification aux régulateurs, obligations majeures en matière de conformité bancaire et de protection des données."
     },
     {
       "hash": "c5403c05554a68d0",
@@ -3946,7 +4054,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "905af218d1071679",
@@ -3982,7 +4090,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c96b370270fd74ad",
@@ -4396,7 +4504,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "27bfbbd5a8010999",
@@ -4774,7 +4882,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7ac8b502e761ad0d",
@@ -5245,7 +5353,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires liées à la corruption dans le football."
     }
   ],
-  "last_update": "2026-09-21T05:11:55.922621+00:00",
+  "last_update": "2026-09-21T11:26:56.005322+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
