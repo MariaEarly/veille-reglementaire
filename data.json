@@ -1264,7 +1264,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les amendements législatifs canadiens qui modifient les exigences de conformité en matière de lutte contre le blanchiment d'argent et le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des amendements législatifs canadiens modifiant les exigences en matière de programmes anti-blanchiment d'argent."
     },
     {
       "hash": "2404003c31e27d2d",
@@ -1463,6 +1463,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les directives de l'EBA sur la gestion des risques tiers concernent la conformité financière par leur cadre réglementaire."
+    },
+    {
+      "hash": "c1c17172c27ad7eb",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "\"Inacceptable\": malgré la mise en garde de Zelensky, l'Union européenne se dit prête à lever ses sanctions contre deux oligarques russes",
+      "url": "https://www.bfmtv.com/economie/inacceptable-malgre-la-mise-en-garde-de-zelensky-l-union-europeenne-se-dit-prete-a-lever-ses-sanctions-contre-deux-oligarques-russes_AD-202609210803.html",
+      "author": "",
+      "published": "2026-09-21T19:06:26",
+      "summary": "L'Union européenne a trouvé ce lundi 21 septembre un accord de principe pour lever ses sanctions contre deux oligarques russes, à la demande de la France et du Luxembourg, après une négociation difficile qui permet toutefois de renouveler le reste des mesures visant Moscou, ont indiqué des diplomates.",
+      "score": 64,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +20 Géo FR: france | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "29bb62a2cd8b810b",
@@ -1912,7 +1930,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7d7615e1b88121df",
@@ -2092,7 +2110,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Google doit respecter les règles de protection des données (RGPD), relevant de la conformité réglementaire et de la gestion des risques légaux en matière de données personnelles."
+      "ai_summary": "Google est sanctionnée pour manquement à la protection des données personnelles (RGPD), obligation légale relevant de la conformité réglementaire."
     },
     {
       "hash": "eb7e08d78fbc2173",
@@ -2488,7 +2506,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de violations de sanctions et de fraude, des domaines clés de la conformité."
     },
     {
       "hash": "a55391db5cab2501",
@@ -2668,7 +2686,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'un recours légal contre l'OFAC concernant les sanctions internationales."
     },
     {
       "hash": "3dab1167cc5af0f4",
@@ -2686,7 +2704,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La loi Graham autorise le président à imposer des droits de douane jusqu'à 100% sur les importateurs de ressources russes, relevant des sanctions économiques internationales."
+      "ai_summary": "La loi Graham impose des sanctions commerciales contre la Russie via des droits de douane, relevant de la conformité aux régulations de contrôle des exportations."
     },
     {
       "hash": "d423c270ea413d19",
@@ -3208,7 +3226,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "da1d097b38570360",
@@ -3229,6 +3247,24 @@
       "ai_summary": "FinCEN propose de révoquer l'accès bancaire correspondant de Banque Misr UAE aux institutions financières américaines."
     },
     {
+      "hash": "4c3d133de8c52782",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Russia sanctions bill gives Trump broad waiver power",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/russia-sanctions-bill-gives-trump-broad-waiver-power",
+      "author": "Dan Novak",
+      "published": "2026-09-21T17:55:35",
+      "summary": "The legislation, signed into law on 18 September, seeks to preserve long-term US restrictions on Moscow, but may contain a presidential waiver provision “so big you can drive a truck through it”.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "0ef785ca08947dfb",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -3244,7 +3280,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde les sanctions américaines contre des entités russes et les risques de non-conformité pour les tiers commercialisant avec ces entités sanctionnées."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions américaines contre des entités russes, imposant des obligations de conformité aux règles de gel d'actifs et de restrictions commerciales."
     },
     {
       "hash": "ec59ce893a51ac22",
@@ -3820,7 +3856,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Homologation de règlements comptables fixant les normes et standards que les entités doivent respecter pour la conformité de leurs rapports financiers."
+      "ai_summary": "Homologation de règlements comptables de l'ANC définissant les normes et standards que les entités doivent respecter pour la conformité de leur reporting financier."
     },
     {
       "hash": "a3f7132dccd4fa37",
@@ -3838,7 +3874,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1a1872e71fb679ea",
@@ -3874,7 +3910,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "04db26e1c194b146",
@@ -3892,7 +3928,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite de l'obligation pour les conseillers de clarifier leurs divulgations de frais pour correspondre à leurs pratiques réelles de facturation."
+      "ai_summary": "La SEC exige que les conseillers financiers alignent leurs divulgations sur leurs pratiques réelles de facturation et de revenus."
     },
     {
       "hash": "21d91593ae53e522",
@@ -3946,7 +3982,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation de données clients et de la notification aux régulateurs, obligations essentielles de la conformité bancaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation de données clients chez un établissement financier, soulevant des enjeux de conformité réglementaire et de protection des données personnelles."
     },
     {
       "hash": "c5403c05554a68d0",
@@ -4090,7 +4126,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "905af218d1071679",
@@ -4126,7 +4162,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c96b370270fd74ad",
@@ -4540,7 +4576,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "27bfbbd5a8010999",
@@ -4666,7 +4702,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la supervision bancaire et la responsabilité financière envers les institutions européennes."
     },
     {
       "hash": "619843e7dea6b2ca",
@@ -4936,7 +4972,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "7ac8b502e761ad0d",
@@ -5314,7 +5350,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne le recouvrement d'actifs provenant de corruption, domaine clé de la conformité financière et AML."
     },
     {
       "hash": "ee64d61b2022d65a",
@@ -5332,7 +5368,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "eb162b1597e08f9d",
@@ -5443,7 +5479,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires liées à la corruption dans le football."
     }
   ],
-  "last_update": "2026-09-21T17:26:10.880123+00:00",
+  "last_update": "2026-09-21T21:25:16.926257+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
