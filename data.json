@@ -1444,7 +1444,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des normes de coopération entre unités de renseignement financier et de signalement."
     },
     {
       "hash": "6e55b9f240b54bb9",
@@ -1481,6 +1481,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les directives de l'EBA sur la gestion des risques tiers concernent la conformité financière par leur cadre réglementaire."
+    },
+    {
+      "hash": "5dedc86f4846bb49",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "La France et le Luxembourg ont obtenu gain de cause: l’UE lève les sanctions contre deux oligarques russes en échange d’un accord sur 3.000 autres",
+      "url": "https://www.bfmtv.com/economie/la-france-et-le-luxembourg-ont-obtenu-gain-de-cause-l-ue-leve-les-sanctions-contre-deux-oligarques-russes-en-echange-d-un-accord-sur-3-000-autres_AD-202609220645.html",
+      "author": "",
+      "published": "2026-09-22T15:16:53",
+      "summary": "Après plus de 24 heures de tractations et malgré les mises en garde de Kiev, les pays de l'Union européenne sont finalement parvenus à un accord visant à rayer le nom de deux oligarques russes de sa liste de sanctions contre Moscou, à la demande de la France et du Luxembourg.",
+      "score": 64,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +20 Géo FR: france | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "c1c17172c27ad7eb",
@@ -1930,7 +1948,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "16d5cfdff1129474",
@@ -2090,6 +2108,24 @@
       "score_breakdown": "+10 mots forts: conformité | +3 Presse | +20 Géo FR: français, française | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article traite de la conformité financière car il aborde l'obligation légale de facturation électronique imposée aux entreprises françaises à partir de 2026."
+    },
+    {
+      "hash": "a9de56f808d51f5d",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "FT: Western banks processed billions of dollars for sanctioned Russian fintech",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/ft-western-banks-processed-billions-of-dollars-sanctioned-russian-fintech",
+      "author": "Sam Fry",
+      "published": "2026-09-22T09:06:35",
+      "summary": "",
+      "score": 49,
+      "score_breakdown": "+20 mots critiques: sanction | +10 mots moyens: fintech, bank | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
       "status": "new",
       "early_brief": false,
       "ai_summary": null
@@ -2326,7 +2362,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des ateliers de l'EBA sur le reporting réglementaire bancaire et la conformité aux normes de données."
     },
     {
       "hash": "dd909d6407b3600e",
@@ -2507,6 +2543,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car l'EBA répond aux observations du Parlement européen sur la gestion et le contrôle bancaires."
+    },
+    {
+      "hash": "0bc6b8b2cf3d8c77",
+      "source_name": "Money Laundering News",
+      "source_type": "press",
+      "category": "presse",
+      "title": "New Guidance Addresses SAR Confidentiality and Customer Communications",
+      "url": "https://www.moneylaunderingnews.com/2026/09/new-guidance-addresses-sar-confidentiality-and-customer-communications/",
+      "author": "Matthew T. Smith and Kelly A. Lenahan-Pfahlert",
+      "published": "2026-09-22T15:51:05",
+      "summary": "\n\t\t\tBanks and their employees face a difficult balancing act when discussing suspected fraud or money laundering activity with a customer on whose account activity the bank has filed a suspicious activity report (SAR).&nbsp; The bank must take practical steps to protect the customer and the institution (for example, verifying transactions, restricting account access, or requesting additional documentation) while strictly preserving SAR confidentiality. If a bank employee discloses&mdash;or even ",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: money laundering, fraud | +5 mots moyens: bank | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "686e1f1a259d83fa",
@@ -3031,6 +3085,24 @@
       "ai_summary": "Cet arrêté définit les modalités de calcul du quotient familial pour l'accès au pass Culture, relevant de la conformité sociale et administrative."
     },
     {
+      "hash": "a3133b7983d21832",
+      "source_name": "EDPB - European Data Protection Board",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
+      "url": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-100-000-eur-for-making-the-exercise-of-data-subject_en",
+      "author": "EDPB",
+      "published": "2026-09-22T12:00:00",
+      "summary": "Background informationDate of final decision: 1 February 2023National caseController: SECURITAS DIRECT, S.A.Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject)Decision: Administrative fine, Compliance orderKey words: Data subject rightsSummary of the DecisionOrigin of the case &nbsp;A consumer association lodged a complaint against Securitas Direct concerning video surveillance notices that directed data subjec",
+      "score": 37,
+      "score_breakdown": "+10 mots forts: compliance | +15 Source EU | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "83fa06c849307c61",
       "source_name": "ECB - Banking Supervision",
       "source_type": "rss",
@@ -3190,7 +3262,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "da1d097b38570360",
@@ -3244,7 +3316,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions américaines contre des entités russes, imposant des obligations de conformité aux régimes de sanctions internationales."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions américaines et de leur contournement potentiel par des tiers."
     },
     {
       "hash": "ec59ce893a51ac22",
@@ -3856,7 +3928,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "04db26e1c194b146",
@@ -3928,7 +4000,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il met en avant des failles de sécurité des données client et des obligations de signalement réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il révèle des manquements en matière de sécurité des données et de respect des obligations réglementaires de protection des informations clients."
     },
     {
       "hash": "c5403c05554a68d0",
@@ -4072,7 +4144,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "905af218d1071679",
@@ -4108,7 +4180,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c96b370270fd74ad",
@@ -4144,7 +4216,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bef1d3a837a66554",
@@ -4540,7 +4612,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "27bfbbd5a8010999",
@@ -4649,6 +4721,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il aborde les outils macroprudentiels et la stabilité financière dans la politique monétaire suisse."
+    },
+    {
+      "hash": "928b7a6294276a6e",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Investment, good governance and strong data infrastructure are needed for digital innovation to boost banks’ business models, says Supervisory Board Chair Claudia Buch. A single European banking market can provide the scale for digital investments to pay off",
+      "url": "https://x.com/ecb/status/2102401424055226784",
+      "author": "@ecb",
+      "published": "2026-09-22T14:15:00",
+      "summary": "Investment, good governance and strong data infrastructure are needed for digital innovation to boost banks’ business models, says Supervisory Board Chair Claudia Buch. A single European banking market can provide the scale for digital investments to pay off  bankingsupervision.europa.eu…— European Central Bank (@ecb) Sep 22, 2026",
+      "score": 15,
+      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "81e61b6067ff3700",
@@ -4936,7 +5026,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "944c7298c3f770a1",
@@ -5335,24 +5425,6 @@
       "ai_summary": "Cet article concerne le recouvrement d'actifs provenant de corruption, domaine clé de la conformité financière et AML."
     },
     {
-      "hash": "ee64d61b2022d65a",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Le Tour du Mont-Blanc confronté à une augmentation exponentielle de sa fréquentation : « C’est de la folie, il faut arrêter d’ubériser ce parcours »",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/21/le-tour-du-mont-blanc-confronte-a-une-augmentation-exponentielle-de-sa-frequentation-c-est-de-la-folie-il-faut-arreter-d-uberiser-ce-parcours_6779122_3234.html",
-      "author": "",
-      "published": "2026-09-21T12:16:23",
-      "summary": "L’itinéraire de 170 kilomètres, devenu le plus prisé des Alpes, a accueilli plus de 90 000 randonneurs cet été. Face aux multiples dérives et aux pressions exercées sur les écosystèmes, élus, guides et tenanciers de refuges veulent s’attaquer à sa régulation.",
-      "score": 4,
-      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "eb162b1597e08f9d",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -5461,7 +5533,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires liées à la corruption dans le football."
     }
   ],
-  "last_update": "2026-09-22T11:54:42.271515+00:00",
+  "last_update": "2026-09-22T15:57:57.253352+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
