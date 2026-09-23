@@ -778,7 +778,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il analyse les innovations d'investissement retail à travers une perspective réglementaire incluant MiCA."
+      "ai_summary": "Cet article traite de la conformité financière car il examine la perspective réglementaire sur l'innovation en investissement de détail sous la régulation MiCA."
     },
     {
       "hash": "87d6e8f771928d14",
@@ -1516,7 +1516,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la levée de sanctions contre des oligarques, matière réglementée par les règles de conformité et lutte contre le blanchiment."
+      "ai_summary": "La levée de sanctions contre des oligarques russes concerne directement la conformité financière via le gel des actifs et le respect des listes de sanctions de l'UE."
     },
     {
       "hash": "c1c17172c27ad7eb",
@@ -1966,7 +1966,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "16d5cfdff1129474",
@@ -2128,7 +2128,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La facturation électronique obligatoire est une obligation de conformité réglementaire française concernant la transmission et la réception des factures."
+      "ai_summary": "La facturation électronique obligatoire en France relève de la conformité réglementaire et financière des entreprises."
     },
     {
       "hash": "a9de56f808d51f5d",
@@ -2146,7 +2146,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les banques occidentales ont traité des milliards pour des entités russes sanctionnées, ce qui constitue une violation majeure des régimes de conformité et de sanctions financières."
+      "ai_summary": "Les banques occidentales ont facilité des transactions financières pour des entités russes sanctionnées, ce qui viole les obligations de conformité aux régimes de sanctions internationaux."
     },
     {
       "hash": "d3591bd079435991",
@@ -2560,7 +2560,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations des banques concernant la déclaration de soupçons de fraude et de blanchiment d'argent."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de confidentialité des déclarations de soupçons (SAR) en matière de lutte anti-blanchiment."
     },
     {
       "hash": "686e1f1a259d83fa",
@@ -2741,6 +2741,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales et de leurs implications pour les institutions financières."
+    },
+    {
+      "hash": "2aa923105f5cadaf",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "SEC attorney leaves stalled FCPA case against Adani co-defendant",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/sec-attorney-leaves-stalled-fcpa-case-against-adani-co-defendant",
+      "author": "Estelle Atkinson",
+      "published": "2026-09-22T19:27:09",
+      "summary": "Amy Burkart is leaving the agency as it struggles to serve Cyril Cabanes nearly two years after charging the former Azure executive in a fraud and bribery scheme allegedly involving Indian business mogul Gautam Adani.",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: fcpa | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "0788e52b8cdd5062",
@@ -3100,7 +3118,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "83fa06c849307c61",
@@ -3247,6 +3265,24 @@
       "ai_summary": "L'article concerne la conformité financière car il traite des normes réglementaires de l'EBA sur le classement des entreprises d'investissement."
     },
     {
+      "hash": "83f8e80d7ab5cc35",
+      "source_name": "DG Trésor",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Concurrence sur le marché à l’export américain après les droits de douane",
+      "url": "https://www.tresor.economie.gouv.fr/Articles/2026/09/16/concurrence-sur-le-marche-a-l-export-americain-apres-les-droits-de-douane",
+      "author": "",
+      "published": "2026-09-15T22:00:00",
+      "summary": "La mise en place des droits de douane par l’administration américaine a rebattu les cartes de la compétitivité des exportateurs du monde entier vers le marché américain. L’Union Européenne, surtout exposée à la concurrence du Canada, du Mexique et de la Chine, a subi une baisse de sa compétitivité équivalente à une hausse des prix moyens de + 1,1 %. Les secteurs de l’agroalimentaire, des machines, de la chimie et de l’acier sont les plus impactés au mois de juin 2026.",
+      "score": 36,
+      "score_breakdown": "+10 mots forts: eba | +25 Source FR | +10 Géo EU: union européenne, eba | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
       "hash": "f87b9484658ada75",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
@@ -3262,7 +3298,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "da1d097b38570360",
@@ -3298,7 +3334,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6659f01c80b6a2cd",
@@ -3316,7 +3352,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car les scandales judiciaires affectent la crédibilité des institutions et l'application de la régulation financière."
     },
     {
       "hash": "4c3d133de8c52782",
@@ -3946,7 +3982,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "MONEYVAL évalue la conformité des pays aux normes FATF contre le blanchiment d'argent et le financement du terrorisme."
     },
     {
       "hash": "1a1872e71fb679ea",
@@ -3982,7 +4018,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "04db26e1c194b146",
@@ -4054,7 +4090,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation de données clients chez un établissement financier, relevant de la conformité en matière de protection des données et de cybersécurité financière."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation de données clients chez un établissement financier, soumise à des obligations réglementaires de protection des données et de signalement aux autorités."
     },
     {
       "hash": "c5403c05554a68d0",
@@ -4198,7 +4234,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "905af218d1071679",
@@ -4234,7 +4270,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "c96b370270fd74ad",
@@ -4270,7 +4306,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "bef1d3a837a66554",
@@ -4666,7 +4702,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "27bfbbd5a8010999",
@@ -5080,7 +5116,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "944c7298c3f770a1",
@@ -5587,7 +5623,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires liées à la corruption dans le football."
     }
   ],
-  "last_update": "2026-09-22T21:31:48.262788+00:00",
+  "last_update": "2026-09-23T02:25:20.868317+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
