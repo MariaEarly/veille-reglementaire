@@ -565,6 +565,24 @@
   ],
   "items": [
     {
+      "hash": "1dd5d2cf0e9be2e8",
+      "source_name": "AMF - Actualités",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "L’AMF publie son rapport sur les incidents majeurs déclarés en 2025 au titre du règlement DORA",
+      "url": "https://www.amf-france.org/fr/actualites-publications/actualites/lamf-publie-son-rapport-sur-les-incidents-majeurs-declares-en-2025-au-titre-du-reglement-dora#xts=607212&xtor=RSS-3&type=RSS",
+      "author": "",
+      "published": "2026-09-23T17:01:03",
+      "summary": "Actualité                  Gestion d&#039;actifs                    L’AMF publie son rapport sur les incidents majeurs déclarés en 2025 au titre du règlement DORA",
+      "score": 100,
+      "score_breakdown": "+20 mots forts: amf, dora | +5 mots moyens: règlement | +25 Source FR | +20 Géo FR: amf | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "L'article concerne la conformité financière car il traite de la déclaration des incidents majeurs selon DORA, un règlement de conformité imposé aux acteurs financiers."
+    },
+    {
       "hash": "03668841cee3c3c1",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -653,6 +671,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la gouvernance du signalement des défaillances AML/CFT via la base de données EuReCA."
+    },
+    {
+      "hash": "fe8426ce20e58b89",
+      "source_name": "AMF - Actualités",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Rapport sur les incidents majeurs DORA déclarés à l'AMF en 2025",
+      "url": "https://www.amf-france.org/fr/actualites-publications/publications/rapports-etudes-et-analyses/rapport-sur-les-incidents-majeurs-dora-declares-lamf-en-2025#xts=607212&xtor=RSS-3&type=RSS",
+      "author": "",
+      "published": "2026-09-23T17:00:04",
+      "summary": "Rapport / étude                  Gestion d&#039;actifs                    Rapport sur les incidents majeurs DORA déclarés à l&#039;AMF en 2025",
+      "score": 97,
+      "score_breakdown": "+20 mots forts: amf, dora | +25 Source FR | +20 Géo FR: amf | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il traite des incidents majeurs déclarés selon DORA, règlement de conformité numérique et de résilience opérationnelle."
     },
     {
       "hash": "c7fda50976580d3c",
@@ -760,7 +796,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté applique les dispositions du code monétaire et financier sur le gel des fonds et ressources économiques, relevant de la conformité financière."
+      "ai_summary": "Cet arrêté définit les mesures de gel des avoirs et ressources économiques en application de la lutte contre le financement du terrorisme et de la criminalité financière."
     },
     {
       "hash": "12a24972f562815a",
@@ -1480,7 +1516,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la sélection d'entités pour la supervision directe de l'AMLA en matière de lutte anti-blanchiment."
     },
     {
       "hash": "8eb951f96b355fd6",
@@ -1771,60 +1807,6 @@
       "ai_summary": "L'article concerne les normes techniques de reclassement des entreprises d'investissement en établissements de crédit selon les seuils d'actifs."
     },
     {
-      "hash": "db527709f9a6be79",
-      "source_name": "Commission EU - Sanctions FAQ",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Import ban on liquified natural gas (LNG)",
-      "url": "https://finance.ec.europa.eu/publications/import-ban-liquified-natural-gas-lng_en",
-      "author": "",
-      "published": "2026-08-24T16:40:48",
-      "summary": "FAQs on sanctions against Russia and Belarus, with focus on the following provision: Article&nbsp;3ra of Council Regulation (EU) No&nbsp;833/2014.",
-      "score": 60,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: regulation | +15 Source EU | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions financières imposées à la Russie et Biélorussie, relevant de la conformité réglementaire."
-    },
-    {
-      "hash": "54f125a5ac4aa56a",
-      "source_name": "Commission EU - Sanctions FAQ",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Oil price cap",
-      "url": "https://finance.ec.europa.eu/publications/oil-price-cap_en",
-      "author": "",
-      "published": "2026-08-24T16:39:45",
-      "summary": "FAQs on sanctions against Russia and Belarus, with focus on the following provision: Article 3n of Council Regulation (EU) No 833/2014.",
-      "score": 60,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: regulation | +15 Source EU | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les sanctions contre la Russie incluent un plafonnement des prix du pétrole soumis à conformité financière stricte."
-    },
-    {
-      "hash": "492be0965a798907",
-      "source_name": "Commission EU - Sanctions FAQ",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Infrastructure transaction ban",
-      "url": "https://finance.ec.europa.eu/publications/infrastructure-transaction-ban_en",
-      "author": "",
-      "published": "2026-08-24T16:39:10",
-      "summary": "FAQs on sanctions against Russia and Belarus, with focus on the following provision: Article 5ae of Council Regulation (EU) No 833/2014.",
-      "score": 60,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: regulation | +15 Source EU | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il explique les sanctions contre la Russie et la Biélorussie selon la réglementation UE."
-    },
-    {
       "hash": "46bac02d0ba8d802",
       "source_name": "EBA (X)",
       "source_type": "rss",
@@ -1840,7 +1822,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les risques de conformité financière en identifiant les vulnérabilités systémiques de l'UE incluant cyber-risques, dépendances externes et risques de crédit privé."
     },
     {
       "hash": "dbbb44180280681e",
@@ -1858,7 +1840,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les risques de cybersécurité et de crédit privé menaçant la stabilité financière de l'UE, relevant de la conformité réglementaire."
     },
     {
       "hash": "440c512fd8e23aa3",
@@ -2038,7 +2020,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "16d5cfdff1129474",
@@ -2149,24 +2131,6 @@
       "ai_summary": "L'EBA consulte sur les normes techniques pour reclasser les sociétés d'investissement en établissements de crédit."
     },
     {
-      "hash": "8f1d6348db5b825b",
-      "source_name": "Commission EU - Sanctions FAQ",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Consolidated version",
-      "url": "https://finance.ec.europa.eu/publications/consolidated-version_en",
-      "author": "",
-      "published": "2026-08-24T16:38:34",
-      "summary": "Consolidated version of the FAQs on sanctions against Russia and Belarus.",
-      "score": 52,
-      "score_breakdown": "+20 mots critiques: sanction | +15 Source EU | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité aux sanctions internationales imposées par l'UE contre la Russie et la Biélorussie."
-    },
-    {
       "hash": "b3a7817030cf3fcf",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -2200,7 +2164,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la levée des sanctions imposées à des oligarques russes par l'UE."
     },
     {
       "hash": "c47ec17ca5c14c04",
@@ -2650,7 +2614,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il aborde les obligations des banques concernant la confidentialité des SAR et la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de confidentialité des déclarations de soupçons (SAR) en matière de lutte anti-blanchiment."
     },
     {
       "hash": "686e1f1a259d83fa",
@@ -2813,24 +2777,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "ComplyAdvantage reçoit des distinctions pour ses solutions de conformité financière et de prévention de la fraude bancaire."
-    },
-    {
-      "hash": "3f6132a3b6e75814",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Soutien de la Chine à l’Iran : « Personne ne peut échapper aux sanctions américaines », déclare le secrétaire au Trésor américain",
-      "url": "https://www.lemonde.fr/international/article/2026/08/24/soutien-de-la-chine-a-l-iran-personne-ne-peut-echapper-aux-sanctions-americaines-declare-le-secretaire-au-tresor-americain_6755656_3210.html",
-      "author": "",
-      "published": "2026-08-24T18:10:53",
-      "summary": "Les pays qui ne participeraient pas aux sanctions souhaitées par les Etats-Unis « partageront l’isolement de l’Iran » a mis en garde Scott Bessent, alors que Donald Trump a appelé durant le week-end un certain nombre de pays à se joindre à sa « guerre économique ».",
-      "score": 42,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions internationales et de leurs implications pour les institutions financières."
     },
     {
       "hash": "2aa923105f5cadaf",
@@ -3172,7 +3118,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "83fa06c849307c61",
@@ -3193,6 +3139,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il rapporte les statistiques de supervision bancaire de la BCE sur les établissements importants."
     },
     {
+      "hash": "0c2195d88bd5283f",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🚀 Europe has built a stronger banking system. The next challenge is making it work better for Europe’s future. During his visit to...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7508562343912529920",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-09-23T16:26:05",
+      "summary": "🚀 Europe has built a stronger banking system. The next challenge is making it work better for Europe’s future.\n\nDuring his visit to Poland, EBA Chair François-Louis Michaud shared this message at the 20th anniversary of the Polish Financial Supervision Authority (KNF) and later expanded on it at the International Conference on Finance: Navigating Through Uncertainty.\n\nIn his keynote speech, he highlighted three priorities for Europe's financial future:\n💡Competitiveness\nEurope needs a financial s",
+      "score": 37,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba, poland | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "afe228cecac99a93",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -3208,7 +3172,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'engagement de l'Autorité bancaire européenne avec les banques coopératives, acteurs régulés du secteur financier."
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA établit les normes de conformité réglementaire que les banques coopératives doivent respecter."
     },
     {
       "hash": "55dc0a040003c906",
@@ -3371,6 +3335,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les risques de sanctions financières américaines et leurs impacts sur les transactions internationales impliquant l'Iran."
+    },
+    {
+      "hash": "297ba23c8224c7b9",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "New York prosecutors probe Iran sanctions violations at Binance: Bloomberg",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/new-york-prosecutors-probe-iran-sanctions-violations-binance-bloomberg",
+      "author": "Ana de Liz",
+      "published": "2026-09-23T08:34:47",
+      "summary": "",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "4c3d133de8c52782",
@@ -3841,42 +3823,6 @@
       "ai_summary": "TikTok signale des auto-divulgations de sanctions, concernant la conformité aux régimes de sanctions financières."
     },
     {
-      "hash": "794727a55e8c6d89",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Les Etats-Unis annoncent de nouvelles sanctions pour « couper toutes les ressources économiques » de l’Iran",
-      "url": "https://www.lemonde.fr/international/article/2026/08/24/les-etats-unis-annoncent-de-nouvelles-sanctions-pour-couper-toutes-les-ressources-economiques-de-l-iran_6755656_3211.html",
-      "author": "",
-      "published": "2026-08-24T18:52:50",
-      "summary": "Les pays qui ne participeraient pas aux sanctions souhaitées par les Etats-Unis « partageront l’isolement » du régime de Téhéran, a mis en garde Scott Bessent, le secrétaire au Trésor américain, lundi. De son côté, l’Iran a assuré disposer d’un « plan sur deux ans » pour contrer les sanctions.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les sanctions économiques contre l'Iran relèvent de la conformité financière et des obligations de respect des régimes de sanctions internationales."
-    },
-    {
-      "hash": "612f20828216eca4",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Actifs numériques, or, transport maritime... Le gouvernement américain annonce de nouvelles sanctions visant des secteurs \"vitaux\" pour \"couper toutes les ressources économiques\" de l'Iran",
-      "url": "https://www.bfmtv.com/economie/international/actifs-numeriques-or-transport-maritime-le-gouvernement-americain-annonce-de-nouvelles-sanctions-visant-des-secteurs-vitaux-pour-couper-toutes-les-ressources-economiques-de-l-iran_AD-202608240723.html",
-      "author": "",
-      "published": "2026-08-24T17:38:45",
-      "summary": "Le secrétaire au Trésor américain, Scott Bessent, a annoncé une nouvelle salve de sanctions économiques pour isoler davantage le régime de Téhéran. ",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les sanctions américaines imposent des obligations de conformité aux entités financières pour identifier et bloquer les transactions avec l'Iran."
-    },
-    {
       "hash": "ea50dd1ef25e90b6",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -3964,7 +3910,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "422a997696b362d6",
@@ -3982,7 +3928,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1cc994ec35684da6",
@@ -4054,7 +4000,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6659f01c80b6a2cd",
@@ -4072,7 +4018,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une crise judiciaire affectant la crédibilité des institutions chargées d'enquêter sur la fraude financière au Brésil."
     },
     {
       "hash": "04db26e1c194b146",
@@ -4306,7 +4252,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c96b370270fd74ad",
@@ -4342,7 +4288,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "bef1d3a837a66554",
@@ -4504,7 +4450,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les banques doivent renforcer leur résilience opérationnelle pour se conformer aux exigences de stabilité financière et gérer les risques réglementaires."
     },
     {
       "hash": "30ba1bcbec5340e2",
@@ -4720,7 +4666,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "27bfbbd5a8010999",
@@ -5134,7 +5080,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "944c7298c3f770a1",
@@ -5314,7 +5260,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les modifications de listes de sanctions relatives à la République Démocratique du Congo, relevant de la conformité réglementaire en matière de sanctions."
     },
     {
       "hash": "e9992ff3cbf5eff8",
@@ -5621,27 +5567,9 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les propriétaires acceptent des accords de culpabilité dans une affaire de corruption, démontrant un manquement grave aux normes de conformité."
-    },
-    {
-      "hash": "efc7360ae4eb403e",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Full Play owners surface in Fifa bribery case",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/full-play-owners-surface-in-fifa-bribery-case",
-      "author": "Estelle Atkinson",
-      "published": "2026-08-24T19:42:28",
-      "summary": "The father-son sports marketing duo have retained powerhouse counsel as they enter the proceedings a decade after their indictment in Brooklyn federal court.",
-      "score": 4,
-      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires liées à la corruption dans le football."
     }
   ],
-  "last_update": "2026-09-23T17:19:41.226258+00:00",
+  "last_update": "2026-09-23T20:52:20.356715+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
