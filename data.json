@@ -598,7 +598,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur les incidents majeurs déclarés sous DORA, règlement imposant aux entreprises de services financiers de respecter des obligations de conformité en matière de résilience opérationnelle et de gestion des risques."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la déclaration des incidents majeurs selon le règlement DORA, obligation de conformité réglementaire pour les entreprises du secteur financier."
     },
     {
       "hash": "03668841cee3c3c1",
@@ -706,7 +706,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il précise les procédures d'agrément et les exigences réglementaires des dépositaires d'OPCVM et de FIA."
     },
     {
       "hash": "fe8426ce20e58b89",
@@ -1552,7 +1552,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la sélection d'entités pour la supervision directe de l'AMLA en matière de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la sélection d'entités soumises à la supervision directe de l'AMLA en matière de lutte anti-blanchiment."
     },
     {
       "hash": "8eb951f96b355fd6",
@@ -2020,7 +2020,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d88d7e864392476d",
@@ -2398,7 +2398,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des recommandations de l'EBA pour améliorer le cadre réglementaire MiCA sur les cryptoactifs."
+      "ai_summary": "L'EBA propose des ajustements au cadre MiCA pour améliorer la conformité et l'efficacité de la réglementation des cryptoactifs en Europe."
     },
     {
       "hash": "8428adee4a436a91",
@@ -2614,7 +2614,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car les exportations indiennes vers la Russie exposent les acteurs à des risques de sanctions commerciales américaines."
     },
     {
       "hash": "0bc6b8b2cf3d8c77",
@@ -2632,7 +2632,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations légales des banques concernant les déclarations de soupçon de blanchiment de capitaux."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations des banques en matière de dénonciation des activités suspectes (SAR) et de lutte anti-blanchiment."
     },
     {
       "hash": "686e1f1a259d83fa",
@@ -3067,24 +3067,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du transfert de portefeuille d'assurance par fusion, soumis à approbation réglementaire."
     },
     {
-      "hash": "05b0eee02e33b69f",
-      "source_name": "EDPB - European Data Protection Board",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "The Irish Data Protection Commission fines Google 403 000 000 EUR following Inquiry into Google’s processing of location data",
-      "url": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
-      "author": "EDPB",
-      "published": "2026-09-23T12:00:00",
-      "summary": "Background informationDate of final decision: 21 September 2026National caseLegal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject) and Article 13 (Information to be provided where personal data are collected from the data subject)Decision: Administrative fine, compliance orderKey words: GDPR enforcement, technolog",
-      "score": 37,
-      "score_breakdown": "+10 mots forts: compliance | +15 Source EU | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "83fa06c849307c61",
       "source_name": "ECB - Banking Supervision",
       "source_type": "rss",
@@ -3118,7 +3100,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité aux sanctions financières et aux obligations de déclaration des activités commerciales réglementées."
     },
     {
       "hash": "624cea747ee5ca58",
@@ -3301,6 +3283,24 @@
       "ai_summary": "FinCEN propose de révoquer l'accès bancaire correspondant de Banque Misr UAE aux institutions financières américaines."
     },
     {
+      "hash": "00920469857d763c",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "La Turquie prête à sacrifier ses missiles russes pour s'offrir son avion américain: le président turc se dit \"confiant\" pour enfin récupérer le F-35",
+      "url": "https://www.bfmtv.com/economie/international/la-turquie-prete-a-sacrifier-ses-missiles-russes-pour-s-offrir-son-avion-americain-le-president-turc-se-dit-confiant-confiant-pour-enfin-recuperer-le-f-35_AD-202609240782.html",
+      "author": "",
+      "published": "2026-09-24T17:14:35",
+      "summary": "Le processus est bloqué par le Congrès américain depuis l'acquisition par la Turquie, en 2017, du système russe de défense antimissile S-400. En retour, Washington avait exclu en 2019 la Turquie du programme de chasseurs F-35 et imposé des sanctions. ",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "610c423e84dd2560",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -3316,7 +3316,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la fraude, du risque de blanchiment d'argent et de la responsabilité légale des entreprises face aux escroqueries."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des fraudes bancaires et de la responsabilité légale en cas de paiement frauduleux."
     },
     {
       "hash": "80cce9e5a272d194",
@@ -3910,6 +3910,24 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il suit la production de crédits immobiliers, données essentielles au respect des normes prudentielles bancaires."
+    },
+    {
+      "hash": "05b0eee02e33b69f",
+      "source_name": "EDPB - European Data Protection Board",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "The Irish Data Protection Commission fines Google 403 000 000 EUR following Inquiry into Google’s processing of location data",
+      "url": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
+      "author": "EDPB",
+      "published": "2026-09-23T12:00:00",
+      "summary": "Background informationDate of final decision: 21 September 2026National caseLegal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject) and Article 13 (Information to be provided where personal data are collected from the data subject)Decision: Administrative fine, compliance orderKey words: GDPR enforcement, technolog",
+      "score": 30,
+      "score_breakdown": "+10 mots forts: compliance | +15 Source EU | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
       "ai_summary": null
     },
     {
@@ -3928,7 +3946,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "a3133b7983d21832",
+      "source_name": "EDPB - European Data Protection Board",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
+      "url": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-100-000-eur-for-making-the-exercise-of-data-subject_en",
+      "author": "EDPB",
+      "published": "2026-09-22T12:00:00",
+      "summary": "Background informationDate of final decision: 1 February 2023National caseController: SECURITAS DIRECT, S.A.Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject)Decision: Administrative fine, Compliance orderKey words: Data subject rightsSummary of the DecisionOrigin of the case &nbsp;A consumer association lodged a complaint against Securitas Direct concerning video surveillance notices that directed data subjec",
+      "score": 30,
+      "score_breakdown": "+10 mots forts: compliance | +15 Source EU | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "5e7470677e969a9d",
@@ -4018,7 +4054,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6659f01c80b6a2cd",
@@ -4036,7 +4072,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Crise de crédibilité à la cour suprême brésilienne pouvant affecter l'intégrité des enquêtes financières et la confiance dans le système judiciaire de conformité."
     },
     {
       "hash": "04db26e1c194b146",
@@ -4270,7 +4306,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c96b370270fd74ad",
@@ -4306,7 +4342,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "bef1d3a837a66554",
@@ -4684,7 +4720,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "27bfbbd5a8010999",
@@ -5098,7 +5134,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "944c7298c3f770a1",
@@ -5278,7 +5314,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne le retrait de sanctions contre des entités liées à la République Démocratique du Congo, relevant de la conformité réglementaire internationale."
+      "ai_summary": "Cet article concerne les retraits de désignations relatives à la République Démocratique du Congo, relevant des sanctions OFAC et de la conformité réglementaire."
     },
     {
       "hash": "e9992ff3cbf5eff8",
@@ -5479,6 +5515,24 @@
       "ai_summary": "Cet article concerne les sanctions et la conformité financière liées aux désignations antiterrorisme et aux restrictions commerciales avec la Russie."
     },
     {
+      "hash": "56d095131445b358",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "GIR Awards 2026 shortlists: Part Two",
+      "url": "https://globalinvestigationsreview.com/article/gir-awards-2026-shortlists-part-two",
+      "author": "",
+      "published": "2026-09-24T16:44:17",
+      "summary": "This year’s nominees include lawyers who helped settle a decade-long French tax probe, a boutique practitioner who clinched the acquittal of a Mexican businessman convicted of foreign bribery and the general counsel of a multinational that secured a rare US declination.",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "fa09ad9151d79512",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -5567,27 +5621,9 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires pour corruption impliquant un acteur économique majeur."
-    },
-    {
-      "hash": "f693db6fb638b621",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Full Play owners sign individual DPAs in Fifa bribery case",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/full-play-owners-sign-individual-dpas-in-fifa-bribery-case",
-      "author": "Estelle Atkinson",
-      "published": "2026-08-25T16:20:51",
-      "summary": "More than a decade after being indicted, the pair have admitted to devising a scheme to “pay tens of millions of dollars in commercial bribes” to football executives.",
-      "score": 4,
-      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les propriétaires acceptent des accords de culpabilité dans une affaire de corruption, démontrant un manquement grave aux normes de conformité."
     }
   ],
-  "last_update": "2026-09-24T17:24:36.409192+00:00",
+  "last_update": "2026-09-24T20:58:12.497364+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
