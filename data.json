@@ -580,7 +580,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite de la déclaration des incidents majeurs selon DORA, un règlement de conformité imposé aux acteurs financiers."
+      "ai_summary": "Cet article concerne la conformité financière car le règlement DORA impose aux entités financières de déclarer les incidents majeurs affectant leurs systèmes informatiques."
     },
     {
       "hash": "03668841cee3c3c1",
@@ -688,7 +688,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des incidents majeurs déclarés selon DORA, règlement de conformité numérique et de résilience opérationnelle."
+      "ai_summary": "Cet article concerne la conformité financière car il rapporte les incidents de résilience opérationnelle déclarés selon DORA à l'AMF."
     },
     {
       "hash": "c7fda50976580d3c",
@@ -796,7 +796,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté définit les mesures de gel des avoirs et ressources économiques en application de la lutte contre le financement du terrorisme et de la criminalité financière."
+      "ai_summary": "Cet arrêté applique des dispositions du code monétaire et financier relatives au gel des actifs et à la lutte contre le financement du terrorisme."
     },
     {
       "hash": "12a24972f562815a",
@@ -1213,24 +1213,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il homologue une modification du règlement de l'Autorité des marchés financiers."
     },
     {
-      "hash": "2168db636ad8a9c0",
-      "source_name": "JORF - Blanchiment",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décision du 24 août 2026 portant délégation de signature (centre des prestations financières)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054743181",
-      "author": "Ministère de l'intérieur",
-      "published": "2026-08-25T00:00:00",
-      "summary": "Délégation est donnée à M. Julien Picard, conseiller d'administration de l'intérieur et de l'outre-mer, chef du centre des prestations financières, directement placé sous l'autorité de la sous-directrice de la performance financière, à l'effet de signer, au nom du ministre de l'intérieur, les actes comptables (notamment les actes de certification de service fait, les engagements, les ordonnances de paiement, de virement, de délégation, les pièces justificatives de dépenses, les ordres de recette",
-      "score": 75,
-      "score_breakdown": "+5 mots moyens: paiement | +25 Source FR | +20 Géo FR: outre-mer | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il encadre les pouvoirs de signature pour les actes financiers au sein de l'administration."
-    },
-    {
       "hash": "b5a9a878e356e861",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -1483,24 +1465,6 @@
       "ai_summary": "Ce rapport concerne la conformité financière car il traite du blanchiment et du financement du terrorisme, risques majeurs de la conformité."
     },
     {
-      "hash": "7768d2b800720dda",
-      "source_name": "JORF - Blanchiment",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Avis relatif à un transfert partiel de portefeuille de contrats d'une entreprise d'assurance",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054743495",
-      "author": "Autorité de contrôle prudentiel",
-      "published": "2026-08-25T00:00:00",
-      "summary": "Par application des dispositions de l'article L. 324-1 du code des assurances, la société AXA ASSISTANCE FRANCE ASSURANCES (SIREN : 451 392 724), dont le siège social est situé à MALAKOFF (92240), 8-10, rue Paul-Vaillant-Couturier, a présenté une demande tendant à l'approbation du transfert d'une partie de son portefeuille de contrats, avec les droits et obligations qui s'y rapportent, à la société INTER PARTNER ASSISTANCE (SIREN : 316 139 500), dont le siège social est situé à Malakoff (92240),",
-      "score": 67,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: france | ×1.5 (<24h)",
-      "doc_type": "AVIS",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'approbation réglementaire d'un transfert de portefeuille d'assurance."
-    },
-    {
       "hash": "a574fb32ef53bed4",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -1516,7 +1480,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la sélection d'entités pour la supervision directe de l'AMLA en matière de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne l'identification des entités soumises à la supervision directe de l'AMLA pour la lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "8eb951f96b355fd6",
@@ -1822,7 +1786,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les risques de conformité financière en identifiant les vulnérabilités systémiques de l'UE incluant cyber-risques, dépendances externes et risques de crédit privé."
+      "ai_summary": "Les autorités de supervision identifient des risques de conformité systémique : dépendances externes, risques cybernétiques et crédit privé croissant."
     },
     {
       "hash": "dbbb44180280681e",
@@ -1840,7 +1804,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les risques de cybersécurité et de crédit privé menaçant la stabilité financière de l'UE, relevant de la conformité réglementaire."
+      "ai_summary": "Cet article concerne les risques systémiques financiers de l'UE : dépendances externes, menaces cyber et risques de crédit privé."
     },
     {
       "hash": "440c512fd8e23aa3",
@@ -2003,24 +1967,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les exigences de conformité financière et anti-fraude imposées aux entreprises britanniques par les autorités."
-    },
-    {
-      "hash": "3cdfd7177d7a9ff0",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Avis de concours pour le recrutement au titre de l'année 2027 d'inspecteurs de la concurrence, de la consommation et de la répression des fraudes",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054817513",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-09-10T00:00:00",
-      "summary": "La directrice générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) organise, au titre de l'année 2027, trois concours pour le recrutement d'inspecteurs et inspectrices de la concurrence, de la consommation et de la répression des fraudes :- un concours externe à dominante juridique et économique ;- un concours externe à dominante scientifique et technologique ;- un concours interne.I. - Conditions d'admission à concourirEn application de l'article L. 325-37 du ",
-      "score": 52,
-      "score_breakdown": "+20 mots critiques: fraude, fraud | +25 Source FR | +20 Géo FR: dgccrf | ×0.8 (14d)",
-      "doc_type": "AVIS",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "16d5cfdff1129474",
@@ -2383,24 +2329,6 @@
       "ai_summary": "L'article traite des risques de fraude liés à la délégation d'activités étatiques au secteur privé, enjeu majeur de conformité financière."
     },
     {
-      "hash": "aa2da3a86c8c81f2",
-      "source_name": "JORF - Blanchiment",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 21 juillet 2026 modifiant l'arrêté du 21 novembre 2024 fixant les modalités de versement de l'aide financière prévue à l'article L. 822-1-1 du code de l'éducation",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054743357",
-      "author": "Ministère de l'enseignement supérieur, de la recherche et de l'espace",
-      "published": "2026-08-25T00:00:00",
-      "summary": "A la deuxième phrase de l'article 1er de l'arrêté du 21 novembre 2024 susvisé, le mot : « mensuellement » est supprimé.\nL'article 3 du même arrêté est ainsi modifié :1° Au premier alinéa du I, le mot : « mensuellement » est supprimé ;2° Au II :a) Au 1°, les mots : « est versée mensuellement, de septembre à juin, par alimentation d'une carte de paiement ; » sont remplacés par les mots : « comprend deux versements forfaitaires correspondant aux périodes de septembre à janvier et de février à juin,",
-      "score": 45,
-      "score_breakdown": "+5 mots moyens: paiement | +25 Source FR | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet arrêté concerne la conformité financière car il fixe les modalités de versement d'une aide financière, notamment la fréquence des paiements."
-    },
-    {
       "hash": "8428adee4a436a91",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -2614,7 +2542,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de confidentialité des déclarations de soupçons (SAR) en matière de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de confidentialité des banques lors du signalement d'activités suspectes (SAR)."
     },
     {
       "hash": "686e1f1a259d83fa",
@@ -3067,42 +2995,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du transfert de portefeuille d'assurance par fusion, soumis à approbation réglementaire."
     },
     {
-      "hash": "d9e035bbcec63aa5",
-      "source_name": "JORF - Blanchiment",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 10 août 2026 relatif à la composition des dossiers de demande d'aide au pluralisme de la presse périodique régionale et locale et à leur date limite de réception",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054743343",
-      "author": "Ministère de la culture",
-      "published": "2026-08-25T00:00:00",
-      "summary": "La date limite de réception des demandes d'aide au pluralisme de la presse périodique régionale et locale mentionnée à l'article 4 du décret du 26 novembre 2004 susvisé est fixée au 31 mai de l'année d'attribution de l'aide. Toutefois, pour l'année 2026, la date limite de réception des demandes est fixée au 30 septembre.\nLes demandes d'aide sont transmises par les éditeurs de presse à la direction générale des médias et des industries culturelles exclusivement par voie numérique sur la plateform",
-      "score": 37,
-      "score_breakdown": "+25 Source FR | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet arrêté encadre administrativement les aides publiques à la presse, concernant la conformité des demandes et leurs délais de réception."
-    },
-    {
-      "hash": "f4c050f1f9e31b53",
-      "source_name": "JORF - Blanchiment",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 3 juillet 2026 portant application de l'article 3 du décret n° 2021-628 du 20 mai 2021 modifié relatif au « pass Culture »",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054743327",
-      "author": "Ministère de la culture",
-      "published": "2026-08-25T00:00:00",
-      "summary": "Pour l'application du 3° de l'article 3 du décret du 20 mai 2021 susvisé, le quotient familial est calculé selon les modalités définies aux dispositions du deuxième au dixième alinéas du II de l'article 1er du décret n° 2024-277 du 28 mars 2024 susvisé, à l'exception de l'année civile retenue pour son calcul mentionnée au deuxième alinéa.Le quotient familial est calculé au titre de l'année civile du dix-septième anniversaire du bénéficiaire par l'organisme compétent mentionné à l'article 5-1 du ",
-      "score": 37,
-      "score_breakdown": "+25 Source FR | ×1.5 (<24h)",
-      "doc_type": "DÉCRET",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet arrêté définit les modalités de calcul du quotient familial pour l'accès au pass Culture, relevant de la conformité sociale et administrative."
-    },
-    {
       "hash": "05b0eee02e33b69f",
       "source_name": "EDPB - European Data Protection Board",
       "source_type": "rss",
@@ -3118,7 +3010,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "83fa06c849307c61",
@@ -3154,7 +3046,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du renforcement de la régulation bancaire européenne et de la supervision financière."
     },
     {
       "hash": "afe228cecac99a93",
@@ -3352,7 +3244,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les poursuites contre Binance pour violations des sanctions iraniennes relèvent de la conformité financière anti-blanchiment."
     },
     {
       "hash": "4c3d133de8c52782",
@@ -3910,7 +3802,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "422a997696b362d6",
@@ -3928,7 +3820,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1cc994ec35684da6",
@@ -4000,7 +3892,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6659f01c80b6a2cd",
@@ -4018,7 +3910,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une crise judiciaire affectant la crédibilité des institutions chargées d'enquêter sur la fraude financière au Brésil."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une crise judiciaire affectant la crédibilité du système judiciaire brésilien en matière de fraude."
     },
     {
       "hash": "04db26e1c194b146",
@@ -4252,7 +4144,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c96b370270fd74ad",
@@ -4288,7 +4180,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "bef1d3a837a66554",
@@ -4450,7 +4342,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les banques doivent renforcer leur résilience opérationnelle pour se conformer aux exigences de stabilité financière et gérer les risques réglementaires."
+      "ai_summary": "Les banques doivent renforcer leur résilience opérationnelle face aux risques évolutifs pour assurer la stabilité financière."
     },
     {
       "hash": "30ba1bcbec5340e2",
@@ -4666,7 +4558,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "27bfbbd5a8010999",
@@ -5080,7 +4972,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "944c7298c3f770a1",
@@ -5260,7 +5152,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les modifications de listes de sanctions relatives à la République Démocratique du Congo, relevant de la conformité réglementaire en matière de sanctions."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e9992ff3cbf5eff8",
@@ -5569,7 +5461,7 @@
       "ai_summary": "Les propriétaires acceptent des accords de culpabilité dans une affaire de corruption, démontrant un manquement grave aux normes de conformité."
     }
   ],
-  "last_update": "2026-09-23T21:37:35.792724+00:00",
+  "last_update": "2026-09-24T02:13:19.936215+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
