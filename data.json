@@ -565,6 +565,24 @@
   ],
   "items": [
     {
+      "hash": "a242e3dcbc3a1150",
+      "source_name": "AMF - Actualités",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "L’AMF met à jour sa doctrine applicable aux dépositaires d’OPCVM et de FIA",
+      "url": "https://www.amf-france.org/fr/actualites-publications/actualites/lamf-met-jour-sa-doctrine-applicable-aux-depositaires-dopcvm-et-de-fia#xts=607212&xtor=RSS-3&type=RSS",
+      "author": "",
+      "published": "2026-09-24T13:06:51",
+      "summary": "Actualité                  Gestion d&#039;actifs                    L’AMF met à jour sa doctrine applicable aux dépositaires d’OPCVM et de FIA",
+      "score": 100,
+      "score_breakdown": "+10 mots forts: amf | +25 Source FR | +15 IA×Finance: ia act+amf | +20 Géo FR: amf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "L'AMF clarifie les obligations de conformité des dépositaires d'OPCVM et de FIA en matière de surveillance réglementaire."
+    },
+    {
       "hash": "1dd5d2cf0e9be2e8",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -580,7 +598,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la déclaration des incidents majeurs selon DORA, règlement de conformité obligatoire pour les acteurs financiers."
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur les incidents majeurs déclarés sous DORA, règlement imposant aux entreprises de services financiers de respecter des obligations de conformité en matière de résilience opérationnelle et de gestion des risques."
     },
     {
       "hash": "03668841cee3c3c1",
@@ -671,6 +689,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la gouvernance du signalement des défaillances AML/CFT via la base de données EuReCA."
+    },
+    {
+      "hash": "14a103b9ef590b18",
+      "source_name": "AMF - Réglementation",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Procédures d'agrément et d'examen du cahier des charges des dépositaires d'OPCVM et de FIA et modalités d'information de l'AMF -",
+      "url": "https://www.amf-france.org/fr/reglementation/doctrine/doc-2016-01#xts=607212&xtor=RSS-39&type=RSS",
+      "author": "",
+      "published": "2026-09-23T22:00:00",
+      "summary": "5.0                  L&#039;instruction DOC-2016-01 précise les modalités et la procédure d&#039;agrément des dépositaires d&#039;OPCVM ayant le statut d&#039;entreprise d&#039;investissement et le contenu de leur programme d&#039;activité ; elle décrit en outre le contenu du cahier des charges des établissements de crédit et succursales d&#039;établissement de crédit dépositaires...",
+      "score": 97,
+      "score_breakdown": "+20 mots forts: amf, agrément, établissement de crédit | +25 Source FR | +20 Géo FR: amf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "fe8426ce20e58b89",
@@ -1048,7 +1084,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'EBA propose des priorités pour réviser MiCA, régulation clé de la conformité financière sur les cryptoactifs en UE."
     },
     {
       "hash": "ad815b23b76faf34",
@@ -1483,6 +1519,24 @@
       "ai_summary": "Ce rapport concerne la conformité financière car il traite du blanchiment et du financement du terrorisme, risques majeurs de la conformité."
     },
     {
+      "hash": "d6a6caee52d3d3bb",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 24 September, 2026",
+      "url": "https://www.eba.europa.eu/node/20032",
+      "author": "Anonymous",
+      "published": "2026-09-24T15:00:03",
+      "summary": "EBA E-mail alert 24 September, 2026\n\n  \n    Date\n          24/09/2026\n\n      \n\nAnonymous (not verified)\n\nThu, 09/24/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          The EBA identifies priorities for the review of MiCA  \n      ",
+      "score": 67,
+      "score_breakdown": "+20 mots forts: mica, eba | +15 Source EU | +10 Géo EU: eba, mica | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA examine les priorités de révision de MiCA, la régulation crypto."
+    },
+    {
       "hash": "a574fb32ef53bed4",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -1498,7 +1552,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la sélection des entités soumises à la supervision directe de l'AMLA en matière de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la sélection d'entités pour la supervision directe de l'AMLA en matière de lutte anti-blanchiment."
     },
     {
       "hash": "8eb951f96b355fd6",
@@ -1966,7 +2020,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "d88d7e864392476d",
+      "source_name": "AMF - Actualités",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Guide des dépositaires d'OPCVM et de FIA",
+      "url": "https://www.amf-france.org/fr/actualites-publications/publications/guides/guides-professionnels/guide-des-depositaires-dopcvm-et-de-fia#xts=607212&xtor=RSS-3&type=RSS",
+      "author": "",
+      "published": "2026-09-24T12:14:17",
+      "summary": "Guide professionnel                  Gestion d&#039;actifs              OPCVM              Crypto-actifs              Services d&#039;investissement                    Guide des dépositaires d&#039;OPCVM et de FIA",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: crypto | +25 Source FR | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il guide les dépositaires sur leurs obligations réglementaires concernant les OPCVM et FIA."
     },
     {
       "hash": "16d5cfdff1129474",
@@ -2057,24 +2129,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les normes techniques de l'EBA sur les autorisations préalables, relevant de la conformité réglementaire bancaire."
-    },
-    {
-      "hash": "20a655cf38d4c99d",
-      "source_name": "EBA - European Banking Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "EBA E-mail alert 25 August, 2026",
-      "url": "https://www.eba.europa.eu/node/19957",
-      "author": "Anonymous",
-      "published": "2026-08-25T15:00:03",
-      "summary": "EBA E-mail alert 25 August, 2026\n\n  \n    Date\n          25/08/2026\n\n      \n\nAnonymous (not verified)\n\nTue, 08/25/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          The EBA consults on revised technical standards for the reclassification of investment firms as credit institutions\n      \n\n  \n    Consultations\n          Consultation on Regulatory Technical Standards on prudential requirements for investment firms\n      ",
-      "score": 52,
-      "score_breakdown": "+10 mots forts: eba | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'EBA consulte sur les normes techniques pour reclasser les sociétés d'investissement en établissements de crédit."
     },
     {
       "hash": "b3a7817030cf3fcf",
@@ -2344,7 +2398,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des recommandations de l'EBA pour améliorer le cadre réglementaire MiCA sur les cryptoactifs."
     },
     {
       "hash": "8428adee4a436a91",
@@ -2545,6 +2599,24 @@
       "ai_summary": "Cet article concerne la conformité financière car l'EBA répond aux observations du Parlement européen sur la gestion et le contrôle bancaires."
     },
     {
+      "hash": "13b81a89a956537d",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "L’Inde exporte de l’essence vers la Russie : du jamais-vu, et des conséquences qui seront lourdes",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/24/l-inde-exporte-de-l-essence-vers-la-russie-du-jamais-vu-et-les-consequences-sont-lourdes_6781507_3234.html",
+      "author": "",
+      "published": "2026-09-24T12:00:08",
+      "summary": "New Delhi est devenu le premier fournisseur d’essence de Moscou, dont la production a chuté en raison des attaques ukrainiennes sur ses infrastructures. Mais ce nouveau rôle accroît le risque de sanctions commerciales américaines.",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: risque | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "0bc6b8b2cf3d8c77",
       "source_name": "Money Laundering News",
       "source_type": "press",
@@ -2560,7 +2632,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de confidentialité des SAR et des communications avec les clients en matière de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations légales des banques concernant les déclarations de soupçon de blanchiment de capitaux."
     },
     {
       "hash": "686e1f1a259d83fa",
@@ -3010,7 +3082,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "83fa06c849307c61",
@@ -3031,6 +3103,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il rapporte les statistiques de supervision bancaire de la BCE sur les établissements importants."
     },
     {
+      "hash": "16cce6e3b6b0d8c6",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Publication of Regulatory Amendments; Publication of Report for Licensing Activities Undertaken Pursuant to the Trade Sanctions Reform and Export Enhancement Act (TSRA) | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260924",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-09-24T12:00:00",
+      "summary": "",
+      "score": 37,
+      "score_breakdown": "+20 mots critiques: sanction | +5 Source Intl | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "624cea747ee5ca58",
       "source_name": "OpenSanctions",
       "source_type": "rss",
@@ -3046,7 +3136,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il introduit un nouveau modèle de facturation pour l'API OpenSanctions utilisée en conformité réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il décrit un nouveau modèle de facturation par crédits prépayés pour l'API OpenSanctions."
     },
     {
       "hash": "0c2195d88bd5283f",
@@ -3226,7 +3316,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la fraude, du risque de blanchiment d'argent et de la responsabilité légale des entreprises face aux escroqueries."
     },
     {
       "hash": "80cce9e5a272d194",
@@ -3805,22 +3895,22 @@
       "ai_summary": "Homologation des règlements comptables de l'ANC assurant la conformité des normes et standards financiers français."
     },
     {
-      "hash": "a3133b7983d21832",
-      "source_name": "EDPB - European Data Protection Board",
+      "hash": "fd8b36ea81ed2f06",
+      "source_name": "ACPR",
       "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
-      "url": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-100-000-eur-for-making-the-exercise-of-data-subject_en",
-      "author": "EDPB",
-      "published": "2026-09-22T12:00:00",
-      "summary": "Background informationDate of final decision: 1 February 2023National caseController: SECURITAS DIRECT, S.A.Legal Reference(s): Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject)Decision: Administrative fine, Compliance orderKey words: Data subject rightsSummary of the DecisionOrigin of the case &nbsp;A consumer association lodged a complaint against Securitas Direct concerning video surveillance notices that directed data subjec",
+      "category": "autorite_fr",
+      "title": "Suivi mensuel de la production de crédits à l’habitat - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOHd2SGx4Z2d6X2dLUWY4M2tac1Z3ODQ0SW9HekppaXNtSUtHcUc3Q3pWdklTWnEyUHVXY1ZMV29mVU9TbmFHOHhaMzRZNzdkeXZlVnRSZS1WUll2dUQ1ajJpZUJ2dGJ3cWhkOXROYmNCSlYyRmhJYTV4TkNJZGU0cEJwV0taUC1WQjFSUW96RmFFRnZ1NHJ6WG0wYmtpclFVV281bG9rb3hkMHFrV0tOVWwxcjExV05PbkxyenBPLVR2V0E?oc=5",
+      "author": "",
+      "published": "2026-08-26T07:00:00",
+      "summary": "Suivi mensuel de la production de crédits à l’habitat&nbsp;&nbsp;Banque de France",
       "score": 30,
-      "score_breakdown": "+10 mots forts: compliance | +15 Source EU | ×1.2 (<3d)",
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.6 (>14d)",
       "doc_type": null,
-      "action_class": "action",
+      "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1cc8a8e6b5239d3a",
@@ -3838,7 +3928,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "5e7470677e969a9d",
+      "source_name": "BIS - Speeches",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Banking regulators, supervisors and their watchers",
+      "url": "https://www.bis.org/speeches/20260924-banking-regulators-supervisors-and-their-watchers",
+      "author": "Claudia Buch",
+      "published": "2026-09-24T00:00:00",
+      "summary": "Keynote speech by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the Watching European Financial Market Regulation and Supervision Conference, organised by Goethe University Frankfurt, Frankfurt am Main, 15 September 2026.",
+      "score": 30,
+      "score_breakdown": "+15 mots moyens: regulation, supervisory, bank | +5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la supervision bancaire et la régulation financière européenne, domaines clés de la conformité financière."
     },
     {
       "hash": "1cc994ec35684da6",
@@ -3910,7 +4018,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6659f01c80b6a2cd",
@@ -3928,7 +4036,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "04db26e1c194b146",
@@ -4162,7 +4270,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c96b370270fd74ad",
@@ -4198,7 +4306,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bef1d3a837a66554",
@@ -4576,7 +4684,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "27bfbbd5a8010999",
@@ -4990,7 +5098,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "944c7298c3f770a1",
@@ -5170,7 +5278,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne le retrait de sanctions contre des entités liées à la République Démocratique du Congo, relevant de la conformité réglementaire internationale."
     },
     {
       "hash": "e9992ff3cbf5eff8",
@@ -5479,7 +5587,7 @@
       "ai_summary": "Les propriétaires acceptent des accords de culpabilité dans une affaire de corruption, démontrant un manquement grave aux normes de conformité."
     }
   ],
-  "last_update": "2026-09-24T12:01:43.581291+00:00",
+  "last_update": "2026-09-24T16:09:22.021005+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
