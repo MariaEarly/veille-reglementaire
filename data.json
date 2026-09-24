@@ -580,7 +580,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car le règlement DORA impose aux entités financières de déclarer les incidents majeurs affectant leurs systèmes informatiques."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la déclaration des incidents majeurs selon DORA, règlement de conformité obligatoire pour les acteurs financiers."
     },
     {
       "hash": "03668841cee3c3c1",
@@ -1033,6 +1033,24 @@
       "ai_summary": "Cet avenant modifie la gestion des fonds publics du plan France très haut débit, concernant la conformité de l'exécution budgétaire et financière."
     },
     {
+      "hash": "2782b51258a51730",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "The EBA identifies priorities for the review of MiCA",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-identifies-priorities-review-mica",
+      "author": "Jana Jaklic",
+      "published": "2026-09-24T07:00:00",
+      "summary": "The European Banking Authority (EBA) today published its response to the European Commission’s targeted consultation on the review of the Regulation on Markets in Crypto-assets (MiCA). While MiCA has established a comprehensive regulatory framework for crypto-asset activities in the European Union, the crypto sector continues to evolve rapidly with new products, services and business models emerging to market. Against this backdrop, the EBA recommends the European Commission prioritise specific ",
+      "score": 82,
+      "score_breakdown": "+20 mots forts: mica, crypto, eba | +10 mots moyens: regulation, bank | +15 Source EU | +10 Géo EU: european union, european commission, eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "ad815b23b76faf34",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -1480,7 +1498,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne l'identification des entités soumises à la supervision directe de l'AMLA pour la lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la sélection des entités soumises à la supervision directe de l'AMLA en matière de lutte anti-blanchiment."
     },
     {
       "hash": "8eb951f96b355fd6",
@@ -1753,24 +1771,6 @@
       "ai_summary": "L'EBA consulte sur les normes techniques relatives à la gestion du risque opérationnel des établissements financiers."
     },
     {
-      "hash": "727b0a274c9883fe",
-      "source_name": "EBA - News",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "The EBA consults on revised technical standards for the reclassification of investment firms as credit institutions",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-revised-technical-standards-reclassification-investment-firms-credit-institutions",
-      "author": "Jana Jaklic",
-      "published": "2026-08-25T08:32:13",
-      "summary": "The European Banking Authority (EBA) today launched a consultation on three draft Regulatory Technical Standards (RTS) on the reclassification of investment firms as credit institutions, when they exceed the EUR 30 billion total assets threshold. The proposals clarify how total assets should be calculated against this threshold, how investment firms should report this information to competent authorities, and the conditions under which competent authorities can decide to grant a waiver. The revi",
-      "score": 60,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'article concerne les normes techniques de reclassement des entreprises d'investissement en établissements de crédit selon les seuils d'actifs."
-    },
-    {
       "hash": "46bac02d0ba8d802",
       "source_name": "EBA (X)",
       "source_type": "rss",
@@ -1841,24 +1841,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'AMF publie ses listes noires de sociétés et sites suspects pour prévenir les fraudes financières et protéger les investisseurs."
-    },
-    {
-      "hash": "00bcc055b284c810",
-      "source_name": "ESMA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "#ICYMI |🔎 ESMA has launched a common supervisory action on how authorised #crypto-asset service providers manage #digital operational resilience risks linked to custody activities →",
-      "url": "https://x.com/ESMAComms/status/2092161326818726334",
-      "author": "@ESMAComms",
-      "published": "2026-08-25T08:05:00",
-      "summary": "#ICYMI |🔎 ESMA has launched a common supervisory action on how authorised  #crypto-asset service providers manage  #digital operational resilience risks linked to custody activities →  link.europa.eu/mTpxvR— ESMA - EU Securities Markets Regulator 🇪🇺 (@ESMAComms) Aug 25, 2026",
-      "score": 60,
-      "score_breakdown": "+20 mots forts: crypto, esma | +10 mots moyens: risk, supervisory | +10 Géo EU: esma | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "ESMA contrôle la résilience opérationnelle numérique des prestataires de services cryptoactifs, aspect clé de la conformité réglementaire."
     },
     {
       "hash": "b7de30a37ac40355",
@@ -1967,6 +1949,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les exigences de conformité financière et anti-fraude imposées aux entreprises britanniques par les autorités."
+    },
+    {
+      "hash": "09a48fe1c562212c",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de PARIS, 8ème chambre, 22 septembre 2026, 25PA00520",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEPARIS-20260922-25PA00520",
+      "author": "8ème chambre",
+      "published": "2026-09-22T12:00:00",
+      "summary": "Vu la procédure suivante :          Procédure contentieuse antérieure :          La société d'exercice libéral à responsabilité limitée SELARL Réseau Imagerie Paris Nord a demandé au tribunal administratif de Montreuil d'annuler la décision du 30 novembre 2022 par laquelle le directeur régional et interdépartemental de l'économie, de l'emploi, du travail et des solidarités DRIEETS d'Ile-de-France a prononcé à son encontre une amende d'un montant de 197 200 euros ou de substituer la sanction d'un",
+      "score": 54,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "16d5cfdff1129474",
@@ -2329,6 +2329,24 @@
       "ai_summary": "L'article traite des risques de fraude liés à la délégation d'activités étatiques au secteur privé, enjeu majeur de conformité financière."
     },
     {
+      "hash": "b0c4a1dfc97c4c7b",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🪙 EBA responds to the European Commission's MiCA review As the EU's crypto-asset market continues to evolve, the EBA has identifie...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7508786105388023808",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-09-24T07:15:14",
+      "summary": "🪙 EBA responds to the European Commission's MiCA review\n\nAs the EU's crypto-asset market continues to evolve, the EBA has identified key areas where targeted refinements to MiCA could help keep the framework effective, proportionate and future-proof.\n\n🔍 In its response to the European Commission's consultation, the EBA highlights the need for greater clarity and stronger safeguards in relation to:\n🏦 Multi-issuance structures\n Where two or more firms issue the same stablecoin.\n\n🔄 Crypto lending a",
+      "score": 45,
+      "score_breakdown": "+20 mots forts: mica, crypto, eba | +10 Géo EU: european commission, eba, mica | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "8428adee4a436a91",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -2542,7 +2560,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de confidentialité des banques lors du signalement d'activités suspectes (SAR)."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de confidentialité des SAR et des communications avec les clients en matière de lutte anti-blanchiment."
     },
     {
       "hash": "686e1f1a259d83fa",
@@ -2941,24 +2959,6 @@
       "ai_summary": "Cet article concerne les risques de conformité liés aux antécédents professionnels et aux investigations pénales des dirigeants d'une entreprise."
     },
     {
-      "hash": "61167728d12a4cb1",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Les États-Unis menacent les partenaires commerciaux de l'Iran: craignant d'être touchée, la Chine affirme qu'elle défendra \"fermement\" ses intérêts",
-      "url": "https://www.bfmtv.com/economie/international/les-etats-unis-menacent-les-partenaires-commerciaux-de-l-iran-craignant-d-etre-touchee-la-chine-affirme-qu-elle-defendra-fermement-ses-interets_AD-202608250365.html",
-      "author": "",
-      "published": "2026-08-25T09:54:13",
-      "summary": "Washington a présenté lundi une nouvelle série de sanctions visant les partenaires commerciaux de l'Iran pour couper les ressources économiques du pays. Pékin y a répondu en affirmant que les \"mesures nécessaires\" seront prises pour défendre \"fermement\" ses intérêts.",
-      "score": 39,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: états-unis | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les sanctions américaines contre les partenaires commerciaux de l'Iran relèvent de la conformité aux régimes de sanctions internationales."
-    },
-    {
       "hash": "5879861735b3ce5c",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -3010,7 +3010,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "83fa06c849307c61",
@@ -3029,6 +3029,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il rapporte les statistiques de supervision bancaire de la BCE sur les établissements importants."
+    },
+    {
+      "hash": "624cea747ee5ca58",
+      "source_name": "OpenSanctions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "OpenSanctions API credit bundles",
+      "url": "https://www.opensanctions.org/changelog/51/",
+      "author": "",
+      "published": "2026-09-24T06:58:32",
+      "summary": "We're adding a new billing model to the OpenSanctions API: prepaid credit bundles, which you buy in the [customer portal](/account/). Existing customers stay on their current billing unless explicitly migrated. To move over sooner, contact [the support team](/support/). Your API key, endpoints and integration stay the same after migrating, so there is no code to change. Larger bundles cost less per screening query: you pay less by committing to more, there is no usage bill at the end of the mont",
+      "score": 37,
+      "score_breakdown": "+20 mots critiques: sanction | +5 Source Intl | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il introduit un nouveau modèle de facturation pour l'API OpenSanctions utilisée en conformité réglementaire."
     },
     {
       "hash": "0c2195d88bd5283f",
@@ -3157,24 +3175,6 @@
       "ai_summary": "Accord de coopération entre régulateurs pour reconnaître les contreparties centrales indiennes, relevant de la supervision des marchés financiers."
     },
     {
-      "hash": "5563306a30bbaae2",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📣Have your say!  The #EBA is consulting on revised regulatory technical standards #RTS for the reclassification of certain investm...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7497947639808770048",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-08-25T09:27:02",
-      "summary": "📣Have your say! \nThe #EBA is consulting on revised regulatory technical standards #RTS for the reclassification of certain investment firms as credit institutions.\n\nThe proposed changes clarify:\n🔹 how total assets should be calculated against the EUR 30 billion threshold\n🔹 how investment firms should report this information to competent authorities\n🔹 conditions under which competent authorities can decide to grant a waiver\n\n🎯 The revised RTS aim to ensure a more proportionate and risk-based appl",
-      "score": 37,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: risk | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite des normes réglementaires de l'EBA sur le classement des entreprises d'investissement."
-    },
-    {
       "hash": "83f8e80d7ab5cc35",
       "source_name": "DG Trésor",
       "source_type": "rss",
@@ -3209,6 +3209,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "FinCEN propose de révoquer l'accès bancaire correspondant de Banque Misr UAE aux institutions financières américaines."
+    },
+    {
+      "hash": "610c423e84dd2560",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Fraude au faux RIB : celui qui a de bonne foi viré l’argent à un escroc est-il libéré de sa dette ?",
+      "url": "https://www.lemonde.fr/argent/article/2026/09/24/fraude-au-faux-rib-celui-qui-a-de-bonne-foi-vire-l-argent-a-un-escroc-est-il-libere-de-sa-dette_6781340_1657007.html",
+      "author": "",
+      "published": "2026-09-24T04:00:20",
+      "summary": "L’usurpateur d’identité ne pouvant être considéré comme un « créancier apparent », sa victime doit payer deux fois, juge la Cour de cassation.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "80cce9e5a272d194",
@@ -3802,25 +3820,25 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
-      "hash": "422a997696b362d6",
+      "hash": "1cc8a8e6b5239d3a",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
       "category": "jurisprudence",
-      "title": "France, Conseil d'État, 6ème chambre jugeant seule, 18 septembre 2026, 510734",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260918-510734",
-      "author": "6ème chambre jugeant seule",
-      "published": "2026-09-18T12:00:00",
-      "summary": "Vu la procédure suivante :    M. O... A... a comparu devant le Conseil supérieur de la magistrature, statuant comme conseil de discipline des magistrats du siège, lors de l’audience s’étant tenue le 11 septembre 2025.    Par une décision n° 15/2025 du 11 septembre 2025, le Conseil supérieur de la magistrature, statuant comme conseil de discipline des magistrats du siège, a refusé de transmettre au Conseil d’Etat la question de la conformité aux droits et libertés garantis par la Constitution du ",
+      "title": "France, Cour administrative d'appel de BORDEAUX, 5ème chambre, 22 septembre 2026, 24BX01438",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEBORDEAUX-20260922-24BX01438",
+      "author": "5ème chambre",
+      "published": "2026-09-22T12:00:00",
+      "summary": "Vu la procédure suivante :         Par une requête et des mémoires, enregistrés les 12 juin 2024, 28 mai 2025 et 21 avril 2026, la société Ferme éolienne de Plaine Argenson, représentée par Me Guiheux, demande à la cour :           1° d'annuler la décision implicite née le 14 février 2024 par laquelle la préfète des Deux-Sèvres a refusé de lui délivrer une autorisation environnementale pour l'exploitation d'un parc éolien de 4 aérogénérateurs sur le territoire de la commune de Plaine Argenson, a",
       "score": 30,
-      "score_breakdown": "+10 mots forts: conformité | +20 Géo FR: france | ×1.0 (7d)",
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1cc994ec35684da6",
@@ -3892,7 +3910,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6659f01c80b6a2cd",
@@ -3910,7 +3928,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une crise judiciaire affectant la crédibilité du système judiciaire brésilien en matière de fraude."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "04db26e1c194b146",
@@ -4144,7 +4162,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c96b370270fd74ad",
@@ -4180,7 +4198,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "bef1d3a837a66554",
@@ -4558,7 +4576,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "27bfbbd5a8010999",
@@ -4972,7 +4990,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "944c7298c3f770a1",
@@ -5152,7 +5170,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e9992ff3cbf5eff8",
@@ -5461,7 +5479,7 @@
       "ai_summary": "Les propriétaires acceptent des accords de culpabilité dans une affaire de corruption, démontrant un manquement grave aux normes de conformité."
     }
   ],
-  "last_update": "2026-09-24T05:07:13.289038+00:00",
+  "last_update": "2026-09-24T10:46:04.636163+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
