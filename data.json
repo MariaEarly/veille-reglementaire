@@ -598,7 +598,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la déclaration des incidents majeurs selon le règlement DORA, obligation de conformité réglementaire pour les entreprises du secteur financier."
+      "ai_summary": "L'article concerne la conformité financière car il rapporte les incidents majeurs déclarés en 2025 selon DORA, un règlement de conformité européen."
     },
     {
       "hash": "03668841cee3c3c1",
@@ -706,7 +706,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il précise les procédures d'agrément et les exigences réglementaires des dépositaires d'OPCVM et de FIA."
+      "ai_summary": "Cet article concerne la conformité financière car il définit les procédures d'agrément et les exigences réglementaires pour les dépositaires d'OPCVM et de FIA."
     },
     {
       "hash": "fe8426ce20e58b89",
@@ -1552,7 +1552,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la sélection d'entités soumises à la supervision directe de l'AMLA en matière de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la sélection des entités qui seront soumises à la supervision directe de l'AMLA à partir de 2028."
     },
     {
       "hash": "8eb951f96b355fd6",
@@ -2020,7 +2020,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d88d7e864392476d",
@@ -2599,6 +2599,24 @@
       "ai_summary": "Cet article concerne la conformité financière car l'EBA répond aux observations du Parlement européen sur la gestion et le contrôle bancaires."
     },
     {
+      "hash": "652c887478a48e5e",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Commerzbank hit with US terror-financing suit",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/commerzbank-hit-us-terror-financing-suit",
+      "author": "Estelle Atkinson",
+      "published": "2026-09-24T20:24:06",
+      "summary": "Terror victims say they have yet to be compensated for “unusual and wrong” conduct by the German lender, which admitted more than a decade ago to processing hundreds of millions of dollars for sanctioned Iranian and Sudanese businesses.",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: bank | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "13b81a89a956537d",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -2614,7 +2632,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les exportations indiennes vers la Russie exposent les acteurs à des risques de sanctions commerciales américaines."
+      "ai_summary": "Cet article concerne la conformité financière car il aborde les risques de sanctions commerciales américaines liées aux exportations indiennes vers la Russie."
     },
     {
       "hash": "0bc6b8b2cf3d8c77",
@@ -2632,7 +2650,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations des banques en matière de dénonciation des activités suspectes (SAR) et de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de confidentialité des SARs et de la communication avec les clients en matière de lutte contre le blanchiment de capitaux."
     },
     {
       "hash": "686e1f1a259d83fa",
@@ -3049,24 +3067,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il clarifie les obligations légales des teneurs de compte concernant la clôture des PEA."
     },
     {
-      "hash": "650a80a09735a535",
-      "source_name": "JORF - Blanchiment",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Avis relatif à un transfert de portefeuille de contrats d'une entreprise d'assurance par voie de fusion absorption",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054747230",
-      "author": "Autorité de contrôle prudentiel",
-      "published": "2026-08-26T00:00:00",
-      "summary": "Par application des dispositions des articles L. 324-1 et L. 324-2 du code des assurances, la société MONCEAU RETRAITE & EPARGNE (SIREN : 443 137 500), dont le siège social est situé à Paris (75008), 36 à 38, rue de Saint-Pétersbourg, a présenté une demande tendant à l'approbation du transfert, par voie de fusion absorption, de son portefeuille de contrats Vie, avec les droits et obligations qui s'y rapportent, à la société CAPMA & CAPMI (SIREN : 775 670 482), dont le siège social est situé à la",
-      "score": 37,
-      "score_breakdown": "+25 Source FR | ×1.5 (<24h)",
-      "doc_type": "AVIS",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du transfert de portefeuille d'assurance par fusion, soumis à approbation réglementaire."
-    },
-    {
       "hash": "83fa06c849307c61",
       "source_name": "ECB - Banking Supervision",
       "source_type": "rss",
@@ -3298,7 +3298,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité aux sanctions internationales et au contrôle des exportations d'armements imposés par les États-Unis."
     },
     {
       "hash": "610c423e84dd2560",
@@ -3910,7 +3910,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il suit la production de crédits immobiliers, données essentielles au respect des normes prudentielles bancaires."
+      "ai_summary": "Cet article concerne le suivi réglementaire des crédits immobiliers par l'autorité de contrôle prudentiel."
     },
     {
       "hash": "05b0eee02e33b69f",
@@ -3928,7 +3928,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance. (Cet article traite de protection des données personnelles, non de conformité financière.)"
     },
     {
       "hash": "1cc8a8e6b5239d3a",
@@ -3946,7 +3946,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a3133b7983d21832",
@@ -3964,7 +3964,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il documente une amende administrative imposée pour non-respect des obligations de protection des données personnelles."
     },
     {
       "hash": "5e7470677e969a9d",
@@ -4054,7 +4054,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6659f01c80b6a2cd",
@@ -4072,7 +4072,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Crise de crédibilité à la cour suprême brésilienne pouvant affecter l'intégrité des enquêtes financières et la confiance dans le système judiciaire de conformité."
+      "ai_summary": "Crise institutionnelle affectant la crédibilité judiciaire brésilienne dans les enquêtes de fraude de col blanc."
     },
     {
       "hash": "04db26e1c194b146",
@@ -4291,24 +4291,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision des marchés de capitaux européens et du cadre réglementaire MISP."
     },
     {
-      "hash": "065d15a83549a0b0",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Tableau d'avancement pour l'accès au 2e grade (magistrature)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054835044",
-      "author": "Ministère de la justice",
-      "published": "2026-09-13T00:00:00",
-      "summary": "Inscrits : 918ABADIA, Pierre-Alain, substitut du procureur de la République antiterroriste, cour d'appel de Paris, parquet national antiterroriste.ABBAS, Claire, juge de l'application des peines, cour d'appel de Lyon, tribunal judiciaire de Saint-Etienne.ABBE, Cyrille, juge, cour d'appel d'Aix-en-Provence, tribunal judiciaire de Tarascon.ACCARY, Justine, substitut placé, cour d'appel de Douai.ACHAWI, Jomana, substitut placé, cour d'appel de Paris.ADAM, Antoine, substitut, cour d'appel de Rouen, ",
-      "score": 24,
-      "score_breakdown": "+5 mots moyens: ppe | +25 Source FR | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "c96b370270fd74ad",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -4342,7 +4324,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bef1d3a837a66554",
@@ -4720,7 +4702,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "27bfbbd5a8010999",
@@ -5134,7 +5116,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "944c7298c3f770a1",
@@ -5314,7 +5296,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les retraits de désignations relatives à la République Démocratique du Congo, relevant des sanctions OFAC et de la conformité réglementaire."
+      "ai_summary": "Cet article concerne les modifications de listes de sanctions OFAC relatives à la République Démocratique du Congo, relevant directement de la conformité aux sanctions internationales."
     },
     {
       "hash": "e9992ff3cbf5eff8",
@@ -5530,7 +5512,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il évoque des affaires de fraude fiscale, de corruption étrangère et de conformité réglementaire américaine."
     },
     {
       "hash": "fa09ad9151d79512",
@@ -5623,7 +5605,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires pour corruption impliquant un acteur économique majeur."
     }
   ],
-  "last_update": "2026-09-24T21:38:23.257905+00:00",
+  "last_update": "2026-09-25T02:30:09.561576+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
