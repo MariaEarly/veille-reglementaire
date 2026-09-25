@@ -706,7 +706,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il définit les procédures d'agrément et les exigences réglementaires pour les dépositaires d'OPCVM et de FIA."
+      "ai_summary": "Cet article concerne la conformité financière car il définit les procédures d'agrément et les obligations réglementaires des dépositaires d'OPCVM et de FIA auprès de l'AMF."
     },
     {
       "hash": "fe8426ce20e58b89",
@@ -1321,24 +1321,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'intégrité financière et de la lutte anti-blanchiment."
     },
     {
-      "hash": "3a51f39917cb11de",
-      "source_name": "EBA - News",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "​The EBA consults on draft technical standards on institutions’ operational risk management",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-draft-technical-standards-institutions-operational-risk-management",
-      "author": "Jana Jaklic",
-      "published": "2026-08-26T08:37:24",
-      "summary": "​The European Banking Authority (EBA) today launched a public consultation on draft Regulatory Technical Standards (RTS) specifying the operational risk management framework that institutions must have in place as per Article 323 of the Capital Requirements Regulation (CRR3). The draft RTS set out harmonised, proportionate requirements for the governance, management process and systems institutions should use to identify, assess, monitor and manage operational risk. The consultation runs until 3",
-      "score": 75,
-      "score_breakdown": "+10 mots forts: eba | +15 mots moyens: risk, regulation, bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur les normes techniques réglementaires pour la gestion du risque opérationnel bancaire."
-    },
-    {
       "hash": "5fb26e02bda37fc4",
       "source_name": "AMF France (X)",
       "source_type": "rss",
@@ -1552,7 +1534,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la sélection des entités qui seront soumises à la supervision directe de l'AMLA à partir de 2028."
+      "ai_summary": "L'article concerne la sélection d'entités pour supervision directe par l'AMLA, relevant de la conformité anti-blanchiment."
     },
     {
       "hash": "8eb951f96b355fd6",
@@ -1751,6 +1733,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "FinCEN demande aux banques de renforcer la détection de fraudes aux aides étudiantes fédérales, relevant de la conformité financière."
+    },
+    {
+      "hash": "cbe0a12b51ed828c",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour de cassation, Troisième chambre civile - formation de section, 24 septembre 2026, 24-16.732",
+      "url": "http://juricaf.org/arret/FRANCE-COURDECASSATION-20260924-2416732",
+      "author": "Troisième chambre civile - formation de section",
+      "published": "2026-09-24T12:00:00",
+      "summary": "La condition suspensive ne peut être réputée accomplie, au sens de l'article 1304-3 de ce code, qu'à titre de sanction contre le débiteur... CIV. 3    ND        COUR DE CASSATION _ Arrêt du 24 septembre 2026          Rejet      M. BOYER, conseiller doyen   faisant fonction de président        Arrêt n° 504 FS-B    Pourvoi n° G 24-16.732           R É P U B L I Q U E F R A N Ç A I S E _ AU NOM DU PEUPLE FRANÇAIS _ ARRÊT DE LA COUR DE CASSATION, TROISIÈME CHAMBRE CIVILE, DU 24 SEPTEMBRE 2026    1°/",
+      "score": 60,
+      "score_breakdown": "+20 mots critiques: sanction | +20 Géo FR: france, français | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "3c0821dcc7ef60ef",
@@ -2003,24 +2003,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les exigences de conformité financière et anti-fraude imposées aux entreprises britanniques par les autorités."
-    },
-    {
-      "hash": "09a48fe1c562212c",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de PARIS, 8ème chambre, 22 septembre 2026, 25PA00520",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEPARIS-20260922-25PA00520",
-      "author": "8ème chambre",
-      "published": "2026-09-22T12:00:00",
-      "summary": "Vu la procédure suivante :          Procédure contentieuse antérieure :          La société d'exercice libéral à responsabilité limitée SELARL Réseau Imagerie Paris Nord a demandé au tribunal administratif de Montreuil d'annuler la décision du 30 novembre 2022 par laquelle le directeur régional et interdépartemental de l'économie, de l'emploi, du travail et des solidarités DRIEETS d'Ile-de-France a prononcé à son encontre une amende d'un montant de 197 200 euros ou de substituer la sanction d'un",
-      "score": 54,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d88d7e864392476d",
@@ -2614,7 +2596,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des violations de sanctions et du blanchiment de capitaux par une banque."
     },
     {
       "hash": "13b81a89a956537d",
@@ -2632,7 +2614,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde les risques de sanctions commerciales américaines liées aux exportations indiennes vers la Russie."
+      "ai_summary": "Les exportations indiennes vers la Russie exposent New Delhi aux risques de sanctions commerciales américaines, soulevant des enjeux de conformité réglementaire internationale."
     },
     {
       "hash": "0bc6b8b2cf3d8c77",
@@ -2650,7 +2632,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de confidentialité des SARs et de la communication avec les clients en matière de lutte contre le blanchiment de capitaux."
+      "ai_summary": "Cet article traite de la conformité financière car il aborde les obligations de confidentialité des signalements d'activités suspectes (SAR) et les communications bancaires requises."
     },
     {
       "hash": "686e1f1a259d83fa",
@@ -2795,24 +2777,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la levée de sanctions financières et la conformité aux restrictions commerciales imposées par les États-Unis."
-    },
-    {
-      "hash": "64956d09a6d49d63",
-      "source_name": "ComplyAdvantage",
-      "source_type": "press",
-      "category": "presse",
-      "title": "ComplyAdvantage named Leader across multiple G2 Grid® Fall 2026 reports",
-      "url": "https://complyadvantage.com/press-media/complyadvantage-named-leader-across-multiple-g2-grid-fall-2026-reports/",
-      "author": "Audrey Langevin",
-      "published": "2026-08-26T10:00:46",
-      "summary": "G2&#8217;s latest report places ComplyAdvantage in 32 categories with nine Leader badges, two #1 rankings, and six Top 3 placements, including a first-time feature in the Financial Fraud Prevention category &#8211; its strongest showing yet. NEW YORK, August 25, 2026 [&#8230;]\nThe post ComplyAdvantage named Leader across multiple G2 Grid® Fall 2026 reports appeared first on ComplyAdvantage.",
-      "score": 42,
-      "score_breakdown": "+20 mots critiques: fraud | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "ComplyAdvantage reçoit des distinctions pour ses solutions de conformité financière et de prévention de la fraude bancaire."
     },
     {
       "hash": "2aa923105f5cadaf",
@@ -3121,6 +3085,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il décrit un nouveau modèle de facturation par crédits prépayés pour l'API OpenSanctions."
     },
     {
+      "hash": "5d447302346c34cf",
+      "source_name": "EBA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "💡Can Europe’s banking sector finance the EU’s ambitions? Speaking to Reuters, EBA Chair highlights the need for greater financial integration and scale to support Europe’s digital and green transitions, economic security and defence. 🔗",
+      "url": "https://x.com/EBA_News/status/2103410454248739041",
+      "author": "@EBA_News",
+      "published": "2026-09-25T09:05:00",
+      "summary": "💡Can Europe’s banking sector finance the EU’s ambitions?Speaking to Reuters, EBA Chair highlights the need for greater financial integration and scale to support Europe’s digital and green transitions, economic security and defence.🔗  lnkd.in/emsEYDy7— EU Banking Authority - EBA 🇪🇺 (@EBA_News) Sep 25, 2026",
+      "score": 37,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "0c2195d88bd5283f",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -3263,6 +3245,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "e5eca1c2b31c244d",
+      "source_name": "Cass. - Blanchiment",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour de cassation, Chambre criminelle - formation restreinte hors rnsm/na, 16 septembre 2026, 25-86.283",
+      "url": "http://juricaf.org/arret/FRANCE-COURDECASSATION-20260916-2586283",
+      "author": "Chambre criminelle - formation restreinte hors rnsm/na",
+      "published": "2026-09-16T12:00:00",
+      "summary": "N° C 25-86.283 F    N° 50974      MB25  16 SEPTEMBRE 2026      NON-ADMISSION      M. G conseiller doyen faisant fonction de président,                  R É P U B L I Q U E F R A N Ç A I S E _ AU NOM DU PEUPLE FRANÇAIS _ DÉCISION DE LA COUR DE CASSATION, CHAMBRE CRIMINELLE,   DU 16 SEPTEMBRE 2026    M. I U et Mmes E V et D S ont formé des pourvois contre l'arrêt de la cour d'appel de Rennes, 11e chambre, en date du 5 juin 2025, qui a condamné le premier, notamment, pour escroquerie et blanchiment",
+      "score": 36,
+      "score_breakdown": "+20 mots critiques: blanchiment | +5 mots moyens: ppe | +20 Géo FR: france, français | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "da1d097b38570360",
@@ -3805,24 +3805,6 @@
       "ai_summary": "Les fraudes aux allocations sociales et leur détection relèvent de la conformité financière et réglementaire des organismes publics."
     },
     {
-      "hash": "62c67537071cc368",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "TikTok flags sanctions self-disclosures",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/tiktok-flags-sanctions-self-disclosures",
-      "author": "Ana de Liz",
-      "published": "2026-08-26T09:10:45",
-      "summary": "",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "TikTok signale des auto-divulgations de sanctions, concernant la conformité aux régimes de sanctions financières."
-    },
-    {
       "hash": "ea50dd1ef25e90b6",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -3895,24 +3877,6 @@
       "ai_summary": "Homologation des règlements comptables de l'ANC assurant la conformité des normes et standards financiers français."
     },
     {
-      "hash": "fd8b36ea81ed2f06",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Suivi mensuel de la production de crédits à l’habitat - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOHd2SGx4Z2d6X2dLUWY4M2tac1Z3ODQ0SW9HekppaXNtSUtHcUc3Q3pWdklTWnEyUHVXY1ZMV29mVU9TbmFHOHhaMzRZNzdkeXZlVnRSZS1WUll2dUQ1ajJpZUJ2dGJ3cWhkOXROYmNCSlYyRmhJYTV4TkNJZGU0cEJwV0taUC1WQjFSUW96RmFFRnZ1NHJ6WG0wYmtpclFVV281bG9rb3hkMHFrV0tOVWwxcjExV05PbkxyenBPLVR2V0E?oc=5",
-      "author": "",
-      "published": "2026-08-26T07:00:00",
-      "summary": "Suivi mensuel de la production de crédits à l’habitat&nbsp;&nbsp;Banque de France",
-      "score": 30,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne le suivi réglementaire des crédits immobiliers par l'autorité de contrôle prudentiel."
-    },
-    {
       "hash": "05b0eee02e33b69f",
       "source_name": "EDPB - European Data Protection Board",
       "source_type": "rss",
@@ -3928,25 +3892,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance. (Cet article traite de protection des données personnelles, non de conformité financière.)"
-    },
-    {
-      "hash": "1cc8a8e6b5239d3a",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de BORDEAUX, 5ème chambre, 22 septembre 2026, 24BX01438",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEBORDEAUX-20260922-24BX01438",
-      "author": "5ème chambre",
-      "published": "2026-09-22T12:00:00",
-      "summary": "Vu la procédure suivante :         Par une requête et des mémoires, enregistrés les 12 juin 2024, 28 mai 2025 et 21 avril 2026, la société Ferme éolienne de Plaine Argenson, représentée par Me Guiheux, demande à la cour :           1° d'annuler la décision implicite née le 14 février 2024 par laquelle la préfète des Deux-Sèvres a refusé de lui délivrer une autorisation environnementale pour l'exploitation d'un parc éolien de 4 aérogénérateurs sur le territoire de la commune de Plaine Argenson, a",
-      "score": 30,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a3133b7983d21832",
@@ -3964,7 +3910,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il documente une amende administrative imposée pour non-respect des obligations de protection des données personnelles."
+      "ai_summary": "Cet article concerne la conformité financière car l'autorité espagnole impose une amende administrative à Securitas Direct pour non-respect des droits des personnes."
     },
     {
       "hash": "5e7470677e969a9d",
@@ -4039,6 +3985,42 @@
       "ai_summary": "L'article concerne la solidité des banques européennes et l'harmonisation du marché bancaire unique, relevant de la supervision prudentielle."
     },
     {
+      "hash": "e97aaeccbfbbe087",
+      "source_name": "Cass. - Fraude",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour d'appel de Lyon, Jurid. premier président, 15 septembre 2026, 25/09188",
+      "url": "http://juricaf.org/arret/FRANCE-COURDAPPELDELYON-20260915-2509188",
+      "author": "Jurid. premier président",
+      "published": "2026-09-15T12:00:00",
+      "summary": "N° R.G. Cour : N° RG 25/09188 - N° Portalis DBVX-V-B7J-QULV  COUR D'APPEL DE LYON  JURIDICTION DU PREMIER PRESIDENT    ORDONNANCE DU 15 Septembre 2026  contestations  d'honoraires                             DEMANDEUR :    Me N I  Adresse 1  Localité 1    comparant                DEFENDEUR :     M. R E  Adresse 2  Localité 2    comparant      DEBATS : audience publique du 16 Juin 2026 tenue par Pierre BARDOUX, Conseiller à la cour d'appel de Lyon, délégataire du Premier Président dans les foncti",
+      "score": 28,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "8a5f92e4693efeb5",
+      "source_name": "Cass. - Fraude",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour d'appel de Montpellier, Chambre commerciale, 15 septembre 2026, 24/02471",
+      "url": "http://juricaf.org/arret/FRANCE-COURDAPPELDEMONTPELLIER-20260915-2402471",
+      "author": "Chambre commerciale",
+      "published": "2026-09-15T12:00:00",
+      "summary": "COUR D'APPEL DE MONTPELLIER    Chambre commerciale    ARRET DU 15 SEPTEMBRE 2026    Numéro d'inscription au répertoire général :   N° RG 24/02471 - N° Portalis DBVK-V-B7I-QHP4      Décision déférée à la Cour :   Jugement du 26 MARS 2024   TJ HORS JAF, JEX, JLD, J. EXPRO, JCP DE PERPIGNAN   N° RG 22/00577    APPELANTES :    S.A.S. EDORAS agissant poursuites et diligences de ses représentants légaux  Adresse 1  Localité 1  Représentée par Me Léah CARRET, avocat au barreau de MONTPELLIER substituan",
+      "score": 28,
+      "score_breakdown": "+10 mots forts: dora | +5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "875f1ce26f3aff05",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -4054,7 +4036,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6659f01c80b6a2cd",
@@ -4324,7 +4306,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "bef1d3a837a66554",
@@ -4469,6 +4451,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite du cadre macroprudentiel européen, essentiel pour la stabilité et la supervision bancaire."
+    },
+    {
+      "hash": "9e2b8b35ad54f769",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "We perform on-site inspections at banks to observe how they operate and manage risks. Supervisory Board member Patrick Montagner explains how we are reforming these inspections to make them more focused, timely and effective. Read #TheSupervisionBlog",
+      "url": "https://x.com/ecb/status/2103410096705601550",
+      "author": "@ecb",
+      "published": "2026-09-25T09:03:00",
+      "summary": "We perform on-site inspections at banks to observe how they operate and manage risks.Supervisory Board member Patrick Montagner explains how we are reforming these inspections to make them more focused, timely and effective.Read  #TheSupervisionBlog  bankingsupervision.europa.eu…— European Central Bank (@ecb) Sep 25, 2026",
+      "score": 22,
+      "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "82eed0feb8a3268b",
@@ -4702,7 +4702,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "27bfbbd5a8010999",
@@ -5116,7 +5116,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "944c7298c3f770a1",
@@ -5296,7 +5296,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les modifications de listes de sanctions OFAC relatives à la République Démocratique du Congo, relevant directement de la conformité aux sanctions internationales."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e9992ff3cbf5eff8",
@@ -5512,7 +5512,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il évoque des affaires de fraude fiscale, de corruption étrangère et de conformité réglementaire américaine."
+      "ai_summary": "Cet article concerne la conformité financière car il met en avant des professionnels ayant résolu des affaires de fiscalité, corruption et conformité réglementaire."
     },
     {
       "hash": "fa09ad9151d79512",
@@ -5605,7 +5605,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires pour corruption impliquant un acteur économique majeur."
     }
   ],
-  "last_update": "2026-09-25T05:08:53.115892+00:00",
+  "last_update": "2026-09-25T10:50:12.471974+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
