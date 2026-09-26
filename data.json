@@ -706,7 +706,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des procédures d'agrément et des exigences de conformité pour les dépositaires d'OPCVM et FIA."
+      "ai_summary": "Cet article concerne l'agrément et la supervision des dépositaires d'OPCVM/FIA, éléments clés de la conformité financière réglementaire."
     },
     {
       "hash": "fe8426ce20e58b89",
@@ -1552,7 +1552,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bd93873d898b0a85",
@@ -2308,7 +2308,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'EBA consulte sur des normes révisées concernant les exigences de capital et de liquidité des institutions financières."
+      "ai_summary": "L'EBA consulte sur les normes révisées concernant les exigences de capital et de liquidité, éléments clés de la conformité prudentielle."
     },
     {
       "hash": "38caa3e89c793ecc",
@@ -2326,7 +2326,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite de normes révisées sur les exigences de capital et liquidité des institutions bancaires selon le cadre SREP."
+      "ai_summary": "L'EBA consulte sur des normes révisées pour les exigences de capital et liquidités, renforçant la conformité réglementaire bancaire."
     },
     {
       "hash": "b3a7817030cf3fcf",
@@ -2491,24 +2491,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions et des défaillances de contrôles internes chez une banque."
     },
     {
-      "hash": "6be74a926882573e",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Les banques chinoises bientôt punies par Trump pour leur soutien à l'Iran? \"Pas obligé de tout annoncer\", le président américain laisse planer le doute sur de nouvelles sanctions",
-      "url": "https://www.bfmtv.com/economie/international/les-banques-chinoises-bientot-punies-par-trump-pour-leur-soutien-a-l-iran-pas-oblige-de-tout-annoncer-le-president-americain-laisse-planer-le-doute-sur-de-nouvelles-sanctions_AD-202608270793.html",
-      "author": "",
-      "published": "2026-08-27T19:22:55",
-      "summary": "En début de semaine, le gouvernement américain menacé de frapper de sanctions les pays qui continuent de commercer avec Téhéran. Or, la Chine est un partenaire primordial pour Téhéran. ",
-      "score": 49,
-      "score_breakdown": "+20 mots critiques: sanction | +10 mots moyens: banque, ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les banques chinoises risquent des sanctions américaines pour non-conformité aux régimes de sanctions contre l'Iran."
-    },
-    {
       "hash": "cbe0a12b51ed828c",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
@@ -2524,7 +2506,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "bde2f0b258f487e1",
@@ -2632,7 +2614,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la solidité capitalistique et de la liquidité des banques, éléments clés de la conformité prudentielle."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la résilience bancaire, des ratios de capital et de liquidité, éléments clés de la régulation prudentielle."
     },
     {
       "hash": "b0c4a1dfc97c4c7b",
@@ -2795,24 +2777,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les arnaquesfinancières et leur détection, relevant de la protection des consommateurs et de la conformité réglementaire."
-    },
-    {
-      "hash": "28b51d69e0df5d4e",
-      "source_name": "Tracfin",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Tracfin publie son rapport d’activité  et d’impact 2025",
-      "url": "https://www.economie.gouv.fr/tracfin/tracfin-publie-son-rapport-dactivite-et-dimpact-2025",
-      "author": "",
-      "published": "2026-08-27T17:04:08",
-      "summary": "Tracfin publie son nouveau rapport d’activité et d’impact 2025, qui rassemble pour la première fois dans un même document l’activité des professionnels déclarants et celle de Tracfin.",
-      "score": 44,
-      "score_breakdown": "+10 mots forts: tracfin | +25 Source FR | +20 Géo FR: tracfin | ×0.8 (14d)",
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Tracfin rapporte ses activités de lutte contre le blanchiment et le financement du terrorisme, piliers de la conformité financière."
     },
     {
       "hash": "652c887478a48e5e",
@@ -3460,7 +3424,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "e5eca1c2b31c244d",
@@ -4072,25 +4036,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "05b0eee02e33b69f",
-      "source_name": "EDPB - European Data Protection Board",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "The Irish Data Protection Commission fines Google 403 000 000 EUR following Inquiry into Google’s processing of location data",
-      "url": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
-      "author": "EDPB",
-      "published": "2026-09-23T12:00:00",
-      "summary": "Background informationDate of final decision: 21 September 2026National caseLegal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject) and Article 13 (Information to be provided where personal data are collected from the data subject)Decision: Administrative fine, compliance orderKey words: GDPR enforcement, technolog",
-      "score": 30,
-      "score_breakdown": "+10 mots forts: compliance | +15 Source EU | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5e7470677e969a9d",
@@ -4180,7 +4126,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6659f01c80b6a2cd",
@@ -4399,6 +4345,24 @@
       "ai_summary": "Cet article concerne les recours judiciaires contre les listes noires du Pentagone, révélant des failles en conformité réglementaire."
     },
     {
+      "hash": "05b0eee02e33b69f",
+      "source_name": "EDPB - European Data Protection Board",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "The Irish Data Protection Commission fines Google 403 000 000 EUR following Inquiry into Google’s processing of location data",
+      "url": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
+      "author": "EDPB",
+      "published": "2026-09-23T12:00:00",
+      "summary": "Background informationDate of final decision: 21 September 2026National caseLegal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject) and Article 13 (Information to be provided where personal data are collected from the data subject)Decision: Administrative fine, compliance orderKey words: GDPR enforcement, technolog",
+      "score": 25,
+      "score_breakdown": "+10 mots forts: compliance | +15 Source EU | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a3133b7983d21832",
       "source_name": "EDPB - European Data Protection Board",
       "source_type": "rss",
@@ -4414,7 +4378,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "905af218d1071679",
@@ -4450,7 +4414,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de normes techniques réglementaires sur les fonds propres et passifs éligibles des établissements financiers."
     },
     {
       "hash": "c96b370270fd74ad",
@@ -4486,7 +4450,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "bef1d3a837a66554",
@@ -4864,7 +4828,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "27bfbbd5a8010999",
@@ -5728,10 +5692,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-09-26T16:33:19.036100+00:00",
+  "last_update": "2026-09-26T20:23:02.200513+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
