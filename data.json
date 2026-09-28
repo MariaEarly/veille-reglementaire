@@ -1195,24 +1195,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des logiciels de lutte anti-blanchiment pour les entités australiennes."
     },
     {
-      "hash": "3a84ace57918ba1b",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "François Haas - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByWjV1SFFLTk5jSkFULXcwMThMZUVadEtoNHZmVGwzSVdleE5vZ1FFN0pqY3BCY19Uclc3YWJyUWNUZUZZd3RiaWI5b3VKRV9FYjJFM2hDdGJxWmFW?oc=5",
-      "author": "",
-      "published": "2026-09-26T18:45:33",
-      "summary": "François Haas&nbsp;&nbsp;Banque de France",
-      "score": 75,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "d7d5adc5c3879713",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1861,6 +1843,24 @@
       "ai_summary": "FinCEN demande aux banques de renforcer la détection de fraudes aux aides étudiantes fédérales, relevant de la conformité financière."
     },
     {
+      "hash": "3a84ace57918ba1b",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "François Haas - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByWjV1SFFLTk5jSkFULXcwMThMZUVadEtoNHZmVGwzSVdleE5vZ1FFN0pqY3BCY19Uclc3YWJyUWNUZUZZd3RiaWI5b3VKRV9FYjJFM2hDdGJxWmFW?oc=5",
+      "author": "",
+      "published": "2026-09-26T18:45:33",
+      "summary": "François Haas&nbsp;&nbsp;Banque de France",
+      "score": 60,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "ee3b0f7cae38d1eb",
       "source_name": "Commission EU - Sanctions FAQ",
       "source_type": "rss",
@@ -2128,7 +2128,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "56d38445d305baef",
@@ -2146,7 +2146,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d88d7e864392476d",
@@ -2542,7 +2542,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il évalue la résilience bancaire, les ratios de capital et de liquidité, éléments clés du respect des normes prudentielles réglementaires."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la solidité du capital et de la liquidité des banques de l'UE/EEE."
     },
     {
       "hash": "b0c4a1dfc97c4c7b",
@@ -3856,7 +3856,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2296a0f0c9ede60c",
@@ -4018,7 +4018,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6659f01c80b6a2cd",
@@ -4252,7 +4252,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cette amende pour traitement illégal de données de localisation relève de la conformité réglementaire en matière de protection des données personnelles."
     },
     {
       "hash": "a3133b7983d21832",
@@ -4306,7 +4306,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e9c8dd1ccf47ebe3",
@@ -4324,7 +4324,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des normes techniques relatives aux fonds propres et passifs éligibles des établissements bancaires."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des normes techniques régissant les exigences de fonds propres des établissements financiers."
     },
     {
       "hash": "c96b370270fd74ad",
@@ -4360,7 +4360,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "bef1d3a837a66554",
@@ -4576,7 +4576,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "SustainSoft propose un logiciel de conformité RSE permettant aux entreprises de respecter leurs obligations réglementaires en matière de responsabilité sociétale."
+      "ai_summary": "SustainSoft aide les entreprises à se conformer à leurs obligations réglementaires en matière de RSE et de reporting de durabilité."
     },
     {
       "hash": "5ed6ed955cd62eef",
@@ -4720,7 +4720,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "27bfbbd5a8010999",
@@ -5533,7 +5533,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires pour corruption impliquant un acteur économique majeur."
     }
   ],
-  "last_update": "2026-09-27T21:29:42.640017+00:00",
+  "last_update": "2026-09-28T02:34:48.300629+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
