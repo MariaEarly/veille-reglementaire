@@ -1858,7 +1858,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "ee3b0f7cae38d1eb",
@@ -2126,24 +2126,6 @@
       "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
       "doc_type": "DÉCRET",
       "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "56d38445d305baef",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, 4ème chambre jugeant seule, 25 septembre 2026, 516457",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260925-516457",
-      "author": "4ème chambre jugeant seule",
-      "published": "2026-09-25T12:00:00",
-      "summary": "Vu la procédure suivante :    M. R... X... a porté plainte contre Mme D... I... devant la chambre disciplinaire de première instance d’Auvergne-Rhône-Alpes de l’ordre des médecins. Par une décision du 6 novembre 2023, la chambre disciplinaire de première instance a infligé à Mme I... la sanction de l’interdiction d’exercer la médecine pendant six mois dont trois mois assortis du sursis.     Par une décision du 7 mai 2026, la chambre disciplinaire nationale de l’ordre des médecins a, sur appel de",
-      "score": 54,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
       "status": "new",
       "early_brief": false,
       "ai_summary": "Hors périmètre compliance"
@@ -2509,6 +2491,24 @@
       "ai_summary": "Les autorités britanniques enquêtent sur un sponsor de la Premier League pour blanchiment d'argent, concernant la conformité AML."
     },
     {
+      "hash": "56d38445d305baef",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, 4ème chambre jugeant seule, 25 septembre 2026, 516457",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260925-516457",
+      "author": "4ème chambre jugeant seule",
+      "published": "2026-09-25T12:00:00",
+      "summary": "Vu la procédure suivante :    M. R... X... a porté plainte contre Mme D... I... devant la chambre disciplinaire de première instance d’Auvergne-Rhône-Alpes de l’ordre des médecins. Par une décision du 6 novembre 2023, la chambre disciplinaire de première instance a infligé à Mme I... la sanction de l’interdiction d’exercer la médecine pendant six mois dont trois mois assortis du sursis.     Par une décision du 7 mai 2026, la chambre disciplinaire nationale de l’ordre des médecins a, sur appel de",
+      "score": 45,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +20 Géo FR: france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "24e8d65b8b742f98",
       "source_name": "EBA (X)",
       "source_type": "rss",
@@ -2705,6 +2705,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les arnaquesfinancières et leur détection, relevant de la protection des consommateurs et de la conformité réglementaire."
+    },
+    {
+      "hash": "6b6f2f6866d57d30",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Standard Due Diligence May Not be Enough in Mexico",
+      "url": "https://www.corporatecomplianceinsights.com/standard-due-diligence-may-not-be-enough-mexico/",
+      "author": "Alejandro Ortega, Miguel Salcedo and David Williams",
+      "published": "2026-09-28T11:00:27",
+      "summary": "KYC screening does not always reveal ownership connections\nThe post Standard Due Diligence May Not be Enough in Mexico appeared first on Corporate Compliance Insights.",
+      "score": 42,
+      "score_breakdown": "+20 mots forts: kyc, due diligence, compliance | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "652c887478a48e5e",
@@ -3137,6 +3155,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il décrit un nouveau modèle de facturation par crédits prépayés pour l'API OpenSanctions."
+    },
+    {
+      "hash": "11b761970ab879c7",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "💡 What does effective human oversight of AI look like in practice? Last week, EBA Head of Digital Finance Unit Ruta Merkeviciute j...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7510270299892899840",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-09-28T09:32:54",
+      "summary": "💡 What does effective human oversight of AI look like in practice?\n\nLast week, EBA Head of Digital Finance Unit Ruta Merkeviciute joined the European Central Bank Supervision Innovators Conference to discuss “Digital Skills: The Human-Technology Partnership in an Agentic World.”\n\nModerated by Eva Murciano, Director General, DG Human Resources at the European Central Bank, the panel brought Rūta together with Karla Chaman, Andreas Gschwenter and Markus Trost.\n\nHer message was clear: human oversig",
+      "score": 37,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "0ced207ca9f7081b",
@@ -3805,24 +3841,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'obligation légale de facturation électronique et des délais de mise en conformité."
     },
     {
-      "hash": "ad7364f8db5777ac",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Une femme demande le divorce aux torts exclusifs du mari, pour violation grave du devoir de fidélité : quelle sanction financière ?",
-      "url": "https://www.lemonde.fr/argent/article/2026/08/29/divorce-aux-torts-exclusifs-du-mari-quelle-sanction-financiere_6759535_1657007.html",
-      "author": "",
-      "published": "2026-08-29T04:00:10",
-      "summary": "Une femme demande réparation du préjudice moral causé par l’adultère de son époux.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'article concerne les conséquences financières de la responsabilité civile en cas de violation du devoir conjugal de fidélité."
-    },
-    {
       "hash": "ea50dd1ef25e90b6",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -3856,7 +3874,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "2296a0f0c9ede60c",
@@ -3929,6 +3947,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la supervision bancaire et la régulation financière européenne, domaines clés de la conformité financière."
+    },
+    {
+      "hash": "521859d63f18d4d6",
+      "source_name": "ESMA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "✂️ With 4 flagship initiatives moving into a new phase, #ESMA is working to reduce administrative burdens, improve the usability of regulatory #data & make #supervision more effective. The report outlines the actions taken in 2026 & priorities for 2027.",
+      "url": "https://x.com/ESMAComms/status/2104488968897036311",
+      "author": "@ESMAComms",
+      "published": "2026-09-28T08:30:00",
+      "summary": "✂️ With 4 flagship initiatives moving into a new phase,  #ESMA is working to reduce administrative burdens, improve the usability of regulatory  #data & make  #supervision more effective.The report outlines the actions taken in 2026 & priorities for 2027. link.europa.eu/fRPrQc— ESMA - EU Securities Markets Regulator 🇪🇺 (@ESMAComms) Sep 28, 2026",
+      "score": 30,
+      "score_breakdown": "+10 mots forts: esma | +10 Géo EU: esma | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "1cc994ec35684da6",
@@ -4018,7 +4054,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6659f01c80b6a2cd",
@@ -4252,7 +4288,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cette amende pour traitement illégal de données de localisation relève de la conformité réglementaire en matière de protection des données personnelles."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a3133b7983d21832",
@@ -4306,7 +4342,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e9c8dd1ccf47ebe3",
@@ -4324,7 +4360,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des normes techniques régissant les exigences de fonds propres des établissements financiers."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de normes techniques relatives aux fonds propres et passifs éligibles des établissements financiers."
     },
     {
       "hash": "c96b370270fd74ad",
@@ -4360,7 +4396,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "bef1d3a837a66554",
@@ -4451,6 +4487,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite du cadre macroprudentiel européen, essentiel pour la stabilité et la supervision bancaire."
+    },
+    {
+      "hash": "eef8cee9befb8a36",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "To make Europe’s banks more competitive, we must overcome fragmentation along national lines, says Supervisory Board member Pedro Machado. Supervision and regulation should be simpler and more proportionate while preserving resilience",
+      "url": "https://x.com/ecb/status/2104476536988643707",
+      "author": "@ecb",
+      "published": "2026-09-28T07:41:00",
+      "summary": "To make Europe’s banks more competitive, we must overcome fragmentation along national lines, says Supervisory Board member Pedro Machado.Supervision and regulation should be simpler and more proportionate while preserving resilience  bankingsupervision.europa.eu…— European Central Bank (@ecb) Sep 28, 2026",
+      "score": 22,
+      "score_breakdown": "+15 mots moyens: regulation, supervisory, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "9e2b8b35ad54f769",
@@ -4720,7 +4774,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "27bfbbd5a8010999",
@@ -5533,7 +5587,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires pour corruption impliquant un acteur économique majeur."
     }
   ],
-  "last_update": "2026-09-28T05:39:21.070740+00:00",
+  "last_update": "2026-09-28T12:22:48.725449+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
