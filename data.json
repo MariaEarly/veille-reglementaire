@@ -580,7 +580,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a242e3dcbc3a1150",
@@ -763,24 +763,6 @@
       "ai_summary": "Cette affaire concerne la conformité réglementaire en matière de protection des données personnelles, domaine clé de la conformité financière moderne."
     },
     {
-      "hash": "be0cf504cac664f4",
-      "source_name": "CNIL",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Participez aux Rencontres Informatique & Libertés le 29 septembre 2026",
-      "url": "https://www.cnil.fr/fr/ril-2026",
-      "author": "CNIL",
-      "published": "2026-08-31T12:00:00",
-      "summary": "La CNIL organise la 2ème édition de ses Rencontres Informatique &amp;amp; Libertés le mardi 29&amp;nbsp;septembre 2026. Cette matinée est l'occasion d’échanger sur différents sujets en lien avec la protection des données, notamment l’essor des lunettes connectées ou le rôle des sanctions.",
-      "score": 97,
-      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: cnil | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité car les sanctions en matière de protection des données relèvent des obligations réglementaires."
-    },
-    {
       "hash": "21cb297a43919dcf",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -815,6 +797,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la gestion des risques tiers et la conformité réglementaire bancaire selon les directives de l'EBA."
+    },
+    {
+      "hash": "49d1f69da9175fe4",
+      "source_name": "AMF - Actualités",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Notification à l’AMF d’indices de référence d’importance significative",
+      "url": "https://www.amf-france.org/fr/actualites-publications/actualites/notification-lamf-dindices-de-reference-dimportance-significative#xts=607212&xtor=RSS-3&type=RSS",
+      "author": "",
+      "published": "2026-09-30T16:00:09",
+      "summary": "Actualité                  Infrastructures de marché              Marchés                    Notification à l’AMF d’indices de référence d’importance significative",
+      "score": 82,
+      "score_breakdown": "+10 mots forts: amf | +25 Source FR | +20 Géo FR: amf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la déclaration obligatoire des indices de référence à l'AMF, relevant de la conformité réglementaire des marchés financiers."
     },
     {
       "hash": "ed6ed3a024374976",
@@ -1231,24 +1231,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des logiciels de lutte anti-blanchiment pour les entités australiennes."
     },
     {
-      "hash": "bb8b7cfecf978c12",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Publication du rapport d'activité 2025 de la Commission de médiation AERAS - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3lvTll0czNGUE1mUXNIM3dZaHFHYjRGbXFVX1hKcmpRSXdQeHhPRmZlTkJVWUk4c2I3S0h1RFktZmFsZ1E0cVE4WU9WMWwyd25aaHdDZ255VUNRa1QtSC1GY1hseUZoTlJhN0pzSDJ5MXJkTGJjRFMxUktQQWVnMTVkRk1zZC13bGVLYWx2RDFYNHVMNTlpUkUzM2pKSmxFc2ZDNVlJMDBCa2EwM2ltMTk1YkJvMkN3?oc=5",
-      "author": "",
-      "published": "2026-09-29T15:13:26",
-      "summary": "Publication du rapport d'activité 2025 de la Commission de médiation AERAS&nbsp;&nbsp;Banque de France",
-      "score": 75,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.5 (<24h)",
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "d7d5adc5c3879713",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1570,7 +1552,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "bd93873d898b0a85",
@@ -1607,6 +1589,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Ce rapport concerne la conformité financière car il traite du blanchiment et du financement du terrorisme, risques majeurs de la conformité."
+    },
+    {
+      "hash": "c4863176ab56b92d",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "​The EBA publishes its 2027 Work Programme",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-2027-work-programme",
+      "author": "Jana Jaklic",
+      "published": "2026-09-30T13:49:37",
+      "summary": "​The European Banking Authority (EBA) published today its Work Programme outlining the key areas of focus and deliverables for 2027. The Programme also marks the first step towards a broader medium-term strategy to position the EBA as a next-generation regulator, a body developing supervision at new frontiers, and a provider of services to the supervisory and resolution community.",
+      "score": 67,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: supervisory, bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "31e81218946698ae",
@@ -1933,6 +1933,42 @@
       "ai_summary": "FinCEN demande aux banques de renforcer la détection de fraudes aux aides étudiantes fédérales, relevant de la conformité financière."
     },
     {
+      "hash": "bb8b7cfecf978c12",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Publication du rapport d'activité 2025 de la Commission de médiation AERAS - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3lvTll0czNGUE1mUXNIM3dZaHFHYjRGbXFVX1hKcmpRSXdQeHhPRmZlTkJVWUk4c2I3S0h1RFktZmFsZ1E0cVE4WU9WMWwyd25aaHdDZ255VUNRa1QtSC1GY1hseUZoTlJhN0pzSDJ5MXJkTGJjRFMxUktQQWVnMTVkRk1zZC13bGVLYWx2RDFYNHVMNTlpUkUzM2pKSmxFc2ZDNVlJMDBCa2EwM2ltMTk1YkJvMkN3?oc=5",
+      "author": "",
+      "published": "2026-09-29T15:13:26",
+      "summary": "Publication du rapport d'activité 2025 de la Commission de médiation AERAS&nbsp;&nbsp;Banque de France",
+      "score": 60,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "665b368314998713",
+      "source_name": "Commission EU - Sanctions FAQ",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Donetsk, Kherson, Luhansk and Zaporizhzhia oblasts",
+      "url": "https://finance.ec.europa.eu/publications/donetsk-kherson-luhansk-and-zaporizhzhia-oblasts_en",
+      "author": "",
+      "published": "2026-09-30T17:15:02",
+      "summary": "FAQs on sanctions against Russia and Belarus, with focus on the following legislation: Council Regulation (EU) 2022/263.",
+      "score": 60,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: regulation | +15 Source EU | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "ee3b0f7cae38d1eb",
       "source_name": "Commission EU - Sanctions FAQ",
       "source_type": "rss",
@@ -2239,6 +2275,24 @@
       "ai_summary": "Cet article concerne les exigences de conformité financière et anti-fraude imposées aux entreprises britanniques par les autorités."
     },
     {
+      "hash": "7bd8ed0d5a5d6d92",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "FATF: Canada must prioritise money laundering prosecutions",
+      "url": "https://globalinvestigationsreview.com/article/fatf-canada-must-prioritise-money-laundering-prosecutions",
+      "author": "Grace Propheta",
+      "published": "2026-09-30T10:14:58",
+      "summary": "",
+      "score": 54,
+      "score_breakdown": "+20 mots critiques: money laundering | +10 mots forts: fatf | +3 Presse | +3 Géo Intl: canada | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "d88d7e864392476d",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -2255,6 +2309,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il guide les dépositaires sur leurs obligations réglementaires concernant les OPCVM et FIA."
+    },
+    {
+      "hash": "74434aee5ab110a3",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 30 September, 2026",
+      "url": "https://www.eba.europa.eu/node/20057",
+      "author": "Anonymous",
+      "published": "2026-09-30T15:00:03",
+      "summary": "EBA E-mail alert 30 September, 2026\n\n  \n    Date\n          30/09/2026\n\n      \n\nAnonymous (not verified)\n\nWed, 09/30/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          ​The EBA publishes its 2027 Work Programme  \n      ",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: eba | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8f1d6348db5b825b",
@@ -2416,7 +2488,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "90bc34a89c88fe95",
@@ -2632,7 +2704,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4223be7a7109636e",
@@ -2668,7 +2740,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e0227d547f3de6da",
@@ -2687,6 +2759,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Conformité des teneurs de compte : procédures internes relatives aux PEA et droits des épargnants en matière de clôture de plan."
+    },
+    {
+      "hash": "d43407b053d35739",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "AI Governance Frameworks Won’t Save You, but an Ethically Engaged Workforce Might",
+      "url": "https://www.corporatecomplianceinsights.com/ai-governance-frameworks-wont-save-you-ethically-engaged-workforce-might/",
+      "author": "Caterina Bulgarella",
+      "published": "2026-09-29T11:02:16",
+      "summary": "The frameworks and safeguards that make boards feel AI risk is handled usually leave out the one defense that actually holds the line: employees. Social scientist Caterina Bulgarella explains why the uncertainty and job insecurity AI provokes erode the very resources that keep people vigilant and honest, making an ethically engaged workforce a strategic priority.\nThe post AI Governance Frameworks Won’t Save You, but an Ethically Engaged Workforce Might appeared first on Corporate Compliance Insi",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: compliance | +10 mots moyens: risk, ppe | +3 Presse | +15 IA×Finance: ai governance+compliance | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "24e8d65b8b742f98",
@@ -2902,7 +2992,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de conformité financière car il expose de nouvelles restrictions américaines sur les transactions financières avec Cuba, imposant des obligations de conformité réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions américaines imposant des restrictions sur les transactions financières avec Cuba."
     },
     {
       "hash": "6b6f2f6866d57d30",
@@ -3100,7 +3190,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des violations graves des règles anti-blanchiment et des mesures de sanction réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il rapporte des violations graves de règles anti-blanchiment d'argent sanctionnées par la Finma."
     },
     {
       "hash": "2aa923105f5cadaf",
@@ -4306,7 +4396,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5392e4e38dcdac03",
@@ -4541,24 +4631,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les recours judiciaires contre les listes noires du Pentagone, révélant des failles en conformité réglementaire."
-    },
-    {
-      "hash": "05b0eee02e33b69f",
-      "source_name": "EDPB - European Data Protection Board",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "The Irish Data Protection Commission fines Google 403 000 000 EUR following Inquiry into Google’s processing of location data",
-      "url": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
-      "author": "EDPB",
-      "published": "2026-09-23T12:00:00",
-      "summary": "Background informationDate of final decision: 21 September 2026National caseLegal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject) and Article 13 (Information to be provided where personal data are collected from the data subject)Decision: Administrative fine, compliance orderKey words: GDPR enforcement, technolog",
-      "score": 25,
-      "score_breakdown": "+10 mots forts: compliance | +15 Source EU | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a3133b7983d21832",
@@ -4867,6 +4939,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du financement d'une plateforme de conformité des employés."
     },
     {
+      "hash": "05b0eee02e33b69f",
+      "source_name": "EDPB - European Data Protection Board",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "The Irish Data Protection Commission fines Google 403 000 000 EUR following Inquiry into Google’s processing of location data",
+      "url": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
+      "author": "EDPB",
+      "published": "2026-09-23T12:00:00",
+      "summary": "Background informationDate of final decision: 21 September 2026National caseLegal Reference(s): Article 5 (Principles relating to processing of personal data), Article 6 (Lawfulness of processing), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject) and Article 13 (Information to be provided where personal data are collected from the data subject)Decision: Administrative fine, compliance orderKey words: GDPR enforcement, technolog",
+      "score": 20,
+      "score_breakdown": "+10 mots forts: compliance | +15 Source EU | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "678109b913c50cbf",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -5026,7 +5116,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "27bfbbd5a8010999",
@@ -5062,7 +5152,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "efc65cb2578d6206",
@@ -5170,7 +5260,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'harmonisation des règles prudentielles bancaires européennes relève de la conformité financière et de la supervision réglementaire."
     },
     {
       "hash": "fc8bcda3fba577ff",
@@ -5188,7 +5278,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la supervision bancaire et l'efficacité des régulateurs face à la complexité croissante, relevant de la conformité financière."
     },
     {
       "hash": "928b7a6294276a6e",
@@ -5641,6 +5731,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire FCPA impliquant des accusations de corruption étrangère."
     },
     {
+      "hash": "29aafc147c6c647f",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Counter Terrorism and Transnational Criminal Organizations Designations; Belarus, Counter Narcotics, and Libya Designations Removals | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20260930",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-09-30T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "e1771b6d9b2356eb",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -5836,7 +5944,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3b1b115c614bd5f6",
@@ -5857,22 +5965,40 @@
       "ai_summary": "Cet article concerne la levée de sanctions financières imposées à des entités liées à la République Démocratique du Congo par l'OFAC."
     },
     {
-      "hash": "1c5d05898598029c",
-      "source_name": "Le Monde Économie",
+      "hash": "23f14e4e3ba5f10d",
+      "source_name": "Global Investigations Review",
       "source_type": "press",
       "category": "presse",
-      "title": "Refusant de brider l’intelligence artificielle, Donald Trump met en scène l’autorégulation de ses acteurs",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/30/refusant-de-brider-l-intelligence-artificielle-donald-trump-met-en-scene-l-autoregulation-de-ses-acteurs_6785824_3234.html",
-      "author": "",
-      "published": "2026-09-30T00:45:06",
-      "summary": "A un mois des élections de mi-mandat, le président américain a réuni autour de lui, mardi à la Maison Blanche, les principaux patrons du secteur, procédant à un recadrage de sa communication sur ce sujet explosif.",
+      "title": "Petroperú warns privilege “compromised” following leak of Paul Hastings bribery report",
+      "url": "https://globalinvestigationsreview.com/article/petroperu-warns-privilege-compromised-following-leak-of-paul-hastings-bribery-report",
+      "author": "Malavika Devaya",
+      "published": "2026-09-30T14:48:27",
+      "summary": "A Peruvian media outlet obtained the findings of an internal investigation into Petroperú’s dealings with commodities traders Gunvor and Vitol.",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "3c8178d5ba473b39",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "US withdraws from European anti-corruption body",
+      "url": "https://globalinvestigationsreview.com/article/us-withdraws-european-anti-corruption-body",
+      "author": "Grace Propheta",
+      "published": "2026-09-30T10:28:02",
+      "summary": "",
       "score": 4,
       "score_breakdown": "+3 Presse | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "615c819c41d6859b",
@@ -5983,24 +6109,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de corruption et de pots-de-vin dans un contrat public majeur."
     },
     {
-      "hash": "6b68efd2195fb360",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Vincent Bolloré dépose plainte pour « association de malfaiteurs » contre des magistrats, après son renvoi devant le tribunal pour corruption",
-      "url": "https://www.lemonde.fr/societe/article/2026/08/31/vincent-bollore-depose-plainte-pour-association-de-malfaiteurs-contre-des-magistrats-apres-son-renvoi-devant-le-tribunal-pour-corruption_6762587_3224.html",
-      "author": "",
-      "published": "2026-08-31T13:57:08",
-      "summary": "Dans une ultime tentative d’obtenir le renvoi de son procès pour corruption au Togo, prévu du 7 au 17 décembre au tribunal judiciaire de Paris, le milliardaire a déposé plainte, en mai, contre des magistrats, pour « entrave à l’exercice de la justice ».",
-      "score": 4,
-      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires pour corruption impliquant un acteur économique majeur."
-    },
-    {
       "hash": "e70c111210afa54b",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -6016,10 +6124,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-09-30T12:51:09.896437+00:00",
+  "last_update": "2026-09-30T17:16:05.024114+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
