@@ -565,6 +565,24 @@
   ],
   "items": [
     {
+      "hash": "3989f221baa78673",
+      "source_name": "JORF - Sanctions",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Délibération n° HAB-2026-002 du 24 septembre 2026 habilitant des agents de la Commission nationale de l'informatique et des libertés à procéder à des missions de vérification",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054914386",
+      "author": "Commission nationale de l'informatique et des libertés",
+      "published": "2026-09-30T00:00:00",
+      "summary": "Après avoir entendu les observations de M. Damien Milic, commissaire du Gouvernement,Décide :\nLes agents de la Commission nationale de l'informatique et des libertés (CNIL) ci-après désignés sont habilités, à raison de leurs fonctions, à effectuer les visites et vérifications mentionnées à l'article 19 de la loi du 6 janvier 1978 :M. Belaïd Aït Hamouda, auditeur des systèmes d'information au service des contrôles - RH, santé et affaires publiques, à la direction des contrôles et des sanctions  ;",
+      "score": 100,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: audit | +25 Source FR | +20 Géo FR: cnil | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a242e3dcbc3a1150",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -1156,7 +1174,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde le transfert de risque en titrisation synthétique, un sujet clé pour la régulation prudentielle."
+      "ai_summary": "Cet article concerne le transfert de risque en titrisation synthétique, un sujet clé de conformité financière et de régulation prudentielle."
     },
     {
       "hash": "d25dee1354bf5022",
@@ -1228,7 +1246,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d7d5adc5c3879713",
@@ -1553,6 +1571,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de l'application de la loi FCPA, régulant la corruption dans les affaires internationales, donc relève de la conformité financière."
+    },
+    {
+      "hash": "d3edea90df622f28",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Conférence des présidents",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054914399",
+      "author": "",
+      "published": "2026-09-30T00:00:00",
+      "summary": "Assemblée nationaleOrdre du jour de l'Assemblée nationale(Conférence des présidents du mardi 29 septembre 2026)DATESMATINAPRÈS-MIDISOIRSemaine \n      \n    de l'AssembléeOCTOBREJEUDI 1erA 9 heures :- Ouverture de la session ordinaire.- Nomination du Bureau.A 15 heures :- Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants (3106, 3190 rect.). (1)- Pn org. adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales (3107, 3191). (",
+      "score": 67,
+      "score_breakdown": "+10 mots forts: esma | +25 Source FR | +10 Géo EU: esma | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "bd93873d898b0a85",
@@ -2398,7 +2434,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "90bc34a89c88fe95",
@@ -2614,7 +2650,25 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "4223be7a7109636e",
+      "source_name": "ECB - Banking Supervision",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness",
+      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260930~8b08062e83.en.html",
+      "author": "",
+      "published": "2026-09-30T02:20:00",
+      "summary": "",
+      "score": 45,
+      "score_breakdown": "+15 mots moyens: risk, supervisory, ppe | +15 Source EU | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière en traitant de l'appétence au risque de supervision bancaire et de l'efficacité de la régulation prudentielle."
     },
     {
       "hash": "56d38445d305baef",
@@ -2632,7 +2686,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e0227d547f3de6da",
@@ -2851,6 +2905,24 @@
       "ai_summary": "Cet article concerne les arnaquesfinancières et leur détection, relevant de la protection des consommateurs et de la conformité réglementaire."
     },
     {
+      "hash": "8b14b416e5796a29",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Cuba sous le coup de nouvelles sanctions américaines",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/30/cuba-sous-le-coup-de-nouvelles-sanctions-americaines_6785891_3234.html",
+      "author": "",
+      "published": "2026-09-30T01:33:51",
+      "summary": "Les Etats-Unis, qui imposent déjà un blocus énergétique à l’île communiste, ont annoncé, mardi, des restrictions concernant les transactions financières. Des mesures qui viennent entraver un secteur privé cubain en plein développement.",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "6b6f2f6866d57d30",
       "source_name": "Corporate Compliance Insights",
       "source_type": "press",
@@ -3046,7 +3118,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les violations graves de la conformité anti-blanchiment d'argent et les amendes réglementaires imposées à Julius Baer par l'autorité suisse."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de violations graves des règles de lutte contre le blanchiment d'argent par une banque suisse."
     },
     {
       "hash": "2aa923105f5cadaf",
@@ -3499,24 +3571,6 @@
       "ai_summary": "Accord de coopération entre régulateurs pour reconnaître les contreparties centrales indiennes, relevant de la supervision des marchés financiers."
     },
     {
-      "hash": "83f8e80d7ab5cc35",
-      "source_name": "DG Trésor",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Concurrence sur le marché à l’export américain après les droits de douane",
-      "url": "https://www.tresor.economie.gouv.fr/Articles/2026/09/16/concurrence-sur-le-marche-a-l-export-americain-apres-les-droits-de-douane",
-      "author": "",
-      "published": "2026-09-15T22:00:00",
-      "summary": "La mise en place des droits de douane par l’administration américaine a rebattu les cartes de la compétitivité des exportateurs du monde entier vers le marché américain. L’Union Européenne, surtout exposée à la concurrence du Canada, du Mexique et de la Chine, a subi une baisse de sa compétitivité équivalente à une hausse des prix moyens de + 1,1 %. Les secteurs de l’agroalimentaire, des machines, de la chimie et de l’acier sont les plus impactés au mois de juin 2026.",
-      "score": 36,
-      "score_breakdown": "+10 mots forts: eba | +25 Source FR | +10 Géo EU: union européenne, eba | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "e5eca1c2b31c244d",
       "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
@@ -3568,7 +3622,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Un sénateur américain alerte sur l'utilisation de Tether pour contourner les sanctions, ce qui relève de la conformité financière et de la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il aborde les risques de non-conformité aux sanctions internationales via les cryptomonnaies."
     },
     {
       "hash": "a6779f2a20d36f1a",
@@ -4237,6 +4291,24 @@
       "ai_summary": "Cet arrêt concerne une action en responsabilité contre un établissement de crédit, relevant de la conformité et de la responsabilité bancaire."
     },
     {
+      "hash": "83f8e80d7ab5cc35",
+      "source_name": "DG Trésor",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Concurrence sur le marché à l’export américain après les droits de douane",
+      "url": "https://www.tresor.economie.gouv.fr/Articles/2026/09/16/concurrence-sur-le-marche-a-l-export-americain-apres-les-droits-de-douane",
+      "author": "",
+      "published": "2026-09-15T22:00:00",
+      "summary": "La mise en place des droits de douane par l’administration américaine a rebattu les cartes de la compétitivité des exportateurs du monde entier vers le marché américain. L’Union Européenne, surtout exposée à la concurrence du Canada, du Mexique et de la Chine, a subi une baisse de sa compétitivité équivalente à une hausse des prix moyens de + 1,1 %. Les secteurs de l’agroalimentaire, des machines, de la chimie et de l’acier sont les plus impactés au mois de juin 2026.",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: eba | +25 Source FR | +10 Géo EU: union européenne, eba | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
       "hash": "875f1ce26f3aff05",
       "source_name": "JORF - Blanchiment",
       "source_type": "rss",
@@ -4252,7 +4324,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5392e4e38dcdac03",
@@ -4504,7 +4576,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a3133b7983d21832",
@@ -4558,7 +4630,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet jugement concerne une vente forcée d'actifs suite à un litige commercial, sans lien direct avec la conformité financière ou la prévention du blanchiment."
+      "ai_summary": "Cet jugement concerne une vente forcée ordonnée par tribunal, sans rapport direct avec la conformité financière ou la lutte anti-blanchiment."
     },
     {
       "hash": "e9c8dd1ccf47ebe3",
@@ -4972,7 +5044,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "27bfbbd5a8010999",
@@ -5008,7 +5080,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "efc65cb2578d6206",
@@ -5044,7 +5116,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les poursuites pénales en matière de corruption, relevant de la conformité anti-corruption et de la conformité réglementaire."
     },
     {
       "hash": "a0ad3265b3e3b659",
@@ -5566,7 +5638,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions et gels d'actifs imposés par l'OFAC."
     },
     {
       "hash": "51c5979fe88ead14",
@@ -5746,7 +5818,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3b1b115c614bd5f6",
@@ -5767,6 +5839,24 @@
       "ai_summary": "Cet article concerne la levée de sanctions financières imposées à des entités liées à la République Démocratique du Congo par l'OFAC."
     },
     {
+      "hash": "1c5d05898598029c",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Refusant de brider l’intelligence artificielle, Donald Trump met en scène l’autorégulation de ses acteurs",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/30/refusant-de-brider-l-intelligence-artificielle-donald-trump-met-en-scene-l-autoregulation-de-ses-acteurs_6785824_3234.html",
+      "author": "",
+      "published": "2026-09-30T00:45:06",
+      "summary": "A un mois des élections de mi-mandat, le président américain a réuni autour de lui, mardi à la Maison Blanche, les principaux patrons du secteur, procédant à un recadrage de sa communication sur ce sujet explosif.",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "e70c111210afa54b",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -5782,7 +5872,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "615c819c41d6859b",
@@ -5911,7 +6001,7 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites judiciaires pour corruption impliquant un acteur économique majeur."
     }
   ],
-  "last_update": "2026-09-29T22:27:55.738023+00:00",
+  "last_update": "2026-09-30T02:59:57.098548+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
