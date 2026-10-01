@@ -580,25 +580,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "3989f221baa78673",
-      "source_name": "JORF - Sanctions",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Délibération n° HAB-2026-002 du 24 septembre 2026 habilitant des agents de la Commission nationale de l'informatique et des libertés à procéder à des missions de vérification",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054914386",
-      "author": "Commission nationale de l'informatique et des libertés",
-      "published": "2026-09-30T00:00:00",
-      "summary": "Après avoir entendu les observations de M. Damien Milic, commissaire du Gouvernement,Décide :\nLes agents de la Commission nationale de l'informatique et des libertés (CNIL) ci-après désignés sont habilités, à raison de leurs fonctions, à effectuer les visites et vérifications mentionnées à l'article 19 de la loi du 6 janvier 1978 :M. Belaïd Aït Hamouda, auditeur des systèmes d'information au service des contrôles - RH, santé et affaires publiques, à la direction des contrôles et des sanctions  ;",
-      "score": 100,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: audit | +25 Source FR | +20 Géo FR: cnil | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "L'article concerne la détection et la signalisation des fraudes aux paiements par les banques, relevant de la conformité anti-fraude et AML."
     },
     {
       "hash": "a242e3dcbc3a1150",
@@ -817,6 +799,24 @@
       "ai_summary": "Cet article concerne la gestion des risques tiers et la conformité réglementaire bancaire selon les directives de l'EBA."
     },
     {
+      "hash": "3989f221baa78673",
+      "source_name": "JORF - Sanctions",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Délibération n° HAB-2026-002 du 24 septembre 2026 habilitant des agents de la Commission nationale de l'informatique et des libertés à procéder à des missions de vérification",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054914386",
+      "author": "Commission nationale de l'informatique et des libertés",
+      "published": "2026-09-30T00:00:00",
+      "summary": "Après avoir entendu les observations de M. Damien Milic, commissaire du Gouvernement,Décide :\nLes agents de la Commission nationale de l'informatique et des libertés (CNIL) ci-après désignés sont habilités, à raison de leurs fonctions, à effectuer les visites et vérifications mentionnées à l'article 19 de la loi du 6 janvier 1978 :M. Belaïd Aït Hamouda, auditeur des systèmes d'information au service des contrôles - RH, santé et affaires publiques, à la direction des contrôles et des sanctions  ;",
+      "score": 84,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: audit | +25 Source FR | +20 Géo FR: cnil | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "576977225030d878",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -832,7 +832,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'OSMP surveille la sécurité des moyens de paiement, relevant de la conformité financière et de la prévention des risques."
     },
     {
       "hash": "49d1f69da9175fe4",
@@ -1282,6 +1282,24 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
+      "ai_summary": "Cet article concerne les crédits régionaux en France, relevant du suivi statistique et de la conformité réglementaire bancaire de la Banque de France."
+    },
+    {
+      "hash": "31d6189c16ab2e7a",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "A la une sous gouverneur - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZNXBNUjF2eHg1WUFYTUoyanFFekV5VXVVR2Q4RkctNV9hR2d1NVBIcmVxd2U3QTdWeGI1WTV4S3Z0SUZPT3Y5aUFiWlcxOVdtZHdKcE9sTEpGdlk3dmdvaEdtc3RnZw?oc=5",
+      "author": "",
+      "published": "2026-09-30T19:07:12",
+      "summary": "A la une sous gouverneur&nbsp;&nbsp;Banque de France",
+      "score": 75,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
       "ai_summary": null
     },
     {
@@ -1300,7 +1318,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c2570dd03a84a1a5",
@@ -1318,7 +1336,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les outils et ressources que la Banque de France met à disposition des dirigeants pour assurer la conformité réglementaire et financière."
     },
     {
       "hash": "49f7652a3a9639d9",
@@ -1336,7 +1354,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f84e997b0d08063f",
@@ -1354,7 +1372,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite du rôle des correspondants Banque de France auprès des petites entreprises, hors compliance financière."
     },
     {
       "hash": "0fd4905bdabcdc40",
@@ -1372,7 +1390,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la finance d'entreprise, domaine clé de la conformité réglementaire et du contrôle interne."
     },
     {
       "hash": "984c78ac6bff902b",
@@ -1390,7 +1408,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de la relation entre la Banque de France et les start-up, hors périmètre compliance classique."
     },
     {
       "hash": "7f4a4131aa3df5f6",
@@ -1408,7 +1426,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les organes consultatifs chargés d'accompagner l'évolution de la réglementation financière."
     },
     {
       "hash": "c1cb47b84a4365f9",
@@ -1420,6 +1438,24 @@
       "author": "",
       "published": "2026-09-30T17:36:50",
       "summary": "A la une toutes les actualités | Banque de France&nbsp;&nbsp;Banque de France",
+      "score": 75,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "710522ce9c17d3e7",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Monnaie Numérique de Banque Centrale (MNBC) Volet « wholesale » - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0Y1WWFzNU1EY3ZyeG92cG1uOXBReHg1TU82a2tZN3ZNcGsyWHY5YklEZURvZ3Jsd0x2NlgzM3lIYU05NUFJRm5PSHo5ZzFCWk9rdTUzLVVxVHlteGp4Yl8ySEZsQ3ppWnFNV09YbEJZRmFrM2dOM2NzamJvaWE3Wjh6UFBuTldCY1F6Q2hZMWhRNmJ5TnRsUDVZd3VCU3A5TGJLdU1n?oc=5",
+      "author": "",
+      "published": "2026-09-30T17:19:48",
+      "summary": "Monnaie Numérique de Banque Centrale (MNBC) Volet « wholesale »&nbsp;&nbsp;Banque de France",
       "score": 75,
       "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.5 (<24h)",
       "doc_type": null,
@@ -1444,7 +1480,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'un dispositif réglementaire de gestion du surendettement."
     },
     {
       "hash": "604662974a2284b8",
@@ -1462,7 +1498,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les critères ESG et la gestion des risques financiers liés aux investissements durables."
     },
     {
       "hash": "b8fa81b0236ded4f",
@@ -1480,7 +1516,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Le CCSF définit les règles de conformité bancaire et financière que les établissements doivent respecter."
     },
     {
       "hash": "1001b2d221ee444d",
@@ -1498,7 +1534,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des crédits et titres de dette, éléments clés de la régulation bancaire et de la surveillance prudentielle."
     },
     {
       "hash": "bcce7943507bd4e9",
@@ -1516,7 +1552,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'inclusion financière relève de la conformité en garantissant l'accès bancaire pour tous et en prévenant l'exclusion financière."
     },
     {
       "hash": "23a4c1f34a33b0bf",
@@ -1534,7 +1570,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "19dbdf03f76fb942",
@@ -1552,7 +1588,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de la gouvernance du CCSF, un aspect clé de la conformité financière et de la régulation bancaire en France."
     },
     {
       "hash": "cf5401abf5401110",
@@ -1570,7 +1606,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la lutte contre les violences économiques au sein des familles, un enjeu de conformité financière et de responsabilité bancaire."
     },
     {
       "hash": "c8b715d3a887aaaa",
@@ -1588,7 +1624,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'un avis du Comité consultatif de la législation et de la réglementation financières (CCLRF)."
     },
     {
       "hash": "b9109d830704c206",
@@ -1606,7 +1642,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c36551453f715f71",
@@ -1624,7 +1660,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article présente la direction des Achats de la Banque de France et ne traite pas de conformité financière."
     },
     {
       "hash": "bfd1575e851aead3",
@@ -1642,7 +1678,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la gouvernance et la consultation du secteur financier sous la supervision de l'autorité de régulation française."
     },
     {
       "hash": "14c7edbfe1e1d8de",
@@ -1660,7 +1696,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Le glossaire du CCSF de la Banque de France définit les termes clés de la conformité et régulation financière."
     },
     {
       "hash": "2d608ca2a7600e39",
@@ -1678,7 +1714,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e4a201cf65ab52b1",
@@ -1696,7 +1732,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "39f44f5aed7e1ce6",
@@ -1714,7 +1750,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car DiagFi BDF est un outil de diagnostic réglementaire de la Banque de France."
     },
     {
       "hash": "3e89f4c99167ecfe",
@@ -1732,7 +1768,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f73e24e6b96c9ac7",
@@ -1750,7 +1786,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des exigences réglementaires de continuité d'activité pour les établissements financiers."
     },
     {
       "hash": "d95fbfa005c7112d",
@@ -1768,7 +1804,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de la réglementation et du fonctionnement du marché des TCN, relevant de la conformité financière."
     },
     {
       "hash": "eddc55d60ea149bf",
@@ -1786,7 +1822,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6d4a18d2721ae492",
@@ -1804,7 +1840,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'épargne et l'investissement, domaines régulés par la Banque de France et l'ACPR."
     },
     {
       "hash": "f148260f621bb9d8",
@@ -1822,7 +1858,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b6a715b1375d93f3",
@@ -1840,7 +1876,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car une politique d'achats encadre les risques de fraude et de blanchiment dans les transactions commerciales."
     },
     {
       "hash": "d7d5adc5c3879713",
@@ -2149,22 +2185,22 @@
       "ai_summary": "Cet article traite de l'application de la loi FCPA, régulant la corruption dans les affaires internationales, donc relève de la conformité financière."
     },
     {
-      "hash": "d3edea90df622f28",
-      "source_name": "JORF - Financier",
+      "hash": "cf823544bb7e9cac",
+      "source_name": "JORF - Sanctions",
       "source_type": "rss",
       "category": "autorite_fr",
-      "title": "Conférence des présidents",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054914399",
-      "author": "",
-      "published": "2026-09-30T00:00:00",
-      "summary": "Assemblée nationaleOrdre du jour de l'Assemblée nationale(Conférence des présidents du mardi 29 septembre 2026)DATESMATINAPRÈS-MIDISOIRSemaine \n      \n    de l'AssembléeOCTOBREJEUDI 1erA 9 heures :- Ouverture de la session ordinaire.- Nomination du Bureau.A 15 heures :- Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants (3106, 3190 rect.). (1)- Pn org. adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales (3107, 3191). (",
+      "title": "Déclaration « Défendre la Justice dans un Etat de droit »",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054930933",
+      "author": "Commission nationale consultative des droits de l'homme",
+      "published": "2026-10-01T00:00:00",
+      "summary": "(Assemblée plénière du 24 septembre 2026, adoption à l'unanimité)1. L'institution judiciaire fait l'objet de manière croissante, ces dernières années, de critiques virulentes tant de la part du personnel politique que de certains médias : les magistrats ne seraient pas indépendants ; les magistrats seraient partiaux car politisés et syndiqués ; les magistrats seraient irresponsables, ne seraient jamais sanctionnés, et bénéficieraient d'une impunité ; le budget de la justice aurait fortement augm",
       "score": 67,
-      "score_breakdown": "+10 mots forts: esma | +25 Source FR | +10 Géo EU: esma | ×1.5 (<24h)",
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "bd93873d898b0a85",
@@ -2560,7 +2596,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "2bc09b4a3020965f",
@@ -2578,7 +2614,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3601fb0ff7eefd76",
@@ -2596,7 +2632,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la trajectoire budgétaire et du déficit, enjeux de stabilité financière."
     },
     {
       "hash": "665b368314998713",
@@ -2923,6 +2959,42 @@
       "ai_summary": "Cet article concerne les exigences de conformité financière et anti-fraude imposées aux entreprises britanniques par les autorités."
     },
     {
+      "hash": "d3edea90df622f28",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Conférence des présidents",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054914399",
+      "author": "",
+      "published": "2026-09-30T00:00:00",
+      "summary": "Assemblée nationaleOrdre du jour de l'Assemblée nationale(Conférence des présidents du mardi 29 septembre 2026)DATESMATINAPRÈS-MIDISOIRSemaine \n      \n    de l'AssembléeOCTOBREJEUDI 1erA 9 heures :- Ouverture de la session ordinaire.- Nomination du Bureau.A 15 heures :- Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants (3106, 3190 rect.). (1)- Pn org. adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales (3107, 3191). (",
+      "score": 54,
+      "score_breakdown": "+10 mots forts: esma | +25 Source FR | +10 Géo EU: esma | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "b4507135cdbf75ce",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de NANTES, Juge unique, 29 septembre 2026, 26NT02379",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDENANTES-20260929-26NT02379",
+      "author": "Juge unique",
+      "published": "2026-09-29T12:00:00",
+      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           M. B... A... a demandé au tribunal administratif de Nantes d'annuler la décision du 6 juin 2025 par laquelle la directrice de l'établissement public Envol Loire-Atlantique a prononcé à son encontre une sanction de révocation.           Par un jugement n° 2513343 du 10 juillet 2026, le tribunal administratif de Nantes a annulé cette décision et a mis à la charge de l'établissement public Envol Loire-Atlantique le v",
+      "score": 54,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "7bd8ed0d5a5d6d92",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3136,7 +3208,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "90bc34a89c88fe95",
@@ -3352,7 +3424,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4223be7a7109636e",
@@ -3371,24 +3443,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la supervision bancaire, de l'appétit au risque et de l'efficacité réglementaire, éléments clés de la conformité financière."
-    },
-    {
-      "hash": "56d38445d305baef",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, 4ème chambre jugeant seule, 25 septembre 2026, 516457",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260925-516457",
-      "author": "4ème chambre jugeant seule",
-      "published": "2026-09-25T12:00:00",
-      "summary": "Vu la procédure suivante :    M. R... X... a porté plainte contre Mme D... I... devant la chambre disciplinaire de première instance d’Auvergne-Rhône-Alpes de l’ordre des médecins. Par une décision du 6 novembre 2023, la chambre disciplinaire de première instance a infligé à Mme I... la sanction de l’interdiction d’exercer la médecine pendant six mois dont trois mois assortis du sursis.     Par une décision du 7 mai 2026, la chambre disciplinaire nationale de l’ordre des médecins a, sur appel de",
-      "score": 45,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +20 Géo FR: france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e0227d547f3de6da",
@@ -3424,7 +3478,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la gestion des risques liés à l'IA en entreprise et l'importance de l'engagement éthique des collaborateurs pour assurer la conformité organisationnelle."
+      "ai_summary": "Cet article traite de la gouvernance de l'IA et de la vigilance des employés face aux risques, relevant de la conformité organisationnelle et de la gestion des risques."
     },
     {
       "hash": "24e8d65b8b742f98",
@@ -3838,7 +3892,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1dd35a83487035d3",
@@ -3856,7 +3910,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de la régulation des frais d'investissement et de l'épargne, relevant de la conformité financière."
     },
     {
       "hash": "6331332cd27b2064",
@@ -3870,6 +3924,24 @@
       "summary": "L’Importance d’être constant : bâtir un marché bancaire européen plus simple et plus compétitif&nbsp;&nbsp;Banque de France",
       "score": 40,
       "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la régulation et la simplification du marché bancaire européen, relevant de la conformité financière et prudentielle."
+    },
+    {
+      "hash": "afcb9a217ac401c2",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Fraud Section shake-up an “opportunity” to rebuild, DOJ official says",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/fraud-section-shake-opportunity-rebuild-doj-official-says",
+      "author": "Gaspard Le Dem",
+      "published": "2026-09-30T20:40:20",
+      "summary": "At a GIR event in Manhattan, Criminal Division chief Tysen Duva acknowledged the storied Fraud Section has experienced uncertainty and lost talented prosecutors, but was bullish on its prospects: \"We are going to be vigorously attacking this\".",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
@@ -4849,24 +4921,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'application des sanctions commerciales britanniques et de leur surveillance."
     },
     {
-      "hash": "f03baa24813232bb",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Facturation électronique : la réforme entre en vigueur mardi, sans sanction immédiate pour les retardataires",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/01/la-reforme-de-la-facture-electronique-entre-en-vigueur-mardi-sans-sanction-immediate-pour-les-retardataires_6762987_3234.html",
-      "author": "",
-      "published": "2026-08-31T23:30:55",
-      "summary": "Promesse de simplification pour les entreprises et nouvel outil de lutte contre la fraude à la TVA pour l’Etat, qui espère un gain de 3 milliards d’euros par an, la réforme concerne 4 millions d’entreprises.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: sanction, fraude, fraud | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La facturation électronique obligatoire renforce la conformité fiscale et la lutte contre la fraude TVA."
-    },
-    {
       "hash": "ea50dd1ef25e90b6",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -4954,7 +5008,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de la conformité financière car la Banque de France analyse les risques économiques affectant le secteur financier français."
     },
     {
       "hash": "65abc4b9510bfd27",
@@ -4972,7 +5026,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "25fa57f3af9a6359",
@@ -5116,7 +5170,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "875f1ce26f3aff05",
@@ -5134,7 +5188,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5392e4e38dcdac03",
@@ -5692,7 +5746,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il relate une amende de 403 millions d'euros imposée par la CNIL pour violation des règles de protection des données."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "678109b913c50cbf",
@@ -5854,7 +5908,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "27bfbbd5a8010999",
@@ -5890,7 +5944,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "efc65cb2578d6206",
@@ -6304,7 +6358,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il évoque les violations potentielles des sanctions OFAC et les obligations de conformité des entreprises face aux liens avec la Russie."
     },
     {
       "hash": "115742411018ccd2",
@@ -6682,7 +6736,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3b1b115c614bd5f6",
@@ -6736,7 +6790,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "615c819c41d6859b",
@@ -6862,10 +6916,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-09-30T22:26:47.269041+00:00",
+  "last_update": "2026-10-01T03:06:03.196287+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
