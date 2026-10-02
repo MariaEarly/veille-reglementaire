@@ -688,7 +688,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'AMLA finalise des normes de lutte contre le blanchiment de capitaux et le financement du terrorisme."
+      "ai_summary": null
     },
     {
       "hash": "101daf3a0a2af911",
@@ -886,7 +886,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'AMF impose aux plateformes de financement participatif des pratiques renforcées pour protéger les investisseurs, relevant de la conformité réglementaire."
+      "ai_summary": null
     },
     {
       "hash": "772c8522842de932",
@@ -1177,24 +1177,6 @@
       "ai_summary": "La cybersécurité est un élément clé de la conformité financière car elle protège l'intégrité des données et la stabilité du système financier."
     },
     {
-      "hash": "2db110259b36a846",
-      "source_name": "AMF - Actualités",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Guide RDT sur les modalités de déclaration des transactions via le système de reporting direct des transactions",
-      "url": "https://www.amf-france.org/fr/actualites-publications/publications/guides/guides-professionnels/guide-rdt-sur-les-modalites-de-declaration-des-transactions-le-systeme-de-reporting-direct-des#xts=607212&xtor=RSS-3&type=RSS",
-      "author": "",
-      "published": "2026-09-02T15:22:32",
-      "summary": "Guide professionnel                  Obligation d&#039;information              Fonctionnement de l&#039;AMF                    Guide RDT sur les modalités de déclaration des transactions via le système de reporting direct des transactions",
-      "score": 82,
-      "score_breakdown": "+10 mots forts: amf | +25 Source FR | +20 Géo FR: amf | ×1.5 (<24h)",
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il explique les obligations de déclaration des transactions auprès de l'AMF."
-    },
-    {
       "hash": "2782b51258a51730",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -1390,7 +1372,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La Banque de France ajuste ses opérations de politique monétaire en cessant la mobilisation de certains prêts, impactant la conformité réglementaire bancaire."
+      "ai_summary": null
     },
     {
       "hash": "58326bd4085b8c0b",
@@ -1589,24 +1571,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite d'un dispositif réglementaire de gestion du surendettement."
-    },
-    {
-      "hash": "26ec3710dc798af8",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "PONTES - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUm85U3AySFJLYW1LUk1ORjhBWUpTVFZvSXllcEVCR0p5VTBtRS1qc2VEN0ZZdTVpaUdKUlk3Y1MwSXQzVGR5eW1UVUUtMmNWbU8ybGlqcHpGSXRFRHJRd1JERlNlbTloN3dHZk00UWxSS1plWllvT1RqNVptSkdNQ2VaRTZXSTlyNzdoTXNuRDJ6OEZOYlhqTm5TOHJWeDAxSlU3Qg?oc=5",
-      "author": "",
-      "published": "2026-09-30T17:18:49",
-      "summary": "PONTES&nbsp;&nbsp;Banque de France",
-      "score": 75,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "604662974a2284b8",
@@ -2221,6 +2185,24 @@
       "ai_summary": "Cet article traite de l'application de la loi FCPA, régulant la corruption dans les affaires internationales, donc relève de la conformité financière."
     },
     {
+      "hash": "4377e53a15725ac0",
+      "source_name": "CNIL",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Violations de données personnelles : dans quels cas peut-on être indemnisé ?",
+      "url": "https://www.cnil.fr/fr/violations-de-donnees-personnelles-cas-indemnite",
+      "author": "CNIL",
+      "published": "2026-10-02T12:00:00",
+      "summary": "Une fuite ou un vol de données peut causer un préjudice pour les personnes concernées. Si l’incident résulte d’un manquement au RGPD, elles peuvent, sous certaines conditions, demander une indemnisation. C’est au juge, et non à la CNIL, de l’accorder.",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: cnil | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "bd93873d898b0a85",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -2255,6 +2237,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Ce rapport concerne la conformité financière car il traite du blanchiment et du financement du terrorisme, risques majeurs de la conformité."
+    },
+    {
+      "hash": "c3bb3dd6beaad305",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "AMLA invites stakeholders to sectoral roundtables on simplified customer due diligence",
+      "url": "https://www.amla.europa.eu/amla-invites-stakeholders-sectoral-roundtables-simplified-customer-due-diligence_en",
+      "author": "",
+      "published": "2026-10-02T13:53:31",
+      "summary": "AMLA is inviting obliged entity representatives, trade associations and other representative bodies from the financial and non-financial sectors to express their interest in participating in sectoral roundtables on the application of simplified customer due diligence.",
+      "score": 67,
+      "score_breakdown": "+20 mots forts: aml, due diligence, amla | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "c4863176ab56b92d",
@@ -2599,24 +2599,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du régime de sanctions britannique et de son application par les autorités compétentes."
     },
     {
-      "hash": "d0ac33e1519b82d2",
-      "source_name": "Money Laundering News",
-      "source_type": "press",
-      "category": "presse",
-      "title": "FinCEN Asks Banks to Step Up Efforts at Detecting Student Aid Fraud",
-      "url": "https://www.moneylaunderingnews.com/2026/09/fincen-asks-banks-to-step-up-efforts-at-detecting-student-aid-fraud/",
-      "author": "Kelly M. McGlynn",
-      "published": "2026-09-02T14:00:07",
-      "summary": "\n\t\t\tIn an alert issued this July, FinCEN urged banks and other financial institutions to increase their focus on detecting, preventing, and reporting fraud schemes targeting federal student aid (&ldquo;FSA&rdquo;) programs. The alert provides specific red flags for identifying suspicious activity&mdash;and signals that regulators expect proactive compliance efforts.\nThe United States Department of Education (&ldquo;ED&rdquo;) has launched a national effort to prevent student aid fraud, and estim",
-      "score": 61,
-      "score_breakdown": "+20 mots critiques: fraud | +10 mots forts: compliance | +5 mots moyens: bank | +3 Presse | +3 Géo Intl: united states, fincen | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "FinCEN demande aux banques de renforcer la détection de fraudes aux aides étudiantes fédérales, relevant de la conformité financière."
-    },
-    {
       "hash": "20636220840aede5",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -2650,7 +2632,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "18e279ed0d015521",
@@ -2668,7 +2650,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il mentionne un agent de la Banque de France, régulateur du secteur financier et organisme de conformité."
+      "ai_summary": null
     },
     {
       "hash": "7929c20c71c71229",
@@ -2686,7 +2668,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "01342ba26cfab1df",
@@ -2705,24 +2687,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": null
-    },
-    {
-      "hash": "c1cb47b84a4365f9",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "A la une toutes les actualités | Banque de France - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WUUZNYjRGajhzQXBYNVFpOXJoV3VDUkdfUW5NOHh6Qm54TUxiV1JVWlB2ell0R0ZwMnZZVk4tUmpNejFsLWc5bDFwQUN3VVRTYm8yUXBxM3ZxNWF6WDdrcTVJZE5ya2hIX19fMkZJb3Y?oc=5",
-      "author": "",
-      "published": "2026-09-30T17:36:50",
-      "summary": "A la une toutes les actualités | Banque de France&nbsp;&nbsp;Banque de France",
-      "score": 60,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "3601fb0ff7eefd76",
@@ -3118,7 +3082,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b4507135cdbf75ce",
@@ -3136,7 +3100,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction disciplinaire prononcée par une institution publique, relevant du contrôle de légalité administrative."
+      "ai_summary": null
     },
     {
       "hash": "7bd8ed0d5a5d6d92",
@@ -3173,6 +3137,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il guide les dépositaires sur leurs obligations réglementaires concernant les OPCVM et FIA."
+    },
+    {
+      "hash": "44fe4c82580e401b",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 2 October, 2026",
+      "url": "https://www.eba.europa.eu/node/20066",
+      "author": "Anonymous",
+      "published": "2026-10-02T15:00:02",
+      "summary": "EBA E-mail alert 2 October, 2026\n\n  \n    Date\n          02/10/2026\n\n      \n\nAnonymous (not verified)\n\nFri, 10/02/2026 - 17:00\n\n\n            \n\n      \n  \n    Final Q&amp;As\n          2026_7779 Scope of Article 6 lit. c RTS  \n      ",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: eba | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "dfaa6331f121e64f",
@@ -3391,6 +3373,24 @@
       "ai_summary": null
     },
     {
+      "hash": "00f76241ceae52dc",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "France, un vrai potentiel de minage de Bitcoin",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/video-france-un-vrai-potentiel-de-minage-de-bitcoin_VN-202610020665.html",
+      "author": "",
+      "published": "2026-10-02T15:00:00",
+      "summary": "Vendredi 2 octobre, l'inexploitation du potentiel français dans le secteur du minage, la plainte déposée aux États-Unis concernant la vente d'Exaion, et la taxation des échanges de cryptos et de stablecoins ont été abordés par Sébastien Gouspillou, co fondateur de Big Block Group, Enzo Hallot, fondateur de Crypto-Patrimoine, et Marc-Antoine Caen Poletti, journaliste chez Cryptoast, reçus par Sandra Gandoin dans l'émission BFM Crypto, le Club sur BFM Business. Retrouvez l'émission du lundi au jeu",
+      "score": 49,
+      "score_breakdown": "+10 mots forts: crypto | +3 Presse | +20 Géo FR: france, français | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "90bc34a89c88fe95",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3515,42 +3515,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les pénalités contre Banque Misr illustrent les risques de non-conformité aux sanctions et la nécessité de vérifier les liens clients."
-    },
-    {
-      "hash": "bccfdd728444cac1",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "OFSI fines Citibank London £4.7m over serious sanctions violations&nbsp;",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/ofsi-fines-citibank-london-ps47m-over-serious-sanctions-violations",
-      "author": "Ana de Liz",
-      "published": "2026-09-02T14:15:49",
-      "summary": "The agency said financial institutions in particular should study the enforcement action, and that some of the systems and controls issues identified at the bank were “reasonably foreseeable” because of the unit’s significant exposure to Russian sanctions risks.",
-      "score": 49,
-      "score_breakdown": "+20 mots critiques: sanction | +10 mots moyens: risk, bank | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions et des défaillances de contrôles internes chez une banque."
-    },
-    {
-      "hash": "f0de859d09a310b0",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, 3ème et 8ème chambres réunies, 29 septembre 2026, 495977",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260929-495977",
-      "author": "3ème et 8ème chambres réunies",
-      "published": "2026-09-29T12:00:00",
-      "summary": "36-02-04 FONCTIONNAIRES ET AGENTS PUBLICS. - CADRES ET EMPLOIS. - CUMULS D`EMPLOIS. - INTERDICTION DE CRÉER OU REPRENDRE UNE ENTREPRISE OU... Vu la procédure suivante :    M. E... G... a demandé au tribunal administratif de Montreuil, à titre principal, d’annuler l’arrêté du 3 juin 2020 par lequel le maire des Pavillons-sous-Bois a prononcé à son encontre la sanction de révocation et, à titre subsidiaire, d’annuler cet arrêté en ce qu’il prend effet à compter de sa notification sans tenir compte",
-      "score": 48,
-      "score_breakdown": "+20 mots critiques: sanction | +20 Géo FR: france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bde2f0b258f487e1",
@@ -3694,7 +3658,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la gouvernance de l'IA et du rôle des employés dans la gestion des risques, ce qui relève de la conformité organisationnelle et éthique en matière d'IA."
+      "ai_summary": null
     },
     {
       "hash": "24e8d65b8b742f98",
@@ -4126,7 +4090,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la finance durable et de la responsabilité environnementale, enjeux majeurs de la régulation financière."
+      "ai_summary": null
     },
     {
       "hash": "bb16b49babd00620",
@@ -4217,6 +4181,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la régulation et la simplification du marché bancaire européen, relevant de la conformité financière et prudentielle."
+    },
+    {
+      "hash": "f0de859d09a310b0",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, 3ème et 8ème chambres réunies, 29 septembre 2026, 495977",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20260929-495977",
+      "author": "3ème et 8ème chambres réunies",
+      "published": "2026-09-29T12:00:00",
+      "summary": "36-02-04 FONCTIONNAIRES ET AGENTS PUBLICS. - CADRES ET EMPLOIS. - CUMULS D`EMPLOIS. - INTERDICTION DE CRÉER OU REPRENDRE UNE ENTREPRISE OU... Vu la procédure suivante :    M. E... G... a demandé au tribunal administratif de Montreuil, à titre principal, d’annuler l’arrêté du 3 juin 2020 par lequel le maire des Pavillons-sous-Bois a prononcé à son encontre la sanction de révocation et, à titre subsidiaire, d’annuler cet arrêté en ce qu’il prend effet à compter de sa notification sans tenir compte",
+      "score": 40,
+      "score_breakdown": "+20 mots critiques: sanction | +20 Géo FR: france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "c079ce5eb65719c3",
@@ -4435,24 +4417,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des violations de sanctions imposées à l'Iran par Huawei et des accusations de fraude."
     },
     {
-      "hash": "861d7dca7a4b6f03",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "SFO, Dechert settle ENRC lawsuit",
-      "url": "https://globalinvestigationsreview.com/article/sfo-dechert-settle-enrc-lawsuit",
-      "author": "Malavika Devaya",
-      "published": "2026-09-02T15:06:58",
-      "summary": "A transparency campaigner has raised concerns about the propriety of a government agency entering into a confidential settlement, following the Serious Fraud Office’s announcement that it has resolved a $168 million lawsuit over a botched investigation.",
-      "score": 39,
-      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: sfo | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le SFO règle un procès pour 168 millions de dollars relatif à une enquête bâclée, soulevant des questions de conformité et de gouvernance."
-    },
-    {
       "hash": "40410314cbfc0685",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -4468,7 +4432,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il présente les résultats de contrôles de l'AMF sur les prestataires de financement participatif, garantissant leur respect des obligations réglementaires."
+      "ai_summary": null
     },
     {
       "hash": "5879861735b3ce5c",
@@ -5227,42 +5191,6 @@
       "ai_summary": "Reggy lance une plateforme logicielle de conformité réglementaire destinée à aider les entreprises à gérer leurs obligations légales."
     },
     {
-      "hash": "ae0866614b63403a",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "\"Nous allons intensifier la pression contre la Russie\": Bruxelles se prépare à de nouvelles sanctions contre Moscou après la tentative d'attaque au drone à l’aéroport de Leipzig",
-      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/nous-allons-intensifier-la-pression-contre-la-russie-bruxelles-se-prepare-a-de-nouvelles-sanctions-contre-moscou-apres-la-tentative-d-attaque-au-drone-a-l-aeroport-de-leipzig_AV-202609020628.html",
-      "author": "",
-      "published": "2026-09-02T14:43:10",
-      "summary": "Les principaux dirigeants européens évoquent de nouvelles sanctions contre la Russie après que la tentative d'attaque au drone contre l'aéroport de Leipzig a été officiellement attribuée à des agents russes par le gouvernement allemand.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les sanctions contre la Russie relèvent de la conformité financière car elles imposent des restrictions commerciales et des gels d'actifs."
-    },
-    {
-      "hash": "9f1f7529835a35fc",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "UK trade sanctions enforcer receives nearly 200 tips in 2025-26 financial year",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/uk-trade-sanctions-enforcer-receives-nearly-200-tips-in-2025-26-financial-year",
-      "author": "Ana de Liz",
-      "published": "2026-09-02T11:38:08",
-      "summary": "",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'application des sanctions commerciales britanniques et de leur surveillance."
-    },
-    {
       "hash": "ec4457f88564ff77",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -5404,7 +5332,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0256b2b467c6318a",
@@ -5441,24 +5369,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Homologation des règlements comptables de l'ANC assurant la conformité des normes et standards financiers français."
-    },
-    {
-      "hash": "1f2a94905babd971",
-      "source_name": "Cass. - Blanchiment",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour Administrative d'Appel de Nancy, 1ère chambre - formation à 3, 29 septembre 2026, 24NC02167",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDENANCY-20260929-24NC02167",
-      "author": "1ère chambre - formation à 3",
-      "published": "2026-09-29T12:00:00",
-      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           M. A... B... a demandé au tribunal administratif de Strasbourg d'annuler la décision du 15 novembre 2022 par laquelle le préfet du Haut-Rhin a refusé de renouveler son autorisation provisoire de séjour, ainsi que la décision implicite rejetant son recours gracieux et d'enjoindre au préfet du Haut-Rhin de l'admettre au séjour ou, à défaut, de procéder à un nouvel examen de sa situation et de lui délivrer dans l'att",
-      "score": 30,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5e7470677e969a9d",
@@ -5584,7 +5494,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "875f1ce26f3aff05",
@@ -5857,6 +5767,24 @@
       "ai_summary": "Cet article concerne les recours judiciaires contre les listes noires du Pentagone, révélant des failles en conformité réglementaire."
     },
     {
+      "hash": "1f2a94905babd971",
+      "source_name": "Cass. - Blanchiment",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour Administrative d'Appel de Nancy, 1ère chambre - formation à 3, 29 septembre 2026, 24NC02167",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDENANCY-20260929-24NC02167",
+      "author": "1ère chambre - formation à 3",
+      "published": "2026-09-29T12:00:00",
+      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           M. A... B... a demandé au tribunal administratif de Strasbourg d'annuler la décision du 15 novembre 2022 par laquelle le préfet du Haut-Rhin a refusé de renouveler son autorisation provisoire de séjour, ainsi que la décision implicite rejetant son recours gracieux et d'enjoindre au préfet du Haut-Rhin de l'admettre au séjour ou, à défaut, de procéder à un nouvel examen de sa situation et de lui délivrer dans l'att",
+      "score": 25,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a3133b7983d21832",
       "source_name": "EDPB - European Data Protection Board",
       "source_type": "rss",
@@ -5909,24 +5837,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": null
-    },
-    {
-      "hash": "557267eeb0e10854",
-      "source_name": "Cass. - Bancaire",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Tribunal judiciaire de Paris, 9ème chambre 1ère section, 21 septembre 2026, 23/02533",
-      "url": "http://juricaf.org/arret/FRANCE-TRIBUNALJUDICIAIREDEPARIS-20260921-2302533",
-      "author": "9ème chambre 1ère section",
-      "published": "2026-09-21T12:00:00",
-      "summary": "TRIBUNAL  JUDICIAIRE  DE Localité 1 1  1  Expéditions  délivrées le:  à Me DELMAS Me FOUQUIER   ■  9ème chambre 1ère section N° RG 23/02533 - N° Portalis 352J-W-B7H-CY7MQ N° MINUTE :      Assignation du : 07 Février 2023             JUGEMENT  rendu le 21 Septembre 2026  DEMANDERESSE  Madame X N U Adresse 1 Localité 2 représentée par Maître Isabelle DELMAS, avocat au barreau de PARIS, avocat postulant, vestiaire #A0456 et Maître Katia DEBAY, avocat au barreau de VERSAILLES, avocat plaidant      D",
-      "score": 24,
-      "score_breakdown": "+10 mots forts: eba | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2b38cd7c32090262",
@@ -6232,7 +6142,25 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cette amende pour traitement illégal de données de localisation relève de la conformité réglementaire en matière de protection des données personnelles."
+      "ai_summary": null
+    },
+    {
+      "hash": "1112dd804f388430",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Shell-Eni prosecutors didn’t breach legal duties",
+      "url": "https://globalinvestigationsreview.com/article/shell-eni-prosecutors-didnt-breach-legal-duties",
+      "author": "Malavika Devaya",
+      "published": "2026-10-02T11:25:18",
+      "summary": "Italy’s Court of Cassation has ruled that two former Milan prosecutors leading the Shell-Eni bribery case did not violate any legal obligations when they decided against sharing potentially exculpatory evidence during the 2021 prosecution of the oil and gas companies.",
+      "score": 19,
+      "score_breakdown": "+3 Presse | +10 Géo EU: italy | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "678109b913c50cbf",
@@ -6505,6 +6433,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il aborde les outils macroprudentiels et la stabilité financière dans la politique monétaire suisse."
     },
     {
+      "hash": "b37fe46af8933741",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "We’re hosting our next media seminar on 18-19 November. Join us to discuss key banking supervision topics and meet members of the ECB’s Supervisory Board. If you work for the media and wish to attend, please fill out the call for interest form by 16 October",
+      "url": "https://x.com/ecb/status/2106028935318553049",
+      "author": "@ecb",
+      "published": "2026-10-02T14:30:00",
+      "summary": "We’re hosting our next media seminar on 18-19 November. Join us to discuss key banking supervision topics and meet members of the ECB’s Supervisory Board.If you work for the media and wish to attend, please fill out the call for interest form by 16 October  bankingsupervision.europa.eu…— European Central Bank (@ecb) Oct 2, 2026",
+      "score": 15,
+      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
+      "doc_type": "CONSULTATION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "9ce5bc5aaccd2c2e",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -6667,42 +6613,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'indépendance et de la transparence des superviseurs bancaires."
     },
     {
-      "hash": "9dda905154eb54ea",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "Further reforms are needed to future-proof the European banking sector, says Supervisory Board Chair Claudia Buch at the Bruegel Annual Meetings. Deeper market integration is key to boosting both growth and resilience",
-      "url": "https://x.com/ecb/status/2095147412989923768",
-      "author": "@ecb",
-      "published": "2026-09-02T13:50:00",
-      "summary": "Further reforms are needed to future-proof the European banking sector, says Supervisory Board Chair Claudia Buch at the Bruegel Annual Meetings. Deeper market integration is key to boosting both growth and resilience  bankingsupervision.europa.eu…— European Central Bank (@ecb) Sep 2, 2026",
-      "score": 15,
-      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des réformes de supervision bancaire européenne et de la résilience du secteur."
-    },
-    {
-      "hash": "655ccb2f9b86e100",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "Coming up at 15:30 CET: Supervisory Board Chair Claudia Buch joins a panel discussion on “Future-proofing European banking” at the Bruegel Annual Meetings. Follow live …",
-      "url": "https://x.com/ecb/status/2095138546650657185",
-      "author": "@ecb",
-      "published": "2026-09-02T13:15:00",
-      "summary": "Coming up at 15:30 CET: Supervisory Board Chair Claudia Buch joins a panel discussion on “Future-proofing European banking” at the Bruegel Annual Meetings.Follow live  vimeo.com/1216354951?fl=pl&amp;f…— European Central Bank (@ecb) Sep 2, 2026",
-      "score": 15,
-      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde la supervision bancaire européenne et les enjeux de régulation future du secteur bancaire."
-    },
-    {
       "hash": "a013bf1a12805b3f",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -6827,6 +6737,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne l'amélioration de la supervision bancaire européenne pour renforcer la compétitivité et le financement de l'économie."
+    },
+    {
+      "hash": "7d0713ab13a3c86d",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Australian engineering group agrees foreign bribery settlement",
+      "url": "https://globalinvestigationsreview.com/article/australian-engineering-group-agrees-foreign-bribery-settlement",
+      "author": "Grace Propheta",
+      "published": "2026-10-02T11:42:14",
+      "summary": "SMEC agreed to pay a fine, contribute to the costs of the investigation and donate to an anti-corruption charity to resolve a thirteen-year-long investigation into alleged bribery in Asia.",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: australia | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "e091a775e546315d",
@@ -7258,7 +7186,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "23f14e4e3ba5f10d",
@@ -7397,15 +7325,15 @@
       "published": "2026-09-29T09:02:30",
       "summary": "",
       "score": 3,
-      "score_breakdown": "+3 Presse | ×1.2 (<3d)",
+      "score_breakdown": "+3 Presse | ×1.0 (7d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     }
   ],
-  "last_update": "2026-10-02T12:56:37.054613+00:00",
+  "last_update": "2026-10-02T17:04:02.099416+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
