@@ -1354,7 +1354,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La Banque de France ajuste ses opérations de politique monétaire en cessant la mobilisation de certains prêts, affectant la conformité réglementaire des établissements financiers."
+      "ai_summary": "La Banque de France ajuste sa politique monétaire en cessant la mobilisation de certains prêts, impactant la conformité réglementaire des opérations bancaires."
     },
     {
       "hash": "58326bd4085b8c0b",
@@ -2182,7 +2182,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des risques de responsabilité civile liés aux violations de données personnelles et leurs indemnisations."
+      "ai_summary": "Les violations de données relèvent de la conformité réglementaire car elles impliquent le respect du RGPD et la gestion des risques légaux."
     },
     {
       "hash": "bd93873d898b0a85",
@@ -2491,24 +2491,6 @@
       "ai_summary": "McKinsey fait face à une enquête pour fraude fiscale aggravée et blanchiment, avec saisie de 65 millions d'euros par la justice."
     },
     {
-      "hash": "6e0724ebd06d8d2b",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Affaire McKinsey : le Parquet national financier annonce une saisie de 65 millions d’euros dans l’enquête pour fraude fiscale",
-      "url": "https://www.lemonde.fr/societe/article/2026/09/04/affaire-mckinsey-le-parquet-national-financier-annonce-une-saisie-de-65-millions-d-euros-dans-l-enquete-pour-fraude-fiscale_6765827_3224.html",
-      "author": "",
-      "published": "2026-09-04T16:01:17",
-      "summary": "Saisie dans le cadre de l’enquête pour blanchiment aggravé de fraude fiscale autour du géant du conseil McKinsey, cette somme correspond « à 96 % du préjudice fiscal » selon l’évaluation du PNF.",
-      "score": 64,
-      "score_breakdown": "+20 mots critiques: blanchiment, fraude, fraud | +3 Presse | +20 Géo FR: parquet national financier, pnf | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une enquête pour fraude fiscale et blanchiment, domaines clés de la conformité."
-    },
-    {
       "hash": "7ce0e0729ee4c2de",
       "source_name": "Corporate Compliance Insights",
       "source_type": "press",
@@ -2581,22 +2563,40 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du régime de sanctions britannique et de son application par les autorités compétentes."
     },
     {
-      "hash": "18e279ed0d015521",
+      "hash": "45fc890e996daf7a",
       "source_name": "ACPR",
       "source_type": "rss",
       "category": "autorite_fr",
-      "title": "Aurélien Espic - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rVVo3U3Ryek9Mam5wMElwSEQ5YVJQVDNwbDRGTE00QWphZkxQSUpmaUEyRVprTzZwLWRTYmV0NnAzbnRtZGQ1eHBvanc4b3BuZFZ3S2V5TkdvRk0?oc=5",
+      "title": "Découvrir la banque de france - acpr.banque-france.fr",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9seTF1cHhOZm9DV2FyVXplOGJQOHFUZmZYOUdLTE9iTlBGMHVVYmZ4SFFVYmFfYmFXUlJvODB6NExsdGh0eWV0ek16bHVKOUhVV09RUVJVN2hkNV84ODhpRjZMZnc1c1cyYmtTZThXaDhXczJzT3c?oc=5",
       "author": "",
-      "published": "2026-09-30T20:52:17",
-      "summary": "Aurélien Espic&nbsp;&nbsp;Banque de France",
+      "published": "2026-10-01T01:14:14",
+      "summary": "Découvrir la banque de france&nbsp;&nbsp;acpr.banque-france.fr",
       "score": 60,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
+      "score_breakdown": "+10 mots forts: acpr | +5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, acpr, banque de france | ×1.0 (7d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "6b0205a0d52ba9c1",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Publications - acpr.banque-france.fr",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV0FIc2EzRkE0RXpaRlVXbzdKVnpmSGtVLWdQaWhaOEE3bkF2VklQOGdUdjlVa3pnZkhXbldmLXpWMUlIbENGVkpmTVlvN3pDZzE1VDFTRVR3bThTbThaNlo3NEdQT0wtY3pGdFhpQm1SNnFqSmg4TlBoTGlqcjVJUTA4NjdJZGV3ZEI2blRrQTh0NjltQkpzQTBLRkQyM0l0bmVZ?oc=5",
+      "author": "",
+      "published": "2026-09-30T20:48:41",
+      "summary": "Publications&nbsp;&nbsp;acpr.banque-france.fr",
+      "score": 60,
+      "score_breakdown": "+10 mots forts: acpr | +5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, acpr | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "01342ba26cfab1df",
@@ -3229,42 +3229,6 @@
       "ai_summary": "L'EBA consulte sur des normes révisées pour les exigences de capital et liquidités, renforçant la conformité réglementaire bancaire."
     },
     {
-      "hash": "3ae0fc427a61a2cf",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Découvrir la banque de france - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9seTF1cHhOZm9DV2FyVXplOGJQOHFUZmZYOUdLTE9iTlBGMHVVYmZ4SFFVYmFfYmFXUlJvODB6NExsdGh0eWV0ek16bHVKOUhVV09RUVJVN2hkNV84ODhpRjZMZnc1c1cyYmtTZThXaDhXczJzT3c?oc=5",
-      "author": "",
-      "published": "2026-10-01T01:14:14",
-      "summary": "Découvrir la banque de france&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "7929c20c71c71229",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Publications - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV0FIc2EzRkE0RXpaRlVXbzdKVnpmSGtVLWdQaWhaOEE3bkF2VklQOGdUdjlVa3pnZkhXbldmLXpWMUlIbENGVkpmTVlvN3pDZzE1VDFTRVR3bThTbThaNlo3NEdQT0wtY3pGdFhpQm1SNnFqSmg4TlBoTGlqcjVJUTA4NjdJZGV3ZEI2blRrQTh0NjltQkpzQTBLRkQyM0l0bmVZ?oc=5",
-      "author": "",
-      "published": "2026-09-30T20:48:41",
-      "summary": "Publications&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "fcae7c637f715041",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -3280,7 +3244,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "00f76241ceae52dc",
@@ -3409,24 +3373,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il clarifie les critères légaux pour geler les actifs liés à la Russie en vertu des sanctions."
     },
     {
-      "hash": "a8aaa553a5e197ac",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Banque Misr penalties a “wake-up call” for banks over hidden Iran ties, lawyers say",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/banque-misr-penalties-wake-call-banks-over-hidden-iran-ties-lawyers-say",
-      "author": "Dan Novak",
-      "published": "2026-09-04T13:35:23",
-      "summary": "Treasury Secretary Scott Bessent has said the US will start sanctioning foreign banks “every week”.",
-      "score": 49,
-      "score_breakdown": "+20 mots critiques: sanction | +10 mots moyens: banque, bank | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les pénalités contre Banque Misr illustrent les risques de non-conformité aux sanctions et la nécessité de vérifier les liens clients."
-    },
-    {
       "hash": "bde2f0b258f487e1",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3496,7 +3442,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a016b0ccb3797814",
@@ -3982,7 +3928,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la finance positive et de la responsabilité environnementale, domaines clés de la régulation prudentielle."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la finance durable et de la responsabilité environnementale, domaines clés de la conformité réglementaire moderne."
     },
     {
       "hash": "bb16b49babd00620",
@@ -4255,42 +4201,6 @@
       "ai_summary": "Cet article traite de la conformité réglementaire en matière d'IA, notamment les risques d'enquête et d'application de la loi."
     },
     {
-      "hash": "89f2d3dee9534561",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Adani co-defendants still on hook in US bribery case",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/adani-co-defendants-still-hook-in-us-bribery-case",
-      "author": "Estelle Atkinson",
-      "published": "2026-09-04T14:12:21",
-      "summary": "A federal judge declined the DOJ’s request to drop FCPA and obstruction charges remaining against five executives in a fraud and bribery case that previously entangled Indian billionaire Gautam Adani.",
-      "score": 39,
-      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: doj, fcpa | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de violations de la loi FCPA (Foreign Corrupt Practices Act) et d'obstruction de justice."
-    },
-    {
-      "hash": "1c91a0d08da882f3",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Huawei to stand trial in landmark US racketeering case",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/huawei-stand-trial-in-landmark-us-racketeering-case",
-      "author": "Estelle Atkinson",
-      "published": "2026-09-04T14:09:31",
-      "summary": "The Chinese tech conglomerate and its deep bench of lawyers will face DOJ allegations that it ran a decades-long racketeering scheme, violating sanctions on Iran and stealing trade secrets to get ahead of the competition.",
-      "score": 39,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des violations de sanctions imposées à l'Iran par Huawei et des accusations de fraude."
-    },
-    {
       "hash": "d43407b053d35739",
       "source_name": "Corporate Compliance Insights",
       "source_type": "press",
@@ -4306,7 +4216,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "40410314cbfc0685",
@@ -4612,25 +4522,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "b709da1cf991ccde",
-      "source_name": "Cass. - Fraude",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Tribunal judiciaire d'Avignon, Ctx protection sociale, 23 septembre 2026, 23/00104",
-      "url": "http://juricaf.org/arret/FRANCE-TRIBUNALJUDICIAIREDAVIGNON-20260923-2300104",
-      "author": "Ctx protection sociale",
-      "published": "2026-09-23T12:00:00",
-      "summary": "COUR D’APPEL DE NÎMES TRIBUNAL JUDICIAIRE D’AVIGNON   N° RG 23/00104 - N° Portalis DB3F-W-B7H-JKNX   CONTENTIEUX DE LA PROTECTION SOCIALE  JUGEMENT DU 23 Septembre 2026    DEMANDEUR  Madame U Y née le 29 Décembre 1977 à MAROC 00000 16D avenue de la Synagogue Résidence le saint Lazare 84000 AVIGNON représentée par Me Christine GATTA, avocat au barreau d’AVIGNON   DEFENDEUR  CPAM HD VAUCLUSE SERVICE JURIDIQUE ET FRAUDE TSA 99998 84000 AVIGNON représentée par Mme V X Salarié munie d’un pouvoir spéc",
-      "score": 36,
-      "score_breakdown": "+20 mots critiques: fraude, fraud | +5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "e5eca1c2b31c244d",
@@ -5119,24 +5011,6 @@
       "ai_summary": "La gestion des risques tiers est cruciale pour identifier et atténuer les risques éthiques et de conformité dans les relations commerciales."
     },
     {
-      "hash": "14f602614fc43e51",
-      "source_name": "Corporate Compliance Insights",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Reggy Publicly Launches Compliance Platform",
-      "url": "https://www.corporatecomplianceinsights.com/reggy-publicly-launches-compliance-platform/",
-      "author": "Corporate Compliance Insights",
-      "published": "2026-09-04T14:00:58",
-      "summary": "Reggy, a Norwegian compliance software company, announced it publicly launched after two years of quiet operations. Formerly known as Fortifai, Reggy’s platform to manage regulations is used by Telenor, Aker BioMarine, Ardoq and Mainstream Renewable Power already, a press release said.  “With just one system, Reggy covers every area, from security and privacy to anti-bribery, [&#8230;]\nThe post Reggy Publicly Launches Compliance Platform appeared first on Corporate Compliance Insights.",
-      "score": 34,
-      "score_breakdown": "+10 mots forts: compliance | +10 mots moyens: regulation, ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Reggy lance une plateforme logicielle de conformité réglementaire destinée à aider les entreprises à gérer leurs obligations légales."
-    },
-    {
       "hash": "ec4457f88564ff77",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -5188,7 +5062,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "34e9aef303955fbd",
@@ -5263,24 +5137,6 @@
       "ai_summary": "Cet article traite de la conformité financière car la Banque de France analyse les risques économiques affectant le secteur financier français."
     },
     {
-      "hash": "65abc4b9510bfd27",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Projections macroéconomiques intermédiaires – Septembre 2026 - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOU96ZFdXQ19OQjZFOGRvalljN3E0cHVYYXdGTVNDNHJKdDZxZXVMUmw2RkpEaEJOeUlRRi1paVg2bHk2QWcxbzdiRnpZTEhOUzlKODFoMmtsRVRsOG9iSUdHUjQxbTZkRTZmMXczdkN1OXFVOWcxTGNERTRBam1ITDBzQmh0N0xrX28taEVhZ1dPMjZIajc4V2FNZFA4cHJnV3lJbA?oc=5",
-      "author": "",
-      "published": "2026-09-15T07:00:00",
-      "summary": "Projections macroéconomiques intermédiaires – Septembre 2026&nbsp;&nbsp;Banque de France",
-      "score": 30,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "0256b2b467c6318a",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -5296,7 +5152,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5e7470677e969a9d",
@@ -5605,24 +5461,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la gestion des risques de conformité, de gouvernance et de contrôles continus."
     },
     {
-      "hash": "12dcc93045f7f640",
-      "source_name": "Corporate Compliance Insights",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Cybersecurity Pros Name Social Engineering as Top Human Risk",
-      "url": "https://www.corporatecomplianceinsights.com/news-roundup-september-4-2026/",
-      "author": "Staff and Wire Reports",
-      "published": "2026-09-04T14:46:49",
-      "summary": "Plus: 20-point bump for AI in financial predictions; July sees ransomware peak\nThe post Cybersecurity Pros Name Social Engineering as Top Human Risk appeared first on Corporate Compliance Insights.",
-      "score": 27,
-      "score_breakdown": "+10 mots forts: compliance | +10 mots moyens: risk, ppe | +3 Presse | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'ingénierie sociale expose les organisations à des risques de fraude et de vol de données financières sensibles."
-    },
-    {
       "hash": "1f2a94905babd971",
       "source_name": "Cass. - Blanchiment",
       "source_type": "rss",
@@ -5638,7 +5476,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a3133b7983d21832",
@@ -5893,24 +5731,6 @@
       "ai_summary": "Cet article concerne l'utilisation non autorisée d'outils IA en entreprise, relevant de la conformité IT et des risques de contrôle interne."
     },
     {
-      "hash": "920122dad9c9cf54",
-      "source_name": "Corporate Compliance Insights",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Yardstik Secures $30M in Series B Funding",
-      "url": "https://www.corporatecomplianceinsights.com/yardstik-secures-30m-in-series-b-funding/",
-      "author": "Corporate Compliance Insights",
-      "published": "2026-09-04T14:11:36",
-      "summary": "Yardstik, an employee screening and monitoring platform, announced that it raised $30 million in Series B funding led by Harbert Growth Partners. Existing investors Rally Ventures, MissionOG, Crosslink Capital, Grotech Ventures and Great North Ventures also participated. The new investments brings the capital raised by Yardstik to $65 million. The company said in a news [&#8230;]\nThe post Yardstik Secures $30M in Series B Funding appeared first on Corporate Compliance Insights.",
-      "score": 21,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du financement d'une plateforme de conformité des employés."
-    },
-    {
       "hash": "05b0eee02e33b69f",
       "source_name": "EDPB - European Data Protection Board",
       "source_type": "rss",
@@ -5926,7 +5746,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'amende du DPC irlandais à Google pour traitement illégal de données de localisation relève de la conformité réglementaire en matière de protection des données."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "678109b913c50cbf",
@@ -6019,42 +5839,6 @@
       "ai_summary": "La culture d'entreprise influence le respect des règles de conformité et peut favoriser ou prévenir les manquements éthiques et réglementaires."
     },
     {
-      "hash": "766ce9dd50d80372",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Taux US, l'intervention du Trésor profite aux cryptos",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/video-taux-us-l-intervention-du-tresor-profite-aux-cryptos_VN-202609040670.html",
-      "author": "",
-      "published": "2026-09-04T15:00:00",
-      "summary": "Vendredi 4 septembre, l'envolée des cryptos après l'intervention du Trésor américain sur les taux, le partenariat entre Bitstack et le RC Lens, et les règles sur les cryptos dans le patrimoine, ont été abordés par Louis Alexandre de Froissard, gérant chez Montaigne Conseil et Patrimoine, Alexandre Stachtchenko, directeur de la strategie et de la communication chez Bitstack, Enzo Hallot, president de la Commission tech de l’Anacofi, et Maurgane N Landu, fondatrice de Cryptos-360, reçus par Sandra",
-      "score": 19,
-      "score_breakdown": "+10 mots forts: crypto | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde les règles de déclaration des cryptomonnaies dans le patrimoine."
-    },
-    {
-      "hash": "91f9fd34e2bbfc1b",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "BFM Crypto, le Club : Taux US, l'intervention du Trésor profite aux cryptos – 04/09",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/bfm-crypto-le-club-taux-us-l-intervention-du-tresor-profite-aux-cryptos-04-09_EN-202609040633.html",
-      "author": "",
-      "published": "2026-09-04T13:43:11",
-      "summary": "Vendredi 4 septembre, l'envolée des cryptos après l'intervention du Trésor américain sur les taux, le partenariat entre Bitstack et le RC Lens, et les règles sur les cryptos dans le patrimoine, ont été abordés par Louis Alexandre de Froissard, gérant chez Montaigne Conseil et Patrimoine, Alexandre Stachtchenko, directeur de la strategie et de la communication chez Bitstack, Enzo Hallot, president de la Commission tech de l’Anacofi, et Maurgane N Landu, fondatrice de Cryptos-360, reçus par Sandra",
-      "score": 19,
-      "score_breakdown": "+10 mots forts: crypto | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde les règles sur les cryptos dans le patrimoine et leur réglementation."
-    },
-    {
       "hash": "27bfbbd5a8010999",
       "source_name": "BIS - Working Papers",
       "source_type": "rss",
@@ -6088,7 +5872,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "efc65cb2578d6206",
@@ -6214,7 +5998,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8d4f1b69a4048d73",
@@ -6448,7 +6232,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8649c30775bd1c93",
@@ -6829,24 +6613,6 @@
       "ai_summary": "Cet article concerne la conformité financière en raison des sanctions contre l'Iran et des obligations de conformité aux programmes d'embargo."
     },
     {
-      "hash": "5b9bb5dde6d12e88",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Iran-related Designations; Issuance of Iran-related General License | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260904",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-09-04T12:00:00",
-      "summary": "",
-      "score": 7,
-      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions contre l'Iran et des licences émises par l'OFAC."
-    },
-    {
       "hash": "3b1b115c614bd5f6",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -6880,7 +6646,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "23f14e4e3ba5f10d",
@@ -7006,7 +6772,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e70c111210afa54b",
@@ -7024,10 +6790,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     }
   ],
-  "last_update": "2026-10-04T12:39:48.130112+00:00",
+  "last_update": "2026-10-04T16:11:00.878269+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
