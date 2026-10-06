@@ -3244,7 +3244,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "00f76241ceae52dc",
@@ -3442,7 +3442,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a016b0ccb3797814",
@@ -3478,7 +3478,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4223be7a7109636e",
@@ -3514,7 +3514,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "319d800de09f08bf",
+      "source_name": "BIS - Working Papers",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Chasing El Dorado: gold under shifting geopolitical and financial conditions",
+      "url": "https://www.bis.org/publications/working-paper-1380-chasing-el-dorado-gold-under-shifting-geopolitical-and-financial-condition",
+      "author": "Gabriel Zelpo",
+      "published": "2026-10-06T00:00:00",
+      "summary": "This paper analyses the state-dependent effects of geopolitical risks on gold prices (i.e. the safe-haven role of gold), conditional on financial conditions. Geopolitical risks are often associated with tighter financial conditions. However, recent data reveal a decoupling be tween such shocks and more restrictive financial conditions, raising the question of how gold returns are affected by geopolitical shocks, conditional on the macro-financial environment",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: dora | +5 mots moyens: risk | +5 Source Intl | +10 Géo EU: dora | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il analyse l'impact des risques géopolitiques sur les prix de l'or en fonction des conditions financières."
     },
     {
       "hash": "dd335e04ed7e958b",
@@ -3532,7 +3550,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a85386390733ba60",
@@ -3967,24 +3985,6 @@
       "ai_summary": "La fraude bancaire et sa prévention relèvent de la conformité financière et de la lutte contre la fraude."
     },
     {
-      "hash": "fcae7c637f715041",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Concurrence chinoise : quels secteurs industriels français sont exposés ? - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNURyaGo5ajlvemMzOU9nQkRvQXVEVTQ0UmFpVFZ4T20wSTVtaFFwYmVvdXdUZk45VW11S3FGRmRxMGp0TjN1NWxVcVVYcXdIQm56SmJHbHdVVzVhUTBRWVh6Vkx0aFcxdGxVZVpKbmhEWEJ1WHAzamhMWDlqVTFxcTA4T0lGb3BzaWEyamRzOWtaRml4b3I4a1RqYTlOUE5HdWFoSjNmWnF0Q01Zbi1ZX2Q4UQ?oc=5",
-      "author": "",
-      "published": "2026-09-28T07:00:00",
-      "summary": "Concurrence chinoise : quels secteurs industriels français sont exposés ?&nbsp;&nbsp;Banque de France",
-      "score": 40,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, français, banque de france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "a84459b78b644364",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -4054,7 +4054,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1dd35a83487035d3",
@@ -4612,7 +4612,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e5eca1c2b31c244d",
@@ -5152,7 +5152,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "34e9aef303955fbd",
@@ -5551,24 +5551,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la gestion des risques de conformité, de gouvernance et de contrôles continus."
     },
     {
-      "hash": "1f2a94905babd971",
-      "source_name": "Cass. - Blanchiment",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour Administrative d'Appel de Nancy, 1ère chambre - formation à 3, 29 septembre 2026, 24NC02167",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDENANCY-20260929-24NC02167",
-      "author": "1ère chambre - formation à 3",
-      "published": "2026-09-29T12:00:00",
-      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           M. A... B... a demandé au tribunal administratif de Strasbourg d'annuler la décision du 15 novembre 2022 par laquelle le préfet du Haut-Rhin a refusé de renouveler son autorisation provisoire de séjour, ainsi que la décision implicite rejetant son recours gracieux et d'enjoindre au préfet du Haut-Rhin de l'admettre au séjour ou, à défaut, de procéder à un nouvel examen de sa situation et de lui délivrer dans l'att",
-      "score": 25,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "a3133b7983d21832",
       "source_name": "EDPB - European Data Protection Board",
       "source_type": "rss",
@@ -5821,6 +5803,24 @@
       "ai_summary": "Cet article concerne l'utilisation non autorisée d'outils IA en entreprise, relevant de la conformité IT et des risques de contrôle interne."
     },
     {
+      "hash": "291214134d7119bb",
+      "source_name": "Cass. - Blanchiment",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de NANCY, 1ère chambre, 29 septembre 2026, 24NC02167",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDENANCY-20260929-24NC02167",
+      "author": "1ère chambre",
+      "published": "2026-09-29T12:00:00",
+      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           M. A... B... a demandé au tribunal administratif de Strasbourg d'annuler la décision du 15 novembre 2022 par laquelle le préfet du Haut-Rhin a refusé de renouveler son autorisation provisoire de séjour, ainsi que la décision implicite rejetant son recours gracieux et d'enjoindre au préfet du Haut-Rhin de l'admettre au séjour ou, à défaut, de procéder à un nouvel examen de sa situation et de lui délivrer dans l'att",
+      "score": 20,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "05b0eee02e33b69f",
       "source_name": "EDPB - European Data Protection Board",
       "source_type": "rss",
@@ -5854,7 +5854,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car une entreprise a commis des violations de conformité commerciale en exportant vers une entité sanctionnée."
+      "ai_summary": "Cet article concerne les violations de conformité en matière de contrôle des exportations et de sanctions commerciales envers une entité interdite."
     },
     {
       "hash": "678109b913c50cbf",
@@ -5980,7 +5980,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
+      "ai_summary": null
     },
     {
       "hash": "efc65cb2578d6206",
@@ -6071,6 +6071,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il aborde les outils macroprudentiels et la stabilité financière dans la politique monétaire suisse."
+    },
+    {
+      "hash": "5010b7691a947a63",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Coming up at 13:45 CET: Supervisory Board Chair Claudia Buch takes part in a panel discussion on “The future of Europe’s banking union” at the @FMA_AT Supervisory Conference in Vienna",
+      "url": "https://x.com/ecb/status/2107433310636916831",
+      "author": "@ecb",
+      "published": "2026-10-06T11:30:00",
+      "summary": "Coming up at 13:45 CET: Supervisory Board Chair Claudia Buch takes part in a panel discussion on “The future of Europe’s banking union” at the  @FMA_AT Supervisory Conference in Vienna  fma.gv.at/— European Central Bank (@ecb) Oct 6, 2026",
+      "score": 15,
+      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "22eba5003d614ddd",
@@ -6268,7 +6286,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e386c337ce240a02",
@@ -6844,7 +6862,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "23f14e4e3ba5f10d",
@@ -6898,7 +6916,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de corruption et d'un accord de poursuite différée entre le procureur et Seatrium."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "56d095131445b358",
@@ -6988,7 +7006,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e70c111210afa54b",
@@ -7000,16 +7018,16 @@
       "author": "Sam Fry",
       "published": "2026-09-29T09:02:30",
       "summary": "",
-      "score": 3,
-      "score_breakdown": "+3 Presse | ×1.0 (7d)",
+      "score": 2,
+      "score_breakdown": "+3 Presse | ×0.8 (14d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     }
   ],
-  "last_update": "2026-10-06T06:37:46.110550+00:00",
+  "last_update": "2026-10-06T12:27:09.405720+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
