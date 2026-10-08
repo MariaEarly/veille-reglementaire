@@ -763,24 +763,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la gouvernance du signalement des défaillances AML/CFT via la base de données EuReCA."
     },
     {
-      "hash": "d86c01ad30095a32",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Avis de concours professionnel pour l'accès, au grade d'inspecteur principal de la concurrence, de la consommation et de la répression des fraudes, organisé au titre de l'année 2027",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054961465",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-10-08T00:00:00",
-      "summary": "La directrice générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) organise, au titre de l'année 2027, un concours professionnel pour l'accès au grade d'inspecteur principal de la concurrence, de la consommation et de la répression des fraudes.I. - Conditions d'admission à concourirEn application de l'article L. 325-50 du code général de la fonction publique, la vérification des conditions requises pour concourir intervient, au plus tard, à la date de la nomina",
-      "score": 97,
-      "score_breakdown": "+20 mots critiques: fraude, fraud | +25 Source FR | +20 Géo FR: dgccrf | ×1.5 (<24h)",
-      "doc_type": "AVIS",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "21b16573e1f75dec",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -977,42 +959,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la gestion des risques tiers et la conformité réglementaire bancaire selon les directives de l'EBA."
-    },
-    {
-      "hash": "105e2aa7cf38d680",
-      "source_name": "JORF - Sanctions",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décret n° 2026-932 du 6 octobre 2026 relatif aux mesures dérogatoires à l'évaluation de la conformité des ascenseurs et composants de sécurité pour ascenseurs nécessaires en cas de crise en raison d'une situation d'urgence dans le marché intérieur",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054961126",
-      "author": "Ministère de la ville et du logement",
-      "published": "2026-10-08T00:00:00",
-      "summary": "L'article R. 134-48 du code de la construction et de l'habitation est complété par les dispositions suivantes :« 10° Toute personne qui aura mis sur le marché un ascenseur ou un composant de sécurité pour ascenseur bénéficiant d'une autorisation accordée en application de l'article R. 134-48-3 qui ne porte pas l'information selon laquelle il est mis sur le marché en tant que bien nécessaire en cas de crise.« Les sanctions prévues par les 1° à 4° et le 9° ne sont pas encourues lorsque la personne",
-      "score": 82,
-      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: conformité | +25 Source FR | ×1.5 (<24h)",
-      "doc_type": "DÉCRET",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "cc0ff534d7df7aa3",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Revivez la 7e édition du Forum Fintech - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQREJJWEFFWUdnX1Z4RkNNaVJPbkliMkl4SzRCYVJLR2ktaVhhcWZBbzJ2Y3RuMXJBTXVWWUdWYU5qTGRFaHFzT0FmSHQ1Zm9RN2kxYV9aWGtmZVhZVXdpZG9uSUFPNllwY2EwSUlrME1TZXMzZnl4Qmt1bVdXZmtBclhmRTR2SE1Sb1E?oc=5",
-      "author": "",
-      "published": "2026-10-07T14:53:39",
-      "summary": "Revivez la 7e édition du Forum Fintech&nbsp;&nbsp;Banque de France",
-      "score": 82,
-      "score_breakdown": "+10 mots moyens: fintech, banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "97d96b85916e92a2",
@@ -2362,7 +2308,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la prévention de la lutte anti-blanchiment et contre le financement du terrorisme, domaines clés de la conformité financière."
     },
     {
       "hash": "98abfcdb128df376",
@@ -2579,6 +2525,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les directives de l'EBA sur la gestion des risques tiers concernent la conformité financière par leur cadre réglementaire."
+    },
+    {
+      "hash": "cc0ff534d7df7aa3",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Revivez la 7e édition du Forum Fintech - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQREJJWEFFWUdnX1Z4RkNNaVJPbkliMkl4SzRCYVJLR2ktaVhhcWZBbzJ2Y3RuMXJBTXVWWUdWYU5qTGRFaHFzT0FmSHQ1Zm9RN2kxYV9aWGtmZVhZVXdpZG9uSUFPNllwY2EwSUlrME1TZXMzZnl4Qmt1bVdXZmtBclhmRTR2SE1Sb1E?oc=5",
+      "author": "",
+      "published": "2026-10-07T14:53:39",
+      "summary": "Revivez la 7e édition du Forum Fintech&nbsp;&nbsp;Banque de France",
+      "score": 66,
+      "score_breakdown": "+10 mots moyens: fintech, banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "9a4546808930605d",
@@ -3337,24 +3301,6 @@
       "ai_summary": "L'EBA consulte sur des normes révisées pour les exigences de capital et liquidités, renforçant la conformité réglementaire bancaire."
     },
     {
-      "hash": "85bc1c535c992829",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Aide et FAQ - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15N3Qxbm84b1Mzd3hmNC1xT3p6N1VwMlg5bnV4WkVuVjVoWHBBSkpTMi1lTEQ5NWhtc2ktNmk0QmlOclZmYWtWckNjUU1XZWlMaWNVelpsaFZ4SVRFQllxcXNGbGtYWGJsR2Z1SjYzMmxyN1E3?oc=5",
-      "author": "",
-      "published": "2026-10-01T03:56:25",
-      "summary": "Aide et FAQ&nbsp;&nbsp;Banque de France",
-      "score": 50,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "00f76241ceae52dc",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -3460,7 +3406,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de gel des avoirs, mesure essentielle de lutte contre le financement du terrorisme et la criminalité."
     },
     {
       "hash": "2ffde3f962105810",
@@ -3535,6 +3481,24 @@
       "ai_summary": "Les autorités britanniques enquêtent sur un sponsor de la Premier League pour blanchiment d'argent, concernant la conformité AML."
     },
     {
+      "hash": "71a01fca950fb798",
+      "source_name": "EDPB - European Data Protection Board",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Hellenic DPA decision on a data breach involving E.E.T.A.A. S.A. as processor for the Ministry of Social Cohesion and Family Affairs",
+      "url": "https://www.edpb.europa.eu/news/hellenic-dpa-decision-on-a-data-breach-involving-eetaa-sa-as-processor-for-the-ministry-of_en",
+      "author": "EDPB",
+      "published": "2026-10-08T12:00:00",
+      "summary": "Background informationDate of final decision: 28/07/2026National caseController: Ministry of Social Cohesion and Family AffairsLegal Reference(s): Article 25 (Data protection by design and by default), Article 28 (Processor), Article 32 (Security of processing), Article 33 (Notification of a personal data breach to the supervisory authority) and Article 34 (Communication of a personal data breach to the data subject)Decision: Administrative fine, Compliance order,&nbsp;Summary of the DecisionOri",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: supervisory | +15 Source EU | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a016b0ccb3797814",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
@@ -3586,7 +3550,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il analyse l'impact des risques géopolitiques sur les prix de l'or et les conditions financières, pertinent pour la gestion des risques."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "db0fcc452b31bcbf",
@@ -3838,7 +3802,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "dfc78ba3dc4c7def",
@@ -3856,7 +3820,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la mise en liste grise du Philippines par le FATF et ses impacts de conformité réglementaire."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la liste grise du FATF et de l'impact de la non-conformité aux normes anti-blanchiment sur les Philippines."
     },
     {
       "hash": "cf4eea086c3ef171",
@@ -4021,40 +3985,22 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de sanctions pour non-respect des règles de plafonnement salarial dans la NBA."
     },
     {
-      "hash": "629e1c73720977f9",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Former Swiss bank partner admits $100m bribe to Kuwaiti official",
-      "url": "https://globalinvestigationsreview.com/article/former-swiss-bank-partner-admits-100m-bribe-kuwaiti-official",
-      "author": "Grace Propheta",
-      "published": "2026-09-08T15:04:09",
-      "summary": "The Federal Criminal Court in Bellinzona handed Pierre Mirabaud – a former head of the Swiss Bankers Association – a two-year suspended sentence after he admitted to corruption of a foreign public official and aggravated money laundering.",
-      "score": 42,
-      "score_breakdown": "+20 mots critiques: money laundering | +5 mots moyens: bank | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de blanchiment de capitaux et de corruption d'un officiel public étranger."
-    },
-    {
-      "hash": "cb104263e7db6bb5",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Banque: les arnaques aux faux conseillers bancaires représentent plus de 40% des fraudes en 2025",
-      "url": "https://www.bfmtv.com/economie/video-banque-les-arnaques-aux-faux-conseillers-bancaires-representent-plus-de-40-des-fraudes-en-2025_VN-202609080560.html",
+      "hash": "edd9092ddf0a4e8f",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Aide et FAQ - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56dkVZLVhpaE9xN3hocnlaVkRYT0daR3dNd2N1Um43WXA5cDBrVjNtUmxHd2M5TnhIMDBkMi1nX3cybnVCR0w3RWoxbzVFeEFSVXI1SWxQNk8wMk5HLWpVRnFGUWQ1Zk9BVHVZMDBzSjVHMkE3QVJ4bmNZN24?oc=5",
       "author": "",
-      "published": "2026-09-08T12:59:02",
-      "summary": "Il y a quelques jours, l'Agence nationale des titres sécurisés a été victime d'une cyberattaque avec vol de données. Mais elle est loin d'avoir été la seule victime ces derniers mois. Malheureusement, ces fuites de données peuvent porter préjudice aux personnes concernées.",
-      "score": 42,
-      "score_breakdown": "+20 mots critiques: fraude, fraud | +5 mots moyens: banque | +3 Presse | ×1.5 (<24h)",
+      "published": "2026-09-30T23:51:25",
+      "summary": "Aide et FAQ&nbsp;&nbsp;Banque de France",
+      "score": 40,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.8 (14d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les fraudes bancaires et les cyberattaques constituent des risques de conformité majeurs."
+      "ai_summary": null
     },
     {
       "hash": "b9d0e01d85d382d0",
@@ -4072,25 +4018,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "fcae7c637f715041",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Concurrence chinoise : quels secteurs industriels français sont exposés ? - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNURyaGo5ajlvemMzOU9nQkRvQXVEVTQ0UmFpVFZ4T20wSTVtaFFwYmVvdXdUZk45VW11S3FGRmRxMGp0TjN1NWxVcVVYcXdIQm56SmJHbHdVVzVhUTBRWVh6Vkx0aFcxdGxVZVpKbmhEWEJ1WHAzamhMWDlqVTFxcTA4T0lGb3BzaWEyamRzOWtaRml4b3I4a1RqYTlOUE5HdWFoSjNmWnF0Q01Zbi1ZX2Q4UQ?oc=5",
-      "author": "",
-      "published": "2026-09-28T07:00:00",
-      "summary": "Concurrence chinoise : quels secteurs industriels français sont exposés ?&nbsp;&nbsp;Banque de France",
-      "score": 40,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, français, banque de france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite des risques économiques et sectoriels liés à la concurrence chinoise, hors périmètre compliance financière."
+      "ai_summary": "Cet article concerne la gouvernance de la Banque de France et potentiellement ses obligations de conformité réglementaire en tant qu'institution financière majeure."
     },
     {
       "hash": "a84459b78b644364",
@@ -4504,7 +4432,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'application de la directive sur le traitement des données personnelles par les unités de renseignement financier pour la lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
       "hash": "83fa06c849307c61",
@@ -4597,6 +4525,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il décrit un nouveau modèle de facturation par crédits prépayés pour l'API OpenSanctions."
     },
     {
+      "hash": "a52eaf0893400982",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Speaking at the conference 𝑩𝒂𝒏𝒌𝒔’ 𝒄𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆𝒏𝒆𝒔𝒔: 𝑬𝑼’𝒔 𝒂𝒈𝒆𝒏𝒅𝒂 𝒇𝒐𝒓 𝒂 𝒎𝒐𝒓𝒆 𝒊𝒏𝒕𝒆𝒈𝒓𝒂𝒕𝒆𝒅, 𝒆𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝒂𝒏𝒅 𝒄𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆 𝒃𝒂𝒏𝒌𝒊𝒏𝒈 𝒔𝒆𝒄𝒕𝒐𝒓 hos...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7513944576240447488",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-10-08T12:53:09",
+      "summary": "Speaking at the conference 𝑩𝒂𝒏𝒌𝒔’ 𝒄𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆𝒏𝒆𝒔𝒔: 𝑬𝑼’𝒔 𝒂𝒈𝒆𝒏𝒅𝒂 𝒇𝒐𝒓 𝒂 𝒎𝒐𝒓𝒆 𝒊𝒏𝒕𝒆𝒈𝒓𝒂𝒕𝒆𝒅, 𝒆𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝒂𝒏𝒅 𝒄𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆 𝒃𝒂𝒏𝒌𝒊𝒏𝒈 𝒔𝒆𝒄𝒕𝒐𝒓 hosted by BusinessEurope and European Banking Federation in Brussels, the European Banking Authority (EBA) Chair François-Louis Michaud highlighted the importance of dialogue between policymakers, supervisors and the private sector to understand challenges and identify practical solutions. \n“𝘌𝘶𝘳𝘰𝘱𝘦𝘢𝘯 𝘣𝘢𝘯𝘬𝘴 𝘢𝘳𝘦 𝘮𝘰𝘳𝘦 𝘳𝘦𝘴𝘪𝘭𝘪𝘦𝘯𝘵, 𝘣𝘦𝘵𝘵𝘦𝘳 𝘤𝘢𝘱𝘪𝘵𝘢𝘭𝘪𝘴𝘦𝘥 𝘢𝘯𝘥 𝘣𝘦𝘵𝘵𝘦𝘳 𝘱𝘳𝘦𝘱𝘢𝘳𝘦𝘥 𝘧𝘰𝘳 𝘴𝘩",
+      "score": 37,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "3f37d8cc8c8f0fc8",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -4612,7 +4558,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a77d7a5559fbaca1",
@@ -4810,7 +4756,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une décision de l'inspectrice de la concurrence, de la consommation et de la répression de fraude."
     },
     {
       "hash": "e5eca1c2b31c244d",
@@ -4842,24 +4788,6 @@
       "summary": "💼 🎓 Exploring EU careers and meeting future talent in Stockholm\n\nWe were delighted to participate in the EU Career Fair in Stockholm, organised by the Swedish Council for Higher Education (UHR), and connect with students, graduates and young professionals interested in a career in European public service.\n\nOur colleagues Davide, Tanya and Patrick represented the European Banking Authority (EBA), sharing insights into our work and the many opportunities available within a European supervisory aut",
       "score": 36,
       "score_breakdown": "+10 mots forts: eba | +10 mots moyens: supervisory, bank | +10 Géo EU: eba | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "5945efdeab4d75a9",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Fraud Division wins battle for market integrity unit",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/fraud-division-wins-battle-market-integrity-unit",
-      "author": "Gaspard Le Dem,Mark Taylor",
-      "published": "2026-10-07T20:50:00",
-      "summary": "The new Trump-created division is snatching an experienced team of securities prosecutors from the Criminal Division’s fraud section, which one source described as a Frankenstein-esque monster now struggling to rebuild its legacy.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
@@ -5263,60 +5191,6 @@
       "ai_summary": "Les actionnaires accusent la direction de délits d'initiés et de diffusion de fausses informations, violations majeures de la conformité financière."
     },
     {
-      "hash": "87b608fcef296be8",
-      "source_name": "Corporate Compliance Insights",
-      "source_type": "press",
-      "category": "presse",
-      "title": "How Blockchain Intelligence Became Essential To Corporate Compliance",
-      "url": "https://www.corporatecomplianceinsights.com/how-blockchain-intelligence-became-essential-corporate-compliance/",
-      "author": "Finn Grant",
-      "published": "2026-09-08T19:41:01",
-      "summary": "Crypto was initially built on the promise of permissionless finance, a system with no gatekeepers, no intermediaries and no paperwork. However, as the adoption of digital assets has grown, that original vision has collided with the strict realities of the traditional financial system, writes crypto intelligence writer Finn Grant. With regulators cracking down globally, crypto compliance has evolved from an abstract concern into a central operational requirement for survival.\nThe post How Blockch",
-      "score": 34,
-      "score_breakdown": "+20 mots forts: compliance, crypto | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'intelligence blockchain permet aux entreprises de surveiller les transactions crypto et respecter les obligations réglementaires anti-blanchiment."
-    },
-    {
-      "hash": "10c3c575af56c6c5",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "INFO BFM BUSINESS. Le cœur artificiel fonctionnait, l’entreprise s’effondrait: 56 actionnaires de Carmat portent plainte pour escroquerie, délit d'initié, usage illicite d'informations privilégiées et fausses informations",
-      "url": "https://www.bfmtv.com/economie/info-bfm-business-le-c-ur-artificiel-fonctionnait-l-entreprise-s-effondrait-56-actionnaires-de-carmat-portent-plainte-pour-escroquerie-delit-d-initie-usage-illicite-d-informations-privilegiees-et-fausses-informations_AN-202609080752.html",
-      "author": "",
-      "published": "2026-09-08T16:52:05",
-      "summary": "D’anciens actionnaires minoritaires de Carmat déposent plainte contre X auprès du Parquet national financier. Le spécialiste français des cœurs artificiels, anciennement coté en Bourse a été liquidé en début d'année. Seuls ses actifs ont été repris, par un des anciens dirigeants et actionnaires, Pierre Bastid, qui a recréé une nouvelle société.",
-      "score": 34,
-      "score_breakdown": "+3 Presse | +20 Géo FR: français, parquet national financier | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les actionnaires dénoncent des délits financiers: escroquerie, délit d'initié et usage illicite d'informations privilégiées chez Carmat."
-    },
-    {
-      "hash": "0fd5e9c0184f4a0f",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "HMRC hits biotech company with largest-ever compound settlement",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/hmrc-hits-biotech-company-largest-ever-compound-settlement",
-      "author": "Grace Propheta",
-      "published": "2026-09-08T12:38:28",
-      "summary": "The UK tax and customs agency issued a record £7.4 million penalty to the Cambridge branch of San Diego-headquartered Illumina for breaching sanctions by making available restricted goods for use in Russia.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de sanctions commerciales et de pénalités imposées pour non-respect des réglementations."
-    },
-    {
       "hash": "ec4457f88564ff77",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -5404,7 +5278,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des frais d'incidents bancaires réglementés par les autorités."
     },
     {
       "hash": "2ede9671c456a69c",
@@ -5422,25 +5296,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la régulation et supervision de l'assurance-vie par l'ACPR."
     },
     {
-      "hash": "ea7ed2279ac58437",
+      "hash": "2a6c0140fdb0c69a",
       "source_name": "ACPR",
       "source_type": "rss",
       "category": "autorite_fr",
-      "title": "Concours lycéen Génération €uro 2026 – 2027 - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTDZqZWQ5RzUyYlEwamNxdmVYZjZ2ampMdFpzUFFpR1B6MWEycTd1a004U3ZSQ1EtQ3B0WnljUzhNbnE2M0xWenNYaGRYUXhfT0plNWRyVGRBOElYNEJMd2huSEZWeWV2UWh1MG9USDR1S2Jlb1UxXzVLSTdvRmlDcFlqQVNIOVFxQlM3dFVTcw?oc=5",
+      "title": "Rapport annuel 2013 du CCSF - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHFpbXB1QkJ3Z3dGck80SU1oWmJsTTMwOURybGNfN0xmbC1NWF8tVGlIVlZ5Vk4ySUlmWWlwaEpkd1VQaDBwaXE4am8xX0dfVl9FbXZBOENIYWVnTWFlMjNqNUxnaTNfZkMxNlFKNGlqUHE3UzA5ZVJSUFRtOHNkYWV0aDV6WjliXzhxcGpzcVRyY1dKV2tHZ1BSaDN2RDM5OWNnaA?oc=5",
       "author": "",
-      "published": "2026-09-21T07:00:00",
-      "summary": "Concours lycéen Génération €uro 2026 – 2027&nbsp;&nbsp;Banque de France",
+      "published": "2026-09-24T07:00:00",
+      "summary": "Rapport annuel 2013 du CCSF&nbsp;&nbsp;Banque de France",
       "score": 30,
       "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.6 (>14d)",
-      "doc_type": null,
+      "doc_type": "RAPPORT",
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1830f752b88f33dc",
@@ -5585,6 +5459,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "5945efdeab4d75a9",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Fraud Division wins battle for market integrity unit",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/fraud-division-wins-battle-market-integrity-unit",
+      "author": "Gaspard Le Dem,Mark Taylor",
+      "published": "2026-10-07T20:50:00",
+      "summary": "The new Trump-created division is snatching an experienced team of securities prosecutors from the Criminal Division’s fraud section, which one source described as a Frankenstein-esque monster now struggling to rebuild its legacy.",
+      "score": 27,
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "f84d598522f1e4eb",
@@ -5782,7 +5674,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'un contentieux fiscal relatif aux contributions et impôts sur les salaires, domaine clé de la conformité fiscale."
+      "ai_summary": "Cette décision concerne la conformité fiscale : elle traite du versement forfaitaire de contributions sur salaires et honoraires, relevant de l'obligation de conformité avec la législation fiscale française."
     },
     {
       "hash": "a3133b7983d21832",
@@ -6070,7 +5962,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "05b0eee02e33b69f",
@@ -6232,7 +6124,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "efc65cb2578d6206",
@@ -6574,7 +6466,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e386c337ce240a02",
@@ -6683,24 +6575,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la lutte anticorruption et les partenariats institutionnels pour la conformité financière internationale."
-    },
-    {
-      "hash": "e965d0030e2c5e77",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "To foster a more competitive European banking sector that can better finance investment, innovation and growth, we need simplification and market integration to progress in parallel, says Supervisory Board Vice-Chair Frank Elderson. Read his full remarks",
-      "url": "https://x.com/ecb/status/2097339262156845286",
-      "author": "@ecb",
-      "published": "2026-09-08T15:00:00",
-      "summary": "To foster a more competitive European banking sector that can better finance investment, innovation and growth, we need simplification and market integration to progress in parallel, says Supervisory Board Vice-Chair Frank Elderson.Read his full remarks  bankingsupervision.europa.eu…— European Central Bank (@ecb) Sep 8, 2026",
-      "score": 12,
-      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne l'amélioration de la supervision bancaire européenne pour renforcer la compétitivité et le financement de l'économie."
     },
     {
       "hash": "b9ece5884b40d052",
@@ -6937,6 +6811,24 @@
       "ai_summary": "L'article traite de l'application de la loi FCPA sur la corruption étrangère, un élément clé de la conformité financière et réglementaire."
     },
     {
+      "hash": "78a087e6e30cd401",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Iran-related Designations; Issuance of Iran-related General License; Issuance of Amended Russia-related General License | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20261008",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-10-08T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "953d2cff0452fe83",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -7114,7 +7006,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du respect par l'autorité de régulation des procédures de traitement des lanceurs d'alerte."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3b1b115c614bd5f6",
@@ -7186,7 +7078,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "56d095131445b358",
@@ -7276,7 +7168,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e70c111210afa54b",
@@ -7294,10 +7186,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-10-08T13:48:30.962000+00:00",
+  "last_update": "2026-10-08T22:42:08.550578+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
