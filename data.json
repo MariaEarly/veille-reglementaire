@@ -1354,7 +1354,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article décrit l'organisation de l'examen parlementaire du projet de loi de finances 2027, relevant de la conformité budgétaire et législative financière."
+      "ai_summary": "Cet article concerne l'examen parlementaire du projet de loi de finances 2027, processus fondamental de conformité budgétaire et financière de l'État."
     },
     {
       "hash": "1d4ca96ea3fadf74",
@@ -2938,7 +2938,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3d1946064cd8e2ed",
@@ -2956,7 +2956,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b4507135cdbf75ce",
@@ -3334,7 +3334,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "de59f16ccfb10f8e",
@@ -3442,7 +3442,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "af2980d4b48fb8cd",
@@ -3460,7 +3460,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a016b0ccb3797814",
@@ -3928,7 +3928,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b9d0e01d85d382d0",
@@ -3964,7 +3964,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article analyse l'exposition des secteurs industriels français à la concurrence chinoise, un enjeu de stabilité économique et financière."
     },
     {
       "hash": "2ce91f736d3189db",
@@ -4705,24 +4705,6 @@
       "ai_summary": "Cet article concerne la nomination du directeur exécutif de l'Autorité bancaire européenne, responsable de la conformité réglementaire bancaire."
     },
     {
-      "hash": "71a01fca950fb798",
-      "source_name": "EDPB - European Data Protection Board",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Hellenic DPA decision on a data breach involving E.E.T.A.A. S.A. as processor for the Ministry of Social Cohesion and Family Affairs",
-      "url": "https://www.edpb.europa.eu/news/hellenic-dpa-decision-on-a-data-breach-involving-eetaa-sa-as-processor-for-the-ministry-of_en",
-      "author": "EDPB",
-      "published": "2026-10-08T12:00:00",
-      "summary": "Background informationDate of final decision: 28/07/2026National caseController: Ministry of Social Cohesion and Family AffairsLegal Reference(s): Article 25 (Data protection by design and by default), Article 28 (Processor), Article 32 (Security of processing), Article 33 (Notification of a personal data breach to the supervisory authority) and Article 34 (Communication of a personal data breach to the data subject)Decision: Administrative fine, Compliance order,&nbsp;Summary of the DecisionOri",
-      "score": 36,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: supervisory | +15 Source EU | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "60c36e330bfd69e7",
       "source_name": "Cass. - Fraude",
       "source_type": "rss",
@@ -4774,7 +4756,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "cb65ff626c53aefa",
@@ -5242,7 +5224,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0d16c4aabd845864",
@@ -5260,7 +5242,25 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "71a01fca950fb798",
+      "source_name": "EDPB - European Data Protection Board",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Hellenic DPA decision on a data breach involving E.E.T.A.A. S.A. as processor for the Ministry of Social Cohesion and Family Affairs",
+      "url": "https://www.edpb.europa.eu/news/hellenic-dpa-decision-on-a-data-breach-involving-eetaa-sa-as-processor-for-the-ministry-of_en",
+      "author": "EDPB",
+      "published": "2026-10-08T12:00:00",
+      "summary": "Background informationDate of final decision: 28/07/2026National caseController: Ministry of Social Cohesion and Family AffairsLegal Reference(s): Article 25 (Data protection by design and by default), Article 28 (Processor), Article 32 (Security of processing), Article 33 (Notification of a personal data breach to the supervisory authority) and Article 34 (Communication of a personal data breach to the data subject)Decision: Administrative fine, Compliance order,&nbsp;Summary of the DecisionOri",
+      "score": 30,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: supervisory | +15 Source EU | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "319d800de09f08bf",
@@ -5299,24 +5299,6 @@
       "ai_summary": "Cet article concerne la supervision bancaire et la régulation financière européenne, domaines clés de la conformité financière."
     },
     {
-      "hash": "a52eaf0893400982",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "Speaking at the conference 𝑩𝒂𝒏𝒌𝒔’ 𝒄𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆𝒏𝒆𝒔𝒔: 𝑬𝑼’𝒔 𝒂𝒈𝒆𝒏𝒅𝒂 𝒇𝒐𝒓 𝒂 𝒎𝒐𝒓𝒆 𝒊𝒏𝒕𝒆𝒈𝒓𝒂𝒕𝒆𝒅, 𝒆𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝒂𝒏𝒅 𝒄𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆 𝒃𝒂𝒏𝒌𝒊𝒏𝒈 𝒔𝒆𝒄𝒕𝒐𝒓 hos...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7513944576240447488",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-10-08T12:53:09",
-      "summary": "Speaking at the conference 𝑩𝒂𝒏𝒌𝒔’ 𝒄𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆𝒏𝒆𝒔𝒔: 𝑬𝑼’𝒔 𝒂𝒈𝒆𝒏𝒅𝒂 𝒇𝒐𝒓 𝒂 𝒎𝒐𝒓𝒆 𝒊𝒏𝒕𝒆𝒈𝒓𝒂𝒕𝒆𝒅, 𝒆𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝒂𝒏𝒅 𝒄𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆 𝒃𝒂𝒏𝒌𝒊𝒏𝒈 𝒔𝒆𝒄𝒕𝒐𝒓 hosted by BusinessEurope and European Banking Federation in Brussels, the European Banking Authority (EBA) Chair François-Louis Michaud highlighted the importance of dialogue between policymakers, supervisors and the private sector to understand challenges and identify practical solutions. \n“𝘌𝘶𝘳𝘰𝘱𝘦𝘢𝘯 𝘣𝘢𝘯𝘬𝘴 𝘢𝘳𝘦 𝘮𝘰𝘳𝘦 𝘳𝘦𝘴𝘪𝘭𝘪𝘦𝘯𝘵, 𝘣𝘦𝘵𝘵𝘦𝘳 𝘤𝘢𝘱𝘪𝘵𝘢𝘭𝘪𝘴𝘦𝘥 𝘢𝘯𝘥 𝘣𝘦𝘵𝘵𝘦𝘳 𝘱𝘳𝘦𝘱𝘢𝘳𝘦𝘥 𝘧𝘰𝘳 𝘴𝘩",
-      "score": 30,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "dd335e04ed7e958b",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -5332,7 +5314,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "521859d63f18d4d6",
@@ -5659,6 +5641,24 @@
       "ai_summary": "L'amende pour entrave aux droits d'accès des données personnelles relève de la conformité réglementaire en protection des données."
     },
     {
+      "hash": "a52eaf0893400982",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Speaking at the conference 𝑩𝒂𝒏𝒌𝒔’ 𝒄𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆𝒏𝒆𝒔𝒔: 𝑬𝑼’𝒔 𝒂𝒈𝒆𝒏𝒅𝒂 𝒇𝒐𝒓 𝒂 𝒎𝒐𝒓𝒆 𝒊𝒏𝒕𝒆𝒈𝒓𝒂𝒕𝒆𝒅, 𝒆𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝒂𝒏𝒅 𝒄𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆 𝒃𝒂𝒏𝒌𝒊𝒏𝒈 𝒔𝒆𝒄𝒕𝒐𝒓 hos...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7513944576240447488",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-10-08T12:53:09",
+      "summary": "Speaking at the conference 𝑩𝒂𝒏𝒌𝒔’ 𝒄𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆𝒏𝒆𝒔𝒔: 𝑬𝑼’𝒔 𝒂𝒈𝒆𝒏𝒅𝒂 𝒇𝒐𝒓 𝒂 𝒎𝒐𝒓𝒆 𝒊𝒏𝒕𝒆𝒈𝒓𝒂𝒕𝒆𝒅, 𝒆𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝒂𝒏𝒅 𝒄𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆 𝒃𝒂𝒏𝒌𝒊𝒏𝒈 𝒔𝒆𝒄𝒕𝒐𝒓 hosted by BusinessEurope and European Banking Federation in Brussels, the European Banking Authority (EBA) Chair François-Louis Michaud highlighted the importance of dialogue between policymakers, supervisors and the private sector to understand challenges and identify practical solutions. \n“𝘌𝘶𝘳𝘰𝘱𝘦𝘢𝘯 𝘣𝘢𝘯𝘬𝘴 𝘢𝘳𝘦 𝘮𝘰𝘳𝘦 𝘳𝘦𝘴𝘪𝘭𝘪𝘦𝘯𝘵, 𝘣𝘦𝘵𝘵𝘦𝘳 𝘤𝘢𝘱𝘪𝘵𝘢𝘭𝘪𝘴𝘦𝘥 𝘢𝘯𝘥 𝘣𝘦𝘵𝘵𝘦𝘳 𝘱𝘳𝘦𝘱𝘢𝘳𝘦𝘥 𝘧𝘰𝘳 𝘴𝘩",
+      "score": 25,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "3f37d8cc8c8f0fc8",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -5674,7 +5674,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2b38cd7c32090262",
@@ -5875,24 +5875,6 @@
       "ai_summary": "Cet article concerne la conformité fiscale car il traite d'un litige relatif à la TVA et aux pénalités fiscales réclamées à une entreprise."
     },
     {
-      "hash": "291214134d7119bb",
-      "source_name": "Cass. - Blanchiment",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de NANCY, 1ère chambre, 29 septembre 2026, 24NC02167",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDENANCY-20260929-24NC02167",
-      "author": "1ère chambre",
-      "published": "2026-09-29T12:00:00",
-      "summary": "Vu la procédure suivante :           Procédure contentieuse antérieure :           M. A... B... a demandé au tribunal administratif de Strasbourg d'annuler la décision du 15 novembre 2022 par laquelle le préfet du Haut-Rhin a refusé de renouveler son autorisation provisoire de séjour, ainsi que la décision implicite rejetant son recours gracieux et d'enjoindre au préfet du Haut-Rhin de l'admettre au séjour ou, à défaut, de procéder à un nouvel examen de sa situation et de lui délivrer dans l'att",
-      "score": 20,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
-    },
-    {
       "hash": "05b0eee02e33b69f",
       "source_name": "EDPB - European Data Protection Board",
       "source_type": "rss",
@@ -5965,42 +5947,6 @@
       "ai_summary": "SustainSoft aide les entreprises à se conformer à leurs obligations réglementaires en matière de RSE et de reporting de durabilité."
     },
     {
-      "hash": "5ed6ed955cd62eef",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Le \"Clarity Act\" de retour au sénat américain",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/video-le-clarity-act-de-retour-au-senat-americain_VN-202609110627.html",
-      "author": "",
-      "published": "2026-09-11T15:00:00",
-      "summary": "Ce vendredi 11 septembre, le retour du \"Clarity Act\" au sénat américain, l'éventualité d'un début de bull market pour le bitcoin, la question de l'avenir des Bitcoin Treasury Compagnies, ainsi que les raisons de l'utilisation du DCA pour s'exposer au Bitcoin, ont été abordés par Grégory Raymond, cofondateur de The Big Whale, Alexandre Laizet, CEO de Capital B, et Maurgane NLandu, fondatrice de Cryptos-360, reçus par Sandra Gandoin dans l'émission BFM Crypto, le Club sur BFM Business.",
-      "score": 19,
-      "score_breakdown": "+10 mots forts: crypto | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le Clarity Act concerne la conformité financière car il vise à clarifier le cadre réglementaire des cryptomonnaies aux États-Unis."
-    },
-    {
-      "hash": "3a857e5a1cb75a69",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "BFM Crypto, le Club : Le \"Clarity Act\" de retour au sénat américain - 11/09",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/video-bfm-crypto-le-club-le-clarity-act-de-retour-au-senat-americain-11-09_VN-202609110620.html",
-      "author": "",
-      "published": "2026-09-11T13:53:32",
-      "summary": "Ce vendredi 11 septembre, le retour du \"Clarity Act\" au sénat américain, l'éventualité d'un début de bull market pour le bitcoin, la question de l'avenir des Bitcoin Treasury Compagnies, ainsi que les raisons de l'utilisation du DCA pour s'exposer au Bitcoin, ont été abordés par Grégory Raymond, cofondateur de The Big Whale, Alexandre Laizet, CEO de Capital B, et Maurgane NLandu, fondatrice de Cryptos-360, reçus par Sandra Gandoin dans l'émission BFM Crypto, le Club sur BFM Business. Retrouvez l",
-      "score": 19,
-      "score_breakdown": "+10 mots forts: crypto | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le Clarity Act concerne la conformité financière en clarifiant le cadre réglementaire des cryptomonnaies aux États-Unis."
-    },
-    {
       "hash": "27bfbbd5a8010999",
       "source_name": "BIS - Working Papers",
       "source_type": "rss",
@@ -6034,7 +5980,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8858abda9bbff6d6",
@@ -6448,7 +6394,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de corruption impliquant deux géants pétroliers et les obligations légales des poursuites."
     },
     {
       "hash": "311f83264d6b7d4c",
@@ -6466,7 +6412,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a6d05c26c54c47fe",
@@ -6683,24 +6629,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de l'obligation de déclaration des entreprises de services monétaires à FinCEN."
-    },
-    {
-      "hash": "28a4c635b41c1793",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Transcript: SEC enforcement chief talks priorities, FCPA",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/transcript-sec-enforcement-chief-talks-priorities-fcpa",
-      "author": "Dan Novak",
-      "published": "2026-09-11T14:48:26",
-      "summary": "A full transcript of GIR’s interview with SEC Enforcement Director David Woodcock.",
-      "score": 9,
-      "score_breakdown": "+3 Presse | +3 Géo Intl: fcpa | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le FCPA est une loi majeure de conformité financière concernant la lutte contre la corruption internationale des entreprises."
     },
     {
       "hash": "be741a056e9332f1",
@@ -6934,7 +6862,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "69674cb6360cd16e",
@@ -7078,10 +7006,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-10-11T13:11:51.900574+00:00",
+  "last_update": "2026-10-11T17:02:07.004731+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
