@@ -742,7 +742,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne l'application de la réglementation financière par les professionnels lors de la commercialisation de produits d'épargne et d'instruments financiers."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'application de la réglementation par les professionnels lors de la commercialisation de produits financiers."
     },
     {
       "hash": "21b16573e1f75dec",
@@ -2182,7 +2182,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière en proposant des amendements aux normes prudentielles applicables aux dépositaires centraux de titres."
     },
     {
       "hash": "f1c74f7077d3370a",
@@ -2614,7 +2614,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité des pratiques de commercialisation d'instruments financiers et d'assurance-vie selon les rappels réglementaires des autorités."
+      "ai_summary": "Cet article rappelle les obligations de conformité des distributeurs d'instruments financiers et d'assurance-vie en matière de commercialisation et protection des clients."
     },
     {
       "hash": "45fc890e996daf7a",
@@ -2902,7 +2902,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article examine les failles de conformité 25 ans après Sarbanes-Oxley, analysant des fraudes massives basées sur des actifs déclarés incorrectement et des garanties multiples."
     },
     {
       "hash": "e9075169a2e8d750",
@@ -2995,24 +2995,6 @@
       "ai_summary": "Cet article concerne le financement de secteurs sanctionnés et le respect des régimes de sanctions internationales par les institutions financières."
     },
     {
-      "hash": "fae1763eedf3fccb",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 25 septembre 2026 portant approbation de la convention constitutive modificative d'un groupement d'intérêt public",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054965777",
-      "author": "Ministère de l'enseignement supérieur, de la recherche et de l'espace",
-      "published": "2026-10-09T00:00:00",
-      "summary": "La convention constitutive modificative n° 3 du groupement d'intérêt public « Cancéropôle Grand Ouest », dont un extrait figure ci-après, est approuvée.\nLa convention constitutive modificative n° 3 peut être consultée, par toute personne intéressée, au siège du groupement et sur son site internet.\nLe présent arrêté et son annexe seront publiés au Journal officiel de la République française.\nANNEXEEXTRAITS DE LA CONVENTION CONSTITUTIVE MODIFICATIVE NO 3 DU GROUPEMENT D'INTÉRÊT PUBLIC « CANCÉROPÔL",
-      "score": 54,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "b4507135cdbf75ce",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
@@ -3029,6 +3011,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de conformité financière car il concerne une sanction disciplinaire prononcée par une institution publique."
+    },
+    {
+      "hash": "ecf6460bd7783241",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Senior OFAC official: US sanctions agency emphasising individual liability",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/senior-ofac-official-us-sanctions-agency-emphasising-individual-liability",
+      "author": "Grace Propheta",
+      "published": "2026-10-12T14:19:54",
+      "summary": "The assistant director of the US sanctions enforcer’s compliance division told a London conference audience that the agency is increasingly focusing on holding individuals accountable for sanctions violations, a development he said shows sanctions compliance isn’t just for large multinationals.",
+      "score": 54,
+      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: compliance | +3 Presse | +3 Géo Intl: ofac | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "7bd8ed0d5a5d6d92",
@@ -3065,6 +3065,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il guide les dépositaires sur leurs obligations réglementaires concernant les OPCVM et FIA."
+    },
+    {
+      "hash": "d734deeaaafc456a",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 12 October, 2026",
+      "url": "https://www.eba.europa.eu/node/20089",
+      "author": "Anonymous",
+      "published": "2026-10-12T15:00:02",
+      "summary": "EBA E-mail alert 12 October, 2026\n\n  \n    Date\n          12/10/2026\n\n      \n\nAnonymous (not verified)\n\nMon, 10/12/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          The EBA publishes Final Report on draft amendments to technical standards on prudential requirements for central securities depositories\n          ​The EBA releases the final technical package for release 4.4 of its reporting and Pillar 3 disclosure framework \n      ",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: eba | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "44fe4c82580e401b",
@@ -3208,7 +3226,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les prestataires de services cryptoactifs autorisés MiCA doivent cesser les services sur stablecoins non conformes à MiCA auprès des clients UE."
     },
     {
       "hash": "af80e949b237d40d",
@@ -3481,6 +3499,24 @@
       "ai_summary": "Les autorités britanniques enquêtent sur un sponsor de la Premier League pour blanchiment d'argent, concernant la conformité AML."
     },
     {
+      "hash": "fae1763eedf3fccb",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 25 septembre 2026 portant approbation de la convention constitutive modificative d'un groupement d'intérêt public",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054965777",
+      "author": "Ministère de l'enseignement supérieur, de la recherche et de l'espace",
+      "published": "2026-10-09T00:00:00",
+      "summary": "La convention constitutive modificative n° 3 du groupement d'intérêt public « Cancéropôle Grand Ouest », dont un extrait figure ci-après, est approuvée.\nLa convention constitutive modificative n° 3 peut être consultée, par toute personne intéressée, au siège du groupement et sur son site internet.\nLe présent arrêté et son annexe seront publiés au Journal officiel de la République française.\nANNEXEEXTRAITS DE LA CONVENTION CONSTITUTIVE MODIFICATIVE NO 3 DU GROUPEMENT D'INTÉRÊT PUBLIC « CANCÉROPÔL",
+      "score": 45,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "593564a9ce674a41",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -3496,7 +3532,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "af2980d4b48fb8cd",
@@ -3514,7 +3550,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1c6098506db014dc",
@@ -3532,7 +3568,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Le Luxembourg met à jour son évaluation nationale des risques de financement du terrorisme, relevant de la conformité AML/CFT."
     },
     {
       "hash": "3d1946064cd8e2ed",
@@ -3550,7 +3586,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a016b0ccb3797814",
@@ -3841,6 +3877,24 @@
       "ai_summary": "Tracfin présente son bilan 2025 et ses enjeux en matière de renseignement financier, domaine clé de la conformité et de la lutte anti-blanchiment."
     },
     {
+      "hash": "f731959f6d6acaea",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "US arrests fugitive in $2bn Venezuela money laundering case",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/us-arrests-fugitive-in-2bn-venezuela-money-laundering-case",
+      "author": "Estelle Atkinson",
+      "published": "2026-10-12T19:31:27",
+      "summary": "A Colombian national previously indicted alongside Maduro ally Alex Nain Saab Morán will make his first appearance in Miami federal court to face money laundering charges.",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: money laundering | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "dfc78ba3dc4c7def",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -4018,7 +4072,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b9d0e01d85d382d0",
@@ -4288,7 +4342,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5a736c944cb3dae5",
@@ -4864,7 +4918,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "13aa693536b6db85",
@@ -4882,7 +4936,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les notes de version des fournisseurs représentent des risques tiers nécessitant une surveillance compliance dans les processus de diligence renforcée."
     },
     {
       "hash": "cb65ff626c53aefa",
@@ -5242,7 +5296,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des risques de dépendances externes et cyber qui impactent la stabilité du système financier."
     },
     {
       "hash": "34e9aef303955fbd",
@@ -5368,7 +5422,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0d16c4aabd845864",
@@ -5386,7 +5440,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il relate une amende de 180 000 EUR infligée pour violations du RGPD concernant les données de santé des passagers."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "71a01fca950fb798",
@@ -5404,7 +5458,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "319d800de09f08bf",
@@ -5458,7 +5512,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car les sanctions de l'UE imposent des obligations de gel d'actifs et de conformité pour les entités listées."
     },
     {
       "hash": "dd335e04ed7e958b",
@@ -5476,7 +5530,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "521859d63f18d4d6",
@@ -5818,7 +5872,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3f37d8cc8c8f0fc8",
@@ -5836,7 +5890,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6426e8a4f0458681",
@@ -5854,7 +5908,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2b38cd7c32090262",
@@ -5873,6 +5927,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet jugement concerne une vente forcée ordonnée par tribunal, sans rapport direct avec la conformité financière ou la lutte anti-blanchiment."
+    },
+    {
+      "hash": "90af612757573140",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "DOJ investigating Binance compliance with 2023 settlement: Bloomberg",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/doj-investigating-binance-compliance-2023-settlement-bloomberg",
+      "author": "Malavika Devaya",
+      "published": "2026-10-12T14:03:43",
+      "summary": "",
+      "score": 24,
+      "score_breakdown": "+10 mots forts: compliance | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "919968135357ac13",
@@ -6160,6 +6232,24 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
+      "ai_summary": "Hors périmètre compliance."
+    },
+    {
+      "hash": "711fbc48426893af",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "UK government consulting on SFO whistleblower payment proposal",
+      "url": "https://globalinvestigationsreview.com/article/uk-government-consulting-sfo-whistleblower-payment-proposal",
+      "author": "Malavika Devaya",
+      "published": "2026-10-12T13:22:58",
+      "summary": "",
+      "score": 16,
+      "score_breakdown": "+5 mots moyens: payment | +3 Presse | +3 Géo Intl: sfo | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
       "ai_summary": null
     },
     {
@@ -6251,6 +6341,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il aborde les outils macroprudentiels et la stabilité financière dans la politique monétaire suisse."
+    },
+    {
+      "hash": "c77c58289b967c0e",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🔍 𝗡𝗲𝘄 𝗳𝗿𝗼𝗺 𝘁𝗵𝗲 𝗘𝗕𝗔: 𝗙𝗶𝗻𝗮𝗹 𝗥𝗲𝗽𝗼𝗿𝘁 𝗼𝗻 𝗱𝗿𝗮𝗳𝘁 𝗮𝗺𝗲𝗻𝗱𝗺𝗲𝗻𝘁𝘀 𝘁𝗼 𝘁𝗵𝗲 𝗥𝗧𝗦 𝗼𝗻 𝗽𝗿𝘂𝗱𝗲𝗻𝘁𝗶𝗮𝗹 𝗿𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀 𝗳𝗼𝗿 𝗰𝗲𝗻𝘁𝗿𝗮𝗹 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝗶𝗲𝘀 𝗱𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀 (𝗖𝗦...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7515408389255081987",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-10-12T13:49:50",
+      "summary": "🔍 𝗡𝗲𝘄 𝗳𝗿𝗼𝗺 𝘁𝗵𝗲 𝗘𝗕𝗔: 𝗙𝗶𝗻𝗮𝗹 𝗥𝗲𝗽𝗼𝗿𝘁 𝗼𝗻 𝗱𝗿𝗮𝗳𝘁 𝗮𝗺𝗲𝗻𝗱𝗺𝗲𝗻𝘁𝘀 𝘁𝗼 𝘁𝗵𝗲 𝗥𝗧𝗦 𝗼𝗻 𝗽𝗿𝘂𝗱𝗲𝗻𝘁𝗶𝗮𝗹 𝗿𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀 𝗳𝗼𝗿 𝗰𝗲𝗻𝘁𝗿𝗮𝗹 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝗶𝗲𝘀 𝗱𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀 (𝗖𝗦𝗗𝘀)\n\nFollowing the CSDR Refit, banking CSDs can now provide banking-type ancillary services, such as cash and FX payment services, to other CSDs.\n\n🎯 The aim: better access to foreign currency for non-banking CSDs and, ultimately, more efficient settlement in Europe.\n🛡️ Our response: updated prudential requirements so that greater interconnectedness between CSDs doesn’",
+      "score": 15,
+      "score_breakdown": "+10 mots moyens: payment, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "913cffffb17a3480",
@@ -6574,7 +6682,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a6d05c26c54c47fe",
@@ -7024,7 +7132,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "69674cb6360cd16e",
@@ -7168,10 +7276,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     }
   ],
-  "last_update": "2026-10-12T15:50:07.973433+00:00",
+  "last_update": "2026-10-12T23:59:33.661597+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
