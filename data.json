@@ -976,7 +976,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Le rapport de l'ACPR sur les chiffres du marché bancaire et assurantiel relève de la conformité financière car il concerne la supervision prudentielle des établissements."
     },
     {
       "hash": "5d3a427dd60a51e9",
@@ -1246,7 +1246,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La classification de l'USDC comme token de monnaie électronique significatif relève de la conformité réglementaire financière européenne sous MiCA."
     },
     {
       "hash": "2782b51258a51730",
@@ -1373,6 +1373,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne le transfert de risque en titrisation synthétique, un sujet clé de conformité financière et de régulation prudentielle."
+    },
+    {
+      "hash": "909ca84945f51752",
+      "source_name": "Financial Crime News",
+      "source_type": "press",
+      "category": "presse",
+      "title": "AMEX – USD350 Million Fine",
+      "url": "http://thefinancialcrimenews.com/amex-usd350-million-fine/?utm_source=rss&utm_medium=rss&utm_campaign=amex-usd350-million-fine",
+      "author": "John Cusack",
+      "published": "2026-10-14T16:20:54",
+      "summary": "\n\n\n\n\n\n\nOn 8 October, 2026 the US Office of the Comptroller of the Currency (OCC) announced a cease-and-desist order and a $350 million civil money penalty against American Express National Bank, Sandy, Utah (bank), for deficiencies in the bank’s Bank Secrecy Act (BSA) and anti-money laundering (AML) compliance program.\nThe OCC determined that the bank failed to establish and maintain a BSA/AML compliance program reasonably designed to assure and monitor compliance with the BSA and its implementi",
+      "score": 76,
+      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, compliance, anti-money | +5 mots moyens: bank | +3 Presse | +3 Géo Intl: bank secrecy act | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "d85e593443391a3f",
@@ -2074,7 +2092,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Tracfin détecte et analyse les flux financiers suspects pour lutter contre la criminalité organisée et la fraude financière."
     },
     {
       "hash": "c20ae52da02e92a2",
@@ -2128,7 +2146,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car Sanofi risque une amende pouvant atteindre 10% de son chiffre d'affaires mondial pour pratiques anticoncurrentielles."
+      "ai_summary": "Sanofi s'engage à respecter les règles de concurrence pour éviter une amende de 10% de son chiffre d'affaires."
     },
     {
       "hash": "726464bfc08aa03b",
@@ -2221,24 +2239,6 @@
       "ai_summary": "Cet article traite de l'application de la loi FCPA, régulant la corruption dans les affaires internationales, donc relève de la conformité financière."
     },
     {
-      "hash": "41c382b112f5b3d8",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Conférence des présidents",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054980077",
-      "author": "",
-      "published": "2026-10-14T00:00:00",
-      "summary": "Assemblée nationaleSession ordinaire 2026-2027Ordre du jour de l'Assemblée nationale(Conférence des présidents du mardi 13 octobre 2026)DATESMATINAPRÈS-MIDISOIRSemaine du GouvernementOCTOBREMARDI 13À 15 heures :- Questions au Gouvernement.- Suite Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants (3106, 3190 rect.).- Votes solennels :- Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants. (1)- Pn org. adapter l'autorité ",
-      "score": 67,
-      "score_breakdown": "+10 mots forts: esma | +25 Source FR | +10 Géo EU: esma | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "b717801f8b866147",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -2252,6 +2252,24 @@
       "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
       "doc_type": "DÉCRET",
       "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "41c382b112f5b3d8",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Conférence des présidents",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054980077",
+      "author": "",
+      "published": "2026-10-14T00:00:00",
+      "summary": "Assemblée nationaleSession ordinaire 2026-2027Ordre du jour de l'Assemblée nationale(Conférence des présidents du mardi 13 octobre 2026)DATESMATINAPRÈS-MIDISOIRSemaine du GouvernementOCTOBREMARDI 13À 15 heures :- Questions au Gouvernement.- Suite Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants (3106, 3190 rect.).- Votes solennels :- Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants. (1)- Pn org. adapter l'autorité ",
+      "score": 67,
+      "score_breakdown": "+10 mots forts: esma | +25 Source FR | +10 Géo EU: esma | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
       "status": "new",
       "early_brief": false,
       "ai_summary": null
@@ -3478,7 +3496,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une enquête pénale sur la fraude et la corruption touchant les contrats de défense et l'intégrité des marchés publics OTAN."
     },
     {
       "hash": "46b36751e9baffa4",
@@ -3712,7 +3730,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1c6098506db014dc",
@@ -3748,7 +3766,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a016b0ccb3797814",
@@ -4054,7 +4072,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "EPI concerne la conformité financière car elle relève de la régulation des systèmes de paiement et de la surveillance du secteur financier par les autorités."
     },
     {
       "hash": "3b6e9f8310f330e2",
@@ -4072,7 +4090,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la saisie de cryptomonnaies issues de fraude et de l'établissement des droits de propriété sur des fonds illicites."
     },
     {
       "hash": "f731959f6d6acaea",
@@ -4270,7 +4288,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b9d0e01d85d382d0",
@@ -5062,7 +5080,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0a4f71b1b7a277bb",
@@ -5080,7 +5098,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "60c36e330bfd69e7",
@@ -5134,7 +5152,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la fraude fiscale et de la sous-déclaration des bénéfices dans le secteur de l'hôtellerie-restauration."
     },
     {
       "hash": "b30d9eacc7bd7147",
@@ -5152,7 +5170,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "157556d2120c6b4e",
@@ -5170,7 +5188,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "13aa693536b6db85",
@@ -5569,6 +5587,24 @@
       "ai_summary": "Cet arrêt concerne une affaire de fraude jugée en appel, domaine relevant de la conformité financière et de la lutte contre les irrégularités."
     },
     {
+      "hash": "3a84ace57918ba1b",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "François Haas - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByWjV1SFFLTk5jSkFULXcwMThMZUVadEtoNHZmVGwzSVdleE5vZ1FFN0pqY3BCY19Uclc3YWJyUWNUZUZZd3RiaWI5b3VKRV9FYjJFM2hDdGJxWmFW?oc=5",
+      "author": "",
+      "published": "2026-09-26T18:45:34",
+      "summary": "François Haas&nbsp;&nbsp;Banque de France",
+      "score": 30,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "5b516def8ba7944d",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -5674,7 +5710,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "20817d88c64b335a",
@@ -6124,7 +6160,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3f37d8cc8c8f0fc8",
@@ -6142,7 +6178,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b1fd242c7d822a2a",
@@ -6160,7 +6196,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "2b38cd7c32090262",
@@ -6232,7 +6268,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c96b370270fd74ad",
@@ -6433,6 +6469,24 @@
       "ai_summary": "FinCEN impose une amende de 1,2 milliard de dollars à Bank of America pour violations de conformité aux lois anti-blanchiment."
     },
     {
+      "hash": "2e25789dcea3b95f",
+      "source_name": "Financial Crime News",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Bank of America- Fine if USD1.2 Billion",
+      "url": "http://thefinancialcrimenews.com/bank-of-america-fine-if-usd1-2-billion/?utm_source=rss&utm_medium=rss&utm_campaign=bank-of-america-fine-if-usd1-2-billion",
+      "author": "John Cusack",
+      "published": "2026-10-14T16:25:26",
+      "summary": "The post Bank of America- Fine if USD1.2 Billion appeared first on Financial Crime News.",
+      "score": 19,
+      "score_breakdown": "+10 mots moyens: bank, ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "8c3003fc21bb2b57",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -6538,7 +6592,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "711fbc48426893af",
@@ -6952,7 +7006,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a6d05c26c54c47fe",
@@ -7387,24 +7441,6 @@
       "ai_summary": "Cet article concerne la levée de sanctions financières imposées à des entités liées à la République Démocratique du Congo par l'OFAC."
     },
     {
-      "hash": "7694df27787e2d0f",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Présidentielle 2027 : l’Arcom réfléchit à des mécanismes de régulation pour les podcasts politiques les plus influents",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/14/presidentielle-2027-l-arcom-reflechit-a-des-mecanismes-de-regulation-pour-les-podcasts-politiques-les-plus-influents_6793388_3234.html",
-      "author": "",
-      "published": "2026-10-14T03:30:15",
-      "summary": "Gaspard G, Guillaume Pley, Sam Zirah, etc., friands d’interviews de candidats à la présidentielle, sont invités par l’Autorité de régulation de la communication audiovisuelle et numérique à la réflexion pour un code de bonne conduite partagé.",
-      "score": 4,
-      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "69674cb6360cd16e",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7513,24 +7549,6 @@
       "ai_summary": "Cet article concerne le recouvrement d'actifs provenant de corruption, domaine clé de la conformité financière et AML."
     },
     {
-      "hash": "eb162b1597e08f9d",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Fonction publique : le dispositif des ruptures conventionnelles pérennisé mais revu à la baisse",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/14/fonction-publique-le-dispositif-des-ruptures-conventionnelles-perennise-mais-revu-a-la-baisse_6773874_823448.html",
-      "author": "",
-      "published": "2026-09-14T17:34:59",
-      "summary": "Tout en maintenant le dispositif pour les fonctionnaires, le gouvernement a modifié les montants des indemnités pouvant être versées aux agents publics. Si l’administration défend une logique de « régulation » pour éviter certains « effets d’aubaine », les syndicats y voient une logique d’économies.",
-      "score": 4,
-      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des règles de versement des indemnités publiques et de leur encadrement réglementaire."
-    },
-    {
       "hash": "9a360888ad61ee5d",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7549,7 +7567,7 @@
       "ai_summary": "Lafarge conteste les accusations de destruction de preuves concernant ses relations avec des groupes terroristes, enjeu de conformité cruciale."
     }
   ],
-  "last_update": "2026-10-14T17:24:32.733076+00:00",
+  "last_update": "2026-10-14T21:08:19.852641+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
