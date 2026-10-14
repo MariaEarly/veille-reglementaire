@@ -1339,6 +1339,24 @@
       "ai_summary": "Cet article concerne le transfert de risque en titrisation synthétique, un sujet clé de conformité financière et de régulation prudentielle."
     },
     {
+      "hash": "d85e593443391a3f",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Bank of America fined historic $1.2bn over sanctions, AML breaches",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/bank-of-america-fined-historic-12bn-over-sanctions-aml-breaches",
+      "author": "Duncan Randall",
+      "published": "2026-10-13T21:09:58",
+      "summary": "The US Treasury said the lender failed to escalate suspicious activity for years despite a 2024 cease-and-desist over violations and unsound practices tied to the bank’s anti-money laundering and sanctions programme",
+      "score": 76,
+      "score_breakdown": "+20 mots critiques: sanction, money laundering | +20 mots forts: aml, anti-money | +5 mots moyens: bank | +3 Presse | +3 Géo Intl: us treasury | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "1d7980d2377a83b7",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -2038,7 +2056,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne l'arrêté des comptes 2026 et la revue des états financiers, conformément à la réglementation de l'AMF sur la conformité financière et comptable."
     },
     {
       "hash": "726464bfc08aa03b",
@@ -2129,6 +2147,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de l'application de la loi FCPA, régulant la corruption dans les affaires internationales, donc relève de la conformité financière."
+    },
+    {
+      "hash": "b717801f8b866147",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décret n° 2026-952 du 12 octobre 2026 portant publication de l'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025 (1)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054979583",
+      "author": "Ministère de l'Europe et des affaires étrangères",
+      "published": "2026-10-14T00:00:00",
+      "summary": "L'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025, sera publié au Journal officiel de la République française.\nLe Premier ministre et le ministre de l'Europe et des affaires étrangères sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.\nANNEXEPROCÉDURE D'AP",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "DÉCRET",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "cef0c2e6aa00744f",
@@ -2650,7 +2686,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière en établissant les règles de régulation des fonds d'investissement, notamment l'agrément et la documentation obligatoire."
+      "ai_summary": "Cet article traite de la conformité financière en établissant les règles réglementaires d'agrément des fonds d'investissement et les obligations de documentation et d'information."
     },
     {
       "hash": "c1ff069b6279da59",
@@ -2920,7 +2956,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne le programme de travail commun des autorités de supervision financière européennes pour 2027 en matière de conformité réglementaire."
     },
     {
       "hash": "0281b90ece09f4d8",
@@ -3406,7 +3442,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de l'évolution du secteur GRC et des nouvelles solutions de conformité, directement pertinent pour la conformité financière et réglementaire."
     },
     {
       "hash": "00f76241ceae52dc",
@@ -3532,7 +3568,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cette acquisition relève de la conformité financière car elle requiert l'approbation réglementaire sous la Réglementation sur les fusionsUE."
     },
     {
       "hash": "de59f16ccfb10f8e",
@@ -3640,7 +3676,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "593564a9ce674a41",
@@ -3658,7 +3694,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "af2980d4b48fb8cd",
@@ -3676,7 +3712,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1c6098506db014dc",
@@ -3712,7 +3748,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a016b0ccb3797814",
@@ -4198,7 +4234,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b9d0e01d85d382d0",
@@ -4468,7 +4504,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5a736c944cb3dae5",
@@ -5029,24 +5065,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de blanchiment de capitaux, infraction majeure relevant de la conformité AML/KYC."
     },
     {
-      "hash": "bd96d2fd2b18f3b6",
-      "source_name": "Commission EU - Press",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Video message by President von der Leyen to mark 25th Anniversary of IFOAM Organics Europe",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2089",
-      "author": "",
-      "published": "2026-10-06T15:07:09",
-      "summary": "European Commission Speech Brussels, 06 Oct 2026 President Drexler, Dear Dora,\nLadies and gentlemen,\nCongratulations on your 25th anniversary!\nIFOAM Organics Europe and all its members have so much to be proud...",
-      "score": 35,
-      "score_breakdown": "+10 mots forts: dora | +15 Source EU | +10 Géo EU: european commission, dora | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "13aa693536b6db85",
       "source_name": "Corporate Compliance Insights",
       "source_type": "press",
@@ -5422,7 +5440,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les autorités de supervision identifient les risques externes et technologiques menaçant la stabilité du système financier européen."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des risques de dépendances externes et de cybersécurité que les autorités de supervision financière considèrent comme des enjeux majeurs de conformité réglementaire."
     },
     {
       "hash": "34e9aef303955fbd",
@@ -5548,7 +5566,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "20817d88c64b335a",
@@ -5620,7 +5638,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'ESMA analyse l'impact des réseaux sociaux sur les décisions d'investissement retail, relevant un enjeu de conformité comportementale et de protection des investisseurs."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la protection des investisseurs de détail face aux risques comportementaux liés aux réseaux sociaux."
     },
     {
       "hash": "394844d6977ed878",
@@ -5746,7 +5764,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les entreprises doivent adapter leurs programmes de conformité aux changements réglementaires du droit du travail fédéral."
     },
     {
       "hash": "5945efdeab4d75a9",
@@ -6016,7 +6034,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3f37d8cc8c8f0fc8",
@@ -6034,7 +6052,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2b38cd7c32090262",
@@ -6106,7 +6124,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "c96b370270fd74ad",
@@ -6322,7 +6340,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "FinCEN impose une amende de 1,2 milliard de dollars à Bank of America pour violations de conformité aux lois anti-blanchiment."
     },
     {
       "hash": "8c3003fc21bb2b57",
@@ -6430,7 +6448,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "711fbc48426893af",
@@ -6503,42 +6521,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article concerne la conformité aux règles de protection des données (RGPD), pénalisant un défaut d'accessibilité des droits des personnes."
-    },
-    {
-      "hash": "5c8780ebc083bfe1",
-      "source_name": "BIS - Speeches",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Opening remarks - CCBG Subcommittee on Banking Supervision and Financial Stability meeting",
-      "url": "https://www.bis.org/speeches/20260907-opening-remarks-ccbg-subcommittee-banking-supervision-and-financial-stability-meeting",
-      "author": "Phil Mnisi",
-      "published": "2026-09-14T00:00:00",
-      "summary": "Opening remarks by Mr Phil Mnisi, Governor of the Central Bank of Eswatini, at the CCBG Subcommittee on Banking Supervision and Financial Stability Meeting, Ezulwini, 30 July 2026.",
-      "score": 15,
-      "score_breakdown": "+5 mots moyens: bank | +5 Source Intl | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la supervision bancaire et la stabilité financière, piliers essentiels de la conformité réglementaire."
-    },
-    {
-      "hash": "dbff294dd5a30d38",
-      "source_name": "BIS - Speeches",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Monetary policy and financial stability at the SNB - the role of macroprudential tools",
-      "url": "https://www.bis.org/speeches/20260907-monetary-policy-and-financial-stability-snb-role-macroprudential-tools",
-      "author": "Antoine Martin",
-      "published": "2026-09-14T00:00:00",
-      "summary": "Speech by Mr Antoine Martin, Vice Chairman of the Governing Board of the Swiss National Bank, at the University of Basel, Basel, 16 August 2026.",
-      "score": 15,
-      "score_breakdown": "+5 mots moyens: bank | +5 Source Intl | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde les outils macroprudentiels et la stabilité financière dans la politique monétaire suisse."
     },
     {
       "hash": "c77c58289b967c0e",
@@ -6880,7 +6862,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites pénales contre Shell et Eni pour corruption, enjeu majeur de conformité anticorruption."
     },
     {
       "hash": "a6d05c26c54c47fe",
@@ -7114,7 +7096,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions financières imposées par l'OFAC contre les entités liées au narcotrafic et au terrorisme."
     },
     {
       "hash": "be741a056e9332f1",
@@ -7366,7 +7348,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la gestion des procédures de dénonciation par les autorités de régulation financière."
     },
     {
       "hash": "23f14e4e3ba5f10d",
@@ -7477,7 +7459,7 @@
       "ai_summary": "Lafarge conteste les accusations de destruction de preuves concernant ses relations avec des groupes terroristes, enjeu de conformité cruciale."
     }
   ],
-  "last_update": "2026-10-13T22:58:15.928782+00:00",
+  "last_update": "2026-10-14T02:42:19.469023+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
