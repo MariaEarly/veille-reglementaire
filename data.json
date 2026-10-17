@@ -565,6 +565,24 @@
   ],
   "items": [
     {
+      "hash": "e9953436bd6ab3f8",
+      "source_name": "JORF - Sanctions",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décision n° 1089 du 14 octobre 2026 relative à la composition des sections de la commission des sanctions",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054992805",
+      "author": "Autorité des marchés financiers",
+      "published": "2026-10-17T00:00:00",
+      "summary": "Les deux sections constituées par la commission des sanctions sont ainsi composées :Première section : Mme Valérie Michel-Amsellem, présidente, Mme Marie-Gabrielle Merloz, M. Alain David, M. Claude Baj, Mme Pascale Auclair et M. Aurélien Soustre.Deuxième section : M. Jean-Claude Hassan, président, M. Philippe Coirre, M. Julien Granotier, Mme Sophie Langlois, Mme Anne Le Lorier et Mme Ute Meyenberg.\nLa présente décision sera publiée au Journal officiel de la République française.",
+      "score": 100,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "c4fcbcd84dea2482",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -979,6 +997,24 @@
       "ai_summary": "Rapport de l'ACPR sur les chiffres du marché bancaire et assurantiel 2025, relevant du contrôle prudentiel et de la conformité réglementaire."
     },
     {
+      "hash": "3e1f814de99c981b",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 15 octobre 2026 portant application des articles L. 562-2 et suivants du code monétaire et financier",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054992330",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-10-17T00:00:00",
+      "summary": "Par arrêté du ministre de l'intérieur et du ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique en date du 15 octobre 2026, vu le code monétaire et financier, notamment ses articles L. 562-2 et suivants, les fonds et ressources économiques qui appartiennent à, sont possédés, détenus ou contrôlés par l'association « Sciences & Education », créée le 27 juillet 2018 et déclarée le 1er août 2018 à la préfecture des Hauts-de-Seine (92), sous le numéro W92",
+      "score": 82,
+      "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: code monétaire | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "5d3a427dd60a51e9",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -1318,7 +1354,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite du financement bancaire des start-ups et de la conformité prudentielle que l'ACPR impose aux banques."
     },
     {
       "hash": "d86c01ad30095a32",
@@ -1411,6 +1447,24 @@
       "ai_summary": "Cet article concerne la conformité financière en présentant les meilleurs logiciels AML pour les institutions financières de Singapour."
     },
     {
+      "hash": "fc6974ea162d8663",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 13 octobre 2026 portant approbation du règlement intérieur de l'Ecole nationale de la magistrature",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054991950",
+      "author": "Ministère de la justice",
+      "published": "2026-10-17T00:00:00",
+      "summary": "Le règlement intérieur de l'Ecole nationale de la magistrature, dont le texte est annexé au présent arrêté, est approuvé.\nLe présent arrêté sera publié au Journal officiel de la République française.\nANNEXERÈGLEMENT INTÉRIEURApplication des dispositions du décret n° 72-355 du 4 mai 1972 modifié relatif à l'Ecole nationale de la magistratureArticle préliminaireTITRE Ier : ORGANISATION GÉNÉRALEChapitre 1 : Le conseil d'administrationChapitre 2 : La directionChapitre 3 : Le conseil pédagogiqueChapi",
+      "score": 75,
+      "score_breakdown": "+5 mots moyens: règlement | +25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a17232cdc0c912bd",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -1426,7 +1480,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car la souveraineté technologique est un enjeu majeur de cybersécurité et de stabilité financière régulée par l'ACPR."
+      "ai_summary": "Cet article concerne la conformité financière car la sécurité technologique et la souveraineté sont des enjeux de conformité réglementaire pour les établissements financiers."
     },
     {
       "hash": "02a6f52036b6a761",
@@ -1444,7 +1498,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite des modifications de composition des commissions parlementaires et de démissions de membres, sans lien direct avec la conformité financière.\n\nHors périmètre compliance"
+      "ai_summary": "Cet article traite des modifications de composition des commissions parlementaires, ce qui relève de l'organisation institutionnelle mais pas de conformité financière.\n\nHors périmètre compliance"
     },
     {
       "hash": "9d53fd3c7bb85cd0",
@@ -2257,6 +2311,24 @@
       "ai_summary": "Cet article traite de la conformité financière en abordant la détection des fraudes et la conformité en matière de criminalité financière."
     },
     {
+      "hash": "f9c907aebe10cfee",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 9 octobre 2026 modifiant l'arrêté du 29 mai 2015 relatif au contenu de la notice d'information annexée aux contrats de location de logement à usage de résidence principale",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054992497",
+      "author": "Ministère de la ville et du logement",
+      "published": "2026-10-17T00:00:00",
+      "summary": "L'annexe de l'arrêté du 29 mai 2015 susvisé est remplacée par l'annexe au présent arrêté.\nLe présent arrêté s'applique aux contrats conclus ou renouvelés à compter de son entrée en vigueur.\nLe présent arrêté sera publié au Journal officiel de la République française.\nANNEXECONTENU DE LA NOTICE D'INFORMATION ANNEXÉE À CERTAINS CONTRATS DE LOCATIONPréambule1. Etablissement du bail1.1. Forme et contenu du contrat1.2. Durée du contrat1.3. Conditions financières de la location1.3.1. Loyer1.3.1.1. Fix",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "cef0c2e6aa00744f",
       "source_name": "JORF - Lois",
       "source_type": "rss",
@@ -2291,24 +2363,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les violations de données relèvent de la conformité réglementaire car elles impliquent le respect du RGPD et la gestion des risques légaux."
-    },
-    {
-      "hash": "bd93873d898b0a85",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 9 septembre 2026 modifiant l'arrêté du 23 août 2022 relatif à la création du formulaire unique de diagnostic social et financier effectué dans le cadre d'une procédure judiciaire aux fins de résiliation du bail",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054850996",
-      "author": "Ministère de la ville et du logement",
-      "published": "2026-09-17T00:00:00",
-      "summary": "L'article 1er de l'arrêté du 23 août 2022 susvisé est ainsi modifié :1° Au premier alinéa, le mot : « 16227*01 » est remplacé par le mot : « 16227*02 » ;2° Au second alinéa, les mots : «  https://www.formulaires.service-public.fr/gf/cerfa_16227.do. » sont remplacés par les mots : «  https://www.service-public.gouv.fr/particuliers/vosdroits/R63181 ».\nLe présent arrêté sera publié au Journal officiel de la République française",
-      "score": 67,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Ce formulaire de diagnostic social et financier encadre l'évaluation de la situation financière dans les procédures de résiliation de bail."
     },
     {
       "hash": "680f29bbbc28e626",
@@ -2743,6 +2797,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de mesures contre le blanchiment d'argent et l'accès bancaire correspondant."
     },
     {
+      "hash": "53122c0b39357d41",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "A la une toutes les actualités - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qczZMdUptUXlpMHNrSGNSbVNHcS1QcFpwSkhXRlhhTkI0QXRRYnFzSS1UQ1hQaVN5eVdzV2ltLVUwU2Voc2VIRm90ZkduWkFLeGE1a1NPS3FtVXhyZ2tackJYbE5jVEVRRU9Gc1ltVlk?oc=5",
+      "author": "",
+      "published": "2026-10-15T17:13:23",
+      "summary": "A la une toutes les actualités&nbsp;&nbsp;Banque de France",
+      "score": 60,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "dcf763b0d414e05a",
       "source_name": "AMF - Réglementation",
       "source_type": "rss",
@@ -3157,24 +3229,6 @@
       "ai_summary": "Cet article traite du gel des actifs de personnes sanctionnées décédées, soulevant des enjeux de conformité réglementaire aux sanctions financières."
     },
     {
-      "hash": "b717801f8b866147",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décret n° 2026-952 du 12 octobre 2026 portant publication de l'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025 (1)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054979583",
-      "author": "Ministère de l'Europe et des affaires étrangères",
-      "published": "2026-10-14T00:00:00",
-      "summary": "L'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025, sera publié au Journal officiel de la République française.\nLe Premier ministre et le ministre de l'Europe et des affaires étrangères sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.\nANNEXEPROCÉDURE D'AP",
-      "score": 54,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
-      "doc_type": "DÉCRET",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "41c382b112f5b3d8",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -3190,7 +3244,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b4507135cdbf75ce",
@@ -3767,6 +3821,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article concerne les investigations de la FCA sur le blanchiment de capitaux, domaine clé de la conformité financière."
+    },
+    {
+      "hash": "b717801f8b866147",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décret n° 2026-952 du 12 octobre 2026 portant publication de l'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025 (1)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054979583",
+      "author": "Ministère de l'Europe et des affaires étrangères",
+      "published": "2026-10-14T00:00:00",
+      "summary": "L'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025, sera publié au Journal officiel de la République française.\nLe Premier ministre et le ministre de l'Europe et des affaires étrangères sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.\nANNEXEPROCÉDURE D'AP",
+      "score": 45,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
+      "doc_type": "DÉCRET",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "1c6098506db014dc",
@@ -4504,7 +4576,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire FCPA impliquant des accusations de fraude et le contrôle d'actifs gelés somaliens."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire FCPA impliquant des accusations de fraude et des actifs gelés somaliens."
     },
     {
       "hash": "5a736c944cb3dae5",
@@ -4990,7 +5062,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "af2980d4b48fb8cd",
@@ -5008,7 +5080,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "60c36e330bfd69e7",
@@ -5044,7 +5116,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction pécuniaire imposée par une autorité de régulation pour violation des règles de concurrence."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction administrative imposée par une autorité publique pour violation des règles de concurrence."
     },
     {
       "hash": "5eb93721f47f9730",
@@ -5425,6 +5497,24 @@
       "ai_summary": "Cet arrêt concerne une affaire de fraude jugée en appel, domaine relevant de la conformité financière et de la lutte contre les irrégularités."
     },
     {
+      "hash": "3a84ace57918ba1b",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "François Haas - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByWjV1SFFLTk5jSkFULXcwMThMZUVadEtoNHZmVGwzSVdleE5vZ1FFN0pqY3BCY19Uclc3YWJyUWNUZUZZd3RiaWI5b3VKRV9FYjJFM2hDdGJxWmFW?oc=5",
+      "author": "",
+      "published": "2026-09-26T18:45:34",
+      "summary": "François Haas&nbsp;&nbsp;Banque de France",
+      "score": 30,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "5b516def8ba7944d",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -5710,7 +5800,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6a9ee289b0ef8256",
@@ -5857,24 +5947,6 @@
       "ai_summary": "La règle renforce les exigences de conformité concernant la résiliation facile des abonnements automatiques à New York."
     },
     {
-      "hash": "bf25449097004b7d",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "La banque en ligne britannique Revolut se dit victime d’« une escroquerie sophistiquée », des données clients compromises",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/16/la-banque-en-ligne-britannique-revolut-se-dit-victime-d-une-escroquerie-sophistiquee-des-donnees-clients-compromises_6775534_3234.html",
-      "author": "",
-      "published": "2026-09-16T21:50:33",
-      "summary": "Des pirates ont usurpé l’identité d’une agence gouvernementale pour obtenir des données sensibles de clients. Une enquête a été ouverte en Italie et le régulateur britannique de la protection des données examine des informations après un « signalement ».",
-      "score": 27,
-      "score_breakdown": "+5 mots moyens: banque | +3 Presse | +10 Géo EU: italie | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde une violation de données clients et les obligations de signalement aux régulateurs."
-    },
-    {
       "hash": "87d7461a9b8d8a63",
       "source_name": "FATF/GAFI (X)",
       "source_type": "rss",
@@ -5962,7 +6034,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "2b38cd7c32090262",
@@ -6034,7 +6106,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "10d233a258afc672",
@@ -6160,7 +6232,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6fa517321a647956",
@@ -6178,7 +6250,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet arrêt de la Cour de cassation en matière de blanchiment concerne la conformité financière en tant que délit de lutte anti-blanchiment."
     },
     {
       "hash": "3fcd0a73dcbb24eb",
@@ -6232,7 +6304,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3f37d8cc8c8f0fc8",
@@ -6250,7 +6322,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "71dffa69f1ebf3cd",
@@ -6286,7 +6358,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car une nouvelle loi chinoise sur la corruption à l'étranger affectera les programmes de conformité des entreprises."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des lois anti-corruption et de la lutte contre la corruption à l'étranger."
     },
     {
       "hash": "2e25789dcea3b95f",
@@ -6754,7 +6826,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de corruption et de pots-de-vin, violations majeures des règles anti-corruption et de conformité."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de corruption et de pots-de-vin, risques majeurs en matière de conformité."
     },
     {
       "hash": "9ce5bc5aaccd2c2e",
@@ -7258,7 +7330,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption étrangère et de manquements aux règles anticorruption."
     },
     {
       "hash": "2947a1bbc59efd4e",
@@ -7276,7 +7348,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité réglementaire des télécoms face aux obligations de service universel et d'équilibre économique imposées par les régulateurs."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la régulation des surcoûts et de l'équilibre économique des opérateurs de réseaux de fibre optique ruraux."
     },
     {
       "hash": "69674cb6360cd16e",
@@ -7402,7 +7474,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9a360888ad61ee5d",
@@ -7423,7 +7495,7 @@
       "ai_summary": "Lafarge conteste les accusations de destruction de preuves concernant ses relations avec des groupes terroristes, enjeu de conformité cruciale."
     }
   ],
-  "last_update": "2026-10-16T21:27:12.375161+00:00",
+  "last_update": "2026-10-17T02:08:06.623271+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
