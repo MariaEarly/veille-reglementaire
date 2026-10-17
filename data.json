@@ -580,7 +580,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "c4fcbcd84dea2482",
@@ -1012,7 +1012,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté encadre l'accès aux fonds et ressources économiques en vertu du code monétaire et financier, relevant de la conformité réglementaire financière."
+      "ai_summary": "Cet arrêté définit les obligations de conformité relatives au gel des actifs et à la lutte contre le financement du terrorisme et de la prolifération."
     },
     {
       "hash": "5d3a427dd60a51e9",
@@ -1444,7 +1444,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a17232cdc0c912bd",
@@ -1480,7 +1480,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite des modifications de composition des commissions parlementaires, ce qui concerne indirectement la conformité financière par la gouvernance des organes de contrôle."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9d53fd3c7bb85cd0",
@@ -2290,7 +2290,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté impose des obligations de transparence et d'information aux bailleurs, renforçant la conformité réglementaire des contrats de location immobilière."
+      "ai_summary": "Cet arrêté modifie les obligations d'information des bailleurs aux locataires, relevant de la conformité réglementaire et de la protection des consommateurs en matière immobilière."
     },
     {
       "hash": "cef0c2e6aa00744f",
@@ -2776,7 +2776,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "dcf763b0d414e05a",
@@ -3751,22 +3751,22 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment d'argent et de corruption impliquant un banquier."
     },
     {
-      "hash": "4cdc2577ea6b8747",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "FCA probes payments provider over suspected money laundering offences",
-      "url": "https://globalinvestigationsreview.com/article/fca-probes-payments-provider-over-suspected-money-laundering-offences",
-      "author": "Grace Propheta",
-      "published": "2026-09-17T10:37:22",
-      "summary": "",
-      "score": 46,
-      "score_breakdown": "+20 mots critiques: money laundering | +5 mots moyens: payment | +3 Presse | +3 Géo Intl: fca | ×1.5 (<24h)",
+      "hash": "41c382b112f5b3d8",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Conférence des présidents",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054980077",
+      "author": "",
+      "published": "2026-10-14T00:00:00",
+      "summary": "Assemblée nationaleSession ordinaire 2026-2027Ordre du jour de l'Assemblée nationale(Conférence des présidents du mardi 13 octobre 2026)DATESMATINAPRÈS-MIDISOIRSemaine du GouvernementOCTOBREMARDI 13À 15 heures :- Questions au Gouvernement.- Suite Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants (3106, 3190 rect.).- Votes solennels :- Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants. (1)- Pn org. adapter l'autorité ",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: esma | +25 Source FR | +10 Géo EU: esma | ×1.0 (7d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne les investigations de la FCA sur le blanchiment de capitaux, domaine clé de la conformité financière."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b717801f8b866147",
@@ -3782,24 +3782,6 @@
       "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
       "doc_type": "DÉCRET",
       "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "41c382b112f5b3d8",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Conférence des présidents",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054980077",
-      "author": "",
-      "published": "2026-10-14T00:00:00",
-      "summary": "Assemblée nationaleSession ordinaire 2026-2027Ordre du jour de l'Assemblée nationale(Conférence des présidents du mardi 13 octobre 2026)DATESMATINAPRÈS-MIDISOIRSemaine du GouvernementOCTOBREMARDI 13À 15 heures :- Questions au Gouvernement.- Suite Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants (3106, 3190 rect.).- Votes solennels :- Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants. (1)- Pn org. adapter l'autorité ",
-      "score": 45,
-      "score_breakdown": "+10 mots forts: esma | +25 Source FR | +10 Géo EU: esma | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
       "status": "new",
       "early_brief": false,
       "ai_summary": null
@@ -4019,24 +4001,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité réglementaire bancaire par les ateliers de l'EBA sur les rapports normatifs et la gestion des données."
-    },
-    {
-      "hash": "dd909d6407b3600e",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "𝐂𝐚𝐧 𝐄𝐮𝐫𝐨𝐩𝐞 𝐛𝐨𝐨𝐬𝐭 𝐛𝐚𝐧𝐤𝐢𝐧𝐠 𝐜𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐯𝐞𝐧𝐞𝐬𝐬 𝐰𝐢𝐭𝐡𝐨𝐮𝐭 𝐜𝐨𝐦𝐩𝐫𝐨𝐦𝐢𝐬𝐢𝐧𝐠 𝐭𝐫𝐮𝐬𝐭 𝐚𝐧𝐝 𝐬𝐭𝐚𝐛𝐢𝐥𝐢𝐭𝐲? This was the central question addressed by Kami...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7506337351548407808",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-09-17T13:04:46",
-      "summary": "𝐂𝐚𝐧 𝐄𝐮𝐫𝐨𝐩𝐞 𝐛𝐨𝐨𝐬𝐭 𝐛𝐚𝐧𝐤𝐢𝐧𝐠 𝐜𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐯𝐞𝐧𝐞𝐬𝐬 𝐰𝐢𝐭𝐡𝐨𝐮𝐭 𝐜𝐨𝐦𝐩𝐫𝐨𝐦𝐢𝐬𝐢𝐧𝐠 𝐭𝐫𝐮𝐬𝐭 𝐚𝐧𝐝 𝐬𝐭𝐚𝐛𝐢𝐥𝐢𝐭𝐲?\n\nThis was the central question addressed by Kamil Liberadzki, EBA Director of Risk Analysis, in his keynote speech “Europe at a Crossroads: Strengthening Banking Competitiveness While Preserving Trust and Stability – An EBA Perspective” at the Natixis Corporate & Investment Banking FIG Conference.\n\n💡 The answer is clear: competitiveness and resilience are not competing goals. They reinforce each other.\n\nEuropean b",
-      "score": 45,
-      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: risk, bank | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite de la stabilité bancaire et de la confiance dans le secteur financier européen."
     },
     {
       "hash": "bcb0998a8ece5110",
@@ -5026,7 +4990,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "60c36e330bfd69e7",
@@ -5389,24 +5353,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il porte sur les risques de dépendances externes et cybersécurité que les autorités supervisent."
     },
     {
-      "hash": "34e9aef303955fbd",
-      "source_name": "Cass. - Fraude",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour d'appel de Douai, Chambre 8 section 1, 17 septembre 2026, 24/04013",
-      "url": "http://juricaf.org/arret/FRANCE-COURDAPPELDEDOUAI-20260917-2404013",
-      "author": "Chambre 8 section 1",
-      "published": "2026-09-17T12:00:00",
-      "summary": "République Française  Au nom du Peuple Français      COUR D'APPEL DE DOUAI  CHAMBRE 8 SECTION 1  ARRÊT DU 17/09/2026      MINUTE ÉLECTRONIQUE   N° RG 24/04013 - N° Portalis DBVT-V-B7I-VXNM  Jugement N° 22/01407 rendu le 28 Juin 2024 par le TJ hors JAF, JEX, JLD, J. EXPRO, JCP de Localité 1    APPELANTE    SA Caisse d'Epargne et de Prévoyance Hauts de France  Banque coopérative régie par les articles L. 512-85 et suivants du Code monétaire et financier - Société Anonyme à Directoire et Conseil d'",
-      "score": 32,
-      "score_breakdown": "+10 mots forts: code monétaire | +10 mots moyens: banque, ppe | +20 Géo FR: france, français, française | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet arrêt concerne une affaire de fraude jugée en appel, domaine relevant de la conformité financière et de la lutte contre les irrégularités."
-    },
-    {
       "hash": "d7a0313b10a7752e",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -5422,7 +5368,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3a84ace57918ba1b",
@@ -5440,7 +5386,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5b516def8ba7944d",
@@ -5512,7 +5458,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0872de86c5b87774",
@@ -5530,7 +5476,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4b09befd3a7e60ed",
@@ -5731,42 +5677,6 @@
       "ai_summary": "MONEYVAL évalue la conformité des pays aux normes FATF contre le blanchiment d'argent et le financement du terrorisme."
     },
     {
-      "hash": "53868e8a3d09be87",
-      "source_name": "Cass. - Fraude",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour d'appel de Pau, 2ème ch - section 1, 17 septembre 2026, 25/00267",
-      "url": "http://juricaf.org/arret/FRANCE-COURDAPPELDEPAU-20260917-2500267",
-      "author": "2ème ch - section 1",
-      "published": "2026-09-17T12:00:00",
-      "summary": "PhD/PM    Numéro 26/02512       COUR D'APPEL DE PAU   2ème CH - Section 1          ARRÊT DU 17/09/2026         Dossier : N° RG 25/00267 - N° Portalis DBVV-V-B7J-JCOL       Nature affaire :    Autres actions en responsabilité exercées contre un établissement de crédit        Affaire :    S.A. Adresse 1    C/    S W                        Grosse délivrée le :  à :        RÉPUBLIQUE FRANÇAISE    AU NOM DU PEUPLE FRANÇAIS            A R R Ê T    Prononcé publiquement par mise à disposition de l'arrê",
-      "score": 28,
-      "score_breakdown": "+10 mots forts: établissement de crédit | +5 mots moyens: ppe | +20 Géo FR: france, français, française | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet arrêt concerne une action en responsabilité contre un établissement de crédit, relevant de la conformité et de la responsabilité bancaire."
-    },
-    {
-      "hash": "157556d2120c6b4e",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Norway closes Russia sanctions probe into vehicle parts business",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/norway-closes-russia-sanctions-probe-vehicle-parts-business",
-      "author": "Grace Propheta",
-      "published": "2026-10-14T13:53:03",
-      "summary": "",
-      "score": 27,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.2 (<3d)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "6a9ee289b0ef8256",
       "source_name": "Corporate Compliance Insights",
       "source_type": "press",
@@ -5893,24 +5803,6 @@
       "ai_summary": "Cet article traite de l'évolution des technologies de conformité et de gestion des risques, incluant des solutions de gestion des risques tiers."
     },
     {
-      "hash": "04711525e30d3fec",
-      "source_name": "Corporate Compliance Insights",
-      "source_type": "press",
-      "category": "presse",
-      "title": "New York City’s ‘Click to Cancel’ Rule Reinforces Important Auto-Renewal Requirements",
-      "url": "https://www.corporatecomplianceinsights.com/new-york-city-click-cancel-rule-reinforces-important-auto-renewal-requirements/",
-      "author": "Zach Lerner, Maddie Rana and Emma Bourgeois",
-      "published": "2026-09-17T11:00:16",
-      "summary": "Rules may be mostly familiar, but the practical significance of the NYC regime lies in enforcement\nThe post New York City’s ‘Click to Cancel’ Rule Reinforces Important Auto-Renewal Requirements appeared first on Corporate Compliance Insights.",
-      "score": 27,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La règle renforce les exigences de conformité concernant la résiliation facile des abonnements automatiques à New York."
-    },
-    {
       "hash": "87d7461a9b8d8a63",
       "source_name": "FATF/GAFI (X)",
       "source_type": "rss",
@@ -5998,25 +5890,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "2b38cd7c32090262",
-      "source_name": "Cass. - Blanchiment",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Tribunal judiciaire de Tarbes, Jex, 17 septembre 2026, 25/00051",
-      "url": "http://juricaf.org/arret/FRANCE-TRIBUNALJUDICIAIREDETARBES-20260917-2500051",
-      "author": "Jex",
-      "published": "2026-09-17T12:00:00",
-      "summary": "Cahier des conditions de Vente N° RG 25/00051 - N° Portalis DB2B-W-B7J-EP32     AFFAIRE  COMPAGNIE EUROPEENNE DE GARANTIES ET CAUTIONS contre S A B D, M O T K                     TRIBUNAL JUDICIAIRE DE TARBES   JUGEMENT D’ORIENTATION  ORDONNANT LA VENTE FORCEE  COMPOSITION DU TRIBUNAL LORS DES DEBATS :  Madame NICOLAS Florence, Juge de l’exécution, statuant à juge unique  Assistée de Madame PRIEM Vanessa, Greffier   L'affaire a été plaidée le 10 septembre 2026, et mise en délibéré au 17 Septembr",
-      "score": 24,
-      "score_breakdown": "+10 mots forts: eba | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet jugement concerne une vente forcée ordonnée par tribunal, sans rapport direct avec la conformité financière ou la lutte anti-blanchiment."
+      "ai_summary": null
     },
     {
       "hash": "90af612757573140",
@@ -6068,6 +5942,24 @@
       "score_breakdown": "+10 mots forts: eba | +10 mots moyens: supervisory, bank | +10 Géo EU: eba | ×0.8 (14d)",
       "doc_type": null,
       "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "157556d2120c6b4e",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Norway closes Russia sanctions probe into vehicle parts business",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/norway-closes-russia-sanctions-probe-vehicle-parts-business",
+      "author": "Grace Propheta",
+      "published": "2026-10-14T13:53:03",
+      "summary": "",
+      "score": 23,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.0 (7d)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
       "status": "new",
       "early_brief": false,
       "ai_summary": null
@@ -6196,7 +6088,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6fa517321a647956",
@@ -6268,7 +6160,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3f37d8cc8c8f0fc8",
@@ -6286,7 +6178,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "71dffa69f1ebf3cd",
@@ -7243,24 +7135,6 @@
       "ai_summary": "Cet article concerne les sanctions financières imposées par les États-Unis sur l'Éthiopie et la Russie."
     },
     {
-      "hash": "122ea0fcc77cad02",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Iran-related Designations; Cuba Designations; Belarus-related Designations Removals | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20260917",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-09-17T12:00:00",
-      "summary": "",
-      "score": 7,
-      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions financières internationales et le respect des restrictions commerciales imposées par les États-Unis."
-    },
-    {
       "hash": "3b1b115c614bd5f6",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -7312,7 +7186,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "69674cb6360cd16e",
@@ -7438,7 +7312,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9a360888ad61ee5d",
@@ -7459,7 +7333,7 @@
       "ai_summary": "Lafarge conteste les accusations de destruction de preuves concernant ses relations avec des groupes terroristes, enjeu de conformité cruciale."
     }
   ],
-  "last_update": "2026-10-17T11:01:02.483473+00:00",
+  "last_update": "2026-10-17T14:40:13.177367+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
