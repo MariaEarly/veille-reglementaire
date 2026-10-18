@@ -580,7 +580,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il établit la composition des sections de la commission des sanctions, autorité chargée de contrôler la conformité réglementaire et financière."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c4fcbcd84dea2482",
@@ -1231,24 +1231,6 @@
       "ai_summary": "Cet arrêté fixe les règles de gel des actifs et de lutte contre le financement du terrorisme en application du code monétaire et financier."
     },
     {
-      "hash": "76ca4a50b4e6a049",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 17 septembre 2026 portant application des articles L. 562-2 et suivants du code monétaire et financier",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054855048",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-09-18T00:00:00",
-      "summary": "Par arrêté du ministre de l'intérieur et du ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique en date du 17 septembre 2026, vu le code monétaire et financier, et notamment ses articles L. 562-2 et suivants, les fonds et ressources économiques qui appartiennent à, sont possédés, détenus ou contrôlés par l'association « Siratouna », déclarée à la préfecture du Nord (59) le 18 mars 2021 sous le numéro RNA W595038732, et les fonds et ressources économi",
-      "score": 82,
-      "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: code monétaire | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet arrêté définit les obligations de conformité relative à l'identification et au gel des fonds appartenant à des personnes ou entités désignées."
-    },
-    {
       "hash": "25bcedfc827a1938",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -1427,24 +1409,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Bank of America a été sanctionnée pour violations de conformité AML et sanctions, domaines clés de la compliance financière."
-    },
-    {
-      "hash": "fc6974ea162d8663",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 13 octobre 2026 portant approbation du règlement intérieur de l'Ecole nationale de la magistrature",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054991950",
-      "author": "Ministère de la justice",
-      "published": "2026-10-17T00:00:00",
-      "summary": "Le règlement intérieur de l'Ecole nationale de la magistrature, dont le texte est annexé au présent arrêté, est approuvé.\nLe présent arrêté sera publié au Journal officiel de la République française.\nANNEXERÈGLEMENT INTÉRIEURApplication des dispositions du décret n° 72-355 du 4 mai 1972 modifié relatif à l'Ecole nationale de la magistratureArticle préliminaireTITRE Ier : ORGANISATION GÉNÉRALEChapitre 1 : Le conseil d'administrationChapitre 2 : La directionChapitre 3 : Le conseil pédagogiqueChapi",
-      "score": 75,
-      "score_breakdown": "+5 mots moyens: règlement | +25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a17232cdc0c912bd",
@@ -2743,6 +2707,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de mesures contre le blanchiment d'argent et l'accès bancaire correspondant."
     },
     {
+      "hash": "fc6974ea162d8663",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 13 octobre 2026 portant approbation du règlement intérieur de l'Ecole nationale de la magistrature",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054991950",
+      "author": "Ministère de la justice",
+      "published": "2026-10-17T00:00:00",
+      "summary": "Le règlement intérieur de l'Ecole nationale de la magistrature, dont le texte est annexé au présent arrêté, est approuvé.\nLe présent arrêté sera publié au Journal officiel de la République française.\nANNEXERÈGLEMENT INTÉRIEURApplication des dispositions du décret n° 72-355 du 4 mai 1972 modifié relatif à l'Ecole nationale de la magistratureArticle préliminaireTITRE Ier : ORGANISATION GÉNÉRALEChapitre 1 : Le conseil d'administrationChapitre 2 : La directionChapitre 3 : Le conseil pédagogiqueChapi",
+      "score": 60,
+      "score_breakdown": "+5 mots moyens: règlement | +25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "02a6f52036b6a761",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -2758,7 +2740,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "53122c0b39357d41",
@@ -2776,7 +2758,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "dcf763b0d414e05a",
@@ -3514,6 +3496,24 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "87e048e7d7efae32",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Enquête mensuelle de conjoncture à début octobre 2026 - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMS01ZnRhMW1kVE42TnoyME5uYjdWeFBaRFJzeGEwQ3hSeF9jQXpwRnVfOEhiODQ1ckx2ZFNxemltQTNwd2huVkhJQ0dEbllUc2VqZGFScUpFSVRyTWx2Slc4NDFuWGo1cTd4eGpVc3NIeHlOc3Bmb054U0M3aURZUkpsc0VTUEpIQWY0MHp0ZzZyVVBvV3FYMjhXUQ?oc=5",
+      "author": "",
+      "published": "2026-10-12T07:00:00",
+      "summary": "Enquête mensuelle de conjoncture à début octobre 2026&nbsp;&nbsp;Banque de France",
+      "score": 50,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
       "ai_summary": null
     },
     {
@@ -3769,24 +3769,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment d'argent et de corruption impliquant un banquier."
     },
     {
-      "hash": "b717801f8b866147",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décret n° 2026-952 du 12 octobre 2026 portant publication de l'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025 (1)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054979583",
-      "author": "Ministère de l'Europe et des affaires étrangères",
-      "published": "2026-10-14T00:00:00",
-      "summary": "L'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025, sera publié au Journal officiel de la République française.\nLe Premier ministre et le ministre de l'Europe et des affaires étrangères sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.\nANNEXEPROCÉDURE D'AP",
-      "score": 45,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
-      "doc_type": "DÉCRET",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "41c382b112f5b3d8",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -3800,6 +3782,24 @@
       "score_breakdown": "+10 mots forts: esma | +25 Source FR | +10 Géo EU: esma | ×1.0 (7d)",
       "doc_type": null,
       "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "b717801f8b866147",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décret n° 2026-952 du 12 octobre 2026 portant publication de l'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025 (1)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054979583",
+      "author": "Ministère de l'Europe et des affaires étrangères",
+      "published": "2026-10-14T00:00:00",
+      "summary": "L'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025, sera publié au Journal officiel de la République française.\nLe Premier ministre et le ministre de l'Europe et des affaires étrangères sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.\nANNEXEPROCÉDURE D'AP",
+      "score": 45,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
+      "doc_type": "DÉCRET",
+      "action_class": "action",
       "status": "new",
       "early_brief": false,
       "ai_summary": null
@@ -4993,24 +4993,6 @@
       "ai_summary": "Cet article concerne la conformité financière car l'EBA échange avec la FSC taïwanaise sur les évolutions réglementaires des services financiers."
     },
     {
-      "hash": "fae1763eedf3fccb",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 25 septembre 2026 portant approbation de la convention constitutive modificative d'un groupement d'intérêt public",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054965777",
-      "author": "Ministère de l'enseignement supérieur, de la recherche et de l'espace",
-      "published": "2026-10-09T00:00:00",
-      "summary": "La convention constitutive modificative n° 3 du groupement d'intérêt public « Cancéropôle Grand Ouest », dont un extrait figure ci-après, est approuvée.\nLa convention constitutive modificative n° 3 peut être consultée, par toute personne intéressée, au siège du groupement et sur son site internet.\nLe présent arrêté et son annexe seront publiés au Journal officiel de la République française.\nANNEXEEXTRAITS DE LA CONVENTION CONSTITUTIVE MODIFICATIVE NO 3 DU GROUPEMENT D'INTÉRÊT PUBLIC « CANCÉROPÔL",
-      "score": 36,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×0.8 (14d)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "60c36e330bfd69e7",
       "source_name": "Cass. - Fraude",
       "source_type": "rss",
@@ -5371,6 +5353,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il porte sur les risques de dépendances externes et cybersécurité que les autorités supervisent."
     },
     {
+      "hash": "40f694042279489a",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Publications - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc0MtRTM3M2JaR1QyVEZxSG44ZlB6YmgwTng2cjRsaTBuTjBOMVU5Z2VjRXJxdGZPc3pLOGhwMjRMR3V3aXZWYWVORjFQX2JqTEZpNUQ2T25qakluUjRRMVBzUGNiRE45ME54OUZBTGdaXzlBWVNoSUp1S21nQ0dObW9UWDg4VnJOQkE0ME5kbGtreWNkb3IzX0c5RXA5VFo1c3Z4YU5lSQ?oc=5",
+      "author": "",
+      "published": "2026-10-01T02:33:33",
+      "summary": "Publications&nbsp;&nbsp;Banque de France",
+      "score": 30,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "d7a0313b10a7752e",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -5380,6 +5380,24 @@
       "author": "",
       "published": "2026-09-30T20:56:49",
       "summary": "Découvrir la banque de france&nbsp;&nbsp;Banque de France",
+      "score": 30,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article présente la Banque de France, autorité de régulation bancaire relevant du périmètre compliance."
+    },
+    {
+      "hash": "dc7e71d7a0c4b33f",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "L’intermédiation financière non bancaire - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jaU91MFZLZjJmTU5zRWM2WXRsWmtlYmpOSWZKaVF1VmgwVEhVVXQweWZLMzhCY1BzQVZrMS01OG1DR1IwSlJDRkFXZXVFMGxiSnQyblZR?oc=5",
+      "author": "",
+      "published": "2026-09-30T18:20:48",
+      "summary": "L’intermédiation financière non bancaire&nbsp;&nbsp;Banque de France",
       "score": 30,
       "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.6 (>14d)",
       "doc_type": null,
@@ -5404,7 +5422,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5b516def8ba7944d",
@@ -5476,7 +5494,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0872de86c5b87774",
@@ -5494,7 +5512,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4b09befd3a7e60ed",
@@ -5908,7 +5926,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "90af612757573140",
@@ -5962,7 +5980,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "157556d2120c6b4e",
@@ -5980,7 +5998,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "10d233a258afc672",
@@ -6106,7 +6124,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6fa517321a647956",
@@ -6178,7 +6196,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3f37d8cc8c8f0fc8",
@@ -6196,7 +6214,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "71dffa69f1ebf3cd",
@@ -7294,7 +7312,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9a360888ad61ee5d",
@@ -7315,7 +7333,7 @@
       "ai_summary": "Lafarge conteste les accusations de destruction de preuves concernant ses relations avec des groupes terroristes, enjeu de conformité cruciale."
     }
   ],
-  "last_update": "2026-10-17T20:46:18.016449+00:00",
+  "last_update": "2026-10-18T02:07:46.642252+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
