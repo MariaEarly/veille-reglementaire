@@ -904,7 +904,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des modèles internes bancaires et des actifs pondérés du risque, éléments clés de la réglementation prudentielle."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des modèles internes des banques et des actifs pondérés du risque, éléments clés de la conformité réglementaire bancaire."
     },
     {
       "hash": "0e6407eacd54ed8e",
@@ -1030,7 +1030,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'un accord de coopération entre la SEC et l'AMF pour renforcer la supervision des conseillers en investissement et prestataires de services."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'un accord de coopération entre régulateurs pour superviser les conseillers en investissement et prestataires de services."
     },
     {
       "hash": "50146f5897b4f5c6",
@@ -1336,7 +1336,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation du programme AML et de discriminations au sein de l'équipe compliance."
     },
     {
       "hash": "e73c76d5539d8240",
@@ -2254,7 +2254,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret concerne la conformité financière car il régule les fonctions de procureur financier aux chambres régionales des comptes, organes de contrôle des finances publiques."
+      "ai_summary": "Ce décret concerne la conformité financière car il modifie les responsabilités de contrôle financier aux chambres régionales des comptes."
     },
     {
       "hash": "f9c907aebe10cfee",
@@ -3496,7 +3496,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8c8fb4177df44276",
@@ -3769,24 +3769,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment d'argent et de corruption impliquant un banquier."
     },
     {
-      "hash": "41c382b112f5b3d8",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Conférence des présidents",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054980077",
-      "author": "",
-      "published": "2026-10-14T00:00:00",
-      "summary": "Assemblée nationaleSession ordinaire 2026-2027Ordre du jour de l'Assemblée nationale(Conférence des présidents du mardi 13 octobre 2026)DATESMATINAPRÈS-MIDISOIRSemaine du GouvernementOCTOBREMARDI 13À 15 heures :- Questions au Gouvernement.- Suite Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants (3106, 3190 rect.).- Votes solennels :- Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants. (1)- Pn org. adapter l'autorité ",
-      "score": 45,
-      "score_breakdown": "+10 mots forts: esma | +25 Source FR | +10 Géo EU: esma | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "b717801f8b866147",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -3800,6 +3782,24 @@
       "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
       "doc_type": "DÉCRET",
       "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "41c382b112f5b3d8",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Conférence des présidents",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054980077",
+      "author": "",
+      "published": "2026-10-14T00:00:00",
+      "summary": "Assemblée nationaleSession ordinaire 2026-2027Ordre du jour de l'Assemblée nationale(Conférence des présidents du mardi 13 octobre 2026)DATESMATINAPRÈS-MIDISOIRSemaine du GouvernementOCTOBREMARDI 13À 15 heures :- Questions au Gouvernement.- Suite Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants (3106, 3190 rect.).- Votes solennels :- Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants. (1)- Pn org. adapter l'autorité ",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: esma | +25 Source FR | +10 Géo EU: esma | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
       "status": "new",
       "early_brief": false,
       "ai_summary": null
@@ -3874,7 +3874,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet accord renforce la supervision réglementaire transfrontalière des conseillers en investissement, garantissant la conformité aux normes financières internationales."
     },
     {
       "hash": "1b25a2acd2836b76",
@@ -3892,7 +3892,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision bancaire européenne et du cadre réglementaire de l'UE."
     },
     {
       "hash": "81f96ee7448b0f4b",
@@ -4090,7 +4090,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la lutte contre le blanchiment d'argent via les systèmes bancaires souterrains et le hawala non régulé, enjeu majeur de conformité financière."
     },
     {
       "hash": "3b6e9f8310f330e2",
@@ -4288,7 +4288,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "833c610bb3ee8a90",
@@ -4576,7 +4576,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d62ec8ef330a8f70",
@@ -4594,7 +4594,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4dca4267256835f8",
@@ -4936,7 +4936,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des fraudes et techniques de manipulation utilisées par les escrocs pour compromettre la sécurité financière."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la fraude, des techniques de manipulation et de la sensibilisation aux risques de cybersécurité pour les utilisateurs."
     },
     {
       "hash": "80eb209f2f72774e",
@@ -5134,7 +5134,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions américaines contre la Russie et leur impact sur le commerce, relevant directement de la conformité financière et des sanctions internationales."
+      "ai_summary": "Cet article traite des sanctions américaines contre la Russie et leur impact sur le commerce, relevant de la conformité aux régimes de sanctions financières."
     },
     {
       "hash": "51596e763a05acef",
@@ -5548,7 +5548,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3a84ace57918ba1b",
@@ -5566,7 +5566,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5b516def8ba7944d",
@@ -5656,7 +5656,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4b09befd3a7e60ed",
@@ -5746,7 +5746,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Le FATF réunit 200+ juridictions pour discuter des menaces à l'intégrité financière mondiale et de la conformité."
     },
     {
       "hash": "df2589c0f55e7bb4",
@@ -5890,7 +5890,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne le filtrage des noms en matière de conformité AML/KYC pour les institutions financières aux Philippines."
     },
     {
       "hash": "0e5a55e753c0cd66",
@@ -6106,7 +6106,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "90af612757573140",
@@ -6160,7 +6160,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bf5a366414535cb5",
@@ -6304,7 +6304,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6fa517321a647956",
@@ -6394,7 +6394,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "71dffa69f1ebf3cd",
@@ -6538,7 +6538,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b1fd242c7d822a2a",
@@ -6556,7 +6556,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "342af6b157cca345",
@@ -6935,6 +6935,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Discussion sur l'avenir du système financier par une autorité de supervision, relevant de la conformité réglementaire et de la gouvernance financière."
+    },
+    {
+      "hash": "6c3d931122603395",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Former BizJet exec detained more than decade after FCPA indictment",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/former-bizjet-exec-detained-more-decade-after-fcpa-indictment",
+      "author": "Estelle Atkinson",
+      "published": "2026-10-20T18:39:01",
+      "summary": "After years on the run, former sales manager Jald Jensen has been arraigned in Oklahoma on 2013 charges of bribing officials in Mexico, Brazil and Panama for aircraft service contracts.",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: fcpa | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "893e9c48a0463341",
@@ -7348,7 +7366,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car l'OFAC impose des obligations de conformité aux sanctions américaines en matière d'échanges commerciaux."
     },
     {
       "hash": "3b1b115c614bd5f6",
@@ -7546,7 +7564,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la confidentialité des communications conjugales en matière d'enquête, relevant du droit processuel plutôt que de la conformité financière directe. Hors périmètre compliance."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9a360888ad61ee5d",
@@ -7567,7 +7585,7 @@
       "ai_summary": "Lafarge conteste les accusations de destruction de preuves concernant ses relations avec des groupes terroristes, enjeu de conformité cruciale."
     }
   ],
-  "last_update": "2026-10-20T17:23:49.394312+00:00",
+  "last_update": "2026-10-20T21:02:34.950451+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
