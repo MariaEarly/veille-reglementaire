@@ -904,7 +904,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des modèles internes des banques et des actifs pondérés du risque, éléments clés de la conformité réglementaire bancaire."
+      "ai_summary": "Cet article concerne la conformité financière car les modèles internes et les RWA relèvent de la réglementation prudentielle ACPR."
     },
     {
       "hash": "0e6407eacd54ed8e",
@@ -1030,7 +1030,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'un accord de coopération entre régulateurs pour superviser les conseillers en investissement et prestataires de services."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'un accord de coopération entre régulateurs renforçant la supervision des conseillers en investissement."
     },
     {
       "hash": "50146f5897b4f5c6",
@@ -3496,7 +3496,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8c8fb4177df44276",
@@ -3769,24 +3769,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du blanchiment d'argent et de corruption impliquant un banquier."
     },
     {
-      "hash": "b717801f8b866147",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décret n° 2026-952 du 12 octobre 2026 portant publication de l'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025 (1)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054979583",
-      "author": "Ministère de l'Europe et des affaires étrangères",
-      "published": "2026-10-14T00:00:00",
-      "summary": "L'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025, sera publié au Journal officiel de la République française.\nLe Premier ministre et le ministre de l'Europe et des affaires étrangères sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.\nANNEXEPROCÉDURE D'AP",
-      "score": 45,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.0 (7d)",
-      "doc_type": "DÉCRET",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "41c382b112f5b3d8",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -3802,7 +3784,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1c6098506db014dc",
@@ -3874,7 +3856,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet accord renforce la supervision réglementaire transfrontalière des conseillers en investissement, garantissant la conformité aux normes financières internationales."
+      "ai_summary": "Accord de coopération entre la SEC et l'AMF pour renforcer la supervision des conseillers en investissement et prestataires de services d'investissement."
     },
     {
       "hash": "1b25a2acd2836b76",
@@ -4090,7 +4072,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre le blanchiment d'argent via les systèmes bancaires souterrains et le hawala non régulé, enjeu majeur de conformité financière."
+      "ai_summary": "Les systèmes bancaires parallèles et hawala facilitent le blanchiment d'argent provenant de diverses activités criminelles, un enjeu majeur de conformité financière."
     },
     {
       "hash": "3b6e9f8310f330e2",
@@ -4288,7 +4270,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "833c610bb3ee8a90",
@@ -4576,7 +4558,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d62ec8ef330a8f70",
@@ -4590,6 +4572,24 @@
       "summary": "Vu la procédure suivante :    Par une décision n° AD/07433-1/CR du 24 juin 2024, la chambre de discipline du conseil régional d’Ile-de-France de l’ordre des pharmaciens, statuant sur la plainte du directeur général de l’agence régionale de santé ARS d’Ile-de-France, a prononcé à l’encontre de Mme Z... X... la sanction de l’interdiction d’exercer la pharmacie pour une durée d’un an, dont neuf mois assortis du sursis.    Par une décision n° AD/07433-2/CN du 14 avril 2026, la chambre de discipline ",
       "score": 40,
       "score_breakdown": "+20 mots critiques: sanction | +20 Géo FR: france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "01cddd1a974f9982",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Fraud Division talks up AI in bid to encourage self-disclosures",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/fraud-division-talks-ai-in-bid-encourage-self-disclosures",
+      "author": "Mark Taylor",
+      "published": "2026-10-20T21:45:02",
+      "summary": "At a GIR event on financial crime, leaders of the DOJ’s newest division were bullish that a cross-agency effort to pool resources and tap AI would speed up investigations and pressure companies to disclose bad behaviour.",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
@@ -4936,7 +4936,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la fraude, des techniques de manipulation et de la sensibilisation aux risques de cybersécurité pour les utilisateurs."
+      "ai_summary": "L'article traite de la fraude et des escroqueries utilisant de faux emails, relevant de la conformité en matière de lutte antifraude et de prévention des risques."
     },
     {
       "hash": "80eb209f2f72774e",
@@ -5083,6 +5083,42 @@
       "ai_summary": "Cet article concerne la conformité financière car l'EBA établit les normes de conformité réglementaire que les banques coopératives doivent respecter."
     },
     {
+      "hash": "b717801f8b866147",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décret n° 2026-952 du 12 octobre 2026 portant publication de l'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025 (1)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054979583",
+      "author": "Ministère de l'Europe et des affaires étrangères",
+      "published": "2026-10-14T00:00:00",
+      "summary": "L'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025, sera publié au Journal officiel de la République française.\nLe Premier ministre et le ministre de l'Europe et des affaires étrangères sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.\nANNEXEPROCÉDURE D'AP",
+      "score": 36,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×0.8 (14d)",
+      "doc_type": "DÉCRET",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "fae1763eedf3fccb",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 25 septembre 2026 portant approbation de la convention constitutive modificative d'un groupement d'intérêt public",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054965777",
+      "author": "Ministère de l'enseignement supérieur, de la recherche et de l'espace",
+      "published": "2026-10-09T00:00:00",
+      "summary": "La convention constitutive modificative n° 3 du groupement d'intérêt public « Cancéropôle Grand Ouest », dont un extrait figure ci-après, est approuvée.\nLa convention constitutive modificative n° 3 peut être consultée, par toute personne intéressée, au siège du groupement et sur son site internet.\nLe présent arrêté et son annexe seront publiés au Journal officiel de la République française.\nANNEXEEXTRAITS DE LA CONVENTION CONSTITUTIVE MODIFICATIVE NO 3 DU GROUPEMENT D'INTÉRÊT PUBLIC « CANCÉROPÔL",
+      "score": 36,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×0.8 (14d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "b60311abf982e422",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -5134,7 +5170,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite des sanctions américaines contre la Russie et leur impact sur le commerce, relevant de la conformité aux régimes de sanctions financières."
+      "ai_summary": "Cet article concerne les sanctions américaines contre la Russie et leurs impacts sur le commerce, relevant de la conformité aux régimes de sanctions."
     },
     {
       "hash": "51596e763a05acef",
@@ -5548,7 +5584,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3a84ace57918ba1b",
@@ -5566,7 +5602,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5b516def8ba7944d",
@@ -5656,7 +5692,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4b09befd3a7e60ed",
@@ -6106,7 +6142,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "90af612757573140",
@@ -6160,7 +6196,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "bf5a366414535cb5",
@@ -6304,7 +6340,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6fa517321a647956",
@@ -6394,7 +6430,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "71dffa69f1ebf3cd",
@@ -6538,7 +6574,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b1fd242c7d822a2a",
@@ -6556,7 +6592,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "342af6b157cca345",
@@ -6952,7 +6988,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de violations de la loi FCPA concernant la corruption transfrontalière."
     },
     {
       "hash": "893e9c48a0463341",
@@ -7366,7 +7402,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'OFAC impose des obligations de conformité aux sanctions américaines en matière d'échanges commerciaux."
+      "ai_summary": "Cet article concerne l'application de sanctions commerciales et le respect des contrôles d'exportation, éléments clés de la conformité financière internationale."
     },
     {
       "hash": "3b1b115c614bd5f6",
@@ -7564,7 +7600,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "9a360888ad61ee5d",
@@ -7585,7 +7621,7 @@
       "ai_summary": "Lafarge conteste les accusations de destruction de preuves concernant ses relations avec des groupes terroristes, enjeu de conformité cruciale."
     }
   ],
-  "last_update": "2026-10-20T21:45:44.911697+00:00",
+  "last_update": "2026-10-21T02:31:45.932561+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
