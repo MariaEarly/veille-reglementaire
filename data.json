@@ -580,7 +580,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la révision du règlement MiCA, qui encadre les actifs numériques et les prestataires de services crypto."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des révisions du règlement MiCA sur les cryptoactifs et des propositions réglementaires des autorités françaises."
     },
     {
       "hash": "d5873f0f3471d072",
@@ -1033,6 +1033,24 @@
       "ai_summary": "Rapport de l'ACPR sur les chiffres du marché bancaire et assurantiel 2025, relevant du contrôle prudentiel et de la conformité réglementaire."
     },
     {
+      "hash": "a4942b2169826a5c",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "FinCEN, DOJ say AML reform won’t soften enforcement&nbsp;",
+      "url": "https://globalinvestigationsreview.com/article/fincen-doj-say-aml-reform-wont-soften-enforcement",
+      "author": "Dan Novak",
+      "published": "2026-10-21T16:48:10",
+      "summary": "As the Trump administration overhauls anti-money laundering rules to reduce burdens on banks, officials say enforcement will remain focused on willful violations and the highest-risk activity.",
+      "score": 84,
+      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, anti-money | +10 mots moyens: risk, bank | +3 Presse | +3 Géo Intl: fincen, doj | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "3558aeb6e900fd15",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -1048,7 +1066,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet accord renforce la conformité en établissant une coopération entre régulateurs pour superviser les conseillers en investissement et prestataires de services financiers."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'un accord de coopération entre régulateurs renforçant la supervision des conseillers en investissement et prestataires de services."
     },
     {
       "hash": "3e1f814de99c981b",
@@ -1480,7 +1498,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article analyse l'impact des vagues de chaleur sur l'activité économique, relevant de la conformité climatique et risques environnementaux pour les institutions financières."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "df46199cbdbcb093",
@@ -1498,7 +1516,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "a17232cdc0c912bd",
@@ -2329,6 +2347,24 @@
       "ai_summary": "Les violations de données relèvent de la conformité réglementaire car elles impliquent le respect du RGPD et la gestion des risques légaux."
     },
     {
+      "hash": "273ab6d7421c2477",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Press Release: AMLA and OLAF strengthen cooperation in the fight against financial crime",
+      "url": "https://www.amla.europa.eu/press-release-amla-and-olaf-strengthen-cooperation-fight-against-financial-crime_en",
+      "author": "",
+      "published": "2026-10-21T16:25:15",
+      "summary": "Press Release: AMLA and OLAF strengthen cooperation in the fight against financial crime",
+      "score": 67,
+      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": "COMMUNIQUÉ",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "680f29bbbc28e626",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -2614,7 +2650,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du risque de crédit souverain et de la perception des marchés sur la stabilité budgétaire française."
     },
     {
       "hash": "b59fe8f3ba8d6ccc",
@@ -2632,7 +2668,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite des sanctions russes et du rôle des fournisseurs technologiques dans la définition des normes de conformité réglementaire."
     },
     {
       "hash": "9a4546808930605d",
@@ -2687,24 +2723,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Conformité aux régimes de sanctions : levée de restrictions contre oligarques russes listés, impliquant révision de mesures financières."
-    },
-    {
-      "hash": "c1c17172c27ad7eb",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "\"Inacceptable\": malgré la mise en garde de Zelensky, l'Union européenne se dit prête à lever ses sanctions contre deux oligarques russes",
-      "url": "https://www.bfmtv.com/economie/inacceptable-malgre-la-mise-en-garde-de-zelensky-l-union-europeenne-se-dit-prete-a-lever-ses-sanctions-contre-deux-oligarques-russes_AD-202609210803.html",
-      "author": "",
-      "published": "2026-09-21T19:06:26",
-      "summary": "L'Union européenne a trouvé ce lundi 21 septembre un accord de principe pour lever ses sanctions contre deux oligarques russes, à la demande de la France et du Luxembourg, après une négociation difficile qui permet toutefois de renouveler le reste des mesures visant Moscou, ont indiqué des diplomates.",
-      "score": 64,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +20 Géo FR: france | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la levée de sanctions contre des oligarques russes, décision relevant de la conformité aux régimes de sanctions et gels d'actifs."
     },
     {
       "hash": "e4a35ae1f214e1ac",
@@ -3550,7 +3568,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8c8fb4177df44276",
@@ -4108,7 +4126,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article traite de la lutte contre le blanchiment d'argent via les systèmes bancaires clandestins et le hawala non régulé, un enjeu majeur de conformité financière."
+      "ai_summary": "Cet article concerne la lutte contre le blanchiment d'argent par les systèmes bancaires clandestins et le hawala non réglementé."
     },
     {
       "hash": "3b6e9f8310f330e2",
@@ -5047,24 +5065,6 @@
       "ai_summary": "Cet article concerne la conformité financière car l'EBA établit les normes de conformité réglementaire que les banques coopératives doivent respecter."
     },
     {
-      "hash": "41c382b112f5b3d8",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Conférence des présidents",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054980077",
-      "author": "",
-      "published": "2026-10-14T00:00:00",
-      "summary": "Assemblée nationaleSession ordinaire 2026-2027Ordre du jour de l'Assemblée nationale(Conférence des présidents du mardi 13 octobre 2026)DATESMATINAPRÈS-MIDISOIRSemaine du GouvernementOCTOBREMARDI 13À 15 heures :- Questions au Gouvernement.- Suite Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants (3106, 3190 rect.).- Votes solennels :- Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants. (1)- Pn org. adapter l'autorité ",
-      "score": 36,
-      "score_breakdown": "+10 mots forts: esma | +25 Source FR | +10 Géo EU: esma | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "b717801f8b866147",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -5078,6 +5078,24 @@
       "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×0.8 (14d)",
       "doc_type": "DÉCRET",
       "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "41c382b112f5b3d8",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Conférence des présidents",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054980077",
+      "author": "",
+      "published": "2026-10-14T00:00:00",
+      "summary": "Assemblée nationaleSession ordinaire 2026-2027Ordre du jour de l'Assemblée nationale(Conférence des présidents du mardi 13 octobre 2026)DATESMATINAPRÈS-MIDISOIRSemaine du GouvernementOCTOBREMARDI 13À 15 heures :- Questions au Gouvernement.- Suite Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants (3106, 3190 rect.).- Votes solennels :- Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants. (1)- Pn org. adapter l'autorité ",
+      "score": 36,
+      "score_breakdown": "+10 mots forts: esma | +25 Source FR | +10 Géo EU: esma | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
       "status": "new",
       "early_brief": false,
       "ai_summary": null
@@ -5098,7 +5116,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b60311abf982e422",
@@ -5137,6 +5155,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une décision en matière de concurrence et de répression des fraudes."
     },
     {
+      "hash": "7adb74d01c7886dd",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Mozambique can enforce Tuna Bonds ruling on Privinvest founder’s widow",
+      "url": "https://globalinvestigationsreview.com/article/mozambique-can-enforce-tuna-bonds-ruling-privinvest-founders-widow",
+      "author": "Grace Propheta",
+      "published": "2026-10-21T15:45:59",
+      "summary": "The country can seek damages from the widow of the late Lebanese businessman Iskandar Safa, who was found by a London court to have bribed Mozambique’s finance minister to secure government-backed loans for an ill-fated fisheries project.",
+      "score": 34,
+      "score_breakdown": "+10 mots forts: eba | +3 Presse | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "0e6da6137a7a7cdf",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -5152,7 +5188,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il aborde la corruption de fonctionnaires publics aux infrastructures critiques, enjeu majeur de lutte anti-blanchiment et de conformité."
     },
     {
       "hash": "a07f00b869710d70",
@@ -5170,7 +5206,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la corruption et de la probité dans les transactions, enjeux majeurs de la compliance."
     },
     {
       "hash": "8f09adfc56a6ba7b",
@@ -5497,24 +5533,6 @@
       "ai_summary": "Les poursuites contre Binance pour violations des sanctions iraniennes relèvent de la conformité financière anti-blanchiment."
     },
     {
-      "hash": "4c3d133de8c52782",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Russia sanctions bill gives Trump broad waiver power",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/russia-sanctions-bill-gives-trump-broad-waiver-power",
-      "author": "Dan Novak",
-      "published": "2026-09-21T17:55:35",
-      "summary": "The legislation, signed into law on 18 September, seeks to preserve long-term US restrictions on Moscow, but may contain a presidential waiver provision “so big you can drive a truck through it”.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions contre la Russie et des pouvoirs présidentiels de dérogation."
-    },
-    {
       "hash": "31b804e409ef46c2",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -5549,6 +5567,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il porte sur les risques de dépendances externes et cybersécurité que les autorités supervisent."
+    },
+    {
+      "hash": "0a57193d823beccd",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "LA COTATION - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS0dEeDJCMW9yTGVYd0lDMFo0bVNvUUZPeXgzbkJaR1BhazlKUERMOUM5ZFg0SGp2T2FXVFp1V3lkc19Eck9oRjhtMUI0RGtHa1NqOFYzYVFZakZLZzZPRnl0MXBxM1MzektUTDBXLVdHVVBWMU1uWGdnd1E1ODR1Q2lCQms?oc=5",
+      "author": "",
+      "published": "2026-09-30T21:56:16",
+      "summary": "LA COTATION&nbsp;&nbsp;Banque de France",
+      "score": 30,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "d7a0313b10a7752e",
@@ -5602,7 +5638,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3a84ace57918ba1b",
@@ -5620,7 +5656,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5b516def8ba7944d",
@@ -5710,7 +5746,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4b09befd3a7e60ed",
@@ -6142,7 +6178,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "90af612757573140",
@@ -6322,7 +6358,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6fa517321a647956",
@@ -6412,7 +6448,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "71dffa69f1ebf3cd",
@@ -6556,7 +6592,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "dd335e04ed7e958b",
@@ -6574,7 +6610,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b1fd242c7d822a2a",
@@ -6592,7 +6628,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "342af6b157cca345",
@@ -6955,6 +6991,24 @@
       "ai_summary": "Discussion sur l'avenir du système financier par une autorité de supervision, relevant de la conformité réglementaire et de la gouvernance financière."
     },
     {
+      "hash": "1c39e5780ce44f28",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Remaining BizJet exec to plead guilty in dormant bribery case",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/remaining-bizjet-exec-plead-guilty-in-dormant-bribery-case",
+      "author": "Estelle Atkinson",
+      "published": "2026-10-21T14:30:35",
+      "summary": "Jald Jensen, who reportedly avoided authorities for years while living in Panama, has decided to plead guilty weeks after his arraignment on FCPA charges in an Oklahoma federal court.",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: fcpa | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "6c3d931122603395",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7153,24 +7207,6 @@
       "ai_summary": "Cet article concerne la conformité financière car les programmes de lanceurs d'alerte incitent les entreprises à l'auto-signalement des infractions."
     },
     {
-      "hash": "944c7298c3f770a1",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "FCPA Docket: Ex-Vitol trader gets four years for bribery scheme",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/fcpa-docket-ex-vitol-trader-gets-four-years-bribery-scheme",
-      "author": "Estelle Atkinson",
-      "published": "2026-09-21T19:55:59",
-      "summary": "Javier Aguilar has also been ordered to forfeit more than $7 million, Smartmatic’s trial has been pushed to 2028, and convicted Mexican customs broker Carlos Alvelais wants more time to surrender.",
-      "score": 9,
-      "score_breakdown": "+3 Presse | +3 Géo Intl: fcpa | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites FCPA pour corruption et de confiscation d'actifs."
-    },
-    {
       "hash": "e4cffbac2f6bba39",
       "source_name": "CJUE - Cour de Justice UE",
       "source_type": "rss",
@@ -7187,6 +7223,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cette affaire concerne la conformité des prestataires de services de paiement aux obligations de remboursement des transactions non autorisées."
+    },
+    {
+      "hash": "73823c817add1926",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Iran-related Designations; Belarus and North Korea Designations Removals; Issuance of Iran-related and Russia-related General Licenses and Amended Frequently Asked Questions | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20261021",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-10-21T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "347d15ec35f696bb",
@@ -7564,7 +7618,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9a360888ad61ee5d",
@@ -7585,7 +7639,7 @@
       "ai_summary": "Lafarge conteste les accusations de destruction de preuves concernant ses relations avec des groupes terroristes, enjeu de conformité cruciale."
     }
   ],
-  "last_update": "2026-10-21T17:28:16.531449+00:00",
+  "last_update": "2026-10-21T21:04:05.548385+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
