@@ -580,7 +580,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des propositions de révision du règlement MiCA, qui encadre les cryptoactifs et impose des obligations réglementaires."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la révision du règlement MiCA, qui encadre les actifs numériques et les prestataires de services crypto."
     },
     {
       "hash": "d5873f0f3471d072",
@@ -889,6 +889,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une amende pour défaillances en matière de lutte anti-blanchiment."
     },
     {
+      "hash": "64c846c4e7c4ea28",
+      "source_name": "DG Trésor",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Révision du règlement européen sur les marchés de crypto-actifs (MiCA) : les autorités françaises publient leurs propositions conjointes",
+      "url": "https://www.tresor.economie.gouv.fr/Articles/2026/10/20/revision-du-reglement-europeen-sur-les-marches-de-crypto-actifs-mica-les-autorites-francaises-publient-leurs-propositions-conjointes",
+      "author": "",
+      "published": "2026-10-19T22:00:00",
+      "summary": "La DG Trésor, l'Autorité des marchés financiers, la Banque de France et l'Autorité de contrôle prudentiel et de résolution publient une réponse commune à la consultation de la Commission européenne sur la révision du règlement sur les marchés de crypto-actifs (MiCA). Cette réponse défend un cadre qui soutient l'innovation et renforce la compétitivité du secteur financier européen, tout en préservant la protection des investisseurs, la stabilité financière et la souveraineté monétaire de l'Union.",
+      "score": 90,
+      "score_breakdown": "+20 mots forts: mica, crypto, contrôle prudentiel | +10 mots moyens: règlement, banque | +25 Source FR | +20 Géo FR: france, français, française | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la révision réglementaire MiCA encadrant les marchés de crypto-actifs."
+    },
+    {
       "hash": "e90d09c554c0e553",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -1030,7 +1048,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'un accord de coopération entre régulateurs pour superviser les conseillers en investissement."
+      "ai_summary": "Cet accord renforce la conformité en établissant une coopération entre régulateurs pour superviser les conseillers en investissement et prestataires de services financiers."
     },
     {
       "hash": "3e1f814de99c981b",
@@ -1462,7 +1480,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article analyse l'impact des vagues de chaleur sur l'activité économique, relevant de la conformité climatique et risques environnementaux pour les institutions financières."
     },
     {
       "hash": "df46199cbdbcb093",
@@ -1480,7 +1498,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a17232cdc0c912bd",
@@ -2581,6 +2599,42 @@
       "ai_summary": "Cet article concerne la conformité des ascenseurs et leurs composants de sécurité sur le marché intérieur en cas de crise d'urgence."
     },
     {
+      "hash": "fbe5d750bba271f5",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Crise budgétaire : des taux d’intérêt au-delà de 5 %, une sanction des marchés que la France s’est elle-même infligée",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/21/crise-budgetaire-des-taux-d-interet-au-dela-de-5-une-sanction-des-marches-que-la-france-s-est-elle-meme-infligee_6798257_3234.html",
+      "author": "",
+      "published": "2026-10-21T13:08:07",
+      "summary": "Le « spread », l’écart entre les taux d’emprunt à dix ans de la France et de l’Allemagne, retrouve son plus haut historique depuis la création de la zone euro. La crise politique tricolore alimente la défiance des marchés.",
+      "score": 64,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +20 Géo FR: france | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "b59fe8f3ba8d6ccc",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Who Defines Compliance When Regulators Leave SaaS-Shaped Gaps?",
+      "url": "https://www.corporatecomplianceinsights.com/who-defines-compliance-when-regulators-leave-saas-shaped-gaps/",
+      "author": "Gordon Feller",
+      "published": "2026-10-21T11:01:03",
+      "summary": "EU and G7 Russian diamond sanctions highlight a pattern the compliance community has seen again and again: regulators establishing requirements without prescribing verification methods, leaving technology vendors to define practical standards. CCI contributing writer Gordon Feller examines the benefits and risks of outsourcing compliance infrastructure through the prism of the diamond industry.\nThe post Who Defines Compliance When Regulators Leave SaaS-Shaped Gaps? appeared first on Corporate Co",
+      "score": 64,
+      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: compliance | +10 mots moyens: risk, ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "9a4546808930605d",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -3118,7 +3172,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les évolutions du cadre juridique indien contre la corruption et le blanchiment d'argent."
     },
     {
       "hash": "77ea204e0efc0d26",
@@ -3496,7 +3550,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8c8fb4177df44276",
@@ -3623,24 +3677,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les banques occidentales ont traité des milliards pour des entités russes sanctionnées, violant les régimes de conformité aux sanctions."
-    },
-    {
-      "hash": "d3591bd079435991",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Google : l’Irlande condamne le moteur de recherche à une amende de 403 millions d’euros pour manquement au traitement des données de géolocalisation",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/21/google-l-irlande-condamne-le-moteur-de-recherche-a-une-amende-de-403-millions-d-euros-pour-manquement-au-traitement-des-donnees-de-geolocalisation_6779051_3234.html",
-      "author": "",
-      "published": "2026-09-21T11:06:22",
-      "summary": "Le régulateur irlandais sanctionne le groupe américain au titre du RGPD, deux mois après l’amende de 890 millions d’euros de Bruxelles.",
-      "score": 49,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +10 Géo EU: irlande | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Google est sanctionnée pour manquement à la protection des données personnelles (RGPD), obligation légale relevant de la conformité réglementaire."
     },
     {
       "hash": "f8eee325004abf70",
@@ -3838,7 +3874,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Tracfin renforce sa coopération avec la DACG pour lutter contre la criminalité financière et améliorer la conformité aux normes anti-blanchiment."
     },
     {
       "hash": "0b59a5a7546e8d3c",
@@ -3856,7 +3892,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet accord entre la SEC et l'AMF renforce la supervision réglementaire des conseillers en investissement et prestataires de services, relevant de la conformité financière."
+      "ai_summary": "La SEC et l'AMF renforcent leur coopération en supervision des conseillers en investissement et prestataires de services."
     },
     {
       "hash": "1b25a2acd2836b76",
@@ -4072,7 +4108,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre le blanchiment de capitaux via le système hawala et les banques clandestines, un enjeu clé de la conformité financière."
+      "ai_summary": "L'article traite de la lutte contre le blanchiment d'argent via les systèmes bancaires clandestins et le hawala non régulé, un enjeu majeur de conformité financière."
     },
     {
       "hash": "3b6e9f8310f330e2",
@@ -4235,24 +4271,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les obligations de confidentialité des SAR et la communication avec les clients en matière de lutte anti-blanchiment."
-    },
-    {
-      "hash": "686e1f1a259d83fa",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Former bank CEO imprisoned over Venezuela sanctions evasion, $25m fraud",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/former-bank-ceo-imprisoned-over-venezuela-sanctions-evasion-25m-fraud",
-      "author": "Grace Propheta",
-      "published": "2026-09-21T14:07:18",
-      "summary": "",
-      "score": 42,
-      "score_breakdown": "+20 mots critiques: sanction, fraud | +5 mots moyens: bank | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de violations de sanctions et de fraude, des domaines clés de la conformité."
     },
     {
       "hash": "833c610bb3ee8a90",
@@ -4669,24 +4687,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire FCPA impliquant des accusations de corruption et fraude."
     },
     {
-      "hash": "0788e52b8cdd5062",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Russian oligarch Aven sues OFAC over delay in sanctions delisting decision",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/russian-oligarch-aven-sues-ofac-over-delay-in-sanctions-delisting-decision",
-      "author": "Grace Propheta",
-      "published": "2026-09-21T13:19:03",
-      "summary": "",
-      "score": 39,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: ofac | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'un recours légal contre l'OFAC concernant les sanctions internationales."
-    },
-    {
       "hash": "22becd5748605c64",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -4882,7 +4882,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'EBA participe à un salon de l'emploi en Pologne pour promouvoir les carrières au sein des institutions européennes."
     },
     {
       "hash": "fd8daa4010cbe77f",
@@ -5047,24 +5047,6 @@
       "ai_summary": "Cet article concerne la conformité financière car l'EBA établit les normes de conformité réglementaire que les banques coopératives doivent respecter."
     },
     {
-      "hash": "b717801f8b866147",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décret n° 2026-952 du 12 octobre 2026 portant publication de l'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025 (1)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054979583",
-      "author": "Ministère de l'Europe et des affaires étrangères",
-      "published": "2026-10-14T00:00:00",
-      "summary": "L'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025, sera publié au Journal officiel de la République française.\nLe Premier ministre et le ministre de l'Europe et des affaires étrangères sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.\nANNEXEPROCÉDURE D'AP",
-      "score": 36,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×0.8 (14d)",
-      "doc_type": "DÉCRET",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "41c382b112f5b3d8",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -5078,6 +5060,24 @@
       "score_breakdown": "+10 mots forts: esma | +25 Source FR | +10 Géo EU: esma | ×0.8 (14d)",
       "doc_type": null,
       "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "b717801f8b866147",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décret n° 2026-952 du 12 octobre 2026 portant publication de l'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025 (1)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054979583",
+      "author": "Ministère de l'Europe et des affaires étrangères",
+      "published": "2026-10-14T00:00:00",
+      "summary": "L'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025, sera publié au Journal officiel de la République française.\nLe Premier ministre et le ministre de l'Europe et des affaires étrangères sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.\nANNEXEPROCÉDURE D'AP",
+      "score": 36,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×0.8 (14d)",
+      "doc_type": "DÉCRET",
+      "action_class": "action",
       "status": "new",
       "early_brief": false,
       "ai_summary": null
@@ -5098,7 +5098,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b60311abf982e422",
@@ -5135,6 +5135,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une décision en matière de concurrence et de répression des fraudes."
+    },
+    {
+      "hash": "0e6da6137a7a7cdf",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "En Guadeloupe, le port et l’aéroport au cœur des stratégies de corruption des narcotrafiquants",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/21/en-guadeloupe-le-port-et-l-aeroport-au-c-ur-des-strategies-de-corruption-des-narcotrafiquants_6798256_4355770.html",
+      "author": "",
+      "published": "2026-10-21T13:00:13",
+      "summary": "L’île antillaise, parmi les mauvais élèves en matière de corruption, doit faire face à une pression très forte de la part de réseaux de narcotrafic. Principaux vecteurs du transport de cocaïne, le grand port maritime et l’aéroport sont accompagnés par l’Agence française anticorruption.",
+      "score": 34,
+      "score_breakdown": "+3 Presse | +20 Géo FR: français, française | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "a07f00b869710d70",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "En Guadeloupe et en Martinique, une opération inédite de sensibilisation pour enrayer la corruption galopante : « On fait face à de vieilles habitudes »",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/21/en-guadeloupe-et-en-martinique-une-operation-inedite-de-sensibilisation-pour-enrayer-la-corruption-galopante-on-fait-face-a-de-vieilles-habitudes_6798245_4355770.html",
+      "author": "",
+      "published": "2026-10-21T12:07:21",
+      "summary": "« Le Monde » a suivi l’Agence française anticorruption et le Parquet national financier lors d’une mission commune de sensibilisation des autorités chargées de la lutte contre la corruption aux Antilles. Des territoires où les infractions à la probité atteignent des niveaux bien supérieurs à la moyenne nationale.",
+      "score": 34,
+      "score_breakdown": "+3 Presse | +20 Géo FR: français, française, parquet national financier | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "8f09adfc56a6ba7b",
@@ -5566,7 +5602,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3a84ace57918ba1b",
@@ -5584,7 +5620,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5b516def8ba7944d",
@@ -5674,7 +5710,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4b09befd3a7e60ed",
@@ -6019,24 +6055,6 @@
       "ai_summary": "Crise institutionnelle affectant la crédibilité judiciaire brésilienne dans les enquêtes de fraude de col blanc."
     },
     {
-      "hash": "04db26e1c194b146",
-      "source_name": "Corporate Compliance Insights",
-      "source_type": "press",
-      "category": "presse",
-      "title": "SEC to Advisers: Don’t Say ‘May’ When You Mean ‘Does’",
-      "url": "https://www.corporatecomplianceinsights.com/sec-advisers-dont-say-may-when-you-mean-does/",
-      "author": "Todd Gibson, Jim Rollins and Kate Miller",
-      "published": "2026-09-21T11:02:50",
-      "summary": "Reconcile what your disclosures say with how you actually bill fees and earn revenue\nThe post SEC to Advisers: Don’t Say ‘May’ When You Mean ‘Does’ appeared first on Corporate Compliance Insights.",
-      "score": 27,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La SEC exige que les conseillers financiers alignent leurs divulgations sur leurs pratiques réelles de facturation et de revenus."
-    },
-    {
       "hash": "87d7461a9b8d8a63",
       "source_name": "FATF/GAFI (X)",
       "source_type": "rss",
@@ -6124,7 +6142,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "90af612757573140",
@@ -6161,24 +6179,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne l'évaluation de conformité du Canada par le FATF en matière de lutte anti-blanchiment et contre le financement du terrorisme."
-    },
-    {
-      "hash": "157556d2120c6b4e",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Norway closes Russia sanctions probe into vehicle parts business",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/norway-closes-russia-sanctions-probe-vehicle-parts-business",
-      "author": "Grace Propheta",
-      "published": "2026-10-14T13:53:03",
-      "summary": "",
-      "score": 23,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.0 (7d)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bf5a366414535cb5",
@@ -6322,7 +6322,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6fa517321a647956",
@@ -6412,7 +6412,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "71dffa69f1ebf3cd",
@@ -6541,6 +6541,24 @@
       "ai_summary": "SustainSoft aide les entreprises à se conformer à leurs obligations réglementaires en matière de RSE et de reporting de durabilité."
     },
     {
+      "hash": "157556d2120c6b4e",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Norway closes Russia sanctions probe into vehicle parts business",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/norway-closes-russia-sanctions-probe-vehicle-parts-business",
+      "author": "Grace Propheta",
+      "published": "2026-10-14T13:53:03",
+      "summary": "",
+      "score": 18,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×0.8 (14d)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "dd335e04ed7e958b",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -6556,7 +6574,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b1fd242c7d822a2a",
@@ -6574,7 +6592,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "342af6b157cca345",
@@ -6863,24 +6881,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La conformité financière nécessite une bonne gouvernance et une infrastructure de données solides pour soutenir l'innovation numérique bancaire."
-    },
-    {
-      "hash": "81e61b6067ff3700",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "Members of our Executive Board and Supervisory Board welcomed representatives from @Europarl_EN’s Committee on Economic and Monetary Affairs and discussed economic and banking supervision topics. Our regular dialogue is key to ensuring we remain accountable to Europeans.",
-      "url": "https://x.com/ecb/status/2102056751029699032",
-      "author": "@ecb",
-      "published": "2026-09-21T15:25:00",
-      "summary": "Members of our Executive Board and Supervisory Board welcomed representatives from  @Europarl_EN’s Committee on Economic and Monetary Affairs and discussed economic and banking supervision topics.Our regular dialogue is key to ensuring we remain accountable to Europeans.— European Central Bank (@ecb) Sep 21, 2026",
-      "score": 15,
-      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la supervision bancaire et la responsabilité financière envers les institutions européennes."
     },
     {
       "hash": "e386c337ce240a02",
@@ -7549,24 +7549,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il présente des avocats spécialisés en enquêtes fiscales, corruption et conformité réglementaire."
     },
     {
-      "hash": "fa09ad9151d79512",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "US returns $2.5m in corruption proceeds to The Gambia",
-      "url": "https://globalinvestigationsreview.com/article/us-returns-25m-in-corruption-proceeds-the-gambia",
-      "author": "Grace Propheta",
-      "published": "2026-09-21T13:11:55",
-      "summary": "",
-      "score": 4,
-      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne le recouvrement d'actifs provenant de corruption, domaine clé de la conformité financière et AML."
-    },
-    {
       "hash": "191b8c7f636dde56",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7582,7 +7564,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "9a360888ad61ee5d",
@@ -7603,7 +7585,7 @@
       "ai_summary": "Lafarge conteste les accusations de destruction de preuves concernant ses relations avec des groupes terroristes, enjeu de conformité cruciale."
     }
   ],
-  "last_update": "2026-10-21T12:07:45.596948+00:00",
+  "last_update": "2026-10-21T16:19:12.070637+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
