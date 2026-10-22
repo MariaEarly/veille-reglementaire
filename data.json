@@ -580,7 +580,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des révisions du règlement MiCA sur les cryptoactifs et des propositions réglementaires des autorités françaises."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la révision du règlement MiCA, qui encadre les marchés de cryptoactifs et impose des obligations de conformité aux prestataires."
     },
     {
       "hash": "d5873f0f3471d072",
@@ -1048,7 +1048,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte anti-blanchiment et de l'application des règles de conformité par les autorités."
     },
     {
       "hash": "3558aeb6e900fd15",
@@ -1066,7 +1066,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'un accord de coopération entre régulateurs renforçant la supervision des conseillers en investissement et prestataires de services."
+      "ai_summary": "Cet accord entre la SEC et l'AMF renforce la conformité financière en établissant une coopération supervisoire transfrontalière pour les conseillers en investissement."
     },
     {
       "hash": "3e1f814de99c981b",
@@ -1483,24 +1483,6 @@
       "ai_summary": "Bank of America a été sanctionnée pour violations de conformité AML et sanctions, domaines clés de la compliance financière."
     },
     {
-      "hash": "ec68cf04b766843e",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Canicule et activité économique : que nous disent les entreprises ? - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZHBTZlcyOFZJMEVhQW5JVUlRSHB0VGpKRjBpMnFvRDEtNFlqc016V3ZMRlZwVkdwZE1BUVJIY0RRNzlMeEJwdkRleDVnYngtNFpPOXA5QzUweUVVLWtabHpuWXVoc1I0b0Z1T3pCSThUa2U0NGxlT2thNlBzT2Vib2FYNFUzSFVWZzZJVk0tc1E5YmpnaFFKVnRfOEdUUTNWQ0lXa21aVkRJcEU?oc=5",
-      "author": "",
-      "published": "2026-10-21T04:39:33",
-      "summary": "Canicule et activité économique : que nous disent les entreprises ?&nbsp;&nbsp;Banque de France",
-      "score": 75,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "df46199cbdbcb093",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -1510,6 +1492,24 @@
       "author": "",
       "published": "2026-10-21T04:39:33",
       "summary": "Comprendre l’économie : quatre infographies pour décrypter les statistiques&nbsp;&nbsp;Banque de France",
+      "score": 75,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "ec68cf04b766843e",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Canicule et activité économique : que nous disent les entreprises ? - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZHBTZlcyOFZJMEVhQW5JVUlRSHB0VGpKRjBpMnFvRDEtNFlqc016V3ZMRlZwVkdwZE1BUVJIY0RRNzlMeEJwdkRleDVnYngtNFpPOXA5QzUweUVVLWtabHpuWXVoc1I0b0Z1T3pCSThUa2U0NGxlT2thNlBzT2Vib2FYNFUzSFVWZzZJVk0tc1E5YmpnaFFKVnRfOEdUUTNWQ0lXa21aVkRJcEU?oc=5",
+      "author": "",
+      "published": "2026-10-21T04:39:33",
+      "summary": "Canicule et activité économique : que nous disent les entreprises ?&nbsp;&nbsp;Banque de France",
       "score": 75,
       "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.5 (<24h)",
       "doc_type": null,
@@ -2362,7 +2362,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "AMLA et OLAF renforcent leur coopération pour lutter contre la criminalité financière, renforçant la conformité AML."
     },
     {
       "hash": "680f29bbbc28e626",
@@ -2650,7 +2650,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du risque de crédit souverain et de la perception des marchés sur la stabilité budgétaire française."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des risques de conformité réglementaire liés à la gestion de la dette publique et aux critères budgétaires européens."
     },
     {
       "hash": "b59fe8f3ba8d6ccc",
@@ -3568,7 +3568,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "8c8fb4177df44276",
@@ -4561,6 +4561,24 @@
       "ai_summary": "Cet article traite de la conformité financière car il examine la réglementation de l'épargne et des investissements."
     },
     {
+      "hash": "a18fbfc3be6252a8",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Did the Binance monitorships work or fail? Experts say it’s unclear",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/did-the-binance-monitorships-work-or-fail-experts-say-its-unclear",
+      "author": "Dan Novak",
+      "published": "2026-10-21T20:30:01",
+      "summary": "There’s no telling whether the crypto exchange is back under the DOJ’s microscope because it was under supervision for past compliance failures – or despite that oversight. “It could be both,” one law professor told GIR.",
+      "score": 39,
+      "score_breakdown": "+20 mots forts: compliance, crypto | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "01cddd1a974f9982",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -4703,6 +4721,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire FCPA impliquant des accusations de corruption et fraude."
+    },
+    {
+      "hash": "1582bc607dbeb0b7",
+      "source_name": "JORF - Lois",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "LOI n° 2026-975 du 21 octobre 2026 visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (1)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055005805",
+      "author": "",
+      "published": "2026-10-22T00:00:00",
+      "summary": "L'article L. 313-7 du code de l'action sociale et des familles est ainsi modifié :1° A la première phrase, les mots : « être supérieure à » sont remplacés par le mot : « excéder » ;2° Les deux dernières phrases sont ainsi rédigées : « Elles peuvent être renouvelées au vu des résultats positifs d'une évaluation, dans la limite d'une durée totale de dix ans. Au terme de cette période d'expérimentation et sous réserve d'une nouvelle évaluation positive, l'établissement ou le service peut être autor",
+      "score": 37,
+      "score_breakdown": "+25 Source FR | ×1.5 (<24h)",
+      "doc_type": "LOI",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "22becd5748605c64",
@@ -5065,24 +5101,6 @@
       "ai_summary": "Cet article concerne la conformité financière car l'EBA établit les normes de conformité réglementaire que les banques coopératives doivent respecter."
     },
     {
-      "hash": "b717801f8b866147",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décret n° 2026-952 du 12 octobre 2026 portant publication de l'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025 (1)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054979583",
-      "author": "Ministère de l'Europe et des affaires étrangères",
-      "published": "2026-10-14T00:00:00",
-      "summary": "L'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025, sera publié au Journal officiel de la République française.\nLe Premier ministre et le ministre de l'Europe et des affaires étrangères sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.\nANNEXEPROCÉDURE D'AP",
-      "score": 36,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×0.8 (14d)",
-      "doc_type": "DÉCRET",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "41c382b112f5b3d8",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -5098,25 +5116,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
-      "hash": "fae1763eedf3fccb",
+      "hash": "b717801f8b866147",
       "source_name": "JORF - Financier",
       "source_type": "rss",
       "category": "autorite_fr",
-      "title": "Arrêté du 25 septembre 2026 portant approbation de la convention constitutive modificative d'un groupement d'intérêt public",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054965777",
-      "author": "Ministère de l'enseignement supérieur, de la recherche et de l'espace",
-      "published": "2026-10-09T00:00:00",
-      "summary": "La convention constitutive modificative n° 3 du groupement d'intérêt public « Cancéropôle Grand Ouest », dont un extrait figure ci-après, est approuvée.\nLa convention constitutive modificative n° 3 peut être consultée, par toute personne intéressée, au siège du groupement et sur son site internet.\nLe présent arrêté et son annexe seront publiés au Journal officiel de la République française.\nANNEXEEXTRAITS DE LA CONVENTION CONSTITUTIVE MODIFICATIVE NO 3 DU GROUPEMENT D'INTÉRÊT PUBLIC « CANCÉROPÔL",
+      "title": "Décret n° 2026-952 du 12 octobre 2026 portant publication de l'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025 (1)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054979583",
+      "author": "Ministère de l'Europe et des affaires étrangères",
+      "published": "2026-10-14T00:00:00",
+      "summary": "L'accord entre le Gouvernement de la République française et le Gouvernement de la République du Paraguay relatif à la coproduction cinématographique (ensemble une annexe), signé à Cannes le 20 mai 2025, sera publié au Journal officiel de la République française.\nLe Premier ministre et le ministre de l'Europe et des affaires étrangères sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.\nANNEXEPROCÉDURE D'AP",
       "score": 36,
       "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×0.8 (14d)",
-      "doc_type": "ARRÊTÉ",
+      "doc_type": "DÉCRET",
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b60311abf982e422",
@@ -5170,7 +5188,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de corruption de fonctionnaires publics et de prêts frauduleux."
     },
     {
       "hash": "0e6da6137a7a7cdf",
@@ -5188,7 +5206,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde la corruption de fonctionnaires publics aux infrastructures critiques, enjeu majeur de lutte anti-blanchiment et de conformité."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de corruption liée au narcotrafic et de mesures anticorruption mises en place par les autorités."
     },
     {
       "hash": "a07f00b869710d70",
@@ -5206,7 +5224,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la corruption et de la probité dans les transactions, enjeux majeurs de la compliance."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la corruption et des infractions à la probité aux Antilles."
     },
     {
       "hash": "8f09adfc56a6ba7b",
@@ -5584,7 +5602,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d7a0313b10a7752e",
@@ -5638,7 +5656,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "3a84ace57918ba1b",
@@ -5656,7 +5674,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5b516def8ba7944d",
@@ -5731,6 +5749,24 @@
       "ai_summary": "Cet article traite des défis réglementaires et de conformité auxquels font face les établissements bancaires sous supervision de l'ACPR."
     },
     {
+      "hash": "70e2c34afb07a1af",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Politique monétaire et distribution de la richesse - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVc0ZUJ4X0k3MEpPUE5nd1BUR1B2azlRekNXbGY3aXlOa3FhR3prVlUzRms3RFlhY2hoc012cVc3U2RMSkRkOWJRT3V4VzN1aE0yajZDcG9zTzcxMEJvelNONm9BanhHRmFXOUIxOURXWnVLczA5bTU3UWd4N3IzektXLWJTeWtzWmMtdUxJQ1d4eEd0QUJoQ2NRbG9id3gza1NnNGsteERoek5oNXFlWTVVcjBLMlRrX2kyRUwzSXpJbVU?oc=5",
+      "author": "",
+      "published": "2026-09-24T07:00:00",
+      "summary": "Politique monétaire et distribution de la richesse&nbsp;&nbsp;Banque de France",
+      "score": 30,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "935f1c927a23790c",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
@@ -5746,7 +5782,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4b09befd3a7e60ed",
@@ -6178,7 +6214,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "90af612757573140",
@@ -6358,7 +6394,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6fa517321a647956",
@@ -6448,7 +6484,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "71dffa69f1ebf3cd",
@@ -6592,7 +6628,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "dd335e04ed7e958b",
@@ -6610,7 +6646,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b1fd242c7d822a2a",
@@ -6628,7 +6664,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance. Cet article concerne un litige administratif de responsabilité civile, non des obligations de conformité financière."
     },
     {
       "hash": "342af6b157cca345",
@@ -7006,7 +7042,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire FCPA impliquant des accusations de corruption."
     },
     {
       "hash": "6c3d931122603395",
@@ -7240,7 +7276,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions financières, les gels d'actifs et les restrictions commerciales imposées par les États-Unis contre l'Iran, la Biélorussie et la Corée du Nord."
     },
     {
       "hash": "347d15ec35f696bb",
@@ -7618,7 +7654,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "9a360888ad61ee5d",
@@ -7639,7 +7675,7 @@
       "ai_summary": "Lafarge conteste les accusations de destruction de preuves concernant ses relations avec des groupes terroristes, enjeu de conformité cruciale."
     }
   ],
-  "last_update": "2026-10-21T21:51:42.519523+00:00",
+  "last_update": "2026-10-22T02:27:59.523381+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
