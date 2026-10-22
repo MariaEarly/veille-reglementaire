@@ -580,7 +580,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car la révision du règlement MiCA implique des obligations réglementaires pour les acteurs des cryptoactifs."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la révision du règlement MiCA, un cadre réglementaire majeur encadrant les actifs numériques et les prestataires de services cryptographiques."
     },
     {
       "hash": "d5873f0f3471d072",
@@ -1084,7 +1084,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet accord entre SEC et AMF renforce la supervision des conseillers en investissement, améliorant la conformité financière transfrontalière et la protection des investisseurs."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la coopération réglementaire entre autorités de supervision pour renforcer le contrôle des conseillers en investissement."
     },
     {
       "hash": "3e1f814de99c981b",
@@ -1354,7 +1354,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite des changements que les équipes de conformité philippines doivent adopter concernant la lutte contre le blanchiment d'argent."
     },
     {
       "hash": "c763f3199a04cfff",
@@ -2650,7 +2650,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde la gestion budgétaire de l'État et ses impacts sur les coûts de financement de la dette publique."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des risques de financement de l'État liés à l'augmentation des taux d'intérêt et aux déficits budgétaires."
     },
     {
       "hash": "fbe5d750bba271f5",
@@ -2794,7 +2794,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite des impacts économiques de la canicule sur les entreprises, ce qui relève de l'analyse macroéconomique mais pas directement de la conformité financière."
     },
     {
       "hash": "df46199cbdbcb093",
@@ -2812,7 +2812,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "02a6f52036b6a761",
@@ -2938,7 +2938,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'EBA prolonge les délais de consultation suite à une maintenance de site web pour des raisons de sécurité cybernétique."
     },
     {
       "hash": "3fc7e4f570a66ffc",
@@ -3100,7 +3100,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'AMF et l'ACPR alertent sur des acteurs non autorisés proposant du Forex et des produits dérivés crypto en France, concernant l'autorisation réglementaire."
     },
     {
       "hash": "00952a76cee4c2ec",
@@ -3676,7 +3676,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "8c8fb4177df44276",
@@ -4180,7 +4180,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car les autorités de supervision européennes définissent leurs priorités pour renforcer la coordination et la gestion des risques dans le secteur financier."
     },
     {
       "hash": "212ea179a753bc35",
@@ -4579,6 +4579,42 @@
       "ai_summary": "Le rapport du CCSF traite de la conformité financière en analysant les pratiques bancaires et leur régulation par l'autorité de supervision."
     },
     {
+      "hash": "f902c35af0085f4c",
+      "source_name": "Money Laundering News",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Targeting Iran Finance, Treasury Sanctions Russia-Linked Sanctions Evasion A7 Network",
+      "url": "https://www.moneylaunderingnews.com/2026/10/targeting-iran-finance-treasury-sanctions-russia-linked-sanctions-evasion-a7-network/",
+      "author": "Katherine L. Oaks",
+      "published": "2026-10-22T19:41:01",
+      "summary": "\n\t\t\tOn October 1, the Treasury Department&rsquo;s Financial Crimes Enforcement Network (FinCEN) Office of Foreign Assets Control (OFAC) took joint actions against the A7 Network, a global financial services infrastructure designed to evade sanctions, &ldquo;to isolate Iran and its financial enablers,&rdquo; as part of Operation Economic Outcast against Iran.\nFinCEN NPRM\nFinCEN issued a notice of proposed rulemaking (NPRM), under section 9714(a) of the Combatting Russian Money Laundering Act, fin",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: sanction, money laundering | +3 Presse | +3 Géo Intl: ofac, fincen | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "eea27c25e2ebee99",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Law firm sanctioned for alleged role in building Iran’s “shadow fleet”",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/law-firm-sanctioned-alleged-role-in-building-irans-shadow-fleet",
+      "author": "Grace Propheta",
+      "published": "2026-10-22T14:48:16",
+      "summary": "US Treasury Secretary Scott Bessent said he is targeting law firms that create shell companies for people who trade Iranian oil, warning lawyers, “we will find you and sanction you”.",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: us treasury | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "a18fbfc3be6252a8",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -4723,24 +4759,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il rapporte des violations graves de règles anti-blanchiment d'argent sanctionnées par la Finma."
     },
     {
-      "hash": "2aa923105f5cadaf",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "SEC attorney leaves stalled FCPA case against Adani co-defendant",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/sec-attorney-leaves-stalled-fcpa-case-against-adani-co-defendant",
-      "author": "Estelle Atkinson",
-      "published": "2026-09-22T19:27:09",
-      "summary": "Amy Burkart is leaving the agency as it struggles to serve Cyril Cabanes nearly two years after charging the former Azure executive in a fraud and bribery scheme allegedly involving Indian business mogul Gautam Adani.",
-      "score": 39,
-      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | +3 Géo Intl: fcpa | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire FCPA impliquant des accusations de corruption et fraude."
-    },
-    {
       "hash": "1582bc607dbeb0b7",
       "source_name": "JORF - Lois",
       "source_type": "rss",
@@ -4756,7 +4774,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "22becd5748605c64",
@@ -5119,24 +5137,6 @@
       "ai_summary": "Cet article concerne la conformité financière car l'EBA établit les normes de conformité réglementaire que les banques coopératives doivent respecter."
     },
     {
-      "hash": "41c382b112f5b3d8",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Conférence des présidents",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054980077",
-      "author": "",
-      "published": "2026-10-14T00:00:00",
-      "summary": "Assemblée nationaleSession ordinaire 2026-2027Ordre du jour de l'Assemblée nationale(Conférence des présidents du mardi 13 octobre 2026)DATESMATINAPRÈS-MIDISOIRSemaine du GouvernementOCTOBREMARDI 13À 15 heures :- Questions au Gouvernement.- Suite Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants (3106, 3190 rect.).- Votes solennels :- Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants. (1)- Pn org. adapter l'autorité ",
-      "score": 36,
-      "score_breakdown": "+10 mots forts: esma | +25 Source FR | +10 Géo EU: esma | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "b717801f8b866147",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -5150,6 +5150,24 @@
       "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×0.8 (14d)",
       "doc_type": "DÉCRET",
       "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "41c382b112f5b3d8",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Conférence des présidents",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054980077",
+      "author": "",
+      "published": "2026-10-14T00:00:00",
+      "summary": "Assemblée nationaleSession ordinaire 2026-2027Ordre du jour de l'Assemblée nationale(Conférence des présidents du mardi 13 octobre 2026)DATESMATINAPRÈS-MIDISOIRSemaine du GouvernementOCTOBREMARDI 13À 15 heures :- Questions au Gouvernement.- Suite Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants (3106, 3190 rect.).- Votes solennels :- Pn réponse intégrale aux violences sexuelles et sexistes contre les femmes et les enfants. (1)- Pn org. adapter l'autorité ",
+      "score": 36,
+      "score_breakdown": "+10 mots forts: esma | +25 Source FR | +10 Géo EU: esma | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
       "status": "new",
       "early_brief": false,
       "ai_summary": null
@@ -5206,7 +5224,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7adb74d01c7886dd",
@@ -5242,7 +5260,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de corruption dans les infrastructures portuaires et aéroportuaires, secteurs clés du blanchiment d'argent provenant du trafic de drogue."
+      "ai_summary": "Cet article concerne la conformité financière car il expose les risques de corruption dans les infrastructures portuaires et aéroportuaires, secteurs clés de la lutte anti-blanchiment et compliance."
     },
     {
       "hash": "a07f00b869710d70",
@@ -5623,24 +5641,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il porte sur les risques de dépendances externes et cybersécurité que les autorités supervisent."
     },
     {
-      "hash": "0a57193d823beccd",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "LA COTATION - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS0dEeDJCMW9yTGVYd0lDMFo0bVNvUUZPeXgzbkJaR1BhazlKUERMOUM5ZFg0SGp2T2FXVFp1V3lkc19Eck9oRjhtMUI0RGtHa1NqOFYzYVFZakZLZzZPRnl0MXBxM1MzektUTDBXLVdHVVBWMU1uWGdnd1E1ODR1Q2lCQms?oc=5",
-      "author": "",
-      "published": "2026-09-30T21:56:16",
-      "summary": "LA COTATION&nbsp;&nbsp;Banque de France",
-      "score": 30,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "d7a0313b10a7752e",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -5692,7 +5692,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5b516def8ba7944d",
@@ -5783,6 +5783,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des politiques de la Banque de France, régulateur clé du secteur financier français."
+    },
+    {
+      "hash": "fd8b36ea81ed2f06",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Suivi mensuel de la production de crédits à l’habitat - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOHd2SGx4Z2d6X2dLUWY4M2tac1Z3ODQ0SW9HekppaXNtSUtHcUc3Q3pWdklTWnEyUHVXY1ZMV29mVU9TbmFHOHhaMzRZNzdkeXZlVnRSZS1WUll2dUQ1ajJpZUJ2dGJ3cWhkOXROYmNCSlYyRmhJYTV4TkNJZGU0cEJwV0taUC1WQjFSUW96RmFFRnZ1NHJ6WG0wYmtpclFVV281bG9rb3hkMHFrV0tOVWwxcjExV05PbkxyenBPLVR2V0E?oc=5",
+      "author": "",
+      "published": "2026-09-24T07:00:00",
+      "summary": "Suivi mensuel de la production de crédits à l’habitat&nbsp;&nbsp;Banque de France",
+      "score": 30,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "4b09befd3a7e60ed",
@@ -5981,24 +5999,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'évaluation mutuelle du FATF de la Turquie évalue la conformité aux recommandations anti-blanchiment et lutte contre le financement illicite."
-    },
-    {
-      "hash": "bf228af0664075f5",
-      "source_name": "FATF/GAFI (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "📢 Apply by 28 September for a secondment opportunity with FATF regional partner, @coe's MONEYVAL. MONEYVAL evaluates 33 countries & jurisdictions for compliance and effectiveness in implementing the FATF Standards. Programme Managers➡️  #AML #Jobs",
-      "url": "https://x.com/FATFNews/status/2102433637530484989",
-      "author": "@FATFNews",
-      "published": "2026-09-22T16:23:00",
-      "summary": "📢 Apply by 28 September for a secondment opportunity with FATF regional partner,  @coe's   MONEYVAL.MONEYVAL evaluates 33 countries & jurisdictions for compliance and effectiveness in implementing the FATF Standards. Programme Managers➡️  talents.coe.int/en_GB/career…  #AML  #Jobs— FATF (@FATFNews) Sep 22, 2026",
-      "score": 30,
-      "score_breakdown": "+20 mots forts: aml, compliance, fatf | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "MONEYVAL évalue la conformité des pays aux normes FATF contre le blanchiment d'argent et le financement du terrorisme."
     },
     {
       "hash": "2666e40bbe68c527",
@@ -6415,6 +6415,24 @@
       "ai_summary": "FinCEN impose une amende de 1,2 milliard de dollars à Bank of America pour violations de conformité aux lois anti-blanchiment."
     },
     {
+      "hash": "c67e65dac79c9736",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "OLAF signs working agreement with new EU AML agency",
+      "url": "https://globalinvestigationsreview.com/article/olaf-signs-working-agreement-new-eu-aml-agency",
+      "author": "Grace Propheta",
+      "published": "2026-10-22T12:03:28",
+      "summary": "",
+      "score": 19,
+      "score_breakdown": "+10 mots forts: aml | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "c9fa11116585d557",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -6538,7 +6556,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "157556d2120c6b4e",
@@ -6556,7 +6574,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "dd335e04ed7e958b",
@@ -6574,7 +6592,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b1fd242c7d822a2a",
@@ -6592,7 +6610,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "342af6b157cca345",
@@ -6700,7 +6718,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "913cffffb17a3480",
@@ -7186,7 +7204,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions financières et les restrictions commerciales imposées par les États-Unis contre l'Iran, la Biélorussie et la Corée du Nord."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions OFAC envers l'Iran, la Biélorussie et la Corée du Nord."
     },
     {
       "hash": "347d15ec35f696bb",
@@ -7582,10 +7600,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la protection des communications conjugales face aux enquêtes gouvernementales en matière de corruption."
     }
   ],
-  "last_update": "2026-10-22T17:25:40.555536+00:00",
+  "last_update": "2026-10-22T21:00:22.631406+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
