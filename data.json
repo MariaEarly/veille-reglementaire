@@ -2182,7 +2182,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des pénalités croissantes imposées par l'agence canadienne de lutte anti-blanchiment pour non-conformité."
     },
     {
       "hash": "dd786a98d4cf37b8",
@@ -2200,7 +2200,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il documente les travaux de la Commission des sanctions de l'AMF sur les violations réglementaires et les abus de marché."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions et transactions, domaines clés de la régulation financière et de la lutte contre les abus de marché."
     },
     {
       "hash": "d23199721653dd6a",
@@ -3532,7 +3532,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1c6098506db014dc",
@@ -3604,7 +3604,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La préparation aux crises bancaires via des exercices de simulation renforce la conformité réglementaire et la résilience du secteur financier européen."
+      "ai_summary": "Cet article concerne la préparation aux crises bancaires et les exercices de simulation pour renforcer la résilience du secteur financier européen."
     },
     {
       "hash": "b84d0457a310c730",
@@ -4000,7 +4000,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "833c610bb3ee8a90",
@@ -4090,7 +4090,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "abbab55d5c1416d6",
@@ -4126,7 +4126,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Le COAF brésilien renforce sa conformité en doublant ses effectifs et modernisant son système de détection de blanchiment."
     },
     {
       "hash": "630d31a0b5e85095",
@@ -4342,7 +4342,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "22becd5748605c64",
@@ -4684,7 +4684,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "76d9d545a0a09407",
@@ -4702,7 +4702,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4c21d224a765cd1a",
@@ -5029,24 +5029,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une fraude financière et des failles de régulation découvertes en Turquie."
     },
     {
-      "hash": "b93f3279c69f4ea3",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Décision n° 2026-1976 du 20 octobre 2026 portant délégation de signature pour les actes se rapportant au fonctionnement de l'Autorité ou à l'exécution de ses décisions",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055012771",
-      "author": "Autorité de régulation des communications électroniques, des postes et de la distribution de la presse",
-      "published": "2026-10-24T00:00:00",
-      "summary": "Délégation est donnée à M. Olivier Corolleur, directeur général, à l'effet de signer, au nom de la présidente, tous actes se rapportant au fonctionnement de l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse ou à l'exécution de ses décisions, à l'exception des délibérations de l'Autorité.\nDélégation est donnée aux personnes mentionnées au présent article, à l'effet de signer, au nom de la présidente, tous actes se rapportant au fonctionnement",
-      "score": 30,
-      "score_breakdown": "+25 Source FR | ×1.2 (<3d)",
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "0a57193d823beccd",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -5080,7 +5062,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d7a0313b10a7752e",
@@ -5425,6 +5407,24 @@
       "ai_summary": "Les partenariats internationaux renforcés visent à combler les lacunes permettant le blanchiment de capitaux et le financement du terrorisme."
     },
     {
+      "hash": "b93f3279c69f4ea3",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Décision n° 2026-1976 du 20 octobre 2026 portant délégation de signature pour les actes se rapportant au fonctionnement de l'Autorité ou à l'exécution de ses décisions",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055012771",
+      "author": "Autorité de régulation des communications électroniques, des postes et de la distribution de la presse",
+      "published": "2026-10-24T00:00:00",
+      "summary": "Délégation est donnée à M. Olivier Corolleur, directeur général, à l'effet de signer, au nom de la présidente, tous actes se rapportant au fonctionnement de l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse ou à l'exécution de ses décisions, à l'exception des délibérations de l'Autorité.\nDélégation est donnée aux personnes mentionnées au présent article, à l'effet de signer, au nom de la présidente, tous actes se rapportant au fonctionnement",
+      "score": 25,
+      "score_breakdown": "+25 Source FR | ×1.0 (7d)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "1582bc607dbeb0b7",
       "source_name": "JORF - Lois",
       "source_type": "rss",
@@ -5440,7 +5440,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0d16c4aabd845864",
@@ -5890,7 +5890,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "157556d2120c6b4e",
@@ -5926,7 +5926,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "570967fa9c794dd3",
@@ -5944,7 +5944,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du secret bancaire suisse et de sa conformité avec les normes de protection des lanceurs d'alerte et des journalistes."
     },
     {
       "hash": "342af6b157cca345",
@@ -6052,7 +6052,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "913cffffb17a3480",
@@ -6916,7 +6916,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il aborde les obligations de conformité des entreprises face aux nouvelles désignations terroristes qui impactent les contrôles commerciaux et financiers."
     },
     {
       "hash": "9a360888ad61ee5d",
@@ -6955,7 +6955,7 @@
       "ai_summary": "Cet article concerne la protection des communications conjugales face aux enquêtes gouvernementales en matière de corruption."
     }
   ],
-  "last_update": "2026-10-26T22:48:06.836211+00:00",
+  "last_update": "2026-10-27T02:55:00.981322+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
