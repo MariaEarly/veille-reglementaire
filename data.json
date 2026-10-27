@@ -2038,7 +2038,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Le droit d'opposition de Tracfin permet de bloquer temporairement des opérations suspectes pour prévenir les transferts illicites, relevant de la lutte anti-blanchiment."
+      "ai_summary": "Le droit d'opposition de Tracfin permet de bloquer temporairement les opérations suspectes pour prévenir les transferts frauduleux, ce qui relève de la conformité financière."
     },
     {
       "hash": "29902b32a8d26717",
@@ -2218,7 +2218,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des pénalités croissantes imposées par Fintrac pour non-respect des obligations anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions de Fintrac pour non-respect des normes anti-blanchiment au Canada."
     },
     {
       "hash": "dd786a98d4cf37b8",
@@ -2236,7 +2236,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions et transactions, domaines clés de la régulation des marchés financiers et du respect des règles par les acteurs."
+      "ai_summary": "Cet événement concerne la conformité financière car la Commission des sanctions de l'AMF traite les violations des réglementations boursières et de marché."
     },
     {
       "hash": "d23199721653dd6a",
@@ -3334,7 +3334,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de MiCA, le cadre réglementaire de l'UE sur les actifs cryptographiques et la finance numérique."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de MiCA, la réglementation européenne des cryptoactifs qui impose des obligations de conformité aux acteurs du secteur."
     },
     {
       "hash": "3bd779b13cb8cc14",
@@ -3571,24 +3571,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des risques de gestion de documents privilégiés par l'agence de lutte contre la fraude."
     },
     {
-      "hash": "e57e72a5151a9e70",
-      "source_name": "Cass. - Bancaire",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de TOULOUSE, 2ème chambre, 20 octobre 2026, 24TL02201",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDETOULOUSE-20261020-24TL02201",
-      "author": "2ème chambre",
-      "published": "2026-10-20T12:00:00",
-      "summary": "Vu la procédure suivante :    Procédure contentieuse antérieure :    Mme Z... O... a demandé au tribunal administratif de Toulouse d’annuler la décision du 24 juin 2021 par laquelle la  lui a infligé la sanction d’exclusion temporaire de fonctions pour une durée de douze mois et de mettre à la charge de la société La Poste une somme de 3 000 euros sur le fondement de l'article L. 761-1 du code de justice administrative.     Par un jugement n° 2104980 du 2 juillet 2024, le tribunal administratif ",
-      "score": 45,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +20 Géo FR: france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "1c6098506db014dc",
       "source_name": "CSSF Luxembourg (AML/CFT)",
       "source_type": "rss",
@@ -3658,7 +3640,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations légales des gestionnaires de portefeuille vis-à-vis de leurs clients en matière de gestion d'actifs."
     },
     {
       "hash": "818702e7afe1861e",
@@ -4090,7 +4072,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "833c610bb3ee8a90",
@@ -4180,7 +4162,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "abbab55d5c1416d6",
@@ -4576,7 +4558,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il alerte sur une arnaque usurpant l'identité de la BCE pour détourner des fonds."
     },
     {
       "hash": "558afe6af9eab225",
@@ -4741,6 +4723,24 @@
       "ai_summary": "Cet article concerne la conformité financière car l'ACPR supervise la conformité prudentielle et réglementaire des établissements financiers."
     },
     {
+      "hash": "e57e72a5151a9e70",
+      "source_name": "Cass. - Bancaire",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de TOULOUSE, 2ème chambre, 20 octobre 2026, 24TL02201",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDETOULOUSE-20261020-24TL02201",
+      "author": "2ème chambre",
+      "published": "2026-10-20T12:00:00",
+      "summary": "Vu la procédure suivante :    Procédure contentieuse antérieure :    Mme Z... O... a demandé au tribunal administratif de Toulouse d’annuler la décision du 24 juin 2021 par laquelle la  lui a infligé la sanction d’exclusion temporaire de fonctions pour une durée de douze mois et de mettre à la charge de la société La Poste une somme de 3 000 euros sur le fondement de l'article L. 761-1 du code de justice administrative.     Par un jugement n° 2104980 du 2 juillet 2024, le tribunal administratif ",
+      "score": 36,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "60c36e330bfd69e7",
       "source_name": "Cass. - Fraude",
       "source_type": "rss",
@@ -4774,25 +4774,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "fcc65e0831f7e274",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Europe 1 mise en demeure par l’Arcom après des propos « de nature à inciter à la haine » tenus à l’antenne par sa présentatrice Christine Kelly",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/26/europe-1-mise-en-demeure-par-l-arcom-apres-des-propos-de-nature-a-inciter-a-la-haine-tenus-a-l-antenne-par-sa-presentatrice-christine-kelly_6800838_3234.html",
-      "author": "",
-      "published": "2026-10-26T19:48:03",
-      "summary": "La présentatrice a tenu, à la fin de janvier, des propos sur les migrants « de nature à inciter à la haine », selon l’Arcom, « sans aucune réaction des autres personnes ». Sur l’échelle des interventions du régulateur, la mise en demeure précède toute sanction, notamment financière.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Nidec poursuit ses anciens dirigeants pour fraude comptable présumée, relevant directement de la conformité financière."
     },
     {
       "hash": "4c21d224a765cd1a",
@@ -5134,7 +5116,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0a57193d823beccd",
@@ -5170,7 +5152,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d7a0313b10a7752e",
@@ -5407,22 +5389,22 @@
       "ai_summary": "Article sur la lutte anti-blanchiment d'argent, domaine clé de la conformité financière et réglementaire."
     },
     {
-      "hash": "76d9d545a0a09407",
+      "hash": "fcc65e0831f7e274",
       "source_name": "Le Monde Économie",
       "source_type": "press",
       "category": "presse",
-      "title": "Quelles sanctions pour les justiciables qui violent l’obligation de confidentialité attachée à la médiation ?",
-      "url": "https://www.lemonde.fr/argent/article/2026/10/26/quelles-sanctions-pour-les-justiciables-qui-violent-l-obligation-de-confidentialite-attachee-a-la-mediation_6800430_1657007.html",
+      "title": "Europe 1 mise en demeure par l’Arcom après des propos « de nature à inciter à la haine » tenus à l’antenne par sa présentatrice Christine Kelly",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/26/europe-1-mise-en-demeure-par-l-arcom-apres-des-propos-de-nature-a-inciter-a-la-haine-tenus-a-l-antenne-par-sa-presentatrice-christine-kelly_6800838_3234.html",
       "author": "",
-      "published": "2026-10-26T05:00:08",
-      "summary": "Certains magistrats prononcent la nullité de l’acte d’assignation, alors que d’autres se contentent d’écarter la pièce litigieuse.",
+      "published": "2026-10-26T19:48:03",
+      "summary": "La présentatrice a tenu, à la fin de janvier, des propos sur les migrants « de nature à inciter à la haine », selon l’Arcom, « sans aucune réaction des autres personnes ». Sur l’échelle des interventions du régulateur, la mise en demeure précède toute sanction, notamment financière.",
       "score": 27,
       "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.2 (<3d)",
-      "doc_type": "SANCTION",
+      "doc_type": null,
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "2666e40bbe68c527",
@@ -5566,7 +5548,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la délégation de signature interne pour les actes administratifs de l'Autorité de régulation, sans impact direct sur la conformité financière."
     },
     {
       "hash": "1582bc607dbeb0b7",
@@ -5584,7 +5566,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0d16c4aabd845864",
@@ -6016,7 +5998,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "157556d2120c6b4e",
@@ -6052,7 +6034,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6232a0b4f00d8bea",
@@ -6070,7 +6052,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de résolution d'allégations de corruption historiques et de remboursements associés."
     },
     {
       "hash": "570967fa9c794dd3",
@@ -6196,7 +6178,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "913cffffb17a3480",
@@ -7060,7 +7042,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Les désignations terroristes américaines créent de nouvelles obligations de conformité pour les entreprises, notamment en matière de contrôle des flux commerciaux et de prévention du financement du terrorisme."
     },
     {
       "hash": "9a360888ad61ee5d",
@@ -7099,7 +7081,7 @@
       "ai_summary": "Cet article concerne la protection des communications conjugales face aux enquêtes gouvernementales en matière de corruption."
     }
   ],
-  "last_update": "2026-10-27T17:04:09.831265+00:00",
+  "last_update": "2026-10-27T21:38:28.749202+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
