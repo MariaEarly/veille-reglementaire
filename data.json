@@ -2038,7 +2038,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Le droit d'opposition de Tracfin permet de bloquer temporairement les opérations suspectes pour prévenir les transferts frauduleux, ce qui relève de la conformité financière."
+      "ai_summary": "Cet article concerne la conformité financière car il explique le droit d'opposition de Tracfin pour bloquer les opérations suspectes afin de prévenir le blanchiment de capitaux."
     },
     {
       "hash": "29902b32a8d26717",
@@ -2221,6 +2221,42 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions de Fintrac pour non-respect des normes anti-blanchiment au Canada."
     },
     {
+      "hash": "fb3734e10977ad34",
+      "source_name": "JORF - Blanchiment",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 23 octobre 2026 portant nomination à la commission de la lutte contre la fraude et contre le blanchiment des capitaux de l'Autorité nationale des jeux",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055020987",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-10-28T00:00:00",
+      "summary": "Par arrêté du ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique en date du 23 octobre 2026 :M. Guillaume LESQUOY, chef du bureau de la lutte contre la criminalité financière de la direction générale du Trésor, est nommé membre titulaire de la commission de la lutte contre la fraude et contre le blanchiment des capitaux en tant que représentant du ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique.M. Pa",
+      "score": 67,
+      "score_breakdown": "+20 mots critiques: blanchiment, fraude, fraud | +25 Source FR | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "4c84d4d397bf884b",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Conférence des présidents",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055021122",
+      "author": "",
+      "published": "2026-10-28T00:00:00",
+      "summary": "Assemblée nationaleSession ordinaire 2026-2027Ordre du jour de l'Assemblée nationale(Conférence des présidents du mardi 27 octobre 2026)DATESMATINAPRÈS-MIDISOIRSemaine du GouvernementOCTOBREMARDI 27A 15 heures :- Questions au Gouvernement.- Suite Pt loi de finances pour 2027 (première partie) (3210, 3291).A 21 h 30 :- Suite odj de l'après-midi.MERCREDI 28A 14 heures :- Questions au Gouvernement.A 15 heures :- Suite odj de la veille.A 17 heures :- Déclaration du Gouvernement, suivie d'un débat, s",
+      "score": 67,
+      "score_breakdown": "+10 mots forts: esma | +25 Source FR | +10 Géo EU: esma | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "dd786a98d4cf37b8",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -2236,7 +2272,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet événement concerne la conformité financière car la Commission des sanctions de l'AMF traite les violations des réglementations boursières et de marché."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions et des abus de marché, domaines clés de la régulation financière."
     },
     {
       "hash": "d23199721653dd6a",
@@ -2905,24 +2941,6 @@
       "ai_summary": "Cet article concerne les sanctions contre la Russie et la Biélorussie, relevant de la conformité financière."
     },
     {
-      "hash": "cdf92a0d7eace149",
-      "source_name": "BIS - Speeches",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Launch of the Anti-Money Laundering and Combatting the Financing of Terrorism Graduate Programme",
-      "url": "https://www.bis.org/speeches/20260928-launch-amlcft-graduate-programme",
-      "author": "Dr Priscilla Muthoora Thakoor",
-      "published": "2026-09-28T00:00:00",
-      "summary": "Address by Dr Priscilla Muthoora Thakoor, Governor of the Bank of Mauritius, at the launch of the AML/CFT Graduate Programme, jointly offered by the Bank of Mauritius, the Financial Crimes Commission and the Financial Services Commission, Port Louis, 21 September 2026.",
-      "score": 60,
-      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, cft, anti-money | +5 mots moyens: bank | +5 Source Intl | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre le blanchiment de capitaux et le financement du terrorisme, domaines clés de la conformité financière."
-    },
-    {
       "hash": "e65eb149cda1d699",
       "source_name": "AMF France (X)",
       "source_type": "rss",
@@ -3334,7 +3352,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de MiCA, la réglementation européenne des cryptoactifs qui impose des obligations de conformité aux acteurs du secteur."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de MiCA, la réglementation européenne encadrant les actifs cryptographiques et la finance numérique."
     },
     {
       "hash": "3bd779b13cb8cc14",
@@ -3407,6 +3425,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'EBA définit ses priorités 2027 pour superviser la conformité bancaire et financière en Europe."
+    },
+    {
+      "hash": "3370be9543fed938",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "US fines networking company over Russia sanctions, export breaches",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/us-fines-networking-company-over-russia-sanctions-export-breaches",
+      "author": "Duncan Randall",
+      "published": "2026-10-27T22:41:25",
+      "summary": "After cooperating with investigators and making compliance fixes, Extreme Networks will cough up roughly $2 million in fines and forfeiture and avoid criminal prosecution for alleged sales to a blacklisted Russian defence company.",
+      "score": 49,
+      "score_breakdown": "+20 mots critiques: sanction, blacklist | +10 mots forts: compliance | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "8c8fb4177df44276",
@@ -3640,7 +3676,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations légales des gestionnaires de portefeuille vis-à-vis de leurs clients en matière de gestion d'actifs."
+      "ai_summary": "Cet article traite de la responsabilité des gestionnaires de portefeuille selon les normes de conformité et les obligations de gestion mandatée."
     },
     {
       "hash": "818702e7afe1861e",
@@ -4058,7 +4094,7 @@
     },
     {
       "hash": "fc6974ea162d8663",
-      "source_name": "JORF - Financier",
+      "source_name": "JORF - Sanctions",
       "source_type": "rss",
       "category": "autorite_fr",
       "title": "Arrêté du 13 octobre 2026 portant approbation du règlement intérieur de l'Ecole nationale de la magistrature",
@@ -4072,7 +4108,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "833c610bb3ee8a90",
@@ -4162,7 +4198,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "abbab55d5c1416d6",
@@ -4738,7 +4774,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "60c36e330bfd69e7",
@@ -5116,7 +5152,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0a57193d823beccd",
@@ -5135,24 +5171,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La cotation par la Banque de France évalue la solvabilité des entreprises, élément clé de la conformité financière et du risque crédit."
-    },
-    {
-      "hash": "44ca88199cc0405e",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Publications - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR1lrZF92cF9yaFRlN1I1QTVLeXBncWk0aUN0YkZ1blJyTWRpWnFyd0VOa3JEYkloeUFIZ2lPWU5vWnc5MUx0ZE9pUXRJUWJyNmU2NTdSLVdXSU9SNGhEQldCemo4UnlzVlRld3htTHdVT09hRUMwYW5GcjUtOGVGMGVEVS1RN0pY?oc=5",
-      "author": "",
-      "published": "2026-09-30T21:11:10",
-      "summary": "Publications&nbsp;&nbsp;Banque de France",
-      "score": 30,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.6 (>14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d7a0313b10a7752e",
@@ -5404,7 +5422,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2666e40bbe68c527",
@@ -5548,7 +5566,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la délégation de signature interne pour les actes administratifs de l'Autorité de régulation, sans impact direct sur la conformité financière."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1582bc607dbeb0b7",
@@ -5566,7 +5584,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0d16c4aabd845864",
@@ -5998,7 +6016,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "157556d2120c6b4e",
@@ -6034,7 +6052,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6232a0b4f00d8bea",
@@ -6178,7 +6196,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "913cffffb17a3480",
@@ -7042,7 +7060,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les désignations terroristes américaines créent de nouvelles obligations de conformité pour les entreprises, notamment en matière de contrôle des flux commerciaux et de prévention du financement du terrorisme."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de contrôle des flux commerciaux et financiers liés aux sanctions contre les organisations terroristes désignées."
     },
     {
       "hash": "9a360888ad61ee5d",
@@ -7081,7 +7099,7 @@
       "ai_summary": "Cet article concerne la protection des communications conjugales face aux enquêtes gouvernementales en matière de corruption."
     }
   ],
-  "last_update": "2026-10-27T22:27:21.987935+00:00",
+  "last_update": "2026-10-28T03:06:57.689288+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
