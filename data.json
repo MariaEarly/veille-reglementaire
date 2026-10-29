@@ -1282,7 +1282,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de divulgation ESG et de taxonomie réglementaire imposées aux institutions financières européennes."
+      "ai_summary": "L'article concerne la conformité financière car il traite des obligations de divulgation en matière de taxonomie durable pour les institutions financières."
     },
     {
       "hash": "25bcedfc827a1938",
@@ -4144,7 +4144,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "833c610bb3ee8a90",
@@ -4576,7 +4576,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article traite de l'adaptation des systèmes d'assurance-dépôts à l'ère numérique pour protéger les déposants face aux risques bancaires modernes."
     },
     {
       "hash": "5913cb19651d882e",
@@ -4759,6 +4759,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction disciplinaire d'exclusion de fonctions infligée par une autorité bancaire."
     },
     {
+      "hash": "609c362b09d125c6",
+      "source_name": "Cass. - Fraude",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de VERSAILLES, 2ème chambre, 19 octobre 2026, 24VE01469",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEVERSAILLES-20261019-24VE01469",
+      "author": "2ème chambre",
+      "published": "2026-10-19T12:00:00",
+      "summary": "Vu la procédure suivante :        Procédure contentieuse antérieure :      M. L... A... a demandé au tribunal administratif de Cergy-Pontoise d’annuler la décision du 20 janvier 2022 par laquelle la commission disciplinaire d’appel de la Fédération française de Golf FFG lui a infligé les sanctions d’interdiction temporaire de participer à des compétitions et manifestations sportives organisées ou autorisées par la FFG jusqu’au 21 décembre 2022, d’interdiction temporaire de participer à des compé",
+      "score": 36,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +20 Géo FR: france, français, française | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "60c36e330bfd69e7",
       "source_name": "Cass. - Fraude",
       "source_type": "rss",
@@ -4775,6 +4793,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une décision en matière de concurrence et de répression des fraudes."
+    },
+    {
+      "hash": "fc1d40268e97c372",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Dans l’affaire des millions d’actions Hermès disparues, la justice s’interroge sur le rôle de LVMH",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/29/dans-l-affaire-des-millions-d-actions-hermes-disparues-la-justice-s-interroge-sur-le-role-de-lvmh_6802374_3224.html",
+      "author": "",
+      "published": "2026-10-29T18:00:07",
+      "summary": "Nicolas Puech, l’un des héritiers du sellier maroquinier, accuse son ex-gestionnaire de fortune de l’avoir dépossédé de sa participation dans la société, qui vaudrait aujourd’hui 8 milliards d’euros. Au profit, notamment, du groupe de Bernard Arnault, dont la conscience de cette possible fraude pose question.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "1fa201964d0eaf77",
@@ -4828,7 +4864,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La facture électronique obligatoire relève de la conformité financière car elle impose aux entreprises le respect de normes de traçabilité et de reporting fiscal."
+      "ai_summary": "La facture électronique obligatoire relève de la conformité financière car elle impose aux entreprises des obligations légales de traçabilité et de documentation comptable."
     },
     {
       "hash": "bc08a9e5e47edfbf",
@@ -5119,6 +5155,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une enquête sur des allégations de fraude et blanchiment d'argent."
     },
     {
+      "hash": "77ae8689badd416d",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arthur Saint-Guilhem - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QUkRlaHlJT0p0MjgxYWNzMUt0ODNmS2FyeEZfWlVGV1MxSFgxdWlIc1FmYlFlbUhQd0NvT2xlUDMwUnJOSUNsTHA2MnR3TlRVZzFJOThWYUxwZmN4aXJSOFVCWQ?oc=5",
+      "author": "",
+      "published": "2026-09-30T23:34:29",
+      "summary": "Arthur Saint-Guilhem&nbsp;&nbsp;Banque de France",
+      "score": 30,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "0a57193d823beccd",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -5353,6 +5407,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions de l'UE imposant des listes de gels d'actifs et restrictions commerciales."
     },
     {
+      "hash": "3ecb8495cfbb61c9",
+      "source_name": "Cass. - Bancaire",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour d'appel de Lyon, Jurid. premier président, 20 octobre 2026, 26/00417",
+      "url": "http://juricaf.org/arret/FRANCE-COURDAPPELDELYON-20261020-2600417",
+      "author": "Jurid. premier président",
+      "published": "2026-10-20T12:00:00",
+      "summary": "N° R.G. Cour : N° RG 26/00417 - N° Portalis DBVX-V-B7K-QXA4  COUR D'APPEL DE LYON  JURIDICTION DU PREMIER PRESIDENT    ORDONNANCE DU 20 Octobre 2026  contestations  d'honoraires                             DEMANDEUR :    M. G J  Adresse 1  Localité 1    Représenté par H W pouvoir           DEFENDERESSE :     S.E.L.A.R.L. YDES  Adresse 2  Localité 2    Représentée par Me Violette DECOTTIGNIES substituant Me Fabienne MARECHAL de la SELARL YDES, avocat au barreau de LYON toque 722      DEBATS : aud",
+      "score": 28,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "31e81218946698ae",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -5476,7 +5548,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b93f3279c69f4ea3",
@@ -5494,7 +5566,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0d16c4aabd845864",
@@ -5692,7 +5764,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "27fab36a4d08e6da",
@@ -5710,7 +5782,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6fa517321a647956",
@@ -5908,7 +5980,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "157556d2120c6b4e",
@@ -5944,7 +6016,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6232a0b4f00d8bea",
@@ -6019,24 +6091,6 @@
       "ai_summary": "Cet article concerne les modalités de rémunération des lanceurs d'alerte auprès de l'autorité anti-fraude britannique."
     },
     {
-      "hash": "8858abda9bbff6d6",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "DOJ urges Second Circuit to resolve \"impasse\" in Adani bribery case",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/doj-urges-second-circuit-resolve-impasse-in-adani-bribery-case",
-      "author": "Estelle Atkinson",
-      "published": "2026-09-29T18:27:59",
-      "summary": "A Brooklyn judge's refusal to let the department abandon charges remaining against five defendants is “deeply destabilizing and corrosive to the Constitution”, Acting Deputy Attorney General Trent McCotter told the appeals court.",
-      "score": 16,
-      "score_breakdown": "+5 mots moyens: ppe | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les poursuites pénales en matière de corruption, relevant de la conformité anti-corruption et de la conformité réglementaire."
-    },
-    {
       "hash": "c1f16db5f1d8b232",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -6088,7 +6142,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "913cffffb17a3480",
@@ -6325,6 +6379,24 @@
       "ai_summary": "Discussion sur l'avenir du système financier par une autorité de supervision, relevant de la conformité réglementaire et de la gouvernance financière."
     },
     {
+      "hash": "303de2706e7b0a45",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "US wins forfeiture of $7m account tied to Odebrecht bribery scandal",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/us-wins-forfeiture-of-7m-account-tied-odebrecht-bribery-scandal",
+      "author": "Estelle Atkinson",
+      "published": "2026-10-29T20:55:55",
+      "summary": "More than six years after filing a complaint, the DOJ has been given a green light to confiscate the funds following an \"irrevocable breakdown\" between the remaining claimants and their legal counsel.",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "7e07039a21c968db",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -6340,7 +6412,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la stratégie anti-cartels du gouvernement américain et de ses implications pour la conformité des entreprises en matière de FCPA."
     },
     {
       "hash": "d7a505e261ec9039",
@@ -6593,6 +6665,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cette affaire concerne la conformité des prestataires de services de paiement aux obligations de remboursement des transactions non autorisées."
+    },
+    {
+      "hash": "21300ffe1e6518b1",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Issuance of Amended Iran-related General License | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20261029",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-10-29T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "3ef01494f070a94d",
@@ -6970,7 +7060,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les désignations de terrorisme créent des obligations de sanctions et de vérification des bénéficiaires pour les entreprises."
+      "ai_summary": "Cet article concerne la conformité financière car les désignations terroristes imposent aux entreprises de vérifier leurs chaînes d'approvisionnement pour éviter les transactions avec des entités terroristes, relevant de la conformité sanctions."
     },
     {
       "hash": "9a360888ad61ee5d",
@@ -7009,7 +7099,7 @@
       "ai_summary": "Cet article concerne la protection des communications conjugales face aux enquêtes gouvernementales en matière de corruption."
     }
   ],
-  "last_update": "2026-10-29T17:57:14.970562+00:00",
+  "last_update": "2026-10-29T22:14:49.733232+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
