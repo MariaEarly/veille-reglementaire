@@ -691,6 +691,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des normes de lutte contre le blanchiment de capitaux et le financement du terrorisme."
     },
     {
+      "hash": "7dfae05d802e3540",
+      "source_name": "Ministère de la Justice (CJIP)",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Légère hausse du nombre de condamnations prononcées en 2025",
+      "url": "https://www.justice.gouv.fr/documentation/etudes-et-statistiques/legere-hausse-du-nombre-condamnations-prononcees-2025",
+      "author": "DELEIGNE Marie-Christine",
+      "published": "2026-10-30T09:05:56",
+      "summary": "Légère hausse du nombre de condamnations prononcées en 2025\nDELEIGNE Marie…\nven 30/10/2026 - 10:05\n\n      \n\n  \n\n\n  \n        En 2025, 556 000 condamnations ont été prononcées par les juridictions françaises, en légère hausse par rapport à 2024 (+0,7 %). Ces condamnations concernent à 90 % des délits commis par des majeurs. Sur un an, les condamnations à l’encontre des personnes majeures augmentent de 1 %. Six condamnations criminelles sur dix envers des personnes majeures sanctionnent des viols. ",
+      "score": 97,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: français, française | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "0b8cef02ee255aa7",
       "source_name": "CNIL",
       "source_type": "rss",
@@ -1069,6 +1087,24 @@
       "ai_summary": "Cet article traite de la conformité AML car il aborde les réformes des règles anti-blanchiment et leur impact sur l'application de la loi financière."
     },
     {
+      "hash": "858f779fd076b6a8",
+      "source_name": "AMF - Actualités",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "L'AMF publie ses recommandations sur la liquidité des fonds monétaires",
+      "url": "https://www.amf-france.org/fr/actualites-publications/actualites/lamf-publie-ses-recommandations-sur-la-liquidite-des-fonds-monetaires#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+      "author": "",
+      "published": "2026-10-30T11:03:47",
+      "summary": "Actualité                  Fonds monétaires              Gestion d&#039;actifs              Coopération                    L&#039;AMF publie ses recommandations sur la liquidité des fonds monétaires",
+      "score": 82,
+      "score_breakdown": "+10 mots forts: amf | +25 Source FR | +20 Géo FR: amf | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "L'AMF encadre la liquidité des fonds monétaires pour assurer la stabilité financière et protéger les investisseurs."
+    },
+    {
       "hash": "cdd799e427d8514f",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -1084,7 +1120,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet arrêté applique la lutte contre le financement du terrorisme et le blanchiment d'argent en définissant les fonds et ressources économiques gelés."
     },
     {
       "hash": "671eb734eab67a8b",
@@ -1300,7 +1336,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de divulgation ESG et de reporting de durabilité pour les institutions financières."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de divulgation ESG et de reporting de durabilité des banques selon le Taxonomy Regulation."
     },
     {
       "hash": "25bcedfc827a1938",
@@ -2167,6 +2203,60 @@
       "ai_summary": "Cet article concerne l'arrêté des comptes 2026 et la revue des états financiers selon les normes de l'AMF."
     },
     {
+      "hash": "1166ab93ed73707a",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Ireland: understanding the regulatory framework amid fresh legislative developments",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/ireland-understanding-the-regulatory-framework-amid-fresh-legislative-developments",
+      "author": "Karen Reynolds,Connor Cassidy,Aishlinn Gannon,Paula Shine,Lorna Murphy",
+      "published": "2026-10-30T09:00:00",
+      "summary": "Ireland’s regulators are sharpening their focus on financial crime, sanctions, AI and cybersecurity. With corporate enforcement capacity being strengthened and new rules targeting areas including greenwashing, companies face a broader range of investigative and compliance risks.",
+      "score": 72,
+      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: compliance | +5 mots moyens: risk | +3 Presse | +10 Géo EU: ireland | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "0ff14730eba1dd83",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Italy: authorities zero in on tax evasion",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/italy-authorities-zero-in-tax-evasion",
+      "author": "Giuseppe Fornari,Enrico Di Fiorino,Emanuele Angiuli,Lorena Morrone",
+      "published": "2026-10-30T09:00:00",
+      "summary": "Tax evasion, corruption and cybercrime are firmly on Italy’s enforcement agenda. New sanctions offences and proposed reforms to corporate liability could reshape the risks for companies, placing still greater emphasis on effective compliance programmes and remediation.",
+      "score": 72,
+      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: compliance | +5 mots moyens: risk | +3 Presse | +10 Géo EU: italy | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "dd3c1e0e7068af79",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Compliance: the UK perspective",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/compliance-the-uk-perspective",
+      "author": "Margaret B Beasley,Mark Hunting,Bryan McCracken ,Anisha Sandhu",
+      "published": "2026-10-30T09:00:00",
+      "summary": "UK corporate compliance lacks mandatory programmes but benefits from effective risk-targeted, friction-based, culture-driven controls to prevent financial crimes such as bribery, fraud and money laundering. Key elements include tailored risk assessments, proportionate procedures, top-level commitment, due diligence, communication and ongoing monitoring, with enhanced requirements for regulated ent...",
+      "score": 72,
+      "score_breakdown": "+20 mots critiques: money laundering, fraud | +20 mots forts: due diligence, compliance | +5 mots moyens: risk | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "bf7053d3dde8d59b",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -2308,7 +2398,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "fb3734e10977ad34",
@@ -2453,6 +2543,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les violations de données relèvent de la conformité réglementaire car elles impliquent le respect du RGPD et la gestion des risques légaux."
+    },
+    {
+      "hash": "8477a70388b3b9c6",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Call for expression of interest: technology providers roundtable on partnerships for information sharing",
+      "url": "https://www.amla.europa.eu/call-expression-interest-technology-providers-roundtable-partnerships-information-sharing_en",
+      "author": "",
+      "published": "2026-10-30T11:44:58",
+      "summary": "AMLA and the European Data Protection Board (EDPB) are inviting technology providers with practical experience of AML/CFT information-sharing arrangements to join an online roundtable on 30 November 2026.",
+      "score": 67,
+      "score_breakdown": "+20 mots forts: aml, cft, amla | +15 Source EU | +10 Géo EU: amla, edpb | ×1.5 (<24h)",
+      "doc_type": "CONSULTATION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "273ab6d7421c2477",
@@ -3139,6 +3247,60 @@
       "ai_summary": "Cet article concerne le programme de travail conjoint 2027 des autorités de supervision financière européennes sur la conformité réglementaire."
     },
     {
+      "hash": "a79183d5503129ca",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "On Theranos & Holmes, We Can See Everything — the Fraud Is Still Clear",
+      "url": "https://www.corporatecomplianceinsights.com/theranos-holmes-we-can-see-everything-fraud-still-clear/",
+      "author": "Jennifer L. Gaskin",
+      "published": "2026-10-30T11:00:53",
+      "summary": "For those softening to ex-founder after new movie, don’t lose sight of the hard facts\nThe post On Theranos &#038; Holmes, We Can See Everything — the Fraud Is Still Clear appeared first on Corporate Compliance Insights.",
+      "score": 57,
+      "score_breakdown": "+20 mots critiques: fraud | +10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "0e784e53e09aee53",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Forensic accounting skills in investigations: the US perspective",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/forensic-accounting-skills-in-investigations-the-us-perspective",
+      "author": "Eric Hines,Kyla Curley,Joshua Dennis,Snežana Gebauer",
+      "published": "2026-10-30T09:00:00",
+      "summary": "Global investigations increasingly demand multidisciplinary forensic expertise to address complex financial misconduct amid evolving technology and regulations. Forensic accountants, technologists and intelligence specialists collaborate with legal teams, employing data analytics, AI tools and corporate intelligence to uncover fraud, assess controls, trace assets and support regulatory compliance ...",
+      "score": 57,
+      "score_breakdown": "+20 mots critiques: fraud | +10 mots forts: compliance | +5 mots moyens: regulation | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "55fbfa234ced6236",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "The evolution of risk management in global investigations",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/the-evolution-of-risk-management-in-global-investigations",
+      "author": "John Gibson",
+      "published": "2026-10-30T09:00:00",
+      "summary": "Corporate criminal risk management now demands political literacy alongside legal compliance. US enforcement shifts from rule-based to transactional resolutions influenced by geopolitics; whistleblower rewards globalise; UK law mandates self-policing via strict liability; sanctions risk grows; and independent internal investigations face heightened scrutiny.",
+      "score": 57,
+      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: compliance | +5 mots moyens: risk | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "992e3112fad5209a",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3227,24 +3389,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la responsabilité individuelle dans les violations de sanctions OFAC."
-    },
-    {
-      "hash": "7bd8ed0d5a5d6d92",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "FATF: Canada must prioritise money laundering prosecutions",
-      "url": "https://globalinvestigationsreview.com/article/fatf-canada-must-prioritise-money-laundering-prosecutions",
-      "author": "Grace Propheta",
-      "published": "2026-09-30T10:14:58",
-      "summary": "",
-      "score": 54,
-      "score_breakdown": "+20 mots critiques: money laundering | +10 mots forts: fatf | +3 Presse | +3 Géo Intl: canada | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Le FATF demande au Canada de prioriser les poursuites contre le blanchiment d'argent, enjeu majeur de conformité financière."
     },
     {
       "hash": "13be93abc40daa0c",
@@ -3496,7 +3640,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il dénonce le manque de transparence dans un accord pétrolier et implique un milliardaire poursuivi pour blanchiment d'argent."
     },
     {
       "hash": "5845bb8039da4724",
@@ -3623,6 +3767,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cette acquisition relève de la conformité financière car elle requiert l'approbation réglementaire sous la Réglementation sur les fusionsUE."
+    },
+    {
+      "hash": "c7230bb414d1405c",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Switzerland: enforcement remains focused on financial institutions",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/switzerland-enforcement-remains-focused-financial-institutions",
+      "author": "Flavio Romerio,Claudio Bazzani,Reto Ferrari-Visca",
+      "published": "2026-10-30T09:00:00",
+      "summary": "Money laundering, corruption and sanctions breaches remain firmly in Swiss authorities’ sights, with financial institutions facing particular scrutiny. Recent penalties linked to Operation Lava Jato and 1MDB, alongside increased sanctions enforcement, show the breadth of risks confronting companies.",
+      "score": 46,
+      "score_breakdown": "+20 mots critiques: sanction, money laundering | +5 mots moyens: risk | +3 Presse | +3 Géo Intl: switzerland | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "2201d046480dcf01",
@@ -4039,6 +4201,24 @@
       "ai_summary": "Cet article concerne la conformité aux sanctions internationales imposées à la Russie et la Biélorussie."
     },
     {
+      "hash": "f476f76cdc2abf7a",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Spain: a new dawn in corporate crime enforcement",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/spain-new-dawn-in-corporate-crime-enforcement",
+      "author": "Miguel García Casas,Marian Ruiz",
+      "published": "2026-10-30T09:00:00",
+      "summary": "A series of major investigations involving prominent companies and former government officials is testing Spain’s corporate liability framework. Effective compliance programmes can provide an exemption from criminal liability, making the strength of a company’s internal controls particularly consequential when misconduct comes to light.",
+      "score": 42,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: internal control | +3 Presse | +10 Géo EU: spain | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "9e322fc933c01f04",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -4162,7 +4342,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "833c610bb3ee8a90",
@@ -4792,7 +4972,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "60c36e330bfd69e7",
@@ -4813,6 +4993,150 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une décision en matière de concurrence et de répression des fraudes."
     },
     {
+      "hash": "9982c66c96f695c4",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Fraude documentaire : Resistant AI fait de l’IA un nouveau standard de contrôle",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/les-emissions-partenaires/video-fraude-documentaire-resistant-ai-fait-de-l-ia-un-nouveau-standard-de-controle_VN-202610300417.html",
+      "author": "",
+      "published": "2026-10-30T10:30:23",
+      "summary": "#GRAND ANGLE - RESISTANT AI\nChristophe PALLÉE a reçu Jonathan Lemonnier, Directeur Marketing Produit de RESISTANT AI dans GRAND ANGLE. \nCette émission a été réalisée par notre partenaire Scribeo.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "225b7bb2078d3da9",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Privilege: the US perspective",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/privilege-the-us-perspective",
+      "author": "Richard M Strassberg,Meghan K Spillane",
+      "published": "2026-10-30T09:00:00",
+      "summary": "The attorney–client privilege protects confidential legal communications, while attorney work-product shields materials prepared for litigation. Joint defence agreements preserve privilege among parties. Corporate privilege extends to employees under Upjohn factors. Privilege can be waived by disclosure, crime-fraud exception or inadvertent release. AI tool communications lack clear privi...",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "5d8612d90f8a5988",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Greece: a comprehensive overview of corporate investigation and compliance intricacies",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/greece-comprehensive-overview-of-corporate-investigation-and-compliance-intricacies",
+      "author": "Ilias Anagnostopoulos,Jerina Zapanti,Alexandros Tsagkalidis",
+      "published": "2026-10-30T09:00:00",
+      "summary": "Bribery can expose legal entities in Greece to substantial penalties, with further reforms on the horizon. As anti-corruption remains an enforcement priority, developments in environmental crime and AI are adding new dimensions to the investigations landscape.",
+      "score": 34,
+      "score_breakdown": "+10 mots forts: compliance | +3 Presse | +10 Géo EU: greece | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "4d737d17e39c3bcf",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Fines, disgorgement, injunctions, debarment: the UK perspective",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/fines-disgorgement-injunctions-debarment-the-uk-perspective",
+      "author": "Tom Epps,Benjamin Sharrock-Mason",
+      "published": "2026-10-30T09:00:00",
+      "summary": "",
+      "score": 34,
+      "score_breakdown": "+10 mots forts: eba | +3 Presse | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "6dfdc0ab13ae490b",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Fines, disgorgement, injunctions, debarment: the US perspective",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/fines-disgorgement-injunctions-debarment-the-us-perspective",
+      "author": "Matthew Kutcher,Alexandra Eber,Tom Peabody,George T Papademetriou",
+      "published": "2026-10-30T09:00:00",
+      "summary": "",
+      "score": 34,
+      "score_breakdown": "+10 mots forts: eba | +3 Presse | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "551c3f505a099bbc",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Negotiating global settlements: the UK perspective",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/negotiating-global-settlements-the-uk-perspective",
+      "author": "Nicholas Purnell KC,Kate Meakin,Jessica Chappatte,Eamon McCarthy-Keen",
+      "published": "2026-10-30T09:00:00",
+      "summary": "Corporate criminal liability has evolved with statutory reforms expanding senior manager liability and introducing failure to prevent fraud offences. Settlement options include deferred prosecution agreements, civil recovery orders and plea agreements, each with distinct legal and strategic considerations, especially amid increasing global enforcement cooperation and complex multi-jurisdictional i...",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "26d3e7c8e52a0909",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Sanctions: the US perspective",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/sanctions-the-us-perspective",
+      "author": "David Mortlock,Britt Mosman,Ahmad El-Gamal",
+      "published": "2026-10-30T09:00:00",
+      "summary": "",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "d0a4e38ee11c6373",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Sanctions: the UK perspective",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/sanctions-the-uk-perspective",
+      "author": "Rita Mitchell,Simon Osborn-King,Yannis Yuen",
+      "published": "2026-10-30T09:00:00",
+      "summary": "",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "3e48e55599d6b415",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -4828,7 +5152,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "fc1d40268e97c372",
@@ -4900,7 +5224,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'obligation légale de facturation électronique et des délais de mise en conformité réglementaire."
+      "ai_summary": "La facture électronique obligatoire relève de la conformité financière car elle impose aux entreprises un respect de normes réglementaires de traçabilité et de documentation comptable."
     },
     {
       "hash": "bc08a9e5e47edfbf",
@@ -5191,22 +5515,40 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une enquête sur des allégations de fraude et blanchiment d'argent."
     },
     {
-      "hash": "77ae8689badd416d",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arthur Saint-Guilhem - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QUkRlaHlJT0p0MjgxYWNzMUt0ODNmS2FyeEZfWlVGV1MxSFgxdWlIc1FmYlFlbUhQd0NvT2xlUDMwUnJOSUNsTHA2MnR3TlRVZzFJOThWYUxwZmN4aXJSOFVCWQ?oc=5",
-      "author": "",
-      "published": "2026-09-30T23:34:29",
-      "summary": "Arthur Saint-Guilhem&nbsp;&nbsp;Banque de France",
-      "score": 30,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.6 (>14d)",
+      "hash": "6a52fe4bc2f498b3",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Whistleblowers: the UK perspective",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/whistleblowers-the-uk-perspective",
+      "author": "James Chadwick,Chantal Stroker",
+      "published": "2026-10-30T09:00:00",
+      "summary": "Whistleblowing promotes corporate accountability and regulatory compliance, protected under the Employment Rights Act 1996. UK reforms consider financial incentives and stronger protections. The FCA and PRA impose strict whistleblowing controls on regulated firms. There are legal risks for whistleblowers and employers, with evolving case law and regulatory expectations emphasising transparency and...",
+      "score": 31,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: risk | +3 Presse | +3 Géo Intl: fca | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "4506ad528dc84c43",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Compliance: the US perspective",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/compliance-the-us-perspective",
+      "author": "Kevin T Abikoff,Bryan Sillaman,Emma Baker,Jessica Griffith,Chelsea Samuels",
+      "published": "2026-10-30T09:00:00",
+      "summary": "Corporate compliance programmes must evolve with legal standards, regulatory expectations and emerging risks such as AI. Key drivers include US Sentencing Guidelines, Delaware fiduciary duties, DOJ and SEC policies. Effective programmes require risk assessments, strong leadership tone, adequate resources, clear policies, training, whistleblower mechanisms, and continuous improvement to mitigate li...",
+      "score": 31,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: risk | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "0a57193d823beccd",
@@ -5443,24 +5785,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions de l'UE imposant des listes de gels d'actifs et restrictions commerciales."
     },
     {
-      "hash": "3ecb8495cfbb61c9",
-      "source_name": "Cass. - Bancaire",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour d'appel de Lyon, Jurid. premier président, 20 octobre 2026, 26/00417",
-      "url": "http://juricaf.org/arret/FRANCE-COURDAPPELDELYON-20261020-2600417",
-      "author": "Jurid. premier président",
-      "published": "2026-10-20T12:00:00",
-      "summary": "N° R.G. Cour : N° RG 26/00417 - N° Portalis DBVX-V-B7K-QXA4  COUR D'APPEL DE LYON  JURIDICTION DU PREMIER PRESIDENT    ORDONNANCE DU 20 Octobre 2026  contestations  d'honoraires                             DEMANDEUR :    M. G J  Adresse 1  Localité 1    Représenté par H W pouvoir           DEFENDERESSE :     S.E.L.A.R.L. YDES  Adresse 2  Localité 2    Représentée par Me Violette DECOTTIGNIES substituant Me Fabienne MARECHAL de la SELARL YDES, avocat au barreau de LYON toque 722      DEBATS : aud",
-      "score": 28,
-      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
-    },
-    {
       "hash": "31e81218946698ae",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -5584,7 +5908,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b93f3279c69f4ea3",
@@ -5602,7 +5926,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0d16c4aabd845864",
@@ -5800,7 +6124,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "27fab36a4d08e6da",
@@ -5818,7 +6142,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6fa517321a647956",
@@ -5873,6 +6197,78 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "FinCEN impose une amende de 1,2 milliard de dollars à Bank of America pour violations de conformité aux lois anti-blanchiment."
+    },
+    {
+      "hash": "138f9e488e87e800",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Romania: EU reforms drive corporate accountability",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/romania-eu-reforms-drive-corporate-accountability",
+      "author": "Alexandru Ambrozie,Ana Stoenescu",
+      "published": "2026-10-30T09:00:00",
+      "summary": "Billions of euros in estimated losses are at stake in active EPPO investigations in Romania. Against that backdrop, tax evasion, corruption and cybercrime remain enforcement priorities, while major EU-driven reforms promise important changes to corporate liability and compliance.",
+      "score": 19,
+      "score_breakdown": "+10 mots forts: compliance | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "37c1a704218c0ba9",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Data protection: the UK perspective",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/data-protection-the-uk-perspective",
+      "author": "Stuart Alford KC,Harry Fathers",
+      "published": "2026-10-30T09:00:00",
+      "summary": "UK data protection law, primarily the UK GDPR and Data Protection Act 2018, governs personal data processing in investigations, balancing legal compliance with individual rights. Key issues include lawful bases for processing, special category and criminal offence data, transparency, international transfers, and monitoring communications, with strict enforcement by the Information Commissioner’s O...",
+      "score": 19,
+      "score_breakdown": "+10 mots forts: compliance | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "135fc4908d85f122",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Introduction to Part I",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/introduction-part-i",
+      "author": "Judith Seddon,Eleanor Davison,Rita Mitchell,Jason Linder,Sonali Patel,Michelle de Kluyver",
+      "published": "2026-10-30T09:00:00",
+      "summary": "UK and US corporate criminal liability differ: UK law evolved from the identification doctrine to broader senior manager liability, while US law emphasises respondeat superior and compliance culture. Double jeopardy protections vary, with limited international recognition, complicating global investigations. Effective compliance programmes and strategic cooperation are crucial across inve...",
+      "score": 19,
+      "score_breakdown": "+10 mots forts: compliance | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "9a0c2cbd14d6239c",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Investigations into cryptocurrency and blockchain: the UK perspective",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/investigations-cryptocurrency-and-blockchain-the-uk-perspective",
+      "author": "Caroline Black,Shannon Thomas,Morgan Lim",
+      "published": "2026-10-30T09:00:00",
+      "summary": "",
+      "score": 19,
+      "score_breakdown": "+10 mots forts: crypto | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "98994625996bb369",
@@ -6016,7 +6412,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "157556d2120c6b4e",
@@ -6052,7 +6448,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6232a0b4f00d8bea",
@@ -6127,6 +6523,24 @@
       "ai_summary": "Cet article concerne les modalités de rémunération des lanceurs d'alerte auprès de l'autorité anti-fraude britannique."
     },
     {
+      "hash": "e416fe40c53a1968",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Securitisation needs proper safeguards to help banks manage capital and foster lending, Supervisory Board member Pedro Machado tells Bloomberg (@business). When reviewing capital requirements, we should not lose sight of a holistic assessment of resilience",
+      "url": "https://x.com/ecb/status/2116116065558102456",
+      "author": "@ecb",
+      "published": "2026-10-30T10:32:00",
+      "summary": "Securitisation needs proper safeguards to help banks manage capital and foster lending, Supervisory Board member Pedro Machado tells Bloomberg ( @business). When reviewing capital requirements, we should not lose sight of a holistic assessment of resilience  link.europa.eu/Y649vY— European Central Bank (@ecb) Oct 30, 2026",
+      "score": 15,
+      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "c1f16db5f1d8b232",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -6178,7 +6592,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "913cffffb17a3480",
@@ -6307,42 +6721,6 @@
       "ai_summary": "Cet article concerne l'harmonisation des règles de résolution bancaire en UE pour renforcer la conformité réglementaire et la stabilité financière."
     },
     {
-      "hash": "c9c5bff353d2fb95",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "To achieve a truly integrated Single Market, we need harmonised rules for European banks, Supervisory Board member Sharon Donnery tells @bankobaraca. A common rulebook would help reduce national barriers and unlock cross-border investment. Read the interview",
-      "url": "https://x.com/ecb/status/2105207260045574452",
-      "author": "@ecb",
-      "published": "2026-09-30T08:04:00",
-      "summary": "To achieve a truly integrated Single Market, we need harmonised rules for European banks, Supervisory Board member Sharon Donnery tells  @bankobaraca. A common rulebook would help reduce national barriers and unlock cross-border investment. Read the interview  bankingsupervision.europa.eu…— European Central Bank (@ecb) Sep 30, 2026",
-      "score": 15,
-      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'harmonisation des règles prudentielles bancaires européennes relève de la conformité financière et de la supervision réglementaire."
-    },
-    {
-      "hash": "fc8bcda3fba577ff",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "Banks are operating in an increasingly complex environment that is shaped by heightened uncertainty, says Supervisory Board Vice-Chair Frank Elderson. How can supervisors remain effective and impactful in this new reality?",
-      "url": "https://x.com/ecb/status/2105191032711524587",
-      "author": "@ecb",
-      "published": "2026-09-30T07:00:00",
-      "summary": "Banks are operating in an increasingly complex environment that is shaped by heightened uncertainty, says Supervisory Board Vice-Chair Frank Elderson.How can supervisors remain effective and impactful in this new reality?  link.europa.eu/xkhQDP— European Central Bank (@ecb) Sep 30, 2026",
-      "score": 15,
-      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la supervision bancaire et l'efficacité des régulateurs face à la complexité croissante, relevant de la conformité financière."
-    },
-    {
       "hash": "e386c337ce240a02",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -6415,6 +6793,24 @@
       "ai_summary": "Discussion sur l'avenir du système financier par une autorité de supervision, relevant de la conformité réglementaire et de la gouvernance financière."
     },
     {
+      "hash": "f33b7783ecefbbc9",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Japan: challenges and solutions for cross-border investigations",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations",
+      "author": "Hideaki Umetsu,Aruto Kagami,Shiho Ono,Takaaki Kanayama,Aritsune Miyoda,Hiroyuki Sato",
+      "published": "2026-10-30T09:00:00",
+      "summary": "When serious misconduct surfaces in Japan, the investigation may be only the beginning. As companies probe wider failures in governance, quality control and internal reporting, AI-assisted reviews, tougher penalties and stronger whistleblower protection are adding new dimensions to the investigations process.",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: japan | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "5a43b83c2d9786f1",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -6430,7 +6826,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation de la loi FCPA relative à la corruption internationale."
     },
     {
       "hash": "303de2706e7b0a45",
@@ -6448,7 +6844,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la confiscation de fonds liés à un scandale de corruption, illustrant l'application de la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la confiscation de fonds liés à un scandale de corruption par les autorités judiciaires."
     },
     {
       "hash": "7e07039a21c968db",
@@ -6955,6 +7351,24 @@
       "ai_summary": "Cet article concerne les licences générales relatives aux sanctions, un élément clé de la conformité aux réglementations de contrôle des exportations."
     },
     {
+      "hash": "bfd7206af584f049",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "South Africa: navigating a sea change in the corporate crime landscape",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/south-africa-navigating-sea-change-in-the-corporate-crime-landscape",
+      "author": "Cameron Dunstan Smith,Fiorella Noriega Del Valle,Jenalee Harrison,Za’eem Laher,Tameez Casoo,Kulani Ngobeni",
+      "published": "2026-10-30T09:00:00",
+      "summary": "More than 16 billion rand in state-capture assets has been recovered as South Africa steps up its response to corporate crime. A new failure to prevent corruption offence and an alternative route for resolving corporate cases add further weight to the shift towards greater accountability.",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "69724ead3bb34a78",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -7099,24 +7513,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'un scandale de corruption impliquant une entreprise pétrolière et des traders."
     },
     {
-      "hash": "d778fbdff75a3610",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "US terror designations changed enforcement reality in Brazil and beyond, experts say",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/us-terror-designations-changed-enforcement-reality-in-brazil-and-beyond-experts-say",
-      "author": "Estelle Atkinson",
-      "published": "2026-10-23T14:12:36",
-      "summary": "At a GIR Live event in São Paulo, one lawyer warned that companies may now need to check that even benign products like vitamin C aren’t getting into the hands of drug cartels now labelled foreign terrorist organisations by the Trump administration.",
-      "score": 3,
-      "score_breakdown": "+3 Presse | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "9a360888ad61ee5d",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -7153,7 +7549,7 @@
       "ai_summary": "Cet article concerne la protection des communications conjugales face aux enquêtes gouvernementales en matière de corruption."
     }
   ],
-  "last_update": "2026-10-30T06:07:37.815217+00:00",
+  "last_update": "2026-10-30T11:53:05.248860+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
