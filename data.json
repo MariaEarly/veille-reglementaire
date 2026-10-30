@@ -706,7 +706,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet article concerne la conformité réglementaire en matière de protection des données et de traçabilité numérique, domaine connexe à la compliance."
     },
     {
       "hash": "11aa53a70e10841c",
@@ -1069,6 +1069,24 @@
       "ai_summary": "Cet article traite de la conformité AML car il aborde les réformes des règles anti-blanchiment et leur impact sur l'application de la loi financière."
     },
     {
+      "hash": "cdd799e427d8514f",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 27 octobre 2026 portant application des articles L. 562-2 et suivants du code monétaire et financier",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055029703",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-10-30T00:00:00",
+      "summary": "Par arrêté du ministre de l'intérieur et du ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique en date du 27 octobre 2026, vu le code monétaire et financier, notamment ses articles L. 562-2 et suivants, les fonds et ressources économiques qui appartiennent à, sont possédés, détenus ou contrôlés par M. Adrien GUIHAL né le 23 mai 1983 à Paris (75) dans le 12e arrondissement, ainsi que les fonds et ressources économiques qui appartiennent à, sont possé",
+      "score": 82,
+      "score_breakdown": "+10 mots forts: code monétaire | +25 Source FR | +20 Géo FR: code monétaire | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "671eb734eab67a8b",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -1282,7 +1300,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite des obligations de divulgation en matière de taxonomie durable pour les institutions financières."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de divulgation ESG et de reporting de durabilité pour les institutions financières."
     },
     {
       "hash": "25bcedfc827a1938",
@@ -2273,6 +2291,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions de Fintrac pour non-respect des normes anti-blanchiment au Canada."
+    },
+    {
+      "hash": "9507cfbf89424a58",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 26 octobre 2026 portant approbation du programme d'enquêtes statistiques d'initiative nationale et régionale des services publics pour 2027 (enquêtes auprès des entreprises et des exploitations agricoles)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055029668",
+      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+      "published": "2026-10-30T00:00:00",
+      "summary": "Est approuvé le programme d'enquêtes statistiques des services publics et des autres services producteurs d'information statistique pour 2027, auprès des entreprises et des exploitations agricoles, établi par le Conseil national de l'information statistique et annexé au présent arrêté.\nLe présent arrêté sera publié au Journal officiel de la République française.\nANNEXEPROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS AUPRÈS DES ENTREPRISES ET DES EXPLOITATIONS AGRICOLES POUR L'ANNÉE 2027L'a",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "fb3734e10977ad34",
@@ -3445,6 +3481,24 @@
       "ai_summary": "L'EBA définit ses priorités 2027 pour superviser la conformité bancaire et financière en Europe."
     },
     {
+      "hash": "5909f5d293a23620",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "\"Pas les niveaux de transparence que souhaite la société\": au Venezuela, la Nobel de la Paix dénonce l'accord pétrolier signé avec Trump",
+      "url": "https://www.bfmtv.com/economie/entreprises/energie/pas-les-niveaux-de-transparence-que-souhaite-la-societe-au-venezuela-la-nobel-de-la-paix-denonce-l-accord-petrolier-signe-avec-trump_AV-202610290852.html",
+      "author": "",
+      "published": "2026-10-29T19:04:03",
+      "summary": "Maria Corina Machado critique le manque de transparence de l'accord ayant octroyé aux États-Unis la gestion de gisements représentant 20 % des réserves pétrolières vénézuéliennes. Elle pointe en particulier le rôle d’Alejandro Betancourt, un milliardaire poursuivi en Espagne et en Suisse pour blanchiment d'argent. ",
+      "score": 49,
+      "score_breakdown": "+20 mots critiques: blanchiment | +3 Presse | +10 Géo EU: espagne | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "5845bb8039da4724",
       "source_name": "Corporate Compliance Insights",
       "source_type": "press",
@@ -3695,24 +3749,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les délais de paiement des factures en matière de concurrence, relevant de la conformité financière et commerciale."
-    },
-    {
-      "hash": "4223be7a7109636e",
-      "source_name": "ECB - Banking Supervision",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness",
-      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260930~8b08062e83.en.html",
-      "author": "",
-      "published": "2026-09-30T02:20:00",
-      "summary": "",
-      "score": 45,
-      "score_breakdown": "+15 mots moyens: risk, supervisory, ppe | +15 Source EU | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite de la supervision bancaire, de l'appétit au risque et de l'efficacité réglementaire, éléments clés de la conformité financière."
     },
     {
       "hash": "8e555ef0b33124fb",
@@ -4111,24 +4147,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de nouvelles règles de contrôle des portefeuilles de cryptomonnaies en Corée et en UE."
     },
     {
-      "hash": "8b14b416e5796a29",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Cuba sous le coup de nouvelles sanctions américaines",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/30/cuba-sous-le-coup-de-nouvelles-sanctions-americaines_6785891_3234.html",
-      "author": "",
-      "published": "2026-09-30T01:33:51",
-      "summary": "Les Etats-Unis, qui imposent déjà un blocus énergétique à l’île communiste, ont annoncé, mardi, des restrictions concernant les transactions financières. Des mesures qui viennent entraver un secteur privé cubain en plein développement.",
-      "score": 42,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des restrictions sur les transactions financières imposées par les États-Unis à Cuba."
-    },
-    {
       "hash": "fc6974ea162d8663",
       "source_name": "JORF - Sanctions",
       "source_type": "rss",
@@ -4144,7 +4162,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "833c610bb3ee8a90",
@@ -4774,7 +4792,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "60c36e330bfd69e7",
@@ -4795,6 +4813,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une décision en matière de concurrence et de répression des fraudes."
     },
     {
+      "hash": "3e48e55599d6b415",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Après Google, Amazon pris entre la progression de l’IA et la déception sur ses métiers traditionnels",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/30/apres-google-amazon-pris-entre-la-progression-de-l-ia-et-la-deception-sur-ses-metiers-traditionnels_6802592_3234.html",
+      "author": "",
+      "published": "2026-10-30T02:00:06",
+      "summary": "La firme de Jeff Bezos dévissait en Bourse, jeudi, dans les échanges post-clôture, après avoir présenté des résultats trimestriels inférieurs aux attentes, au moment où la mutation de plusieurs géants de la tech est sanctionnée par les marchés malgré, parfois, d’excellentes performances.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "fc1d40268e97c372",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -4810,7 +4846,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une possible fraude dans la gestion de patrimoine et d'obligations fiduciaires."
     },
     {
       "hash": "1fa201964d0eaf77",
@@ -4864,7 +4900,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La facture électronique obligatoire relève de la conformité financière car elle impose aux entreprises des obligations légales de traçabilité et de documentation comptable."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'obligation légale de facturation électronique et des délais de mise en conformité réglementaire."
     },
     {
       "hash": "bc08a9e5e47edfbf",
@@ -5170,7 +5206,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0a57193d823beccd",
@@ -5422,7 +5458,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "31e81218946698ae",
@@ -5548,7 +5584,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b93f3279c69f4ea3",
@@ -5566,7 +5602,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0d16c4aabd845864",
@@ -5764,7 +5800,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "27fab36a4d08e6da",
@@ -5782,7 +5818,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6fa517321a647956",
@@ -5980,7 +6016,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "157556d2120c6b4e",
@@ -6016,7 +6052,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6232a0b4f00d8bea",
@@ -6142,7 +6178,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "913cffffb17a3480",
@@ -6379,6 +6415,24 @@
       "ai_summary": "Discussion sur l'avenir du système financier par une autorité de supervision, relevant de la conformité réglementaire et de la gouvernance financière."
     },
     {
+      "hash": "5a43b83c2d9786f1",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Former BizJet exec admits to $7m bribery scheme",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/former-bizjet-exec-admits-7m-bribery-scheme",
+      "author": "Duncan Randall",
+      "published": "2026-10-29T21:16:14",
+      "summary": "Jald Jensen, who reportedly lived as a fugitive in Panama before his US extradition, has pleaded guilty to a single FCPA conspiracy charge in Oklahoma federal court, ending a decade-long effort to prosecute him.",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: fcpa | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "303de2706e7b0a45",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -6394,7 +6448,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la confiscation de fonds liés à un scandale de corruption, illustrant l'application de la lutte anti-blanchiment."
     },
     {
       "hash": "7e07039a21c968db",
@@ -6412,7 +6466,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la stratégie anti-cartels du gouvernement américain et de ses implications pour la conformité des entreprises en matière de FCPA."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la stratégie anti-cartels et des implications FCPA pour les entreprises."
     },
     {
       "hash": "d7a505e261ec9039",
@@ -6682,7 +6736,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur les licences relatives aux sanctions contre l'Iran."
     },
     {
       "hash": "3ef01494f070a94d",
@@ -7060,7 +7114,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les désignations terroristes imposent aux entreprises de vérifier leurs chaînes d'approvisionnement pour éviter les transactions avec des entités terroristes, relevant de la conformité sanctions."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9a360888ad61ee5d",
@@ -7099,7 +7153,7 @@
       "ai_summary": "Cet article concerne la protection des communications conjugales face aux enquêtes gouvernementales en matière de corruption."
     }
   ],
-  "last_update": "2026-10-29T22:52:56.020107+00:00",
+  "last_update": "2026-10-30T03:31:37.921822+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
