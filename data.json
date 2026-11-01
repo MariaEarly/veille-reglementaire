@@ -994,7 +994,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté concerne la conformité financière car il applique les dispositions du code monétaire et financier relatives aux fonds et ressources économiques."
+      "ai_summary": "Cet arrêté applique les règles de lutte contre le blanchiment de capitaux et le financement du terrorisme définies au code monétaire et financier."
     },
     {
       "hash": "858f779fd076b6a8",
@@ -1300,7 +1300,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "77c85f68203a238f",
@@ -1516,7 +1516,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la criminalité financière, des sanctions, et des nouvelles règles de conformité en Irlande."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des cadres réglementaires irlandais, de la lutte contre la criminalité financière, des sanctions et des risques de conformité croissants."
     },
     {
       "hash": "0ff14730eba1dd83",
@@ -1949,24 +1949,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la lutte anti-blanchiment de capitaux, domaine clé de la conformité financière."
-    },
-    {
-      "hash": "c3bb3dd6beaad305",
-      "source_name": "AMLA - Anti-Money Laundering Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "AMLA invites stakeholders to sectoral roundtables on simplified customer due diligence",
-      "url": "https://www.amla.europa.eu/amla-invites-stakeholders-sectoral-roundtables-simplified-customer-due-diligence_en",
-      "author": "",
-      "published": "2026-10-02T13:53:31",
-      "summary": "AMLA is inviting obliged entity representatives, trade associations and other representative bodies from the financial and non-financial sectors to express their interest in participating in sectoral roundtables on the application of simplified customer due diligence.",
-      "score": 67,
-      "score_breakdown": "+20 mots forts: aml, due diligence, amla | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la diligence raisonnable simplifiée, obligation clé de lutte anti-blanchiment."
     },
     {
       "hash": "5fd272146b2b8eb7",
@@ -2560,7 +2542,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "fd6fa5cd2d57531b",
@@ -2689,24 +2671,6 @@
       "ai_summary": "L'article concerne les normes prudentielles des banques, élément clé de la conformité réglementaire bancaire."
     },
     {
-      "hash": "44fe4c82580e401b",
-      "source_name": "EBA - European Banking Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "EBA E-mail alert 2 October, 2026",
-      "url": "https://www.eba.europa.eu/node/20066",
-      "author": "Anonymous",
-      "published": "2026-10-02T15:00:02",
-      "summary": "EBA E-mail alert 2 October, 2026\n\n  \n    Date\n          02/10/2026\n\n      \n\nAnonymous (not verified)\n\nFri, 10/02/2026 - 17:00\n\n\n            \n\n      \n  \n    Final Q&amp;As\n          2026_7779 Scope of Article 6 lit. c RTS  \n      ",
-      "score": 52,
-      "score_breakdown": "+10 mots forts: eba | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il porte sur l'interprétation réglementaire d'un article des RTS bancaires."
-    },
-    {
       "hash": "2ff953ff9ba2a7bb",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -2830,7 +2794,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des lois sur la responsabilité pénale des sociétés pour crimes économiques, corruption et fraude."
+      "ai_summary": "Cet article traite de la conformité financière car il couvre les lois de responsabilité extraterritoriale du Royaume-Uni relatives aux crimes économiques, à la corruption et aux sanctions."
     },
     {
       "hash": "5909f5d293a23620",
@@ -2939,24 +2903,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de l'évolution des technologies et solutions de conformité (GRC) utilisées par les entreprises pour gérer les risques."
-    },
-    {
-      "hash": "00f76241ceae52dc",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "France, un vrai potentiel de minage de Bitcoin",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/video-france-un-vrai-potentiel-de-minage-de-bitcoin_VN-202610020665.html",
-      "author": "",
-      "published": "2026-10-02T15:00:00",
-      "summary": "Vendredi 2 octobre, l'inexploitation du potentiel français dans le secteur du minage, la plainte déposée aux États-Unis concernant la vente d'Exaion, et la taxation des échanges de cryptos et de stablecoins ont été abordés par Sébastien Gouspillou, co fondateur de Big Block Group, Enzo Hallot, fondateur de Crypto-Patrimoine, et Marc-Antoine Caen Poletti, journaliste chez Cryptoast, reçus par Sandra Gandoin dans l'émission BFM Crypto, le Club sur BFM Business. Retrouvez l'émission du lundi au jeu",
-      "score": 49,
-      "score_breakdown": "+10 mots forts: crypto | +3 Presse | +20 Géo FR: france, français | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La taxation des échanges de cryptos et stablecoins évoquée dans l'article relève de la conformité financière réglementaire."
     },
     {
       "hash": "5c5bfa3b982d004f",
@@ -4453,24 +4399,6 @@
       "ai_summary": "La CFTC assouplit son approche en permettant aux entreprises de corriger les violations non intentionnelles via remédiation plutôt que poursuites."
     },
     {
-      "hash": "833911c5a3497205",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Memo casts Fraud Division as corporate enforcement heavyweight, lawyers say",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/memo-casts-fraud-division-corporate-enforcement-heavyweight-lawyers-say",
-      "author": "Gaspard Le Dem",
-      "published": "2026-10-02T17:44:36",
-      "summary": "Former prosecutors agreed the memo places the division at the forefront of corporate enforcement, though one said it may also signal a pullback as it raises the bar for going after companies.",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: fraud | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'application de la loi contre la fraude dans les entreprises."
-    },
-    {
       "hash": "6a52fe4bc2f498b3",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -4486,7 +4414,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de signalement des irrégularités imposées par les autorités de régulation financière britanniques."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de dénonciation imposées par les autorités de régulation financière britannique (FCA, PRA) aux entreprises réglementées."
     },
     {
       "hash": "4506ad528dc84c43",
@@ -4522,7 +4450,25 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "423bed808e495d1a",
+      "source_name": "ACPR",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Places boursières européennes : renforcer l’attractivité, relancer la dynamique - Banque de France",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRmdQME1YQmdwZnlTOHE2VXg2WTVPSmxsd3dibEEzWE5jS2RCUlRfSzlGSGljeEZadElrbjhGNERFQlN2NVpXNlBjS0R4TjZrRzBGX0ZsdmxTekdrZkFOM3Zud1NyQnNnRTlZUmRYd0tIMXRqdFNkRnN6V250RDV0NnlOX3hneVV2djBZclR0UDNPWjktb1VvR1NLclJ0ZDFvQzFYV2EzejRuVFozSWFpY0NKT0tka3NYOG5J?oc=5",
+      "author": "",
+      "published": "2026-10-08T07:00:00",
+      "summary": "Places boursières européennes : renforcer l’attractivité, relancer la dynamique&nbsp;&nbsp;Banque de France",
+      "score": 30,
+      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.6 (>14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "4b09befd3a7e60ed",
@@ -4846,7 +4792,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0d16c4aabd845864",
@@ -5008,7 +4954,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "27fab36a4d08e6da",
@@ -5116,7 +5062,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il analyse les régimes de responsabilité pénale des entreprises et les obligations de conformité différentes entre le Royaume-Uni et les États-Unis."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la responsabilité pénale des entreprises et des obligations de compliance culture requises par les régulateurs."
     },
     {
       "hash": "9a0c2cbd14d6239c",
@@ -5278,7 +5224,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "157556d2120c6b4e",
@@ -5314,7 +5260,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "6232a0b4f00d8bea",
@@ -5440,7 +5386,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d0299287ced8f50a",
@@ -5458,7 +5404,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "c1f16db5f1d8b232",
@@ -5512,7 +5458,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "913cffffb17a3480",
@@ -5587,24 +5533,6 @@
       "ai_summary": "Cet article concerne l'adaptation du cadre prudentiel aux petites banques pour améliorer leur efficacité opérationnelle et conformité réglementaire."
     },
     {
-      "hash": "b37fe46af8933741",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "We’re hosting our next media seminar on 18-19 November. Join us to discuss key banking supervision topics and meet members of the ECB’s Supervisory Board. If you work for the media and wish to attend, please fill out the call for interest form by 16 October",
-      "url": "https://x.com/ecb/status/2106028935318553049",
-      "author": "@ecb",
-      "published": "2026-10-02T14:30:00",
-      "summary": "We’re hosting our next media seminar on 18-19 November. Join us to discuss key banking supervision topics and meet members of the ECB’s Supervisory Board.If you work for the media and wish to attend, please fill out the call for interest form by 16 October  bankingsupervision.europa.eu…— European Central Bank (@ecb) Oct 2, 2026",
-      "score": 15,
-      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
-      "doc_type": "CONSULTATION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité car il traite de la supervision bancaire et de la gouvernance de la BCE."
-    },
-    {
       "hash": "e386c337ce240a02",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -5674,7 +5602,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la responsabilité pénale des individus en matière de fraude financière et corporative au Royaume-Uni."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la responsabilité pénale individuelle, des accords de poursuite différée et des lois renforçant la responsabilité des entreprises au Royaume-Uni."
     },
     {
       "hash": "5a43b83c2d9786f1",
@@ -6124,7 +6052,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des enquêtes, de la gouvernance, du contrôle interne et de la protection des lanceurs d'alerte au Japon."
+      "ai_summary": "Cet article traite de la conformité financière car il aborde les enquêtes sur les manquements graves, la gouvernance et la protection des lanceurs d'alerte."
     },
     {
       "hash": "c532ab545371225a",
@@ -6325,7 +6253,7 @@
       "ai_summary": "Cet article concerne la protection des communications conjugales face aux enquêtes gouvernementales en matière de corruption."
     }
   ],
-  "last_update": "2026-11-01T18:00:03.077570+00:00",
+  "last_update": "2026-11-01T21:31:15.830306+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
