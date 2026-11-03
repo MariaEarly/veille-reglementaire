@@ -1282,7 +1282,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne indirectement la conformité financière car les condamnations incluent des infractions économiques et financières relevant du droit pénal."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "77c85f68203a238f",
@@ -1498,7 +1498,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des réformes AML de Taiwan, notamment la transparence sur les bénéficiaires réels et la lutte contre le blanchiment d'argent."
     },
     {
       "hash": "1166ab93ed73707a",
@@ -1516,7 +1516,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des cadres réglementaires irlandais sur la criminalité financière, les sanctions, l'IA et les risques de conformité accrus."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des risques de conformité réglementaire, notamment la lutte contre la criminalité financière, les sanctions et le blanchiment vert."
     },
     {
       "hash": "0ff14730eba1dd83",
@@ -2020,7 +2020,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de fraude fiscale organisée et du non-respect des obligations fiscales par des professionnels."
     },
     {
       "hash": "b72f9cf69ccdac88",
@@ -2794,7 +2794,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il expose les lois britanniques de responsabilité extraterritoriale des entreprises concernant la criminalité économique, la corruption et les sanctions."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des lois de responsabilité extraterritoriale couvrant la corruption, la fraude et les sanctions."
     },
     {
       "hash": "5909f5d293a23620",
@@ -3046,7 +3046,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1c6098506db014dc",
@@ -3499,6 +3499,42 @@
       "ai_summary": "Cet article concerne un litige de consommation sur vices cachés, non directement une conformité financière réglementée."
     },
     {
+      "hash": "d2a4d73ab3d29742",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Ex-PDVSA exec sues Big Law firm over alleged whistleblower retaliation",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/ex-pdvsa-exec-sues-big-law-firm-over-alleged-whistleblower-retaliation",
+      "author": "Duncan Randall",
+      "published": "2026-11-02T22:29:05",
+      "summary": "Javier Alvarado-Ochoa, who for years has evaded the DOJ in a bribery and money laundering case, alleges that Squire Patton Boggs helped PDVSA mount a “frame-up” campaign after he reported corruption at the Venezuelan state oil company.",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: money laundering | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "003c88e8f3c81b0d",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Huawei fights to put US sanctions guidance before jury&nbsp;",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/huawei-fights-put-us-sanctions-guidance-jury",
+      "author": "Estelle Atkinson",
+      "published": "2026-11-02T21:50:57",
+      "summary": "The DOJ wants to stop the company from soliciting testimony that businesses did not generally understand that the agency’s Iranian sanctions regime blocked dollar-clearing.&nbsp;",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "37142336dd189d44",
       "source_name": "BFM Business Économie",
       "source_type": "press",
@@ -3802,7 +3838,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article traite de la conformité aux règles de divulgation d'informations privilégiées selon la réglementation sur les abus de marché."
     },
     {
       "hash": "28d66c7b91ceb8d0",
@@ -4018,7 +4054,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de fraude financière, de blanchiment potentiel et de défaillances de contrôle réglementaire dans le secteur de l'investissement."
     },
     {
       "hash": "9982c66c96f695c4",
@@ -4468,7 +4504,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de signalement imposées par les autorités de régulation financière britanniques (FCA, PRA) aux entreprises réglementées."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des mécanismes de dénonciation imposés par les régulateurs financiers britanniques."
     },
     {
       "hash": "4506ad528dc84c43",
@@ -4504,7 +4540,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4b09befd3a7e60ed",
@@ -4846,7 +4882,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b7e6826bddca60b9",
@@ -4990,7 +5026,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1582bc607dbeb0b7",
@@ -5008,7 +5044,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "27fab36a4d08e6da",
@@ -5081,6 +5117,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "FinCEN impose une amende de 1,2 milliard de dollars à Bank of America pour violations de conformité aux lois anti-blanchiment."
+    },
+    {
+      "hash": "7ae03de4377ac8ce",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Binance : nouvelle crise de confiance pour les cryptos – 02/11",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/binance-nouvelle-crise-de-confiance-pour-les-cryptos-02-11_EN-202611020856.html",
+      "author": "",
+      "published": "2026-11-02T18:56:59",
+      "summary": "Ce lundi 2 novembre, François Sorel a reçu Bogdan Bodnar, journaliste La Tribune, Salime Nassur, fondateur de Maars, Frédéric Simottel, journaliste BFM Business, et Damien Douani, responsable de l'innovation de l'école Narratiiv et fondateur de Topos. Ils se sont penchés sur la nouvelle crise de confiance pour les cryptos avec Binance frappé par piratage de 6,3 milliards de dollars, suivi de retraits massifs de ses utilisateurs, ainsi que les plateformes dans le viseur d'un taxe numérique de 5,5",
+      "score": 19,
+      "score_breakdown": "+10 mots forts: crypto | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "138f9e488e87e800",
@@ -5278,7 +5332,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "157556d2120c6b4e",
@@ -5314,7 +5368,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6232a0b4f00d8bea",
@@ -5425,42 +5479,6 @@
       "ai_summary": "La titrisation et les exigences de capital sont des éléments clés de la conformité financière bancaire."
     },
     {
-      "hash": "37c1a704218c0ba9",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Data protection: the UK perspective",
-      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/data-protection-the-uk-perspective",
-      "author": "Stuart Alford KC,Harry Fathers",
-      "published": "2026-10-30T09:00:00",
-      "summary": "UK data protection law, primarily the UK GDPR and Data Protection Act 2018, governs personal data processing in investigations, balancing legal compliance with individual rights. Key issues include lawful bases for processing, special category and criminal offence data, transparency, international transfers, and monitoring communications, with strict enforcement by the Information Commissioner’s O...",
-      "score": 15,
-      "score_breakdown": "+10 mots forts: compliance | +3 Presse | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "d0299287ced8f50a",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Extradition: the US perspective",
-      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/extradition-the-us-perspective",
-      "author": "Jonathan Baum,Joy Holden",
-      "published": "2026-10-30T09:00:00",
-      "summary": "US extradition law involves complex treaty and statutory requirements, with courts limited to assessing probable cause and treaty compliance. Defences include dual criminality, political offence exceptions and double jeopardy. The Secretary of State holds final discretion, considering diplomatic and humanitarian factors. Recent trends show increased scrutiny of US requests, especially from Europe.",
-      "score": 15,
-      "score_breakdown": "+10 mots forts: compliance | +3 Presse | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "c1f16db5f1d8b232",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -5512,7 +5530,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "913cffffb17a3480",
@@ -5587,6 +5605,42 @@
       "ai_summary": "Cet article concerne l'adaptation du cadre prudentiel aux petites banques pour améliorer leur efficacité opérationnelle et conformité réglementaire."
     },
     {
+      "hash": "37c1a704218c0ba9",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Data protection: the UK perspective",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/data-protection-the-uk-perspective",
+      "author": "Stuart Alford KC,Harry Fathers",
+      "published": "2026-10-30T09:00:00",
+      "summary": "UK data protection law, primarily the UK GDPR and Data Protection Act 2018, governs personal data processing in investigations, balancing legal compliance with individual rights. Key issues include lawful bases for processing, special category and criminal offence data, transparency, international transfers, and monitoring communications, with strict enforcement by the Information Commissioner’s O...",
+      "score": 13,
+      "score_breakdown": "+10 mots forts: compliance | +3 Presse | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "d0299287ced8f50a",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Extradition: the US perspective",
+      "url": "https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/extradition-the-us-perspective",
+      "author": "Jonathan Baum,Joy Holden",
+      "published": "2026-10-30T09:00:00",
+      "summary": "US extradition law involves complex treaty and statutory requirements, with courts limited to assessing probable cause and treaty compliance. Defences include dual criminality, political offence exceptions and double jeopardy. The Secretary of State holds final discretion, considering diplomatic and humanitarian factors. Recent trends show increased scrutiny of US requests, especially from Europe.",
+      "score": 13,
+      "score_breakdown": "+10 mots forts: compliance | +3 Presse | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "e386c337ce240a02",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -5639,6 +5693,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de corruption et de pots-de-vin, risques majeurs en matière de conformité."
+    },
+    {
+      "hash": "5f15abcb88e3c4f1",
+      "source_name": "Money Laundering News",
+      "source_type": "press",
+      "category": "presse",
+      "title": "FinCEN Withdraws Proposed Unhosted Wallet and CVC Mixing Rules",
+      "url": "https://www.moneylaunderingnews.com/2026/11/fincen-withdraws-proposed-unhosted-wallet-and-cvc-mixing-rules/",
+      "author": "Grace Mezzanotte",
+      "published": "2026-11-02T15:45:09",
+      "summary": "\n\t\t\tOn October 5, 2026, the Financial Crimes Enforcement Network (&ldquo;FinCEN&rdquo;) announced that it is withdrawing two long-pending proposed rules aimed at convertible virtual currencies (&ldquo;CVCs&rdquo;).\nThe first notice of proposed rulemaking (&ldquo;NPRM&rdquo;) was a 2020 proposal that would have imposed recordkeeping, verification, and reporting requirements on certain transactions involving unhosted wallets. The second was a 2023 proposal that would have treated international CVC",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: fincen | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "8c48ca472755382d",
@@ -6124,7 +6196,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des enquêtes internes, de la gouvernance d'entreprise et de la protection des lanceurs d'alerte au Japon."
     },
     {
       "hash": "bfd7206af584f049",
@@ -6307,7 +6379,7 @@
       "ai_summary": "Cet article concerne la protection des communications conjugales face aux enquêtes gouvernementales en matière de corruption."
     }
   ],
-  "last_update": "2026-11-02T21:50:11.700178+00:00",
+  "last_update": "2026-11-03T00:14:25.640713+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
