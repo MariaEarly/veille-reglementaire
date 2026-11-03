@@ -1267,24 +1267,6 @@
       "ai_summary": "Le gouverneur défend l'indépendance de la banque centrale face aux critiques politiques sur sa gestion monétaire et sa crédibilité."
     },
     {
-      "hash": "7dfae05d802e3540",
-      "source_name": "Ministère de la Justice (CJIP)",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Légère hausse du nombre de condamnations prononcées en 2025",
-      "url": "https://www.justice.gouv.fr/documentation/etudes-et-statistiques/legere-hausse-du-nombre-condamnations-prononcees-2025",
-      "author": "DELEIGNE Marie-Christine",
-      "published": "2026-10-30T09:05:56",
-      "summary": "Légère hausse du nombre de condamnations prononcées en 2025\nDELEIGNE Marie…\nven 30/10/2026 - 10:05\n\n      \n\n  \n\n\n  \n        En 2025, 556 000 condamnations ont été prononcées par les juridictions françaises, en légère hausse par rapport à 2024 (+0,7 %). Ces condamnations concernent à 90 % des délits commis par des majeurs. Sur un an, les condamnations à l’encontre des personnes majeures augmentent de 1 %. Six condamnations criminelles sur dix envers des personnes majeures sanctionnent des viols. ",
-      "score": 78,
-      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: français, française | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "77c85f68203a238f",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -1498,7 +1480,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des réformes AML de Taiwan, notamment la transparence sur les bénéficiaires réels et la lutte contre le blanchiment d'argent."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des réformes anti-blanchiment de Taiwan, incluant la transparence des propriétaires bénéficiaires et la conformité des actifs virtuels."
     },
     {
       "hash": "1166ab93ed73707a",
@@ -1516,7 +1498,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des risques de conformité réglementaire, notamment la lutte contre la criminalité financière, les sanctions et le blanchiment vert."
+      "ai_summary": "Cet article concerne la conformité financière car il aborde la lutte contre la criminalité financière, les sanctions, et les nouveaux règlements environnementaux en Irlande."
     },
     {
       "hash": "0ff14730eba1dd83",
@@ -1679,6 +1661,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions de Fintrac pour non-respect des normes anti-blanchiment au Canada."
+    },
+    {
+      "hash": "ed82fd82d22b27aa",
+      "source_name": "JORF - Sanctions",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 16 octobre 2026 modifiant les obligations de service public sur les services aériens entre Pau et Paris (Orly)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055047640",
+      "author": "Ministère des transports",
+      "published": "2026-11-03T00:00:00",
+      "summary": "Les dispositions de l'annexe 2 à l'arrêté du 12 septembre 2025 susvisé, relatives aux obligations de service public imposées sur les services aériens réguliers entre Pau et Paris (Orly), sont remplacées par les obligations de service public annexées au présent arrêté.\nLe présent arrêté entre en vigueur le 24 juillet 2027.\nLe présent arrêté sera publié au Journal officiel de la République française.\nANNEXE1. A compter du 24 juillet 2027, les obligations de service public imposées sur les services",
+      "score": 67,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "fb3734e10977ad34",
@@ -2005,6 +2005,24 @@
       "ai_summary": "Cet article concerne la conformité des ascenseurs et leurs composants de sécurité sur le marché intérieur en cas de crise d'urgence."
     },
     {
+      "hash": "7dfae05d802e3540",
+      "source_name": "Ministère de la Justice (CJIP)",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Légère hausse du nombre de condamnations prononcées en 2025",
+      "url": "https://www.justice.gouv.fr/documentation/etudes-et-statistiques/legere-hausse-du-nombre-condamnations-prononcees-2025",
+      "author": "DELEIGNE Marie-Christine",
+      "published": "2026-10-30T09:05:56",
+      "summary": "Légère hausse du nombre de condamnations prononcées en 2025\nDELEIGNE Marie…\nven 30/10/2026 - 10:05\n\n      \n\n  \n\n\n  \n        En 2025, 556 000 condamnations ont été prononcées par les juridictions françaises, en légère hausse par rapport à 2024 (+0,7 %). Ces condamnations concernent à 90 % des délits commis par des majeurs. Sur un an, les condamnations à l’encontre des personnes majeures augmentent de 1 %. Six condamnations criminelles sur dix envers des personnes majeures sanctionnent des viols. ",
+      "score": 65,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: français, française | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "862230aaeb2cabb4",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -2020,7 +2038,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de fraude fiscale organisée et du non-respect des obligations fiscales par des professionnels."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de fraude fiscale organisée, de non-respect des obligations légales et de lutte contre les comportements frauduleux."
     },
     {
       "hash": "b72f9cf69ccdac88",
@@ -2183,6 +2201,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite des obligations de conformité dans la commercialisation d'instruments financiers et contrats d'assurance-vie selon les autorités."
+    },
+    {
+      "hash": "5097c232f41b400e",
+      "source_name": "Commission EU - Press",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Commission conditionally approves JD.com's acquisition of CECONOMY under the Foreign Subsidies Regulation",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2300",
+      "author": "",
+      "published": "2026-11-02T23:00:00",
+      "summary": "European Commission Press release Brussels, 03 Nov 2026 The European Commission has approved, under the Foreign Subsidies Regulation ('FSR'), the acquisition of CECONOMY AG ('CECONOMY') by JD.com, Inc. ('JD.com'). The approval is conditional upon full compliance with the commitments offered by the parties.",
+      "score": 60,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: regulation | +15 Source EU | +10 Géo EU: european commission | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "4aa9c3f5e726b7cc",
@@ -2689,6 +2725,24 @@
       "ai_summary": "Le FATF identifie les juridictions avec des défaillances en lutte anti-blanchiment, contre le financement du terrorisme et la prolifération."
     },
     {
+      "hash": "9158a6954c0fac85",
+      "source_name": "ESMA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🔦 New #newsletter →  A warm welcome to Carlo Comporti on his first day! 👋 📘 2027 Annual Work Programme 👁️ Union Strategic Supervisory Priority on digital innovation ➡️ preparations for the transition to T+1 settlement 🪙 proposals to make #MiCA clearer",
+      "url": "https://x.com/ESMAComms/status/2117549833594835451",
+      "author": "@ESMAComms",
+      "published": "2026-11-03T09:29:00",
+      "summary": "🔦 New  #newsletter →  link.europa.eu/YKYJ3XA warm welcome to Carlo Comporti on his first day! 👋📘 2027 Annual Work Programme👁️ Union Strategic Supervisory Priority on digital innovation➡️ preparations for the transition to T+1 settlement🪙 proposals to make  #MiCA clearer— ESMA - EU Securities Markets Regulator 🇪🇺 (@ESMAComms) Nov 3, 2026",
+      "score": 52,
+      "score_breakdown": "+20 mots forts: mica, esma | +5 mots moyens: supervisory | +10 Géo EU: esma, mica | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "3f869928328b10cf",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -2794,7 +2848,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des lois de responsabilité extraterritoriale couvrant la corruption, la fraude et les sanctions."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la responsabilité pénale des entreprises pour crimes économiques, corruption, fraude et sanctions."
     },
     {
       "hash": "5909f5d293a23620",
@@ -3046,7 +3100,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1c6098506db014dc",
@@ -3337,6 +3391,24 @@
       "ai_summary": "FinCEN émet une alerte pour prévenir la fraude financière au Minnesota, relevant de la conformité anti-blanchiment."
     },
     {
+      "hash": "72238c13384ef56d",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Des grilles de salaires qui commencent sous le Smic dans de nombreux secteurs: le gouvernement veut frapper les entreprises au portefeuille, mais la sanction pourrait être contraire à la Constitution",
+      "url": "https://www.bfmtv.com/economie/economie-social/des-grilles-de-salaires-qui-commencent-sous-le-smic-dans-122-branches-le-gouvernement-veut-frapper-les-entreprises-au-portefeuille-mais-la-sanction-pourrait-etre-contraire-a-la-constitution_AN-202611030562.html",
+      "author": "",
+      "published": "2026-11-03T12:37:25",
+      "summary": "Pour pousser les entreprises à augmenter les salaires au-delà du Smic, le gouvernement envisage de réduire leurs exonérations de cotisations sociales. Dans le viseur de l'exécutif, les 69 branches professionnelles dont les grilles salariales affichent encore des minima inférieurs au salaire minimum légal. Une mesure qui provoque la colère du patronat, lequel dénonce un dispositif potentiellement inconstitutionnel.",
+      "score": 42,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "f476f76cdc2abf7a",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3514,7 +3586,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de blanchiment d'argent, de corruption et de protection des lanceurs d'alerte."
     },
     {
       "hash": "003c88e8f3c81b0d",
@@ -3532,7 +3604,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité sanctions et la compréhension des obligations réglementaires en matière de gel de transactions financières."
     },
     {
       "hash": "37142336dd189d44",
@@ -4054,7 +4126,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de fraude financière, de blanchiment potentiel et de défaillances de contrôle réglementaire dans le secteur de l'investissement."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de fraude, de montages financiers illégaux et de défaillances de contrôle dans la gestion des fonds d'investissement."
     },
     {
       "hash": "9982c66c96f695c4",
@@ -4540,7 +4612,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4b09befd3a7e60ed",
@@ -4882,7 +4954,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b7e6826bddca60b9",
@@ -4975,6 +5047,24 @@
       "ai_summary": "Cet article concerne la modernisation du cadre réglementaire et de surveillance bancaire, directement pertinent pour la conformité financière."
     },
     {
+      "hash": "75f9acc63b5b2c3a",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Watch live at 9:45 CET: Supervisory Board member Pedro Machado talks about the simplification of banking regulation and supervision at the 12th Conference on the Banking Union, organised by the Goethe University Institute for Law and Finance. Register here",
+      "url": "https://x.com/ecb/status/2117523684814442941",
+      "author": "@ecb",
+      "published": "2026-11-03T07:46:00",
+      "summary": "Watch live at 9:45 CET: Supervisory Board member Pedro Machado talks about the simplification of banking regulation and supervision at the 12th Conference on the Banking Union, organised by the Goethe University Institute for Law and Finance.Register here  freshfields.eventogy.com/c/1…— European Central Bank (@ecb) Nov 3, 2026",
+      "score": 22,
+      "score_breakdown": "+15 mots moyens: regulation, supervisory, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "f67e30152dfb3043",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -5026,7 +5116,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1582bc607dbeb0b7",
@@ -5044,7 +5134,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "27fab36a4d08e6da",
@@ -5134,7 +5224,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car la crise de confiance chez Binance soulève des enjeux de régulation et de respect des normes de gouvernance des plateformes crypto."
     },
     {
       "hash": "138f9e488e87e800",
@@ -5332,7 +5422,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "157556d2120c6b4e",
@@ -5368,7 +5458,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6232a0b4f00d8bea",
@@ -5441,6 +5531,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les modalités de rémunération des lanceurs d'alerte auprès de l'autorité anti-fraude britannique."
+    },
+    {
+      "hash": "ba812876a1591239",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Simplification should make banking rules more proportionate and easier to understand, not lower capital standards, says Supervisory Board member Pedro Machado. He adds that the biggest hurdle for competitiveness is Europe’s fragmented banking market",
+      "url": "https://x.com/ecb/status/2117539650411827379",
+      "author": "@ecb",
+      "published": "2026-11-03T08:49:00",
+      "summary": "Simplification should make banking rules more proportionate and easier to understand, not lower capital standards, says Supervisory Board member Pedro Machado. He adds that the biggest hurdle for competitiveness is Europe’s fragmented banking market  bankingsupervision.europa.eu…— European Central Bank (@ecb) Nov 3, 2026",
+      "score": 15,
+      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "3de1e9fc36d8a053",
@@ -5530,7 +5638,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "913cffffb17a3480",
@@ -5620,7 +5728,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d0299287ced8f50a",
@@ -5638,7 +5746,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e386c337ce240a02",
@@ -5710,7 +5818,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "FinCEN retire des règles proposées sur les portefeuilles non hébergés et le mélange de cryptomonnaies, affectant les obligations de conformité anti-blanchiment."
     },
     {
       "hash": "8c48ca472755382d",
@@ -6196,7 +6304,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des enquêtes internes, de la gouvernance d'entreprise et de la protection des lanceurs d'alerte au Japon."
+      "ai_summary": "Cet article traite de la conformité financière car il aborde les enquêtes internes, les contrôles de gouvernance et la protection des lanceurs d'alerte."
     },
     {
       "hash": "bfd7206af584f049",
@@ -6379,7 +6487,7 @@
       "ai_summary": "Cet article concerne la protection des communications conjugales face aux enquêtes gouvernementales en matière de corruption."
     }
   ],
-  "last_update": "2026-11-03T07:03:02.842760+00:00",
+  "last_update": "2026-11-03T13:16:41.777344+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
