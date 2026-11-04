@@ -1498,7 +1498,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des réformes anti-blanchiment de Taïwan, incluant la transparence des bénéficiaires et la conformité des actifs virtuels."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des réformes anti-blanchiment à Taïwan, incluant la transparence de la propriété effective, la diligence raisonnable et les obligations de signalement."
     },
     {
       "hash": "1166ab93ed73707a",
@@ -1516,7 +1516,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des nouvelles exigences réglementaires irlandaises sur la lutte contre la criminalité financière, les sanctions et la cybersécurité."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la criminalité financière, les sanctions et les risques de conformité réglementaire en Irlande."
     },
     {
       "hash": "0ff14730eba1dd83",
@@ -1679,24 +1679,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions de Fintrac pour non-respect des normes anti-blanchiment au Canada."
-    },
-    {
-      "hash": "ed82fd82d22b27aa",
-      "source_name": "JORF - Sanctions",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 16 octobre 2026 modifiant les obligations de service public sur les services aériens entre Pau et Paris (Orly)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055047640",
-      "author": "Ministère des transports",
-      "published": "2026-11-03T00:00:00",
-      "summary": "Les dispositions de l'annexe 2 à l'arrêté du 12 septembre 2025 susvisé, relatives aux obligations de service public imposées sur les services aériens réguliers entre Pau et Paris (Orly), sont remplacées par les obligations de service public annexées au présent arrêté.\nLe présent arrêté entre en vigueur le 24 juillet 2027.\nLe présent arrêté sera publié au Journal officiel de la République française.\nANNEXE1. A compter du 24 juillet 2027, les obligations de service public imposées sur les services",
-      "score": 67,
-      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "fb3734e10977ad34",
@@ -2038,7 +2020,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "862230aaeb2cabb4",
@@ -2056,7 +2038,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de fraude fiscale organisée et du rôle de professionnels dans des schémas de non-conformité."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de fraude fiscale organisée et de blanchiment par des professionnels."
     },
     {
       "hash": "b72f9cf69ccdac88",
@@ -2365,24 +2347,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des niveaux de capital des banques par rapport aux exigences réglementaires de Bâle III."
     },
     {
-      "hash": "9d244e86c78bb830",
-      "source_name": "BIS - Speeches",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Innovation, security and technological sovereignty - reconciling three imperatives",
-      "url": "https://www.bis.org/speeches/20261103-innovation-security-and-technological-sovereignty-reconciling-three-imperatives",
-      "author": "Denis Beau",
-      "published": "2026-11-03T00:00:00",
-      "summary": "Speech by Mr Denis Beau, First Deputy Governor of the Bank of France and Delegated Chairman of the Prudential Supervision and Resolution Authority (ACPR), at a seminar organised by the Association Europe-Finances-Régulations, Paris, 15 October 2026.",
-      "score": 60,
-      "score_breakdown": "+10 mots forts: acpr | +5 mots moyens: bank | +5 Source Intl | +20 Géo FR: france, acpr | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "e65eb149cda1d699",
       "source_name": "AMF France (X)",
       "source_type": "rss",
@@ -2615,6 +2579,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite des défaillances de conformité financière : fraude aux actifs misstated, double-pledging de garanties et facturation gonflée."
+    },
+    {
+      "hash": "ed82fd82d22b27aa",
+      "source_name": "JORF - Sanctions",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Arrêté du 16 octobre 2026 modifiant les obligations de service public sur les services aériens entre Pau et Paris (Orly)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055047640",
+      "author": "Ministère des transports",
+      "published": "2026-11-03T00:00:00",
+      "summary": "Les dispositions de l'annexe 2 à l'arrêté du 12 septembre 2025 susvisé, relatives aux obligations de service public imposées sur les services aériens réguliers entre Pau et Paris (Orly), sont remplacées par les obligations de service public annexées au présent arrêté.\nLe présent arrêté entre en vigueur le 24 juillet 2027.\nLe présent arrêté sera publié au Journal officiel de la République française.\nANNEXE1. A compter du 24 juillet 2027, les obligations de service public imposées sur les services",
+      "score": 54,
+      "score_breakdown": "+25 Source FR | +20 Géo FR: français, française, journal officiel | ×1.2 (<3d)",
+      "doc_type": "ARRÊTÉ",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "fd6fa5cd2d57531b",
@@ -2866,7 +2848,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car le vol de cryptomonnaies chez Binance révèle des défaillances en gestion des risques et contrôles internes, éléments clés de la conformité."
     },
     {
       "hash": "338a54c4b9f8b683",
@@ -2902,7 +2884,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il couvre les lois de responsabilité extraterritoriale du Royaume-Uni concernant les crimes économiques, la corruption et les sanctions."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des lois de responsabilité pénale extraterritoriale couvrant la corruption, la fraude et les sanctions."
     },
     {
       "hash": "5909f5d293a23620",
@@ -3031,6 +3013,24 @@
       "ai_summary": "Cette acquisition relève de la conformité financière car elle requiert l'approbation réglementaire sous la Réglementation sur les fusionsUE."
     },
     {
+      "hash": "9d244e86c78bb830",
+      "source_name": "BIS - Speeches",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Innovation, security and technological sovereignty - reconciling three imperatives",
+      "url": "https://www.bis.org/speeches/20261103-innovation-security-and-technological-sovereignty-reconciling-three-imperatives",
+      "author": "Denis Beau",
+      "published": "2026-11-03T00:00:00",
+      "summary": "Speech by Mr Denis Beau, First Deputy Governor of the Bank of France and Delegated Chairman of the Prudential Supervision and Resolution Authority (ACPR), at a seminar organised by the Association Europe-Finances-Régulations, Paris, 15 October 2026.",
+      "score": 48,
+      "score_breakdown": "+10 mots forts: acpr | +5 mots moyens: bank | +5 Source Intl | +20 Géo FR: france, acpr | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
       "hash": "c7230bb414d1405c",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3154,7 +3154,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1c6098506db014dc",
@@ -3443,24 +3443,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "FinCEN émet une alerte pour prévenir la fraude financière au Minnesota, relevant de la conformité anti-blanchiment."
-    },
-    {
-      "hash": "72238c13384ef56d",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Des grilles de salaires qui commencent sous le Smic dans de nombreux secteurs: le gouvernement veut frapper les entreprises au portefeuille, mais la sanction pourrait être contraire à la Constitution",
-      "url": "https://www.bfmtv.com/economie/economie-social/des-grilles-de-salaires-qui-commencent-sous-le-smic-dans-122-branches-le-gouvernement-veut-frapper-les-entreprises-au-portefeuille-mais-la-sanction-pourrait-etre-contraire-a-la-constitution_AN-202611030562.html",
-      "author": "",
-      "published": "2026-11-03T12:37:25",
-      "summary": "Pour pousser les entreprises à augmenter les salaires au-delà du Smic, le gouvernement envisage de réduire leurs exonérations de cotisations sociales. Dans le viseur de l'exécutif, les 69 branches professionnelles dont les grilles salariales affichent encore des minima inférieurs au salaire minimum légal. Une mesure qui provoque la colère du patronat, lequel dénonce un dispositif potentiellement inconstitutionnel.",
-      "score": 42,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f476f76cdc2abf7a",
@@ -3892,7 +3874,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations de signalement prudentiel pour les établissements de crédit."
     },
     {
       "hash": "013196e6246dd46d",
@@ -3965,24 +3947,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la détection de fraude et d'activités suspectes impliquant des fonds fédéraux."
-    },
-    {
-      "hash": "18e5c044d74e812e",
-      "source_name": "FinCEN",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "Proposal of Special Measure Regarding Convertible Virtual Currency Mixing, as a Class of Transactions of Primary Money Laundering Concern; Withdrawal",
-      "url": "https://www.fincen.gov/resources/statutes-regulations/federal-register-notices/proposal-special-measure-regarding-convertible-virtual-currency-mixing",
-      "author": "",
-      "published": "2026-10-05T00:00:00",
-      "summary": "",
-      "score": 37,
-      "score_breakdown": "+20 mots critiques: money laundering | +5 Source Intl | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre le blanchiment d'argent par le biais des cryptomonnaies convertibles, aspect clé de la conformité financière."
     },
     {
       "hash": "ab2547ec35683ecd",
@@ -4216,7 +4180,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une fraude présumée, de blanchiment potentiel et de risques de non-respect des régulations financières."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de fraude financière, de détournement de fonds et de défaillances de contrôle réglementaire."
     },
     {
       "hash": "9982c66c96f695c4",
@@ -4702,7 +4666,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4b09befd3a7e60ed",
@@ -5044,7 +5008,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "b7e6826bddca60b9",
@@ -5152,7 +5116,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la simplification de la réglementation et supervision bancaire, domaines clés de la conformité financière et du respect des normes prudentielles."
+      "ai_summary": "Cet article concerne la simplification de la réglementation bancaire et de la supervision, domaines clés de la conformité financière."
     },
     {
       "hash": "f67e30152dfb3043",
@@ -5206,7 +5170,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1582bc607dbeb0b7",
@@ -5224,7 +5188,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "27fab36a4d08e6da",
@@ -5314,7 +5278,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car Binance, plateforme de cryptomonnaies majeure, fait face à une crise de confiance soulevant des enjeux réglementaires et de conformité."
+      "ai_summary": "Cet article concerne la conformité financière car Binance fait face à des crises de confiance liées à la régulation des cryptomonnaies."
     },
     {
       "hash": "138f9e488e87e800",
@@ -5512,7 +5476,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "157556d2120c6b4e",
@@ -5548,7 +5512,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6232a0b4f00d8bea",
@@ -5638,7 +5602,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la simplification des règles bancaires et des normes de capital imposées par la supervision prudentielle."
+      "ai_summary": "Cet article concerne la conformité financière car il aborde la simplification des normes de capital bancaire et leur proportionnalité réglementaire."
     },
     {
       "hash": "3de1e9fc36d8a053",
@@ -5728,7 +5692,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "913cffffb17a3480",
@@ -5818,7 +5782,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d0299287ced8f50a",
@@ -5836,7 +5800,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e386c337ce240a02",
@@ -5855,24 +5819,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les sanctions OFAC contre l'Iran, un enjeu majeur de conformité financière et de respect des obligations de gel d'actifs."
-    },
-    {
-      "hash": "b91986047d269570",
-      "source_name": "FinCEN",
-      "source_type": "scrape",
-      "category": "autorite_intl",
-      "title": "FinCEN Announces Withdrawals of Proposed Digital Asset Related Rules",
-      "url": "https://www.fincen.gov/news/news-releases/fincen-announces-withdrawals-proposed-digital-asset-related-rules",
-      "author": "",
-      "published": "2026-10-05T00:00:00",
-      "summary": "",
-      "score": 12,
-      "score_breakdown": "+5 Source Intl | +3 Géo Intl: fincen | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "FinCEN retire ses règles proposées sur les actifs numériques, affectant les obligations de conformité anti-blanchiment des institutions financières."
     },
     {
       "hash": "86d0a910e176de3f",
@@ -5908,7 +5854,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du retrait de règles proposées par FinCEN sur les portefeuilles non hébergés et le mélange de cryptomonnaies, essentiels à la lutte anti-blanchiment."
+      "ai_summary": "FinCEN retire ses règles proposées sur les portefeuilles non hébergés et le mélange de cryptomonnaies pour se conformer aux obligations anti-blanchiment."
     },
     {
       "hash": "8c48ca472755382d",
@@ -6577,7 +6523,7 @@
       "ai_summary": "Cet article concerne la protection des communications conjugales face aux enquêtes gouvernementales en matière de corruption."
     }
   ],
-  "last_update": "2026-11-03T22:43:28.134482+00:00",
+  "last_update": "2026-11-04T03:55:42.271091+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
