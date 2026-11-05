@@ -817,24 +817,6 @@
       "ai_summary": "Tracfin participe au Trust Compliance Summit pour échanger sur les enjeux de la conformité financière et la lutte anti-blanchiment."
     },
     {
-      "hash": "027ab494d57ddcc5",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Netherlands fines FCA-regulated fintech’s local branch over AML failings",
-      "url": "https://globalinvestigationsreview.com/article/netherlands-fines-fca-regulated-fintechs-local-branch-over-aml-failings",
-      "author": "Grace Propheta",
-      "published": "2026-10-06T12:00:58",
-      "summary": "The administrative penalty imposed on Modulr Finance’s Amsterdam subsidiary is the Dutch Central Bank’s first publicly recorded anti-money laundering fine against an electronic money institution.",
-      "score": 94,
-      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, anti-money | +10 mots moyens: fintech, bank | +3 Presse | +10 Géo EU: netherlands | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une amende pour défaillances en matière de lutte anti-blanchiment."
-    },
-    {
       "hash": "d03a5f8bf70b3576",
       "source_name": "JORF - Financier",
       "source_type": "rss",
@@ -850,7 +832,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cette décision établit une délégation de pouvoirs au sein de l'autorité prudentielle française, organisant la gouvernance et la prise de décision en matière de supervision bancaire et financière."
     },
     {
       "hash": "2eaf3dbaa781a718",
@@ -1141,6 +1123,24 @@
       "ai_summary": "L'AMF surveille la conformité réglementaire des fonds monétaires et leur respect des règles de gestion d'actifs."
     },
     {
+      "hash": "7a97ffa735a39d0c",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "The EBA publishes revised Guidelines on internal governance, delivering greater proportionality and simplification for banks",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-revised-guidelines-internal-governance-delivering-greater-proportionality-and",
+      "author": "Jana Jaklic",
+      "published": "2026-11-05T12:22:03",
+      "summary": "The European Banking Authority (EBA) today published its revised Guidelines on internal governance under the Capital Requirements Directive (CRD). The revised Guidelines reflect the changes introduced by CRD VI and form part of the EBA’s broader commitment to simplify the regulatory framework, strengthen proportionality and reduce unnecessary compliance burdens, while safeguarding sound and robust governance across the EU banking sector.",
+      "score": 82,
+      "score_breakdown": "+20 mots forts: compliance, eba | +10 mots moyens: directive, bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": "GUIDELINES",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "e6e35a5924ed2046",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -1426,7 +1426,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il liste les juridictions à haut risque nécessitant une diligence renforcée en matière de lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la lutte anti-blanchiment et le financement du terrorisme, domaines clés de la conformité financière."
     },
     {
       "hash": "ddfb8b5a2e3d6afc",
@@ -1534,7 +1534,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "JBS et ses prestataires sont accusés de violations anti-blanchiment liées au financement de la déforestation illégale en Amazonie."
     },
     {
       "hash": "aa558df84bc5f7ac",
@@ -1552,7 +1552,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des réformes AML (lutte anti-blanchiment) à Taiwan, incluant la transparence des bénéficiaires et l'application des règles aux actifs virtuels."
+      "ai_summary": "Cet article concerne la conformité financière car Taiwan renforce son régime de lutte anti-blanchiment avec des obligations de diligence raisonnable et de transparence sur les bénéficiaires."
     },
     {
       "hash": "1166ab93ed73707a",
@@ -1570,7 +1570,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des risques de conformité réglementaire, lutte contre la criminalité financière et sanctions en Irlande."
+      "ai_summary": "Cet article concerne la conformité financière car il aborde la lutte contre la criminalité financière, les sanctions, et les risques de conformité pour les entreprises."
     },
     {
       "hash": "0ff14730eba1dd83",
@@ -1861,6 +1861,24 @@
       "ai_summary": "Correction technique mineure de référence législative n'affectant pas directement les obligations de conformité financière des entreprises."
     },
     {
+      "hash": "a188a1188bba31fe",
+      "source_name": "ECB - Banking Supervision",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Anneli Tuominen: Anti-money laundering: how are supervisors tackling the current challenges?",
+      "url": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261105~717ce34d36.en.html",
+      "author": "",
+      "published": "2026-11-05T08:25:00",
+      "summary": "",
+      "score": 67,
+      "score_breakdown": "+20 mots critiques: money laundering | +10 mots forts: anti-money | +15 Source EU | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article traite de la conformité AML/CFT en analysant comment les superviseurs bancaires font face aux défis actuels de la lutte anti-blanchiment."
+    },
+    {
       "hash": "8477a70388b3b9c6",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -1987,24 +2005,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la création d'une base de données centralisée AML/CFT en Europe."
     },
     {
-      "hash": "2369b481009812e1",
-      "source_name": "AMLA - Anti-Money Laundering Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "AMLA Vice-Chair Juan Manuel Vega Serrano takes part in panel at Foro La Toja",
-      "url": "https://www.amla.europa.eu/news-media/news-articles/amla-vice-chair-juan-manuel-vega-serrano-takes-part-panel-foro-la-toja_en",
-      "author": "",
-      "published": "2026-10-06T13:05:58",
-      "summary": "AMLA Vice-Chair Juan Manuel Vega Serrano took part in a panel discussion on organised crime at the Foro La Toja on 3 October 2026.",
-      "score": 67,
-      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte anti-blanchiment de capitaux, domaine clé de la conformité financière."
-    },
-    {
       "hash": "5fd272146b2b8eb7",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -2074,7 +2074,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "862230aaeb2cabb4",
@@ -2650,7 +2650,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "fd6fa5cd2d57531b",
@@ -2797,6 +2797,42 @@
       "ai_summary": "Le FATF identifie les juridictions avec des défaillances en lutte anti-blanchiment, contre le financement du terrorisme et la prolifération."
     },
     {
+      "hash": "1726677224aa6d1a",
+      "source_name": "FATF/GAFI (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "📢 New FATF report calls for global action to disrupt scam compounds Read the report to find practical approaches that will help disrupt criminal activity before victims make payments, as well as after🔗  #FATFAgainstFraud",
+      "url": "https://x.com/FATFNews/status/2118287161456034196",
+      "author": "@FATFNews",
+      "published": "2026-11-05T10:19:00",
+      "summary": "📢 New FATF report calls for global action to disrupt scam compoundsRead the report to find practical approaches that will help disrupt criminal activity before victims make payments, as well as after🔗 bit.ly/4iyXQ7X #FATFAgainstFraud Video  — FATF (@FATFNews) Nov 5, 2026",
+      "score": 52,
+      "score_breakdown": "+20 mots critiques: fraud | +10 mots forts: fatf | +5 mots moyens: payment | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "1b514ccd10ae8b5b",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "New technology is compounding money laundering risks, says Supervisory Board member Anneli Tuominen. To keep pace, supervisors must prioritise effectively and upgrade digital tools. Banks should strengthen their operational resilience and invest in AI",
+      "url": "https://x.com/ecb/status/2118258617334075651",
+      "author": "@ecb",
+      "published": "2026-11-05T08:26:00",
+      "summary": "New technology is compounding money laundering risks, says Supervisory Board member Anneli Tuominen.To keep pace, supervisors must prioritise effectively and upgrade digital tools. Banks should strengthen their operational resilience and invest in AI  bankingsupervision.europa.eu…— European Central Bank (@ecb) Nov 5, 2026",
+      "score": 52,
+      "score_breakdown": "+20 mots critiques: money laundering | +15 mots moyens: risk, supervisory, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "9158a6954c0fac85",
       "source_name": "ESMA (X)",
       "source_type": "rss",
@@ -2884,7 +2920,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'un vol massif de cryptoactifs révélant des défaillances en gestion des risques et contrôles internes chez Binance."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation de sécurité majeure chez une plateforme de trading affectant la protection des actifs clients."
     },
     {
       "hash": "338a54c4b9f8b683",
@@ -2920,7 +2956,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des lois de responsabilité extraterritoriale couvrant la corruption, la fraude, les sanctions et les crimes économiques."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations légales de conformité extraterritoriale incluant la lutte anti-corruption, anti-fraude et sanctions."
     },
     {
       "hash": "5909f5d293a23620",
@@ -3190,7 +3226,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1c6098506db014dc",
@@ -3209,6 +3245,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Le Luxembourg met à jour son évaluation nationale des risques de financement du terrorisme, relevant de la conformité AML/CFT."
+    },
+    {
+      "hash": "1f9c999def64fae2",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🌍 𝟰𝟱𝟬 𝗺𝗶𝗹𝗹𝗶𝗼𝗻 𝗰𝗼𝗻𝘀𝘂𝗺𝗲𝗿𝘀. 🇪🇺 𝟮𝟳 𝗠𝗲𝗺𝗯𝗲𝗿 𝗦𝘁𝗮𝘁𝗲𝘀. 🤝 𝗢𝗻𝗲 𝗦𝗶𝗻𝗴𝗹𝗲 𝗠𝗮𝗿𝗸𝗲𝘁. How do we ensure that consumers across Europe can access financi...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7524024643876237312",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-11-05T08:27:45",
+      "summary": "🌍 𝟰𝟱𝟬 𝗺𝗶𝗹𝗹𝗶𝗼𝗻 𝗰𝗼𝗻𝘀𝘂𝗺𝗲𝗿𝘀. 🇪🇺 𝟮𝟳 𝗠𝗲𝗺𝗯𝗲𝗿 𝗦𝘁𝗮𝘁𝗲𝘀. 🤝 𝗢𝗻𝗲 𝗦𝗶𝗻𝗴𝗹𝗲 𝗠𝗮𝗿𝗸𝗲𝘁.\nHow do we ensure that consumers across Europe can access financial services safely, benefit from innovation, and enjoy the same level of protection wherever they are in the EU?\n🎤 Opening the Joint ESAs Consumer Protection Day 2026 in Rome today, EBA Chair François-Louis Michaud, in his capacity as Chair of the Joint Committee of the EBA, EIOPA and ESMA, highlighted the importance of keeping consumers at the heart of EU financial ",
+      "score": 45,
+      "score_breakdown": "+20 mots forts: eba, esma | +10 Géo EU: eba, esma | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "bf257414ad3b84c9",
@@ -3623,24 +3677,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "La conformité financière concerne l'adoption d'un budget pour rassurer les marchés et respecter les obligations réglementaires de l'État."
-    },
-    {
-      "hash": "3228b9c719bda456",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Séminaire IBFI sur la Stabilité Financière et les Politiques Macroprudentielles, 30 septembre - 02 octobre 2026 - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSFd0M0gwc0pFRzhJLW9Ic0diaVdzckVwb1NGYk5tR2dMUVNyWkR1anViWkkyX0hEYnZ3V1VBXzNvVnpnNnR4dFl6VWQ1NFdGTDRUZ0cwbWZkQ2hWRlE5Z1VKMjR3TlB3UEZBUklvWXlFZmJ0b01rSDVxYkZRQXp6RkptcjNZdmt4dVkwdFE3cVN6RHVrWWZjNk5zbXpWY01XbDVfTmxEa3duZXdEUzliMXdjaEhWNjlkUTY4YlBZUl9VOXF5dzlpb2Z4MjhrZi0tM2hYZXlR?oc=5",
-      "author": "",
-      "published": "2026-10-06T07:00:00",
-      "summary": "Séminaire IBFI sur la Stabilité Financière et les Politiques Macroprudentielles, 30 septembre - 02 octobre 2026&nbsp;&nbsp;Banque de France",
-      "score": 40,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la stabilité financière et les politiques macroprudentielles, domaines clés de la conformité réglementaire financière."
     },
     {
       "hash": "ff9ea3cd7b78c4c2",
@@ -4234,7 +4270,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de fraude fiscale impliquant un prince belge et une entreprise jugés à Paris."
+      "ai_summary": "Un prince belge et une entreprise sont jugés à Paris pour fraude fiscale, ce qui relève directement de la conformité financière et fiscale."
     },
     {
       "hash": "cf2e45038dbfde3b",
@@ -4669,6 +4705,24 @@
       "ai_summary": "Cet article concerne la rétention des talents dans une division judiciaire via des bonus, sans rapport direct avec la conformité financière."
     },
     {
+      "hash": "9f1e19054dd14f9a",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "What’s Up, Doc? The DOJ’s New Healthcare Carrot & Its Catch",
+      "url": "https://www.corporatecomplianceinsights.com/whats-up-doc-doj-new-healthcare-carrot-catch/",
+      "author": "Staff and Wire Reports",
+      "published": "2026-11-05T12:00:40",
+      "summary": "Government’s best leads still come from whistleblowers who often get there first\nThe post What’s Up, Doc? The DOJ’s New Healthcare Carrot &#038; Its Catch appeared first on Corporate Compliance Insights.",
+      "score": 31,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "6a52fe4bc2f498b3",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -4720,7 +4774,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4b09befd3a7e60ed",
@@ -4936,7 +4990,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la compliance financière car il expose des défaillances en contrôle interne, lutte anti-blanchiment et gestion des risques de cybersécurité."
+      "ai_summary": "Cet article concerne la conformité financière car il révèle des failles dans les contrôles internes et la prévention de la fraude d'une institution bancaire."
     },
     {
       "hash": "31f1aebdb462021b",
@@ -5083,6 +5137,24 @@
       "ai_summary": "Hors périmètre compliance"
     },
     {
+      "hash": "943a072fd3fef25c",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour de cassation, Chambre sociale - formation restreinte hors rnsm/na, 04 novembre 2026, 25-15.603",
+      "url": "http://juricaf.org/arret/FRANCE-COURDECASSATION-20261104-2515603",
+      "author": "Chambre sociale - formation restreinte hors rnsm/na",
+      "published": "2026-11-04T12:00:00",
+      "summary": "Le manquement de l'employeur relatif à l'obligation de réalisation d'un entretien professionnel en application de l'article L.6315-1 du code... SOC.    ZB1        COUR DE CASSATION _ Arrêt du 4 novembre 2026          Cassation partielle      Mme CAPITAINE, conseillère doyenne  faisant fonction de présidente        Arrêt n° 889 F-B    Pourvoi n° B 25-15.603       R É P U B L I Q U E F R A N Ç A I S E _ AU NOM DU PEUPLE FRANÇAIS _ ARRÊT DE LA COUR DE CASSATION, CHAMBRE SOCIALE, DU 4 NOVEMBRE 2026 ",
+      "score": 24,
+      "score_breakdown": "+20 Géo FR: france, français | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "b7e6826bddca60b9",
       "source_name": "Cass. - Fraude",
       "source_type": "rss",
@@ -5227,24 +5299,6 @@
       "ai_summary": "Les stress tests révèlent les faiblesses du système financier et améliorent la préparation aux crises, renforçant ainsi la conformité réglementaire."
     },
     {
-      "hash": "8f1a45bb577daf25",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "Effectiveness and simplification go hand in hand, says Supervisory Board Vice-Chair Frank Elderson. By focusing on material risks and ensuring the most relevant weaknesses are addressed without delay, supervisors can make the dialogue with banks simpler and more effective",
-      "url": "https://x.com/ecb/status/2107456140338442531",
-      "author": "@ecb",
-      "published": "2026-10-06T13:01:00",
-      "summary": "Effectiveness and simplification go hand in hand, says Supervisory Board Vice-Chair Frank Elderson. By focusing on material risks and ensuring the most relevant weaknesses are addressed without delay, supervisors can make the dialogue with banks simpler and more effective  link.europa.eu/DhbQ3g— European Central Bank (@ecb) Oct 6, 2026",
-      "score": 22,
-      "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les superviseurs bancaires doivent se concentrer sur les risques matériels pour simplifier et améliorer l'efficacité de la conformité réglementaire."
-    },
-    {
       "hash": "4cf8020e18407d78",
       "source_name": "Ministère de la Justice (CJIP)",
       "source_type": "rss",
@@ -5258,24 +5312,6 @@
       "score_breakdown": "+25 Source FR | ×0.8 (14d)",
       "doc_type": null,
       "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "1582bc607dbeb0b7",
-      "source_name": "JORF - Lois",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "LOI n° 2026-975 du 21 octobre 2026 visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (1)",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055005805",
-      "author": "",
-      "published": "2026-10-22T00:00:00",
-      "summary": "L'article L. 313-7 du code de l'action sociale et des familles est ainsi modifié :1° A la première phrase, les mots : « être supérieure à » sont remplacés par le mot : « excéder » ;2° Les deux dernières phrases sont ainsi rédigées : « Elles peuvent être renouvelées au vu des résultats positifs d'une évaluation, dans la limite d'une durée totale de dix ans. Au terme de cette période d'expérimentation et sous réserve d'une nouvelle évaluation positive, l'établissement ou le service peut être autor",
-      "score": 20,
-      "score_breakdown": "+25 Source FR | ×0.8 (14d)",
-      "doc_type": "LOI",
-      "action_class": "action",
       "status": "new",
       "early_brief": false,
       "ai_summary": "Hors périmètre compliance"
@@ -5297,24 +5333,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne un litige administratif entre communes et sociétés sur des questions de paysage, sans lien direct avec la conformité financière."
-    },
-    {
-      "hash": "6fa517321a647956",
-      "source_name": "Cass. - Blanchiment",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour de cassation, Chambre criminelle - formation restreinte hors rnsm/na, 06 octobre 2026, 26-80.711",
-      "url": "http://juricaf.org/arret/FRANCE-COURDECASSATION-20261006-2680711",
-      "author": "Chambre criminelle - formation restreinte hors rnsm/na",
-      "published": "2026-10-06T12:00:00",
-      "summary": "N° S 26-80.711 F-D    N° 01235      MB25  6 OCTOBRE 2026      CASSATION      M. BONNAL président,                  R É P U B L I Q U E F R A N Ç A I S E _ AU NOM DU PEUPLE FRANÇAIS _ ARRÊT DE LA COUR DE CASSATION, CHAMBRE CRIMINELLE,   DU 6 OCTOBRE 2026    M. L U a formé un pourvoi contre l'arrêt de la chambre de l'instruction de la cour d'appel d'Aix-en-Provence, en date du 18 septembre 2025, qui, dans l'information suivie contre lui des chefs d'extorsion en bande organisée, corruption et trafi",
-      "score": 20,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france, français | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet arrêt de la Cour de cassation en matière de blanchiment concerne la conformité financière en tant que délit de lutte anti-blanchiment."
     },
     {
       "hash": "a52eaf0893400982",
@@ -5368,7 +5386,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'un incident de sécurité majeur affectant une plateforme régulée, avec des implications sur la protection des actifs clients et les obligations de divulgation."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'un incident de sécurité majeur affectant une plateforme réglementée et ses obligations de protection des actifs clients."
     },
     {
       "hash": "7ae03de4377ac8ce",
@@ -5533,24 +5551,6 @@
       "ai_summary": "Cet article traite de la fiscalité appliquée aux cryptomonnaies, un enjeu majeur de conformité financière et de respect des obligations fiscales."
     },
     {
-      "hash": "8fe76738be216e14",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Ofcom investigating Meta’s compliance with illegal content rules",
-      "url": "https://globalinvestigationsreview.com/article/ofcom-investigating-metas-compliance-illegal-content-rules",
-      "author": "Malavika Devaya",
-      "published": "2026-10-06T12:48:34",
-      "summary": "",
-      "score": 19,
-      "score_breakdown": "+10 mots forts: compliance | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité réglementaire de Meta concernant l'application des règles de modération de contenu illégal."
-    },
-    {
       "hash": "157556d2120c6b4e",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -5639,6 +5639,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les modalités de rémunération des lanceurs d'alerte auprès de l'autorité anti-fraude britannique."
+    },
+    {
+      "hash": "1582bc607dbeb0b7",
+      "source_name": "JORF - Lois",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "LOI n° 2026-975 du 21 octobre 2026 visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (1)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055005805",
+      "author": "",
+      "published": "2026-10-22T00:00:00",
+      "summary": "L'article L. 313-7 du code de l'action sociale et des familles est ainsi modifié :1° A la première phrase, les mots : « être supérieure à » sont remplacés par le mot : « excéder » ;2° Les deux dernières phrases sont ainsi rédigées : « Elles peuvent être renouvelées au vu des résultats positifs d'une évaluation, dans la limite d'une durée totale de dix ans. Au terme de cette période d'expérimentation et sous réserve d'une nouvelle évaluation positive, l'établissement ou le service peut être autor",
+      "score": 15,
+      "score_breakdown": "+25 Source FR | ×0.6 (>14d)",
+      "doc_type": "LOI",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "ba812876a1591239",
@@ -5746,7 +5764,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "913cffffb17a3480",
@@ -5767,42 +5785,6 @@
       "ai_summary": "Cet article concerne la résilience bancaire et la conformité aux règles de supervision financière européenne pour préserver la stabilité du secteur."
     },
     {
-      "hash": "4a04982a37edc36b",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "Watch live at 15:00 CET: Supervisory Board Vice-Chair Frank Elderson talks about how effective remediation can safeguard the resilience of European banks in a panel discussion at the 17th @FMA_AT Supervisory Conference in Vienna.",
-      "url": "https://x.com/ecb/status/2107452060245623055",
-      "author": "@ecb",
-      "published": "2026-10-06T12:45:00",
-      "summary": "Watch live at 15:00 CET: Supervisory Board Vice-Chair Frank Elderson talks about how effective remediation can safeguard the resilience of European banks in a panel discussion at the 17th  @FMA_AT Supervisory Conference in Vienna. fma.gv.at/en/— European Central Bank (@ecb) Oct 6, 2026",
-      "score": 15,
-      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'article traite de la conformité financière car il aborde la remédiation efficace pour préserver la résilience des banques européennes."
-    },
-    {
-      "hash": "5010b7691a947a63",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "Coming up at 13:45 CET: Supervisory Board Chair Claudia Buch takes part in a panel discussion on “The future of Europe’s banking union” at the @FMA_AT Supervisory Conference in Vienna",
-      "url": "https://x.com/ecb/status/2107433310636916831",
-      "author": "@ecb",
-      "published": "2026-10-06T11:30:00",
-      "summary": "Coming up at 13:45 CET: Supervisory Board Chair Claudia Buch takes part in a panel discussion on “The future of Europe’s banking union” at the  @FMA_AT Supervisory Conference in Vienna  fma.gv.at/— European Central Bank (@ecb) Oct 6, 2026",
-      "score": 15,
-      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la supervision bancaire européenne et l'union bancaire, domaines clés de la conformité réglementaire financière."
-    },
-    {
       "hash": "37c1a704218c0ba9",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -5818,7 +5800,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "d0299287ced8f50a",
@@ -5836,7 +5818,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "503c0d6bef62b017",
@@ -5890,7 +5872,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "aa53e538cabab391",
@@ -5908,7 +5890,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la criminalisation de pratiques délictueuses (ententes illicites) et de la lutte anti-corruption en matière de concurrence déloyale à Hong Kong."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la criminalisation des pratiques anticoncurrentielles et de la collusion, qui relèvent du respect des réglementations financières et commerciales."
     },
     {
       "hash": "5f15abcb88e3c4f1",
@@ -6505,24 +6487,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de poursuites pénales liées à des pratiques de corruption et de pots-de-vin."
     },
     {
-      "hash": "3390ddc38013791b",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "FCA to review handling of whistleblower’s case following suicide",
-      "url": "https://globalinvestigationsreview.com/article/fca-review-handling-of-whistleblowers-case-following-suicide",
-      "author": "Sam Fry",
-      "published": "2026-10-06T12:49:37",
-      "summary": "",
-      "score": 4,
-      "score_breakdown": "+3 Presse | +3 Géo Intl: fca | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la gestion des procédures de dénonciation par les autorités de régulation financière."
-    },
-    {
       "hash": "191b8c7f636dde56",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -6541,7 +6505,7 @@
       "ai_summary": "Cet article concerne la protection des communications conjugales face aux enquêtes gouvernementales en matière de corruption."
     }
   ],
-  "last_update": "2026-11-05T07:07:03.192992+00:00",
+  "last_update": "2026-11-05T13:43:52.894352+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
