@@ -601,6 +601,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la révision du réglement MiCA sur les actifs numériques et les cryptomonnaies."
     },
     {
+      "hash": "31712d36c8647853",
+      "source_name": "CNIL",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Cybersécurité des collectivités territoriales : la CNIL prononce dix sanctions",
+      "url": "https://www.cnil.fr/fr/sanctions-cybersecurite-collectivites-territoriales",
+      "author": "CNIL",
+      "published": "2026-11-09T12:00:00",
+      "summary": "En novembre 2026, la CNIL a prononcé dix sanctions simplifiées à l’encontre de collectivités territoriales et d’un établissement public, pour des manquements relatifs à la cybersécurité.",
+      "score": 97,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: cnil | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
       "hash": "4a86fcee9536f28f",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -940,7 +958,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il fixe les nouveaux seuils d'usure applicables aux crédits, que les établissements doivent respecter légalement."
+      "ai_summary": "Cet article concerne la conformité financière car il définit les nouveaux seuils légaux d'usure applicables aux crédits, que les établissements doivent respecter."
     },
     {
       "hash": "723cb30a3a61c461",
@@ -1462,7 +1480,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des réformes anti-blanchiment de Taïwan, incluant les obligations de diligence, la transparence des bénéficiaires et la lutte contre les actifs virtuels."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des réformes AML (lutte anti-blanchiment) à Taïwan, notamment la transparence des bénéficiaires et la conformité dans les actifs virtuels."
     },
     {
       "hash": "1166ab93ed73707a",
@@ -1480,7 +1498,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des nouvelles réglementations irlandaises sur la lutte contre la criminalité financière, les sanctions et la cybersécurité."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des risques de conformité liés à la lutte anti-blanchiment, sanctions, IA et cybersécurité en Irlande."
     },
     {
       "hash": "0ff14730eba1dd83",
@@ -1660,7 +1678,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre le blanchiment de capitaux et le financement du terrorisme, obligations réglementaires essentielles."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte anti-blanchiment et du financement du terrorisme, obligations réglementaires majeures."
     },
     {
       "hash": "187ec16063303e88",
@@ -1787,6 +1805,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet arrêté impose des obligations de transparence et d'information aux bailleurs, renforçant la conformité réglementaire des contrats de location."
+    },
+    {
+      "hash": "8813eab7351b8e1f",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "The EBA publishes consumer factsheet on white-labelled financial products and services",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-consumer-factsheet-white-labelled-financial-products-and-services",
+      "author": "Jana Jaklic",
+      "published": "2026-11-09T09:56:42",
+      "summary": "The European Banking Authority (EBA) published today a factsheet to help consumers identify when a banking or payment product or service is white labelled, i.e. marketed under one brand but provided by another company. As consumers increasingly access financial products and services through online platforms, retailers and other non-financial brands, it may be sometimes unclear which company is responsible for providing the product or service. Understanding this distinction can help consumers mak",
+      "score": 67,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: payment, bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "f19395c738e6b51c",
@@ -2146,7 +2182,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il aborde les sanctions, la lutte contre la contournement des sanctions et la prévention des schémas d'évasion utilisant les cryptomonnaies."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions, de leur contournement et de la protection du secteur bancaire international."
     },
     {
       "hash": "51c8bc467b83d6b7",
@@ -2596,7 +2632,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "13be93abc40daa0c",
@@ -2722,7 +2758,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Le rapport du FATF propose des mesures pour combattre la fraude et les escroqueries, relevant de la conformité anti-blanchiment et de lutte contre la criminalité financière."
+      "ai_summary": "Le rapport du FATF propose des mesures pour combattre les arnaque et fraudes en ligne, relevant de la conformité anti-blanchiment et lutte contre la fraude financière."
     },
     {
       "hash": "1b514ccd10ae8b5b",
@@ -2884,7 +2920,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des lois de responsabilité extraterritoriale couvrant la corruption, la fraude et les sanctions."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des lois de responsabilité extraterritoriale couvrant la corruption, la fraude, les sanctions et les crimes économiques."
     },
     {
       "hash": "5909f5d293a23620",
@@ -3010,7 +3046,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5c5bfa3b982d004f",
@@ -3118,7 +3154,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "1c6098506db014dc",
@@ -3137,6 +3173,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Le Luxembourg met à jour son évaluation nationale des risques de financement du terrorisme, relevant de la conformité AML/CFT."
+    },
+    {
+      "hash": "1efe6af7bdc61f1a",
+      "source_name": "EBA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🔍 Do you know who is really behind your banking or payment product? A product may carry one brand but be provided by another company. The new EBA factsheet helps consumers identify white-labelled financial products and understand who is responsible. 🔗",
+      "url": "https://x.com/EBA_News/status/2119740096635113708",
+      "author": "@EBA_News",
+      "published": "2026-11-09T10:33:00",
+      "summary": "🔍 Do you know who is really behind your banking or payment product?A product may carry one brand but be provided by another company.The new EBA factsheet helps consumers identify white-labelled financial products and understand who is responsible.🔗 link.europa.eu/Gt8hqv  — EU Banking Authority - EBA 🇪🇺 (@EBA_News) Nov 9, 2026",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: payment, bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "6fdcfcf8785f38f6",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "💡 What does regulatory simplification really mean for Europe's banking sector? At the 12th Conference on the Banking Union, organi...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7525477656780259328",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-11-09T08:41:30",
+      "summary": "💡 What does regulatory simplification really mean for Europe's banking sector?\n\nAt the 12th Conference on the Banking Union, organised by Freshfields, EBA Senior Policy Expert Bernd Rummel shared the EBA's perspective on one of the key challenges facing the EU financial sector: how to simplify regulation and supervision while preserving resilience, financial stability and a level playing field across Europe.\n\n🚀 Simplification is not about less regulation. It's about smarter, more efficient regul",
+      "score": 45,
+      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: regulation, bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "1f9c999def64fae2",
@@ -3407,6 +3479,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "FinCEN émet une alerte pour prévenir la fraude financière au Minnesota, relevant de la conformité anti-blanchiment."
+    },
+    {
+      "hash": "ada0e889a8e80b2f",
+      "source_name": "ComplyAdvantage",
+      "source_type": "press",
+      "category": "presse",
+      "title": "The $6 billion Binance hack: Inside North Korea’s record crypto hack, and what compliance teams should do next",
+      "url": "https://complyadvantage.com/insights/binance-hack-north-korea-crypto-money-laundering/",
+      "author": "Audrey Langevin",
+      "published": "2026-11-09T09:36:05",
+      "summary": "On October 29, 2026, hackers that the FBI has linked to North Korea drained Binance hot wallets across ten blockchains in just about 20 minutes. TRM Labs puts the haul at $6.36 billion, roughly four times the $1.5 billion taken [&#8230;]\nThe post The $6 billion Binance hack: Inside North Korea&#8217;s record crypto hack, and what compliance teams should do next appeared first on ComplyAdvantage.",
+      "score": 42,
+      "score_breakdown": "+20 mots forts: compliance, crypto | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "9f32b51e0972b061",
@@ -3769,6 +3859,24 @@
       "ai_summary": "Cet accord de composition administrative avec un particulier concerne la conformité financière car il relève du pouvoir de sanction de l'AMF."
     },
     {
+      "hash": "6771b3e0ce07175e",
+      "source_name": "Commission EU - DG FISMA",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EU seeks nominations for stakeholder group on tokenisation standards in finance",
+      "url": "https://finance.ec.europa.eu/news/eu-seeks-nominations-stakeholder-group-tokenisation-standards-finance-2026-11-09_en",
+      "author": "",
+      "published": "2026-11-08T23:00:00",
+      "summary": "The group aims to establish a framework for monitoring compliance with the agreed standards and may formulate recommendations for EU&nbsp;authorities on how to incentivise compliance with&nbsp;those&nbsp;standards.",
+      "score": 37,
+      "score_breakdown": "+10 mots forts: compliance | +15 Source EU | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "469333a3c436eedc",
       "source_name": "CSSF Luxembourg (AML/CFT)",
       "source_type": "rss",
@@ -3821,6 +3929,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite de la détection de fraude et d'activités suspectes impliquant des fonds fédéraux."
+    },
+    {
+      "hash": "beb39de2ed320bea",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🔍 𝗗𝗼 𝘆𝗼𝘂 𝗸𝗻𝗼𝘄 𝘄𝗵𝗼 𝗶𝘀 𝗿𝗲𝗮𝗹𝗹𝘆 𝗯𝗲𝗵𝗶𝗻𝗱 𝘆𝗼𝘂𝗿 𝗯𝗮𝗻𝗸𝗶𝗻𝗴 𝗼𝗿 𝗽𝗮𝘆𝗺𝗲𝗻𝘁 𝗽𝗿𝗼𝗱𝘂𝗰𝘁? The brand you see is not always the company providing the serv...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7525503955062374400",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-11-09T10:26:00",
+      "summary": "🔍 𝗗𝗼 𝘆𝗼𝘂 𝗸𝗻𝗼𝘄 𝘄𝗵𝗼 𝗶𝘀 𝗿𝗲𝗮𝗹𝗹𝘆 𝗯𝗲𝗵𝗶𝗻𝗱 𝘆𝗼𝘂𝗿 𝗯𝗮𝗻𝗸𝗶𝗻𝗴 𝗼𝗿 𝗽𝗮𝘆𝗺𝗲𝗻𝘁 𝗽𝗿𝗼𝗱𝘂𝗰𝘁?\nThe brand you see is not always the company providing the service.\nMore consumers are accessing financial products through online platforms, retailers and other non-financial brands. When products are white labelled, they are marketed under one brand but provided by another company, making it less obvious who is ultimately responsible.\n\nTo help consumers make informed decisions, the European Banking Authority (EBA) has published",
+      "score": 37,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "95e8b015b5b329de",
@@ -4522,7 +4648,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4395769e6c5bf76e",
@@ -4540,7 +4666,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4b09befd3a7e60ed",
@@ -5026,7 +5152,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "27fab36a4d08e6da",
@@ -5386,7 +5512,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e602c9e73acb2a48",
@@ -5405,6 +5531,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cette décision de la Cour de cassation concerne la corruption, qui constitue un risque majeur de conformité financière et de lutte anti-blanchiment."
+    },
+    {
+      "hash": "bc7dda5390564092",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Digital innovation will be key in the drive to make the EU banking sector more competitive, Supervisory Board Chair Claudia Buch tells the Eurogroup. We must promote market integration and growth while safeguarding the resilience banks need to compete",
+      "url": "https://x.com/ecb/status/2119747422788239389",
+      "author": "@ecb",
+      "published": "2026-11-09T11:02:00",
+      "summary": "Digital innovation will be key in the drive to make the EU banking sector more competitive, Supervisory Board Chair Claudia Buch tells the Eurogroup.We must promote market integration and growth while safeguarding the resilience banks need to compete  bankingsupervision.europa.eu…— European Central Bank (@ecb) Nov 9, 2026",
+      "score": 15,
+      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "254083f9dedd65b9",
@@ -5566,7 +5710,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il expose des manquements graves en matière de lutte anti-corruption et de diligence raisonnable des établissements financiers."
+      "ai_summary": "Cet article concerne la conformité financière car il expose des manquements graves aux obligations de contrôle et de lutte anti-corruption des institutions financières."
     },
     {
       "hash": "86d0a910e176de3f",
@@ -5602,7 +5746,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "aa53e538cabab391",
@@ -5620,7 +5764,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la criminalisation des ententes illicites et de la lutte contre la corruption, éléments clés de la conformité."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la criminalisation de la manipulation d'appels d'offres à Hong Kong, relevant du respect des règles anticoncurrence."
     },
     {
       "hash": "5f15abcb88e3c4f1",
@@ -5998,7 +6142,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f33b7783ecefbbc9",
@@ -6181,7 +6325,7 @@
       "ai_summary": "Cet article concerne la protection des communications conjugales face aux enquêtes gouvernementales en matière de corruption."
     }
   ],
-  "last_update": "2026-11-09T06:57:52.144897+00:00",
+  "last_update": "2026-11-09T14:42:51.817381+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
