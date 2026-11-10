@@ -616,7 +616,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet article concerne la conformité financière car les sanctions de la CNIL imposent des obligations coûteuses de cybersécurité aux collectivités, affectant leur gestion budgétaire."
     },
     {
       "hash": "4a86fcee9536f28f",
@@ -958,7 +958,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il définit les nouveaux seuils légaux d'usure applicables aux crédits, que les établissements doivent respecter."
+      "ai_summary": "Cet article concerne la conformité financière car il fixe les nouveaux seuils légaux d'usure applicables aux crédits, que les établissements doivent respecter."
     },
     {
       "hash": "723cb30a3a61c461",
@@ -1085,6 +1085,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet arrêté définit les obligations de conformité relatives au gel des actifs et à la lutte contre le financement du terrorisme et de la prolifération."
+    },
+    {
+      "hash": "f12dcc5a9768a0af",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "The EBA streamlines the 2027 EU-wide stress test with more than 55% reduction in requested data",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-streamlines-2027-eu-wide-stress-test-more-55-reduction-requested-data",
+      "author": "Jana Jaklic",
+      "published": "2026-11-09T15:08:44",
+      "summary": "The European Banking Authority (EBA) today released the final methodology, draft templates, and template guidance for its 2027 EU-wide stress test, together with the key milestones for the exercise. Following extensive engagement with industry participants, the EBA has significantly streamlined the exercise, reducing the number of required data points by 55% through the simplification of reporting templates and closer alignment with supervisory reporting. These changes will reduce operational bu",
+      "score": 82,
+      "score_breakdown": "+20 mots forts: aml, eba | +10 mots moyens: supervisory, bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "7a97ffa735a39d0c",
@@ -1321,24 +1339,6 @@
       "ai_summary": "Cet article traite de la conformité financière car la Banque de France régule la sécurité technologique et la souveraineté des acteurs financiers."
     },
     {
-      "hash": "9d53fd3c7bb85cd0",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Procédures d'examen",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054971353",
-      "author": "",
-      "published": "2026-10-11T00:00:00",
-      "summary": "Assemblée nationaleSession ordinaire 2026-2027Procédures d'examenA. - Organisation de l'examen, en séance publique, de la seconde partie du projet de loi de finances pour 2027 (n° 3210)(Conférence des présidents du 29 septembre 2026)DISCUSSIONVOTESMardi 27 octobre (après-midi et soir) :- Action extérieure de l'Etat - Aide publique au développement ; Prêts à des Etats étrangers (compte spécial)• Vote sur les crédits de la mission Action extérieure de l'Etat ;• Vote sur les crédits de la mission A",
-      "score": 75,
-      "score_breakdown": "+10 mots forts: esma | +5 mots moyens: ppe | +25 Source FR | +10 Géo EU: esma | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne l'examen parlementaire du projet de loi de finances 2027, processus fondamental de conformité budgétaire et financière de l'État."
-    },
-    {
       "hash": "d36cf40a049021b8",
       "source_name": "CSSF Luxembourg (AML/CFT)",
       "source_type": "rss",
@@ -1480,7 +1480,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des réformes AML (lutte anti-blanchiment) à Taïwan, notamment la transparence des bénéficiaires et la conformité dans les actifs virtuels."
+      "ai_summary": "Cet article concerne les réformes anti-blanchiment de capitaux à Taïwan, incluant la transparence de la propriété effective et les services de paiement virtuels."
     },
     {
       "hash": "1166ab93ed73707a",
@@ -1498,7 +1498,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des risques de conformité liés à la lutte anti-blanchiment, sanctions, IA et cybersécurité en Irlande."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des nouvelles exigences réglementaires en Irlande incluant la prévention de la criminalité financière, les sanctions et la conformité aux règles anti-blanchiment."
     },
     {
       "hash": "0ff14730eba1dd83",
@@ -1678,7 +1678,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte anti-blanchiment et du financement du terrorisme, obligations réglementaires majeures."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte anti-blanchiment et du financement du terrorisme, obligations légales majeures pour les professionnels."
     },
     {
       "hash": "187ec16063303e88",
@@ -1807,6 +1807,24 @@
       "ai_summary": "Cet arrêté impose des obligations de transparence et d'information aux bailleurs, renforçant la conformité réglementaire des contrats de location."
     },
     {
+      "hash": "46e5120818b80b63",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 9 November, 2026",
+      "url": "https://www.eba.europa.eu/node/20174",
+      "author": "Anonymous",
+      "published": "2026-11-09T16:00:03",
+      "summary": "EBA E-mail alert 9 November, 2026\n\n  \n    Date\n          09/11/2026\n\n      \n\nAnonymous (not verified)\n\nMon, 11/09/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          The EBA publishes consumer factsheet on white-labelled financial products and services \n          The EBA streamlines the 2027 EU-wide stress test with more than 55% reduction in requested data\n      \n\n  \n    Procurement\n          Facilities and Corporate Support Services\n      ",
+      "score": 67,
+      "score_breakdown": "+20 mots forts: aml, eba | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA publie des informations destinées aux consommateurs sur les produits financiers, assurant la transparence et la conformité réglementaire."
+    },
+    {
       "hash": "8813eab7351b8e1f",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -1822,7 +1840,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la transparence et la protection des consommateurs dans les services financiers, piliers de la conformité réglementaire bancaire."
     },
     {
       "hash": "f19395c738e6b51c",
@@ -2182,7 +2200,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions, de leur contournement et de la protection du secteur bancaire international."
+      "ai_summary": "Cet article concerne la conformité financière car il aborde les sanctions, la lutte contre leur contournement et la sécurisation du secteur bancaire international."
     },
     {
       "hash": "51c8bc467b83d6b7",
@@ -2581,6 +2599,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la mise en œuvre des mesures restrictives (sanctions) de l'Union."
     },
     {
+      "hash": "61ce015cc7efe173",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Mexican crypto exchange banned from US financial system for alleged Russia, Iran ties",
+      "url": "https://globalinvestigationsreview.com/article/mexican-crypto-exchange-banned-us-financial-system-alleged-russia-iran-ties",
+      "author": "Dan Novak",
+      "published": "2026-11-09T22:33:04",
+      "summary": "FinCEN’s designation of MEXC for facilitating roughly $16 billion in illicit crypto flows avoids the broader consequences of formal sanctions by OFAC, one lawyer told GIR.",
+      "score": 54,
+      "score_breakdown": "+20 mots critiques: sanction | +10 mots forts: crypto | +3 Presse | +3 Géo Intl: ofac, fincen | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "fd6fa5cd2d57531b",
       "source_name": "Money Laundering News",
       "source_type": "press",
@@ -2632,7 +2668,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "13be93abc40daa0c",
@@ -2758,7 +2794,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Le rapport du FATF propose des mesures pour combattre les arnaque et fraudes en ligne, relevant de la conformité anti-blanchiment et lutte contre la fraude financière."
+      "ai_summary": "Le rapport du FATF propose des mesures pour combattre les fraudes et activités criminelles, relevant de la conformité financière et de la lutte anti-blanchiment."
     },
     {
       "hash": "1b514ccd10ae8b5b",
@@ -2920,7 +2956,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des lois de responsabilité extraterritoriale couvrant la corruption, la fraude, les sanctions et les crimes économiques."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la responsabilité pénale des entreprises pour fraude, corruption et violations de sanctions."
     },
     {
       "hash": "5909f5d293a23620",
@@ -3046,7 +3082,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5c5bfa3b982d004f",
@@ -3154,7 +3190,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1c6098506db014dc",
@@ -3190,7 +3226,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la transparence et l'identification des prestataires financiers derrière les produits de marque blanche, obligation de conformité réglementaire."
     },
     {
       "hash": "6fdcfcf8785f38f6",
@@ -3208,7 +3244,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la simplification réglementaire bancaire en Europe et son impact sur la conformité du secteur financier européen."
     },
     {
       "hash": "1f9c999def64fae2",
@@ -3481,6 +3517,24 @@
       "ai_summary": "FinCEN émet une alerte pour prévenir la fraude financière au Minnesota, relevant de la conformité anti-blanchiment."
     },
     {
+      "hash": "0ed6958c533dd423",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Denmark fines Nordea $22.5m over criminal AML failures",
+      "url": "https://globalinvestigationsreview.com/article/denmark-fines-nordea-225m-over-criminal-aml-failures",
+      "author": "Grace Propheta",
+      "published": "2026-11-09T16:35:40",
+      "summary": "Prosecutors had sought a $1 billion penalty against the Helsinki-headquartered bank, but the court only issued convictions on a fraction of the overall charges.",
+      "score": 42,
+      "score_breakdown": "+10 mots forts: aml | +5 mots moyens: bank | +3 Presse | +10 Géo EU: denmark | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "ada0e889a8e80b2f",
       "source_name": "ComplyAdvantage",
       "source_type": "press",
@@ -3496,7 +3550,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'un cyberattaque majeure affectant une plateforme crypto et les mesures de conformité à mettre en place."
     },
     {
       "hash": "9f32b51e0972b061",
@@ -3874,7 +3928,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'établissement de normes de tokenisation et de cadres de surveillance de leur respect."
     },
     {
       "hash": "469333a3c436eedc",
@@ -3946,7 +4000,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il aborde les risques de blanchiment de marque dans les services financiers et la nécessité de transparence réglementaire."
     },
     {
       "hash": "95e8b015b5b329de",
@@ -4648,24 +4702,6 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "4395769e6c5bf76e",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de MARSEILLE, 5ème chambre - formation à 3, 06 novembre 2026, 25MA00208",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEMARSEILLE-20261106-25MA00208",
-      "author": "5ème chambre - formation à 3",
-      "published": "2026-11-06T12:00:00",
-      "summary": "Vu la procédure suivante :     Procédure antérieure :    Par une requête enregistrée sous le n° 2207542, la société Air Algérie a demandé au tribunal administratif de Marseille d’annuler la décision du 3 février 2022 par laquelle l’inspectrice du travail a refusé sa demande d’autorisation de licenciement de Mme A... U... ainsi que la décision implicite née le 7 juillet 2022 par laquelle le ministre du travail a rejeté son recours hiérarchique, d’enjoindre à l’inspectrice du travail de se prononc",
-      "score": 30,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
       "ai_summary": "Hors périmètre compliance"
     },
     {
@@ -4993,6 +5029,24 @@
       "ai_summary": "Les entreprises doivent adapter leurs programmes de conformité aux changements réglementaires du droit du travail fédéral."
     },
     {
+      "hash": "4395769e6c5bf76e",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour administrative d'appel de MARSEILLE, 5ème chambre - formation à 3, 06 novembre 2026, 25MA00208",
+      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEMARSEILLE-20261106-25MA00208",
+      "author": "5ème chambre - formation à 3",
+      "published": "2026-11-06T12:00:00",
+      "summary": "Vu la procédure suivante :     Procédure antérieure :    Par une requête enregistrée sous le n° 2207542, la société Air Algérie a demandé au tribunal administratif de Marseille d’annuler la décision du 3 février 2022 par laquelle l’inspectrice du travail a refusé sa demande d’autorisation de licenciement de Mme A... U... ainsi que la décision implicite née le 7 juillet 2022 par laquelle le ministre du travail a rejeté son recours hiérarchique, d’enjoindre à l’inspectrice du travail de se prononc",
+      "score": 25,
+      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "943a072fd3fef25c",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
@@ -5135,24 +5189,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les stress tests révèlent les faiblesses du système financier et améliorent la préparation aux crises, renforçant ainsi la conformité réglementaire."
-    },
-    {
-      "hash": "4cf8020e18407d78",
-      "source_name": "Ministère de la Justice (CJIP)",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Dépêche relative à l’information du Parquet National Anti-terroriste et des autres parquets spécialisés sur les faits commis dans le cadre des violences urbaines survenues à compter du 17 octobre 2026",
-      "url": "https://www.justice.gouv.fr/documentation/bulletin-officiel/depeche-relative-linformation-du-parquet-national-anti-terroriste-autres-parquets",
-      "author": "DELIBIE Martine",
-      "published": "2026-10-26T09:21:10",
-      "summary": "Dépêche relative à l’information du Parquet National Anti-terroriste et des autres parquets spécialisés sur les faits commis dans le cadre des violences urbaines survenues à compter du 17 octobre 2026\nDELIBIE Martine\nlun 26/10/2026 - 10:21\n",
-      "score": 20,
-      "score_breakdown": "+25 Source FR | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "27fab36a4d08e6da",
@@ -5512,7 +5548,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e602c9e73acb2a48",
@@ -5548,7 +5584,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article traite de la supervision bancaire et de la résilience des banques, éléments clés de la conformité réglementaire financière."
     },
     {
       "hash": "254083f9dedd65b9",
@@ -5710,7 +5746,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il expose des manquements graves aux obligations de contrôle et de lutte anti-corruption des institutions financières."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de corruption impliquant des banques et fonds d'investissement, soulevant des enjeux de lutte anti-blanchiment et de conformité réglementaire."
     },
     {
       "hash": "86d0a910e176de3f",
@@ -5746,6 +5782,24 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "e397f1c2f24d7c56",
+      "source_name": "FinCEN",
+      "source_type": "scrape",
+      "category": "autorite_intl",
+      "title": "READOUT: FinCEN Hosts Exchange Event to Combat Overseas Scam Centers",
+      "url": "https://www.fincen.gov/news/news-releases/readout-fincen-hosts-exchange-event-combat-overseas-scam-centers",
+      "author": "",
+      "published": "2026-11-09T00:00:00",
+      "summary": "",
+      "score": 9,
+      "score_breakdown": "+5 Source Intl | +3 Géo Intl: fincen | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
       "ai_summary": null
     },
     {
@@ -5764,7 +5818,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la criminalisation de la manipulation d'appels d'offres à Hong Kong, relevant du respect des règles anticoncurrence."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la criminalisation des ententes illicites et de la lutte contre la fraude, domaines clés de la conformité."
     },
     {
       "hash": "5f15abcb88e3c4f1",
@@ -5965,6 +6019,24 @@
       "ai_summary": "Cette affaire concerne la conformité des prestataires de services de paiement aux obligations de remboursement des transactions non autorisées."
     },
     {
+      "hash": "80491d795f10a76a",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Counter Terrorism Designation Update | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20261109",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-11-09T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "3b158b269300298a",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -6142,7 +6214,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f33b7783ecefbbc9",
@@ -6179,6 +6251,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Accord de règlement concernant le non-respect des sanctions financières imposées par l'OFAC."
+    },
+    {
+      "hash": "32f83a965d994295",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Swiss tech exec admits to Brazil bribery, will forfeit $15m",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/swiss-tech-exec-admits-brazil-bribery-will-forfeit-15m",
+      "author": "Estelle Atkinson",
+      "published": "2026-11-09T22:18:18",
+      "summary": "A former executive at Lausanne-based SICPA has pleaded guilty to conspiring to bribe Brazilian officials for business with the country’s mint in a case recently unsealed in Manhattan federal court.",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "98203ecc43e33462",
@@ -6325,7 +6415,7 @@
       "ai_summary": "Cet article concerne la protection des communications conjugales face aux enquêtes gouvernementales en matière de corruption."
     }
   ],
-  "last_update": "2026-11-09T22:35:06.861157+00:00",
+  "last_update": "2026-11-10T01:00:43.305591+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
