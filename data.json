@@ -616,7 +616,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La CNIL sanctionne des entités pour manquements à la cybersécurité, aspect clé de la conformité réglementaire et de la protection des données financières et sensibles."
+      "ai_summary": "La CNIL sanctionne des défaillances de cybersécurité, relevant de la conformité réglementaire en matière de protection des données personnelles."
     },
     {
       "hash": "4a86fcee9536f28f",
@@ -958,7 +958,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière en définissant les nouveaux seuils d'usure applicables aux crédits, que les établissements doivent respecter légalement."
+      "ai_summary": "Cet article concerne la conformité financière car il définit les nouveaux seuils légaux d'usure applicables aux établissements de crédit à partir de novembre 2026."
     },
     {
       "hash": "723cb30a3a61c461",
@@ -1321,24 +1321,6 @@
       "ai_summary": "Bank of America a été sanctionnée pour violations de conformité AML et sanctions, domaines clés de la compliance financière."
     },
     {
-      "hash": "7c392e3f524b3a01",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Résolutions",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075631",
-      "author": "",
-      "published": "2026-11-10T00:00:00",
-      "summary": "SénatSession ordinaire 2026-2027Résolutions adoptées en application de l'article 88-6 de la ConstitutionEst devenue résolution du Sénat le 8 novembre 2026, conformément à l'article 73 octies du Règlement du Sénat, la proposition de résolution européenne de la commission des lois dont la teneur suit :Résolution européenne portant avis motivé sur la conformité au principe de subsidiarité de la proposition de règlement du Parlement européen et du Conseil relatif à l'Agence de l'Union européenne pou",
-      "score": 75,
-      "score_breakdown": "+10 mots forts: conformité | +5 mots moyens: règlement | +25 Source FR | +10 Géo EU: union européenne, parlement européen | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "a17232cdc0c912bd",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -1516,7 +1498,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il aborde les risques de conformité liés à la lutte contre la criminalité financière et les sanctions."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des nouvelles exigences réglementaires en Irlande incluant la lutte contre la criminalité financière, les sanctions, et les risques de conformité accrus pour les entreprises."
     },
     {
       "hash": "0ff14730eba1dd83",
@@ -1696,7 +1678,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte anti-blanchiment et du financement du terrorisme, obligations réglementaires essentielles."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre le blanchiment de capitaux et le financement du terrorisme, obligations de conformité essentielles."
     },
     {
       "hash": "187ec16063303e88",
@@ -2095,6 +2077,24 @@
       "ai_summary": "Cet article traite des sanctions russes et du rôle des fournisseurs technologiques dans la définition des normes de conformité réglementaire."
     },
     {
+      "hash": "7c392e3f524b3a01",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Résolutions",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075631",
+      "author": "",
+      "published": "2026-11-10T00:00:00",
+      "summary": "SénatSession ordinaire 2026-2027Résolutions adoptées en application de l'article 88-6 de la ConstitutionEst devenue résolution du Sénat le 8 novembre 2026, conformément à l'article 73 octies du Règlement du Sénat, la proposition de résolution européenne de la commission des lois dont la teneur suit :Résolution européenne portant avis motivé sur la conformité au principe de subsidiarité de la proposition de règlement du Parlement européen et du Conseil relatif à l'Agence de l'Union européenne pou",
+      "score": 60,
+      "score_breakdown": "+10 mots forts: conformité | +5 mots moyens: règlement | +25 Source FR | +10 Géo EU: union européenne, parlement européen | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "ec68cf04b766843e",
       "source_name": "ACPR",
       "source_type": "rss",
@@ -2218,7 +2218,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la contournement des sanctions, la protection du secteur bancaire et l'évasion par cryptomonnaies."
+      "ai_summary": "Cet article concerne la conformité financière car il aborde les sanctions, la lutte contre la contournement des sanctions et la prévention de la fraude bancaire et crypto."
     },
     {
       "hash": "51c8bc467b83d6b7",
@@ -2632,7 +2632,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de conformité financière car il concerne le blanchiment de capitaux et le financement illicite dans les cryptomonnaies, domaines clés de la lutte anti-blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du gel d'une plateforme crypto pour blanchiment et violations de sanctions internationales."
     },
     {
       "hash": "fd6fa5cd2d57531b",
@@ -2956,7 +2956,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il aborde les lois de responsabilité extraterritoriale couvrant la corruption, la fraude et les sanctions."
+      "ai_summary": "Cet article traite de la conformité financière car il couvre les lois de responsabilité extraterritoriale du Royaume-Uni concernant les crimes économiques, la corruption et les sanctions."
     },
     {
       "hash": "5909f5d293a23620",
@@ -3082,7 +3082,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5c5bfa3b982d004f",
@@ -3190,7 +3190,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car le Listing Act établit un cadre réglementaire pour les sociétés cotées, incluant obligations de prospectus et prévention des abus de marché."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du Listing Act, cadre réglementaire des sociétés cotées."
     },
     {
       "hash": "1c6098506db014dc",
@@ -3226,7 +3226,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la réduction du fardeau de reporting des banques lors du test de résistance de l'UE 2027."
     },
     {
       "hash": "982e9246aaf0e1cd",
@@ -3496,7 +3496,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du gel d'actifs, de sanctions OFAC et de lutte contre le financement illicite."
     },
     {
       "hash": "3658174ad597c87d",
@@ -3604,7 +3604,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'un vol crypto majeur lié à la Corée du Nord et des mesures que les équipes de conformité doivent adopter."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une cyberattaque majeure et des mesures que les équipes de compliance doivent mettre en place."
     },
     {
       "hash": "9f32b51e0972b061",
@@ -4234,7 +4234,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "994d231ab2bf357c",
@@ -4288,7 +4288,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "eb1bfe19eb8b8077",
@@ -4792,7 +4792,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4b09befd3a7e60ed",
@@ -5134,7 +5134,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "943a072fd3fef25c",
@@ -5551,6 +5551,24 @@
       "ai_summary": "Cet article concerne la conformité aux sanctions financières et commerciales imposées à la Russie."
     },
     {
+      "hash": "420df076930556b1",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Kodiak Gas Services negotiating DOJ, OFAC resolution",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/kodiak-gas-services-negotiating-doj-ofac-resolution",
+      "author": "Duncan Randall",
+      "published": "2026-11-10T22:26:22",
+      "summary": "The Texas-headquartered company said it will probably need to pay up after an internal investigation found payments by a Mexican subsidiary “likely” went to a designated terrorist group.",
+      "score": 16,
+      "score_breakdown": "+5 mots moyens: payment | +3 Presse | +3 Géo Intl: ofac, doj | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "48e362c924b18f6c",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -5566,7 +5584,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du respect de la loi anti-terrorisme de 2016 et de la lutte contre le financement du terrorisme."
     },
     {
       "hash": "6232a0b4f00d8bea",
@@ -5656,7 +5674,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e602c9e73acb2a48",
@@ -5854,7 +5872,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il expose des violations de lutte anti-corruption impliquant des institutions financières et des intermédiaires."
+      "ai_summary": "Cet article concerne la conformité financière car il expose des violations de règles anti-corruption impliquant des banques, fonds et intermédiaires financiers."
     },
     {
       "hash": "86d0a910e176de3f",
@@ -5908,7 +5926,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la criminalisation de pratiques anticoncurrentielles et de collusion, relevant de la conformité réglementaire et de la lutte contre la fraude."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la criminalisation des ententes illicites et de la lutte contre la corruption à Hong Kong."
     },
     {
       "hash": "5f15abcb88e3c4f1",
@@ -6304,7 +6322,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "f33b7783ecefbbc9",
@@ -6358,7 +6376,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de corruption et de pots-de-vin versés à des officiels brésiliens, violant les lois anti-corruption et les standards de conformité."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une affaire de corruption internationale et de blanchiment impliquant un cadre suisse."
     },
     {
       "hash": "98203ecc43e33462",
@@ -6505,7 +6523,7 @@
       "ai_summary": "Cet article concerne la protection des communications conjugales face aux enquêtes gouvernementales en matière de corruption."
     }
   ],
-  "last_update": "2026-11-10T22:41:18.653430+00:00",
+  "last_update": "2026-11-11T03:46:15.164549+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
