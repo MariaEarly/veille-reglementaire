@@ -1336,7 +1336,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du respect des règles d'étiquetage et d'origine des produits, obligations légales de conformité commerciale et de transparence."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du respect des règles d'étiquetage et de traçabilité des produits, obligations légales en matière de conformité réglementaire et de fraude commerciale."
     },
     {
       "hash": "b96f834981b3f200",
@@ -1390,7 +1390,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des risques de conformité liés à la lutte contre la criminalité financière, les sanctions et le blanchiment."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des nouvelles exigences réglementaires en Irlande incluant la lutte contre la criminalité financière, les sanctions et le renforcement des risques de conformité."
     },
     {
       "hash": "0ff14730eba1dd83",
@@ -1481,42 +1481,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'article traite de la conformité financière via le MiCA 2, la régulation des stablecoins et les obligations fiscales crypto."
-    },
-    {
-      "hash": "805ff407414fbba9",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Paymium obtient son agrément de l'ACPR",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/video-paymium-obtient-son-agrement-de-l-acpr_VN-202610160585.html",
-      "author": "",
-      "published": "2026-10-16T15:00:00",
-      "summary": "Ce vendredi 16 octobre, Paymium obtenant son agrément de l'ACPR, l'intégration du Groupe Partouche au paiement en crypto, et les changements dans la fiscalité crypto en 2027, ont été abordés par Laetitia Zito, directrice générale de Paymium, Maurice Schulmann, directeur de la technologie et de l'innovation du Groupe Partouche, Pauline Armandet, journaliste BFM Cryptos, et Maurgane NLandu, fondatrice de Cryptos-360, reçus par Sandra Gandoin dans l'émission BFM Crypto, le Club sur BFM Business.",
-      "score": 72,
-      "score_breakdown": "+20 mots forts: acpr, crypto, agrément | +5 mots moyens: paiement | +3 Presse | +20 Géo FR: acpr | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Paymium obtient son agrément de l'ACPR, marquant sa conformité réglementaire aux normes financières françaises."
-    },
-    {
-      "hash": "54174aaaaf9418cd",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "BFM Crypto, le Club : Paymium obtient son agrément de l'ACPR - 16/10",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-crypto-le-club/video-bfm-crypto-le-club-paymium-obtient-son-agrement-de-l-acpr-16-10_VN-202610160568.html",
-      "author": "",
-      "published": "2026-10-16T13:58:34",
-      "summary": "Ce vendredi 16 octobre, Paymium obtenant son agrément de l'ACPR, l'intégration du Groupe Partouche au paiement en crypto, et les changements dans la fiscalité crypto en 2027, ont été abordés par Laetitia Zito, directrice générale de Paymium, Maurice Schulmann, directeur de la technologie et de l'innovation du Groupe Partouche, Pauline Armandet, journaliste BFM Cryptos, et Maurgane NLandu, fondatrice de Cryptos-360, reçus par Sandra Gandoin dans l'émission BFM Crypto, le Club sur BFM Business. Re",
-      "score": 72,
-      "score_breakdown": "+20 mots forts: acpr, crypto, agrément | +5 mots moyens: paiement | +3 Presse | +20 Géo FR: acpr | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "L'obtention de l'agrément de l'ACPR par Paymium concerne directement la conformité financière et réglementaire des activités crypto-monnaies."
     },
     {
       "hash": "f6374596ca0d822a",
@@ -2437,24 +2401,6 @@
       "ai_summary": "L'EBA annonce l'extension de délais de consultation suite à une maintenance de site web."
     },
     {
-      "hash": "54cec4592ee52995",
-      "source_name": "EBA - European Banking Authority",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "EBA E-mail alert 16 October, 2026",
-      "url": "https://www.eba.europa.eu/node/20106",
-      "author": "Anonymous",
-      "published": "2026-10-16T15:00:03",
-      "summary": "EBA E-mail alert 16 October, 2026\n\n  \n    Date\n          16/10/2026\n\n      \n\nAnonymous (not verified)\n\nFri, 10/16/2026 - 17:00\n\n\n            \n\n      \n  \n    Final Q&amp;As\n          2026_7854 Incoherent formulae on the validation rule v0478_m\n          2026_7867 Validity of validation rule v903610\n      ",
-      "score": 52,
-      "score_breakdown": "+10 mots forts: eba | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite de questions-réponses techniques sur des règles de validation bancaires, relevant de la conformité réglementaire financière."
-    },
-    {
       "hash": "2ff953ff9ba2a7bb",
       "source_name": "FinCEN",
       "source_type": "scrape",
@@ -2614,7 +2560,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "0a5754d0f06ab6e4",
@@ -2704,7 +2650,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il couvre les lois anti-corruption, anti-fraude, sanctions et responsabilité pénale des entreprises."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des lois de responsabilité extraterritoriale couvrant la corruption, la fraude et les sanctions."
     },
     {
       "hash": "5909f5d293a23620",
@@ -3226,7 +3172,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'un vol cryptomonnaies majeur lié à la Corée du Nord, pertinent pour la conformité et la prévention de la criminalité financière."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'un incident de cybersécurité majeur affectant une plateforme crypto et les mesures de compliance requises."
     },
     {
       "hash": "9f32b51e0972b061",
@@ -3309,14 +3255,14 @@
       "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20261110-510245",
       "author": "2ème chambre jugeant seule",
       "published": "2026-11-10T12:00:00",
-      "summary": "Vu la procédure suivante :    Par une requête enregistrée le 1er décembre 2025, au secrétariat du contentieux du Conseil d’Etat, M. D... F... demande au Conseil d’État d'annuler pour excès de pouvoir le décret du 7 octobre 2025 rapportant le décret du 19 janvier 2021 lui accordant la nationalité française.     Il soutient que le décret qu’il attaque est entaché d’erreur d’appréciation en retenant qu’il a commis une fraude et porte une atteinte disproportionnée à sa situation personnelle et famil",
+      "summary": "Vu la procédure suivante :    Par une requête enregistrée le 1er décembre 2025, au secrétariat du contentieux du Conseil d’Etat, M. U... K... demande au Conseil d’État d'annuler pour excès de pouvoir le décret du 7 octobre 2025 rapportant le décret du 19 janvier 2021 lui accordant la nationalité française.     Il soutient que le décret qu’il attaque est entaché d’erreur d’appréciation en retenant qu’il a commis une fraude et porte une atteinte disproportionnée à sa situation personnelle et famil",
       "score": 40,
       "score_breakdown": "+20 mots critiques: fraude, fraud | +20 Géo FR: france, français, française | ×1.0 (7d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "9d244e86c78bb830",
@@ -3856,7 +3802,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "994d231ab2bf357c",
@@ -3929,6 +3875,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne les politiques budgétaires et déficitaires, domaines relevant de la conformité financière et de la gouvernance économique."
+    },
+    {
+      "hash": "96f36337e37ff961",
+      "source_name": "Fintech Business Weekly",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Money20/20 Recap, “Debanking,” & Free Speech",
+      "url": "https://fintechbusinessweekly.substack.com/p/money2020-recap-debanking-and-free",
+      "author": "Jason Mikula",
+      "published": "2026-11-04T15:07:00",
+      "summary": "October&#8217;s biggest stories in banking, fintech & crypto",
+      "score": 34,
+      "score_breakdown": "+20 mots forts: crypto, eba | +10 mots moyens: fintech, bank | +3 Presse | +10 Géo EU: eba | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "9f3fd1164799e47d",
@@ -4324,7 +4288,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "42b529ecbe7d1356",
@@ -4336,24 +4300,6 @@
       "author": "5ème chambre jugeant seule",
       "published": "2026-11-13T12:00:00",
       "summary": "Vu la procédure suivante :    La société Soropar Group a demandé à la cour administrative d’appel de Paris d’annuler les décisions du 5 juin 2024 par lesquelles l’Autorité de régulation de la communication audiovisuelle et numérique ARCOM a rejeté sa candidature pour l'exploitation d'un service de radio de catégorie B dénommé Plein Cœur dans les zones de Belfort et de Montbéliard. Par un arrêt n° 24PA03944 du 30 septembre 2025, la cour administrative d’appel a rejeté sa demande.    Par un pourvo",
-      "score": 30,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "6a4e6024ef0ccc50",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de DOUAI, 2e chambre - formation à 3, 12 novembre 2026, 25DA01109",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDEDOUAI-20261112-25DA01109",
-      "author": "2e chambre - formation à 3",
-      "published": "2026-11-12T12:00:00",
-      "summary": "Vu la procédure suivante :    I. Sous le n° 25DA01109, par une requête et des mémoires enregistrés, le 23 juin 2025 et les 11 décembre 2025 et 3 septembre 2026, la société des éoliennes de Corbillon, représentée par Me Guiheux, demande à la cour :     1° d’annuler l’arrêté du 30 avril 2025 par lequel le préfet de la Somme a rejeté sa demande d’autorisation environnementale portant sur la construction et l’exploitation d’un parc éolien dénommé « Corbillon-Est », composé de sept aérogénérateurs et",
       "score": 30,
       "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.2 (<3d)",
       "doc_type": null,
@@ -4469,6 +4415,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Le FATF réunit 200+ juridictions pour discuter des menaces à l'intégrité financière mondiale et de la conformité."
+    },
+    {
+      "hash": "9ff1a6460af32f00",
+      "source_name": "Fintech Business Weekly",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Kontigo’s License Suspended, Cutting The Venezuelan Crypto App Off From Country’s Banking System",
+      "url": "https://fintechbusinessweekly.substack.com/p/kontigos-license-suspended-cutting",
+      "author": "Jason Mikula",
+      "published": "2026-11-15T13:59:27",
+      "summary": "Synapse Founder&#8217;s New Startup Can&#8217;t Make Payroll After CEO Took $4.6M Loan For Luxury House, CNBC Reports",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: crypto | +5 mots moyens: bank | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "e2a2e9045ca892a3",
@@ -4612,7 +4576,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "943a072fd3fef25c",
@@ -4774,7 +4738,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "27fab36a4d08e6da",
@@ -5062,7 +5026,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e602c9e73acb2a48",
@@ -5710,7 +5674,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière via les cadres légaux d'enquêtes internes, protections de confidentialité et responsabilité corporative à Taïwan."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des cadres légaux régissant les enquêtes internes à Taiwan et les protections de confidentialité essentielles pour la conformité."
     },
     {
       "hash": "32f83a965d994295",
@@ -5837,45 +5801,9 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Un ancien trader conteste le remboursement de pots-de-vin à Pemex, soulevant des enjeux de conformité anticorruption et de responsabilité financière."
-    },
-    {
-      "hash": "c67993f18b8b6b70",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Balt exec accused of foreign bribery urges court to call on former colleague",
-      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/balt-exec-accused-of-foreign-bribery-urges-court-call-former-colleague",
-      "author": "Estelle Atkinson",
-      "published": "2026-10-16T17:28:01",
-      "summary": "David Ferrera has argued that the unidentified colleague played a “central role” in a scheme to bribe a French hospital employee, but was shielded by a Balt probe “designed to insulate executives”.",
-      "score": 4,
-      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'accusations de corruption étrangère et de manquements aux règles anticorruption."
-    },
-    {
-      "hash": "2947a1bbc59efd4e",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Le régulateur des télécoms peine à rassurer la filière sur l’équilibre économique des réseaux ruraux de fibre optique",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/16/le-regulateur-des-telecoms-peine-a-rassurer-la-filiere-sur-l-equilibre-economique-des-reseaux-ruraux-de-fibre-optique_6795567_3234.html",
-      "author": "",
-      "published": "2026-10-16T15:04:01",
-      "summary": "L’Autorité de régulation des communications électroniques, des postes et de la distribution de la presse a pris des dispositions pour permettre aux gestionnaires des réseaux de fibre optique dans les campagnes d’absorber des surcoûts liés à l’entretien de ces infrastructures. Mais les industriels les jugent insuffisantes.",
-      "score": 4,
-      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne l'équilibre économique et la régulation tarifaire des réseaux ruraux, relevant de la conformité réglementaire des télécoms."
     }
   ],
-  "last_update": "2026-11-15T18:59:53.363301+00:00",
+  "last_update": "2026-11-15T22:18:25.885780+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
