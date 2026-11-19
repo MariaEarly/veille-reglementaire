@@ -760,7 +760,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret concerne la conformité financière car il régule la transmission de données financières d'entreprises par la Banque de France aux assureurs et gestionnaires."
+      "ai_summary": "Ce décret concerne la conformité financière car il régit les obligations de communication de données financières des entreprises par la Banque de France aux assureurs et gestionnaires."
     },
     {
       "hash": "24c9e432b9fac063",
@@ -904,7 +904,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la souveraineté monétaire et de la confiance dans les systèmes de paiement numériques, enjeux clés de la régulation."
+      "ai_summary": "Cet article traite de la conformité financière en abordant la souveraineté monétaire et la confiance dans les paiements numériques, enjeux clés de la régulation financière."
     },
     {
       "hash": "b394ea6622e9f935",
@@ -1031,24 +1031,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet arrêté régit l'application des obligations de lutte contre le blanchiment de capitaux et le financement du terrorisme dans le secteur financier."
-    },
-    {
-      "hash": "3558aeb6e900fd15",
-      "source_name": "AMF - Actualités",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "La SEC et l'AMF concluent un accord renforçant la coopération en matière de supervision des conseillers en investissement et de prestataires de services d'investissement",
-      "url": "https://www.amf-france.org/fr/actualites-publications/communiques/communiques-de-lamf/la-sec-et-lamf-concluent-un-accord-renforcant-la-cooperation-en-matiere-de-supervision-des#xts=607212&xtor=RSS-3&type=RSS",
-      "author": "",
-      "published": "2026-10-20T13:06:38",
-      "summary": "Communiqué AMF                  Coopération              Europe &amp; international              Gestion d&#039;actifs              Supervision              Conseil en investissement                    La SEC et l&#039;AMF concluent un accord renforçant la coopération en matière de supervision des conseillers en investissement et de prestataires de services...",
-      "score": 82,
-      "score_breakdown": "+10 mots forts: amf | +25 Source FR | +20 Géo FR: amf | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet accord renforce la supervision transfrontalière des conseillers en investissement, élément clé de la conformité financière réglementaire."
     },
     {
       "hash": "f12dcc5a9768a0af",
@@ -1195,22 +1177,40 @@
       "ai_summary": "Cet article traite des changements que les équipes de conformité philippines doivent adopter concernant la lutte contre le blanchiment d'argent."
     },
     {
-      "hash": "c763f3199a04cfff",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "TD Bank settles discrimination claim over AML programme",
-      "url": "https://globalinvestigationsreview.com/article/td-bank-settles-discrimination-claim-over-aml-programme",
-      "author": "Sam Fry",
-      "published": "2026-10-20T09:55:58",
-      "summary": "The bank has reached a tentative deal to resolve allegations that its compliance team targeted workers with Chinese backgrounds to “placate” US government investigators and create the appearance of an effective anti-money laundering programme.",
-      "score": 79,
-      "score_breakdown": "+20 mots critiques: money laundering | +20 mots forts: aml, compliance, anti-money | +10 mots moyens: bank, ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
+      "hash": "04401cd1db7c77fd",
+      "source_name": "CNIL",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Conservation des mots de passe clients en clair : la CNIL prononce une sanction de 5 millions d’euros",
+      "url": "https://www.cnil.fr/fr/conservation-des-mots-de-passe-sanction-5-millions-deuros",
+      "author": "CNIL",
+      "published": "2026-11-18T12:00:00",
+      "summary": "En novembre 2026, la CNIL a infligé une sanction de 5&amp;nbsp;millions d’euros à une société en raison de l’insuffisance des mesures prises pour assurer la sécurité des données de ses clients et d’une durée excessive de conservation des données.",
+      "score": 78,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: cnil | ×1.2 (<3d)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une violation du programme AML et de discriminations au sein de l'équipe compliance."
+      "ai_summary": "La CNIL sanctionne une entreprise pour défaut de sécurité des données clients et conservation excessive, relevant de la conformité RGPD et protection des données."
+    },
+    {
+      "hash": "84c81a4985ea74b6",
+      "source_name": "CNIL",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "La CNIL a prononcé 38 nouvelles sanctions en procédure simplifiée depuis juin 2026",
+      "url": "https://www.cnil.fr/fr/38-sanctions-simplifiees",
+      "author": "CNIL",
+      "published": "2026-11-17T12:00:00",
+      "summary": "Cookies, sécurité des données, prospection commerciale, non-coopération&amp;nbsp;: entre juin et octobre 2026, la CNIL a prononcé 38&amp;nbsp;nouvelles sanctions dans le cadre de la procédure simplifiée, dont 23 ont pour origine des plaintes.",
+      "score": 78,
+      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | +20 Géo FR: cnil | ×1.2 (<3d)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "47de30e496beab87",
@@ -1229,6 +1229,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Block doit payer près d'un milliard de dollars suite à des manquements en matière de lutte contre le blanchiment d'argent."
+    },
+    {
+      "hash": "930414a216b6926b",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Euro Finance Week: AMLA Executive Board Member Derville Rowland holds roundtable with financial sector leaders",
+      "url": "https://www.amla.europa.eu/news-media/news-articles/euro-finance-week-amla-executive-board-member-derville-rowland-holds-roundtable-financial-sector_en",
+      "author": "",
+      "published": "2026-11-19T14:31:47",
+      "summary": "AMLA Executive Board Member Derville Rowland held a roundtable with around 15 senior representatives of banks and financial institutions at Euro Finance Week in Frankfurt on 16 November 2026.",
+      "score": 75,
+      "score_breakdown": "+20 mots forts: aml, amla | +5 mots moyens: bank | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "d36cf40a049021b8",
@@ -1426,7 +1444,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la criminalité financière, les sanctions, et de nouvelles règles de conformité en Irlande."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des risques de conformité liés à la lutte contre la criminalité financière, les sanctions et la cybersécurité en Irlande."
     },
     {
       "hash": "0ff14730eba1dd83",
@@ -1535,6 +1553,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions de Fintrac pour non-respect des normes anti-blanchiment au Canada."
+    },
+    {
+      "hash": "6f7406a76a11f56a",
+      "source_name": "AMF - Actualités",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Webinaire - L'actualité du financement participatif à destination des professionnels",
+      "url": "https://www.amf-france.org/fr/actualites-publications/evenements-de-lamf/colloques-et-conferences-de-lamf/webinaire-lactualite-du-financement-participatif-destination-des-professionnels#xts=607212&at_medium=RSS feeds&at_campaign=Toutes les actualités et publications&type=RSS",
+      "author": "",
+      "published": "2026-11-19T14:11:55",
+      "summary": "Support événement                  Prestataires financiers              Services d&#039;investissement              Lutte anti blanchiment                    Webinaire - L&#039;actualité du financement participatif à destination des professionnels",
+      "score": 67,
+      "score_breakdown": "+20 mots critiques: blanchiment | +25 Source FR | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car le financement participatif est soumis à la lutte anti-blanchiment et à la réglementation des services d'investissement."
     },
     {
       "hash": "b3c99e6076805c41",
@@ -1861,24 +1897,6 @@
       "ai_summary": "Article concernant une conférence de l'ACPR sur la régulation bancaire européenne et la conformité prudentielle des établissements financiers."
     },
     {
-      "hash": "50146f5897b4f5c6",
-      "source_name": "CNIL",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Journée RGPD à Poitiers : cybersécurité, IA et conformité au cœur des enjeux de protection des données",
-      "url": "https://www.cnil.fr/fr/journee-rgpd-2026-poitiers",
-      "author": "CNIL",
-      "published": "2026-10-20T12:00:00",
-      "summary": "La CNIL organise une nouvelle Journée RGPD à Poitiers le 1er décembre 2026. Cet évènement sera l’occasion d’échanger avec les acteurs du territoire sur les actualités en matière de protection des données personnelles et les enjeux concrets auxquels sont confrontés les professionnels.",
-      "score": 66,
-      "score_breakdown": "+10 mots forts: conformité | +25 Source FR | +20 Géo FR: cnil | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne indirectement la conformité financière car les amendes RGPD représentent un risque financier majeur pour les entreprises."
-    },
-    {
       "hash": "862230aaeb2cabb4",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -2020,7 +2038,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision bancaire, du risque de change et de la part de marché des banques étrangères dans l'UE."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la surveillance réglementaire des banques étrangères dans l'UE et des risques de change."
     },
     {
       "hash": "6f92e7c0254b4bd9",
@@ -2257,24 +2275,6 @@
       "ai_summary": "L'AMF et l'ACPR alertent sur des acteurs non autorisés proposant des investissements en Forex et cryptoactifs, concernant la conformité réglementaire."
     },
     {
-      "hash": "00952a76cee4c2ec",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🔐 𝗖𝗼𝘂𝗹𝗱 𝘆𝗼𝘂 𝗵𝗲𝗹𝗽 𝘀𝘁𝗿𝗲𝗻𝗴𝘁𝗵𝗲𝗻 𝘁𝗵𝗲 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝗿𝗲𝘀𝗶𝗹𝗶𝗲𝗻𝗰𝗲 𝗼𝗳 𝗘𝘂𝗿𝗼𝗽𝗲'𝘀 𝗳𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝘀𝗲𝗰𝘁𝗼𝗿? The European Supervisory Authorities (European Ba...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7518220546875101185",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-10-20T08:04:20",
-      "summary": "🔐 𝗖𝗼𝘂𝗹𝗱 𝘆𝗼𝘂 𝗵𝗲𝗹𝗽 𝘀𝘁𝗿𝗲𝗻𝗴𝘁𝗵𝗲𝗻 𝘁𝗵𝗲 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝗿𝗲𝘀𝗶𝗹𝗶𝗲𝗻𝗰𝗲 𝗼𝗳 𝗘𝘂𝗿𝗼𝗽𝗲'𝘀 𝗳𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝘀𝗲𝗰𝘁𝗼𝗿?\nThe European Supervisory Authorities (European Banking Authority (EBA), European Insurance and Occupational Pensions Authority (EIOPA) & European Securities and Markets Authority (ESMA)) are looking for a DORA Joint Examination Team (JET) Lead to contribute to the oversight of critical ICT third-party service providers under #DORA.\n\n💼 In this role, you will: \n🔹 Lead and coordinate joint examination teams bringing to",
-      "score": 60,
-      "score_breakdown": "+20 mots forts: dora, eba, esma | +10 mots moyens: supervisory, bank | +10 Géo EU: eba, esma, dora | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la résilience numérique du secteur financier européen et l'application de la directive DORA sur la conformité cybersécurité."
-    },
-    {
       "hash": "eed627ceccf4ceeb",
       "source_name": "Corporate Compliance Insights",
       "source_type": "press",
@@ -2416,7 +2416,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "917000a843933794",
@@ -2561,6 +2561,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Le FATF identifie les juridictions avec des défaillances en lutte anti-blanchiment, contre le financement du terrorisme et la prolifération."
+    },
+    {
+      "hash": "be9cb06d9189310a",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "In the Spotlight 🔦 Isabelle Vaillant, our Director of Prudential Regulation and Supervisory Policy, sat down with Risk.net Samuel...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7529110114599866369",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-11-19T09:15:35",
+      "summary": "In the Spotlight 🔦 \nIsabelle Vaillant, our Director of Prudential Regulation and Supervisory Policy, sat down with Risk.net  Samuel Wilkes, to discuss the ongoing debate around bank capital requirements and the future of Europe's prudential framework.\nIsabelle delved into some of the key challenges facing European banking regulation, including:\n🔹 Competitiveness and resilience: why efforts to strengthen Europe's banking sector must not come at the expense of its resilience.\n🔹 Bank capital requir",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: eba | +15 mots moyens: risk, regulation, supervisory | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "af7e1d5d7fe404f0",
@@ -2866,7 +2884,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il examine les lois de responsabilité extraterritoriale du Royaume-Uni concernant les crimes économiques, la corruption et les sanctions."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la responsabilité pénale extraterritoriale pour crimes économiques, corruption, fraude et sanctions."
     },
     {
       "hash": "5909f5d293a23620",
@@ -3211,42 +3229,6 @@
       "ai_summary": "Tracfin renforce sa coopération avec la DACG pour lutter contre la criminalité financière et améliorer la conformité aux normes anti-blanchiment."
     },
     {
-      "hash": "0b59a5a7546e8d3c",
-      "source_name": "AMF France (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "[#Coopération 🤝] La @SECGov et l’AMF concluent un accord renforçant la coopération en matière de supervision des conseillers en investissement et de prestataires de services d’investissement. Pour en savoir plus ➡️",
-      "url": "https://x.com/AMF_actu/status/2112534159340057026",
-      "author": "@AMF_actu",
-      "published": "2026-10-20T13:19:00",
-      "summary": "[ #Coopération 🤝] La  @SECGov et l’AMF concluent un accord renforçant la coopération en matière de supervision des conseillers en investissement et de prestataires de services d’investissement.Pour en savoir plus ➡️  cutt.ly/EyRPi33q— AMF (@AMF_actu) Oct 20, 2026",
-      "score": 45,
-      "score_breakdown": "+10 mots forts: amf | +20 Géo FR: amf | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "La SEC et l'AMF renforcent leur coopération en supervision des conseillers en investissement et prestataires de services."
-    },
-    {
-      "hash": "1b25a2acd2836b76",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "We were pleased to welcome yesterday Commissioner Maria Luís Albuquerque to the meeting of the EBA Board of Supervisors for an ope...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7518285371202424832",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-10-20T12:21:55",
-      "summary": "We were pleased to welcome yesterday Commissioner Maria Luís Albuquerque to the meeting of the EBA Board of Supervisors for an open and constructive exchange on the future of the EU banking framework.\n\n🎯 A shared objective\nA European banking sector that is:\n🏦 Strong\n🛡️ Resilient\n🚀 Competitive\n...and fully equipped to support growth, innovation and Europe's strategic priorities.\n\n💬 A clear message\nDialogue must lead to delivery.\nEurope needs not only discussion, but also:\n✅ Concrete action\n✅ Prac",
-      "score": 45,
-      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: bank, ppe | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision bancaire européenne et du cadre réglementaire de l'UE."
-    },
-    {
       "hash": "0a240eed97e76bda",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3352,7 +3334,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6f516c43ae33c47d",
@@ -3478,7 +3460,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9d244e86c78bb830",
@@ -3514,7 +3496,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne les sanctions internationales et les embargos, éléments clés de la conformité aux régimes de sanctions financières et commerciales."
+      "ai_summary": "Cet article concerne les sanctions internationales et les embargos, éléments clés de la conformité réglementaire et anti-blanchiment."
     },
     {
       "hash": "e465506326dbf99f",
@@ -3713,24 +3695,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet accord de composition administrative avec un particulier concerne la conformité financière car il relève du pouvoir de sanction de l'AMF."
-    },
-    {
-      "hash": "4fc985cdcef25b18",
-      "source_name": "Eurojust",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Practitioners exchange expertise on the response to evolving threats at Eurojust’s annual counter-terrorism meeting",
-      "url": "https://www.eurojust.europa.eu/news/practitioners-exchange-expertise-response-evolving-threats-eurojusts-annual-counter-terrorism",
-      "author": "",
-      "published": "2026-11-18T12:00:00",
-      "summary": "On 17-18 November 2026, specialised prosecutors and other experts from 34 countries, along with representatives of EU institutions, gathered at Eurojust for its annual meeting on counter-terrorism.",
-      "score": 37,
-      "score_breakdown": "+15 Source EU | +10 Géo EU: eurojust | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6771b3e0ce07175e",
@@ -4039,24 +4003,6 @@
       "ai_summary": "L'EBA participe à un salon de l'emploi en Pologne pour promouvoir les carrières au sein des institutions européennes."
     },
     {
-      "hash": "fd8daa4010cbe77f",
-      "source_name": "BCE/ECB (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "Can you spot a scam? In our latest podcast episode, Catherine follows the trail of a fake ECB email to uncover how fraudsters exploit trust, create urgency and use new technologies to trick people – and what you can do to stay one step ahead. Listen 👉",
-      "url": "https://x.com/ecb/status/2112456410017771720",
-      "author": "@ecb",
-      "published": "2026-10-20T08:10:00",
-      "summary": "Can you spot a scam? In our latest podcast episode, Catherine follows the trail of a fake ECB email to uncover how fraudsters exploit trust, create urgency and use new technologies to trick people – and what you can do to stay one step ahead. Listen 👉  pod.link/ecbpodcast/episode/…— European Central Bank (@ecb) Oct 20, 2026",
-      "score": 37,
-      "score_breakdown": "+20 mots critiques: fraud | +5 mots moyens: bank | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière en traitant des fraudes par email usurpant l'identité de la BCE."
-    },
-    {
       "hash": "994d231ab2bf357c",
       "source_name": "Cass. - Fraude",
       "source_type": "rss",
@@ -4075,24 +4021,6 @@
       "ai_summary": "Cette affaire concerne l'exécution d'un accord en matière de fraude, relevant de la conformité financière et de la lutte anti-fraude."
     },
     {
-      "hash": "e57e72a5151a9e70",
-      "source_name": "Cass. - Bancaire",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Cour administrative d'appel de TOULOUSE, 2ème chambre, 20 octobre 2026, 24TL02201",
-      "url": "http://juricaf.org/arret/FRANCE-COURADMINISTRATIVEDAPPELDETOULOUSE-20261020-24TL02201",
-      "author": "2ème chambre",
-      "published": "2026-10-20T12:00:00",
-      "summary": "Vu la procédure suivante :    Procédure contentieuse antérieure :    Mme Z... O... a demandé au tribunal administratif de Toulouse d’annuler la décision du 24 juin 2021 par laquelle la  lui a infligé la sanction d’exclusion temporaire de fonctions pour une durée de douze mois et de mettre à la charge de la société La Poste une somme de 3 000 euros sur le fondement de l'article L. 761-1 du code de justice administrative.     Par un jugement n° 2104980 du 2 juillet 2024, le tribunal administratif ",
-      "score": 36,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite d'une sanction disciplinaire d'exclusion de fonctions infligée par une autorité bancaire."
-    },
-    {
       "hash": "fc778e44d772c37f",
       "source_name": "EBA (LinkedIn)",
       "source_type": "rss",
@@ -4108,7 +4036,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4f6fcf5260a42abe",
@@ -4522,7 +4450,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9f1e19054dd14f9a",
@@ -4579,6 +4507,42 @@
       "ai_summary": "Cet article traite de l'évolution des programmes de conformité aux États-Unis face aux normes légales et aux risques émergents."
     },
     {
+      "hash": "778d2134e595d6e0",
+      "source_name": "ECB - Banking Supervision",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "ECB keeps capital requirements broadly stable for 2027, focuses its priorities on banks’ financial and operational resilience",
+      "url": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr261119~4cb883c88e.en.html",
+      "author": "",
+      "published": "2026-11-19T09:00:00",
+      "summary": "",
+      "score": 30,
+      "score_breakdown": "+5 mots moyens: bank | +15 Source EU | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "La BCE maintient stable les exigences de capital pour 2027 tout en renforçant la résilience financière et opérationnelle des banques."
+    },
+    {
+      "hash": "4fc985cdcef25b18",
+      "source_name": "Eurojust",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Practitioners exchange expertise on the response to evolving threats at Eurojust’s annual counter-terrorism meeting",
+      "url": "https://www.eurojust.europa.eu/news/practitioners-exchange-expertise-response-evolving-threats-eurojusts-annual-counter-terrorism",
+      "author": "",
+      "published": "2026-11-18T12:00:00",
+      "summary": "On 17-18 November 2026, specialised prosecutors and other experts from 34 countries, along with representatives of EU institutions, gathered at Eurojust for its annual meeting on counter-terrorism.",
+      "score": 30,
+      "score_breakdown": "+15 Source EU | +10 Géo EU: eurojust | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "7af54441b5f51bab",
       "source_name": "Conseil d'État (JURICAF)",
       "source_type": "rss",
@@ -4612,7 +4576,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "a880bbb29084ac0d",
@@ -4738,6 +4702,24 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "cdad9b8ed3d37fc0",
+      "source_name": "Corporate Compliance Insights",
+      "source_type": "press",
+      "category": "presse",
+      "title": "China’s New Anti-Corruption Law: What Multinational Compliance Teams Need to Know",
+      "url": "https://www.corporatecomplianceinsights.com/chinas-new-anti-corruption-law-what-multinational-compliance-teams-need-know/",
+      "author": "Staff and Wire Reports",
+      "published": "2026-11-19T12:00:09",
+      "summary": "For companies, treating the law as a political response to US enforcement would be a mistake\nThe post China’s New Anti-Corruption Law: What Multinational Compliance Teams Need to Know appeared first on Corporate Compliance Insights.",
+      "score": 27,
+      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
       "ai_summary": null
     },
     {
@@ -4813,40 +4795,22 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des décisions du FATF sur la lutte anti-blanchiment, les actifs virtuels et la fraude."
     },
     {
-      "hash": "2666e40bbe68c527",
-      "source_name": "ComplyAdvantage",
+      "hash": "96f36337e37ff961",
+      "source_name": "Fintech Business Weekly",
       "source_type": "press",
       "category": "presse",
-      "title": "Strategic name screening in the Philippines: What financial institutions need to know",
-      "url": "https://complyadvantage.com/insights/strategic-name-screening-in-the-philippines-what-financial-institutions-need-to-know/",
-      "author": "Audrey Langevin",
-      "published": "2026-10-20T12:41:53",
-      "summary": "This is Part 3 of a three-part series on the Philippines&#8217; compliance landscape, written by Iain Armstrong, Executive Director of FCC Strategy at ComplyAdvantage.  As mentioned in my earlier piece, the Philippines’ official exit from the Financial Action Task Force [&#8230;]\nThe post Strategic name screening in the Philippines: What financial institutions need to know appeared first on ComplyAdvantage.",
-      "score": 27,
-      "score_breakdown": "+10 mots forts: compliance | +5 mots moyens: ppe | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne le filtrage des noms en matière de conformité AML/KYC pour les institutions financières aux Philippines."
-    },
-    {
-      "hash": "42b529ecbe7d1356",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, 5ème chambre jugeant seule, 13 novembre 2026, 510163",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20261113-510163",
-      "author": "5ème chambre jugeant seule",
-      "published": "2026-11-13T12:00:00",
-      "summary": "Vu la procédure suivante :    La société Soropar Group a demandé à la cour administrative d’appel de Paris d’annuler les décisions du 5 juin 2024 par lesquelles l’Autorité de régulation de la communication audiovisuelle et numérique ARCOM a rejeté sa candidature pour l'exploitation d'un service de radio de catégorie B dénommé Plein Cœur dans les zones de Belfort et de Montbéliard. Par un arrêt n° 24PA03944 du 30 septembre 2025, la cour administrative d’appel a rejeté sa demande.    Par un pourvo",
+      "title": "Money20/20 Recap, “Debanking,” & Free Speech",
+      "url": "https://fintechbusinessweekly.substack.com/p/money2020-recap-debanking-and-free",
+      "author": "Jason Mikula",
+      "published": "2026-11-04T15:07:00",
+      "summary": "October&#8217;s biggest stories in banking, fintech & crypto",
       "score": 25,
-      "score_breakdown": "+5 mots moyens: ppe | +20 Géo FR: france | ×1.0 (7d)",
+      "score_breakdown": "+20 mots forts: crypto, eba | +10 mots moyens: fintech, bank | +3 Presse | +10 Géo EU: eba | ×0.6 (>14d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "943a072fd3fef25c",
@@ -4921,6 +4885,42 @@
       "ai_summary": "Cet article concerne la conformité financière car il analyse l'évolution future des risques de liquidité et de solvabilité des banques."
     },
     {
+      "hash": "5e1ab7604c0709a0",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "The banking sector is well capitalised but not immune to financial stability risks, says Supervisory Board Chair Claudia Buch. In this challenging environment, banks must remain prudent and address unresolved supervisory findings to safeguard resilience",
+      "url": "https://x.com/ecb/status/2123356644688236918",
+      "author": "@ecb",
+      "published": "2026-11-19T10:04:00",
+      "summary": "The banking sector is well capitalised but not immune to financial stability risks, says Supervisory Board Chair Claudia Buch. In this challenging environment, banks must remain prudent and address unresolved supervisory findings to safeguard resilience  bankingsupervision.europa.eu…— European Central Bank (@ecb) Nov 19, 2026",
+      "score": 22,
+      "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "3806dfce263c917b",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Our supervisory priorities for 2027-29: 1️⃣ strengthen banks’ resilience to geopolitical risks and macro-financial shocks 2️⃣ improve their operational resilience and IT capabilities Banks must address risk management, governance and cybersecurity concerns",
+      "url": "https://x.com/ecb/status/2123344289706934665",
+      "author": "@ecb",
+      "published": "2026-11-19T09:15:00",
+      "summary": "Our supervisory priorities for 2027-29:1️⃣ strengthen banks’ resilience to geopolitical risks and macro-financial shocks2️⃣ improve their operational resilience and IT capabilitiesBanks must address risk management, governance and cybersecurity concerns  bankingsupervision.europa.eu…— European Central Bank (@ecb) Nov 19, 2026",
+      "score": 22,
+      "score_breakdown": "+15 mots moyens: risk, supervisory, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "44a9b1480cff6aca",
       "source_name": "BCE/ECB (X)",
       "source_type": "rss",
@@ -4973,24 +4973,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Les stress tests révèlent les faiblesses du système financier et améliorent la préparation aux crises, renforçant ainsi la conformité réglementaire."
-    },
-    {
-      "hash": "388f815ba0695e1d",
-      "source_name": "Conseil d'État (JURICAF)",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, 6ème et 5ème chambres réunies, 13 novembre 2026, 507561",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20261113-507561",
-      "author": "6ème et 5ème chambres réunies",
-      "published": "2026-11-13T12:00:00",
-      "summary": "Vu la procédure suivante :    L’association « Biodiversité sous nos pieds » a demandé au tribunal administratif de Grenoble d’annuler l’arrêté du 11 septembre 2020 du préfet de la Savoie portant dérogation aux dispositions de l'article L. 411-1 du code de l'environnement et autorisation des travaux de remplacement du télésiège du Marais, en réserve naturelle de Tignes-Champagny, au bénéfice de la société des téléphériques de la Grande Motte, sur le territoire de la commune de Tignes.    Par un j",
-      "score": 20,
-      "score_breakdown": "+20 Géo FR: france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "27fab36a4d08e6da",
@@ -5191,6 +5173,24 @@
       "ai_summary": "L'OLAF conclut un accord de travail avec la nouvelle agence anti-blanchiment de l'UE pour renforcer la conformité financière."
     },
     {
+      "hash": "9ff1a6460af32f00",
+      "source_name": "Fintech Business Weekly",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Kontigo’s License Suspended, Cutting The Venezuelan Crypto App Off From Country’s Banking System",
+      "url": "https://fintechbusinessweekly.substack.com/p/kontigos-license-suspended-cutting",
+      "author": "Jason Mikula",
+      "published": "2026-11-15T13:59:27",
+      "summary": "Synapse Founder&#8217;s New Startup Can&#8217;t Make Payroll After CEO Took $4.6M Loan For Luxury House, CNBC Reports",
+      "score": 18,
+      "score_breakdown": "+10 mots forts: crypto | +5 mots moyens: bank | +3 Presse | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "22582c6d19a6f4ce",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -5314,7 +5314,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e602c9e73acb2a48",
@@ -5351,6 +5351,42 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "652e688cba94c898",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Watch live today from 11:00 CET: Supervisory Board Chair Claudia Buch will present the results of euro area banks’ 2026 health check – the Supervisory Review and Evaluation Process – as well as the supervisory priorities for the next three years",
+      "url": "https://x.com/ecb/status/2123353147422687515",
+      "author": "@ecb",
+      "published": "2026-11-19T09:50:00",
+      "summary": "Watch live today from 11:00 CET: Supervisory Board Chair Claudia Buch will present the results of euro area banks’ 2026 health check – the Supervisory Review and Evaluation Process – as well as the supervisory priorities for the next three years  youtube.com/watch?v=dFsaCzh_…— European Central Bank (@ecb) Nov 19, 2026",
+      "score": 15,
+      "score_breakdown": "+10 mots moyens: supervisory, bank | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "05ea3c1a587a8d12",
+      "source_name": "BCE/ECB (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "Euro area banks have robust capital and liquidity positions, and strong profitability. However, prudent risk management is still required. Overall capital requirements and Pillar 2 requirements for 2027 remain broadly stable. Read the SREP press release",
+      "url": "https://x.com/ecb/status/2123340886855561376",
+      "author": "@ecb",
+      "published": "2026-11-19T09:01:00",
+      "summary": "Euro area banks have robust capital and liquidity positions, and strong profitability. However, prudent risk management is still required.Overall capital requirements and Pillar 2 requirements for 2027 remain broadly stable.Read the SREP press release  bankingsupervision.europa.eu…— European Central Bank (@ecb) Nov 19, 2026",
+      "score": 15,
+      "score_breakdown": "+10 mots moyens: risk, bank | ×1.5 (<24h)",
+      "doc_type": "COMMUNIQUÉ",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "6605233acf1aaf40",
@@ -5785,6 +5821,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de violations de la loi FCPA concernant la corruption transfrontalière."
     },
     {
+      "hash": "1fbafdd88a579b88",
+      "source_name": "OFAC - Recent Actions",
+      "source_type": "rss",
+      "category": "autorite_intl",
+      "title": "Counter Narcotics Designations; Cyber-related Designations; Issuance of New Illicit Drugs General License and Amended Russia-related General License | Office of Foreign Assets Control",
+      "url": "https://ofac.treasury.gov/recent-actions/20261119",
+      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
+      "published": "2026-11-19T12:00:00",
+      "summary": "",
+      "score": 7,
+      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "46be99b536796e84",
       "source_name": "OFAC - Recent Actions",
       "source_type": "rss",
@@ -5944,7 +5998,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la corruption internationale et l'application d'une nouvelle loi de prévention."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "42eba63fb90f6fa8",
@@ -5999,6 +6053,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Accord de règlement concernant le non-respect des sanctions financières imposées par l'OFAC."
+    },
+    {
+      "hash": "a3a674e487d872f5",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "L’extension des aéroports de Roissy - Charles-de-Gaulle et d’Orly validée, sous réserve, par le régulateur des transports",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/19/l-extension-des-aeroports-de-roissy-charles-de-gaulle-et-d-orly-validee-sous-reserve-par-le-regulateur-des-transports_6813252_3234.html",
+      "author": "",
+      "published": "2026-11-19T08:28:38",
+      "summary": "L’autorité indépendante a donné son feu vert au contrat de régulation économique signé entre l’Etat et le Groupe ADP. Cela ouvre la voie à une hausse de la capacité des aéroports franciliens, de 110 millions de voyageurs en 2026 à 130 millions en 2034. Montant des investissements prévus : 8,2 milliards d’euros.",
+      "score": 4,
+      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "1a3184fae0346d3c",
@@ -6145,7 +6217,7 @@
       "ai_summary": "Cette affaire concerne la conformité financière car elle révèle des défaillances internes dans une firme légale spécialisée en criminalité financière."
     }
   ],
-  "last_update": "2026-11-19T07:42:41.898603+00:00",
+  "last_update": "2026-11-19T14:56:14.362733+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
