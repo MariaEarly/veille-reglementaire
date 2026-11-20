@@ -760,7 +760,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret concerne la conformité financière car il régit la communication de données financières d'entreprises par la Banque de France aux organismes d'assurance et sociétés de gestion."
+      "ai_summary": "Ce décret concerne la conformité financière car il régule la communication de données financières d'entreprises par la Banque de France aux assureurs et gestionnaires."
     },
     {
       "hash": "24c9e432b9fac063",
@@ -1123,6 +1123,24 @@
       "ai_summary": "L'IA est un outil stratégique pour les banques centrales afin de maîtriser les risques prudentiels et financiers."
     },
     {
+      "hash": "c9c7492e2990c8f4",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "L'ÉDITO ÉCO -  Fraude fiscale: les cryptomonnaies, un trou noir?",
+      "url": "https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/video-l-edito-eco-fraude-fiscale-les-cryptomonnaies-un-trou-noir_VN-202611200164.html",
+      "author": "",
+      "published": "2026-11-20T05:26:41",
+      "summary": "Un rapport parlementaire publié ce jeudi 19 novembre alerte sur une fraude fiscale potentiellement massive aux cryptomonnaies. Des millions de Français en possèdent, mais presque personne ne déclare de plus-values au fisc.",
+      "score": 79,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +10 mots forts: crypto | +3 Presse | +20 Géo FR: français | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "b9193e328f36cad7",
       "source_name": "Le Monde Économie",
       "source_type": "press",
@@ -1246,7 +1264,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la lutte contre le blanchiment d'argent et la conformité réglementaire financière à travers des discussions entre l'AMLA et les institutions bancaires."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de réunions entre l'AMLA et les institutions financières sur la lutte anti-blanchiment."
     },
     {
       "hash": "d36cf40a049021b8",
@@ -1444,7 +1462,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des risques de conformité liés à la lutte contre la criminalité financière, les sanctions et les réglementations anti-blanchiment en Irlande."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la criminalité financière, les sanctions, et de nouveaux cadres réglementaires en Irlande."
     },
     {
       "hash": "0ff14730eba1dd83",
@@ -1570,7 +1588,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car le financement participatif est soumis à la lutte anti-blanchiment et à la réglementation des services d'investissement."
+      "ai_summary": "Cet article traite de la conformité financière car le financement participatif est soumis à la lutte anti-blanchiment et à la régulation des services d'investissement."
     },
     {
       "hash": "b3c99e6076805c41",
@@ -1732,7 +1750,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la résilience bancaire, des risques de cybersécurité et de la supervision réglementaire par l'EBA."
     },
     {
       "hash": "19fbbceaf5e2eb5c",
@@ -2005,24 +2023,6 @@
       "ai_summary": "Cet article traite des sanctions russes et du rôle des fournisseurs technologiques dans la définition des normes de conformité réglementaire."
     },
     {
-      "hash": "ec68cf04b766843e",
-      "source_name": "ACPR",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Canicule et activité économique : que nous disent les entreprises ? - Banque de France",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZHBTZlcyOFZJMEVhQW5JVUlRSHB0VGpKRjBpMnFvRDEtNFlqc016V3ZMRlZwVkdwZE1BUVJIY0RRNzlMeEJwdkRleDVnYngtNFpPOXA5QzUweUVVLWtabHpuWXVoc1I0b0Z1T3pCSThUa2U0NGxlT2thNlBzT2Vib2FYNFUzSFVWZzZJVk0tc1E5YmpnaFFKVnRfOEdUUTNWQ0lXa21aVkRJcEU?oc=5",
-      "author": "",
-      "published": "2026-10-21T04:39:33",
-      "summary": "Canicule et activité économique : que nous disent les entreprises ?&nbsp;&nbsp;Banque de France",
-      "score": 60,
-      "score_breakdown": "+5 mots moyens: banque | +25 Source FR | +20 Géo FR: france, banque de france | ×1.2 (<3d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Les impacts économiques des canicules sur l'activité des entreprises relèvent de risques opérationnels et de conformité environnementale."
-    },
-    {
       "hash": "08295a103c61a626",
       "source_name": "EBA - European Banking Authority",
       "source_type": "rss",
@@ -2056,7 +2056,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des exigences réglementaires de l'EBA sur les risques de change et la supervision des banques étrangères."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la surveillance réglementaire des banques étrangères dans l'UE et de la gestion du risque de change."
     },
     {
       "hash": "6f92e7c0254b4bd9",
@@ -2434,7 +2434,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "917000a843933794",
@@ -2902,7 +2902,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de conformité financière car il aborde les lois de responsabilité pénale des entreprises britanniques pour crimes économiques, corruption et sanctions."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des lois de responsabilité extraterritoriale britanniques couvrant les crimes économiques, la corruption et les sanctions."
     },
     {
       "hash": "5909f5d293a23620",
@@ -3028,7 +3028,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article concerne la conformité financière car il évalue la résilience bancaire, la qualité des actifs et les risques de cybersécurité réglementés par l'EBA."
     },
     {
       "hash": "80aafa9e3746ff89",
@@ -3046,7 +3046,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article traite du déblocage anticipé d'un PEE suite à une séparation parentale et des délais de justificatifs, relevant de la conformité réglementaire des plans d'épargne."
     },
     {
       "hash": "c157469b9e1125da",
@@ -3496,7 +3496,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9d244e86c78bb830",
@@ -3695,6 +3695,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la conformité financière en examinant l'efficacité des mesures de surveillance imposées à Binance par les autorités américaines."
+    },
+    {
+      "hash": "9aa0c9ac9ce10f2d",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Recommandation n° 2026-02 du 4 novembre 2026 de l'Autorité de régulation de la communication audiovisuelle et numérique aux services de communication audiovisuelle en vue de l'élection du Président de la République",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055112592",
+      "author": "Autorité de régulation de la communication audiovisuelle et numérique",
+      "published": "2026-11-20T00:00:00",
+      "summary": "Après en avoir délibéré,Adopte la recommandation suivante :Le Conseil supérieur de l'audiovisuel a adopté le 4 janvier 2011 une délibération applicable aux services de radio et de télévision en période électorale. La présente recommandation complète cette délibération. Par dérogation au premier alinéa de l'article 2 de la délibération du 4 janvier 2011, celle-ci s'applique à compter de la date d'entrée en vigueur de la présente recommandation. La présente recommandation s'applique à l'ensemble d",
+      "score": 37,
+      "score_breakdown": "+25 Source FR | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "413c941f3b32d233",
@@ -4054,7 +4072,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "dbdcb67baa93c113",
@@ -4072,7 +4090,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Le Brésil enquête sur une plateforme de jeux pour blanchiment d'argent présumé, relevant de la conformité financière."
     },
     {
       "hash": "4f6fcf5260a42abe",
@@ -4486,7 +4504,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "9f1e19054dd14f9a",
@@ -4576,7 +4594,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "7af54441b5f51bab",
@@ -4648,7 +4666,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4895c4e932a9243d",
@@ -4705,6 +4723,24 @@
       "ai_summary": "L'article concerne la simplification des divulgations de durabilité selon la taxonomie EU, relevant de la conformité réglementaire financière."
     },
     {
+      "hash": "b33b2fc9b366f662",
+      "source_name": "Cass. - Bancaire",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Cour d'appel de Bordeaux, 4ème chambre commerciale, 10 novembre 2026, 26/00468",
+      "url": "http://juricaf.org/arret/FRANCE-COURDAPPELDEBORDEAUX-20261110-2600468",
+      "author": "4ème chambre commerciale",
+      "published": "2026-11-10T12:00:00",
+      "summary": "COUR D'APPEL DE BORDEAUX    QUATRIÈME CHAMBRE CIVILE - ARRÊT DU : 10 NOVEMBRE 2026          N° RG 26/00468 - N° Portalis DBVJ-V-B7K-ORDR        S.A.S.U. FLAT LEASE GROUP    c/    S.A.R.L. ILS SARL  S.A.S. AERIALGROUP                          Nature de la décision : AVANT DIRE DROIT   REOUVERTURE DES DEBATS   RENVOI A LA MISE EN ETAT                            Grosse délivrée le : 10 novembre 2026    aux avocats   Décision déférée à la Cour : jugement rendu le 26 avril 2022 R.G. 2018F01052 par le",
+      "score": 28,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: ppe | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "ed82fd82d22b27aa",
       "source_name": "JORF - Sanctions",
       "source_type": "rss",
@@ -4720,7 +4756,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "caac70dcd16fb08c",
@@ -4738,7 +4774,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car les violations de données entraînent des risques légaux et financiers majeurs pour les entreprises."
     },
     {
       "hash": "cdad9b8ed3d37fc0",
@@ -4756,7 +4792,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il explique les obligations légales anti-corruption que les entreprises multinationales doivent respecter en Chine."
+      "ai_summary": "Cet article traite de la nouvelle loi anticorruption chinoise et son impact sur les programmes de conformité des entreprises multinationales."
     },
     {
       "hash": "e2a2e9045ca892a3",
@@ -4831,22 +4867,40 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des décisions du FATF sur la lutte anti-blanchiment, les actifs virtuels et la fraude."
     },
     {
-      "hash": "96f36337e37ff961",
-      "source_name": "Fintech Business Weekly",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Money20/20 Recap, “Debanking,” & Free Speech",
-      "url": "https://fintechbusinessweekly.substack.com/p/money2020-recap-debanking-and-free",
-      "author": "Jason Mikula",
-      "published": "2026-11-04T15:07:00",
-      "summary": "October&#8217;s biggest stories in banking, fintech & crypto",
-      "score": 25,
-      "score_breakdown": "+20 mots forts: crypto, eba | +10 mots moyens: fintech, bank | +3 Presse | +10 Géo EU: eba | ×0.6 (>14d)",
+      "hash": "5c90a03be761aa26",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, 8ème et 3ème chambres réunies, 18 novembre 2026, 502625",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20261118-502625",
+      "author": "8ème et 3ème chambres réunies",
+      "published": "2026-11-18T12:00:00",
+      "summary": "Vu les procédures suivantes :    La société Ecoloc Cassis a demandé au tribunal administratif de Marseille d’annuler, d’une part, la décision du 13 mai 2020 par laquelle la présidente du conseil départemental des Bouches-du-Rhône a rejeté sa candidature pour l’attribution d’une autorisation d’occupation du domaine public maritime à raison de 18 postes à flot dans le port de Cassis et, d’autre part, le titre d’occupation domaniale délivré le 23 juin 2020 à raison de ces postes à la société Pierre",
+      "score": 24,
+      "score_breakdown": "+20 Géo FR: france | ×1.2 (<3d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
+    },
+    {
+      "hash": "d3064617ca47d8c7",
+      "source_name": "Cass. - Blanchiment",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Tribunal judiciaire de Lisieux, Mee civil contentieux, 10 novembre 2026, 25/00441",
+      "url": "http://juricaf.org/arret/FRANCE-TRIBUNALJUDICIAIREDELISIEUX-20261110-2500441",
+      "author": "Mee civil contentieux",
+      "published": "2026-11-10T12:00:00",
+      "summary": "CCC + CE adressées le / /26 à : Me Didier FRAGASSI + Me Marc REYNAUD  TRIBUNAL JUDICIAIRE DE Localité 1   DU : 10 Novembre 2026 N°RG : N° RG 25/00441 - N° Portalis DBW6-W-B7J-DOBB Nature Affaire : Autres actions en responsabilité exercées contre un établissement de crédit Minute : 2026/  JUGEMENT Rendu le 10 Novembre 2026 AU NOM DU PEUPLE FRANÇAIS  ENTRE :  Monsieur N J de nationalité Française, né le Date naissance 1 1938 à Localité 2 demeurant Adresse 1 représenté par Me Didier FRAGASSI, avoca",
+      "score": 24,
+      "score_breakdown": "+10 mots forts: établissement de crédit | +20 Géo FR: france, français, française | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "943a072fd3fef25c",
@@ -5209,22 +5263,22 @@
       "ai_summary": "L'OLAF conclut un accord de travail avec la nouvelle agence anti-blanchiment de l'UE pour renforcer la conformité financière."
     },
     {
-      "hash": "9ff1a6460af32f00",
-      "source_name": "Fintech Business Weekly",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Kontigo’s License Suspended, Cutting The Venezuelan Crypto App Off From Country’s Banking System",
-      "url": "https://fintechbusinessweekly.substack.com/p/kontigos-license-suspended-cutting",
-      "author": "Jason Mikula",
-      "published": "2026-11-15T13:59:27",
-      "summary": "Synapse Founder&#8217;s New Startup Can&#8217;t Make Payroll After CEO Took $4.6M Loan For Luxury House, CNBC Reports",
+      "hash": "ef43ef8d87aea2eb",
+      "source_name": "FATF/GAFI (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "The first FATF Plenary under the UK Presidency of Giles Thomson concluded today, with countries agreeing global action to tackle evolving financial crime threats, including the rising threat posed by virtual assets, fraud and scam compounds. 🔗Learn more:",
+      "url": "https://x.com/FATFNews/status/2116223238657200622",
+      "author": "@FATFNews",
+      "published": "2026-10-30T17:38:00",
+      "summary": "The first FATF Plenary under the UK Presidency of Giles Thomson concluded today, with countries agreeing global action to tackle evolving financial crime threats, including the rising threat posed by virtual assets, fraud and scam compounds.🔗Learn more:  bit.ly/4jPnx6m Video  — FATF (@FATFNews) Oct 30, 2026",
       "score": 18,
-      "score_breakdown": "+10 mots forts: crypto | +5 mots moyens: bank | +3 Presse | ×1.0 (7d)",
+      "score_breakdown": "+20 mots critiques: fraud | +10 mots forts: fatf | ×0.6 (>14d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "22582c6d19a6f4ce",
@@ -5350,7 +5404,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e602c9e73acb2a48",
@@ -5404,7 +5458,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il aborde la cyber-résilience et la supervision bancaire européenne par la BCE."
     },
     {
       "hash": "652e688cba94c898",
@@ -5440,7 +5494,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des exigences de capital et de liquidité des banques de la zone euro, éléments clés de la réglementation prudentielle."
+      "ai_summary": "Cet article concerne les exigences de capital et de liquidité des banques de la zone euro, éléments centraux de la conformité réglementaire prudentielle."
     },
     {
       "hash": "6605233acf1aaf40",
@@ -6052,7 +6106,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la corruption internationale et l'application de lois anti-corruption."
     },
     {
       "hash": "f33b7783ecefbbc9",
@@ -6104,24 +6158,6 @@
       "score_breakdown": "+3 Presse | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "a3a674e487d872f5",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "L’extension des aéroports de Roissy - Charles-de-Gaulle et d’Orly validée, sous réserve, par le régulateur des transports",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/19/l-extension-des-aeroports-de-roissy-charles-de-gaulle-et-d-orly-validee-sous-reserve-par-le-regulateur-des-transports_6813252_3234.html",
-      "author": "",
-      "published": "2026-11-19T08:28:38",
-      "summary": "L’autorité indépendante a donné son feu vert au contrat de régulation économique signé entre l’Etat et le Groupe ADP. Cela ouvre la voie à une hausse de la capacité des aéroports franciliens, de 110 millions de voyageurs en 2026 à 130 millions en 2034. Montant des investissements prévus : 8,2 milliards d’euros.",
-      "score": 4,
-      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
       "status": "new",
       "early_brief": false,
       "ai_summary": "Hors périmètre compliance"
@@ -6271,7 +6307,7 @@
       "ai_summary": "Cette affaire concerne la conformité financière car elle révèle des défaillances internes dans une firme légale spécialisée en criminalité financière."
     }
   ],
-  "last_update": "2026-11-20T00:03:39.998053+00:00",
+  "last_update": "2026-11-20T06:24:16.907330+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
