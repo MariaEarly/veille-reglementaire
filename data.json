@@ -724,7 +724,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret concerne la conformité financière car il régit les obligations de communication de données financières d'entreprises par la Banque de France aux assureurs et gestionnaires."
+      "ai_summary": "Ce décret concerne la conformité financière car il régule les obligations de communication de données financières d'entreprises par la Banque de France aux assureurs et gestionnaires."
     },
     {
       "hash": "24c9e432b9fac063",
@@ -814,7 +814,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des recommandations de gouvernance et de rémunération des dirigeants, éléments clés de la conformité réglementaire des sociétés cotées."
     },
     {
       "hash": "1577af11a19f48bc",
@@ -1210,7 +1210,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il porte sur les normes techniques de régulation des collèges de surveillance anti-blanchiment."
     },
     {
       "hash": "11be54221bbf3a6b",
@@ -1247,24 +1247,6 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Le rapport d'AMLA évalue la coopération des autorités de supervision en matière de lutte contre le blanchiment et le financement du terrorisme."
-    },
-    {
-      "hash": "0d0b4f05f5c655d6",
-      "source_name": "Commission EU - Press",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Commission adopts guidelines implementing the visa ban on combatants in Russia's war of aggression against Ukraine",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2521",
-      "author": "",
-      "published": "2026-11-22T23:00:00",
-      "summary": "European Commission Press release Brussels, 23 Nov 2026 Today, alongside the proposal for the EU's 22nd sanctions package, the Commission is taking action to strengthen Europe's security, ensuring that those linked to Russia's war of aggression are banned from our territory and cannot become a security risk or the Union and its citizens.",
-      "score": 75,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: risk | +15 Source EU | +10 Géo EU: european commission | ×1.5 (<24h)",
-      "doc_type": "GUIDELINES",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "930414a216b6926b",
@@ -1462,7 +1444,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des risques de conformité liés à la lutte contre la criminalité financière, les sanctions et la cybersécurité en Irlande."
+      "ai_summary": "L'article concerne la conformité financière car il traite des risques de conformité liés à la lutte contre la criminalité financière, les sanctions et la réglementation irlandaise."
     },
     {
       "hash": "0ff14730eba1dd83",
@@ -1933,6 +1915,24 @@
       "ai_summary": "Fnac Darty sanctionné pour violation de la protection des données personnelles, relevant de la conformité réglementaire et gouvernance."
     },
     {
+      "hash": "0d0b4f05f5c655d6",
+      "source_name": "Commission EU - Press",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Commission adopts guidelines implementing the visa ban on combatants in Russia's war of aggression against Ukraine",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2521",
+      "author": "",
+      "published": "2026-11-22T23:00:00",
+      "summary": "European Commission Press release Brussels, 24 Nov 2026 Today, alongside the proposal for the EU's 22nd sanctions package, the Commission is taking action to strengthen Europe's security, ensuring that those linked to Russia's war of aggression are banned from our territory and cannot become a security risk or the Union and its citizens.",
+      "score": 60,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: risk | +15 Source EU | +10 Géo EU: european commission | ×1.2 (<3d)",
+      "doc_type": "GUIDELINES",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "8af82b2204f95e67",
       "source_name": "EBA - News",
       "source_type": "rss",
@@ -1984,7 +1984,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la surveillance réglementaire des banques étrangères dans l'UE et de la gestion du risque de change."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la surveillance réglementaire des banques de pays tiers dans l'UE et de la gestion des risques de change par les banques."
     },
     {
       "hash": "6f92e7c0254b4bd9",
@@ -2290,7 +2290,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "62c4278db2d86d88",
@@ -2398,7 +2398,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté définit les modalités de constitution des garanties financières requises pour les exploitations minières, assurant la conformité aux obligations de sécurisation financière du code minier."
+      "ai_summary": "Cet arrêté définit les modalités de constitution des garanties financières requises pour les exploitations minières, assurant la conformité financière des opérateurs miniers."
     },
     {
       "hash": "d180cc7466bd6147",
@@ -2416,7 +2416,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité fiscale et la réduction des écarts de collecte d'impôts au niveau européen."
     },
     {
       "hash": "1e45ce50463c0227",
@@ -2848,7 +2848,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des lois de responsabilité extraterritoriale couvrant les crimes économiques, la corruption et les sanctions."
+      "ai_summary": "Cet article traite de la conformité financière car il explique comment le Royaume-Uni poursuit les entreprises pour infractions financières et économiques commises à l'étranger."
     },
     {
       "hash": "5909f5d293a23620",
@@ -2959,24 +2959,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite du Listing Act, cadre réglementaire des sociétés cotées."
     },
     {
-      "hash": "2cb2715bcc98d2cb",
-      "source_name": "Cass. - Fraude",
-      "source_type": "rss",
-      "category": "jurisprudence",
-      "title": "France, Conseil d'État, 6ème chambre jugeant seule, 17 novembre 2026, 503350",
-      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20261117-503350",
-      "author": "6ème chambre jugeant seule",
-      "published": "2026-11-17T12:00:00",
-      "summary": "Vu la procédure suivante :    Par une requête, un mémoire complémentaire, un mémoire en réplique et un nouveau mémoire, enregistrés les 9 avril et 30 mai 2025 et les 26 février et 16 avril 2026, Mme P... O... demande au Conseil d’Etat, dans le dernier état de ses écritures :     1° d’annuler la décision du 21 février 2025 de la commission des sanctions de la Haute autorité de l’audit ou, à tout le moins, de la réformer ;    2° d’ordonner la production aux débats du rapport d’enquête et le commun",
-      "score": 45,
-      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: audit | +20 Géo FR: france | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "0579ec116b779b9b",
       "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
@@ -3010,7 +2992,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La parité dans les instances de gouvernance relève de la conformité réglementaire en matière de gouvernement d'entreprise."
     },
     {
       "hash": "6d4fd0334ddb8552",
@@ -3298,7 +3280,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des risques de cybersécurité, des fuites de données clients et des tentatives de fraude financière, éléments critiques de la conformité bancaire."
+      "ai_summary": "Les cyberattaques contre les banques constituent un risque de conformité majeur concernant la protection des données clients et la prévention de la fraude financière."
     },
     {
       "hash": "5de0eb1257dec777",
@@ -3460,7 +3442,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ac80f36380dd0458",
@@ -3478,7 +3460,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cette décision de la Cour de cassation porte sur les obligations des prestataires de services de paiement selon le code monétaire et financier, relevant de la conformité financière bancaire."
     },
     {
       "hash": "9d244e86c78bb830",
@@ -3497,6 +3479,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite de la souveraineté technologique et de la sécurité financière, enjeux clés de la conformité bancaire et prudentielle."
+    },
+    {
+      "hash": "9b3df30937114604",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Huawei guilty of trade theft, sanctions evasion",
+      "url": "https://globalinvestigationsreview.com/just-sanctions/article/huawei-guilty-of-trade-theft-sanctions-evasion",
+      "author": "Alyssa Aquino",
+      "published": "2026-11-24T22:28:14",
+      "summary": "A US jury convicted the tech conglomerate of 10 out of 12 counts, but defence counsel celebrated that jurors rejected the DOJ’s lead racketeering conspiracy charge after a gruelling 11-week trial.",
+      "score": 39,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "d6f7797f445d4bb0",
@@ -3949,6 +3949,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il alerte sur une arnaque usurpant l'identité de la BCE pour détourner des fonds."
     },
     {
+      "hash": "2cb2715bcc98d2cb",
+      "source_name": "Cass. - Fraude",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, 6ème chambre jugeant seule, 17 novembre 2026, 503350",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20261117-503350",
+      "author": "6ème chambre jugeant seule",
+      "published": "2026-11-17T12:00:00",
+      "summary": "Vu la procédure suivante :    Par une requête, un mémoire complémentaire, un mémoire en réplique et un nouveau mémoire, enregistrés les 9 avril et 30 mai 2025 et les 26 février et 16 avril 2026, Mme P... O... demande au Conseil d’Etat, dans le dernier état de ses écritures :     1° d’annuler la décision du 21 février 2025 de la commission des sanctions de la Haute autorité de l’audit ou, à tout le moins, de la réformer ;    2° d’ordonner la production aux débats du rapport d’enquête et le commun",
+      "score": 36,
+      "score_breakdown": "+20 mots critiques: sanction | +5 mots moyens: audit | +20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "ef000e049d4ba28b",
       "source_name": "EDPB - European Data Protection Board",
       "source_type": "rss",
@@ -3964,25 +3982,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il rapporte une amende administrative de 805 millions d'euros infligée à Meta pour violation de la protection des données."
-    },
-    {
-      "hash": "49b987beb7ca60c2",
-      "source_name": "BFM Business Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Le Tech Flash : Nvidia réintègre Jensen Huang par Léa Benaim - 23/11",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-le-tech-flash-nvidia-reintegre-jensen-huang-par-lea-benaim-23-11_VN-202611230863.html",
-      "author": "",
-      "published": "2026-11-23T20:12:02",
-      "summary": "Ce lundi 23 novembre, dans Le Tech Flash, Léa Benaim est revenue sur la réintégration de Jensen Huang à la tête de Nvidia, l'interruption du lancement d'Ariane 6 à Kourou, l'annonce du rachat de Zscaler par CrowdStrike, la menace de sanction fiscale de D. Trump pour empêcher la délocalisation de centres de données, et le record sur les ventes du GTA 6. Cette chronique est à voir ou écouter du lundi au jeudi  dans Tech&amp;Co, la quotidienne, présentée par François Sorel sur BFM Business. ",
-      "score": 34,
-      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet article concerne la conformité financière car Meta a reçu une amende de 805 millions d'euros pour violation de protection des données personnelles."
     },
     {
       "hash": "dbdcb67baa93c113",
@@ -4396,7 +4396,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4669f8016f4ca94c",
@@ -4432,7 +4432,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6d3649ac1d76c372",
@@ -4450,7 +4450,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "778d2134e595d6e0",
@@ -4540,7 +4540,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car DORA impose aux institutions financières des exigences de résilience opérationnelle numérique."
     },
     {
       "hash": "4895c4e932a9243d",
@@ -4612,7 +4612,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2c9c3d4cbb5b84aa",
@@ -4630,7 +4630,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'implémentation de l'IA dans la détection de la criminalité financière et la surveillance des transactions."
     },
     {
       "hash": "f8210384448d9e6e",
@@ -4648,7 +4648,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "La banque doit-elle signaler les comportements suspects et prévenir les clients en vertu des obligations de vigilance réglementaire en matière de lutte contre la fraude."
     },
     {
       "hash": "b54aa3e83c657c56",
@@ -4792,6 +4792,24 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "1f534964226f619d",
+      "source_name": "Eurojust",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Eurojust gathers experts to exchange knowledge and strengthen cooperation on battlefield evidence",
+      "url": "https://www.eurojust.europa.eu/news/eurojust-gathers-experts-exchange-knowledge-and-strengthen-cooperation-battlefield-evidence",
+      "author": "",
+      "published": "2026-11-20T12:00:00",
+      "summary": "The collection and use of battlefield evidence is fast becoming a cornerstone of efforts to hold perpetrators of the most serious international crimes to account. On 18-19 November, Eurojust, in cooperation with the Genocide Prosecution Network, brought together terrorism and core international crimes practitioners from 34 countries to share expertise on how this evidence can be accessed, preserved, and successfully presented in court. Together they also explored the impact of new technologies, ",
+      "score": 25,
+      "score_breakdown": "+15 Source EU | +10 Géo EU: eurojust | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
       "ai_summary": "Hors périmètre compliance"
     },
     {
@@ -4810,43 +4828,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
-      "hash": "1f534964226f619d",
-      "source_name": "Eurojust",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Eurojust gathers experts to exchange knowledge and strengthen cooperation on battlefield evidence",
-      "url": "https://www.eurojust.europa.eu/news/eurojust-gathers-experts-exchange-knowledge-and-strengthen-cooperation-battlefield-evidence",
-      "author": "",
-      "published": "2026-11-20T12:00:00",
-      "summary": "The collection and use of battlefield evidence is fast becoming a cornerstone of efforts to hold perpetrators of the most serious international crimes to account. On 18-19 November, Eurojust, in cooperation with the Genocide Prosecution Network, brought together terrorism and core international crimes practitioners from 34 countries to share expertise on how this evidence can be accessed, preserved, and successfully presented in court. Together they also explored the impact of new technologies, ",
-      "score": 25,
-      "score_breakdown": "+15 Source EU | +10 Géo EU: eurojust | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
       "ai_summary": null
-    },
-    {
-      "hash": "4fc985cdcef25b18",
-      "source_name": "Eurojust",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Practitioners exchange expertise on the response to evolving threats at Eurojust’s annual counter-terrorism meeting",
-      "url": "https://www.eurojust.europa.eu/news/practitioners-exchange-expertise-response-evolving-threats-eurojusts-annual-counter-terrorism",
-      "author": "",
-      "published": "2026-11-18T12:00:00",
-      "summary": "On 17-18 November 2026, specialised prosecutors and other experts from 34 countries, along with representatives of EU institutions, gathered at Eurojust for its annual meeting on counter-terrorism.",
-      "score": 25,
-      "score_breakdown": "+15 Source EU | +10 Géo EU: eurojust | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "bfd179297cb4eed7",
@@ -4862,6 +4844,24 @@
       "score_breakdown": "+10 mots forts: compliance | +15 Source EU | ×1.0 (7d)",
       "doc_type": null,
       "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "4fc985cdcef25b18",
+      "source_name": "Eurojust",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Practitioners exchange expertise on the response to evolving threats at Eurojust’s annual counter-terrorism meeting",
+      "url": "https://www.eurojust.europa.eu/news/practitioners-exchange-expertise-response-evolving-threats-eurojusts-annual-counter-terrorism",
+      "author": "",
+      "published": "2026-11-18T12:00:00",
+      "summary": "On 17-18 November 2026, specialised prosecutors and other experts from 34 countries, along with representatives of EU institutions, gathered at Eurojust for its annual meeting on counter-terrorism.",
+      "score": 25,
+      "score_breakdown": "+15 Source EU | +10 Géo EU: eurojust | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
       "status": "new",
       "early_brief": false,
       "ai_summary": null
@@ -4936,7 +4936,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5157522f7dad974e",
@@ -5026,7 +5026,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il définit les priorités de supervision bancaire portant sur la gestion des risques, la gouvernance et la cybersécurité des banques."
+      "ai_summary": "Cet article concerne la conformité financière car il fixe les priorités de supervision bancaire portant sur la gestion des risques, la gouvernance et la cybersécurité des banques."
     },
     {
       "hash": "44a9b1480cff6aca",
@@ -5080,7 +5080,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car l'autorité italienne de protection des données inflige une amende de 8 000 euros pour violations du RGPD."
+      "ai_summary": "Cet article concerne la conformité financière car il traite d'une amende imposée par l'autorité de protection des données pour violations du RGPD."
     },
     {
       "hash": "71b12bf2ffbc1cc8",
@@ -5098,25 +5098,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "c903011555b6181c",
-      "source_name": "Le Monde Économie",
-      "source_type": "press",
-      "category": "presse",
-      "title": "Cryptomonnaies : comment faire le tri parmi 66 millions d’actifs possibles",
-      "url": "https://www.lemonde.fr/argent/article/2026/11/23/cryptomonnaies-comment-faire-le-tri-parmi-66-millions-d-actifs-possibles_6814342_1657007.html",
-      "author": "",
-      "published": "2026-11-23T05:00:00",
-      "summary": "Malgré les dizaines de millions de jetons numériques existant, seule une poignée d’entre eux domine le marché.",
-      "score": 19,
-      "score_breakdown": "+10 mots forts: crypto | +3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": "Cet article concerne la conformité financière car il relate une amende administrative imposée pour non-respect du droit d'accès aux données personnelles sous le RGPD."
     },
     {
       "hash": "b22f737f56bec2e0",
@@ -5710,7 +5692,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e397f1c2f24d7c56",
@@ -5729,6 +5711,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la lutte contre les centres d'arnaque à l'étranger, un enjeu clé de la conformité financière et de la prévention du blanchiment."
+    },
+    {
+      "hash": "fa9225e73dac1189",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Oil rig maker avoids US prosecution for Mexico bribery scheme",
+      "url": "https://globalinvestigationsreview.com/just-anti-corruption/article/oil-rig-maker-avoids-us-prosecution-mexico-bribery-scheme",
+      "author": "Estelle Atkinson,Duncan Randall",
+      "published": "2026-11-24T16:53:31",
+      "summary": "Drillmec, an Italian offshore drill rig supplier, has entered into a three-year non-prosecution deal with the DOJ, agreeing to pay a $5.5 million criminal fine after a vice-president pleaded guilty to bribing an official at Mexico state oil company Pemex.",
+      "score": 9,
+      "score_breakdown": "+3 Presse | +3 Géo Intl: doj | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "d25922952b5edd32",
@@ -6163,24 +6163,6 @@
       "ai_summary": "Accord de règlement concernant le non-respect des sanctions financières imposées par l'OFAC."
     },
     {
-      "hash": "5a35941363b70a15",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "The cross-border consequences are not over for an unravelling Brazilian corruption case",
-      "url": "https://globalinvestigationsreview.com/article/the-cross-border-consequences-are-not-over-unravelling-brazilian-corruption-case",
-      "author": "",
-      "published": "2026-11-23T11:00:00",
-      "summary": "Eloy Rizzo of Demarest, and Duncan Grieve and Sharon Takhar of Signature Litigation, warn that decisions in Brazil setting aside convictions and evidence rulings may continue to affect related investigations and enforcement proceedings around the world.",
-      "score": 4,
-      "score_breakdown": "+3 Presse | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance."
-    },
-    {
       "hash": "1a3184fae0346d3c",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -6323,9 +6305,27 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article traite des mesures de sanctions financières imposées par l'OFAC, relevant directement de la conformité réglementaire internationale."
+    },
+    {
+      "hash": "5a35941363b70a15",
+      "source_name": "Global Investigations Review",
+      "source_type": "press",
+      "category": "presse",
+      "title": "The cross-border consequences are not over for an unravelling Brazilian corruption case",
+      "url": "https://globalinvestigationsreview.com/article/the-cross-border-consequences-are-not-over-unravelling-brazilian-corruption-case",
+      "author": "",
+      "published": "2026-11-23T11:00:00",
+      "summary": "Eloy Rizzo of Demarest, and Duncan Grieve and Sharon Takhar of Signature Litigation, warn that decisions in Brazil setting aside convictions and evidence rulings may continue to affect related investigations and enforcement proceedings around the world.",
+      "score": 3,
+      "score_breakdown": "+3 Presse | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     }
   ],
-  "last_update": "2026-11-24T22:39:09.492727+00:00",
+  "last_update": "2026-11-25T01:46:56.363993+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
