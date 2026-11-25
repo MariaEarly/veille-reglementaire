@@ -565,6 +565,24 @@
   ],
   "items": [
     {
+      "hash": "d7e19bfcc22af6bd",
+      "source_name": "DG Trésor",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Publication de l’analyse nationale des risques (ANR) de blanchiment de capitaux et de financement du terrorisme en France 2026",
+      "url": "https://www.tresor.economie.gouv.fr/Articles/2026/11/03/publication-de-l-analyse-nationale-des-risques-anr-de-blanchiment-de-capitaux-et-de-financement-du-terrorisme-en-france-2026",
+      "author": "",
+      "published": "2026-11-24T23:00:00",
+      "summary": "Le Conseil d’orientation de la lutte contre le blanchiment de capitaux et le financement du terrorisme (COLB) a approuvé, le 22 septembre 2026, la nouvelle version de l’analyse nationale des risques de blanchiment de capitaux et de financement du terrorisme (ANR). Ce document, co-construit avec l’ensemble des autorités compétentes, renforce la compréhension des mécanismes sous-jacents des flux financiers illicites, afin de mieux les prévenir et les combattre.",
+      "score": 100,
+      "score_breakdown": "+20 mots critiques: blanchiment, financement du terrorisme | +5 mots moyens: risque | +25 Source FR | +20 Géo FR: france | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "L'ANR identifie les risques nationaux de blanchiment et financement du terrorisme, guidant les obligations de conformité des acteurs financiers et non-financiers."
+    },
+    {
       "hash": "3a30164010b98d4c",
       "source_name": "AMF - Actualités",
       "source_type": "rss",
@@ -724,7 +742,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret concerne la conformité financière car il régule les obligations de communication de données financières d'entreprises par la Banque de France aux assureurs et gestionnaires."
+      "ai_summary": "Ce décret concerne la conformité financière car il régit les obligations de communication de données financières d'entreprises par la Banque de France aux assureurs et gestionnaires."
     },
     {
       "hash": "24c9e432b9fac063",
@@ -995,6 +1013,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "L'AMF contrôle la conformité des communications commerciales des SCPI auprès des clients, assurant le respect des obligations réglementaires."
+    },
+    {
+      "hash": "fc04d37b995beaab",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "The EBA examines the use of stablecoins, including EMTs, in decentralised finance",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-examines-use-stablecoins-including-emts-decentralised-finance",
+      "author": "Jana Jaklic",
+      "published": "2026-11-25T11:08:05",
+      "summary": "The European Banking Authority (EBA) today published a Report analysing the use of EMTs and other selected stablecoins in DeFi and the implications for consumers and supervisors. The EBA finds that stablecoins, including some EMTs issued under the Markets in Crypto-Assets Regulation (MiCA), play a central role in the DeFi ecosystem by providing liquidity, collateral and settlement in DeFi trading and lending activities. The Report also highlights consumer protection, and regulatory arbitrage ris",
+      "score": 82,
+      "score_breakdown": "+20 mots forts: mica, crypto, eba | +10 mots moyens: regulation, bank | +15 Source EU | +10 Géo EU: eba, mica | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "8b57da2551a4b2b9",
@@ -1303,6 +1339,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de la résilience du secteur financier et du rôle de l'autorité prudentielle."
     },
     {
+      "hash": "e77a28728f182c2a",
+      "source_name": "EBA (X)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🎙️ Meet the speakers: \"The first two years of #DORA Oversight\" ➡️ Welcome: François-Louis Michaud, EBA Chair ➡️ Keynote: Denis Beau, Banque de France 2⃣Panels ➡️ Closing: Thomas Gstaedtner, EBA Executive Director 📺 Live, 2 Dec, 09:30–12:30 CET:",
+      "url": "https://x.com/EBA_News/status/2125549852104986964",
+      "author": "@EBA_News",
+      "published": "2026-11-25T11:19:00",
+      "summary": "🎙️ Meet the speakers: \"The first two years of  #DORA Oversight\"➡️ Welcome: François-Louis Michaud, EBA Chair➡️ Keynote: Denis Beau, Banque de France 2⃣Panels➡️ Closing: Thomas Gstaedtner, EBA Executive Director📺 Live, 2 Dec, 09:30–12:30 CET:  lnkd.in/eKc3HbZY  — EU Banking Authority - EBA 🇪🇺 (@EBA_News) Nov 25, 2026",
+      "score": 75,
+      "score_breakdown": "+20 mots forts: dora, eba | +10 mots moyens: banque, bank | +20 Géo FR: france, banque de france | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "cbba1ae098662fc1",
       "source_name": "AMF France (X)",
       "source_type": "rss",
@@ -1444,7 +1498,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite des risques de conformité liés à la lutte contre la criminalité financière, les sanctions et la réglementation irlandaise."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des obligations réglementaires, risques de conformité et cadre légal en matière de lutte contre la criminalité financière et sanctions."
     },
     {
       "hash": "0ff14730eba1dd83",
@@ -1663,22 +1717,22 @@
       "ai_summary": "Cet article concerne la conformité financière car il mentionne l'examen de la loi de finances pour 2027 à l'Assemblée nationale."
     },
     {
-      "hash": "dd786a98d4cf37b8",
-      "source_name": "AMF - Actualités",
+      "hash": "4c12434a550008af",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "19e colloque de la Commission des sanctions – Vidéos et discours",
-      "url": "https://www.amf-france.org/fr/actualites-publications/evenements-de-lamf/colloques-et-conferences-de-lamf/19e-colloque-de-la-commission-des-sanctions-videos-et-discours#xts=607212&xtor=RSS-3&type=RSS",
+      "category": "autorite_eu",
+      "title": "Press Release: AMLA consults on methodology for setting AML/CFT fines",
+      "url": "https://www.amla.europa.eu/press-release-amla-consults-methodology-setting-amlcft-fines_en",
       "author": "",
-      "published": "2026-10-26T10:31:06",
-      "summary": "Support événement                  Sanctions &amp; transactions              Institutionnel              Abus de marché                    19e colloque de la Commission des sanctions – Vidéos et discours",
+      "published": "2026-11-25T09:30:53",
+      "summary": "AMLA has launched a public consultation on draft Guidelines proposing a common methodology for supervisors in the EU to determine the base amount of a fine.",
       "score": 67,
-      "score_breakdown": "+20 mots critiques: sanction | +25 Source FR | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
+      "score_breakdown": "+20 mots forts: aml, cft, amla | +15 Source EU | +10 Géo EU: amla | ×1.5 (<24h)",
+      "doc_type": "COMMUNIQUÉ",
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des sanctions et des abus de marché, domaines clés de la régulation financière."
+      "ai_summary": null
     },
     {
       "hash": "057e35e69cb53f1f",
@@ -1696,7 +1750,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la résilience bancaire, des risques de cybersécurité et de la surveillance réglementaire par l'EBA."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'évaluation des risques bancaires, de la résilience et des menaces cyber pour les banques EU/EEA."
     },
     {
       "hash": "19fbbceaf5e2eb5c",
@@ -1915,6 +1969,24 @@
       "ai_summary": "Fnac Darty sanctionné pour violation de la protection des données personnelles, relevant de la conformité réglementaire et gouvernance."
     },
     {
+      "hash": "adaef5d777e73aec",
+      "source_name": "EBA - News",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "​EBA publishes hotfix for the reporting framework v4.4 - Phase 1",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-hotfix-reporting-framework-v44-phase-1",
+      "author": "Jana Jaklic",
+      "published": "2026-11-25T13:25:13",
+      "summary": "​The European Banking Authority (EBA) has issued a hotfix for its Reporting Framework version 4.4 - Phase 1, addressing technical issues identified following the release of the final technical package.",
+      "score": 60,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: bank | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": "RAPPORT",
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "0d0b4f05f5c655d6",
       "source_name": "Commission EU - Press",
       "source_type": "rss",
@@ -1930,7 +2002,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne les sanctions financières et les restrictions d'entrée imposées par l'UE aux combattants russes impliqués dans la guerre en Ukraine."
     },
     {
       "hash": "8af82b2204f95e67",
@@ -1984,7 +2056,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de la surveillance réglementaire des banques de pays tiers dans l'UE et de la gestion des risques de change par les banques."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la supervision bancaire, de la gestion des risques de change et du contrôle réglementaire des banques étrangères dans l'UE."
     },
     {
       "hash": "6f92e7c0254b4bd9",
@@ -2290,7 +2362,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "62c4278db2d86d88",
@@ -2398,7 +2470,43 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté définit les modalités de constitution des garanties financières requises pour les exploitations minières, assurant la conformité financière des opérateurs miniers."
+      "ai_summary": "Cet arrêté fixe les modalités de constitution des garanties financières requises pour les activités minières, assurant la conformité des opérateurs avec les obligations de sécurisation financière."
+    },
+    {
+      "hash": "c00679fa60a49c78",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 25 November, 2026",
+      "url": "https://www.eba.europa.eu/node/20237",
+      "author": "Anonymous",
+      "published": "2026-11-25T16:00:02",
+      "summary": "EBA E-mail alert 25 November, 2026\n\n  \n    Date\n          25/11/2026\n\n      \n\nAnonymous (not verified)\n\nWed, 11/25/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          The EBA examines the use of stablecoins, including EMTs, in decentralised finance \n          ​EBA publishes hotfix for the reporting framework v4.4 - Phase 1 \n      ",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: eba | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "e080a5f7363fbc1b",
+      "source_name": "Commission EU - Press",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity and security",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2567",
+      "author": "",
+      "published": "2026-11-24T23:00:00",
+      "summary": "European Commission Press release Strasbourg, 25 Nov 2026 The European Commission today proposed the Quantum Act, a new framework to help turn Europe's quantum research into products and services, strengthen supply chains and prepare Europe's digital systems for post-quantum cryptography. The proposal also lays the groundwork for the Sovereign Tech Equity Fund (STEF).",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: crypto | +15 Source EU | +10 Géo EU: european commission | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "d180cc7466bd6147",
@@ -2471,6 +2579,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Le FATF identifie les juridictions avec des défaillances en lutte anti-blanchiment, contre le financement du terrorisme et la prolifération."
+    },
+    {
+      "hash": "d1683e0d4c95c9e6",
+      "source_name": "EBA (LinkedIn)",
+      "source_type": "rss",
+      "category": "social",
+      "title": "🎙️ Meet our speakers for the joint conference \"𝑻𝒉𝒆 𝒇𝒊𝒓𝒔𝒕 𝒕𝒘𝒐 𝒚𝒆𝒂𝒓𝒔 𝒐𝒇 𝑫𝑶𝑹𝑨 𝑶𝒗𝒆𝒓𝒔𝒊𝒈𝒉𝒕: A key European response in a context of risin...",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7531303953503031296",
+      "author": "European Banking Authority (EBA)",
+      "published": "2026-11-25T10:33:07",
+      "summary": "🎙️ Meet our speakers for the joint conference \"𝑻𝒉𝒆 𝒇𝒊𝒓𝒔𝒕 𝒕𝒘𝒐 𝒚𝒆𝒂𝒓𝒔 𝒐𝒇 𝑫𝑶𝑹𝑨 𝑶𝒗𝒆𝒓𝒔𝒊𝒈𝒉𝒕: A key European response in a context of rising global cyber challenges\"\n\nThe programme includes:\n ➡️ Welcoming remarks by François-Louis Michaud, Chair of the EBA \n ➡️ Opening keynote by Denis Beau, First Deputy Governor of the Banque de France \nPanel  1️⃣: 𝑫𝒆𝒔𝒊𝒈𝒏𝒂𝒕𝒊𝒐𝒏𝒔, 𝑫𝒆𝒑𝒆𝒏𝒅𝒆𝒏𝒄𝒊𝒆𝒔 𝒂𝒏𝒅 𝑫𝒊𝒈𝒊𝒕𝒂𝒍 𝑺𝒐𝒗𝒆𝒓𝒆𝒊𝒈𝒏𝒕𝒚\nPanel  2️⃣: 𝑭𝒖𝒕𝒖𝒓𝒆 𝑻𝒓𝒆𝒏𝒅𝒔 𝒊𝒏 𝑶𝒗𝒆𝒓𝒔𝒊𝒈𝒉𝒕: 𝑰𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒐𝒏, 𝑹𝒆𝒔𝒊𝒍𝒊𝒆𝒏𝒄𝒆 𝒂𝒏𝒅 𝑨𝒓𝒕𝒊𝒇𝒊𝒄𝒊𝒂𝒍 𝑰𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒄𝒆  \n ➡️ Closing ",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: banque | +20 Géo FR: france, banque de france | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "f991c51ea58876b6",
@@ -2689,24 +2815,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite de MiCA, la réglementation européenne des crypto-actifs et de sa conformité."
     },
     {
-      "hash": "3bd779b13cb8cc14",
-      "source_name": "ESMA (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🔜 #Dataday → Deadline to register extended till 10 November! ⏰ Secure your spot →  🔥 On the agenda: #AI, SupTech, RegTech, financial transaction reporting, ESAP, #crypto monitoring, and the future of data-driven supervision Speakers lineup 👇",
-      "url": "https://x.com/ESMAComms/status/2114647159794552860",
-      "author": "@ESMAComms",
-      "published": "2026-10-26T09:15:00",
-      "summary": "🔜  #Dataday → Deadline to register extended till 10 November!⏰ Secure your spot →  link.europa.eu/qxQ36g🔥 On the agenda:  #AI, SupTech, RegTech, financial transaction reporting, ESAP,  #crypto monitoring, and the future of data-driven supervisionSpeakers lineup 👇— ESMA - EU Securities Markets Regulator 🇪🇺 (@ESMAComms) Oct 26, 2026",
-      "score": 52,
-      "score_breakdown": "+20 mots forts: crypto, esma | +5 mots moyens: regtech | +10 Géo EU: esma | ×1.5 (<24h)",
-      "doc_type": "RAPPORT",
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de RegTech, reporting transactionnel et supervision de la crypto."
-    },
-    {
       "hash": "725ce317ca8bdd10",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -2848,7 +2956,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il explique comment le Royaume-Uni poursuit les entreprises pour infractions financières et économiques commises à l'étranger."
+      "ai_summary": "Cet article traite de la conformité financière car il examine les lois de responsabilité pénale extraterritoriale du Royaume-Uni concernant les crimes économiques, la corruption et les sanctions."
     },
     {
       "hash": "5909f5d293a23620",
@@ -2903,6 +3011,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Cet article concerne la conformité financière car il traite du respect des sanctions internationales contre la Russie et des violations d'exportation."
+    },
+    {
+      "hash": "2847ee836c38f080",
+      "source_name": "Conseil d'État (JURICAF)",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Conseil d'État, 2ème chambre jugeant seule, 23 novembre 2026, 517843",
+      "url": "http://juricaf.org/arret/FRANCE-CONSEILDETAT-20261123-517843",
+      "author": "2ème chambre jugeant seule",
+      "published": "2026-11-23T12:00:00",
+      "summary": "Vu la procédure suivante :    Mme J... W... a demandé au tribunal administratif d’Amiens d’annuler les opérations électorales qui se sont déroulées le 15 mars 2026 en vue de l’élection des conseillers municipaux de la commune de Brécy Aisne, de prononcer l’inéligibilité de M. G... Y... et de M. Q... S..., ainsi que de toute personne qui se serait livrée à des manœuvres frauduleuses et d’enjoindre au maire de Brécy de procéder à l’organisation d’un nouveau scrutin. Par un jugement n° 2601415 du 1",
+      "score": 48,
+      "score_breakdown": "+20 mots critiques: fraud | +20 Géo FR: france | ×1.2 (<3d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "c7230bb414d1405c",
@@ -3193,24 +3319,6 @@
       "ai_summary": "Cet article traite de la responsabilité des gestionnaires de portefeuille selon les normes de conformité et les obligations de gestion mandatée."
     },
     {
-      "hash": "818702e7afe1861e",
-      "source_name": "EBA (LinkedIn)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "🚨 𝗧𝗵𝗲 𝗯𝗲𝘀𝘁 𝘁𝗶𝗺𝗲 𝘁𝗼 𝗽𝗿𝗲𝗽𝗮𝗿𝗲 𝗳𝗼𝗿 𝗮 𝗰𝗿𝗶𝘀𝗶𝘀? 𝗕𝗲𝗳𝗼𝗿𝗲 𝗶𝘁 𝗵𝗮𝗽𝗽𝗲𝗻𝘀. What happens when Europe's banking sector faces a crisis? And how can...",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7520509884933574656",
-      "author": "European Banking Authority (EBA)",
-      "published": "2026-10-26T15:41:21",
-      "summary": "🚨 𝗧𝗵𝗲 𝗯𝗲𝘀𝘁 𝘁𝗶𝗺𝗲 𝘁𝗼 𝗽𝗿𝗲𝗽𝗮𝗿𝗲 𝗳𝗼𝗿 𝗮 𝗰𝗿𝗶𝘀𝗶𝘀? 𝗕𝗲𝗳𝗼𝗿𝗲 𝗶𝘁 𝗵𝗮𝗽𝗽𝗲𝗻𝘀.\nWhat happens when Europe's banking sector faces a crisis? And how can we make sure authorities are ready to respond?\nAt the EBA, crisis simulation exercises help turn preparation into action, strengthening coordination and resilience across the EU.\nWe're looking for a 𝗖𝗿𝗶𝘀𝗶𝘀 𝗦𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻𝘀 𝗦𝗲𝗻𝗶𝗼𝗿 𝗘𝘅𝗽𝗲𝗿𝘁 to join our team in Paris and contribute to this important work.\n\n💡 Interested in crisis management, financial stability and cross-border ",
-      "score": 45,
-      "score_breakdown": "+10 mots forts: eba | +10 mots moyens: bank, ppe | +10 Géo EU: eba | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la préparation aux crises bancaires et les exercices de simulation pour renforcer la résilience du secteur financier européen."
-    },
-    {
       "hash": "0a240eed97e76bda",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3280,7 +3388,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Les cyberattaques contre les banques constituent un risque de conformité majeur concernant la protection des données clients et la prévention de la fraude financière."
+      "ai_summary": "Cet article concerne la conformité financière car il relate une cyberattaque exposant les données clients et une tentative de fraude, risques de conformité majeurs pour les banques."
     },
     {
       "hash": "5de0eb1257dec777",
@@ -3442,7 +3550,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "ac80f36380dd0458",
@@ -3460,7 +3568,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cette décision de la Cour de cassation porte sur les obligations des prestataires de services de paiement selon le code monétaire et financier, relevant de la conformité financière bancaire."
+      "ai_summary": "Cette décision de la Cour de cassation interprète les obligations légales des prestataires de services de paiement en matière de conformité réglementaire bancaire."
     },
     {
       "hash": "9d244e86c78bb830",
@@ -3496,7 +3604,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d6f7797f445d4bb0",
@@ -3964,7 +4072,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance."
     },
     {
       "hash": "ef000e049d4ba28b",
@@ -3982,7 +4090,61 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car Meta a reçu une amende de 805 millions d'euros pour violation de protection des données personnelles."
+      "ai_summary": "Cet article concerne la conformité financière car il relate une amende administrative de 805 millions d'euros imposée à Meta pour violation de données personnelles."
+    },
+    {
+      "hash": "315592e967636dac",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Droits de douane : l’UE « conteste fermement » le bien-fondé des nouvelles sanctions américaines",
+      "url": "https://www.lemonde.fr/international/article/2026/11/25/droits-de-douane-l-ue-conteste-fermement-le-bien-fonde-des-nouvelles-sanctions-americaines_6815121_3210.html",
+      "author": "",
+      "published": "2026-11-25T15:20:37",
+      "summary": "L’administration Trump a annoncé, mercredi, une nouvelle série de droits de douane visant les produits exportés par ses principaux partenaires commerciaux, dont l’UE, les accusant de soutenir leurs industries par des subventions qu’il juge illicites.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "a8e2e21cd96f2984",
+      "source_name": "Le Monde Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Les aides à l’apprentissage font l’objet de nombreux abus et fraudes, selon la Cour des comptes",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/25/les-aides-a-l-apprentissage-font-l-objet-de-nombreux-abus-et-fraudes-selon-la-cour-des-comptes_6815092_823448.html",
+      "author": "",
+      "published": "2026-11-25T12:05:37",
+      "summary": "Les magistrats de la rue Cambon soulignent, dans un rapport publié mercredi 25 novembre, les nombreuses défaillances autour du système, alors que le budget dévolu à l’apprentissage a bondi.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: fraude, fraud | +3 Presse | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
+      "hash": "499174662cb79505",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "L'inflation a atteint près de 77% sur un an dans le pays: pris en étau entre la guerre et les sanctions occidentales, l'Iran veut freiner la hausse des prix mais se dit prêt à résister au blocus américain",
+      "url": "https://www.bfmtv.com/economie/international/l-inflation-a-atteint-pres-de-77-sur-un-an-dans-le-pays-pris-en-etau-entre-la-guerre-et-les-sanctions-occidentales-l-iran-veut-freiner-l-inflation-mais-se-dit-pret-a-resister-au-blocus-americain_AV-202611250538.html",
+      "author": "",
+      "published": "2026-11-25T11:29:04",
+      "summary": "Le premier vice-président iranien Mohammad Reza Aref a affirmé que son pays ne craignait pas d'éventuelles conséquences du blocus naval américain, car les marchandises parviendraient à emprunter d'autres voies.",
+      "score": 34,
+      "score_breakdown": "+20 mots critiques: sanction | +3 Presse | ×1.5 (<24h)",
+      "doc_type": "SANCTION",
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "dbdcb67baa93c113",
@@ -4396,7 +4558,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4669f8016f4ca94c",
@@ -4432,7 +4594,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "6d3649ac1d76c372",
@@ -4450,7 +4612,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "778d2134e595d6e0",
@@ -4612,7 +4774,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "2c9c3d4cbb5b84aa",
@@ -4630,7 +4792,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de l'implémentation de l'IA dans la détection de la criminalité financière et la surveillance des transactions."
+      "ai_summary": "Cet article traite de la conformité financière en montrant l'importance des données pour moderniser la lutte contre la criminalité financière."
     },
     {
       "hash": "f8210384448d9e6e",
@@ -4648,7 +4810,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "La banque doit-elle signaler les comportements suspects et prévenir les clients en vertu des obligations de vigilance réglementaire en matière de lutte contre la fraude."
+      "ai_summary": "Cet article traite de la responsabilité des banques dans la détection des arnaques et du devoir de vigilance client, éléments clés de la conformité financière."
     },
     {
       "hash": "b54aa3e83c657c56",
@@ -4792,24 +4954,6 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
-    },
-    {
-      "hash": "1f534964226f619d",
-      "source_name": "Eurojust",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Eurojust gathers experts to exchange knowledge and strengthen cooperation on battlefield evidence",
-      "url": "https://www.eurojust.europa.eu/news/eurojust-gathers-experts-exchange-knowledge-and-strengthen-cooperation-battlefield-evidence",
-      "author": "",
-      "published": "2026-11-20T12:00:00",
-      "summary": "The collection and use of battlefield evidence is fast becoming a cornerstone of efforts to hold perpetrators of the most serious international crimes to account. On 18-19 November, Eurojust, in cooperation with the Genocide Prosecution Network, brought together terrorism and core international crimes practitioners from 34 countries to share expertise on how this evidence can be accessed, preserved, and successfully presented in court. Together they also explored the impact of new technologies, ",
-      "score": 25,
-      "score_breakdown": "+15 Source EU | +10 Géo EU: eurojust | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
       "ai_summary": "Hors périmètre compliance"
     },
     {
@@ -4828,25 +4972,25 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
-      "hash": "bfd179297cb4eed7",
-      "source_name": "EDPB - European Data Protection Board",
+      "hash": "1f534964226f619d",
+      "source_name": "Eurojust",
       "source_type": "rss",
       "category": "autorite_eu",
-      "title": "Italian DPA fines a company EUR 25 500 over employee access rights and corporate email accounts",
-      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-a-company-eur-25-500-over-employee-access-rights-and-corporate-email_en",
-      "author": "EDPB",
-      "published": "2026-11-18T12:00:00",
-      "summary": "Background informationDate of final decision: 20/10/2026National caseController: Techpartner S.r.l.Legal References: Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), Article 15 (Right to access by the data subject),&nbsp;Decision: Administrative fine, Compliance orderKey words: Fines, Basic principles, Data subjects rightsSummary of the DecisionOrigin of the caseT",
+      "title": "Eurojust gathers experts to exchange knowledge and strengthen cooperation on battlefield evidence",
+      "url": "https://www.eurojust.europa.eu/news/eurojust-gathers-experts-exchange-knowledge-and-strengthen-cooperation-battlefield-evidence",
+      "author": "",
+      "published": "2026-11-20T12:00:00",
+      "summary": "The collection and use of battlefield evidence is fast becoming a cornerstone of efforts to hold perpetrators of the most serious international crimes to account. On 18-19 November, Eurojust, in cooperation with the Genocide Prosecution Network, brought together terrorism and core international crimes practitioners from 34 countries to share expertise on how this evidence can be accessed, preserved, and successfully presented in court. Together they also explored the impact of new technologies, ",
       "score": 25,
-      "score_breakdown": "+10 mots forts: compliance | +15 Source EU | ×1.0 (7d)",
+      "score_breakdown": "+15 Source EU | +10 Géo EU: eurojust | ×1.0 (7d)",
       "doc_type": null,
-      "action_class": "action",
+      "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "4fc985cdcef25b18",
@@ -4860,6 +5004,24 @@
       "summary": "On 17-18 November 2026, specialised prosecutors and other experts from 34 countries, along with representatives of EU institutions, gathered at Eurojust for its annual meeting on counter-terrorism.",
       "score": 25,
       "score_breakdown": "+15 Source EU | +10 Géo EU: eurojust | ×1.0 (7d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "96f36337e37ff961",
+      "source_name": "Fintech Business Weekly",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Money20/20 Recap, “Debanking,” & Free Speech",
+      "url": "https://fintechbusinessweekly.substack.com/p/money2020-recap-debanking-and-free",
+      "author": "Jason Mikula",
+      "published": "2026-11-04T15:07:00",
+      "summary": "October&#8217;s biggest stories in banking, fintech & crypto",
+      "score": 25,
+      "score_breakdown": "+20 mots forts: crypto, eba | +10 mots moyens: fintech, bank | +3 Presse | +10 Géo EU: eba | ×0.6 (>14d)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
@@ -4936,7 +5098,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "5157522f7dad974e",
@@ -5026,7 +5188,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il fixe les priorités de supervision bancaire portant sur la gestion des risques, la gouvernance et la cybersécurité des banques."
+      "ai_summary": "Cet article concerne la conformité financière car il établit les priorités de supervision bancaire portant sur la gestion des risques, la gouvernance et la cybersécurité."
     },
     {
       "hash": "44a9b1480cff6aca",
@@ -5083,6 +5245,24 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une amende imposée par l'autorité de protection des données pour violations du RGPD."
     },
     {
+      "hash": "bfd179297cb4eed7",
+      "source_name": "EDPB - European Data Protection Board",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Italian DPA fines a company EUR 25 500 over employee access rights and corporate email accounts",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-a-company-eur-25-500-over-employee-access-rights-and-corporate-email_en",
+      "author": "EDPB",
+      "published": "2026-11-18T12:00:00",
+      "summary": "Background informationDate of final decision: 20/10/2026National caseController: Techpartner S.r.l.Legal References: Article 5 (Principles relating to processing of personal data), Article 12 (Transparent information, communication and modalities for the exercise of the rights of the data subject), Article 15 (Right to access by the data subject),&nbsp;Decision: Administrative fine, Compliance orderKey words: Fines, Basic principles, Data subjects rightsSummary of the DecisionOrigin of the caseT",
+      "score": 20,
+      "score_breakdown": "+10 mots forts: compliance | +15 Source EU | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "71b12bf2ffbc1cc8",
       "source_name": "EDPB - European Data Protection Board",
       "source_type": "rss",
@@ -5098,7 +5278,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il relate une amende administrative imposée pour non-respect du droit d'accès aux données personnelles sous le RGPD."
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "b22f737f56bec2e0",
@@ -5297,6 +5477,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Le FATF coordonne l'action mondiale contre la criminalité financière, incluant les actifs virtuels et la fraude, essentiel pour la conformité."
+    },
+    {
+      "hash": "428211a6b9e34da2",
+      "source_name": "Cass. - Fraude",
+      "source_type": "rss",
+      "category": "jurisprudence",
+      "title": "France, Tribunal judiciaire de Nîmes, Civi, 13 novembre 2026, 25/00091",
+      "url": "http://juricaf.org/arret/FRANCE-TRIBUNALJUDICIAIREDENIMES-20261113-2500091",
+      "author": "Civi",
+      "published": "2026-11-13T12:00:00",
+      "summary": "N° RG 25/00091 - N° Portalis DBX2-W-B7J-LC5I CIVI   TRIBUNAL JUDICIAIRE DE NIMES  COMMISSION D'INDEMNISATION DES VICTIMES D'INFRACTIONS   DÉCISION DU 13 Novembre 2026   DEMANDERESSE  Mme N, V, Y K née le Date naissance 1 1978 à Localité 2, demeurant Adresse 1 comparante    DÉFENDEUR   Monsieur le Directeur du Fonds de Garantie des Victimes des actes de terrorisme et d'autres infractions, Adresse 2  non comparant  COMPOSITION DE LA COMMISSION  Geoffroy TOILLIE  Christophe NOEL  Katia LOPEZ  Jacqu",
+      "score": 16,
+      "score_breakdown": "+20 Géo FR: france | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "22582c6d19a6f4ce",
@@ -5587,6 +5785,24 @@
       "ai_summary": "La titrisation et les exigences de capital sont des éléments clés de la conformité financière bancaire."
     },
     {
+      "hash": "9ff1a6460af32f00",
+      "source_name": "Fintech Business Weekly",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Kontigo’s License Suspended, Cutting The Venezuelan Crypto App Off From Country’s Banking System",
+      "url": "https://fintechbusinessweekly.substack.com/p/kontigos-license-suspended-cutting",
+      "author": "Jason Mikula",
+      "published": "2026-11-15T13:59:27",
+      "summary": "Synapse Founder&#8217;s New Startup Can&#8217;t Make Payroll After CEO Took $4.6M Loan For Luxury House, CNBC Reports",
+      "score": 14,
+      "score_breakdown": "+10 mots forts: crypto | +5 mots moyens: bank | +3 Presse | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "83543ef91eee9b8b",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -5692,7 +5908,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "e397f1c2f24d7c56",
@@ -5728,7 +5944,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de corruption transnationale, de poursuites judiciaires et de sanctions pénales liées aux violations de lois anti-corruption."
     },
     {
       "hash": "d25922952b5edd32",
@@ -6055,24 +6271,6 @@
       "ai_summary": "Cet article concerne les sanctions financières imposées par les États-Unis contre la Corée du Nord et la RDC via des mesures de conformité."
     },
     {
-      "hash": "1cbcf63d074d3a83",
-      "source_name": "OFAC - Recent Actions",
-      "source_type": "rss",
-      "category": "autorite_intl",
-      "title": "Issuance of Amended Frequently Asked Questions Regarding Blocking and Rejecting Transactions | Office of Foreign Assets Control",
-      "url": "https://ofac.treasury.gov/recent-actions/20261026",
-      "author": "Office of Foreign Assets Control | U.S. Department of the Treasury",
-      "published": "2026-10-26T12:00:00",
-      "summary": "",
-      "score": 7,
-      "score_breakdown": "+5 Source Intl | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne les mesures de conformité aux sanctions internationales et les obligations de blocage/rejet de transactions."
-    },
-    {
       "hash": "15ac30b483f05dff",
       "source_name": "Commission EU Finance (X)",
       "source_type": "rss",
@@ -6322,10 +6520,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des conséquences transfrontalières d'une affaire de corruption brésilienne sur les enquêtes et poursuites internationales."
     }
   ],
-  "last_update": "2026-11-25T08:56:08.296339+00:00",
+  "last_update": "2026-11-25T16:28:52.218459+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
