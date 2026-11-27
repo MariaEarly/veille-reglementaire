@@ -724,7 +724,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite des directives sur l'externalisation des obligations de lutte anti-blanchiment."
     },
     {
       "hash": "7a789920d48095b4",
@@ -760,7 +760,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Ce décret concerne la conformité financière car il régit les obligations de déclaration et la communication de données financières des entreprises par la Banque de France aux organismes d'assurance."
+      "ai_summary": "Ce décret concerne la conformité financière car il régit la communication de données financières d'entreprises par la Banque de France aux organismes d'assurance et sociétés de gestion, établissant des obligations déclaratives."
     },
     {
       "hash": "24c9e432b9fac063",
@@ -850,7 +850,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet arrêté concerne la lutte contre le financement du terrorisme et les sanctions financières en application du code monétaire et financier."
     },
     {
       "hash": "b0db1a8336e66501",
@@ -868,7 +868,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la supervision de l'innovation fintech et le cadre réglementaire que la Banque de France met en place pour assurer la conformité du secteur."
+      "ai_summary": "Le forum traite de la supervision réglementaire de l'innovation fintech, donc de conformité prudentielle et de respect des normes financières."
     },
     {
       "hash": "4c617b9cc97d96a9",
@@ -886,7 +886,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des recommandations de gouvernance d'entreprise et de rémunération des dirigeants de sociétés cotées."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des recommandations de gouvernance et de rémunération des dirigeants pour les sociétés cotées."
     },
     {
       "hash": "1577af11a19f48bc",
@@ -1390,7 +1390,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite de DORA, la réglementation européenne sur la résilience opérationnelle numérique des établissements financiers."
+      "ai_summary": "Cet article concerne DORA, régulation financière européenne sur la résilience opérationnelle des établissements financiers."
     },
     {
       "hash": "cbba1ae098662fc1",
@@ -1516,7 +1516,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des cadres réglementaires irlandais, de la lutte contre la criminalité financière, des sanctions et des risques de conformité accrus pour les entreprises."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la lutte contre la criminalité financière, les sanctions et les risques de conformité réglementaire en Irlande."
     },
     {
       "hash": "0ff14730eba1dd83",
@@ -1681,40 +1681,22 @@
       "ai_summary": "Ce décret abroge une réglementation relative aux dispositions économiques et financières, concernant la conformité réglementaire financière."
     },
     {
-      "hash": "fb3734e10977ad34",
-      "source_name": "JORF - Blanchiment",
+      "hash": "6fd5a9831a0873e4",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
       "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Arrêté du 23 octobre 2026 portant nomination à la commission de la lutte contre la fraude et contre le blanchiment des capitaux de l'Autorité nationale des jeux",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055020987",
-      "author": "Ministère de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique",
-      "published": "2026-10-28T00:00:00",
-      "summary": "Par arrêté du ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique en date du 23 octobre 2026 :M. Guillaume LESQUOY, chef du bureau de la lutte contre la criminalité financière de la direction générale du Trésor, est nommé membre titulaire de la commission de la lutte contre la fraude et contre le blanchiment des capitaux en tant que représentant du ministre de l'économie, des finances et de la souveraineté industrielle, énergétique et numérique.M. Pa",
-      "score": 67,
-      "score_breakdown": "+20 mots critiques: blanchiment, fraude, fraud | +25 Source FR | ×1.5 (<24h)",
-      "doc_type": "ARRÊTÉ",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il nomme un responsable à la commission de lutte contre la fraude et le blanchiment des capitaux."
-    },
-    {
-      "hash": "4c84d4d397bf884b",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Conférence des présidents",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055021122",
+      "category": "autorite_eu",
+      "title": "Strengthening FIU cooperation: AMLA hosts Interoperability Working Group for EU FIUs",
+      "url": "https://www.amla.europa.eu/strengthening-fiu-cooperation-amla-hosts-interoperability-working-group-eu-fius_en",
       "author": "",
-      "published": "2026-10-28T00:00:00",
-      "summary": "Assemblée nationaleSession ordinaire 2026-2027Ordre du jour de l'Assemblée nationale(Conférence des présidents du mardi 27 octobre 2026)DATESMATINAPRÈS-MIDISOIRSemaine du GouvernementOCTOBREMARDI 27A 15 heures :- Questions au Gouvernement.- Suite Pt loi de finances pour 2027 (première partie) (3210, 3291).A 21 h 30 :- Suite odj de l'après-midi.MERCREDI 28A 14 heures :- Questions au Gouvernement.A 15 heures :- Suite odj de la veille.A 17 heures :- Déclaration du Gouvernement, suivie d'un débat, s",
+      "published": "2026-11-26T17:12:49",
+      "summary": "From 23 to 25 November 2026, AMLA welcomed the Interoperability Working Group to its premises in Frankfurt am Main. The meeting brought together Financial Intelligence Units (FIUs) from 12 Member States, the European Commission and the United Nations.",
       "score": 67,
-      "score_breakdown": "+10 mots forts: esma | +25 Source FR | +10 Géo EU: esma | ×1.5 (<24h)",
+      "score_breakdown": "+20 mots forts: aml, amla | +15 Source EU | +10 Géo EU: european commission, amla, member state | ×1.5 (<24h)",
       "doc_type": null,
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il mentionne l'examen de la loi de finances pour 2027 à l'Assemblée nationale."
+      "ai_summary": null
     },
     {
       "hash": "c3c26308c083bc0d",
@@ -1732,7 +1714,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite de l'harmonisation des règles de défaut bancaire dans l'UE/EEE."
     },
     {
       "hash": "4c12434a550008af",
@@ -1768,7 +1750,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "L'article concerne la conformité financière car il traite de la résilience bancaire, des risques de cybersécurité et de la surveillance réglementaire par l'EBA."
+      "ai_summary": "Cet article concerne la conformité financière car il traite de la résilience bancaire, des risques de cybersécurité et de la surveillance réglementaire par l'EBA."
     },
     {
       "hash": "19fbbceaf5e2eb5c",
@@ -1966,7 +1948,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "90634515714f5113",
@@ -1984,7 +1966,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité réglementaire des produits (normes de sécurité jouets) mais ne relève pas de la conformité financière.\n\nHors périmètre compliance"
     },
     {
       "hash": "3179745e9f4858dd",
@@ -2002,7 +1984,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car les sanctions internationales sont un élément clé de la conformité réglementaire et anti-blanchiment."
     },
     {
       "hash": "862230aaeb2cabb4",
@@ -2039,6 +2021,24 @@
       "status": "new",
       "early_brief": false,
       "ai_summary": "Fnac Darty sanctionné pour violation de la protection des données personnelles, relevant de la conformité réglementaire et gouvernance."
+    },
+    {
+      "hash": "45770bc74bf36a4d",
+      "source_name": "EBA - European Banking Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "EBA E-mail alert 26 November, 2026",
+      "url": "https://www.eba.europa.eu/node/20304",
+      "author": "Anonymous",
+      "published": "2026-11-26T16:00:03",
+      "summary": "EBA E-mail alert 26 November, 2026\n\n  \n    Date\n          26/11/2026\n\n      \n\nAnonymous (not verified)\n\nThu, 11/26/2026 - 17:00\n\n\n            \n\n      \n  \n    News &amp; Press\n          The EBA follow-up review confirms high level of supervisory convergence in applying default rules across the EU/EEA \n      ",
+      "score": 60,
+      "score_breakdown": "+10 mots forts: eba | +5 mots moyens: supervisory | +15 Source EU | +10 Géo EU: eba | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "adaef5d777e73aec",
@@ -2110,7 +2110,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des exigences réglementaires de l'EBA sur les risques de change et la supervision des banques étrangères dans l'UE."
+      "ai_summary": "Cet article concerne la conformité financière car l'EBA surveille la part de marché des banques étrangères et les risques de change, éléments clés de la réglementation prudentielle bancaire."
     },
     {
       "hash": "6f92e7c0254b4bd9",
@@ -2488,7 +2488,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "32a0b4a6dce186c3",
@@ -2506,7 +2506,25 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet arrêté régule la constitution des garanties financières requises pour les exploitations minières, assurant la conformité des obligations de sécurisation financière."
+      "ai_summary": "Cet arrêté définit les modalités de constitution des garanties financières requises pour les exploitations minières, relevant de la conformité financière réglementaire."
+    },
+    {
+      "hash": "ddc2615207b1f495",
+      "source_name": "AMLA - Anti-Money Laundering Authority",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Getting ready for AI: Executive Director Nicolas Vasse at ESMA Data Day 2026",
+      "url": "https://www.amla.europa.eu/news-media/news-articles/getting-ready-ai-executive-director-nicolas-vasse-esma-data-day-2026_en",
+      "author": "",
+      "published": "2026-11-26T16:54:51",
+      "summary": "Speaking alongside ESMA Executive Director Natasha Cazenave at ESMA Data Day 2026, Vasse addressed how the work of EU supervisors can benefit from new technologies.",
+      "score": 52,
+      "score_breakdown": "+10 mots forts: esma | +15 Source EU | +10 Géo EU: esma | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
     },
     {
       "hash": "c00679fa60a49c78",
@@ -2830,6 +2848,24 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
+      "ai_summary": "Cet article concerne la conformité financière car les sanctions contre la Russie incluent des mesures de gel d'avoirs et de restrictions financières envers les entités liées à l'agression."
+    },
+    {
+      "hash": "f3d94a304b5fd120",
+      "source_name": "BFM Business Économie",
+      "source_type": "press",
+      "category": "presse",
+      "title": "Nvidia suspend ses livraisons en Asie du Sud-Est – 26/11",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/nvidia-suspend-ses-livraisons-en-asie-du-sud-est-26-11_EN-202611260943.html",
+      "author": "",
+      "published": "2026-11-26T19:16:41",
+      "summary": "Ce jeudi 26 novembre, Frédéric Simottel a reçu Jean Schmitt, président de Jolt Capital, Didier Sanz, journaliste tech, et Jérôme Marin, fondateur de Cafétech.fr. Ils se sont penchés sur la suspension des livraisons de serveurs d'IA de Nvidia en Asie du Sud-Est, l'opposition des Pays-Bas à l'embargo américain sur ASML et la volonté d'Ubisoft d'imposer l'IA à ses équipes, dans l'émission Tech & Co, la quotidienne, sur BFM Business. Retrouvez l'émission du lundi au jeudi et réécoutez la en podcast.",
+      "score": 49,
+      "score_breakdown": "+20 mots critiques: embargo | +3 Presse | +10 Géo EU: pays-bas | ×1.5 (<24h)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
       "ai_summary": null
     },
     {
@@ -3013,24 +3049,6 @@
       "ai_summary": "Cet article traite du framework COSO 2026 qui fournit un langage commun pour la gouvernance et la conformité financière des organisations."
     },
     {
-      "hash": "3370be9543fed938",
-      "source_name": "Global Investigations Review",
-      "source_type": "press",
-      "category": "presse",
-      "title": "US fines networking company over Russia sanctions, export breaches",
-      "url": "https://globalinvestigationsreview.com/just-sanctions/article/us-fines-networking-company-over-russia-sanctions-export-breaches",
-      "author": "Duncan Randall",
-      "published": "2026-10-27T22:41:25",
-      "summary": "After cooperating with investigators and making compliance fixes, Extreme Networks will cough up roughly $2 million in fines and forfeiture and avoid criminal prosecution for alleged sales to a blacklisted Russian defence company.",
-      "score": 49,
-      "score_breakdown": "+20 mots critiques: sanction, blacklist | +10 mots forts: compliance | +3 Presse | ×1.5 (<24h)",
-      "doc_type": "SANCTION",
-      "action_class": "action",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du respect des sanctions internationales contre la Russie et des violations d'exportation."
-    },
-    {
       "hash": "c7230bb414d1405c",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3100,7 +3118,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "0579ec116b779b9b",
@@ -3136,7 +3154,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "L'article concerne la conformité financière car il traite de l'harmonisation supervisoire de la définition du défaut bancaire dans l'UE/EEE, essentielle pour la conformité réglementaire."
     },
     {
       "hash": "75dc00fe08832afe",
@@ -3154,7 +3172,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1f8f4a4b2eef4230",
@@ -3172,7 +3190,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "831e2f48be74c236",
@@ -3373,24 +3391,6 @@
       "ai_summary": "L'IA en banque soulève des enjeux de conformité sur la gouvernance des décisions automatisées et le contrôle des risques réglementaires."
     },
     {
-      "hash": "d522b4a8cc0d8543",
-      "source_name": "AMF France (X)",
-      "source_type": "rss",
-      "category": "social",
-      "title": "[#Médiation] Mandat de gestion : une plus-value manquée ne caractérise pas, à elle seule, un manquement du gestionnaire. Le décryptage du médiateur ➡️  #Epargne",
-      "url": "https://x.com/AMF_actu/status/2115122055872200870",
-      "author": "@AMF_actu",
-      "published": "2026-10-27T16:42:00",
-      "summary": "[ #Médiation] Mandat de gestion : une plus-value manquée ne caractérise pas, à elle seule, un manquement du gestionnaire.Le décryptage du médiateur ➡️  cutt.ly/5yYlDkux #Epargne— AMF (@AMF_actu) Oct 27, 2026",
-      "score": 45,
-      "score_breakdown": "+10 mots forts: amf | +20 Géo FR: amf | ×1.5 (<24h)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Cet article traite de la responsabilité des gestionnaires de portefeuille selon les normes de conformité et les obligations de gestion mandatée."
-    },
-    {
       "hash": "0a240eed97e76bda",
       "source_name": "Global Investigations Review",
       "source_type": "press",
@@ -3424,7 +3424,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "3658174ad597c87d",
@@ -3478,7 +3478,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des risques de cybersécurité, de protection des données clients et de fraude financière, éléments critiques de la conformité bancaire."
+      "ai_summary": "Les cyberattaques compromettent la sécurité des données financières et exposent les banques à des risques de fraude, relevant de la conformité."
     },
     {
       "hash": "5de0eb1257dec777",
@@ -4072,7 +4072,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "ef000e049d4ba28b",
@@ -4090,7 +4090,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Meta a été condamnée à une amende de 805 millions d'euros pour accès illégal aux galeries photo, violation de conformité RGPD et de protection des données."
+      "ai_summary": "Cet article concerne la conformité financière car Meta a reçu une amende de 805 millions d'euros pour violation de la protection des données, illustrant les risques financiers réglementaires."
     },
     {
       "hash": "b151e27ea1cf4f10",
@@ -4108,7 +4108,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Cet article concerne la conformité financière car il traite du respect obligatoire du Smic et des obligations légales de rémunération que les entreprises doivent respecter."
     },
     {
       "hash": "75919988dbedfdde",
@@ -4144,7 +4144,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car les droits de douane impliquent le respect des réglementations commerciales internationales et des obligations de conformité tarifaire."
+      "ai_summary": "Les droits de douane et les accusations de subventions illicites relèvent du commerce international, pas de la conformité financière interne des entreprises.\n\nHors périmètre compliance"
     },
     {
       "hash": "a8e2e21cd96f2984",
@@ -4504,7 +4504,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite des violations de sanctions commerciales et des mesures de conformité que les entreprises doivent respecter."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des violations de sanctions internationales et de la fraude commerciale."
     },
     {
       "hash": "9f1e19054dd14f9a",
@@ -4576,7 +4576,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "4669f8016f4ca94c",
@@ -4738,7 +4738,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "2c9c3d4cbb5b84aa",
@@ -4774,7 +4774,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il traite du devoir de vigilance bancaire face aux fraudes et de la responsabilité des établissements."
+      "ai_summary": "Cet article concerne la conformité financière car il traite du devoir de vigilance des banques face aux fraudes et de leur responsabilité de détection d'anomalies."
     },
     {
       "hash": "b54aa3e83c657c56",
@@ -4903,24 +4903,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite des décisions du FATF sur la lutte anti-blanchiment, les actifs virtuels et la fraude."
     },
     {
-      "hash": "9aa0c9ac9ce10f2d",
-      "source_name": "JORF - Financier",
-      "source_type": "rss",
-      "category": "autorite_fr",
-      "title": "Recommandation n° 2026-02 du 4 novembre 2026 de l'Autorité de régulation de la communication audiovisuelle et numérique aux services de communication audiovisuelle en vue de l'élection du Président de la République",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055112592",
-      "author": "Autorité de régulation de la communication audiovisuelle et numérique",
-      "published": "2026-11-20T00:00:00",
-      "summary": "Après en avoir délibéré,Adopte la recommandation suivante :Le Conseil supérieur de l'audiovisuel a adopté le 4 janvier 2011 une délibération applicable aux services de radio et de télévision en période électorale. La présente recommandation complète cette délibération. Par dérogation au premier alinéa de l'article 2 de la délibération du 4 janvier 2011, celle-ci s'applique à compter de la date d'entrée en vigueur de la présente recommandation. La présente recommandation s'applique à l'ensemble d",
-      "score": 25,
-      "score_breakdown": "+25 Source FR | ×1.0 (7d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "1f534964226f619d",
       "source_name": "Eurojust",
       "source_type": "rss",
@@ -4936,7 +4918,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "6d3649ac1d76c372",
@@ -4954,7 +4936,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "d3064617ca47d8c7",
@@ -5026,7 +5008,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "5157522f7dad974e",
@@ -5116,7 +5098,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article concerne la conformité financière car il établit les priorités de supervision bancaire portant sur la gestion des risques, la gouvernance et la cybersécurité."
+      "ai_summary": "Les priorités de supervision bancaire concernent la conformité financière via le renforcement de la résilience, la gouvernance et la gestion des risques."
     },
     {
       "hash": "44a9b1480cff6aca",
@@ -5155,6 +5137,24 @@
       "ai_summary": "Cet article concerne la simplification de la réglementation bancaire et de la supervision, domaines clés de la conformité financière."
     },
     {
+      "hash": "9aa0c9ac9ce10f2d",
+      "source_name": "JORF - Financier",
+      "source_type": "rss",
+      "category": "autorite_fr",
+      "title": "Recommandation n° 2026-02 du 4 novembre 2026 de l'Autorité de régulation de la communication audiovisuelle et numérique aux services de communication audiovisuelle en vue de l'élection du Président de la République",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055112592",
+      "author": "Autorité de régulation de la communication audiovisuelle et numérique",
+      "published": "2026-11-20T00:00:00",
+      "summary": "Après en avoir délibéré,Adopte la recommandation suivante :Le Conseil supérieur de l'audiovisuel a adopté le 4 janvier 2011 une délibération applicable aux services de radio et de télévision en période électorale. La présente recommandation complète cette délibération. Par dérogation au premier alinéa de l'article 2 de la délibération du 4 janvier 2011, celle-ci s'applique à compter de la date d'entrée en vigueur de la présente recommandation. La présente recommandation s'applique à l'ensemble d",
+      "score": 20,
+      "score_breakdown": "+25 Source FR | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": null
+    },
+    {
       "hash": "aefbc9fff1892d18",
       "source_name": "EDPB - European Data Protection Board",
       "source_type": "rss",
@@ -5173,24 +5173,6 @@
       "ai_summary": "Cet article concerne la conformité financière car il traite d'une amende imposée par l'autorité de protection des données pour violations du RGPD."
     },
     {
-      "hash": "4fc985cdcef25b18",
-      "source_name": "Eurojust",
-      "source_type": "rss",
-      "category": "autorite_eu",
-      "title": "Practitioners exchange expertise on the response to evolving threats at Eurojust’s annual counter-terrorism meeting",
-      "url": "https://www.eurojust.europa.eu/news/practitioners-exchange-expertise-response-evolving-threats-eurojusts-annual-counter-terrorism",
-      "author": "",
-      "published": "2026-11-18T12:00:00",
-      "summary": "On 17-18 November 2026, specialised prosecutors and other experts from 34 countries, along with representatives of EU institutions, gathered at Eurojust for its annual meeting on counter-terrorism.",
-      "score": 20,
-      "score_breakdown": "+15 Source EU | +10 Géo EU: eurojust | ×0.8 (14d)",
-      "doc_type": null,
-      "action_class": "info",
-      "status": "new",
-      "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
-    },
-    {
       "hash": "bfd179297cb4eed7",
       "source_name": "EDPB - European Data Protection Board",
       "source_type": "rss",
@@ -5204,6 +5186,24 @@
       "score_breakdown": "+10 mots forts: compliance | +15 Source EU | ×0.8 (14d)",
       "doc_type": null,
       "action_class": "action",
+      "status": "new",
+      "early_brief": false,
+      "ai_summary": "Hors périmètre compliance"
+    },
+    {
+      "hash": "4fc985cdcef25b18",
+      "source_name": "Eurojust",
+      "source_type": "rss",
+      "category": "autorite_eu",
+      "title": "Practitioners exchange expertise on the response to evolving threats at Eurojust’s annual counter-terrorism meeting",
+      "url": "https://www.eurojust.europa.eu/news/practitioners-exchange-expertise-response-evolving-threats-eurojusts-annual-counter-terrorism",
+      "author": "",
+      "published": "2026-11-18T12:00:00",
+      "summary": "On 17-18 November 2026, specialised prosecutors and other experts from 34 countries, along with representatives of EU institutions, gathered at Eurojust for its annual meeting on counter-terrorism.",
+      "score": 20,
+      "score_breakdown": "+15 Source EU | +10 Géo EU: eurojust | ×0.8 (14d)",
+      "doc_type": null,
+      "action_class": "info",
       "status": "new",
       "early_brief": false,
       "ai_summary": null
@@ -5224,7 +5224,7 @@
       "action_class": "action",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "500c2dd3054da1c9",
@@ -5530,7 +5530,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Hors périmètre compliance"
+      "ai_summary": null
     },
     {
       "hash": "f2833feb99211189",
@@ -5800,7 +5800,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "e397f1c2f24d7c56",
@@ -6268,7 +6268,7 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": null
+      "ai_summary": "Hors périmètre compliance"
     },
     {
       "hash": "1a3184fae0346d3c",
@@ -6430,10 +6430,10 @@
       "action_class": "info",
       "status": "new",
       "early_brief": false,
-      "ai_summary": "Cet article traite de la conformité financière car il examine les conséquences internationales d'une affaire de corruption brésilienne sur les enquêtes et poursuites mondiales."
+      "ai_summary": "Cet article concerne la conformité financière car il traite des conséquences juridiques d'une affaire de corruption brésilienne sur les enquêtes et poursuites internationales."
     }
   ],
-  "last_update": "2026-11-26T21:47:05.016988+00:00",
+  "last_update": "2026-11-27T01:19:09.285217+00:00",
   "last_updated": "2026-06-09T12:16:04.020884",
   "last_fetch": "2026-06-09T12:16:04.020884",
   "generated_at": "2026-06-09T12:16:04.020884"
